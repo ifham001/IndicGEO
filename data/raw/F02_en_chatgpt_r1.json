@@ -1,0 +1,425 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 1,
+  "promptText": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+  "cellId": "F02_en_chatgpt_r1",
+  "startedAt": "2026-08-14T12:48:49.633Z",
+  "finishedAt": "2026-08-14T12:49:56.133Z",
+  "durationMs": 66500,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "If your budget is **strictly under ₹3,000**, I’d prioritize ASICS, Skechers, and Puma over very cheap generic shoes. Current listings show several good options in the ₹1,700–₹2,500 range. [urbanstylefootwear.com](https://urbanstylefootwear.com/best-running-shoes-under-3000-india/?utm_source=chatgpt.com)\n\n### My picks\n\n### [ASICS Men's Jolt 5 Running Shoes]()\n*₹2,419*\n\n### [Skechers Men's Go Run Consistent Running Shoes]()\n*₹2,309*\n\n### [Puma Men's Scorch Whizz FusionComfort Running Shoes]()\n*₹2,104*\n\n### [ASICS Jolt 4 Running Shoes]()\n*₹2,499*\n\n### [Adidas Men's Adivat M Running Shoes]()\n*₹2,699*\n\n**1. ASICS Jolt 5 — my overall pick (~₹2,419)**  \nBest if you're actually running regularly—say **3–10 km** at a time. It has a strong rating and is a safer bet than ultra-cheap budget shoes.\n\n**2. Skechers Go Run Consistent (~₹2,309)**  \nPick this if **comfort is your priority**, especially for a mix of running, walking and gym use. Current listing has a 4.5/5 rating from 488 reviews.\n\n**3. Puma Scorch Whizz FusionComfort (~₹2,104)**  \nA good alternative if you prefer Puma and want to stay around ₹2,000.\n\n**4. ASICS Jolt 4 (~₹2,499)**  \nStill a very solid budget running shoe; worth considering if the Jolt 5 isn't available in your size.\n\n**5. Adidas Adivat M (~₹2,699)**  \nGood if you specifically want Adidas, although I'd take the ASICS Jolt over it for running.\n\n### What I'd buy\n\n- 🏃 **Running 3–5 days/week:** **ASICS Jolt 5**\n- 🚶 **Running + lots of walking:** **Skechers Go Run Consistent**\n- 💰 **Want to spend ~₹2,000:** **Puma Scorch Whizz**\n- 👟 **Mostly casual/gym use:** Adidas Adivat M\n\nPrices fluctuate with size/color and sales, so check your exact size before ordering. Also, for genuine running rather than just casual use, I'd avoid the ₹700–₹1,000 options unless your running is very occasional.\n\nIf you tell me **your gender, shoe size, approximate weight, and how many km you run (e.g. 3 km/day or 10 km/week)**, I can narrow this to **the best 2–3 choices for you**.",
+  "citations": [
+   {
+    "url": "https://urbanstylefootwear.com/best-running-shoes-under-3000-india/?utm_source=chatgpt.com",
+    "source_name": "Urban Style Footwear",
+    "position": 1
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "66.1819 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141248-2163-0629-0000-1dc80999947e",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "66.1420 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=I%20want%20to%20buy%20running%20shoes%20under%20%E2%82%B93000%20in%20India.%20Which%20ones%20should%20I%20get%3F&hints=search",
+      "datetime": "2026-08-14 12:49:55 +00:00",
+      "markdown": "If your budget is **strictly under ₹3,000**, I’d prioritize ASICS, Skechers, and Puma over very cheap generic shoes. Current listings show several good options in the ₹1,700–₹2,500 range. [urbanstylefootwear.com](https://urbanstylefootwear.com/best-running-shoes-under-3000-india/?utm_source=chatgpt.com)\n\n### My picks\n\n### [ASICS Men's Jolt 5 Running Shoes]()\n*₹2,419*\n\n### [Skechers Men's Go Run Consistent Running Shoes]()\n*₹2,309*\n\n### [Puma Men's Scorch Whizz FusionComfort Running Shoes]()\n*₹2,104*\n\n### [ASICS Jolt 4 Running Shoes]()\n*₹2,499*\n\n### [Adidas Men's Adivat M Running Shoes]()\n*₹2,699*\n\n**1. ASICS Jolt 5 — my overall pick (~₹2,419)**  \nBest if you're actually running regularly—say **3–10 km** at a time. It has a strong rating and is a safer bet than ultra-cheap budget shoes.\n\n**2. Skechers Go Run Consistent (~₹2,309)**  \nPick this if **comfort is your priority**, especially for a mix of running, walking and gym use. Current listing has a 4.5/5 rating from 488 reviews.\n\n**3. Puma Scorch Whizz FusionComfort (~₹2,104)**  \nA good alternative if you prefer Puma and want to stay around ₹2,000.\n\n**4. ASICS Jolt 4 (~₹2,499)**  \nStill a very solid budget running shoe; worth considering if the Jolt 5 isn't available in your size.\n\n**5. Adidas Adivat M (~₹2,699)**  \nGood if you specifically want Adidas, although I'd take the ASICS Jolt over it for running.\n\n### What I'd buy\n\n- 🏃 **Running 3–5 days/week:** **ASICS Jolt 5**\n- 🚶 **Running + lots of walking:** **Skechers Go Run Consistent**\n- 💰 **Want to spend ~₹2,000:** **Puma Scorch Whizz**\n- 👟 **Mostly casual/gym use:** Adidas Adivat M\n\nPrices fluctuate with size/color and sales, so check your exact size before ordering. Also, for genuine running rather than just casual use, I'd avoid the ₹700–₹1,000 options unless your running is very occasional.\n\nIf you tell me **your gender, shoe size, approximate weight, and how many km you run (e.g. 3 km/day or 10 km/week)**, I can narrow this to **the best 2–3 choices for you**.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://buyrn.in/article/best-running-shoes-under-3000-india?utm_source=chatgpt.com",
+        "domain": "buyrn.in",
+        "title": "Best Running Shoes Under ₹3,000 in India (2026) | Buyrn",
+        "description": "BEST RUNNING SHOES UNDER ₹3,000 IN INDIA (2026)  footwear· 15 Jan 2024· Updated 11 Jul 2026· 7 min read  By the Buyrn Editorial Team·Independently researched from manufacturer specs & public user rev...",
+        "breadcrumb": "buyrn.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicdrop.in/drops/best-running-shoes-under-3000?utm_source=chatgpt.com",
+        "domain": "magicdrop.in",
+        "title": "Best Running Shoes Under 3000 India 2026 | Magicdrop.in | MagicDrop",
+        "description": "BEST RUNNING SHOES UNDER 3000 IN INDIA 2026 — PRICE, DEALS & COMPARISON  📢 Affiliate links — we may earn a commission at no extra cost to you. Read our affiliate disclosure details  The best running...",
+        "breadcrumb": "magicdrop.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://zoutons.com/news/adidas-eoss-running-shoes-under-3000-summer-marathons-2026?utm_source=chatgpt.com",
+        "domain": "zoutons.com",
+        "title": "Adidas End of Season Sale May 2026 — 14 Best Running Shoes Under ₹3,000 for Summer Marathons",
+        "description": "ADIDAS END OF SEASON SALE MAY 2026 — 14 BEST RUNNING SHOES UNDER ₹3,000 FOR SUMMER MARATHONS  ✍️ Researched by Zoutons editors 🕐 Updated: May 2026 🔗 Affiliate links included  Marathon season in India...",
+        "breadcrumb": "zoutons.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://zoutons.com/news/adidas-india-outlet-sale-top-shoes-under-3000-june-2026?utm_source=chatgpt.com",
+        "domain": "zoutons.com",
+        "title": "Adidas India Outlet Sale June 2026: Best Shoes Under ₹3000",
+        "description": "Prices and availability can change without notice during active sale events, so act fast. Use the Zoutons CODE button on any card to check for additional Adidas coupons on top of the outlet discount...",
+        "breadcrumb": "zoutons.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://salugaishop.com/best-running-shoes-under-2000-india-2026/?utm_source=chatgpt.com",
+        "domain": "salugaishop.com",
+        "title": "7 Best Running Shoes Under ₹2,000 in India (2026) – Gym & Daily Use",
+        "description": "7 BEST RUNNING SHOES UNDER ₹2,000 IN INDIA (FEB 2026) – FOR GYM & DAILY USE  * February 16, 2026February 16, 2026  Finding good running shoes under ₹2,000 used to be tough. But in 2026, Indian brands...",
+        "breadcrumb": "salugaishop.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.rightsofemployees.com/amazon-prime-day-2026-best-running-shoes-under-rs-3000-from-puma-adidas-nike/?amp=1&utm_source=chatgpt.com",
+        "domain": "www.rightsofemployees.com",
+        "title": "Best Running Shoes Under Rs 3,000: Amazon Prime Day",
+        "description": "AMAZON PRIME DAY 2026: BEST RUNNING SHOES UNDER RS 3,000 FROM PUMA, ADIDAS & NIKE  By  Chandani  -  July 6, 2026  UPGRADE YOUR DAILY MILES WITHOUT BREAKING THE BANK. AMAZON PRIME DAY SERVES UP MASSIV...",
+        "breadcrumb": "rightsofemployees.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://shopperluxe.com/blog/best-running-shoes-under-2000-india-2026?utm_source=chatgpt.com",
+        "domain": "shopperluxe.com",
+        "title": "7 Best Running Shoes Under ₹2000 in India — Tested & Ranked | ShopperLuxe",
+        "description": "7 BEST RUNNING SHOES UNDER ₹2000 IN INDIA — TESTED & RANKED  We tested 12 running shoes under ₹2000 from Campus, Reebok, and more. These 7 picks deliver real comfort, grip, and value for Indian roads...",
+        "breadcrumb": "shopperluxe.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://urbanstylefootwear.com/best-running-shoes-india/?utm_source=chatgpt.com",
+        "domain": "urbanstylefootwear.com",
+        "title": "Best Running Shoes India 2026: 9 Top Picks Expert Tested",
+        "description": "ImageBy Abdul / May 9, 2026  Best Running Shoes India 2026: 9 Expert-Tested Picks  Home › Blog › Best Running Shoes India 2026  🏃 Pillar Guide ✓ Retailer Verified Updated July 2026 By Abdul · 20+ Yea...",
+        "breadcrumb": "urbanstylefootwear.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://urbanstylefootwear.com/best-sports-shoes-india/?utm_source=chatgpt.com",
+        "domain": "urbanstylefootwear.com",
+        "title": "Best Sports Shoes India 2026 – Top Athletic Shoes Reviewed by Shop Owner",
+        "description": "ImageBy Abdul / April 27, 2026  BEST SPORTS SHOES IN INDIA 2026 (TESTED & REVIEWED BY A REAL SHOP OWNER)  Image  Last Updated: April 2026  30-SECOND SUMMARY  ⚡ 30-SECOND SUMMARY TL;DR  No time to rea...",
+        "breadcrumb": "urbanstylefootwear.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://urbanstylefootwear.com/best-running-shoes-under-2000-india/?utm_source=chatgpt.com",
+        "domain": "urbanstylefootwear.com",
+        "title": "Best Running Shoes Under ₹2000 in India (2026) - Top Picks",
+        "description": "ImageBy Abdul / February 14, 2026  BEST RUNNING SHOES UNDER 2000 IN INDIA (2026 REVIEW: RETAILER’S CHOICE)  By the Urban Style Footwear Team | Updated July 2026  ⚡ QUICK ANSWER – BEST RUNNING SHOES U...",
+        "breadcrumb": "urbanstylefootwear.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/i-would-happily-buy-any-of-these-8-sneakers-under-rs-3000-for-their-comfort-and-top-ratings-101783007894573.html?utm_source=chatgpt.com",
+        "domain": "www.hindustantimes.com",
+        "title": "I would happily buy any of these 8 sneakers under ₹3000 for their comfort and top ratings | Fashion Trends",
+        "description": "I WOULD HAPPILY BUY ANY OF THESE 8 SNEAKERS UNDER ₹3000 FOR THEIR COMFORT AND TOP RATINGS  I FOUND EIGHT SNEAKERS UNDER ₹3000 THAT FEEL COMFORTABLE, LOOK STYLISH AND HAVE EARNED EXCELLENT RATINGS FRO...",
+        "breadcrumb": "hindustantimes.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Best Running Shoes Under ₹3000 India 2026 (5 Tested Picks)",
+        "snippet": null,
+        "domain": "urbanstylefootwear.com",
+        "url": "https://urbanstylefootwear.com/best-running-shoes-under-3000-india/?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Urban Style Footwear",
+        "publication_date": "2026-05-07 00:00:00 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best running shoes under ₹3000 India 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "If your budget is **strictly under ₹3,000**, I’d prioritize ASICS, Skechers, and Puma over very cheap generic shoes. Current listings show several good options in the ₹1,700–₹2,500 range. [urbanstylefootwear.com](https://urbanstylefootwear.com/best-running-shoes-under-3000-india/?utm_source=chatgpt.com)\n\n### My picks\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Running Shoes Under ₹3000 India 2026 (5 Tested Picks)",
+          "snippet": null,
+          "domain": "urbanstylefootwear.com",
+          "url": "https://urbanstylefootwear.com/best-running-shoes-under-3000-india/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Urban Style Footwear",
+          "publication_date": "2026-05-07 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10906541360107235420",
+          "merchants": "Flipkart + others",
+          "id_to_token_map": "aeMdw3icbVTLjqNGFE3yBdll25tZWS1V8TCQVi94FQYbMMXTbKwyYIN52hjaWPmYpOchTZaZSPmWnkW-I8t4pCxT0i2VdK-qzj3nnvr7ux9fs-IvzmG35DRQkql1rNWu-ex0Bk7_uTu36ZBcivQLAymagazA8fwc8BwFKe5zQi6kag9F-icEApizDKTnAAKOolmGAn_kGUmrosns_T47K23yrY6HFM8wzBwylDDn72eW-b2oySH7L89CRhAECLn7DZCCkJ8L789p_0at5S1PUwzNMdyc5lge0BQL6F_W2Fa2_5_7eBqy8_TmnIemKZrDrM_brJ8NTZqdZ-9U6h1PvZMEGgAwK5q0ILM6a2Yv7bed9EXSz0hapKSfdUNNZk1RZrO-zJI8O_cfD90d65f_efJ9XaS_vu_Gy2_kwzBU2dvjy0wWdUeXdeLWaExqtfdCVJJFletImjYhrhLq0LshW5JQfT1Ur0XzmlevWfOpJd24T75-_486JrJ8TmTH77pAwcDTjMH3r1efRr6LBCYGqZcqGLlhDzYBykll0LZ_GQPAhgHoajeojgHVIUKZ024RF_4NmZkiLWN_AzMXdjYSRrfZwM3R2sQhvEVQpAKtClOYe8SHYEeLl8QzaqzgJa7yaOeXL359UX06Bq5ntGkdb8LGuFl1OUUQbXZhyloeajaVRLKoY9MKt2kl2AGdM2GFHEwbnaslIFaxbYbGiRwrKQLBkUQ4XgXWEHoVsCKp8DQBxzepNasDwFXsxhHSQi8-W2rcriJJ9euezTSEcRiUtoagAxMGh_y08lVqB_KVGSB05yD3av2aQKy4BbwE0JBSaDC-f7F3lIEsjbkROnADzRri0loGTUd2jUEiKp0HNeuakTHFtwRgWjLvuNQdANd70L5n4U0jmW5UHTFqb-SbFLcUW4GQJ5E_OSVcJEpg76DI3HFPJkI3rTAkvLAmO4zxbuEwjg_9sGajhEqjAEnLCOa178J7O4G-8pD04dqf929AROzFtblkCTb6xMbDdb1f1sqpU128wndtE_FnyPFz7u4ZXrjb6VPStmWRff3hp-3WzZLhnD26Hl4_i1YdvxA4nO0U73StjGVXPWZrYTwtJGwtdKc0TUOp98XimgPFGVDV8-fiojvRqki5lJFYPqEoXcN7PV0k1W03RXygC4NdN8TjA4XvCvHpwVVFLC-2rmiqru6pz_LB0a9zVXp6EFX5WUyNQL1_Gt0yO4UBGlZVHFeHZKS4Jtzy04uuH3pBTpxwKAw-5KyQWl7XN1UrAPP0oATPjgAVZJzuvPXNQWxTIG0XnamrI1aRKJ3qZNl1VrVZk8OLeF9PD5auPLM0_ewiCa-81CxyAuHgxONywxRswz82HLUe6WZlCkv1SmkFmtfqhPuaGbZhpi7SqRh1-tEtd-2KPjS3UnzUWFIz9n5ao1oe156sp8cXs-238Vgmxz3tpNJ23jy6a2UZ2dz8WJlHdoSMlaytk-HHp4sbtTDmSc76Rnefk2berZYgFg6RNt6yTdi7R5o-96G8HFSaGKWfW_bUx2rVj-Jjq2yDtD2dtko3HExJe7HyViatxewdc5dUuF7Hur-8IunkI1sG7t2pZx54u_62KAuXuk6LKpH_BU-b-Fw",
+          "title": "ASICS Men's Jolt 5 Running Shoes",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 292,
+           "rating_max": 5
+          },
+          "price": 2419,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/AzjeQHicDcndCoIwGADQJ1IzdbUgYiD-REWsQrsSW59zlGtzk7KH6n16mzq35_tprVVm4XkgWT8qC1fHXqTvcmNrK5jLHp1n2odSQvKVXv5vQXZXnDIq1PDc-jXKI9gN1e1swyqFuMN5oPeCvUOSv1hxAKyCTIEcG2N62s2TrCbTMdbrxEF3Li4TC5hE5RFTpDRzngMqeH2a-lxmm_JI-yAGUVSUzKDhpcl-P-s-Cg"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "7Q5_aqu2BMGp5NoP8eqr0Qs",
+            "product_id": "4123415978860872127",
+            "catalog_id": "10906541360107235420",
+            "gpcid": "8324374763758032503",
+            "headline_offer_docid": "18128444614296828454",
+            "image_docid": "15149991175421211869",
+            "rds": "PC_8324374763758032503|PROD_PC_8324374763758032503",
+            "query": "running+shoes+under+%E2%82%B93000+india+men+women+asics+adidas+puma+nike+skechers",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIaSmFvcmEsTWFkaHlhIFByYWRlc2gsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "14588264069510956867",
+          "merchants": "Amazon.in + others",
+          "id_to_token_map": "-0zN1XicdVTLzqvIEU7yBNllezZnZf0SzZ0c_QsD3YBtwNwxGwvTbcA0F4PxTfMwyX9mRppZTkbKs5xZ5DmyjDPrpKSqWnyqr0p1-9cf_vxB6n9KnrDPzzOr2sYgOP1WJueR8aafhrHHc3Gp8T9YDnAsCwReZEVZ4CSWZX4q8ktO-7LGvwJekGVW5BlREQCjCKIsSr9UJMe07oh7PJJR74sXC5Be0aIicSzDcNzLceLPdZuX5Hf4VyDIQHypJPEK4CWZBYz0dcTTN36r7YEEFKDIr3jAyILEi7zEfLf1XX3_f8AfzjMZH9-8ce66uisXU9WTaTF3mIyLz5D9LLOfVYVjGGZRd7jOFy3pFrf-vzaf6mJa5LjG-bQY5jZfdHVDFlNDioqM0w_l8Hu1_yPn17bGf_s6XC9_z7-fZ0q-vd0W2tLyLM3KgxZdixZOYYKa3KSVhdTHLvFpwZZTkAhNnsCPkn7U3UdFP0j3Y58P12Px2x__Da-Fpo2F5kXDEOs-E9CSc3V4d1Nfc8zoXhgMCDunJ2lcZaxCMcpOLmxYP67owaBNiOIhChjBRaiKoHPJmYlJQh_F8PIMzcxNWqodoLBNgSJkEEESOn3Eek83XKluBLpQR1WGhp3XKiiHg1W0A0qBd8-BDEhEYZAOwI790yb2V06C4qgb7IzJdGxkwiGymKitRLsbzocGW5mJQmIo3YFt7iRebTLjUvnAr33q2zFa3ZMTFrCpch6NXgxV7nA0TWBW7VL1FCGHP0DqBmZm7J6UKdIVzdNsQ1Bx20Rod4CxSkyc7MLY8lO8Kqgzu2E1-S3iM3MwDyd_7YbUsbvqsomiS5TixGNoRfTqvIlWW9yWgnOqwiCMx8JUwQ5k047xDcxhHr88QUg8tIjN0iUXmc09SBFDjOhGjKGJIQzQE_tOrFRFGj28BpiFHrsHsOSzFD1shJ5GvVJ903m4SRZitgKbJHvNg9Zep7aJiVkv8jUc-qOrq9arjd3392k8fmOWSLgErvhs7w-hepuYPXteXdk8OMR3qVzSXef9FUivgwMvq_AC82PR901NfvvTX_b7gBTzSN6C0N--L502u-VgHl3sHyyjybQAnshWuZ5N1XdMy2tse6W3x9q8V4zuzYhO8lhfLC_d1FjCvCrIBctahn-0sFnQ5-GRyrGlzG7b5aEc6_JQL798CuDS18x9sLRhYIXwXSs96y5C9cunJdTel3gVw9fbGNbknMRo3tAso2VxZaUu2cuPm2WVk6IVXjLXKzmRnIRd37dPaNQM_-WTHr97CtDR6gyiZOrKZY8ZdW8OtgWvPkRL9dwW62Fw6G6bl7flS758ciz9XeC49wCp_ibEdl3lAMxedl3v-Fro5LdOYrdXrtvYyhreWaNGYgsf_tTy8z4h0MSP-mpxb0Fz6Ddc2T2b5Zsh5C3vHh9b1GrXbahZ-HSz-2mfXZvidOQ8rO7F7i3Y6uvUlcQTtU_CFfBOsXXOqyg7X4K0B5mcV0K0Gl570onDZs1kSpka1yfZJVNw4rhxSrT1DLl81USV4z6mDNLpunzr9X2M-_N5rw9zaavGzal6Le8d_ujZh4L67TazovUdqecIuRoTRM1tlJnwMD3Npg7Y-8OkhfYfrKb7JQ",
+          "title": "Skechers Men's Go Run Consistent Running Shoes",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 488,
+           "rating_max": 5
+          },
+          "price": 2309,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/330c8nicDclLDoIwFADAEwGCIaEkxsBCwURBPlrYEKBQQG1LeX7wVF7H2-hs5_vpAMRka1rDajkLaIgCFVuqdIIS-lqt-U2bOi5Ez-h6XP3Pdg4EbeskCCH3rE6mdDBbNOgP7rzvpyx143BIRvA5jkw6ywywTp-VS4pwuRg2DmW6Mx6DnF6Noy_TgCUWMm7KZd5tME6MUvG6fe4yZL1Qz9O2wCcSKYLE06O3zpl8_gDPvD82"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "7Q5_aqu2BMGp5NoP8eqr0Qs",
+            "product_id": "2313221546268537220",
+            "catalog_id": "14588264069510956867",
+            "gpcid": "17191986861085746470",
+            "headline_offer_docid": "1726869732003373236",
+            "image_docid": "15816581774914782107",
+            "rds": "PC_17191986861085746470|PROD_PC_17191986861085746470",
+            "query": "running+shoes+under+%E2%82%B93000+india+men+women+asics+adidas+puma+nike+skechers",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIaSmFvcmEsTWFkaHlhIFByYWRlc2gsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "18001106102714496587",
+          "merchants": "Shopsy By Flipkart",
+          "id_to_token_map": "fJZLMHicbVTLrqtWEm3lC3rQUk_v5I6sI-3Ny5CrMwAMBmzesLfNxMJsbDBPg8EG5Wf63CRSMkxa6m-5GfS3NBn0LCXVkkprqaoGq-q_f_v7R5r_Z-2yp_g-UJK5bVmrcfj03gG3_6XtGjIkj5z8znGCwPMUsyQr0AzPsPCXJH7EZXPNyb8hDwCEgIOAWkOGETiWX_-WpTEp8zq1L5e02zTJn7pFxkIWMAIP10tDCrLrX_Mqvqb_5wWBg5CH9KJaUAA8_NqR_hvlyKe1AHl2TVE0DziG4hkG0D84nr05_TX3031Iu-mb2w11ndfXVZ81ab8aapJ2q88K9ZmnPksCDQBY5TXJ41WV1qtn8yfGfZ70q5jkJO5X7VDFqzov0lVfpEmWdv1P13bZ9fe_GPm1yslv7JpjuKUGa45ioMBw7Nd2fPwr_nEYyvTb23Mli7qry3rsV-qYVEofYLWItTLTVWk6Yq9MqGvvY7aIsfJxLT_y-iMrP9L65yZux0vyx3f_UJrnRu6fshu2Ldp4wMeZEwOvRSExPWwyJh1NXoUe9gGNlgKnGHudHZI4UkvDm-BohzxEqhGQ0nNQaFVWFekWUG8uziRcqjc_FNioVvMQtWZELdz24YQAKlZluHhLard6RWFgwn1AOi80ZL80GgSsw3k25iMy56R4wBAUc4LKZ3STWn8jvTBuu6Q0jGPhIWsunlHdmmmtlv4ti6yNSgUQXdJDdMRbQTZBSJGtuk0072DeMseaTdrSMvlIoecZgAcOLDspW3BWLQ4VCnUupVsEiXRWCPYg4cKtMODi0Zggqz1s4QgjHVHX6YyFIUHijJAke7TXkcqEaRHFESz3CCdzACXpfMtQgpBmq8JjHz5AXD1hpBA1qh5BCNT9cc4OAe3SaWAsO0uUhwQtwSWKbkZ-rl6-qQpzgI9zjNqegOy5R0KJ8OIvYHnWzYtizQiOc-GrM_EsJGTJIZzcAmrJBtlnKDLRQZ1MVZ23uSF5mjXZOArSIINhRbwzeAVHJAITED_RzOkIszg9eBc_h_SPr767fAOiyj58m93RNind-H508OGxp06RXdmjE0r9IH4P1zy3hgsKyw3_nDRNkad_fPfP08lPk6FL3_zAc97FxRPPGA6dvYzVt0Uk-8otdYTxrkmepeluYZrGprrk2isDG3dQy57v8ofuHvY5WRNGYvmEovStd9GJlpTzeTrwSBcGu6rjgEcbvs3FL598RfRk7eSLpuLrgfIuX139xSnSl0-iIr-LxEDK8mLaXXrHSB32ZRSV12Sk1jU-8dNT16-9ICcuHnKDx2sLU7uXMyvbHDBfPm3QuyvAjWrcYYj7-io2BEgnrTV1ZfQUVZTuVbJrW6s8OvH1KS7x5ZOlb95Zmn73VclbvG3mWQzh4Ebj7sjkbM2_1WvKGel6bwo75UVtc5WrlMnrK2Y44VTRyJSPOv3mF-dmT1_ruRDftmxcMfZlctRKHp1A1sntaTb9KRqL5HahXSKduPrNdza7g73mbqV5Y0fIWIlj3Y0wuj_8QwMjPs7Y0GgXn9Rcu9-BSLgetuOcHnHv32i667G8GxQ6Noows-ypj5SyH8W3ZnNCpLnfT5t2uJrS9mlljRw3FnNxzXNSepUT6eHupUr3ULVl4IfFs-NBcO5nrch96jVpZSL_DwPLCTY",
+          "title": "Puma Men's Scorch Whizz FusionComfort Running Shoes",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 1,
+           "rating_max": 5
+          },
+          "price": 2104,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/vebDsXicDcndCoIwGADQJ1pmrUQhwgtL1H7UIutm6OfcxOZWG4I-VO_T29S5Pd8PN0Zpz7JoD-9RGVojU_X2jGlTmhZmIIWluVSq7dn2tfmf5x9rdw-5S5csd1TJQ8XOTyfJEOGLKM6DCUgjLvAO2WFdnhCe353plpVMkHEg6QtCifs6bl0EK1xjzR4XTgPZVcm9e0RNI3e0gGgSKSfKxkGSTHq4pvaB-7jofiqCPmM"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "7Q5_aqu2BMGp5NoP8eqr0Qs",
+            "product_id": "6699882488259348451",
+            "catalog_id": "18001106102714496587",
+            "gpcid": "7918572238064284403",
+            "headline_offer_docid": "10015150498179982157",
+            "image_docid": "10996118135158139081",
+            "rds": "PC_7918572238064284403|PROD_PC_7918572238064284403",
+            "query": "running+shoes+under+%E2%82%B93000+india+men+women+asics+adidas+puma+nike+skechers",
+            "mid": "576462840762419465",
+            "pvt": "a",
+            "uule": "w+CAIQICIaSmFvcmEsTWFkaHlhIFByYWRlc2gsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "1271608939738783955",
+          "merchants": "Flipkart",
+          "id_to_token_map": "2TlS0XicdVTLrqNGEI3yBVlEynY2s7Ku1M2bjO7CQIPBFzANNDYbCwM2XJqHefiB8jO5k0RKlkmkfMtkkW-JJ8oyqUWpVEdVp0r1-OuLr97y8g_R4_fJeWIU2-h4p91I-bkH3vBz17fZlI5l9huUoMzLAstKrChDKANO_jlNxoS2p88oI0IBSDIri6wkSqzM878WeZLRssnd4zHvtTYts9-hBCSJhxLDShBIjCBwAv9LWSen_F9c4HiWEyHgJMgIoigCWfjYZ8MnbqPuIS-znMA-qB80D1sEAvxug11t_z_gj-cp7--fvH5qmrI5LYaizYfF1GR5v3iPmPcS816RWQDAomyyMlnUebO4tp91MpTpsEiyMkuGRTfVyaIpq3wxVHla5P3w46n7p9r_4PxYl9mvvPhojJGAyAkyz7Kf3d1l_D75YZpo_unpulCXpmeqZuLX-iWt0RBEepWsaGHqyn0XYZoyp8GP-CqJ0NuJvpXNW0Hf8uanNukux_TPL79G7VVTh6vqhV1HNAyCleL67I6PwpHkBpm9eoD51vJ9kIKgJiZBMTkwNDroJmcz9t1Bne8EWEgZvsdV3DpGbJBty-0CJc4jGBGDeC5xSEixFRI8pkZ8y3RpPNT4FiAHuajjA2Q5OyJPcTVe4-2Od1jdwnQ3Jo3zEtXEdbXstgXjmsxUOUCqppHFxBVGOwZSn1jblLHng2YVQWRtQuDciOYYKdxdQ0SSIKBxDDB-2O0hkvvMINcoLOKc4D5EtPHY2MBoDPKGkoAUWgytG2EKJwtvbFDdQmfWPZsZNS8s5kee2tUt1w9pl1e4SgFmPcD7WIt5POMXHzq1w1Jofw6MMs1FYDxEWMiQDX2NJhjq64S5zjbSt3FDV4R2MKE6DQ0e5yibk1kfAgCZhNVHD9h3wshXO3TUqHqMY7bGHeskDo0ZAndcqFleboAxqStfnzPsELlIt-Hdq-Aq1Yh7gEsu3up3W9dno7QUvHLubhT7_jbD-XYJvUofM0o3kYGVLbBCHOjqIbKgb8Dmh9vQHz-Bpc6PvivM9e3OF08D2DNn68Ik_oHcxNOS7hrvWyhKgggfWuZ48FPatlWZ__nlN_u9n6dTnz_5Ad48L506viZw6t0MH0yjilUfveYb-XJeKdhZmV5l25ZWH8vVrQCaN-l0kPpyNL3tS5mJGafwUsowpoGPZrZK6Xy4byViypNbN0kgEU3qyuWHdz5aYnW195c28s0APasnz7wJSPnwbonU52VmEfR4Mt06P0dEn14eW0FP6YURm2gv3a-meRpkNfWiqbSkSHQiZn3bzMgoAffhnUaePRlqunWGYTQ0p2WbAWW_6mwTXTDSl8q5Ttdd59DdJjldlw_58M4xtefHxT77uoJfgswuiwTCyYsv6x1X8o301IjM5sI2L7a8RjfGKHWhRnc81Ny0j3K0yu7lxWSf_OrQvrCnZq6WTwaf1Jx7vG_0Wr1sAtXMXq92O-zjS5W-HlkvU_ZC8-RvtPXWFYVXar_yF8g56cY5W2F8Hv1tC2MpKfjQ6h570gjdyxrE8mlrXOZ8Fw3-K8v2Q6SuJ8QmVhUWjnsfYkSHy_Kp1fYka8_nvdZNJ1sxrk7RqknrcEfPPqQU15vYDNc3XTmHuqsCP6yuvQSCwzCvqtJnbvcVTdW_AbfPBtI",
+          "title": "ASICS Jolt 4 Running Shoes",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 1600,
+           "rating_max": 5
+          },
+          "price": 2499,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/BtgFlnicDclJDoIwFADQEyEOKNTEGFBxYIgTom5IByiNWgt8E8upvI630bd9308JoJqxaeaS1lpBzgwgstvhDWAQtEOfD7Mpn0oJyafV5H9jN2ZoSQ8iI0k_oSfkzYld19r3EellA2vBtu0O3TY-qiIZvdvrUPDsdU9mDHRarDN1FKnGkMaGXIW3BkpEdNIP2NkoHS8MRq2zrf0iv9gn28EXxa2C8grPY_d1wHuP_wCz4D8K"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "7Q5_aqu2BMGp5NoP8eqr0Qs",
+            "product_id": "1819596338379119049",
+            "catalog_id": "1271608939738783955",
+            "gpcid": "15934631909395937061",
+            "headline_offer_docid": "18088518238108266465",
+            "image_docid": "16453471048126777096",
+            "rds": "PC_15934631909395937061|PROD_PC_15934631909395937061",
+            "query": "running+shoes+under+%E2%82%B93000+india+men+women+asics+adidas+puma+nike+skechers",
+            "mid": "576462807469533061",
+            "pvt": "a",
+            "uule": "w+CAIQICIaSmFvcmEsTWFkaHlhIFByYWRlc2gsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "9763345392637512578",
+          "merchants": "Nykaa Fashion",
+          "id_to_token_map": "JrhRvnicbVTLruNEEEV8AQtWrGYzq1GE2-0no7uI3_GNHdvtbsfeRH7FduK3nRsn4me4MyDBEpD4lmHBt5BhwwJKqpLq1NFRq-vx1xdfvebVH7zLHuIu2Evs7jZeVKeYVvfJFX7uxy67pHOV_Q4ogeN4VhRphuMBQ0MGCj-n8RzXXVFlv4k8ByHDQpHmIM8CmuWFX8s8zuqqzXfHYz4qXfqgCaxIP0Toh4QIBQ4KPP9L1cRF_k_5V8hwgshDhmdo-kFgOfBhzKZPlCMfACtQkGJElhUBfDgHvne8nXL439KPwyUfb5--HS9tW7XFu6ns8undW5V-K9BvJZGmKOrfDH7Oqjar4h-L_vMr_qv3oXnALM8xHM2xHCMKPHgQmA_9y_xD_PFyqfNPq-s7eb1xN_ImRo32kjbq5AfaOTbqcqNJtzDw6pQuJhSw5zhQX4v6tWpfy_o1b3_q4v7lmP755ddqd1Xk6Sq7uO-J4lGI1pCPwd6q03tE93KislykpQwipLPbGhNo7xJVG11g1wTYfga7q6_UAzbMKJKBv9tbS4iXOIW9h3ypQq3ZBqQGSUuWbVAPBC_3lFp2OGBNZGTnQBPNWM04YoQ00XoqhmsGEzIjzdMCtXeTZrpFUBriAN9iiijB2ZtTw_Tzk1QTnTwT2jyjpg_jWkPZuVwSNYIJNdtBsPhJs4TxuYQZIZEHHl5HPqJAmMngllLeNjXUBeuEzuhaJY255BWQUq30Eyrzk727JPTSZXrpxtCO8mCx01NNo717D7BYRuTxT4AwPiaRDyOI79F5i_EtVzbQCjZLSshi6f0JPxqf66RMSYSIauMAUzQm_ZTUtod9s4mhebIUFfg6eMa0yfhBefR0EFpKDUJManKXVLJf3xMVX_Epe0mI7WT6cvPu9TXG8zmiQ6TdM88mYpmALHRPxMn3JvCI1KY3wKVAZfTKlDzDvu2CCKcysPJTfd_tyyHCn_Es3FPX2WvmbYYxk2qS9HGZxuMnaq2xM9pxz8WQdtRtuEUpDQxqEtJQ2VebYm9dvwO88FirRxQZhv8p7bpzlf_55TdIXXuycUBrS0UbX32SC3ezcKr0_s1alZ_WmUnU-NKfL1N_uh6NUsy16Ky9HDcnJb1jbb_3BrPstzkV82Xy0s15gJr8pTreqfdvFPK0XkVjkwgbb4d71WIyFC3NcrvGpLS0tT0iCsnJ4bACpuuuH_b-zeGA8vQy5ivke87T2m6iawwm1YwnntnGSh7IfKmlU2CibDiKm92R6Xz5Pk_tBLX14BzNut8at4vDn5yiTUiVcwOezFJQYjs-MZGzGsRRPfQnvm4UU4dQzt-_sTfKEwvhk09dmNoTVLIpuislOg4ItYY1YVGN1rld87sqlP1VETW1NAGlsbyCM7X2DJ7VIe91Wl5yedVtQ5kwdXHhEZiz5DGbeHxcLAPS85ZBW406AjT0umGBvbu5Ux5EoLAWah2vnNngqgeQta6hSfSoGTsf2ysWTE45cx2ncIJwoC6d24j753uY65kuCfqwOIAfRsmRhgCOzpVFz4NlJ3ay2veLGAkIMaAoobEq3EsJIq3J61XIDaOcT4O-ta6g9lbJLM5aKllTL6i6cA5G61jxTPE33DL1xQ",
+          "title": "Adidas Men's Adivat M Running Shoes",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 602,
+           "rating_max": 5
+          },
+          "price": 2699,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/TD38iHicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDk7PLM5zC65KNDbNMi81L80MdDIq83cP0zXzCS8yiUoz88zIz_NOdjN0MffyMfRwLzUtjk9OdbMoNqpwd8kwNg5Jsqwwys03DagEAI7fLfw"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "7Q5_aoWXB5OyruEPgs-zsQ8",
+            "product_id": "10866759924671423438",
+            "catalog_id": "9763345392637512578",
+            "gpcid": "158030495591359161",
+            "headline_offer_docid": "8592759267193863877",
+            "image_docid": "346897347422193561",
+            "rds": "PC_158030495591359161|PROD_PC_158030495591359161",
+            "query": "running+shoes+%E2%82%B92000+%E2%82%B93000+india",
+            "mid": "576462656498713044",
+            "pvt": "a",
+            "uule": "w+CAIQICIaSmFvcmEsTWFkaHlhIFByYWRlc2gsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n**1. ASICS Jolt 5 — my overall pick (~₹2,419)**  \nBest if you're actually running regularly—say **3–10 km** at a time. It has a strong rating and is a safer bet than ultra-cheap budget shoes.\n\n**2. Skechers Go Run Consistent (~₹2,309)**  \nPick this if **comfort is your priority**, especially for a mix of running, walking and gym use. Current listing has a 4.5/5 rating from 488 reviews.\n\n**3. Puma Scorch Whizz FusionComfort (~₹2,104)**  \nA good alternative if you prefer Puma and want to stay around ₹2,000.\n\n**4. ASICS Jolt 4 (~₹2,499)**  \nStill a very solid budget running shoe; worth considering if the Jolt 5 isn't available in your size.\n\n**5. Adidas Adivat M (~₹2,699)**  \nGood if you specifically want Adidas, although I'd take the ASICS Jolt over it for running.\n\n### What I'd buy\n\n- 🏃 **Running 3–5 days/week:** **ASICS Jolt 5**\n- 🚶 **Running + lots of walking:** **Skechers Go Run Consistent**\n- 💰 **Want to spend ~₹2,000:** **Puma Scorch Whizz**\n- 👟 **Mostly casual/gym use:** Adidas Adivat M\n\nPrices fluctuate with size/color and sales, so check your exact size before ordering. Also, for genuine running rather than just casual use, I'd avoid the ₹700–₹1,000 options unless your running is very occasional.\n\nIf you tell me **your gender, shoe size, approximate weight, and how many km you run (e.g. 3 km/day or 10 km/week)**, I can narrow this to **the best 2–3 choices for you**.",
+        "sources": null,
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

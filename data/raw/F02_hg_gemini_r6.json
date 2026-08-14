@@ -1,0 +1,176 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 6,
+  "promptText": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+  "cellId": "F02_hg_gemini_r6",
+  "startedAt": "2026-08-14T13:04:12.600Z",
+  "finishedAt": "2026-08-14T13:04:27.379Z",
+  "durationMs": 14779,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-08-14T13:03:47.753Z",
+    "error": "empty/short answer (28 chars)"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein **₹3000 ke andar** running shoes ke liye kayi saare acche options available hain, jo beginner runners aur daily joggers ke liye perfect hain. Is price range mein aapko **Campus, Sparx, Red Tape, aur Columbus** jaise brands ke reliable running shoes mil jayenge jo acchi cushioning aur grip dete hain.\n\nYahan kuch best options ki list di gayi hai:\n\n---\n\n### Top Running Shoes Under ₹3000 in India\n\n| Brand & Model | Key Features | Approximate Price | Best For |\n| :--- | :--- | :--- | :--- |\n| **Campus OGs / Running Series** | Lightweight, breathable mesh upper, good shock absorption. | ₹1,200 – ₹1,800 | Daily Jogging & Walking |\n| **Sparx Running Shoes (SX Series)** | Durable outsole, tough grip, good arch support for daily wear. | ₹1,000 – ₹1,600 | Rough & Tough Usage |\n| **Red Tape Sports Shoes** | Stylish design, memory foam/cushioned insoles, flexible sole. | ₹1,500 – ₹2,500 (on sale) | Gym & Casual Running |\n| **Columbus Active Running Shoes** | Lightweight, anti-skid sole, breathable fabric. | ₹900 – ₹1,500 | Budget-friendly Beginners |\n\n---\n\n### 💡 Kuch zaroori baatein kharidne se pehle:\n\n* **Breathability:** Aise shoes chunein jinki upper body mesh fabric ki ho, taaki daudte waqt pairon mein pasina kam aaye.\n* **Cushioning:** Agar aap road ya pavement par daudte hain, toh thoda soft sole (cushioned sole) wala shoe lein taaki ghutno (knees) par impact kam pade.\n* **Size Tip:** Running shoes hamesha apne regular shoe size se **ek size bada (half size up)** lein, kyunki daudte waqt pair thode phoolte hain aur aage ki taraf pressure padta hai.\n\nAapko inme se kis brand ya specific color/style ka shoe sabse zyada pasand hai?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "14.0354 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141304-2163-0629-0000-0f01ce984d6f",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "14.0242 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:04:26 +00:00",
+      "markdown": "India mein **₹3000 ke andar** running shoes ke liye kayi saare acche options available hain, jo beginner runners aur daily joggers ke liye perfect hain. Is price range mein aapko **Campus, Sparx, Red Tape, aur Columbus** jaise brands ke reliable running shoes mil jayenge jo acchi cushioning aur grip dete hain.\n\nYahan kuch best options ki list di gayi hai:\n\n---\n\n### Top Running Shoes Under ₹3000 in India\n\n| Brand & Model | Key Features | Approximate Price | Best For |\n| :--- | :--- | :--- | :--- |\n| **Campus OGs / Running Series** | Lightweight, breathable mesh upper, good shock absorption. | ₹1,200 – ₹1,800 | Daily Jogging & Walking |\n| **Sparx Running Shoes (SX Series)** | Durable outsole, tough grip, good arch support for daily wear. | ₹1,000 – ₹1,600 | Rough & Tough Usage |\n| **Red Tape Sports Shoes** | Stylish design, memory foam/cushioned insoles, flexible sole. | ₹1,500 – ₹2,500 (on sale) | Gym & Casual Running |\n| **Columbus Active Running Shoes** | Lightweight, anti-skid sole, breathable fabric. | ₹900 – ₹1,500 | Budget-friendly Beginners |\n\n---\n\n### 💡 Kuch zaroori baatein kharidne se pehle:\n\n* **Breathability:** Aise shoes chunein jinki upper body mesh fabric ki ho, taaki daudte waqt pairon mein pasina kam aaye.\n* **Cushioning:** Agar aap road ya pavement par daudte hain, toh thoda soft sole (cushioned sole) wala shoe lein taaki ghutno (knees) par impact kam pade.\n* **Size Tip:** Running shoes hamesha apne regular shoe size se **ek size bada (half size up)** lein, kyunki daudte waqt pair thode phoolte hain aur aage ki taraf pressure padta hai.\n\nAapko inme se kis brand ya specific color/style ka shoe sabse zyada pasand hai?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein **₹3000 ke andar** running shoes ke liye kayi saare acche options available hain, jo beginner runners aur daily joggers ke liye perfect hain. Is price range mein aapko **Campus, Sparx, Red Tape, aur Columbus** jaise brands ke reliable running shoes mil jayenge jo acchi cushioning aur grip dete hain.",
+        "original_text": "India mein ₹3000 ke andar running shoes ke liye kayi saare acche options available hain, jo beginner runners aur daily joggers ke liye perfect hain. Is price range mein aapko Campus, Sparx, Red Tape, aur Columbus jaise brands ke reliable running shoes mil jayenge jo acchi cushioning aur grip dete hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Yahan kuch best options ki list di gayi hai:",
+        "original_text": "Yahan kuch best options ki list di gayi hai:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### Top Running Shoes Under ₹3000 in India",
+        "original_text": "Top Running Shoes Under ₹3000 in India",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "markdown": "| Brand & Model | Key Features | Approximate Price | Best For |\n| :--- | :--- | :--- | :--- |\n| **Campus OGs / Running Series** | Lightweight, breathable mesh upper, good shock absorption. | ₹1,200 – ₹1,800 | Daily Jogging & Walking |\n| **Sparx Running Shoes (SX Series)** | Durable outsole, tough grip, good arch support for daily wear. | ₹1,000 – ₹1,600 | Rough & Tough Usage |\n| **Red Tape Sports Shoes** | Stylish design, memory foam/cushioned insoles, flexible sole. | ₹1,500 – ₹2,500 (on sale) | Gym & Casual Running |\n| **Columbus Active Running Shoes** | Lightweight, anti-skid sole, breathable fabric. | ₹900 – ₹1,500 | Budget-friendly Beginners |",
+        "original_text": "Brand & Model\tKey Features\tApproximate Price\tBest For\nCampus OGs / Running Series\tLightweight, breathable mesh upper, good shock absorption.\t₹1,200 – ₹1,800\tDaily Jogging & Walking\nSparx Running Shoes (SX Series)\tDurable outsole, tough grip, good arch support for daily wear.\t₹1,000 – ₹1,600\tRough & Tough Usage\nRed Tape Sports Shoes\tStylish design, memory foam/cushioned insoles, flexible sole.\t₹1,500 – ₹2,500 (on sale)\tGym & Casual Running\nColumbus Active Running Shoes\tLightweight, anti-skid sole, breathable fabric.\t₹900 – ₹1,500\tBudget-friendly Beginners",
+        "table": {
+         "table_header": [
+          "Brand & Model",
+          "Key Features",
+          "Approximate Price",
+          "Best For"
+         ],
+         "table_content": [
+          [
+           "Campus OGs / Running Series",
+           "Lightweight, breathable mesh upper, good shock absorption.",
+           "₹1,200 – ₹1,800",
+           "Daily Jogging & Walking"
+          ],
+          [
+           "Sparx Running Shoes (SX Series)",
+           "Durable outsole, tough grip, good arch support for daily wear.",
+           "₹1,000 – ₹1,600",
+           "Rough & Tough Usage"
+          ],
+          [
+           "Red Tape Sports Shoes",
+           "Stylish design, memory foam/cushioned insoles, flexible sole.",
+           "₹1,500 – ₹2,500 (on sale)",
+           "Gym & Casual Running"
+          ],
+          [
+           "Columbus Active Running Shoes",
+           "Lightweight, anti-skid sole, breathable fabric.",
+           "₹900 – ₹1,500",
+           "Budget-friendly Beginners"
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "markdown": "### 💡 Kuch zaroori baatein kharidne se pehle:",
+        "original_text": "💡 Kuch zaroori baatein kharidne se pehle:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "markdown": "* **Breathability:** Aise shoes chunein jinki upper body mesh fabric ki ho, taaki daudte waqt pairon mein pasina kam aaye.\n* **Cushioning:** Agar aap road ya pavement par daudte hain, toh thoda soft sole (cushioned sole) wala shoe lein taaki ghutno (knees) par impact kam pade.\n* **Size Tip:** Running shoes hamesha apne regular shoe size se **ek size bada (half size up)** lein, kyunki daudte waqt pair thode phoolte hain aur aage ki taraf pressure padta hai.",
+        "original_text": "Breathability: Aise shoes chunein jinki upper body mesh fabric ki ho, taaki daudte waqt pairon mein pasina kam aaye.\nCushioning: Agar aap road ya pavement par daudte hain, toh thoda soft sole (cushioned sole) wala shoe lein taaki ghutno (knees) par impact kam pade.\nSize Tip: Running shoes hamesha apne regular shoe size se ek size bada (half size up) lein, kyunki daudte waqt pair thode phoolte hain aur aage ki taraf pressure padta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "markdown": "Aapko inme se kis brand ya specific color/style ka shoe sabse zyada pasand hai?",
+        "original_text": "Aapko inme se kis brand ya specific color/style ka shoe sabse zyada pasand hai?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

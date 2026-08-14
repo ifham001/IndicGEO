@@ -1,0 +1,413 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 6,
+  "promptText": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+  "cellId": "S02_en_chatgpt_r6",
+  "startedAt": "2026-08-14T13:12:20.436Z",
+  "finishedAt": "2026-08-14T13:13:20.897Z",
+  "durationMs": 60461,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "If your main priority is **no white cast on Indian skin**, I’d pick:\n\n### [Minimalist Light Fluid Face Sunscreen SPF 50]()\n*₹315*\n\n### 🥇 Best overall: Minimalist Light Fluid SPF 50\n- **SPF 50** with a lightweight, fluid texture.\n- Blends very easily and is a good choice if you dislike the typical sunscreen “film.”\n- Current shopping results show it around **₹315–₹450**, depending on seller.\n- A recent comparison of Indian sunscreens also rated Minimalist SPF 50 as a top overall pick for a clean, no-cast finish. [www.buyrn.in](https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com)\n\n### If you have oily skin\n### [Re'equil Ultra Matte Dry Touch Gel SPF 50 PA++++]()\n*₹310.50*\n\nThis is my pick if you want **matte, non-greasy, and no obvious cast**. It's especially nice in hot Indian weather.\n\n### If you want a glowy finish\n### [Dot & Key Vitamin C + E Super Bright Sunscreen SPF 50]()\n*₹368*\n\nDot & Key's current formula is SPF 50+ PA++++ and has been independently in-vivo tested; the brand reports a no-white-cast finish. [www.dotandkey.com](https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com)\n\n**My ranking:**  \n**1. Minimalist Light Fluid** → best all-rounder  \n**2. Re'equil Ultra Matte** → best for oily skin  \n**3. Dot & Key Vitamin C + E** → best for a dewy/glowy finish\n\nIf you tell me your **skin type (oily/dry/combination) and approximate skin tone (fair, wheatish, medium, dusky/deep)**, I can narrow it down to *one* sunscreen that should suit you best.",
+  "citations": [
+   {
+    "url": "https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com",
+    "source_name": "Buyrn",
+    "position": 1
+   },
+   {
+    "url": "https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com",
+    "source_name": "Dot & Key",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "60.2283 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141312-2163-0629-0000-2e7f2ca9c065",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "60.2174 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=I%20want%20to%20buy%20a%20sunscreen%20that%20doesn%27t%20leave%20a%20white%20cast%20on%20Indian%20skin.%20Which%20one%20is%20best%3F&hints=search",
+      "datetime": "2026-08-14 13:13:20 +00:00",
+      "markdown": "If your main priority is **no white cast on Indian skin**, I’d pick:\n\n### [Minimalist Light Fluid Face Sunscreen SPF 50]()\n*₹315*\n\n### 🥇 Best overall: Minimalist Light Fluid SPF 50\n- **SPF 50** with a lightweight, fluid texture.\n- Blends very easily and is a good choice if you dislike the typical sunscreen “film.”\n- Current shopping results show it around **₹315–₹450**, depending on seller.\n- A recent comparison of Indian sunscreens also rated Minimalist SPF 50 as a top overall pick for a clean, no-cast finish. [www.buyrn.in](https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com)\n\n### If you have oily skin\n### [Re'equil Ultra Matte Dry Touch Gel SPF 50 PA++++]()\n*₹310.50*\n\nThis is my pick if you want **matte, non-greasy, and no obvious cast**. It's especially nice in hot Indian weather.\n\n### If you want a glowy finish\n### [Dot & Key Vitamin C + E Super Bright Sunscreen SPF 50]()\n*₹368*\n\nDot & Key's current formula is SPF 50+ PA++++ and has been independently in-vivo tested; the brand reports a no-white-cast finish. [www.dotandkey.com](https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com)\n\n**My ranking:**  \n**1. Minimalist Light Fluid** → best all-rounder  \n**2. Re'equil Ultra Matte** → best for oily skin  \n**3. Dot & Key Vitamin C + E** → best for a dewy/glowy finish\n\nIf you tell me your **skin type (oily/dry/combination) and approximate skin tone (fair, wheatish, medium, dusky/deep)**, I can narrow it down to *one* sunscreen that should suit you best.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-sunscreens-in-india?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.dotandkey.com",
+        "title": "Dermatologist-Recommended Sunscreens in India (2026)",
+        "description": "TOP DERMATOLOGIST-RECOMMENDED SUNSCREENS IN INDIA  When we cross-reference the latest dermatological guidelines with the formulations available in the Indian market, products that score highest on all...",
+        "breadcrumb": "dotandkey.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.dotandkey.com/blogs/skin-care/sunscreens-for-indian-climate-and-humidity?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.dotandkey.com",
+        "title": "Best Sunscreens for Indian Climate and Humidity",
+        "description": "BEST SUNSCREENS FOR INDIAN CLIMATE AND HUMIDITY  Sanchari | Last Updated On 18 May 2026  16 mins read  Table of Contents  Image: Best Sunscreens for Indian Climate and Humidity  Hey hey girlies, sorr...",
+        "breadcrumb": "dotandkey.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.dotandkey.com/products/vitamin-c-e-mineral-sunscreen?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.dotandkey.com",
+        "title": "Vitamin C + E 100% Mineral Sunscreen IN-VIVO tested SPF 50+, PA++++",
+        "description": "VITAMIN C + E 100% MINERAL SUNSCREEN IN-VIVO TESTED SPF 50+, PA++++  Loved by +customers  Suitable for: Pregnant Women, Kids & Sensitive Skin  Reduces:  Image: Vitamin C + E 100% Mineral Sunscreen IN...",
+        "breadcrumb": "dotandkey.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.dotandkey.com",
+        "title": "Vitamin C + E Sunscreen SPF 50+ PA++++ With New-Age UV Filters",
+        "description": "Images Details Ingredients Benefits Most loved sunscreens Reviews  VITAMIN C + E SUNSCREEN SPF 50+ PA++++ WITH NEW-AGE UV FILTERS  Loved by +customers  Suitable for: All Skin Types  Reduces:  Image:...",
+        "breadcrumb": "dotandkey.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?irclid=VgL9OBBeRHku&utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.dotandkey.com",
+        "title": "Vitamin C + E Sunscreen SPF 50+ PA++++ With New-Age UV Filters",
+        "description": "VITAMIN C + E SUNSCREEN SPF 50+ PA++++ WITH NEW-AGE UV FILTERS  Suitable for: All Skin Types  Reduces:  Image: Vitamin C + E Sunscreen SPF 50+ PA++++ With New-Age UV Filters  Dullness  Image: Vitamin...",
+        "breadcrumb": "dotandkey.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.buyrn.in",
+        "title": "Best Sunscreen for Indian Skin: SPF 50 Picks | Buyrn",
+        "description": "Top Pick Minimalist SPF 50 Sunscreen  Check Price  BEST SUNSCREEN FOR INDIAN SKIN: SPF 50 PICKS  beauty· 28 Apr 2026· Updated 11 Jul 2026· 7 min read  By the Buyrn Editorial Team·Independently resear...",
+        "breadcrumb": "buyrn.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.drsheths.com/blogs/skin-care/sunscreens-that-dont-leave-a-white-cast-for-indian-skin?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.drsheths.com",
+        "title": "Sunscreens That Don't Leave a White Cast for Indian Skin – Dr Sheth's",
+        "description": "SUNSCREENS THAT DON'T LEAVE A WHITE CAST FOR INDIAN SKIN  by Mohammad Shakil  on Jul 28  Image: Sunscreens That Don't Leave a White Cast for Indian Skin  The sunscreens that don't leave a white cast...",
+        "breadcrumb": "drsheths.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.nykaa.com/dot-key-vitamin-c-e-100percent-mineral-sunscreen-spf-50-pa/reviews/24846622?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.nykaa.com",
+        "title": "Dot & Key Vitamin C + E 100% Mineral Sunscreen In-Vivo Tested SPF 50+ PA++++, No White Cast Reviews Online | Nykaa",
+        "description": "Dot & Key Vitamin C + E 100% Mineral Sunscreen In-Vivo Tested SPF 50+ PA++++, No White Cast - All Reviews  Nykaa is committed to showing genuine and verified reviews.  4/5  Overall Rating 159 verifie...",
+        "breadcrumb": "nykaa.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.femina.in",
+        "title": "7 Best Sunscreens That Do Not Leave a White Cast on Indian Skin",
+        "description": "By Purva Joshi  7 BEST SUNSCREENS THAT DO NOT LEAVE A WHITE CAST ON INDIAN SKIN  May 6, 2025  1. LA SHIELD FISICO MATTE SUNSCREEN GEL SPF 50  Formulated for sensitive skin, this mineral sunscreen blen...",
+        "breadcrumb": "femina.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.oilyskinfix.in/2026/03/requeil-spf-50-review-oily-skin-india.html?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.oilyskinfix.in",
+        "title": "Oily Skin Fix India: Re'equil SPF 50 Review — 4-Week Test for Oily Skin India",
+        "description": "Disclosure: This post contains affiliate links. If you buy through our Amazon links, we may earn a small commission at no extra cost to you. All recommendations are editorially independent and based...",
+        "breadcrumb": "oilyskinfix.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "sskin.care",
+        "title": "The 33 Best Sunscreens in India: Every Label Decoded (2026) — sskin.care/",
+        "description": "THE 33 SUNSCREENS  Pick a category. Each sunscreen shows UV filters, verdict, skin type match, and price.  [Button: Budget (<₹500)] [Button: Mid-Range] [Button: Pharmacy] [Button: K/J-beauty] [Button:...",
+        "breadcrumb": "sskin.care"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://kickassopinion.com/best-sunscreens-for-indian-skin-2026-the-only-guide-you-need/?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "kickassopinion.com",
+        "title": "Best Sunscreens for Indian Skin 2026: The Only Guide You Need - KickassOpinion",
+        "description": "BEST SUNSCREENS FOR INDIAN SKIN 2026: THE ONLY GUIDE YOU NEED  By James / May 31, 2026  Image: Sunscreen skincare SPF beauty products India  Sunscreen is the single most important skincare product yo...",
+        "breadcrumb": "kickassopinion.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Best Sunscreen for Indian Skin: SPF 50 Picks | Buyrn",
+        "snippet": null,
+        "domain": "www.buyrn.in",
+        "url": "https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Buyrn",
+        "publication_date": "2026-04-28 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Vitamin C + E Sunscreen SPF 50+ PA++++ With New-Age UV Filters",
+        "snippet": null,
+        "domain": "www.dotandkey.com",
+        "url": "https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Dot & Key",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best sunscreen no white cast Indian skin SPF 50 PA++++ Minimalist Re'equil Dot & Key"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "If your main priority is **no white cast on Indian skin**, I’d pick:\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10913482140093209701",
+          "merchants": "Minimalist + others",
+          "id_to_token_map": "FhslBHicbZO5juNGEIZtP4FTZ5MaAwHNW_RgAlE8REpsiU1280gEis1L4iWKog74YYzZA1iHtgFHfpDdwM_h0Fo4dUUF_H_9H1Co-vub79_S8s_wirbxWKpL6m6YzNz04dw6z06fur6l52Qo6e8SJ4gSIwgSCwSJkcVH8ymJh7hq85L-wQCZ4fgpy_AAyBwLZAkwvxVpTKuySddZlvZqmzxSWCBxHDOdyrI45TlJEmTp17KO8_Q_WeI5cQpYnmXBwySwD8q7np4-s5v59kGXOQ6wU1acsjwvPyw_b9Ba3f6_9uF4TvvbX3XZPPKr8jQ8V2VeDM9ZdS7p86nLngXwIe--Uv9n-l1d0l_edePwVuTvz-cq_fzj5Xk-Mx1zbgZuLR_ihcIk5dUN_a5IONSGPn9yfeEQ-9pbXr2VzVtRvaXNxzbuxiz58u0_2pjM530yd3DXERUBF-tKohVLolpexCIuDBQuuStMqsltqg035xCp0QGNIckBPAh1UlsqXFQk4ioHk6ojdRfsdHyx7zpKGsUP90XvVUq_9ocTZujN4fRjwBSbiCGBX1-uIUHHxCA1wd0BNlHsHzDv3vOLTRTbM4QO6tBNCAb2vgIRY5k2RwXfKMroXvV0Dx2qXXikwSDklLunCRoGOqQ1sWGln10wOGllGQmmJuXIlSzgxV10CNUoCP3Bwxj5qJnxjgfF1Biu1Ic2rCHEBlUTXxZ2zGFwKuohIx92C-TYlX5ApNjvVHT39cKEgS2EnnmNmgKHexNgtSgo0Jeur3GuwVhQp37sWRnGBDo1DHaac8EAXtOgY0mgFw4eYOxfM28Pob-fXUO2Qu6NiQOG2js86FF9uu0Y4j44rs5UPK7kgtaV5rLIw6peu0S5-RguKdbvRmkpaAFvaz9CDihWMYeCFUZatICrNVGaCOhKfH_sToVdzBH0_nrqs89gpguDu5ba87DdOaA5roZjuyhxPnFXScQY-6XzEyNNH5f49TsYif-YtO2hTL9894OrzdB8sXVntuaanvY6zx3zKmrKy9NMm7_OqEW0-HTpiO-PYjPdF5ayuU9o0lmLveA3p0iD-7WZpHjORzUrI0BiFF76nfPytN26aXLu04nroc3rDNbRJeZoGTIs00K8FRsVL9fn-rTK1sRD60Bwu1Plj7N4bFnC7Kz2mgAmWFogK3i8OQuyeqFBIhQRSjZzdrnhjkvhuPa4bLHMgc2fD_3Lk0pec4GRNe-sNM50yGctBcp20dkrPKkTY6a3awrG2_1qhRHQZo96eYKm-ipw3Ku9ysWc5dLyPBEVgeBmmumBOzqKayNuIs2tPZ1LG9zChJJevTty6q-LbS4abndjsDyVy4VcqKBwg2olrgp_vdvfZmF1svJ6Z3I7a3nqL3q0v_ZJsCLa2To1baVlBuo5fX6Jgth2RX5RKMp4K9KpJ66UTbQunMzNKbMiph0t9mKNVsvFcZPatWlY2RHLrAI8GikGVoXkmJqkCCfAnrBLQVKAsRmP7dG0J8t2uTU1WJX3203beDPGBgMRldo_tKQQxvhejXHiHBgkbsamGwXayFLO_wuOCeao",
+          "title": "Minimalist Light Fluid Face Sunscreen SPF 50",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 358,
+           "rating_max": 5
+          },
+          "price": 315,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/SiYWmnicDcnxDoFAHADgJzqRUG1m6WhxK5Fl_WO5Wpf06-oO1VN5HW_D9-_3_TApuTAVJQPa9lxmKZI3mIxyIRNZ0BGtK0WwmvMC8lWz_J9peanh0NDdIaHZJ4ZwWqmv6LYhDcyuvdMccai6YZwcSBwZ_LLN9mJNFuV6gInuaNSuvKoVxMcxUPWJtTkInRk5mhG_Zu_mXjxwENhzwEE67vRzVtZJWMJwtLr27k7zH12RPls"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "YxR_aviDKdSP1fIPrYCJuAs",
+            "product_id": "7356715572057196572",
+            "catalog_id": "10913482140093209701",
+            "gpcid": "6719330282682449201",
+            "headline_offer_docid": "2073318899684377597",
+            "image_docid": "7436802422018852657",
+            "rds": "PC_6719330282682449201|PROD_PC_6719330282682449201",
+            "query": "minimalist+light+fluid+spf+50",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIXSm9kaHB1cixSYWphc3RoYW4sSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n### 🥇 Best overall: Minimalist Light Fluid SPF 50\n- **SPF 50** with a lightweight, fluid texture.\n- Blends very easily and is a good choice if you dislike the typical sunscreen “film.”\n- Current shopping results show it around **₹315–₹450**, depending on seller.\n- A recent comparison of Indian sunscreens also rated Minimalist SPF 50 as a top overall pick for a clean, no-cast finish. [www.buyrn.in](https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com)\n\n### If you have oily skin\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Sunscreen for Indian Skin: SPF 50 Picks | Buyrn",
+          "snippet": null,
+          "domain": "www.buyrn.in",
+          "url": "https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Buyrn",
+          "publication_date": "2026-04-28 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "17555507136503342576",
+          "merchants": "Re'equil + others",
+          "id_to_token_map": "RleA2nicbVPLjqNWEI3yBVlklVVvoihqtXR522n1AszbBswFLo-NhQED5ml8sTHK1_Q8pMlyJlK-pWeRb4kn26Q2VaoqnTr1-vu7H16z8q9wgru4XzcaPcjVVtsWZ_WS89KnfujSMcFl-oWiAWABQ7AcIGjirkjmUxLjuO7yMv2T4Ji7AI6gWAZQFE0yHPu5yOK0LtvMOhyyQeySb3mAWyxIil3e4e6KW9I0_UfZxHn2b_zLcsmBxZIGHEezLMGyC457N6TnN7Bd7cjlgiRJjmM5muAWLFjQv2-hJe7-N_ThNGbD7e2XIfuZ5LLTWNaPY42H-LGJMc4e0-H2iLsxKR7P_eGRAR_y_l7-839x3jV3970ZmiXvAyDZJUfcudHv-gt-LfL341hnb79eH1e8ZmsrLXCaZRWrApGUkxP6fZFQsAt9-uz4TBX70mtev5bta1G_Zu3HLu4vh-Tr9z9K3VVcna8r2-t7JELggKl0ULH1jzaI5PQI73ZC6efMLYZIrteOx7Q2kd8svyc9tJiMeom91gCxp5OelBOWr0uwrjcIocBVTZyJemcca8IUZdcFxjU81opRF4yF5NFvTctrCzoRYWiQtY6qFO0pmXKU4hyRzNlyUeyJ0IpUiGwvPe-BCS0FKS6B9NBf9tBjhqzpzT0Bh9irxfRoij4ydZuK6HCWYSYLvUFEQwwwjcSaQS0SYgU7pgKPKUoAlNMQKROMPEimc01H_gSNQB89GcXuLJw90M0GqoiUhHpaFcekwmEkQgKhhHRkeTLU-pJVuI0CGyCSgQmpE74qh4mYaimYAhulRizpdEoVGwOkIpJqFRE9E5AG4QBGdtvINxpjQqrNeF6qII9hDYUhXW_qXLK6WZJMW2Ikb_yONpSiDuZU3cuR6_qm7ZCm4DRFE1GaIxM17dXLIpEwdlx4gw22HSR0CSjICMiyUuoCVM37ziLHmRGOAkG848au6s37hpmRjNaRQ4xpW0MoC_D9dB4Ob4CXGexYdG8wLT-evd1wi1Sjl3Z7WFwXwcpm7N--Her974j7q1Dcx6TrqjL7-v1PjsTDlbpzeENyNFd6WeW2NrGS8PzAS6sXPtWRFOM5wbqXh96KnRAxVUnRFVXhzxy9HotmoMfAvBR2E-uLatX2y8NVFa7PDyJ66ZhJn9eBteC9HojCNpkdR_aBcFNyhRe6yD_FsrPFvHjlv8nzw27nZMk4ZE_32WxfeLOJrjE1S2Op22CYrTUcnb28ZRQ3D6PRI_eH9Ymgq9bEZ37Npjf5CFP2RFXsoDD5pVf883pbwzJa1jh4infuEuJ52Fh5MufG9rwuLJN4fjA18YWhqBe42RxzdleEVQaGlMOTvBCJ7KkYpSQ_8vGi0q6Z7oUnW0_zqPQUd4FPjHeLh8wp4-P2Eqz4tcYG4uBg21bVPKf6ucwEG1dMmFPNduyKxDBIQZO8VtdE0F8aL4y6w_7OED7t17wwDI21yQ26cYVG5XgZPG0mN99zdoGlzORnvky0vTnvEgY154EW5EO9053GZC1U1-XC2BU4EuLYJdugthucT6O-dKQLaT5BotgCsPSCmZe0XfekeMPUVAgY6oC77eGJkfc-C4uFqSQ3RgKnNMXEP5mj-G4",
+          "title": "Re'equil Ultra Matte Dry Touch Gel SPF 50 PA++++",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 410,
+           "rating_max": 5
+          },
+          "price": 310.5,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/HhhXdnicDclJDoIwAADAFwESgyCJMQhSBFsS8aBeCC1YUJYWyvobn-VvdK7z_eRCsM5UlKwm7cxElkoC16pMO5GIgsikqZQubxgrarrnu_-ZFkq3gETEDV00a9AbIgChevWt6e2FfJn6AOcx00oHjKvS6BwbFVOLyYHmGzyfT-sau_FIUQUaGFy44P1Ntx_qK9Q9axAwlZokW0AQ-0-aHfnd-AE0cjpl"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "YxR_apKmI4rFkPIPhsHvgAE",
+            "product_id": "3400605167014116725",
+            "catalog_id": "17555507136503342576",
+            "gpcid": "298222776741786084",
+            "headline_offer_docid": "10788236934023679444",
+            "image_docid": "9970894077466166877",
+            "rds": "PC_298222776741786084|PROD_PC_298222776741786084",
+            "query": "re%27equil+ultra+matte+dry+touch+spf+50",
+            "mid": "576462400269717744",
+            "pvt": "hg",
+            "uule": "w+CAIQICIXSm9kaHB1cixSYWphc3RoYW4sSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\nThis is my pick if you want **matte, non-greasy, and no obvious cast**. It's especially nice in hot Indian weather.\n\n### If you want a glowy finish\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 3,
+        "rank_absolute": 6,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "9449863486097855594",
+          "merchants": "Flipkart + others",
+          "id_to_token_map": "RfLAKHicdVPJrqNWEI36CyJlmc3bZBFZluBexjy9SIw22GDDhQtmg5hsMKMNeED5mteD1Fl2ovzL60W-JU4WWSWlUi3qHKnqnFL9-c23r1nxR5DbYdSOhRqeYDdYW0iFF8_63J3bdEyGIv1CMRAQLEdASBEszwOe-pxEQ1S1hyL9jaconmMgxTEEz3I0TfPUlzyL0qposs1-n53lNnnQWMCSkGV5jiNJQP5Npn4t6uiQ_QP_TgIAIMswNAFIiiIhSZLc-3Pav1FbKSQZDnIsIAiWghwNaI7jwS9beyOH_wN-PI3Z-f72c5z1w6wfmz45Z1kza9rZNS-GbJZEj37RpEXUzPqyeJRuP6OJWRf9AMR_8-Oh-2e1_xjwvn7YQrMMxQD6oYfjaA7yELzvLsNrfvgwjlX29uN1JgmapUmaj2q-jJYimRQ3tPO6PIF2u_OoHnl0GXnK66F6LZrXvHrNmk9t1F32ydd33yltL0v9VbLcrsOyTaBKlXc1pu3G1NdesEoBviFvaCNH9DJ5N-AmQIbLUWgpSp6TSk6JlxgmtKHwVaLqTgoquFkqtwDcRBPaVuAmdKoYYDelgQGCRSaneSQnABOBg4kOZzVZZrg7IVW9pwpuM8_U_UklsyUeEmJYOKoNI2-QnEXax4v0FCmmiUE_IahLaKHWO5zQtlMRCAeqp-SbSBWItLwxpkfvg3J3dRVdTCs-CmDu4EbfZ36nG9ginILsbbmaogkDl-CAT-S5ARXKrnkcQfMWN2lpE_l51-ALWuq0UXdbQ8mLbBmcbM9erX3ljlWeQZ69C3xxbShmZzoqmXgBZUyHW4RF0lQIKsb2xVCwEi0SIi51lDWVlKhq55SBn7rk3pBdIqkpOvXzEwLlNSLVmz3pky3nhAtFJi67xnU7DUGVcuoKWuWwTMvc2Sj93XaD0ZANpFZd61Z8HkPc2RV_M6BIuFiYTJUHmFQirVSVBGp0UNneZqH3iR-s175dW6U5mUv9tCtzYFSqHRNY2nnJh1t_3r8RgkoPaMNQpgNiWIP1-o4XewCEZEj4IR2aq_UTyXLM4-FInmBZ9lPStmWRfX33fRiiLBnP2Rw59vZFMOvgIcsuA3avrfOjv9zEtxMNVNqHLrg7XdjFx8kjx5UEuPrcjSdunRjL2lNDnA0jSYYTPZjrzNud42pse2Y9H4sDzsWVeLK7U7ZJqvnzE1IEW1qGSDAUpDnKi3SwtBujiM9PgiK9CKn-OMG4F4zVOqDNo3RspzuTiwLLx_eKiNiT5W1EYu5d5k2qeaO0BYavs8zNPDw_yfiFo43rjaxF_thXlhZ5EVqi7SAct165ENSzvDWgjdSIsC1DeMTzk6nJLzSkXqT4qDMBjyph1NKpDs9XYbERBZRersGw8JTtw9EipixZEEYiuFfDecJ0dR05Q3TqUQOjvyPGfFTDvr5gbVVtro1OipYiK82IuZptdTfNh7Nk3NUDsxib0EbUWab2fVweFD1lIyvlPFyHVrQTCuKezNeWHSUW6RRLhXIW5NXhN5LMpb00jqa251UY0sPxfi2KjTY_oFzwi9pij3gfKY5wyRZoq2595uav2qlOh-V8vrzqoeUjJaeyCeV7KaDSjjlX44lfrJy1aYxY2-LVDilZnjOe-xfxxf2S",
+          "title": "Dot & Key Vitamin C + E Super Bright Sunscreen SPF 50",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 4400,
+           "rating_max": 5
+          },
+          "price": 368,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/gL9LAnicDclJDoIwAADAF7FbFxJjIEHAmLIpAS4ECkKJpUiLiM_xV_5G5zrfT8v5wHRJqns0LgOvK4GXvSo2jBccIxFRIrGWDgPum8Nj_z_dgNXORhFw7AhcsjtUYad1ub-yQMIKR5iDBUPt7Z40j2uEKMgkx6mTN7P12irpFMVPMpfsHPqX0DScNU6Umno8fdJstLPFL_H5upVp4MIcQBjfIuEHDXE5HA"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "ZhR_aouiF_q3ptQP34_vWQ",
+            "product_id": "463207803340799294",
+            "catalog_id": "9449863486097855594",
+            "gpcid": "16838720074385258892",
+            "headline_offer_docid": "7271377988112186094",
+            "image_docid": "12223766502144131118",
+            "rds": "PC_16838720074385258892|PROD_PC_16838720074385258892",
+            "query": "best+sunscreen+no+white+cast+indian+skin+spf+50+pa%2B%2B%2B%2B",
+            "mid": "576462511288583932",
+            "pvt": "hg",
+            "uule": "w+CAIQICIXSm9kaHB1cixSYWphc3RoYW4sSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "markdown": "\n\nDot & Key's current formula is SPF 50+ PA++++ and has been independently in-vivo tested; the brand reports a no-white-cast finish. [www.dotandkey.com](https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com)\n\n**My ranking:**  \n**1. Minimalist Light Fluid** → best all-rounder  \n**2. Re'equil Ultra Matte** → best for oily skin  \n**3. Dot & Key Vitamin C + E** → best for a dewy/glowy finish\n\nIf you tell me your **skin type (oily/dry/combination) and approximate skin tone (fair, wheatish, medium, dusky/deep)**, I can narrow it down to *one* sunscreen that should suit you best.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Vitamin C + E Sunscreen SPF 50+ PA++++ With New-Age UV Filters",
+          "snippet": null,
+          "domain": "www.dotandkey.com",
+          "url": "https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Dot & Key",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

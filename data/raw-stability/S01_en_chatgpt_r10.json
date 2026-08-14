@@ -1,0 +1,432 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S01",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 10,
+  "promptText": "Which face wash should I buy for oily skin in India under ₹500?",
+  "cellId": "S01_en_chatgpt_r10",
+  "startedAt": "2026-08-14T13:24:09.680Z",
+  "finishedAt": "2026-08-14T13:24:24.272Z",
+  "durationMs": 14592,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "If you have **oily skin**, my top pick under ₹500 is:\n\n### [Minimalist 2% Salicylic Acid Face Cleanser]()\n*₹269*\n\n### My picks\n\n1. **Minimalist 2% Salicylic Acid Face Cleanser — ~₹269–₹285**  \n   **Best overall** if you have oily skin, blackheads, clogged pores, or occasional pimples. It combines 2% salicylic acid + LHA and is fragrance-free/non-comedogenic. [beminimalist.co](https://beminimalist.co/products/salicylic-lha-2-cleanser?_pos=9&_sid=5c40da511&_ss=r&utm_source=chatgpt.com)\n\n2. **Simple Kind to Skin Refreshing Facial Wash — ~₹184**  \n   **Best if your skin is oily but sensitive.** It's a gentler everyday cleanser without fragrance or colour. [www.ndtvshopping.com](https://www.ndtvshopping.com/beauty-and-grooming/best-face-washes-to-buy-for-indian-skin-oily-dry-dull-and-acne-10899929?utm_source=chatgpt.com)\n\n### [Simple Kind To Skin Refreshing Facial Wash]()\n*₹184*\n\n### [Chemist At Play Oil & Acne Control Face Wash]()\n*₹239*\n\n### [Cetaphil Oily Skin Cleanser 59 ml]()\n*₹389*\n\n3. **Cetaphil Oily Skin Cleanser — ~₹389 for 59 ml**  \n   A good gentler option, although the larger sizes can exceed ₹500. \n\n**What I'd buy:**  \n- 🧴 **Very oily/acne-prone:** Minimalist 2% Salicylic Acid  \n- 🌿 **Oily + sensitive:** Simple Refreshing Facial Wash  \n- 💧 **Oily but easily irritated:** Cetaphil Oily Skin Cleanser\n\nIf you're **under 18**, I'd lean toward Simple rather than starting with a 2% salicylic-acid cleanser; Minimalist lists its salicylic cleanser as suitable for 15+. [beminimalist.co](https://beminimalist.co/products/salicylic-lha-2-cleanser?_pos=9&_sid=5c40da511&_ss=r&utm_source=chatgpt.com)\n\nPrices can vary by seller and offers.",
+  "citations": [
+   {
+    "url": "https://beminimalist.co/products/salicylic-lha-2-cleanser?_pos=9&_sid=5c40da511&_ss=r&utm_source=chatgpt.com",
+    "source_name": "Minimalist",
+    "position": 1
+   },
+   {
+    "url": "https://www.ndtvshopping.com/beauty-and-grooming/best-face-washes-to-buy-for-indian-skin-oily-dry-dull-and-acne-10899929?utm_source=chatgpt.com",
+    "source_name": "NDTV Shopping",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "14.3703 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141324-2163-0629-0000-719432e7f2ad",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "14.3543 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Which face wash should I buy for oily skin in India under ₹500?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which face wash should I buy for oily skin in India under ₹500?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20face%20wash%20should%20I%20buy%20for%20oily%20skin%20in%20India%20under%20%E2%82%B9500%3F&hints=search",
+      "datetime": "2026-08-14 13:24:23 +00:00",
+      "markdown": "If you have **oily skin**, my top pick under ₹500 is:\n\n### [Minimalist 2% Salicylic Acid Face Cleanser]()\n*₹269*\n\n### My picks\n\n1. **Minimalist 2% Salicylic Acid Face Cleanser — ~₹269–₹285**  \n   **Best overall** if you have oily skin, blackheads, clogged pores, or occasional pimples. It combines 2% salicylic acid + LHA and is fragrance-free/non-comedogenic. [beminimalist.co](https://beminimalist.co/products/salicylic-lha-2-cleanser?_pos=9&_sid=5c40da511&_ss=r&utm_source=chatgpt.com)\n\n2. **Simple Kind to Skin Refreshing Facial Wash — ~₹184**  \n   **Best if your skin is oily but sensitive.** It's a gentler everyday cleanser without fragrance or colour. [www.ndtvshopping.com](https://www.ndtvshopping.com/beauty-and-grooming/best-face-washes-to-buy-for-indian-skin-oily-dry-dull-and-acne-10899929?utm_source=chatgpt.com)\n\n### [Simple Kind To Skin Refreshing Facial Wash]()\n*₹184*\n\n### [Chemist At Play Oil & Acne Control Face Wash]()\n*₹239*\n\n### [Cetaphil Oily Skin Cleanser 59 ml]()\n*₹389*\n\n3. **Cetaphil Oily Skin Cleanser — ~₹389 for 59 ml**  \n   A good gentler option, although the larger sizes can exceed ₹500. \n\n**What I'd buy:**  \n- 🧴 **Very oily/acne-prone:** Minimalist 2% Salicylic Acid  \n- 🌿 **Oily + sensitive:** Simple Refreshing Facial Wash  \n- 💧 **Oily but easily irritated:** Cetaphil Oily Skin Cleanser\n\nIf you're **under 18**, I'd lean toward Simple rather than starting with a 2% salicylic-acid cleanser; Minimalist lists its salicylic cleanser as suitable for 15+. [beminimalist.co](https://beminimalist.co/products/salicylic-lha-2-cleanser?_pos=9&_sid=5c40da511&_ss=r&utm_source=chatgpt.com)\n\nPrices can vary by seller and offers.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ndtvshopping.com/beauty-and-grooming/face-wash-under-500-for-daily-cleansing-from-cetaphil-minimalist-to-mamaearth-10914029?utm_source=chatgpt.com",
+        "domain": "www.ndtvshopping.com",
+        "title": "6 Best Face Washes Under ₹500 in 2026 for Daily Cleansing From Cetaphil, Minimalist to Mamaearth - NDTV Shopping",
+        "description": "6 BEST FACE WASHES UNDER ₹500 THAT FIT REAL ROUTINES, NOT JUST SKINCARE TRENDS  WE LIST HERE THE 6 BEST FACE WASHES UNDER ₹500 IN 2026 FROM CETAPHIL, MINIMALIST TO MAMAEARTH THAT CLEANSE GENTLY, PROT...",
+        "breadcrumb": "ndtvshopping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ndtvshopping.com/beauty-and-grooming/best-salicylic-acid-face-washes-for-acne-prone-skin-in-monsoon-11662605?utm_source=chatgpt.com",
+        "domain": "www.ndtvshopping.com",
+        "title": "Top 5 Salicylic Acid Face Washes For Acne-Prone Skin In Monsoon Under ₹500 - NDTV Shopping",
+        "description": "TOP 5 SALICYLIC ACID FACE WASHES FOR ACNE-PRONE SKIN IN MONSOON UNDER ₹500  KEEP MONSOON BREAKOUTS UNDER CONTROL WITH SALICYLIC ACID FACE WASHES THAT HELP UNCLOG PORES, REDUCE EXCESS OIL, AND GENTLY...",
+        "breadcrumb": "ndtvshopping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.oilyskinfix.in/2026/04/best-face-wash-oily-skin-under-400-india-2026.html?utm_source=chatgpt.com",
+        "domain": "www.oilyskinfix.in",
+        "title": "Oily Skin Fix India: Best Face Wash for Oily Skin India Under ₹400 (2026): 5 Tested, One Wins Every Time",
+        "description": "📅 April 2026 👤 Oily Skin Fix India 🕐 8 min read Face Wash Budget Skincare Under ₹400  📅 Tested April 2026 · Oily Skin Fix India  📢 Disclosure: This post contains Amazon affiliate links. If you buy th...",
+        "breadcrumb": "oilyskinfix.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.oilyskinfix.in/2026/04/best-face-wash-oily-skin-under-400-india-2026.html?m=1&utm_source=chatgpt.com",
+        "domain": "www.oilyskinfix.in",
+        "title": "Oily Skin Fix India: Best Face Wash for Oily Skin India Under ₹400 (2026): 5 Tested, One Wins Every Time",
+        "description": "2. RE' EQUIL OIL CONTROL FACE WASH  🔥 Best for Very Oily Skin  RE' EQUIL Oil Control Face Wash  ₹345–₹395  ✅ What Works  * Zinc PCA targets the enzyme driving sebum overproduction — stronger oil contr...",
+        "breadcrumb": "oilyskinfix.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://beminimalist.co/products/salicylic-lha-2-cleanser?_pos=2&_sid=add48e8a8&_ss=r&utm_source=chatgpt.com",
+        "domain": "beminimalist.co",
+        "title": "Salicylic + LHA 2% Face Cleanser - Reduces Sebum & Prevents Pimple Breakout -Suitable for Acne Prone, Oily Skin| Minimalist",
+        "description": "Image: Salicylic Acid + LHA 2% Cleanser  Image: Salicylic Acid + LHA 2% Cleanser  Image: Salicylic Acid + LHA 2% Cleanser  Image: Salicylic Acid + LHA 2% Cleanser  Image: Salicylic Acid + LHA 2% Clea...",
+        "breadcrumb": "beminimalist.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://beminimalist.co/products/salicylic-lha-2-cleanser?_pos=3&_sid=5fed91241&_ss=r&utm_source=chatgpt.com",
+        "domain": "beminimalist.co",
+        "title": "Salicylic + LHA 2% Face Cleanser - Reduces Sebum & Prevents Pimple Breakout -Suitable for Acne Prone, Oily Skin| Minimalist",
+        "description": "Image: Salicylic Acid + LHA 2% Cleanser  Image: Salicylic Acid + LHA 2% Cleanser  Image: Salicylic Acid + LHA 2% Cleanser  Image: Salicylic Acid + LHA 2% Cleanser  Image: Salicylic Acid + LHA 2% Clea...",
+        "breadcrumb": "beminimalist.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://beminimalist.co/collections/skin-body-1/products/salicylic-lha-2-cleanser?utm_source=chatgpt.com",
+        "domain": "beminimalist.co",
+        "title": "Salicylic + LHA 2% Face Cleanser - Reduces Sebum & Prevents Pimple Breakout -Suitable for Acne Prone, Oily Skin| Minimalist",
+        "description": "Image: Salicylic Acid + LHA 2% Cleanser  Image: Salicylic Acid + LHA 2% Cleanser  Image: Salicylic Acid + LHA 2% Cleanser  Image: Salicylic Acid + LHA 2% Cleanser  Image: Salicylic Acid + LHA 2% Clea...",
+        "breadcrumb": "beminimalist.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://beminimalist.co/products/salicylic-lha-2-cleanser?_pos=6&_sid=28c086d75&_ss=r&utm_source=chatgpt.com",
+        "domain": "beminimalist.co",
+        "title": "Salicylic + LHA 2% Face Cleanser - Reduces Sebum & Prevents Pimple Breakout -Suitable for Acne Prone, Oily Skin| Minimalist",
+        "description": "OFFERS (5)  ATC5  Get Additional 5% Off on orders above ₹499/-  ATC10  Get Additional 10% Off on orders above ₹799/-  TRAVEL599  Free travel pouch on min purchase of ₹599/-  B2GCLEANSER  Buy 2, Get a...",
+        "breadcrumb": "beminimalist.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://shopperluxe.com/blog/best-face-wash-for-oily-skin-india-2026?utm_source=chatgpt.com",
+        "domain": "shopperluxe.com",
+        "title": "Best Face Wash for Oily Skin in India April 2026 — Tested | ShopperLuxe",
+        "description": "BEST FACE WASH FOR OILY SKIN IN INDIA APRIL 2026 — TESTED  We tried 10 face washes for oily skin over 3 weeks. These 7 from Minimalist, Plum, Himalaya, and Neutrogena actually control oil without dry...",
+        "breadcrumb": "shopperluxe.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.vogue.in/content/best-cleansers-for-oily-acne-prone-skin-you-can-buy-for-under-rs-500?utm_source=chatgpt.com",
+        "domain": "www.vogue.in",
+        "title": "Best Cleansers For Acne Prone Skin Under Rs 500 | Budget Skin Care | Vogue India | Vogue India",
+        "description": "Scroll ahead for our edit of the best cleansers for oily, acne-prone skin that currently cost less than Rs 500*.  Plum Green Tea Pore Cleansing Face Wash  ~~₹275~~ ₹239 Plum Goodness  Neutrogena Deep...",
+        "breadcrumb": "vogue.in"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Salicylic + LHA 2% Face Cleanser - Reduces Sebum & Prevents Pimple Breakout -Suitable for Acne Prone, Oily Skin| Minimalist",
+        "snippet": null,
+        "domain": "beminimalist.co",
+        "url": "https://beminimalist.co/products/salicylic-lha-2-cleanser?_pos=9&_sid=5c40da511&_ss=r&utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Minimalist",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "5 Best Face Washes To Buy For Indian Skin Oily, Dry, Dull and Acne From Cetaphil, Minimalist, Mamaearth to The Derma Co - NDTV Shopping",
+        "snippet": null,
+        "domain": "www.ndtvshopping.com",
+        "url": "https://www.ndtvshopping.com/beauty-and-grooming/best-face-washes-to-buy-for-indian-skin-oily-dry-dull-and-acne-10899929?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "NDTV Shopping",
+        "publication_date": "2026-01-29 00:00:00 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best face wash oily skin India under 500 Minimalist salicylic acid Simple Cetaphil 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 5,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "If you have **oily skin**, my top pick under ₹500 is:\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "2840644259417100258",
+          "merchants": "Myntra + others",
+          "id_to_token_map": "f2sPn3icbZPLrttGDIaLPEEXRdfZZGUcYDS6NzgL27qfeGSNbrY2xlgjW3fJlmRJRp_mpA2QLtsCfZZk0Wep03UIcMOPIH-S4L8__PiaZP8cpuhAbm5rt_A8XKVtc3A1ydl8bq8NHeI-o3-xvCgDUeQ5IPMQykBgmM8x6UnZnB8UShwQOA7yMseIDACQl_5ME0LLrE7s0ym5Kk2c0b8Z8YEYXuQB5EQJSJBlxD-yipyT__lfgihLoghYRmIFQZQkXhI_Xmn3BW7XB05iWZlnpEd1-ZEhcgL36xbbyuH77PfLkFznL0GTlfOiK7J6cSJxshhJly6ymmZkMdQ0uS7eqfCdBN-tZB6ARUfKLJ4fviAPOYs46UmbZuWiyuqHyjLr-kWXVW2Z_H5uv-n9Tt-PVUb_5EWBE6D0WJkAOcCKIvzY3vrX9PzbMJTJl3fjYr00HXNt-k7IF8SwUlNbzfsQlzE8d-63WKi-nsvXrH5Ny9ek_tSQ9naKv775SW1GZd2Na8dv20DBwNMROObIjet2OPq0O9bne1DQjGrIoiFOUchfIlXb2RpWXS3QNvoU0TJtaBBYqAoiBMtrxJarpEaAGBsmUlsQhta4udMRwXTawclyapOPPC2LtbLcQ3nCNb1EABWBz-zsIHD9-lE_TBmnDu6oDHoMUEVUdAn1VPFyxGPVUrxCY2iRhqFqQl8vgFv1sxNij-j0tIeTR0ItDZjIoDuLizU0IGjxzg6TwEtxXKA1mRmDsgXnlFq-Y5CAK4YjQENuUe5jrRl3oJgSdVICyGxcqNlhrqWRbpUemCZkaBgX5UzKFuGQ37iA1tHMRDGQPSdARezhMSh63VPl4EMoIxRYc-ylXFz1U2Boaxzu-USPNCcoZ6dOb5tSnuJSboPamWKIR5JTPqwiBikxJPpmojpmUY62bhE0H3Y4dINVc4TU9lkNIX_vaozMhaWc0hKNHrucIzaYbW11e8yl25qG9MxaYQPNdhj52NPIRi-rwMAGrjY9Zpo-1JGK4R5QtWEet2J_m7rr6QtYanzv2twhj2N58m9SldnRjapnQz6_1CtLzJxfGFESRIaVeOHxhZ_ipimy5Oubn111idfGwV1uVNf01Of12TEnQV29f7tU189LagUqGWx13XZFPqJkuZKOt2n9sm0n8xbfvMTIAVl2apWdwIW378PLHBe6OTrv3x4ObhIP1-TJ9fD2eYmqaCQwr_TB9ESnROfT_aJcneA4PemG_KF_mXUm8YA9HD0_rIGu92sq3Tkjt0-EiHYX684Yy6pWXhSuMSS-41qwi_KI6Jjf6syKi3bv3yrBs8TyDynnGKz8vjMcMNvHwwmCtlt2xlJrODrjqUrhXVj6y4e9f4tM5Zln2Wen86fkcMHWFO3RKOBb2Qq8L-1jOsWboczusL7RSC0gU1z2zlom0ulUrO7R3kPmNfW6rKX0dA8tr80iwgZbcj1gN5V1S3VEBo636_nSH3NTuSiMAqonV9oCp-2EoXtCkIQT53xAh_waNJXMKq23finFp12eDI17OR4mSdJdweO5zpYgMXEkczmNOJ34WI1ChFTzaX8cz6fj3raadrC73Mo4VjiwSW-A9iXIpyj2dor9FLJDgE1fZhkHyiaI9FYb_PumVvb2Tjsl295KWjzo_wEnrAZj",
+          "title": "Minimalist 2% Salicylic Acid Face Cleanser",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 7200,
+           "rating_max": 5
+          },
+          "price": 269,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/u0ilP3icDcnbDoIgAADQL0rT3NK21vIC1pyYrbLeDBG1BZTg7aP6n_6mzuv5fiopRbvSdcLwexSSFDN5ZwuNtjKXNdYwf-ptxYWoGd281v9bbePCgfjIU-9mJOkuwlHgTeEuHszGUBeXOuZhJGyuwvwyRb1N5mkElR8MObJGdlq-bMhhPL5rD9l7r0d3kPnXAyj5OTz6aHCAUeOuK0WGXOqqmzVUxSxryCOReAI__Ns-Gg"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "_xZ_avSpOp2gur8Po_SF8QM",
+            "product_id": "3579077540952290611",
+            "catalog_id": "2840644259417100258",
+            "gpcid": "4833951810090317464",
+            "headline_offer_docid": "17002157502478082317",
+            "image_docid": "6798770318366788587",
+            "rds": "PC_4833951810090317464|PROD_PC_4833951810090317464",
+            "query": "oily+skin+face+wash+india+under+%E2%82%B9500+salicylic+acid+cetaphil+minimalist+simple",
+            "mid": "576462857962403772",
+            "pvt": "hg",
+            "uule": "w+CAIQICIUQW5kaHJhIFByYWRlc2gsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n### My picks\n\n1. **Minimalist 2% Salicylic Acid Face Cleanser — ~₹269–₹285**  \n   **Best overall** if you have oily skin, blackheads, clogged pores, or occasional pimples. It combines 2% salicylic acid + LHA and is fragrance-free/non-comedogenic. [beminimalist.co](https://beminimalist.co/products/salicylic-lha-2-cleanser?_pos=9&_sid=5c40da511&_ss=r&utm_source=chatgpt.com)\n\n2. **Simple Kind to Skin Refreshing Facial Wash — ~₹184**  \n   **Best if your skin is oily but sensitive.** It's a gentler everyday cleanser without fragrance or colour. [www.ndtvshopping.com](https://www.ndtvshopping.com/beauty-and-grooming/best-face-washes-to-buy-for-indian-skin-oily-dry-dull-and-acne-10899929?utm_source=chatgpt.com)\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Salicylic + LHA 2% Face Cleanser - Reduces Sebum & Prevents Pimple Breakout -Suitable for Acne Prone, Oily Skin| Minimalist",
+          "snippet": null,
+          "domain": "beminimalist.co",
+          "url": "https://beminimalist.co/products/salicylic-lha-2-cleanser?_pos=9&_sid=5c40da511&_ss=r&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Minimalist",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "5 Best Face Washes To Buy For Indian Skin Oily, Dry, Dull and Acne From Cetaphil, Minimalist, Mamaearth to The Derma Co - NDTV Shopping",
+          "snippet": null,
+          "domain": "www.ndtvshopping.com",
+          "url": "https://www.ndtvshopping.com/beauty-and-grooming/best-face-washes-to-buy-for-indian-skin-oily-dry-dull-and-acne-10899929?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "NDTV Shopping",
+          "publication_date": "2026-01-29 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "977267703690219568",
+          "merchants": "Purplle.com - Purplle Shopping + others",
+          "id_to_token_map": "bybP_XicbVPLjqNWEI3mC7KIlG1vsmq1xAVfHmn1AhswuA2Y1wWzQbzBXAwGbMDK1_Q8pMlyJlJW-ZCZRb4lRMoytSmpTj10qur8_cOPb2n5J28mQTgwpthvgvHAH2ZamJ_4_nPbNck1Hsrk64olSZqhOYYlWAoyJMVxn-NwCHGTl8kXjmEWlCEomiNIwEGa_VKkYYLLc6pnWdoJTVwmfwCw4BTHEgzgllSSgQT9e1mHefofviJpkmIZDjAUJGmWW7q975L-G3nYBBSxRAlIQghXBLeiwYr77WDqQvD_2MfLNe3mv_qybnH62KVZl_ZFec4fszAuQ_w4hn3xMW-XsV__p_p9vZCCDL2iSUhTJMusOArSzPv2NrwV-YfrFafffhkfN7xiKBvFMVxYhfKuUKT1fHRNHJN5b_0bc8W3HL-V57cCv6XnT03Y3rL4-7ufxGYUNv24MZy2RYJJWECZEpCoSJCO_sms0so3NBF7vqCplrCrUxeeQsEZfYSrY51ThjMMqoeuKuFvdRnXPvKhUTWUKzuzW6E-cvI5dIyVQSJ0vK_9UG6tyAJO6Ay-dpcGw8VnVCHCl7XaIYBqAFwki9cwT_iSNpkOUEI7MaITchDChu5yd9WdLgvRjUk0wCcnYEnczRIlK6042XTHAW1bUrWPUN3iV3vbzmHlDAneyQYoRl0yD2rV9r6jkIkjzRaFjEgcoI3RJcI7y5F3zbGS6FjwV7FnKhaB_GiLm-jkA99pB_vcdrYID4gqekRpgo6kXhXMIa4NoNXYc06-t3BVVZerVRl1kWuuLRt3yG3N6LyWI5RPiWu61haMuguwvvUBQi1SvUJIt-05tIAdzmBnYb-1nKmPaywfcWvGTmsnLuf4VDLHjjKHNWg0ahfqQmxJhGT5ElckQmKZniZ4VGIYaA21yoR7R7pvy93alLVZd33bqqRVams37y75y81Agvxy2e_qWAExIqcplBPzw9R32TeCl-Bg6Uwn3GZbmRMpQasdQsTB4ao8vo2GPf4KGJZmAMVCBnLsp7hpqjL9_u7nILDS-NqlT5ZtHl54rfbHEKiSNGrDHHTrW3GdPc4o1LMQjrlFu4mkm3sqTP3W7DZn9vXIw7SiKIESmkGJNpoOtjry8kHcdmI7nRiykkMU3BwOAfrOQtxMzw-WyJsbObB4VbQUW3zZ5IYy0eL6-YEXNy98skNi2MdG0iP7Rj_FRwBgXt1EjMgiC8gkG56i67a9cfqeIeNREZ3mfN615z37_CCgF2cFrcnt2SYlyl42iFmPgowEbT_mMi9d1GNrt4nWiaFp8Is9P2iK8AIp6gXFh67B1f5pZx9t1BoQYo9xm4GjLsxAD0PXcBdjbN356MkcOZ8LwqbkksHLJ48nso7cstWnyhuoVMv2nlVFbsrlwbhVCtrbcBfdhMQrf8-uuFi_ZoUeiMaiqLXJ79mLeGesUxcvSjj6-zMmlVC007RyibKGjT5tX51kDDeZnR-f4iY-bPfGbc3vHRKRbJAV98vwdKiTNIyewGnlV1Epu5OwVtbrwPRPweUqkcaQivh6SqZslS4irfXdwsJQKmhrXrbHsylTFh3dWDSr-y4S238AFcH2eg",
+          "title": "Simple Kind To Skin Refreshing Facial Wash",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 23000,
+           "rating_max": 5
+          },
+          "price": 184,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/8Bj0IXicDcndCoIwGADQJ1qSUqQQ0VYZZkpNk64kt_lXfS43UXuqXqe3qXN7vp9Sa6kcwxDA2lFqwZHOwJwUSt90xSaseRqqbKSsoFi9lv9z1gG3XRapcyt7PedFmNn1O-HDcZ8mSe9ehpFGIGKM2xgRpjs-4LtFsTdcc09YTPlgzp6EXsMe1dUD865pyYgOQKb2gltZsD3dYBMIlPt2mro0nU1zjxwp7PwLPPofGVs_Ww"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "ARd_at7REsC_wPAPy6Dy-As",
+            "product_id": "4822676978083572399",
+            "catalog_id": "977267703690219568",
+            "gpcid": "3017305255540946149",
+            "headline_offer_docid": "11369398071903627506",
+            "image_docid": "14262387917352689690",
+            "rds": "PC_3017305255540946149|PROD_PC_3017305255540946149",
+            "query": "simple+refreshing+facial+wash",
+            "mid": "576462563287493567",
+            "pvt": "hg",
+            "uule": "w+CAIQICIUQW5kaHJhIFByYWRlc2gsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "2477814901949993582",
+          "merchants": "Nykaa Now + others",
+          "id_to_token_map": "Yeb5XHicbVO5juNGEDX2CxwYjieZSBigyebpxQSSeIicESmSTVLqRGjxEI_mIZGUSMFfM3sA63BtwN-yG_hbrHXsAiqpV6j3XqHqn59-fkvyv_cj3pOL19otexzO0qbZe5rkrL-05yYeoj6P_2I4FogAyhxgeRkAluMF7ktEekKbYx7_yXKiKDGcDBiZk2UZ8hL7NUtITPM6sdM0OStNdG8TBQ5KjCCLvMxLgsgBRvojr8gx-Q_-ynESK3AchPcRPBCAyHw4x903drPc86wkSgInyazAc5DnBBb-vnFtZf__2KfTkJynb0GT02nWlXk9S0mUzK6ky2Z5HedkNtRxcp49quyjxD4u7nRg1hGaR9M9Z-SuZhYlPWmznM6qvL6LpHnXz7q8amny6dj-cPM_vB-quw3-blNgBfluhBcZgYHch_bSv2XHj8NAk2-P19lybjjG0vCdkC_JyswMbTHtQpdG7LHzftRC9e1I3_L6LaNvSf25Ie0ljb6_-0Vtrsqyuy4dv20DxQWeP_YuG6fIb7dJafZEZUiiB5O_yhgfUTupSy7SaHaomtENItb1gxoHWu4gHwRQo4TKtx30OTdst5bfMZjlAw84bKy1qQdpHXqg3_lxsV5RJQ7l-gB9dg1MKwBjG5Zj5pdHHtMG4Cq2bXXNH1baaxReOa-wlgGkqwMymyiQfVJg26PZFG6j3lPHa1LH5oFxplC3YKDd-wp6I8CYvJDZJXXm7CptdAHDx_rYYGZ9C8o2iwNcIbTIUZmlkRYHQdkvUYl362AB3Aqfd7foiqGVBYAyTkH1NSOjtdqyB9Z8idj1hErGcYC5CRXTwmW2xiHd2LrZ2EoGY4BPYdlnxM-sUFHBq99BVGvdIeytKDCvHjjyrhJULrCQp6s9Ck3iKtEYK0FIUGbFUBt91YJIofZByzSsaaZ1W9x2AC-RbzkWjTeJ2oEA-J52_5GQyllMrSuC8wnDYLK1xWXLWLqtaZaemwt3ZU12iNFaWxSvaDFYEFOkajS6rSePSgCt3DoILd_SYvhx7M7pNzDX-N6zuX0RRfLoX6Qqt_ElVo8r-fhSL0wxd35j7ucqMlDiBYYXP0dNU-bJ93e_eurcXa723nytegZSn5dHxxgFdfH-Ya4un-exGahksNVl25XF1UrmC-lwGZcvm3Y0LtEFJasCkHmnVnkKTrx9G16mqNSNq_P-Yb_3kmg4J08ecjfPc6vCV8IWlT4YSHSodUxvJ-XsBIfxSV_Jr_3LpDMJAvZwQH5YA13vl7F041aFnRIi2l2kO9dIvq_hpHDNSuI7rgVbXGCiu_xGZxYc3r5_UIJnCfJ3KccILPy-Wzlgsg_7lAVtN-9Wc63h4skdq4y9CXN_fo_3D5ahPPMQPjudPyb7k2uOeGddBfdCW4H3pV0Uj9F6oPmNrS8xVkuWKU87ZykTKU3LxQ3vkGWcM9TlbRynt9BEbY4JDDbkvHe9TNZN1REZ9no5H0_9oTCUk8IooHrypA1w2k4YuieLJeHIOa_WvjgHTSVDpUXLFyo-bYtkaLzTYT9Kku4JiOc6W2KJ4WKZK2LM6cR3VRxalmo87Q7XY3rY2WbTDnZXmDkHhT1M-hVoX4JixBHaKvZTCIfANXwZMg4rGwDrrTb4t3Wt7Oytliab3kxad9D_BeYUBtw",
+          "title": "Chemist At Play Oil & Acne Control Face Wash",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 1400,
+           "rating_max": 5
+          },
+          "price": 239,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/abhPBHicDcltCoIwAADQE-VHNkohQrEtJSaaafVHdJqKOOc2RD1V1-k29f6-76eRkglLVStK-MJkVW5kQQ2lFjKXLVHI0KuiGRhraX0aj_-zbFyaiIQ5tFPMADeSrAV3Oq8VAjPMwRO7N-4tKCp0B--WgQ9BPY0Z5b0YPV-D0UGLm4w8RLCJS-h1ApvZKhHYFrjvnPMlj4NaKybqpIn-hv7-NQVxr-kuuho2bMIftrk-JQ"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "_xZ_avSpOp2gur8Po_SF8QM",
+            "product_id": "14207039402590024564",
+            "catalog_id": "2477814901949993582",
+            "gpcid": "5287864892654354623",
+            "headline_offer_docid": "7643816975958674018",
+            "image_docid": "448264433999506071",
+            "rds": "PC_5287864892654354623|PROD_PC_5287864892654354623",
+            "query": "oily+skin+face+wash+india+under+%E2%82%B9500+salicylic+acid+cetaphil+minimalist+simple",
+            "mid": "576462694335716134",
+            "pvt": "hg",
+            "uule": "w+CAIQICIUQW5kaHJhIFByYWRlc2gsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "9635549865008861166",
+          "merchants": "Purplle.com - Purplle Beauty",
+          "id_to_token_map": "mGJ6pXicdZPLjqNWEIaTPEFWWfdmVlZL52DAkFYvDAYMboM53Awb6xgwdzg2YAPKw4x6LtJkmUTKs_QoyrPEk3VSUtXir7-kT79Uf3_342uc_XkYggO-WsQgVNJfuF1zsGTO3H4hlybqwy6LfufZOcPQPMcyAHAcCyHLfglxh8smyaL3v6Uxjsqsjo3TKb6smvC_L37NKpzE_67_gBTP3EUKLHge8IChFgv2wyVq3-ideIAcBQDF8wxD8dQ3I09xv-yQsTr8z_LTuY8v45vbZOU4a4usnp1wGM9uuE1nWR1leNbXUXyZvZOodxz1TuDvULMWl1k43nuG70SzMO4wSbNyVmX1HbTM2m7WZhUp408JuRvef6i-DXLtXtPkY9-X8du720xcqqYqqo7pMQVea6kqC6PvoTKkktb6pnnSa1K-ZvVrWr7G9ecGk-sp_Pr9X1KviuJZFU2HEHeFgK0EWxvKbbiPitgOoF61dCiZkzV3Rx24Z9OJHFyZtFuUmz2VDpbSoch1JpOCiu90o5NrguWFHdqXK0dupnBNpNAlopnrxLW16cVzfcfbTuY8mcy6mZAFLc_jKd9h0qAOvCMgRQA0z8qDIXZ1I1IGytqjEXsmwOsCulXReUpp4Axe_VrLA0kGusTbkVte4zyydEUmkSv4JnA135UBKlXmWOnAd0olgLwf57LjOVvoVOnLca9Pho3qqCptW0G3WEYAS363zYU1psAUSuhsQy1191oWOxrRHRn5MEj1Uqa8YqgsgBgsawQphNkDZB8BZHCeDveMPL-I5P1czoIMvkR1VIfQ1Qx5O6F1OrlU2ekK3FhUMO0nVzQLCANXsmTI017Jp1Gp3-z5cgzumRuycN1DXTFkWVcyTUBrfTS8wLZy4WyBZIhWwYiUKLclWBwlWXCA_qK7hLVHKHwc2svpDSxlprMM-pCHIT84V67KjOAaScmaTza1oC0y82e44NgFnHP3X2AWn8OmKbL46w8_WdISieuDtdxKlmpLz2JiqgMrCU8PS0l8XkaaK-HekETSFvlNj5cCd7wO4mZHBvUaXu14nQO8bKUqO4EzY0z9ZgwLRb2ZTw-HgxWH_SV-tGy0e17qVXDDVF4pvWovzFJPTtN5dTHd4_CorPmXbjMqMLaB0R9tx6uBonRixE30OjdOGC-MNlTMW8hLcnle0c2aY1qagH2QB1hBzE6BAh3snx5W7jM3Z-4oSQgEp2vXJhiN4-FEAdIu2_VSbuhoREOVUhO7dJb3enrQ1dUzM58_m60zxIcz0obA128supaEZRzOD6Mh3PZlNlH1NQqkgoLF2TdFHnOnUyFMgW_r6iW124xE0WnyNJtkAZ67O3w5ICvlFU0yF5C6XS_JuTvm6uq8gitQPVrcDpikZfv2UaewN9Dmi37IL25T8fMVscVNuXjc53HfWOfjYeA4xWJthm4NjsIqCng6jwJawQ6SAk_XJfXRP96S09E3tIb0RptrGT1nD_O4WwOycfMhCO39ynj05r2LVIefQ5PiVRAoRO6daVuvfGMvn-Jdp8UE9co_U3zpGQ",
+          "title": "Cetaphil Oily Skin Cleanser 59 ml",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 4400,
+           "rating_max": 5
+          },
+          "price": 389,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/7Wfz2HicDcnbCoIwAADQL8pLLrxAxBy6aWB2M-pFbNpcNHVuJPVV_U5_U-f1fD-t1oMKTLPp6PgadFPP9LWzDKZ0pTk1aC9M1fbDwDu2ksv_BTCrfUwP45M9-klEZa0mCGxLvNeMYCLDkGR2fAKJk1uFL-kJ4biq2wVIEceN8jeCYypG7C2c2TZ_o9B7TgziOEtyt7kcIXcLe76HSKXlpCPg3Hfydsbui6QVIgX7AVrkPOc"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "_xZ_avSpOp2gur8Po_SF8QM",
+            "product_id": "9635549865008861166",
+            "catalog_id": null,
+            "gpcid": null,
+            "headline_offer_docid": "9635549865008861166",
+            "image_docid": "12956112079909052776",
+            "rds": "PC_18200299552922956928|PROD_PC_18200299552922956928",
+            "query": "oily+skin+face+wash+india+under+%E2%82%B9500+salicylic+acid+cetaphil+minimalist+simple",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIUQW5kaHJhIFByYWRlc2gsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\n3. **Cetaphil Oily Skin Cleanser — ~₹389 for 59 ml**  \n   A good gentler option, although the larger sizes can exceed ₹500. \n\n**What I'd buy:**  \n- 🧴 **Very oily/acne-prone:** Minimalist 2% Salicylic Acid  \n- 🌿 **Oily + sensitive:** Simple Refreshing Facial Wash  \n- 💧 **Oily but easily irritated:** Cetaphil Oily Skin Cleanser\n\nIf you're **under 18**, I'd lean toward Simple rather than starting with a 2% salicylic-acid cleanser; Minimalist lists its salicylic cleanser as suitable for 15+. [beminimalist.co](https://beminimalist.co/products/salicylic-lha-2-cleanser?_pos=9&_sid=5c40da511&_ss=r&utm_source=chatgpt.com)\n\nPrices can vary by seller and offers.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Salicylic + LHA 2% Face Cleanser - Reduces Sebum & Prevents Pimple Breakout -Suitable for Acne Prone, Oily Skin| Minimalist",
+          "snippet": null,
+          "domain": "beminimalist.co",
+          "url": "https://beminimalist.co/products/salicylic-lha-2-cleanser?_pos=9&_sid=5c40da511&_ss=r&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Minimalist",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

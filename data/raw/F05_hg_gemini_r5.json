@@ -1,0 +1,144 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 5,
+  "promptText": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+  "cellId": "F05_hg_gemini_r5",
+  "startedAt": "2026-08-14T12:44:45.366Z",
+  "finishedAt": "2026-08-14T12:44:58.794Z",
+  "durationMs": 13428,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Bharat mein shaadi ke liye budget-friendly aur stylish online sarees kharidne ke liye kai acche options aur categories available hain. Agar aap kam budget mein ek dam grand aur heavy look chahte hain, toh kuch behtareen choices aur online platforms yeh hain:\n\n### 1. Budget-Friendly Saree Styles (Kharidne ke liye best options)\n\n* **Banarasi Silk Blend Sarees:** * **Kyu kharidein:** Yeh dekhne mein bilkul heavy aur royal lagti hain, lekin silk blend ya artificial zari ki wajah se budget mein (usually ₹1,000 se ₹3,000 ke andar) aasani se mil jaati hain. Shaadi ke functions jaise Sangeet ya Reception ke liye yeh perfect hain.\n* **Georgette aur Chiffon Sequins Sarees:** * **Kyu kharidein:** Aajkal Bollywood style sequins aur shimmer sarees kaafi trend mein hain. Yeh lightweight hoti hain, pehanne mein aaramdayak hoti hain aur party vibe deti hain. Inki starting range ₹800 se ₹2,500 tak hoti hai.\n* **Art Kanjivaram ya Soft Silk Sarees:** * **Kyu kharidein:** Agar aapko traditional South Indian look pasand hai lekin asli Kanjivaram mehangi padti hai, toh aap *Art Silk* ya *Soft Silk* sarees choose kar sakte hain. Yeh budget mein rich look deti hain.\n* **Organza aur Tissue Sarees:** * **Kyu kharidein:** Elegant aur modern look ke liye organza sarees floral prints ya light zari borders ke sath bahut achhi lagti hain. Yeh shaadi ke day events ke liye best hain.\n\n---\n\n### 2. Best Online Platforms (Kahan se kharidein)\n\n* **Myntra & Ajio:** Yahan branded aur reliable ethnic labels (jaise Anouk, Ethnic Junction, ya local fusion brands) par kaafi acche discounts milte hain. Yahan quality aur easy return policy ki tension nahi hoti.\n* **Karagiri & Koskii:** Agar aapko specifically traditional aur wedding-vibes wali sarees chahiye, toh in websites par budget aur mid-range collections (₹2,000 - ₹5,000) ka bahut bada variety milta hai.\n* **Meesho:** Agar aapka budget bohot tight hai (₹500 se ₹1,500 ke beech), toh Meesho par direct wholesalers aur manufacturers se kaafi sasti wedding/party wear sarees mil jaati hain (reviews aur ratings dekh kar hi order karein).\n* **Flipkart & Amazon:** Yahan bhi festive aur wedding sales ke dauran local weavers aur brands ki sarees heavy discounts par mil jaati hain.\n\n---\n\n### Smart Shopping Tips:\n\n1.  **Reviews Check Karein:** Online kharidte waqt customer photos aur ratings zaroor check karein taaki fabric aur color ka exact idea lag sake.\n2.  **Blouse Piece:** Check kar lein ki saree ke sath unstitched blouse piece attached hai ya nahi.\n3.  **Return Policy:** Hamesha aisi site ya seller se kharidein jahan easy exchange ya return policy ho, taaki agar color ya fabric pasand na aaye toh problem na ho.\n\nAapko kis function (jaise Sangeet, Haldi, ya Main Wedding) ke liye saree chahiye aur aapka exact budget kya hai?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "13.1498 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141244-2163-0629-0000-313fad5a50cd",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "13.1302 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:44:58 +00:00",
+      "markdown": "Bharat mein shaadi ke liye budget-friendly aur stylish online sarees kharidne ke liye kai acche options aur categories available hain. Agar aap kam budget mein ek dam grand aur heavy look chahte hain, toh kuch behtareen choices aur online platforms yeh hain:\n\n### 1. Budget-Friendly Saree Styles (Kharidne ke liye best options)\n\n* **Banarasi Silk Blend Sarees:** * **Kyu kharidein:** Yeh dekhne mein bilkul heavy aur royal lagti hain, lekin silk blend ya artificial zari ki wajah se budget mein (usually ₹1,000 se ₹3,000 ke andar) aasani se mil jaati hain. Shaadi ke functions jaise Sangeet ya Reception ke liye yeh perfect hain.\n* **Georgette aur Chiffon Sequins Sarees:** * **Kyu kharidein:** Aajkal Bollywood style sequins aur shimmer sarees kaafi trend mein hain. Yeh lightweight hoti hain, pehanne mein aaramdayak hoti hain aur party vibe deti hain. Inki starting range ₹800 se ₹2,500 tak hoti hai.\n* **Art Kanjivaram ya Soft Silk Sarees:** * **Kyu kharidein:** Agar aapko traditional South Indian look pasand hai lekin asli Kanjivaram mehangi padti hai, toh aap *Art Silk* ya *Soft Silk* sarees choose kar sakte hain. Yeh budget mein rich look deti hain.\n* **Organza aur Tissue Sarees:** * **Kyu kharidein:** Elegant aur modern look ke liye organza sarees floral prints ya light zari borders ke sath bahut achhi lagti hain. Yeh shaadi ke day events ke liye best hain.\n\n---\n\n### 2. Best Online Platforms (Kahan se kharidein)\n\n* **Myntra & Ajio:** Yahan branded aur reliable ethnic labels (jaise Anouk, Ethnic Junction, ya local fusion brands) par kaafi acche discounts milte hain. Yahan quality aur easy return policy ki tension nahi hoti.\n* **Karagiri & Koskii:** Agar aapko specifically traditional aur wedding-vibes wali sarees chahiye, toh in websites par budget aur mid-range collections (₹2,000 - ₹5,000) ka bahut bada variety milta hai.\n* **Meesho:** Agar aapka budget bohot tight hai (₹500 se ₹1,500 ke beech), toh Meesho par direct wholesalers aur manufacturers se kaafi sasti wedding/party wear sarees mil jaati hain (reviews aur ratings dekh kar hi order karein).\n* **Flipkart & Amazon:** Yahan bhi festive aur wedding sales ke dauran local weavers aur brands ki sarees heavy discounts par mil jaati hain.\n\n---\n\n### Smart Shopping Tips:\n\n1.  **Reviews Check Karein:** Online kharidte waqt customer photos aur ratings zaroor check karein taaki fabric aur color ka exact idea lag sake.\n2.  **Blouse Piece:** Check kar lein ki saree ke sath unstitched blouse piece attached hai ya nahi.\n3.  **Return Policy:** Hamesha aisi site ya seller se kharidein jahan easy exchange ya return policy ho, taaki agar color ya fabric pasand na aaye toh problem na ho.\n\nAapko kis function (jaise Sangeet, Haldi, ya Main Wedding) ke liye saree chahiye aur aapka exact budget kya hai?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 8,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Bharat mein shaadi ke liye budget-friendly aur stylish online sarees kharidne ke liye kai acche options aur categories available hain. Agar aap kam budget mein ek dam grand aur heavy look chahte hain, toh kuch behtareen choices aur online platforms yeh hain:",
+        "original_text": "Bharat mein shaadi ke liye budget-friendly aur stylish online sarees kharidne ke liye kai acche options aur categories available hain. Agar aap kam budget mein ek dam grand aur heavy look chahte hain, toh kuch behtareen choices aur online platforms yeh hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### 1. Budget-Friendly Saree Styles (Kharidne ke liye best options)",
+        "original_text": "1. Budget-Friendly Saree Styles (Kharidne ke liye best options)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Banarasi Silk Blend Sarees:** * **Kyu kharidein:** Yeh dekhne mein bilkul heavy aur royal lagti hain, lekin silk blend ya artificial zari ki wajah se budget mein (usually ₹1,000 se ₹3,000 ke andar) aasani se mil jaati hain. Shaadi ke functions jaise Sangeet ya Reception ke liye yeh perfect hain.\n* **Georgette aur Chiffon Sequins Sarees:** * **Kyu kharidein:** Aajkal Bollywood style sequins aur shimmer sarees kaafi trend mein hain. Yeh lightweight hoti hain, pehanne mein aaramdayak hoti hain aur party vibe deti hain. Inki starting range ₹800 se ₹2,500 tak hoti hai.\n* **Art Kanjivaram ya Soft Silk Sarees:** * **Kyu kharidein:** Agar aapko traditional South Indian look pasand hai lekin asli Kanjivaram mehangi padti hai, toh aap *Art Silk* ya *Soft Silk* sarees choose kar sakte hain. Yeh budget mein rich look deti hain.\n* **Organza aur Tissue Sarees:** * **Kyu kharidein:** Elegant aur modern look ke liye organza sarees floral prints ya light zari borders ke sath bahut achhi lagti hain. Yeh shaadi ke day events ke liye best hain.",
+        "original_text": "Banarasi Silk Blend Sarees: * Kyu kharidein: Yeh dekhne mein bilkul heavy aur royal lagti hain, lekin silk blend ya artificial zari ki wajah se budget mein (usually ₹1,000 se ₹3,000 ke andar) aasani se mil jaati hain. Shaadi ke functions jaise Sangeet ya Reception ke liye yeh perfect hain.\nGeorgette aur Chiffon Sequins Sarees: * Kyu kharidein: Aajkal Bollywood style sequins aur shimmer sarees kaafi trend mein hain. Yeh lightweight hoti hain, pehanne mein aaramdayak hoti hain aur party vibe deti hain. Inki starting range ₹800 se ₹2,500 tak hoti hai.\nArt Kanjivaram ya Soft Silk Sarees: * Kyu kharidein: Agar aapko traditional South Indian look pasand hai lekin asli Kanjivaram mehangi padti hai, toh aap Art Silk ya Soft Silk sarees choose kar sakte hain. Yeh budget mein rich look deti hain.\nOrganza aur Tissue Sarees: * Kyu kharidein: Elegant aur modern look ke liye organza sarees floral prints ya light zari borders ke sath bahut achhi lagti hain. Yeh shaadi ke day events ke liye best hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### 2. Best Online Platforms (Kahan se kharidein)",
+        "original_text": "2. Best Online Platforms (Kahan se kharidein)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "* **Myntra & Ajio:** Yahan branded aur reliable ethnic labels (jaise Anouk, Ethnic Junction, ya local fusion brands) par kaafi acche discounts milte hain. Yahan quality aur easy return policy ki tension nahi hoti.\n* **Karagiri & Koskii:** Agar aapko specifically traditional aur wedding-vibes wali sarees chahiye, toh in websites par budget aur mid-range collections (₹2,000 - ₹5,000) ka bahut bada variety milta hai.\n* **Meesho:** Agar aapka budget bohot tight hai (₹500 se ₹1,500 ke beech), toh Meesho par direct wholesalers aur manufacturers se kaafi sasti wedding/party wear sarees mil jaati hain (reviews aur ratings dekh kar hi order karein).\n* **Flipkart & Amazon:** Yahan bhi festive aur wedding sales ke dauran local weavers aur brands ki sarees heavy discounts par mil jaati hain.",
+        "original_text": "Myntra & Ajio: Yahan branded aur reliable ethnic labels (jaise Anouk, Ethnic Junction, ya local fusion brands) par kaafi acche discounts milte hain. Yahan quality aur easy return policy ki tension nahi hoti.\nKaragiri & Koskii: Agar aapko specifically traditional aur wedding-vibes wali sarees chahiye, toh in websites par budget aur mid-range collections (₹2,000 - ₹5,000) ka bahut bada variety milta hai.\nMeesho: Agar aapka budget bohot tight hai (₹500 se ₹1,500 ke beech), toh Meesho par direct wholesalers aur manufacturers se kaafi sasti wedding/party wear sarees mil jaati hain (reviews aur ratings dekh kar hi order karein).\nFlipkart & Amazon: Yahan bhi festive aur wedding sales ke dauran local weavers aur brands ki sarees heavy discounts par mil jaati hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "### Smart Shopping Tips:",
+        "original_text": "Smart Shopping Tips:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "1.  **Reviews Check Karein:** Online kharidte waqt customer photos aur ratings zaroor check karein taaki fabric aur color ka exact idea lag sake.\n2.  **Blouse Piece:** Check kar lein ki saree ke sath unstitched blouse piece attached hai ya nahi.\n3.  **Return Policy:** Hamesha aisi site ya seller se kharidein jahan easy exchange ya return policy ho, taaki agar color ya fabric pasand na aaye toh problem na ho.",
+        "original_text": "Reviews Check Karein: Online kharidte waqt customer photos aur ratings zaroor check karein taaki fabric aur color ka exact idea lag sake.\nBlouse Piece: Check kar lein ki saree ke sath unstitched blouse piece attached hai ya nahi.\nReturn Policy: Hamesha aisi site ya seller se kharidein jahan easy exchange ya return policy ho, taaki agar color ya fabric pasand na aaye toh problem na ho.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "Aapko kis function (jaise Sangeet, Haldi, ya Main Wedding) ke liye saree chahiye aur aapka exact budget kya hai?",
+        "original_text": "Aapko kis function (jaise Sangeet, Haldi, ya Main Wedding) ke liye saree chahiye aur aapka exact budget kya hai?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,362 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 6,
+  "promptText": "Which brand's jeans should I buy for men in India under ₹2000?",
+  "cellId": "F01_en_chatgpt_r6",
+  "startedAt": "2026-08-14T13:19:47.997Z",
+  "finishedAt": "2026-08-14T13:20:03.631Z",
+  "durationMs": 15634,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "If your budget is **under ₹2,000**, I’d prioritize these brands in India:\n\n1. **Wrangler — best overall** ⭐  \n   Great denim quality and comfortable fits. Current Wrangler India sale prices include jeans around **₹1,450–₹1,850**. [www.wrangler.in](https://www.wrangler.in/men/jeans/8905409378656?utm_source=chatgpt.com)  \n   ### [Wrangler Men's Millard Straight Fit Mid-Rise Jeans]()\n*₹1,500*\n\n2. **Levi’s — best if you find a sale**  \n   Levi’s has several men's styles currently below ₹2,000, including 511, 512, 513 and 505 models. [levi.in](https://levi.in/collections/men-jeans?utm_source=chatgpt.com)\n\n3. **Pepe Jeans — excellent value**  \n   Probably my **second choice**. Their official India store currently has multiple straight/slim jeans around **₹1,449–₹1,999**. [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)  \n   ### [Pepe Jeans Men Blue Mid Rise Straight Fit Jeans]()\n*₹1,401.65*\n\n4. **H&M — good for modern fits**  \n   Good option if you prefer relaxed or contemporary styles; several men's jeans are around ₹1,399–₹1,999.\n\n5. **Spykar — good Indian denim brand**  \n   Worth considering, particularly for stretch/comfortable everyday jeans, though some models exceed ₹2,000.\n\n### My ranking\n**Wrangler > Levi’s > Pepe Jeans > H&M > Spykar**\n\nIf you tell me your **height, weight, waist size, and preferred fit (slim/straight/regular/loose)**, I can narrow it down to **3 specific jeans under ₹2,000** that would suit you best.",
+  "citations": [
+   {
+    "url": "https://www.wrangler.in/men/jeans/8905409378656?utm_source=chatgpt.com",
+    "source_name": "Wrangler India",
+    "position": 1
+   },
+   {
+    "url": "https://levi.in/collections/men-jeans?utm_source=chatgpt.com",
+    "source_name": "Levis India Store",
+    "position": 2
+   },
+   {
+    "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+    "source_name": "Pepe Jeans",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "15.3793 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141319-2163-0629-0000-38270386c72f",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "15.2858 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Which brand's jeans should I buy for men in India under ₹2000?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which brand's jeans should I buy for men in India under ₹2000?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20brand%27s%20jeans%20should%20I%20buy%20for%20men%20in%20India%20under%20%E2%82%B92000%3F&hints=search",
+      "datetime": "2026-08-14 13:20:02 +00:00",
+      "markdown": "If your budget is **under ₹2,000**, I’d prioritize these brands in India:\n\n1. **Wrangler — best overall** ⭐  \n   Great denim quality and comfortable fits. Current Wrangler India sale prices include jeans around **₹1,450–₹1,850**. [www.wrangler.in](https://www.wrangler.in/men/jeans/8905409378656?utm_source=chatgpt.com)  \n   ### [Wrangler Men's Millard Straight Fit Mid-Rise Jeans]()\n*₹1,500*\n\n2. **Levi’s — best if you find a sale**  \n   Levi’s has several men's styles currently below ₹2,000, including 511, 512, 513 and 505 models. [levi.in](https://levi.in/collections/men-jeans?utm_source=chatgpt.com)\n\n3. **Pepe Jeans — excellent value**  \n   Probably my **second choice**. Their official India store currently has multiple straight/slim jeans around **₹1,449–₹1,999**. [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)  \n   ### [Pepe Jeans Men Blue Mid Rise Straight Fit Jeans]()\n*₹1,401.65*\n\n4. **H&M — good for modern fits**  \n   Good option if you prefer relaxed or contemporary styles; several men's jeans are around ₹1,399–₹1,999.\n\n5. **Spykar — good Indian denim brand**  \n   Worth considering, particularly for stretch/comfortable everyday jeans, though some models exceed ₹2,000.\n\n### My ranking\n**Wrangler > Levi’s > Pepe Jeans > H&M > Spykar**\n\nIf you tell me your **height, weight, waist size, and preferred fit (slim/straight/regular/loose)**, I can narrow it down to **3 specific jeans under ₹2,000** that would suit you best.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com",
+        "domain": "magicpin.in",
+        "title": "Top 14 Jeans Brands for Men in India (July 2026): Levi's, Wrangler, Pepe & More | magicpin blog",
+        "description": "TOP 14 JEANS BRANDS FOR MEN IN INDIA (JULY 2026): LEVI'S, WRANGLER, PEPE & MORE  BY ANIKET  UPDATED - JULY 1, 2026 16 MIN READ  Browse more in Fashion  Greetings, fashion-forward men! A great pair of...",
+        "breadcrumb": "magicpin.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com",
+        "domain": "www.magicpin.in",
+        "title": "Top 14 Jeans Brands for Men in India (July 2026): Levi's, Wrangler, Pepe & More | magicpin blog",
+        "description": "MID TIER (RS 2,000-RS 4,000): THE EVERYDAY WORKHORSES  6. WRANGLER  Image: Wrangler jeans for menWrangler jeans for men  Wrangler in May 2026 is in an interesting spot in India - heritage Western bran...",
+        "breadcrumb": "magicpin.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.pepejeans.in/ss26-denims-73?utm_source=chatgpt.com",
+        "domain": "www.pepejeans.in",
+        "title": "SS26 Denims 73",
+        "description": "SS26 DENIMS 73  (433 products)   5.0  Quick View  sale  Men Blue Straight Fit Mid Rise Jeans  ~~ Price reduced from ₹3,999 to ~~ ₹1,499  (63% off)  Best price : ₹1,449  4.2  Quick View  Men Black Mid...",
+        "breadcrumb": "pepejeans.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.pepejeans.in/s/MIRAI/men/jeans?utm_source=chatgpt.com",
+        "domain": "www.pepejeans.in",
+        "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+        "description": "JEANS FOR MEN  (1211 products)   4.3  Quick View  sale deal of day  Men Blue Mid Rise Straight Fit Jeans  ~~ Price reduced from ₹3,199 to ~~ ₹1,499  (53% off)  Best price : ₹1,449  Quick View  sale d...",
+        "breadcrumb": "pepejeans.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.pepejeans.in/new-arrivals/men/jeans?utm_source=chatgpt.com",
+        "domain": "www.pepejeans.in",
+        "title": "Trending Jeans for Mens – Shop Latest New Jeans Online at Pepe Jeans India",
+        "description": "TRENDING JEANS FOR MEN  (198 products)   4.2  Quick View  Men Black Mid Rise Straight Fit Jeans  ~~ Price reduced from ₹2,299 to ~~ ₹1,499  (35% off)  Best price : ₹1,449  4.0  Quick View  deal of da...",
+        "breadcrumb": "pepejeans.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.wrangler.in/men/bottomwear/-black-8905409762295?utm_source=chatgpt.com",
+        "domain": "www.wrangler.in",
+        "title": "Buy Wrangler Men Black Redding Relaxed Straight Fit Jeans | Wrangler® India Official Online Store",
+        "description": "ImageSize  WRANGLER MEN BLACK REDDING RELAXED STRAIGHT FIT JEANS  REACHED MAXIMUM QUANTITY  Image: close  You`ve reached the maximum number of items allowed in your wishlist  [Button: CLOSE][Button:...",
+        "breadcrumb": "wrangler.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.wrangler.in/men/jeans/relaxedstraight-black-8905409735718?utm_source=chatgpt.com",
+        "domain": "www.wrangler.in",
+        "title": "Buy Wrangler Men Black Redding Relaxed Straight Fit Jeans | Wrangler® India Official Online Store",
+        "description": "Home /  Men /  Bottomwear /  Jeans /  Wrangler Men Black Redding Rela...  Image: https://static.aceomni.cmsaceturtle.com/prod/product-image/aceomni/Wrangler/Monobrand/WMJN102947/WMJN102947_1.webpImag...",
+        "breadcrumb": "wrangler.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.wrangler.in/men/jeans/skinny-blue-8905409175279?utm_source=chatgpt.com",
+        "domain": "www.wrangler.in",
+        "title": "Buy Wrangler Vegas Blue Solid Skinny Fit Jeans | Wrangler® India Official Online Store",
+        "description": "ImageSize  WRANGLER VEGAS BLUE SOLID SKINNY FIT JEANS  REACHED MAXIMUM QUANTITY  Image: close  You`ve reached the maximum number of items allowed in your wishlist  [Button: CLOSE][Button: OPEN WISHLI...",
+        "breadcrumb": "wrangler.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicpin.com/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com",
+        "domain": "magicpin.com",
+        "title": "Top 14 Jeans Brands for Men in India (July 2026): Levi's, Wrangler, Pepe & More | magicpin blog",
+        "description": "MASS TIER (RS 500-RS 1,000): STRONG BASICS  FLYING MACHINE  Image: Flying Machine jeans for menFlying Machine jeans for men  Arvind Lifestyle's Flying Machine - India's first home-grown jeans brand, f...",
+        "breadcrumb": "magicpin.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Wrangler Men's Solid Indigo Jeans (Straight) | Wrangler® India Official Online Store",
+        "snippet": null,
+        "domain": "www.wrangler.in",
+        "url": "https://www.wrangler.in/men/jeans/8905409378656?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Wrangler India",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Jeans for Men Online at Best Price – Levis India Store",
+        "snippet": null,
+        "domain": "levi.in",
+        "url": "https://levi.in/collections/men-jeans?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Levis India Store",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+        "snippet": null,
+        "domain": "www.pepejeans.in",
+        "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Pepe Jeans",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best men's jeans under 2000 India Levi's Wrangler Pepe Jeans Roadster 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 5,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "If your budget is **under ₹2,000**, I’d prioritize these brands in India:\n\n1. **Wrangler — best overall** ⭐  \n   Great denim quality and comfortable fits. Current Wrangler India sale prices include jeans around **₹1,450–₹1,850**. [www.wrangler.in](https://www.wrangler.in/men/jeans/8905409378656?utm_source=chatgpt.com)  \n   ",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Wrangler Men's Solid Indigo Jeans (Straight) | Wrangler® India Official Online Store",
+          "snippet": null,
+          "domain": "www.wrangler.in",
+          "url": "https://www.wrangler.in/men/jeans/8905409378656?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Wrangler India",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "3493354248707779669",
+          "merchants": "Wrangler India",
+          "id_to_token_map": "9GvXvXicbVTLruNEEEV8AQsktrOZ1VUkd_vN6C78tnNjJ_EzNouo_Yodt51ObMdxxM9w5yHBEpCQ-JNhwbeQQSypZZ1T59SpRf391TevRf3H3g336NxFslOfmzzYLK5GJEjWz-RyysdsqPPfWBaIADKUyENaEGnIA_HnDA0Inw4PlGZEmmYZyAg8xfO8yHHir1WBclx3xbosi4t6yr7QRJFhIMVBlhIADwWa5n6pW3Qo_oV_B0CgRAgpXoQCzws8pCjm_SXvP8ONshcFlmUAxQsPCw5wkKbgjxt3re7_H_t4HovL_PmHtuiejgXq-qexy4vL01sNvhXgW1l8iFNPdZfX6AkX1_ot5Pun6YK6A36wSEGK_8Z6Mjfo8nQ5obwfHlBVHyqMvmh9PJAvof7H_H1b57-yPMdwkBeASAGK5WhAvSfX4Sf0YRxx8ef0pEjW1lIsOzDDEbV6vdLwmBi4ej3g17p7rfBr0X06IXIts7--_lY7TarST8o2ICRUXcrXl4wLQhRTlelH-bQOQJgd9XLb4Ca4JxwC0uRRN82n8z6HLkobcik0h4qhw-2gBVONlIEeviSBGGedzhQmMTzagdndBYkGDK9lqwTemhxS0yrCW_cYGra69DKNcIFBiOMHwKerJL1j1dUczrvnV-eh51N5bHcO54J8clu3Q4F-DHGuhEBvg10F18HgZEd5ndDOzd_JsuOHL1mjNyG9VNZmsnPxARaaOyRHrDlaNad0MhSt2DmUuAngbUY-vrrRzXFCQvJ7frfVcPBUd3AUaihwOK_CJSm0cOmrievDXPYDcdq2WM52-OabWyahEy06JlMehWWMce91Lh2axMx0zD1i3uKoZ8J7DBPtRj9usM098BLSchW1mIkBGT1D91JMjmtTo12sk21INK8lyAHhLmgTxdGrO7onKOywH2OxinRt2MGw9HXb04HohY9eFrG7bcOSLBqaMJSGvMl3a01fGvVSdk1nXkeJG3fa7EKbTo9uF6junN51yzXzytGXfWRU9kOI_nDrL-VnStLZwVvz9o4bdQ7c7-2COJ6M6r7jWMst-0L6HvACxwOaFXlGBJ-y06mpi7--_m6_94psvBQLz3c3z5LTJhMCQbPuUte5rQ6QPXvkdIg8ubtIxpCx7Lwwzo273Gi-48_LWpKmUzoYCaKRZrBriCYkO0oPV3jhQU8Uy0XAHXe9tzNmJ6Xw9O6Np0muYu49ydY8y9eelcPWunGa_O6NpCnPUr4MNXS9Fwar9yt4ywSpchcrf8ZYlzUBWGQ0ZGegy9V1nehD24-jeM7Irdu-e6OGz4FImRXCYyYKl62FIuSZ3mZQ7pSdGZJ-UTc27Xo6om5bS3rUuzeOpT6zNP28hCtOCGCUelfP8eZcLa_caVQCQmVpng6iOfAG6EtL4BSYRJUyTnglX0amHLTLteAoBoNQ2EVmLWOFzIurOCMZRNLJCfqCOMs4mQqULqTy2Il2uu1e9Pnq8-DesOeJiam4hjHLlVyK1eSqSSLbqbkonwiK2iHrUNJgV07o3F7wN6o7mMEytLiNaNvx_jjshSA77bbISwRVMKPTrK8E_uzFHI7vR2XesptMaeiTKtjW42OV9jTHqWGTq2k-NtoPmTI0JJ-Uc7ugidQI-ZwDw_oH_6wD8g",
+          "title": "Wrangler Men's Millard Straight Fit Mid-Rise Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 10,
+           "rating_max": 5
+          },
+          "price": 1500,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/VwLD8HicDcnbEkJAAADQL3KpkDXTNNoa9ZDLRlYvhsUywmJj9FX9Tn9T5_V8PyXnbDQkKW_JsDCeZwJPW1mkI094RUTSNdJYdoxVLd33u_8Zpp0BiyA3F_QFrpmiEy-v1BD4KJ61uQYwPixmNdbtlT7uRRJtYDAp18Cmke1O2y7VVpNH-0BVMnxcbqemI5Z8Bo7r3EP_-WzeALyGWmCRelFM_NBKjFGMQ7kYEIS1-QNzqz3b"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "_RV_aqnWBNiqkdUP-vGW8AI",
+            "product_id": "5519124097238932719",
+            "catalog_id": "3493354248707779669",
+            "gpcid": "9855410788706162302",
+            "headline_offer_docid": "3994420625081728336",
+            "image_docid": "11809220792877872004",
+            "rds": "PC_9855410788706162302|PROD_PC_9855410788706162302",
+            "query": "men+jeans+under+%E2%82%B92000+india+levi%27s+wrangler+pepe+jeans+spykar+roadster+highlander",
+            "mid": "576462781901056310",
+            "pvt": "a",
+            "uule": "w+CAIQICIMUHVuamFiLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n2. **Levi’s — best if you find a sale**  \n   Levi’s has several men's styles currently below ₹2,000, including 511, 512, 513 and 505 models. [levi.in](https://levi.in/collections/men-jeans?utm_source=chatgpt.com)\n\n3. **Pepe Jeans — excellent value**  \n   Probably my **second choice**. Their official India store currently has multiple straight/slim jeans around **₹1,449–₹1,999**. [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)  \n   ",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Jeans for Men Online at Best Price – Levis India Store",
+          "snippet": null,
+          "domain": "levi.in",
+          "url": "https://levi.in/collections/men-jeans?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Levis India Store",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+          "snippet": null,
+          "domain": "www.pepejeans.in",
+          "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Pepe Jeans",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "838093028051302969",
+          "merchants": "Pepe Jeans",
+          "id_to_token_map": "VmcMUnicdVTLjqNWEE3yBdll25teWZYuYAyk1QvAPNtgw-WCIQvrwsUG8zQG21j5mEnPQ5osR5Ei5U9mFvmOLOOJskxqUbU4VaVTVUf15zffv6b571vX3-JjHUh2fiwIWk_PWsCLxse2a8iQ9Dn5xDM8EBhA84Cl7kGYCx8T3OOy2efkzacsxaTM63S126Xdokn-s-DXvML79B_0NwqwNAdYjqFnHM3THM0I87cdOX2ereXtPZ8RBI5jAP-1B83OOfDz2l0ttv8Dvj8OaTd-_qlK68khxfVpMtQk7SaPCv3I04-SQAMAJnlNcjwp03P-SHOnyaXD9b68Z7Vpm_5bdmrHAneTrsHk1N-hLN9nJf7a6_2-vfN-87b66tpz_wt-Nwxl-sdlIouGY8iGhXR_wJWaL5VyiLQye92Xr3n9mpWvaf2hwe15l3z59i_lnMhyl8gOalt_4QJYJbel7zNIt25hQOmuRtnOgXg2IOsNZTaWnjleSdpko7C27kOrCGdQbTWEkt7XlWuq8KMHTDYtwtGhTBAD_4p1qXZLdWVXtm5rKkSVrXlVu4oA6ZaBc7NVQbbLDKc6iVylL7xNM4uY8OIgd5kU17Pl-SChBS32ohd34UKkEt0Ost4q3CwGkelR7S6hfeRVV9ND5g0iQuFFdIluqh_XfucGF2ZD2YxFExhsmmusqUYURNgJfM-t_BMJrseIMujAt2jEkI1XqkZYtChALpUWvYm05IZKd74K2JdAJ2tY2Wbk3QlTPotuxsxTWAse7CWkIzOh2WWEbC2s9uC-Tx1V1MoDQhvSVm8p_TFh_LVVhreVEl6RxrY2pFSL2bMElFWKMh96ISC6WQQoA2hT3GK6P9mVBVVKgH4pZEnAbpyCbZOgL3xf7ElBNitFNbXclFzdHldBBH26V4OgGaHvm1Hgz4L73qJKAff5s_hgK17gSu-up273GYgq28MVV3bxzaiH4MU8lJmEX0jOLcL7faur-CPF8XOOYliBmwn0h6Rpijz98t0P2y1Mk6FLp9Bz18-iXUUXTKFiVceufV3uafYI22YfQKnuRK1PWHacasfCNdeKZ3ujmYvipYl7LcIMVjR2ReMLlmz5RC_LKaShIOymaH7YnOBGG-0YlJenB6iIrqxvoWgp0PCUZ3nvGNe5Ij09iIr8LBLTV_D5lmqselrS14QXM3e69MayVCWFp4x20CS7Z3bL8ypS--o0DMIxaa-18_Sw8J-RAPQMl0Mi8J1j4ABDHa57-QasRBPVbrG2GBeqGFwdQ7zb04NtLJ5Zhnk26eWcR3QQwzO04UgWu_O8GWTUgiQmcS_oPadRp53Bz2U6CjJ5uJRLqRtmu17pzukczErK5zeBnkul3I7TszBiiQrExkantLXNMLqkOJ6Ku0MtWLFTv6jj2eOoW8EeL7MQhDkdsvPdPC4X0VkRBbZeEEFqWhxUfVLjqChdKWKINeWuoN7ryPSN-VqwrHB76Lc8SpqNg2HEL3j9rhd1yXNHGM7v8jzIo8OuE7lgmgVvGfeHs7MuYxhrVnvW9TujbZ_IfdGSi3yspkwrFjwZCaUZfwMbwe23",
+          "title": "Pepe Jeans Men Blue Mid Rise Straight Fit Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 58,
+           "rating_max": 5
+          },
+          "price": 1401.65,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/GoVM6XicDclJDoIwFADQEyGayGRijARSMYgMKoQNsQULhKHYbwVO5XW8jb7t-35KAMY3slx05DkxKHIJcLdcUA53qMiC9K3My56xqqO7Yfu_zd7LDUQi6l1Pwxw8LPuiO-RpjHrWZtaaOcdkWimVAnkNTX0T9jLrQ-SGbaxizdXV7uHEFm1mD6WIaj4IlgZS-zqbayXS9rUZHRWbl0IgMaa-5OreIU4wxlwaTkU1v3-ghD7M"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "_RV_aqnWBNiqkdUP-vGW8AI",
+            "product_id": "838093028051302969",
+            "catalog_id": null,
+            "gpcid": null,
+            "headline_offer_docid": "838093028051302969",
+            "image_docid": "10527057324728272396",
+            "rds": "PC_13039977308809325670|PROD_PC_13039977308809325670",
+            "query": "men+jeans+under+%E2%82%B92000+india+levi%27s+wrangler+pepe+jeans+spykar+roadster+highlander",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIMUHVuamFiLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\n4. **H&M — good for modern fits**  \n   Good option if you prefer relaxed or contemporary styles; several men's jeans are around ₹1,399–₹1,999.\n\n5. **Spykar — good Indian denim brand**  \n   Worth considering, particularly for stretch/comfortable everyday jeans, though some models exceed ₹2,000.\n\n### My ranking\n**Wrangler > Levi’s > Pepe Jeans > H&M > Spykar**\n\nIf you tell me your **height, weight, waist size, and preferred fit (slim/straight/regular/loose)**, I can narrow it down to **3 specific jeans under ₹2,000** that would suit you best.",
+        "sources": null,
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

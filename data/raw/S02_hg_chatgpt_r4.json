@@ -1,0 +1,432 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 4,
+  "promptText": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+  "cellId": "S02_hg_chatgpt_r4",
+  "startedAt": "2026-08-14T12:32:46.441Z",
+  "finishedAt": "2026-08-14T12:33:35.348Z",
+  "durationMs": 48907,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Haan 👍 Indian skin tones par **white cast avoid karne ke liye modern chemical/gel sunscreens** generally best rehte hain. Maine current options check kiye—mere top picks:\n\n### [Deconstruct Gel Sunscreen SPF 50 PA++++]()\n*₹237*\n\n### [Minimalist Light Fluid SPF 50]()\n*₹315*\n\n### [The Derma Co 1% Hyaluronic Aqua Gel SPF 50]()\n*₹452*\n\n### [Re'equil Ultra Matte Dry Touch SPF 50 PA++++]()\n*₹580.50*\n\n### 🥇 Meri first choice: Deconstruct Gel Sunscreen\n- **SPF 50 PA++++**\n- Lightweight gel, **white cast nahi**\n- Oily/combination skin aur Indian humid weather ke liye particularly achha\n- Current reviews/guides bhi ise no-white-cast option ke roop mein rate karte hain. [thedeconstruct.in](https://thedeconstruct.in/blogs/skin-information/best-sunscreen-without-white-cast-in-india-for-face?utm_source=chatgpt.com)\n\n### 🥈 Agar skin normal/dry hai: Minimalist Light Fluid\nBahut lightweight, dewy-natural finish. Recent user feedback mein bhi **no white cast** aur comfortable texture report hua hai. [www.reddit.com](https://www.reddit.com/r/IndianBeautyTalks/comments/1rob031/sunscreen_reviewsrecommendations_please/?utm_source=chatgpt.com)\n\n### 🥉 Agar oily skin hai: Re'equil Ultra Matte\nPrimer-like **matte finish** aur oil control ke liye strong option. Lekin very deep skin tones par application ke turant baad halka cast dikh sakta hai jo settle hota hai—so agar aapko *bilkul zero cast* chahiye, Deconstruct safer pick hai. [www.oilyskinfix.in](https://www.oilyskinfix.in/2026/04/reequil-ultra-matte-sunscreen-review-oily-skin.html?utm_source=chatgpt.com)\n\n**Agar aap mujhe apni skin type (oily/dry/combination) aur approx budget (₹300/₹500/₹1000) bata do, main aapke liye ekdum 1 best sunscreen choose kar dunga.**",
+  "citations": [
+   {
+    "url": "https://thedeconstruct.in/blogs/skin-information/best-sunscreen-without-white-cast-in-india-for-face?utm_source=chatgpt.com",
+    "source_name": "thedeconstruct",
+    "position": 1
+   },
+   {
+    "url": "https://www.reddit.com/r/IndianBeautyTalks/comments/1rob031/sunscreen_reviewsrecommendations_please/?utm_source=chatgpt.com",
+    "source_name": "Reddit",
+    "position": 2
+   },
+   {
+    "url": "https://www.oilyskinfix.in/2026/04/reequil-ultra-matte-sunscreen-review-oily-skin.html?utm_source=chatgpt.com",
+    "source_name": "oilyskinfix.in",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "48.6344 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141232-2163-0629-0000-3f4967bc32df",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "48.6156 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Mujhe%20aisa%20sunscreen%20kharidna%20hai%20jo%20Indian%20skin%20par%20white%20cast%20na%20chhode.%20Konsa%20best%20hai%3F&hints=search",
+      "datetime": "2026-08-14 12:33:35 +00:00",
+      "markdown": "Haan 👍 Indian skin tones par **white cast avoid karne ke liye modern chemical/gel sunscreens** generally best rehte hain. Maine current options check kiye—mere top picks:\n\n### [Deconstruct Gel Sunscreen SPF 50 PA++++]()\n*₹237*\n\n### [Minimalist Light Fluid SPF 50]()\n*₹315*\n\n### [The Derma Co 1% Hyaluronic Aqua Gel SPF 50]()\n*₹452*\n\n### [Re'equil Ultra Matte Dry Touch SPF 50 PA++++]()\n*₹580.50*\n\n### 🥇 Meri first choice: Deconstruct Gel Sunscreen\n- **SPF 50 PA++++**\n- Lightweight gel, **white cast nahi**\n- Oily/combination skin aur Indian humid weather ke liye particularly achha\n- Current reviews/guides bhi ise no-white-cast option ke roop mein rate karte hain. [thedeconstruct.in](https://thedeconstruct.in/blogs/skin-information/best-sunscreen-without-white-cast-in-india-for-face?utm_source=chatgpt.com)\n\n### 🥈 Agar skin normal/dry hai: Minimalist Light Fluid\nBahut lightweight, dewy-natural finish. Recent user feedback mein bhi **no white cast** aur comfortable texture report hua hai. [www.reddit.com](https://www.reddit.com/r/IndianBeautyTalks/comments/1rob031/sunscreen_reviewsrecommendations_please/?utm_source=chatgpt.com)\n\n### 🥉 Agar oily skin hai: Re'equil Ultra Matte\nPrimer-like **matte finish** aur oil control ke liye strong option. Lekin very deep skin tones par application ke turant baad halka cast dikh sakta hai jo settle hota hai—so agar aapko *bilkul zero cast* chahiye, Deconstruct safer pick hai. [www.oilyskinfix.in](https://www.oilyskinfix.in/2026/04/reequil-ultra-matte-sunscreen-review-oily-skin.html?utm_source=chatgpt.com)\n\n**Agar aap mujhe apni skin type (oily/dry/combination) aur approx budget (₹300/₹500/₹1000) bata do, main aapke liye ekdum 1 best sunscreen choose kar dunga.**",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.nykaa.com/beauty-blog/dermatologist-recommended-sunscreens-india-2026?utm_source=chatgpt.com",
+        "domain": "www.nykaa.com",
+        "title": "Dermatologist-Recommended Sunscreens: The Clinical Guide to Indian Skin (2026) | Nykaa's Beauty Book",
+        "description": "Dermatologist-Recommended Sunscreens: The Clinical Guide to Indian Skin (2026)  by Gauravee Pathak  18.1K views | 0 shares  May 05, 2026  While trendy packaging is tempting, skin experts look for thr...",
+        "breadcrumb": "nykaa.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.nykaa.com/beauty-blog/ultimate-guide-choosing-sunscreen-for-indian-skin?utm_source=chatgpt.com",
+        "domain": "www.nykaa.com",
+        "title": "The Ultimate Sunscreen Guide for Every Indian Skin Type (2026 Edition) | Nykaa's Beauty Book",
+        "description": "Skin  The Ultimate Sunscreen Guide for Every Indian Skin Type (2026 Edition)  by Gauravee Pathak  1.2K views | 0 shares  May 05, 2026  In the diverse climate of India-from the humid coastlines of Mum...",
+        "breadcrumb": "nykaa.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://glowdekho.com/blog-best-sunscreen-no-white-cast.html?utm_source=chatgpt.com",
+        "domain": "glowdekho.com",
+        "title": "Best Sunscreen for Indian Skin — No White Cast Under ₹500 (2026) | GlowDekho",
+        "description": "BEST SUNSCREEN FOR INDIAN SKIN — No White Cast, Under ₹500  📅 April 2026⏱ 6 min read🎯 Tested for Indian skin tones  The white cast problem is real — but it's also completely solved. Old-generation mi...",
+        "breadcrumb": "glowdekho.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.hindustantimes.com/lifestyle/health/best-sunscreens-for-indian-summer-2026-top-8-picks-that-prevent-sunburn-and-premature-ageing-101772536097297.html/?utm_source=chatgpt.com",
+        "domain": "www.hindustantimes.com",
+        "title": "Best sunscreens for Indian summer 2026: Top 8 picks that prevent sunburn and premature ageing | Health",
+        "description": "BEST SUNSCREENS FOR INDIAN SUMMER 2026: TOP 8 PICKS THAT PREVENT SUNBURN AND PREMATURE AGEING  By Shweta Pandey  Updated on: Mar 03, 2026 05:20 pm IST  [Input]  Share Via  Copy Link  WITH SUMMER ALMO...",
+        "breadcrumb": "hindustantimes.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ndtvshopping.com/beauty-and-grooming/best-spfs-that-wont-leave-a-white-cast-or-feel-sticky-in-humidity-11679621?utm_source=chatgpt.com",
+        "domain": "www.ndtvshopping.com",
+        "title": "Best SPFs That Will Not Leave A White Cast Or Feel Sticky In Humidity - NDTV Shopping",
+        "description": "5 BEST SPFS UNDER ₹500 THAT WON'T LEAVE A WHITE CAST OR FEEL STICKY IN HUMIDITY  LOOKING FOR A SUNSCREEN THAT FEELS WEIGHTLESS IN HUMID WEATHER? THESE SPFS OFFER BROAD-SPECTRUM PROTECTION WITHOUT LEA...",
+        "breadcrumb": "ndtvshopping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://chokchok.app/selections/indian-sunscreen-starter-kit?utm_source=chatgpt.com",
+        "domain": "chokchok.app",
+        "title": "Best Indian Sunscreens 2026 — Minimalist, Re'equil, Aqualogica, Dot & Key, Deconstruct, Plum SPF Ranked | ChokChok",
+        "description": "THE INDIAN SUNSCREEN STARTER KIT  Ten Indian sunscreens from eight brands — Minimalist, Re'equil, Aqualogica, Dot & Key, Deconstruct, Plum, Earth Rhythm, FoxTale. India's SPF revolution, from matte m...",
+        "breadcrumb": "chokchok.app"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com",
+        "domain": "sskin.care",
+        "title": "The 33 Best Sunscreens in India: Every Label Decoded (2026) — sskin.care/",
+        "description": "THE 33 SUNSCREENS  Pick a category. Each sunscreen shows UV filters, verdict, skin type match, and price.  [Button: Budget (<₹500)] [Button: Mid-Range] [Button: Pharmacy] [Button: K/J-beauty] [Button:...",
+        "breadcrumb": "sskin.care"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.mirhaandco.com/blog/best-sunscreen-no-white-cast-india?utm_source=chatgpt.com",
+        "domain": "www.mirhaandco.com",
+        "title": "Best Sunscreen with No White Cast in India: Brown Skin Approved | Mirha & Co.",
+        "description": "BEST SUNSCREEN WITH NO WHITE CAST : BROWN SKIN APPROVED  No more chalky residue. We review the best physical, chemical, and hybrid sunscreens that dry down completely clear.  Updated June 2026  ·  8...",
+        "breadcrumb": "mirhaandco.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.femina.in/beauty/skin/amp-stories/5-lightweight-sunscreens-for-indias-warming-spring-weather-289632.amp?utm_source=chatgpt.com",
+        "domain": "www.femina.in",
+        "title": "5 Lightweight Sunscreens For India's Warming Spring Weather",
+        "description": "By Tushita Chauhan  5 LIGHTWEIGHT SUNSCREENS FOR INDIA'S WARMING SPRING WEATHER  Mar 20, 2026  1. CETAPHIL SPF 50+ SUNSCREEN  Sensitive skin deserves a sunscreen that does not make things worse, and t...",
+        "breadcrumb": "femina.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?_pos=7&_sid=84e4818d8&_ss=r&utm_source=chatgpt.com",
+        "domain": "beminimalist.co",
+        "title": "Light Fluid SPF 50 - Broad spectrum, PA++++ Rating, Water & Sweat Resistant - Suitable for All Skin Type | Minimalist",
+        "description": "OFFERS (5)  ATC5  Get Additional 5% Off on orders above ₹299/-  ATC10  Get Additional 10% Off on orders above ₹599/-  TRAVEL599  Free travel pouch on min purchase of ₹599/-  B2G3RDFREE  Buy 2, Get th...",
+        "breadcrumb": "beminimalist.co"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "No White Cast Sunscreens in India: Best Picks for All Skin Types",
+        "snippet": null,
+        "domain": "thedeconstruct.in",
+        "url": "https://thedeconstruct.in/blogs/skin-information/best-sunscreen-without-white-cast-in-india-for-face?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "thedeconstruct",
+        "publication_date": "2026-03-25 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Sunscreen Reviews/Recommendations Please!",
+        "snippet": null,
+        "domain": "www.reddit.com",
+        "url": "https://www.reddit.com/r/IndianBeautyTalks/comments/1rob031/sunscreen_reviewsrecommendations_please/?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Reddit",
+        "publication_date": "2026-03-08 17:38:32 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Oily Skin Fix India: Re'equil Ultra Matte Sunscreen Review: 6 Hours Oil-Free or Just Hype? (April 2026)",
+        "snippet": null,
+        "domain": "www.oilyskinfix.in",
+        "url": "https://www.oilyskinfix.in/2026/04/reequil-ultra-matte-sunscreen-review-oily-skin.html?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "oilyskinfix.in",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best sunscreen no white cast Indian skin Minimalist Light Fluid Deconstruct Gel Re'equil Ultra Matte 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Haan 👍 Indian skin tones par **white cast avoid karne ke liye modern chemical/gel sunscreens** generally best rehte hain. Maine current options check kiye—mere top picks:\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "16813103342251476472",
+          "merchants": "Myntra + others",
+          "id_to_token_map": "_965m3icdZC7jqtWFIaTPEGq1NOPRtqbi4GMpsBcbPAAZgObS2PhDZg7DAaDR3mYaM5FOimTSGnyIucUeY6UcU6drPZb-v61_r---f4tLf5QT-MhvmygmDrKfKz2y9SuO5t86ocumchYJL9DAFkeCCuBYWiG4Sga8PATice47k7_4hUPaQhomqEoFjLc6rbya57GSV20qZVl6SB3pEh-ExiOuSkYhgU0D1kOrLhfiiY-pV_xTSMIHEtRDBQAx9zCKAq8G5LzZ2YvHSCkVlAQWBZyKxYC7ibgftojSz78D_zwMqXD9fNdkpKuPY_D7ZP7U1rfn6f2TIY0be_PfXbPsh9O_dfw_1C8a4rk53f9ZXzLT--nqU7_nO8lUbM1STOdjXpNfXUKnUU_NqgP7bdT_Va0b3n9lrYfu7i_ZOTLt38rFyJJA5Fsr--xjIBTiqwLsGVseOhtRsdT0AWrCCdVbxuv0WD6QmPCPkxkNKPX9ZJA8xLVEUJtsou8KI8a9ox9Zj5SNjQC3XRcZfa3dRt6zIxKjzYafQzpyPabRTZUfevSxkIq4XYjyxoVAyx3nZFqjPFG8J0tNjwKXyKI1bSJFNNDgbMxb67FOpZq-OwJGfZx6VcR9rz6HABkh7gvk1rfYgXVPq6nsLJZtM23x1J5DaAQEjovsLKgIySs0-YLgbkX0hpr0x7ryGqFWnH0fROgdg2QXwdGBXGs5nHSjMguE-tYRXNYm7Pt5p3ZqHTcJq2vdMDdJIPhwCJ2jZlU2hK1qDliAdhBDTAFXUT1SqrqZ88BkKgmdCndstyQDYE5mR6mPc-7klq3_dpjDApcTSUKXcW-4qY3U1w5KojaRBXypCKL7WMXBUkRwzWT-Kx0hGq5KfQ12ppXy48cP1A9RNUZqZFrVknp-P2MCyiT14T1sd5YSo_eL-ch-wxElR0di1FNFlZyWqDTKc2GfOpDcY8fwJ7G9o-Q41ccBDxYURz8SLquKtIv3_1wODgpmYb0wXHR_kk0m2iOaVPPrkB8VmJmhZaNJU0P6wa8MnlGuW4ijEfe9jarNMPy2FbQ70syxxeVM8RtaRj5vm-vNlPr3MuVugQkf6mfGSFQukXtpTjBu8c7RxGRtD04oqE4mqs8SSdbW1bK-vFOVKQnMdGxEk9ZSce58aAGlLInBxoTVQp4uQ86pnJj6sF8LvTe0Z0VrFWtIxxDksV-vJPx05mGvlwqS0BO40nsErA-bHvjGUyOoYhqZyXgcn1d9DCaefE2j3emJj-xNP3kuuWOtZdsHnzj8BIFjObLqZ74mKMDey0qJAwTKlo1qn7lpw2C-dW1zs8mu-aDHrQPnYF2ty5V4aIUxxSBdfdAg67wRtwWfDYq-6bkjn0MGF6W3DRbxNJaZydulNHLvqpKsxvkc9Aq-3pnkIJcU9JWY24xudTOe61Zd_Ml3h2nlMozKRrUfVc_Z50yqtJxdd0vR83ka482HbDZtrEl9rxn7vL14FMbfhyIuqKCk0CeX1NvK4pxMmvHpN6emtNaywJN9FNlR71EaU7No3XWQu0fRj3lmQ",
+          "title": "Deconstruct Gel Sunscreen SPF 50 PA++++",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 1800,
+           "rating_max": 5
+          },
+          "price": 237,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/73vecXicDcnbCoIwAADQL1IXkWkQUaQW1mpUqHsRnffaJTet_VW_09_UeT3fT6OUkAvLKhnptVBlYaicAbOWKlMtMQmnlmy4EC2rV8_l_xZrWLgBuXJcTBJ6q3AvYWhncYiaUsPqHRy8eKiTmac7Yeghgil1Lhw5aLQ5Ai4bnXu1TRNwiZy5p-GmjbUvaZcbfNr7eI_9IT8a-Z5ed-4DkOeLvNlrTdLuHIJTjNEP6JQ_eg"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "Fgt_avG1AeSEwbkPxunBoQc",
+            "product_id": "10158096944344723081",
+            "catalog_id": "16813103342251476472",
+            "gpcid": "11261995517651073817",
+            "headline_offer_docid": "9474944445038157067",
+            "image_docid": "16997522419074694220",
+            "rds": "PC_11261995517651073817|PROD_PC_11261995517651073817",
+            "query": "deconstruct+gel+sunscreen+spf+55",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICINSGFyeWFuYSxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10913482140093209701",
+          "merchants": "Minimalist + others",
+          "id_to_token_map": "sXVq7HicbVPJrqNWEE3_QT7h7bJ4ssQ85OktMIMBGzBwL9hsLHwvNpjBmMEGlI-JXg9SZ5lEWeVHuhdZ5CeyDVG2XZsqqY7qVJ2q-uu779-S7A_t0R3iTsiv_J3iHwebd45nyf1cN1fcoy7Dv_E0y_Eky_IUwfKkyM3BZxR3cXE9Z_h3khBJmhEokiEIkaYIkSfIX9MkxkVWJc7plDTKFc1VKIKnaVIQRJETGJrnWZH_JSvjc_J_mmdoTiAohqKIGcRSM8v7BrdfqK18mNlFmiYogeIEimHEGfLT1nOUw7dzH2990oxffiizaiYosrZ7LrJz2j2fij7Dz21ftahJkuq5rU_PLPHxXP_XwDcKvS8z_PP7-t69pecPfV8kfz6eZclwDdmw_ZU2JqHW7_3BPJZevXffzsVbVr2lxVtSfbrG9f2Evr77R73vZblBsgvrOlA8wgc2A5TohkiTBmoXhNAECFhkmA-kHYgXUEbBMVh6oeKtfXUYQoAzf1qWdoUzqKRrFKaOrdhqXNiVXWJjR6tkcolUl7JbTxUfLrCIPWT1ox6oLhlc_NImAHHtYrIuIkroLE0M49K8hRBNgK4zvIpGVHk9gkWGtPqOYWTDyvSSct85K7KONS8LVqYLL2a7L9MNoLSVr-HOX3kg2KXOJoyGiOgID0YMBMYDazbEpSeDkFUAjW_JZcmFge1sAjjAS2EDCq_cydujvDDi0OOSXLMwsE9Q127g4hJgZ8aREoAoNxs77G5Yrymo2SCGZh0H0S2CNRGFqLNDiz7CIIvLfEjKWnODnPUUzMZhDYOidhKg-SAP3LhIO0uPViFI73syDVBOXiwNX_0qckNQpBYREXCHfC2PaKyJKVbS5jhhyrpgekcwNKDMyg3U2Mg1FdEGGxXGEKjnKVnlI4QsO2s-wrwOAJX2x8qLZu_EK_RhaJvTF0LS2M53uCvVOIZ0pLs2VuhRMdFC2w5nhttYjx9JXphPjxDm92DIT-h6zbPk67u_Dwc_QX2TLHzgbV8lu4weMXni2PFYn05L05O8Yd4TPJzcYUlTvpeQ0NTrNNEqfQpP3VmeR5wa22n8Vt8UWkupRsQcaD2NZZ7baXD0bXlKMH087IS9kixg-vLkq5In6wdfslTfAOqrfHaNgVOXL0-SKr9K2Jx1aA2b98e1ush8hM9ozXQmt7SSStQJThhiFQfddtg2_e6co3LdzXOZj5cn21BeWZp-XWUbzjw4k6SqCN-3F53PQ5qjuz7XqXHPLDw9V9P0wcpHcsPf6mliATm4x9vRLKGUQ9VejRzKtw-MlXbEUxT7TsPLfn5r4-W1q4p6v_cvwdbEm26yeymnTySjW6FMMtRhdBgvrxXB4E7EA69adjBsnbwGSkIHsFBpacVVvZfyUy6v3f4yhWuJQ2NSEGgZ7fLFjk1yi2sPzUks149wQ50XwR3EQu5rl_vLkxK8MqR1U46MxqVtSSjLLZp8Xwup4TBaqrS8RuEt1vxtJ00PQ5rtX0vA1t8",
+          "title": "Minimalist Light Fluid SPF 50",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 358,
+           "rating_max": 5
+          },
+          "price": 315,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/SiYWmnicDcnxDoFAHADgJzqRUG1m6WhxK5Fl_WO5Wpf06-oO1VN5HW_D9-_3_TApuTAVJQPa9lxmKZI3mIxyIRNZ0BGtK0WwmvMC8lWz_J9peanh0NDdIaHZJ4ZwWqmv6LYhDcyuvdMccai6YZwcSBwZ_LLN9mJNFuV6gInuaNSuvKoVxMcxUPWJtTkInRk5mhG_Zu_mXjxwENhzwEE67vRzVtZJWMJwtLr27k7zH12RPls"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "Fwt_at8ko7v27w_N7ObgAQ",
+            "product_id": "7356715572057196572",
+            "catalog_id": "10913482140093209701",
+            "gpcid": "6719330282682449201",
+            "headline_offer_docid": "2073318899684377597",
+            "image_docid": "7436802422018852657",
+            "rds": "PC_6719330282682449201|PROD_PC_6719330282682449201",
+            "query": "minimalist+light+fluid+sunscreen+spf+50",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICINSGFyeWFuYSxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "3880120113472803273",
+          "merchants": "Amazon.in + others",
+          "id_to_token_map": "KVCHHnicdVK5juNGEDX2Cxw4crSJI2GAbh4i6cEE4k2N1BLZvBOBl0iKV0skh5Tgr5k9gHW4a8CJf2Q38LdY2MCRXShUUK_q4eHh_f3Dj69Z-aeaD4dolGRxvdtNcbWHY6N1pvmJXLp0TIYy_cLRAsdTkAWQh1AQBJrjPyXRENVdfkdpngeQAhDSDEfxgKY4-nORRWldttnueMwucpeU6R_3kyUFBJZnBYZhKHbJ8tTvZRPl2Xf8C3V_5CnAMxygAcsJPAffXdL-K7OXDhCySwggx9wZKBZQS0gJv-2tnXz4H_DDecwu169P_dj2ySXL2kXbLaaiHLJFEvXDomzTMmoXfVXeBzkuWLAg0S-U-G8v8qz-kJPvwv-D_11Tpp9Zbnnf8QLNMEtAc0Dg35GX4bXI349jnf01LaSVYRqSgbCmXjNPHQM8r-PGIoH5mtevZfta1K9Z-7GLyMsx-fbmJ6WbZKmfJNMhxJUtgKlCjGoRZ-p6wBgOOzc9R5Rxixxrj2gUBVCcTRuZSEnZ-JbQgVu0XkP0uEGbGKw9BBHIfBLZHpE8hwRBtR4dSr1YSjGalLux7eJmV2qPtNpwmiGyVXG7VVxiUsns-ihMGp52aLRFqmpgvbriKrmFsto4FHO1akGzNWWynZls1dp1wHCyqvyGKri2b8gKfHXe1shNaVGPnTny_Bph2fJDP9U2LiEmTCVXJR627340IYOARVIZaZEeMLixSstL9axSLUQXdOgWLvJRa98cJgCCboFi2jnqLgXkJYbhi-W6Vea5XeBZNlLYynbQyWkQFYNZ93zxEsnWNqQQDsCw9k7GbHswCIC7sQAMg4rMWKufndbCrjdr2CvohOIZR4GhrTlTehOh50A1gRbJqunuc6pgxdIxLfquMiOrFm3bS4bgZrI7lccqCNtUFYrUQYpZkb1N35MGV3PqQT2GqqWVa9HS0XXnhXZSrdUEhMRzat1VEDb9mrZA6kUuOsZtvfdaV3w_95fjV7BS2QHvGGTs0ik-QNVZmcsgv8StujmDcltL-a-Q45ccBDxYMlD4mHRdVWbf3vx8OOAsGS_Zw93p_dMKNeEUAfoYDbu06ejsKlzPJiXoyYN81lFnlLFqRha6-X0AJA238622SjvGzy7qlMDLC64szP6iTZLgng9GWya1YBZHNgcWkPrLRHXV41usrCxJP-DVVsGGrTxJuWnMS0V8fLtSpKdVunaVaAD7gauXFe6ll-wkmVN2VUZtKHBePBPOtq5eu1XW64PP9sFuLvfF7rR6fCu7Tznnp-ODHp88MABZ3Cc3jFWPFkfJVFZiF3rnSMX7YXWazNW9Ht8iQ35iaeYpDY06LqdNPC11R6bTNd1WRFNBKVISZ584ug1E9oZsw749n_VmYDSJGAeHgk1r5OE1xnvMwlZ45ieX3IOYt2dGoGRD4YDHdpvby17pV_4uYrOWJHtKDrfmkcYHe4oDMipL2yvyVcZeka6m4vO6XhptDRWpOMEjkGuXOVNruBnG_RhZNi9f8pIfRX-z8aJEdDmtKZiEPvHjhbQ93SLFusHzc6IldVL1dOD75ATG40nrTuVSienk7Gwf7E0nXn2DoaLztiUsyTP2-XDg-jofsn0Kd9E_PMr6ew",
+          "title": "The Derma Co 1% Hyaluronic Aqua Gel SPF 50",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 4200,
+           "rating_max": 5
+          },
+          "price": 452,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/Z9XTz3icDcndEoFAGADQJ6pQg23GmJT8049k3TRbLW3Srvo05aG8j7fh3J7vJwMQta4otEyqTgBNJYhLVb7VQIAlcsIfSp1xIVh5mz4n_9ONfYoWie-TPl0aBD8POUej6rK-R9RWDW1TEfu0Det43DhZ7oYz746hYV4qBUVxbVjPHs19RAZvDKHZekakDVuEA8LR-SVyywdqxquox6TK5aE1UCOys5t4luJj93J-K3E-Mw"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "Fgt_auCDBJOOwbkP1umGoQQ",
+            "product_id": "7397821501811999378",
+            "catalog_id": "3880120113472803273",
+            "gpcid": "11561017462025026129",
+            "headline_offer_docid": "12062095859444256582",
+            "image_docid": "2327820847030579871",
+            "rds": "PC_11561017462025026129|PROD_PC_11561017462025026129",
+            "query": "sunscreen+no+white+cast+indian+skin+spf+50+pa%2B%2B%2B%2B+gel",
+            "mid": "576462893446037098",
+            "pvt": "hg",
+            "uule": "w+CAIQICINSGFyeWFuYSxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "11025672868353804453",
+          "merchants": "Re'equil + others",
+          "id_to_token_map": "mmvOwXicbVTJrqNWEI36C7LIPr3J6skRo4E8vQVmxuYaLjMbCzMYzGWwAQNWvub1IHWWnUjZ5Ee6F_mWuLNNalnn6FTpqE79_d33r1n5p8IPh3hsErC9VOXOMFcr4cBa06fu2qZjMpTp7zRJEjRN0QxJrtk1w3Ek9SmJhxi1pzL9A8cxgl4zBLtmSZpkMYqiyc9FFqeobLJ9nmdXsU0eKiT3YOEEyxEk-dCiHmK_lXV8yv6FP7Mc_ZiCYyyO4xTFMjT57pr2XzBTOBAcSxAEw6wZCmfYNcZSv5pwLx7-F_pwGbPr8uXna_YTwWSXsURPIxqu8VMdD0P2lF6Xp6Edk-KpH5s-uWZZ83TK0IdT922J_8q9qx9tmllTa4LCMGLNMTjDUNS77ja8Fqf344iyv6YngdcsTdCArchL5stjaM_6sYZdaL2e0GvZvBboNWs-tnF3y5Ovb36Q2kkU-kmw3K7zRIg5aktbOIpTRYduLZHQB6Pn6YHh4huPgOTR1-uwRvewohfgerMh63aAzUrigsKW9diRkW0gNNqBtcTnZI4RsG0XkEZ9WiysvYdNdHGIYfKqNDgqJ_qoRl3iG1isgiKrcdrwB-TcUy9tvMq4e2YkbtZAomcoFbkvRTMgPS1SaDeRBj2SPcsmetyQhi4TkWr5kNoHKM88Hd_L4ZRKc7WX071XyZVFpDJ05C10LDKpi3ovgt4R4d6uCzGuYHtUCxo21WKIwAzuwIwDAI9i0QHPk0N3mIEPAoOYtwCPCPse4pazIW0EXVeCVUTgF--MRodEOcR1dJS8yZFSsHM7O_QqLMaGyXVS8LBwTNRIPdp4F_l0YGDd8vCF9OQuyhSkZc2mzvw5CtFmNPxCf_D7hw91dNc3vj8TIQ4D945CT00pWNOLoxaBgxm2jKWbVOaK1KfPTjXMMYEMx-OHnQvyvSyTSqlvoAqWvR9B4MtmQEIbKhadEFCN8JaERIjFjaxkEiB8xDXv5_6af8F4mR7sPeOALsCxOSeJPWtjw1Lj8fkoGm3VTb98O03mkRSMw9j1x6RtqzL7-uZHW-KhoB5s3pBszZFehJOlzWtp8_yWl4QXPtU9Kb6NZ0G7WjkriOcNkBQWMie4pSaLLM79flvPRcvjSmWaSjNmPUX33Iqjnt-K3ktCWtHuEMe20jeTuAKHiz2t27g2S0ni9S64a9z2hlOI4y3-Uc9vgSa-PD7HS1ptL3SAO84CxyIYpMlXZMmeJndz3Xr0nK-2tjtmJYaxrOAVdb4P2GWFgZ6-pXpIJZwXStL1ktqqIl70R1BWlIPPfneCiLe4dO8bUynLLTMtO6eU2izykt2xFWdMyHzY5dOAgrC5ure8bIXa7EsuJLxzaoquITLs4bJNqC7XosuNO1-mnQPWCYkPai7H9CFkseOZGW5uLexUiiVCQxt3VT5dkFZ6WYnLhw4QehCYgnK4bLrzKuqDXlBLg1jXj0T4gltGKxFXdkrZTEnUcmQvWU7nnQ7-89vDwc6S8ZqtbAeaLzyooynGpu0E7nJFDKtCW2366SLfNK2XePPYRDQKZkQzSWDfbId34S4xp_QaBo7R7ZZ7QW-1JRTuVHV0o5Fs7pUhOe7OlsxFT42y4wjvHzIi-Pk",
+          "title": "Re'equil Ultra Matte Dry Touch SPF 50 PA++++",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 410,
+           "rating_max": 5
+          },
+          "price": 580.5,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/XeDOWHicDcnbCoIwAADQL0pTMlGISEOzyDEK23wRnZdpXqYubf5Vn9Pf1Hk93w_lnI2mLGctGQTjWbriSatIxchjXhKJdI080o6xsi32_e5_5sFPDZfAJoT4vFBdW1QlQ8KAwzzXW4awgxXbK5dCBQwFYGEABdfjxvUCXxfWMwzyXiR-03m5QgAaxAxQfycvzGk1RfGNTvHqAS3VofYb4clR9b5CMKr5Ja3FSUvWPzQHQIQ"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "GAt_auncNKqkiLMP--C_8Qw",
+            "product_id": "5332554573368679934",
+            "catalog_id": "11025672868353804453",
+            "gpcid": "298222776741786084",
+            "headline_offer_docid": "3956712892334574336",
+            "image_docid": "895325108111448753",
+            "rds": "PC_298222776741786084|PROD_PC_298222776741786084",
+            "query": "re%27equil+ultra+matte+dry+touch+sunscreen+gel",
+            "mid": "576462400269717744",
+            "pvt": "hg",
+            "uule": "w+CAIQICINSGFyeWFuYSxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n### 🥇 Meri first choice: Deconstruct Gel Sunscreen\n- **SPF 50 PA++++**\n- Lightweight gel, **white cast nahi**\n- Oily/combination skin aur Indian humid weather ke liye particularly achha\n- Current reviews/guides bhi ise no-white-cast option ke roop mein rate karte hain. [thedeconstruct.in](https://thedeconstruct.in/blogs/skin-information/best-sunscreen-without-white-cast-in-india-for-face?utm_source=chatgpt.com)\n\n### 🥈 Agar skin normal/dry hai: Minimalist Light Fluid\nBahut lightweight, dewy-natural finish. Recent user feedback mein bhi **no white cast** aur comfortable texture report hua hai. [www.reddit.com](https://www.reddit.com/r/IndianBeautyTalks/comments/1rob031/sunscreen_reviewsrecommendations_please/?utm_source=chatgpt.com)\n\n### 🥉 Agar oily skin hai: Re'equil Ultra Matte\nPrimer-like **matte finish** aur oil control ke liye strong option. Lekin very deep skin tones par application ke turant baad halka cast dikh sakta hai jo settle hota hai—so agar aapko *bilkul zero cast* chahiye, Deconstruct safer pick hai. [www.oilyskinfix.in](https://www.oilyskinfix.in/2026/04/reequil-ultra-matte-sunscreen-review-oily-skin.html?utm_source=chatgpt.com)\n\n**Agar aap mujhe apni skin type (oily/dry/combination) aur approx budget (₹300/₹500/₹1000) bata do, main aapke liye ekdum 1 best sunscreen choose kar dunga.**",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "No White Cast Sunscreens in India: Best Picks for All Skin Types",
+          "snippet": null,
+          "domain": "thedeconstruct.in",
+          "url": "https://thedeconstruct.in/blogs/skin-information/best-sunscreen-without-white-cast-in-india-for-face?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "thedeconstruct",
+          "publication_date": "2026-03-25 00:00:00 +00:00",
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Sunscreen Reviews/Recommendations Please!",
+          "snippet": null,
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/IndianBeautyTalks/comments/1rob031/sunscreen_reviewsrecommendations_please/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Reddit",
+          "publication_date": "2026-03-08 17:38:32 +00:00",
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Oily Skin Fix India: Re'equil Ultra Matte Sunscreen Review: 6 Hours Oil-Free or Just Hype? (April 2026)",
+          "snippet": null,
+          "domain": "www.oilyskinfix.in",
+          "url": "https://www.oilyskinfix.in/2026/04/reequil-ultra-matte-sunscreen-review-oily-skin.html?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "oilyskinfix.in",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

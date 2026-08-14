@@ -1,0 +1,444 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 8,
+  "promptText": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+  "cellId": "F02_hg_chatgpt_r8",
+  "startedAt": "2026-08-14T13:21:10.367Z",
+  "finishedAt": "2026-08-14T13:21:38.633Z",
+  "durationMs": 28266,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Bilkul. **₹3,000 ke andar** abhi mujhe ye options sabse sensible lag rahe hain:\n\n### [Decathlon Jogflow 190.1 Men]()\n*₹2,499*\n\n### [Decathlon Jogflow 100]()\n*₹1,599*\n\n### [Kalenji Run Active Men]()\n*₹1,299*\n\n### [Decathlon Jogflow 100.1 Women]()\n*₹1,599*\n\n### [Reebok Flow Advance Men]()\n*₹1,150*\n\n### 🏃 Meri picks\n\n**1. Decathlon Jogflow 190.1 — ₹2,499 ⭐ Best overall**  \nAgar aap **regular running (5–10 km)** karte hain, ye meri first choice hogi. Cushioned hai aur Decathlon ise up to 20 km/week running ke liye list karta hai. [www.decathlon.in](https://www.decathlon.in/c/24175?utm_source=chatgpt.com)\n\n**2. Kalenji Jogflow 100 — ₹1,599 💰 Best value**  \nBeginner ho aur 2–5 km daily/alternate-day run karna hai, to kaafi achha budget option. [www.decathlon.in](https://www.decathlon.in/c/24175?utm_source=chatgpt.com)\n\n**3. Kalenji Run Active — ₹1,299**  \nRunning + walking + gym ka mix ho to economical choice. [www.decathlon.in](https://www.decathlon.in/c/24175?utm_source=chatgpt.com)\n\n**4. Reebok Flow Advance — ~₹1,150**  \nAgar sale mein genuine pair mil raha ho, to price ke hisaab se attractive option hai.\n\n**5. Women ke liye Jogflow 100.1 — ₹1,599**  \nBeginner running ke liye strong value option; current listing mein 4.7/5 rating aur 3,400+ reviews dikh rahe hain.\n\n### 🏆 Agar mujhe ek hi lena ho\n- **Regular running:** Jogflow 190.1\n- **Beginner / 2–5 km:** Jogflow 100\n- **Maximum ₹1,500:** Run Active\n- **Women:** Jogflow 100.1\n\n₹3,000 ke budget mein **sirf brand/logo dekhkar Nike/Adidas lena zaroori nahi**—current Adidas sale mein bhi kaafi running models ₹1,800–₹3,000 range mein hain, lekin exact model aur fit zyada important hai. [www.adidas.co.in](https://www.adidas.co.in/shoes_under_3000-running-trainers?utm_source=chatgpt.com)\n\nAgar aap **men/women, running distance (3/5/10 km), aur road ya treadmill** bata do, main aapke liye **₹3,000 ke andar 3 exact best pairs** shortlist kar dunga.",
+  "citations": [
+   {
+    "url": "https://www.decathlon.in/c/24175?utm_source=chatgpt.com",
+    "source_name": "Decathlon",
+    "position": 1
+   },
+   {
+    "url": "https://www.adidas.co.in/shoes_under_3000-running-trainers?utm_source=chatgpt.com",
+    "source_name": "adidas.co.in",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "27.6386 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141321-2163-0629-0000-3a491ae7fa14",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "25.0636 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Mujhe%20India%20mein%203000%20rupees%20ke%20andar%20running%20shoes%20kharidne%20hain.%20Konse%20lene%20chahiye%3F&hints=search",
+      "datetime": "2026-08-14 13:21:37 +00:00",
+      "markdown": "Bilkul. **₹3,000 ke andar** abhi mujhe ye options sabse sensible lag rahe hain:\n\n### [Decathlon Jogflow 190.1 Men]()\n*₹2,499*\n\n### [Decathlon Jogflow 100]()\n*₹1,599*\n\n### [Kalenji Run Active Men]()\n*₹1,299*\n\n### [Decathlon Jogflow 100.1 Women]()\n*₹1,599*\n\n### [Reebok Flow Advance Men]()\n*₹1,150*\n\n### 🏃 Meri picks\n\n**1. Decathlon Jogflow 190.1 — ₹2,499 ⭐ Best overall**  \nAgar aap **regular running (5–10 km)** karte hain, ye meri first choice hogi. Cushioned hai aur Decathlon ise up to 20 km/week running ke liye list karta hai. [www.decathlon.in](https://www.decathlon.in/c/24175?utm_source=chatgpt.com)\n\n**2. Kalenji Jogflow 100 — ₹1,599 💰 Best value**  \nBeginner ho aur 2–5 km daily/alternate-day run karna hai, to kaafi achha budget option. [www.decathlon.in](https://www.decathlon.in/c/24175?utm_source=chatgpt.com)\n\n**3. Kalenji Run Active — ₹1,299**  \nRunning + walking + gym ka mix ho to economical choice. [www.decathlon.in](https://www.decathlon.in/c/24175?utm_source=chatgpt.com)\n\n**4. Reebok Flow Advance — ~₹1,150**  \nAgar sale mein genuine pair mil raha ho, to price ke hisaab se attractive option hai.\n\n**5. Women ke liye Jogflow 100.1 — ₹1,599**  \nBeginner running ke liye strong value option; current listing mein 4.7/5 rating aur 3,400+ reviews dikh rahe hain.\n\n### 🏆 Agar mujhe ek hi lena ho\n- **Regular running:** Jogflow 190.1\n- **Beginner / 2–5 km:** Jogflow 100\n- **Maximum ₹1,500:** Run Active\n- **Women:** Jogflow 100.1\n\n₹3,000 ke budget mein **sirf brand/logo dekhkar Nike/Adidas lena zaroori nahi**—current Adidas sale mein bhi kaafi running models ₹1,800–₹3,000 range mein hain, lekin exact model aur fit zyada important hai. [www.adidas.co.in](https://www.adidas.co.in/shoes_under_3000-running-trainers?utm_source=chatgpt.com)\n\nAgar aap **men/women, running distance (3/5/10 km), aur road ya treadmill** bata do, main aapke liye **₹3,000 ke andar 3 exact best pairs** shortlist kar dunga.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://urbanstylefootwear.com/best-running-shoes-under-3000-india/?utm_source=chatgpt.com",
+        "domain": "urbanstylefootwear.com",
+        "title": "Best Running Shoes Under ₹3000 India 2026 (5 Tested Picks)",
+        "description": "ImageBy Abdul / May 7, 2026  5 BEST RUNNING SHOES UNDER ₹3000 IN INDIA 2026 (TESTED ON INDIAN ROADS)  Image: best running shoes under 3000 rupees in India 2026 mid range picks comparison puma asics r...",
+        "breadcrumb": "urbanstylefootwear.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://buyrn.in/article/best-running-shoes-under-3000-india?utm_source=chatgpt.com",
+        "domain": "buyrn.in",
+        "title": "Best Running Shoes Under ₹3,000 in India (2026) | Buyrn",
+        "description": "BEST RUNNING SHOES UNDER ₹3,000 IN INDIA (2026)  footwear· 15 Jan 2024· Updated 11 Jul 2026· 7 min read  By the Buyrn Editorial Team·Independently researched from manufacturer specs & public user rev...",
+        "breadcrumb": "buyrn.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.decathlon.in/c/running-shoes-25400?utm_source=chatgpt.com",
+        "domain": "www.decathlon.in",
+        "title": "Running Shoes Online Decathlon",
+        "description": "1. Home 2. Sports footwear 3. Shoes 4. Running shoes  Running Shoes  Filters (1)  Clear all  Price  From ₹799 to ₹19,999  201 items  Most relevant  Exclude out of stock  Men Running ShoesMarathon Run...",
+        "breadcrumb": "decathlon.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.decathlon.in/c/men-running-shoes-25402?utm_source=chatgpt.com",
+        "domain": "www.decathlon.in",
+        "title": "Buy Running Shoes for Men Online from Decathlon",
+        "description": "1. Home 2. Sports footwear 3. Shoes 4. Running shoes 5. Men running shoes  Men Running Shoes   123 items  Most relevant  Exclude out of stock  Kalenji Men Running Shoes Superior Grip Cushioned Upto 1...",
+        "breadcrumb": "decathlon.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.adidas.co.in/shoes_under_3000-performance-running-trainers?utm_source=chatgpt.com",
+        "domain": "www.adidas.co.in",
+        "title": "Shop Shoes Under 3000 - Performance - Running - Trainers | adidas IN",
+        "description": "Sale price₹2 579.50₹4 299.00 Original price-40%Discount ULTRA RESPONSE SHOES Men Performance 6 colours Buy 2 get 50% off  Add to Wishlist  Sale price₹2 999.50₹4 999.00 Original price-40%Discount CYBER...",
+        "breadcrumb": "adidas.co.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.adidas.co.in/men-shoes_under_3000-black-running?utm_source=chatgpt.com",
+        "domain": "www.adidas.co.in",
+        "title": "Shop adidas Men's Running Shoes Under ₹3000 | India",
+        "description": "MEN'S RUNNING SHOES UNDER ₹3000  31 results   31 items found Show items  Add to Wishlist  Sale price₹1 999.50₹3 999.00 Original price-50%Discount FLEECEWALK SHOES Men Sportswear 3 colours  Add to Wis...",
+        "breadcrumb": "adidas.co.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.adidas.co.in/men-shoes_under_3000-performance-running?utm_source=chatgpt.com",
+        "domain": "www.adidas.co.in",
+        "title": "Shop Men - Shoes Under 3000 - Performance - Running | adidas IN",
+        "description": "MEN · SHOES UNDER 3000 · PERFORMANCE · RUNNING  71 results  Filter & Sort 4  Filter & Sort Clear all close  Applied filters  Men Performance Running shoes under 3000  Sort by  * [Input]Price (low - h...",
+        "breadcrumb": "adidas.co.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.adidas.co.in/men-shoes_under_3000-sport_shoes-running?utm_source=chatgpt.com",
+        "domain": "www.adidas.co.in",
+        "title": "Shop Men - Shoes Under 3000 - Sport Shoes - Running | adidas IN",
+        "description": "MEN · SHOES UNDER 3000 · DAILY ACTIVEWEAR SHOES · RUNNING  53 results  Filter & Sort 4  Filter & Sort Clear all close  Applied filters  Daily activewear shoes Men Running shoes under 3000  Sort by  *...",
+        "breadcrumb": "adidas.co.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicdrop.in/drops/best-running-shoes-under-3000?utm_source=chatgpt.com",
+        "domain": "magicdrop.in",
+        "title": "Best Running Shoes Under 3000 India 2026 | Magicdrop.in | MagicDrop",
+        "description": "BEST RUNNING SHOES UNDER 3000 IN INDIA 2026 — PRICE, DEALS & COMPARISON  📢 Affiliate links — we may earn a commission at no extra cost to you. Read our affiliate disclosure details  The best running...",
+        "breadcrumb": "magicdrop.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://zoutons.com/news/adidas-eoss-running-shoes-under-3000-summer-marathons-2026?utm_source=chatgpt.com",
+        "domain": "zoutons.com",
+        "title": "Adidas End of Season Sale May 2026 — 14 Best Running Shoes Under ₹3,000 for Summer Marathons",
+        "description": "ADIDAS END OF SEASON SALE MAY 2026 — 14 BEST RUNNING SHOES UNDER ₹3,000 FOR SUMMER MARATHONS  ✍️ Researched by Zoutons editors 🕐 Updated: May 2026 🔗 Affiliate links included  Marathon season in India...",
+        "breadcrumb": "zoutons.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Decathlon Sports India",
+        "snippet": null,
+        "domain": "www.decathlon.in",
+        "url": "https://www.decathlon.in/c/24175?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Decathlon",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Shop Shoes Under 3000 - Running - Trainers | adidas IN",
+        "snippet": null,
+        "domain": "www.adidas.co.in",
+        "url": "https://www.adidas.co.in/shoes_under_3000-running-trainers?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "adidas.co.in",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best running shoes under Rs 3000 India 2026 Decathlon ASICS Adidas Puma Nike"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Bilkul. **₹3,000 ke andar** abhi mujhe ye options sabse sensible lag rahe hain:\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "16317936238524086368",
+          "merchants": "ajio.com + others",
+          "id_to_token_map": "PUZV0XicdZLJjqNWGIWjfoIs8gClbEstXbhchpRqYWPAYAPmApdhYzEZMKMZyoPyMqkepM4unUh5lupFniVO1sm_PEc6-o7-89d3379m5Z8eDvfRy2lWB7pBRrdrhDYHi-pLP3TpnExl-jtCkIFAAJBhAeIFlobslySaorrLy_QPioUUJ8C7yiOaATwLWf5rkUVpXbaZeThkw6pL7ikMQ1GQhwCwDAcExHMs-rVsojz71_6NZSmaFgQEWRYBQCP6w5COb8xO3FMMTfF3AsRBBOl_Cbifd9hc7f_H_HSas-H69uMwt23Z5o9j0WXjY5O1j3ObZsPjnQE8lm1aRp_yPvmnwn-EfGjK9CviWIalOVYQAAt4BiHhQ_8y_RJ9nOc6ewPnR3GhWqqoJqSRr4GHioSuRuJjEPhq7q61IlTILRIvWtzgPrBe8_q1bF-L-jVrP3dR_3JIvr37QerOK3E8i5bb92SFgbNKtXhdF4TCfUQKqLeaR9yK0teFHt4wipuLmMqaHNKXF-9Yn_BRlvRaPuiStnKlCdgiQEndnwKC1VhJgA2IgqXwrFf9SEACAkAFRtPDrcdDl-IvkUiVoYTWqRe6KXEZu-4PIQxN3KDCcdOTse6Q1xLV8rRl1lxMn-pFonTXTNEOEZCRqWhleKxVW053abuY8DHcxpUWhlA-YmiEhBQTpicNe6SMoBwStz4btwplRDNcOl0SNz2nTl2mDmG9SkUhHdohqA-2X0CnLiJSGwqRw0usoGPQ1Ce9JqJL5D6-fyRq3CltaiZch6ZPX1aOK1A2kXdxY1wsd5xMSbMTYNzsxppCP2WsylC8tu8DX9NxGzCRaxi4EW4OODNYwrWzWr5gTzgmJNzYTUK5knt1qeUc-wXKapfektCJb3VlAxzEN1mKIDE837VlKrW9WijSVqZsX73GDjFjajmZHmp1SR6UUlvitXE1vRA7fiElrXG0W602Zc20fK2NFQH4oN-4co4wXMKPl3E4vIGFjCbb5JQTE6EuavSuyaBH6Nkw9Xy_UY_I-onieJajICvcR81_TrquKrNv7x5saYHF9d5e6JKtOtKzmFvqhZWWTw8LSXxepBqRopc4s6XC59TLWVQtY-_rqnscMoc9M7crWWNrFzGLKvHd4WScbDQfcJ4_PazIs8sHYhbaI0kWR6BcZRAxco_QvDEtZaH1_k0VNi8UUwsLdXG_p4f93s6Secje2w7ePS-MJjxHkE9V6qj6zHYrj3iNZ_46zM4snleRfsrkZZlbnL0twCD6B2d_4RNEknHdbkAE-10qlejqV2DK5AsrnwZvrWiSUHc0fVGiWmDGpwdDXT0jCJ-jdZmbmvByMK9qdj4714kpzF2tqewGeThNXSVB3UxxwIxDpXaq1WmgaeNeLIK7C29mGNwCU9rPvodSVTboKqj5RtXpOWj4c5yHyXucc2Mw7yU3OVFpU6mrXvVuMa-OrLdpDlOrlqvlQKqegVDp7nvY34qC3-jJXt6LoarZI9pPyAqnswDX-rpp5C2jHUpO2ybddphXnGHHEmtVwKT2jHM46Wwd37zOGBy1GhiLayMm7XOOlWgmVgUvmPA2i7txUIBlaX23vepscI0lVOVaXp6xksduu_gb8zX5Yw",
+          "title": "Decathlon Jogflow 190.1 Men",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 1900,
+           "rating_max": 5
+          },
+          "price": 2499,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/__orxXicDclJDoIwAADAF5UtJCyJMagsKkIK1cgRWlIaBQqtFX2U__E3Otf5fjopufB1vR3w_OKyJUA2g6FRIWvJsIbHXhfdyDkb6Hpa_c8PMuLFuCy22a2t9gRyxa2nHaIUksRJsiW3WSQ6gAZ02TgR466YTRqahREWih5LjxFFR6tVk1u_JUSzBSJwfIjZCINTfJ7SpNzBBuQvWy1mtuFXTOBd9Onh4b6rHwd4PcU"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "WRZ_avquIr2m5NoPm9ng0Ak",
+            "product_id": "5534309034605896236",
+            "catalog_id": "16317936238524086368",
+            "gpcid": "14218343573532058967",
+            "headline_offer_docid": "4411383006470958765",
+            "image_docid": "66122995366500252",
+            "rds": "PC_14218343573532058967|PROD_PC_14218343573532058967",
+            "query": "running+shoes+men+under+3000+india",
+            "mid": "576462769906084559",
+            "pvt": "a",
+            "uule": "w+CAIQICIcVmFyYW5hc2ksVXR0YXIgUHJhZGVzaCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "17634259540003538184",
+          "merchants": "Decathlon Sports India + others",
+          "id_to_token_map": "kBzsxnicdZLLjrNWFoVbeYIe5AFKPS1FOgc4XPKrBtjmagPmcGdiAQcD5moMZYP6Zbr-JFIyTCLlWf4M8ixxlGl6Tz9p77XWXn_8698fefVbgONT8n6dtZFqkdkfW6ErgFj_OIw9mbOpIr9CiuNplgKIo3mKQ6zA0dyPWTIlTV_8hTmWZigkIAYAQCOahzzzc5knpKm63Dqf83HXZxX5hWZZmmYZhmUEHrE8DZHwU9UmRf43RgwEFM0xEFGAByxEAHweye0Lc9yeIE0LAkUhnkGMgASB5oDw3yO2dqf_A7-_zvm4fPnPOHdd1RWvt7LPb69t3r3OHcnHV_op9bXqSJV8XwzZXyb-YcnntiI_I45lWIpBNHh6BzTk0efhffpf8t08N_kXcH_dipqtbbXMb-UlClCZUfXNDzGIQq3wVL2MFX9Ntg89bfEQ2R9F81F1H2XzkXc_9Mnwfs5-_-prqb_vtrf71vaGwd9h4FBTZbTZI619YAfyAavy3oG6Fq7-Pd95d0uS2VQuA2-NkBPKZ_PiT05ARhJkjyQoPUc1t0krJC5VmmmzsX1J0DLJoFKvXnKPAMOLIfGFW9wQ3VfJFLlxR0JxySTomGvMYspM3BZXLhVXiUcOyYUsTkgiVx0e4Upkn2rW-HkPS2AiobbYK5EcV09ctdn4nrxG1FMTbXaBFydeLUH_Qix_bXaRj_tUIXXU-nRUT2rgYtZexbsb6ovX6DJeN24KjCWXh2MEN5Z9EWnikS1eGzcGg5V5cPZoHKSdXmZNXFvKsHFreQ0cuPcqGBgS2nlSc84l1LsXYucKZjAsvbTRJof2Fc-P26z1sdf6qqcaa67GMLjEVSbpkCjxmLuEdhr-TlTZsIFJpz4OQyi4meSHbhBjV4FDRDVHvNOgAaZz1JYXUpuHuK0dGRInaISSdDJ0npmkrm-lcDNZAeoMSR6VSt9g1VysIHYPvumEkAC8i5Ht10zamg_X1620GRzSwrPhNpvvHrfx_AWIMpoci_VAySqh_L5_aHu1m5YLcDIsY0nYiN9Cjmc5SLPCs9TcD1nf11X--1cvjiTirXpyRENyNFd62xa29mClzacXUdq-ic_PS8l7mjtSGXLa477VbPMUGpp3ecbA3pl18VVsHxNGrLPQG6_m1UHzGRfFp5ed_-bx0TaPnZufiRegLDJIGHlAaN5btiLqQ7hqwv4dMo0gauJzPr2cTk6ezWP-jePi45totvE9oXmiwYsWMoeDfMMqnvllnN15e98lxjWXN1Vhc86hBOM2PLunB58hP7up3R4k9HAkUoWWsAZTLj9Y-ToGqqJLQtNT1ENJGoG5fXoxtd0boum3RK0KSxfez9ai5fe7u0xMaR0bXWP3KMCEeEqG-hlywEpjpXHr3XWkKPNpLKGPD97KMVgjSzrNYYCIJptUHTV8qxnUHLX8PS3i7BtccLdoPkledoWkrbXdoAVryms3Nti356nTqt1m9OuBoWmlf_bhtJYlvzeyk3zaxpru3NBpQnY83QVaNdS2lQ-Mfq44_ZD1h3HecaaTSqxdAwueGPd8NdgmXYPeHF2tHhmb6xKGDAXHShSTakIQTfiQp_1tVIBt60N_WAw2WlIJ1YVeVHesFKnXiX8C5pr73Q",
+          "title": "Decathlon Jogflow 100",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 4100,
+           "rating_max": 5
+          },
+          "price": 1599,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/GuaKmnicDcnbEkJAAADQL0LXITNNYyWmQkkuvTTs2my0Npban-p_-ps6r-f7KTlnna4oBYWtYLxAEs_pSL51POMEyrB5KF3ZMEbobfVc_k83PLSwYUiwZKXzbEpj4mKhhUTEs537eG9EsAusXrt4bh-0zvVVcC8aYpRUzTYFRi2dMOsdFQxGZnqQ-fZIvQM6R8Oz5jg_74E_zt24wX6F8mQGI3GYHOvSzNhpbTk_VRI-qw"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "WRZ_avquIr2m5NoPm9ng0Ak",
+            "product_id": "12783620573827569737",
+            "catalog_id": "17634259540003538184",
+            "gpcid": "13399225845495993709",
+            "headline_offer_docid": "3663364464985683159",
+            "image_docid": "5410237415208061500",
+            "rds": "PC_13399225845495993709|PROD_PC_13399225845495993709",
+            "query": "running+shoes+men+under+3000+india",
+            "mid": "576462453082703185",
+            "pvt": "a",
+            "uule": "w+CAIQICIcVmFyYW5hc2ksVXR0YXIgUHJhZGVzaCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "9032799821958966689",
+          "merchants": "Decathlon Sports India",
+          "id_to_token_map": "E0bTsXicdZLJrqtWGoVLeYIa5AGOMj2KtGk2TV2dAbYBb2yD2fRMLDoDZtOY5mBQXqbOTSIlwyRSnuVmkGeJFdWwsvTPPmktLa3_z3_9-yMrf_dweIne7xPq6Rrq7bkWmxxI1U9d36ZTMpbpr1AUaZaCDIAUEAHNQ5r5KYnGiLT5k4qAoXlRFGhKhILIcZwg_lJkUUrKJjOu16zftUmZ_kYxgsA_jxdZjhcYyEEO_FzWUZ79j1O0KDCsyNGAhjxLAY7nPvfp8IU9by8UEHhOoCD1THiaAA4A5rszNnaXf4A_3KesX758009NUzb561C02fBaZ83r1KRZ_8oAAF7LJi2jH_Lu7_j_Y_K5LtNfIM-xHC1w3LOjSIkcAz537-N_o--niWRfwPy6lZCJtihxa2UJPFgkdDW4PgaBj3JnrxWh6q7R9qHFNe4C8yMnH2XzUZCPrPmxjbr3a_LHV1_L7bzbDvPWdLrO3WFg3cjqVC1jroi1KjJF9byaqwRPjLu4RHSwHPahCmanprzYTbVIDXdx5ZqZ94A27UJDRZRea4Pr6qzOSHRU63QKXJw6JDRJcY731Rx47JLs5EdcU_OTDoHrRrEtQ9fTibtuSu-2UTMHAmtNFrcaN3YVHqNbyKa18ghvxS6oxmvgycvJVzxXJcRtNjeLhnpQtVRKkU2sdAdMijGi0-JE8N3ZB2xWPfZHZ1QjG0-mB7v0loDUL5ChDmvkkJ3n6WeHQZShaAfXQ6MnJ6zepCAgmyr1yE5XtHNE0GzXHaMrypLdZOiowhjVj8mRx_FENpPunNaYVorA6WZ8w7bjIzakUttT08JqusWVdQX7yawraRNQWIn2ePIaHSW2xGR1x53UApzkbjGb0Ldq92B7cDX80NfV4t1kTHhSQxtTnRk2Oe05jzkhZDXc1lKo1PKIWKSNQlk-WmLbNWJqMxoebE6y0qultsF7fTG8EGNVO1qyHsbqsOhyaBztsLD3EuOo-taiXBL5GH__GPrrFyApcLQMPjuQd6zfseVcY3wu4ZUaHyvp8RVK_6F4geMphhMBoMCPSdtWZfbHVy-WLOHt_mJJJ9lCtvy2zU304OTNpxdJ3r5JqebK0XucWXLh8-gxb5GpX_wTcm59ZnMzuy7uHpvniJWqxHf6u3634HTFef7pZee-OUKwzUJrcBPpBtRFARGrdBBOB8NUJa3zVyQe3imWiBKSnvr0crlYWTL12beWjc9vkl6Hc8QIKaJuyGePR2XAzx2EpZ_saTvvotM9UzZlbvLWsQD91r_al4eQQDcZ9s0BREx3TuUSLn4Fxkx5cMq99_aqJoukpemHGhGRHT696Gj3BhnmLdqXuaGJ71djQdk828vIFsaZaIg7QA-nqaMmsJ0oHhhxqBK72t17mtafxSLm_BCMDIM1MOTL5HswRYpOVwERanSip6AW5jgPk29xzg_BdJGd5E6ldYV2HfLWWEAD5x3q69igcrfp3apjGUZtn_9wWYtCOJySi3LZhkizBngZoRmOs8jsT_u6Vo6sdi157Zi0x37a8boVy5xZAYO6sPb1fuJIvHqt3tuo6lmTbyI27XKek2k2RqIXjPiYxe3Qq8A0ta49LicuWGIZVrmWlzNW89hppL8Aue7-cg",
+          "title": "Kalenji Run Active Men",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 12,
+           "rating_max": 5
+          },
+          "price": 1299,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/lQj3PHicDcltCoIwAADQE6lLHagQMYPMFEn7Av-Em24zms45Mj1Ot-o29f6-74drLcfAspqOqFnqpjY07oDJRl3plpikF9bIeynbjm2G9f8ClNV-RAr0soEnFpS2wnhUqa3SJL25JxgPasExz1dguiSIn2NImQojIWaaNyGNs8MkHcyOCZPYUwK62b4m0ihnUDiQP8uriyQOtw117v7p7evdDyXxOTI"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "WRZ_avquIr2m5NoPm9ng0Ak",
+            "product_id": "5992415305109027523",
+            "catalog_id": "9032799821958966689",
+            "gpcid": "10876815158978806003",
+            "headline_offer_docid": "13887887794678356560",
+            "image_docid": "11298349620257410676",
+            "rds": "PC_10876815158978806003|PROD_PC_10876815158978806003",
+            "query": "running+shoes+men+under+3000+india",
+            "mid": "576462866799919630",
+            "pvt": "a",
+            "uule": "w+CAIQICIcVmFyYW5hc2ksVXR0YXIgUHJhZGVzaCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "12243919453732867259",
+          "merchants": "decathlon.in",
+          "id_to_token_map": "LrAbWXicbZO5ruNWEoaNfgIHExsdOLsQcBYu0jRuwFWkrsSdh-JJCIqkuC-SSEkU_DJzu23AE3oGmGfpDuZZrHbsQmVf1V_4UVX__-HH96z8X-DQKL7EVz2SUW3p1vmty5Z2_vtw7tMpGcv0v5DDzBIuGcjyLAs5HkDA_Z7EY9z0-XeMEINXcMWwmMdoyfGIXf1RZHHalF1mHo_ZWe6T73UMv4RgxeAlz_MQMggj9O-yjfPsL_4fjkPoSRFAGLBgxfIr7vM5vXxFlhQhyHEsh1me4Vm8ZFZgCX6xHFOO_p79epqy8_z15_PUdWWXv1yKPru83Po2616mLs3OLxgA8FJ2aRn_mg_fp_-Nyue2TP9geY7h0JJlOMyjZ7L85-E6_iv-Mk1N9hXcXiRBt3VJT0irzmHAFgmqL2TvgHCv5762KeiaPGLpvjm0zhDa73nzXnbvRfOedb_18XA9Jt8-_EPpb7J0uUm2PwxEdoDr3xgjSGCgikqIneLgX8YdSKs9LCTSGm9GSwfqsybVBjvR6LALQmQSyqYSxIcutfaoiW0ANf_RUIIdzfVH5VCls9vS4lAPntsYQeoZ5g6KravAvYfUN6rSrVNt7vG-fyRBU8bPntgTJUPZzQ6hEkVEChqRcQKbjR_UMPcNIIhhvadm3BI1BI0Z16Nm-802qAw99HvmoDAoBkuGykZgo6KKyaClwWDGuOFou2Ns2FhG2xRBwFaORk476I9Gqx4DTUG-39xTMEhJp2Pn6Zc8Cj-ri3DrFRXxc0yJeAvbTbx7CCzBw0iC5s2RVW9XkbPtr8qUqMitQ5DgwXHlTejVxhgiBQbt0BPoDESlNkErOdYaI9lT7HgUUKCwfh1iA2_EFPSMuydiDFRiBnclePpOYWHHRETenpwdsiK2n45ea6xd1XdVmLpBs3ru_zmXrJRdO9ouEWcXsY2pqt263IiOZsxmQF0PE_UAhs0e0LVXGae4GSxjL06uwgY2THBSUfHL_XI-fgWCyo6uyU1tGFvSYq6bCi7pdDSwPVmeaT6A8E_IP58OYm65Wi3hb0nf12X27cNPUeRmyXTOFq7nWK_C82ZuMR6kanyMl0YtKr5dz73vKkW3vbRLODJQkitqrCfXsqP9dBIWbJ679RzaZlEKlVZfh2q9Y5x5S0Mxw48G4W5b8KY4HuVig2-fPrqK4Eha5Ao7xdU95VXKbf3OKeKnj4IivQrphijx6BpN159MCuNZPJza4xgcFWki9lnz68uWLd_sEzuM81z7_ELQuqLR7U8fZfKaY0fXRHGUsuSq7JjUpff2Pj-4w2K3FoyzC1zpEEULuLF14RmfPhq6_Mpi5rXho0VaTduplaO2lBQ9s2N_wWlq5I1btRS6Jn4r5Wu0tglv7Qcpb46MVk3VQrY9cE9JYHpBKRGf2RK0yKOKJsy2ONAhP3C31b3V8-NVh7qfd-fS6a2t0C1qeWuFcjnrmieSaHMSo-stS2JVMbDr3uYiKk-Mo6xRSm-L1FrWa_u4cbpSmCcY68GSWgBZLSfWLDclFgC8ezzcxlumcRY7OEcZ7t9M24ja3t9xFbkqgtcrvjPnb-dLWXKkT4ygkh7hNRp9hjf044Plu8ZRaetTnm2jveHjm_Anplv50w",
+          "title": "Decathlon Jogflow 100.1 Women",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 3400,
+           "rating_max": 5
+          },
+          "price": 1599,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/tayOZnicDcnbEkJAAADQL8olRq2ZpiFLaXIZlfRiWMIaLLvj0lf1O_1Nndfz_ZSMEaryfN6iYSEsz1YsbQWuoCxhFeJQ1_C07Aip2mLf7_6nak4GLOSPcSM-m0HskTMZ6N65HsCBjEtDyZdATkvB1sMhOUFJiY6PleLb24u8JLEWdqlu2fQ2L6OWratXAQM7zmvzbU4j9rIIQ-R4hwZcMZhrl3hQBkCjs3R23U0Lix-bcT5c"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "WRZ_asavI_D2kPIPrKne8Qg",
+            "product_id": "16348184157551670106",
+            "catalog_id": "12243919453732867259",
+            "gpcid": "2166563574753849080",
+            "headline_offer_docid": "14781094387771142322",
+            "image_docid": "6622943202305095796",
+            "rds": "PC_2166563574753849080|PROD_PC_2166563574753849080",
+            "query": "running+shoes+women+under+3000+india",
+            "mid": "576462854637237257",
+            "pvt": "a",
+            "uule": "w+CAIQICIcVmFyYW5hc2ksVXR0YXIgUHJhZGVzaCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "16722947541807681291",
+          "merchants": "Flipkart + others",
+          "id_to_token_map": "0UlYcnicbZNHjuNWEIaNOYEXPkDD28YAj-ExuNELSUyPEkkxPYaNwCSSzSgGiRJ8GfcEYLycMeCz9Cx8Fsve2rWs_8dXKNRff_3w42tW_ulZ4SE6n2Y0kA3Uu33DtzlYVV_6oUvnZCrTbzTBQoqhSAKQHGQowDLwSxJNUd3lZfoHwbAkydMspAnuLnEEyRNfiyxK67LNjOMxG4Qu-cdHMwxBUzzPcxRLUBwDefL3sony7F_9GyTJexfe8ZDjIcuzgPswpOMb2G8ONOBpCtzBkKc5DpIc--veMoTD_0qfTnM2XN9-Hua2Ldv8cSy6bHxssvZxbtNseKQAAI9lm5bRp7y_T_76X8SH5t6GLEMzJEcCliYZDnI08aE_T79FH-e5zt7A5XGzQibaoAQ30jXwYJGQ1Yh9CwQ-yl1FLUIZ36LNosaN1Qfma16_lu1rUb9m7ecu6s_H5Pu7n8TuImzGy8Z0-x4LFrC9Yg58iQgIXdaqfqd7He166tlrcas5umBIfGR5NQ7qXok9qXKJfsIVLB2ZOIdKWnmypDqEFGpkoQWV5GuAIx2nqB1_7doOnsxWRXcOpdXpogEMbVmqY3-NAkqVUikVLVLfaWIK7t4-8AJSr_DV812A5UlzxOWUkOqSyMHNodZLJofnyMWK1qhKWBUUVhChO5YaA3iMJLx3PJ7SPAA8yZxsx6R1Kt1mlW5aZGF4dT_71LoNKw2GFSJTBS96K70k3hL5AHdaXbhOW1x1cRqtFxVZ4uTGjt7vfEmwcXp2BERlorp1BfOC5ZEwXZe88wIdu4ulSGMmF7f0tm7cRlywHzqam-40tzjb1WKaVc8EVCHq8rKxXT20_LBKbxLjtam2c-Eu80PZbjGOcLHNamnR646MbsktwD2T4cILCF7AhGporu7pdW5LRGp7NV-krUTYPrrGDjZiYj0ZHmw1URrkUl1bin41vNDVKp6yCd5N79-UCvgl8OsX97a6OaC4xI1ueZK6_riMw_ENrCQ42QY0neGoTEVrvchwYfej7nkDOO9g6lx-IViOuf8Sw98jzXxOuq4qs-_vHmxxZW2Ug73SRBs54vMmN9HCiOunh5W4eV6lKhajc5zZYuGzaLlskKkffA25L0PmMBf6dsWKZe4jelUlvjuc9JMN56OV508PAn52uWCThfaIk9ULkK8SiGiph3DeGqa8Unv_hvjtmaBrfoVW93p6OBzsLJmH7L3tWPvnld6El4jiUkS8IJ_e7aTRUqyZuw6zM28uQqSdMmld5iZr7wowbPyjc1i4BOJkVNotiKh-n4olvPoVmDJpYaTT4CmyKvL3I5GLHNU8PT496Eh4hhT1HCllbqj8-WhcUXa5ONeJLox9rSJmCz0rTV05gd1MsMCIQ7l2KuE0kKR-Xyyi9gtnZBa4BYZ4mH0PpkjSySqouQZp5Bw03CXOw-S9lbNjMB9ENzkRaVMhoUfeLebQyHjb5ji1qBTWA656mqLk7p6Hw60ouK2WHKTDJkSqPcLDBM1wuvCUoilNI-1o9Viy6i7pdsMssLodi4xZAYM40M7xpDF1fPM6fXBQNdAm20Z02ucsI5J0jHgvmKxdFnfjIAPTVPtud9WY4BqLsMrVvLxYch677epv9xP43A",
+          "title": "Reebok Flow Advance Men",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 8,
+           "rating_max": 5
+          },
+          "price": 1150,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/eUoqV3icDcnbDoIgAADQLzIz7ebWGrNmpivR1owXZ0CR4hWK9Kv6nf6mzuv5fpiUjbB1nVa46xtJiSav1Xh0FzKTDzzCdakLVjfNo7qv29X_bHAgSxdHak5U-Iza4ThMGKdnXmoStsiKe0_dWAJziP2pdilkke591qFCnHoPvK4ZsWZbPnZTsBOB6Qwng5sGylFQ3mrNARs3iNo3RTQhaZTMQg6Mioha7RhRcBHDHxepP98"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "WRZ_avquIr2m5NoPm9ng0Ak",
+            "product_id": "4175363210285630765",
+            "catalog_id": "16722947541807681291",
+            "gpcid": "409430291594885287",
+            "headline_offer_docid": "14661439998371386592",
+            "image_docid": "5221385307589579708",
+            "rds": "PC_409430291594885287|PROD_PC_409430291594885287",
+            "query": "running+shoes+men+under+3000+india",
+            "mid": "576462820742685841",
+            "pvt": "a",
+            "uule": "w+CAIQICIcVmFyYW5hc2ksVXR0YXIgUHJhZGVzaCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n### 🏃 Meri picks\n\n**1. Decathlon Jogflow 190.1 — ₹2,499 ⭐ Best overall**  \nAgar aap **regular running (5–10 km)** karte hain, ye meri first choice hogi. Cushioned hai aur Decathlon ise up to 20 km/week running ke liye list karta hai. [www.decathlon.in](https://www.decathlon.in/c/24175?utm_source=chatgpt.com)\n\n**2. Kalenji Jogflow 100 — ₹1,599 💰 Best value**  \nBeginner ho aur 2–5 km daily/alternate-day run karna hai, to kaafi achha budget option. [www.decathlon.in](https://www.decathlon.in/c/24175?utm_source=chatgpt.com)\n\n**3. Kalenji Run Active — ₹1,299**  \nRunning + walking + gym ka mix ho to economical choice. [www.decathlon.in](https://www.decathlon.in/c/24175?utm_source=chatgpt.com)\n\n**4. Reebok Flow Advance — ~₹1,150**  \nAgar sale mein genuine pair mil raha ho, to price ke hisaab se attractive option hai.\n\n**5. Women ke liye Jogflow 100.1 — ₹1,599**  \nBeginner running ke liye strong value option; current listing mein 4.7/5 rating aur 3,400+ reviews dikh rahe hain.\n\n### 🏆 Agar mujhe ek hi lena ho\n- **Regular running:** Jogflow 190.1\n- **Beginner / 2–5 km:** Jogflow 100\n- **Maximum ₹1,500:** Run Active\n- **Women:** Jogflow 100.1\n\n₹3,000 ke budget mein **sirf brand/logo dekhkar Nike/Adidas lena zaroori nahi**—current Adidas sale mein bhi kaafi running models ₹1,800–₹3,000 range mein hain, lekin exact model aur fit zyada important hai. [www.adidas.co.in](https://www.adidas.co.in/shoes_under_3000-running-trainers?utm_source=chatgpt.com)\n\nAgar aap **men/women, running distance (3/5/10 km), aur road ya treadmill** bata do, main aapke liye **₹3,000 ke andar 3 exact best pairs** shortlist kar dunga.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Decathlon Sports India",
+          "snippet": null,
+          "domain": "www.decathlon.in",
+          "url": "https://www.decathlon.in/c/24175?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Decathlon",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Shop Shoes Under 3000 - Running - Trainers | adidas IN",
+          "snippet": null,
+          "domain": "www.adidas.co.in",
+          "url": "https://www.adidas.co.in/shoes_under_3000-running-trainers?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "adidas.co.in",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S01",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 5,
+  "promptText": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+  "cellId": "S01_hg_gemini_r5",
+  "startedAt": "2026-08-14T12:55:39.895Z",
+  "finishedAt": "2026-08-14T12:55:54.234Z",
+  "durationMs": 14339,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein oily aur acne-prone skin ke liye 500 rupees ke andar kai behtareen aur dermatologist-recommended face washes milte hain. Oily skin ke liye aise face wash best hote hain jo excess oil ko control karein, pores ko deep clean karein, aur skin ka natural moisture balance kharab na karein.\n\n500 rupees ke budget mein sabse acche options ki list niche di gayi hai:\n\n| Face Wash ka Naam | Main Ingredients | Fayde (Benefits) | Approximate Price |\n| :--- | :--- | :--- | :--- |\n| **Minimalist 2% Salicylic Acid Face Wash** | 2% Salicylic Acid, LHA, Zinc | Pores ko deep clean karta hai, excess oil aur acne/pimples ko reduce karta hai. Fragrance-free hai. | ₹299 |\n| **Plum Green Tea Pore Cleansing Face Wash** | Green Tea Extracts, Glycolic Acid | Skin ke extra oil ko hatata hai, pimples se ladta hai aur mild exfoliation deta hai. | ₹345 - ₹380 |\n| **Neutrogena Oil-Free Acne Wash** | 2% Salicylic Acid | Yeh ek globally trusted aur classic formula hai jo oily aur acne-prone skin ke liye best maana jaata hai. | ₹450 - ₹500 |\n| **Deconstruct Salicylic Acid & Niacinamide Face Wash** | Salicylic Acid, Niacinamide | Oil ko control karta hai, pores ko tighten karta hai aur acne marks ko kam karne mein madad karta hai. | ₹299 |\n| **Saslic DS Foaming Face Wash** | Salicylic Acid (2%) | Agar stubborn acne aur zyada oily skin ki problem hai, toh yeh ek accha medical/pharmacy option hai. | ₹450 ke aas-paas |\n\n---\n\n### Aapke liye kaun sa behtar rahega?\n\n* **Agar acne/pimples ki zyada problem hai:** **Minimalist 2% Salicylic Acid** ya **Neutrogena** chun sakte hain.\n* **Agar natural/plant-based ingredients pasand hain:** **Plum Green Tea** ek shaandaar choice hai.[medium.com](https://medium.com/@dhruvsharma2359/best-face-wash-for-oily-skin-in-india-2026-dermatologist-backed-guide-f063b3d293dc#:~:text=*%20Minimalist%202%25%20Salicylic%20Acid%20Face%20Wash,Vitamin%20C%20%2B%20E%20Brightening%20Face%20Wash.)\n\n*Note: Salicylic acid ya active ingredients wale face wash use karne ke baad skin dry ho sakti hai, isliye ek halka oil-free moisturizer aur din mein sunscreen lagana na bhoolein.*",
+  "citations": [
+   {
+    "url": "https://medium.com/@dhruvsharma2359/best-face-wash-for-oily-skin-in-india-2026-dermatologist-backed-guide-f063b3d293dc#:~:text=*%20Minimalist%202%25%20Salicylic%20Acid%20Face%20Wash,Vitamin%20C%20%2B%20E%20Brightening%20Face%20Wash.",
+    "source_name": "Medium",
+    "position": 1
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "14.1196 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141255-2163-0629-0000-a4eb44cbcf4e",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "14.0810 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:55:53 +00:00",
+      "markdown": "India mein oily aur acne-prone skin ke liye 500 rupees ke andar kai behtareen aur dermatologist-recommended face washes milte hain. Oily skin ke liye aise face wash best hote hain jo excess oil ko control karein, pores ko deep clean karein, aur skin ka natural moisture balance kharab na karein.\n\n500 rupees ke budget mein sabse acche options ki list niche di gayi hai:\n\n| Face Wash ka Naam | Main Ingredients | Fayde (Benefits) | Approximate Price |\n| :--- | :--- | :--- | :--- |\n| **Minimalist 2% Salicylic Acid Face Wash** | 2% Salicylic Acid, LHA, Zinc | Pores ko deep clean karta hai, excess oil aur acne/pimples ko reduce karta hai. Fragrance-free hai. | ₹299 |\n| **Plum Green Tea Pore Cleansing Face Wash** | Green Tea Extracts, Glycolic Acid | Skin ke extra oil ko hatata hai, pimples se ladta hai aur mild exfoliation deta hai. | ₹345 - ₹380 |\n| **Neutrogena Oil-Free Acne Wash** | 2% Salicylic Acid | Yeh ek globally trusted aur classic formula hai jo oily aur acne-prone skin ke liye best maana jaata hai. | ₹450 - ₹500 |\n| **Deconstruct Salicylic Acid & Niacinamide Face Wash** | Salicylic Acid, Niacinamide | Oil ko control karta hai, pores ko tighten karta hai aur acne marks ko kam karne mein madad karta hai. | ₹299 |\n| **Saslic DS Foaming Face Wash** | Salicylic Acid (2%) | Agar stubborn acne aur zyada oily skin ki problem hai, toh yeh ek accha medical/pharmacy option hai. | ₹450 ke aas-paas |\n\n---\n\n### Aapke liye kaun sa behtar rahega?\n\n* **Agar acne/pimples ki zyada problem hai:** **Minimalist 2% Salicylic Acid** ya **Neutrogena** chun sakte hain.\n* **Agar natural/plant-based ingredients pasand hain:** **Plum Green Tea** ek shaandaar choice hai.[medium.com](https://medium.com/@dhruvsharma2359/best-face-wash-for-oily-skin-in-india-2026-dermatologist-backed-guide-f063b3d293dc#:~:text=*%20Minimalist%202%25%20Salicylic%20Acid%20Face%20Wash,Vitamin%20C%20%2B%20E%20Brightening%20Face%20Wash.)\n\n*Note: Salicylic acid ya active ingredients wale face wash use karne ke baad skin dry ho sakti hai, isliye ek halka oil-free moisturizer aur din mein sunscreen lagana na bhoolein.*",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Best Face Wash for Oily Skin in India (2026): Dermatologist-Backed Guide - \nMedium",
+        "snippet": "* Minimalist 2% Salicylic Acid Face Wash (Top Pick) * Plum Green Tea Pore \nCleansing Face Wash (Best Natural Pick) * Neutrogena Oil-Free Acne Wash. * \nMamaearth T...",
+        "domain": "medium.com",
+        "url": "https://medium.com/@dhruvsharma2359/best-face-wash-for-oily-skin-in-india-2026-dermatologist-backed-guide-f063b3d293dc#:~:text=*%20Minimalist%202%25%20Salicylic%20Acid%20Face%20Wash,Vitamin%20C%20%2B%20E%20Brightening%20Face%20Wash.",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSEZGrAQJwSB0yfItB8smRX92OiLFu_tmu4TWrSO6ZT5OUr3EHUaehLMONoDgLFsbbfZCy3rcw-7ceyZFUi28yGhUdtNlU",
+        "source_name": "Medium",
+        "publication_date": null,
+        "markdown": "**Plum Green Tea** ek shaandaar choice hai."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 6,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein oily aur acne-prone skin ke liye 500 rupees ke andar kai behtareen aur dermatologist-recommended face washes milte hain. Oily skin ke liye aise face wash best hote hain jo excess oil ko control karein, pores ko deep clean karein, aur skin ka natural moisture balance kharab na karein.",
+        "original_text": "India mein oily aur acne-prone skin ke liye 500 rupees ke andar kai behtareen aur dermatologist-recommended face washes milte hain. Oily skin ke liye aise face wash best hote hain jo excess oil ko control karein, pores ko deep clean karein, aur skin ka natural moisture balance kharab na karein.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "500 rupees ke budget mein sabse acche options ki list niche di gayi hai:",
+        "original_text": "500 rupees ke budget mein sabse acche options ki list niche di gayi hai:",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "markdown": "| Face Wash ka Naam | Main Ingredients | Fayde (Benefits) | Approximate Price |\n| :--- | :--- | :--- | :--- |\n| **Minimalist 2% Salicylic Acid Face Wash** | 2% Salicylic Acid, LHA, Zinc | Pores ko deep clean karta hai, excess oil aur acne/pimples ko reduce karta hai. Fragrance-free hai. | ₹299 |\n| **Plum Green Tea Pore Cleansing Face Wash** | Green Tea Extracts, Glycolic Acid | Skin ke extra oil ko hatata hai, pimples se ladta hai aur mild exfoliation deta hai. | ₹345 - ₹380 |\n| **Neutrogena Oil-Free Acne Wash** | 2% Salicylic Acid | Yeh ek globally trusted aur classic formula hai jo oily aur acne-prone skin ke liye best maana jaata hai. | ₹450 - ₹500 |\n| **Deconstruct Salicylic Acid & Niacinamide Face Wash** | Salicylic Acid, Niacinamide | Oil ko control karta hai, pores ko tighten karta hai aur acne marks ko kam karne mein madad karta hai. | ₹299 |\n| **Saslic DS Foaming Face Wash** | Salicylic Acid (2%) | Agar stubborn acne aur zyada oily skin ki problem hai, toh yeh ek accha medical/pharmacy option hai. | ₹450 ke aas-paas |",
+        "original_text": "Face Wash ka Naam\tMain Ingredients\tFayde (Benefits)\tApproximate Price\nMinimalist 2% Salicylic Acid Face Wash\t2% Salicylic Acid, LHA, Zinc\tPores ko deep clean karta hai, excess oil aur acne/pimples ko reduce karta hai. Fragrance-free hai.\t₹299\nPlum Green Tea Pore Cleansing Face Wash\tGreen Tea Extracts, Glycolic Acid\tSkin ke extra oil ko hatata hai, pimples se ladta hai aur mild exfoliation deta hai.\t₹345 - ₹380\nNeutrogena Oil-Free Acne Wash\t2% Salicylic Acid\tYeh ek globally trusted aur classic formula hai jo oily aur acne-prone skin ke liye best maana jaata hai.\t₹450 - ₹500\nDeconstruct Salicylic Acid & Niacinamide Face Wash\tSalicylic Acid, Niacinamide\tOil ko control karta hai, pores ko tighten karta hai aur acne marks ko kam karne mein madad karta hai.\t₹299\nSaslic DS Foaming Face Wash\tSalicylic Acid (2%)\tAgar stubborn acne aur zyada oily skin ki problem hai, toh yeh ek accha medical/pharmacy option hai.\t₹450 ke aas-paas",
+        "table": {
+         "table_header": [
+          "Face Wash ka Naam",
+          "Main Ingredients",
+          "Fayde (Benefits)",
+          "Approximate Price"
+         ],
+         "table_content": [
+          [
+           "Minimalist 2% Salicylic Acid Face Wash",
+           "2% Salicylic Acid, LHA, Zinc",
+           "Pores ko deep clean karta hai, excess oil aur acne/pimples ko reduce karta hai. Fragrance-free hai.",
+           "₹299"
+          ],
+          [
+           "Plum Green Tea Pore Cleansing Face Wash",
+           "Green Tea Extracts, Glycolic Acid",
+           "Skin ke extra oil ko hatata hai, pimples se ladta hai aur mild exfoliation deta hai.",
+           "₹345 - ₹380"
+          ],
+          [
+           "Neutrogena Oil-Free Acne Wash",
+           "2% Salicylic Acid",
+           "Yeh ek globally trusted aur classic formula hai jo oily aur acne-prone skin ke liye best maana jaata hai.",
+           "₹450 - ₹500"
+          ],
+          [
+           "Deconstruct Salicylic Acid & Niacinamide Face Wash",
+           "Salicylic Acid, Niacinamide",
+           "Oil ko control karta hai, pores ko tighten karta hai aur acne marks ko kam karne mein madad karta hai.",
+           "₹299"
+          ],
+          [
+           "Saslic DS Foaming Face Wash",
+           "Salicylic Acid (2%)",
+           "Agar stubborn acne aur zyada oily skin ki problem hai, toh yeh ek accha medical/pharmacy option hai.",
+           "₹450 ke aas-paas"
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "markdown": "### Aapke liye kaun sa behtar rahega?",
+        "original_text": "Aapke liye kaun sa behtar rahega?",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "markdown": "* **Agar acne/pimples ki zyada problem hai:** **Minimalist 2% Salicylic Acid** ya **Neutrogena** chun sakte hain.\n* **Agar natural/plant-based ingredients pasand hain:** **Plum Green Tea** ek shaandaar choice hai.[medium.com](https://medium.com/@dhruvsharma2359/best-face-wash-for-oily-skin-in-india-2026-dermatologist-backed-guide-f063b3d293dc#:~:text=*%20Minimalist%202%25%20Salicylic%20Acid%20Face%20Wash,Vitamin%20C%20%2B%20E%20Brightening%20Face%20Wash.)",
+        "original_text": "Agar acne/pimples ki zyada problem hai: Minimalist 2% Salicylic Acid ya Neutrogena chun sakte hain.\nAgar natural/plant-based ingredients pasand hain: Plum Green Tea ek shaandaar choice hai.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Best Face Wash for Oily Skin in India (2026): Dermatologist-Backed Guide - \nMedium",
+          "snippet": "* Minimalist 2% Salicylic Acid Face Wash (Top Pick) * Plum Green Tea Pore \nCleansing Face Wash (Best Natural Pick) * Neutrogena Oil-Free Acne Wash. * \nMamaearth T...",
+          "domain": "medium.com",
+          "url": "https://medium.com/@dhruvsharma2359/best-face-wash-for-oily-skin-in-india-2026-dermatologist-backed-guide-f063b3d293dc#:~:text=*%20Minimalist%202%25%20Salicylic%20Acid%20Face%20Wash,Vitamin%20C%20%2B%20E%20Brightening%20Face%20Wash.",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSEZGrAQJwSB0yfItB8smRX92OiLFu_tmu4TWrSO6ZT5OUr3EHUaehLMONoDgLFsbbfZCy3rcw-7ceyZFUi28yGhUdtNlU",
+          "source_name": "Medium",
+          "publication_date": null,
+          "markdown": "**Plum Green Tea** ek shaandaar choice hai."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "markdown": "*Note: Salicylic acid ya active ingredients wale face wash use karne ke baad skin dry ho sakti hai, isliye ek halka oil-free moisturizer aur din mein sunscreen lagana na bhoolein.*",
+        "original_text": "Note: Salicylic acid ya active ingredients wale face wash use karne ke baad skin dry ho sakti hai, isliye ek halka oil-free moisturizer aur din mein sunscreen lagana na bhoolein.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

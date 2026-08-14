@@ -1,0 +1,198 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F04",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 2,
+  "promptText": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+  "cellId": "F04_hg_gemini_r2",
+  "startedAt": "2026-08-14T12:56:49.629Z",
+  "finishedAt": "2026-08-14T12:57:06.016Z",
+  "durationMs": 16387,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein men ke liye formal shirts ke kai behtareen brands available hain, jo alag-alag budget, fit aur occasion ke hisab se best maane jaate hain. Aap apni zaroorat ke mutabiq in brands mein se chunav kar sakte hain:\n\n### 1. Premium aur Corporate Wear ke liye (Best Quality)\n\n* **Louis Philippe:** Agar aapko ek dum classy, luxury aur professional look chahiye, toh yeh brand sabse behtareen hai. Inki fitting aur fabric (jaise Giza cotton) kafi shandar hoti hai.\n* **Van Heusen:** Corporate professionals ke beech yeh ek bohot popular brand hai. Inke shirts ki wrinkle-resistant (jhurri-free) quality aur comfort lambe office hours ke liye perfect hote hain.\n* **Arrow:** Apne classic American corporate style ke liye jaane jaane wale Arrow ke shirts kafi crisp aur durable hote hain. Office meetings aur interviews ke liye yeh ek safe aur smart choice hain.\n\n### 2. Traditional aur Reliable Choices\n\n* **Raymond:** Yeh India ka sabse bharosemand aur purana brand hai. Agar aapko premium fabrics, timeless design aur pure cotton mein shirts chahiye, toh Raymond ka koi mukabla nahi.\n* **Park Avenue:** Raymond group ka hi yeh brand modern professionals ke liye stylish aur comfortable formal shirts banata hai. Inke paas anti-wrinkle aur breathable fabrics ki achhi range hai.\n\n### 3. Trendy aur Modern Fits\n\n* **Blackberrys:[www.ozmod.in](https://www.ozmod.in/blogs/news/top-10-formal-men-s-shirts-in-india#:~:text=Blackberry%20is%20the%20epicenter%20of%20menswear%20innovation,stylish%20and%20elegant%20at%20the%20same%20time.)** Agar aapko thoda modern, slim-fit aur stylish look pasand hai jo youth aur contemporary trends ko match kare, toh Blackberrys ek acha option hai.\n\n### 4. Budget-Friendly (Pocket-Friendly) Options\n\n* **Peter England:** Agar aap college graduate hain, naye-naye job shuru ki hai ya kam budget mein ek achha formal shirt chahte hain, toh Peter England best value-for-money brand hai. Yeh budget mein achhi durability aur fitting dete hain.\n* **Allen Solly:** Halanki yeh smart-casuals ke liye zyada famous hain, lekin inke formal shirts bhi vibrant colors aur modern fits mein kafi pasand kiye jaate hain.\n\n---\n\n### Khareedte Waqt In Baaton ka Dhyaan Rakhein:\n\n* **Fabric:** Garmi ke mausam ke liye hamesha **Pure Cotton** ya **Linen-Cotton blends** chunhein.\n* **Fit:** Agar aapki body slim hai toh **Slim Fit** lein, aur agar regular comfort chahiye toh **Regular Fit** ya **Tailored Fit** choose karein.\n* **Colors:** Wardrobe mein shuruat karne ke liye **White, Light Blue, aur Light Grey** jaise classic colors sabse pehle kharidein.",
+  "citations": [
+   {
+    "url": "https://www.ozmod.in/blogs/news/top-10-formal-men-s-shirts-in-india#:~:text=Blackberry%20is%20the%20epicenter%20of%20menswear%20innovation,stylish%20and%20elegant%20at%20the%20same%20time.",
+    "source_name": "OZMOD",
+    "position": 1
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "16.1772 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141256-2163-0629-0000-c034d4b8ed46",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "16.1700 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:57:04 +00:00",
+      "markdown": "India mein men ke liye formal shirts ke kai behtareen brands available hain, jo alag-alag budget, fit aur occasion ke hisab se best maane jaate hain. Aap apni zaroorat ke mutabiq in brands mein se chunav kar sakte hain:\n\n### 1. Premium aur Corporate Wear ke liye (Best Quality)\n\n* **Louis Philippe:** Agar aapko ek dum classy, luxury aur professional look chahiye, toh yeh brand sabse behtareen hai. Inki fitting aur fabric (jaise Giza cotton) kafi shandar hoti hai.\n* **Van Heusen:** Corporate professionals ke beech yeh ek bohot popular brand hai. Inke shirts ki wrinkle-resistant (jhurri-free) quality aur comfort lambe office hours ke liye perfect hote hain.\n* **Arrow:** Apne classic American corporate style ke liye jaane jaane wale Arrow ke shirts kafi crisp aur durable hote hain. Office meetings aur interviews ke liye yeh ek safe aur smart choice hain.\n\n### 2. Traditional aur Reliable Choices\n\n* **Raymond:** Yeh India ka sabse bharosemand aur purana brand hai. Agar aapko premium fabrics, timeless design aur pure cotton mein shirts chahiye, toh Raymond ka koi mukabla nahi.\n* **Park Avenue:** Raymond group ka hi yeh brand modern professionals ke liye stylish aur comfortable formal shirts banata hai. Inke paas anti-wrinkle aur breathable fabrics ki achhi range hai.\n\n### 3. Trendy aur Modern Fits\n\n* **Blackberrys:[www.ozmod.in](https://www.ozmod.in/blogs/news/top-10-formal-men-s-shirts-in-india#:~:text=Blackberry%20is%20the%20epicenter%20of%20menswear%20innovation,stylish%20and%20elegant%20at%20the%20same%20time.)** Agar aapko thoda modern, slim-fit aur stylish look pasand hai jo youth aur contemporary trends ko match kare, toh Blackberrys ek acha option hai.\n\n### 4. Budget-Friendly (Pocket-Friendly) Options\n\n* **Peter England:** Agar aap college graduate hain, naye-naye job shuru ki hai ya kam budget mein ek achha formal shirt chahte hain, toh Peter England best value-for-money brand hai. Yeh budget mein achhi durability aur fitting dete hain.\n* **Allen Solly:** Halanki yeh smart-casuals ke liye zyada famous hain, lekin inke formal shirts bhi vibrant colors aur modern fits mein kafi pasand kiye jaate hain.\n\n---\n\n### Khareedte Waqt In Baaton ka Dhyaan Rakhein:\n\n* **Fabric:** Garmi ke mausam ke liye hamesha **Pure Cotton** ya **Linen-Cotton blends** chunhein.\n* **Fit:** Agar aapki body slim hai toh **Slim Fit** lein, aur agar regular comfort chahiye toh **Regular Fit** ya **Tailored Fit** choose karein.\n* **Colors:** Wardrobe mein shuruat karne ke liye **White, Light Blue, aur Light Grey** jaise classic colors sabse pehle kharidein.",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Top 10 formal men's shirts in India - OZMOD",
+        "snippet": "Blackberry is the epicenter of menswear innovation by offering an exciting \ncollection of formal shirts designed for contemporary gentlemen. It is also \nranked am...",
+        "domain": "www.ozmod.in",
+        "url": "https://www.ozmod.in/blogs/news/top-10-formal-men-s-shirts-in-india#:~:text=Blackberry%20is%20the%20epicenter%20of%20menswear%20innovation,stylish%20and%20elegant%20at%20the%20same%20time.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTTiVQlPpGL05X_q-qEtpNJVhuF0u3StGFTNiPiWltiy33VJhswTygu_XgppRXFiipJ4huvuBfoXBdlAbq1d-9wvkZQJoku6Q",
+        "source_name": "OZMOD",
+        "publication_date": null,
+        "markdown": "**Blackberrys:**"
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 11,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein men ke liye formal shirts ke kai behtareen brands available hain, jo alag-alag budget, fit aur occasion ke hisab se best maane jaate hain. Aap apni zaroorat ke mutabiq in brands mein se chunav kar sakte hain:",
+        "original_text": "India mein men ke liye formal shirts ke kai behtareen brands available hain, jo alag-alag budget, fit aur occasion ke hisab se best maane jaate hain. Aap apni zaroorat ke mutabiq in brands mein se chunav kar sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### 1. Premium aur Corporate Wear ke liye (Best Quality)",
+        "original_text": "1. Premium aur Corporate Wear ke liye (Best Quality)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Louis Philippe:** Agar aapko ek dum classy, luxury aur professional look chahiye, toh yeh brand sabse behtareen hai. Inki fitting aur fabric (jaise Giza cotton) kafi shandar hoti hai.\n* **Van Heusen:** Corporate professionals ke beech yeh ek bohot popular brand hai. Inke shirts ki wrinkle-resistant (jhurri-free) quality aur comfort lambe office hours ke liye perfect hote hain.\n* **Arrow:** Apne classic American corporate style ke liye jaane jaane wale Arrow ke shirts kafi crisp aur durable hote hain. Office meetings aur interviews ke liye yeh ek safe aur smart choice hain.",
+        "original_text": "Louis Philippe: Agar aapko ek dum classy, luxury aur professional look chahiye, toh yeh brand sabse behtareen hai. Inki fitting aur fabric (jaise Giza cotton) kafi shandar hoti hai.\nVan Heusen: Corporate professionals ke beech yeh ek bohot popular brand hai. Inke shirts ki wrinkle-resistant (jhurri-free) quality aur comfort lambe office hours ke liye perfect hote hain.\nArrow: Apne classic American corporate style ke liye jaane jaane wale Arrow ke shirts kafi crisp aur durable hote hain. Office meetings aur interviews ke liye yeh ek safe aur smart choice hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### 2. Traditional aur Reliable Choices",
+        "original_text": "2. Traditional aur Reliable Choices",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "* **Raymond:** Yeh India ka sabse bharosemand aur purana brand hai. Agar aapko premium fabrics, timeless design aur pure cotton mein shirts chahiye, toh Raymond ka koi mukabla nahi.\n* **Park Avenue:** Raymond group ka hi yeh brand modern professionals ke liye stylish aur comfortable formal shirts banata hai. Inke paas anti-wrinkle aur breathable fabrics ki achhi range hai.",
+        "original_text": "Raymond: Yeh India ka sabse bharosemand aur purana brand hai. Agar aapko premium fabrics, timeless design aur pure cotton mein shirts chahiye, toh Raymond ka koi mukabla nahi.\nPark Avenue: Raymond group ka hi yeh brand modern professionals ke liye stylish aur comfortable formal shirts banata hai. Inke paas anti-wrinkle aur breathable fabrics ki achhi range hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "### 3. Trendy aur Modern Fits",
+        "original_text": "3. Trendy aur Modern Fits",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **Blackberrys:[www.ozmod.in](https://www.ozmod.in/blogs/news/top-10-formal-men-s-shirts-in-india#:~:text=Blackberry%20is%20the%20epicenter%20of%20menswear%20innovation,stylish%20and%20elegant%20at%20the%20same%20time.)** Agar aapko thoda modern, slim-fit aur stylish look pasand hai jo youth aur contemporary trends ko match kare, toh Blackberrys ek acha option hai.",
+        "original_text": "Blackberrys: Agar aapko thoda modern, slim-fit aur stylish look pasand hai jo youth aur contemporary trends ko match kare, toh Blackberrys ek acha option hai.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Top 10 formal men's shirts in India - OZMOD",
+          "snippet": "Blackberry is the epicenter of menswear innovation by offering an exciting \ncollection of formal shirts designed for contemporary gentlemen. It is also \nranked am...",
+          "domain": "www.ozmod.in",
+          "url": "https://www.ozmod.in/blogs/news/top-10-formal-men-s-shirts-in-india#:~:text=Blackberry%20is%20the%20epicenter%20of%20menswear%20innovation,stylish%20and%20elegant%20at%20the%20same%20time.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTTiVQlPpGL05X_q-qEtpNJVhuF0u3StGFTNiPiWltiy33VJhswTygu_XgppRXFiipJ4huvuBfoXBdlAbq1d-9wvkZQJoku6Q",
+          "source_name": "OZMOD",
+          "publication_date": null,
+          "markdown": "**Blackberrys:**"
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### 4. Budget-Friendly (Pocket-Friendly) Options",
+        "original_text": "4. Budget-Friendly (Pocket-Friendly) Options",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "* **Peter England:** Agar aap college graduate hain, naye-naye job shuru ki hai ya kam budget mein ek achha formal shirt chahte hain, toh Peter England best value-for-money brand hai. Yeh budget mein achhi durability aur fitting dete hain.\n* **Allen Solly:** Halanki yeh smart-casuals ke liye zyada famous hain, lekin inke formal shirts bhi vibrant colors aur modern fits mein kafi pasand kiye jaate hain.",
+        "original_text": "Peter England: Agar aap college graduate hain, naye-naye job shuru ki hai ya kam budget mein ek achha formal shirt chahte hain, toh Peter England best value-for-money brand hai. Yeh budget mein achhi durability aur fitting dete hain.\nAllen Solly: Halanki yeh smart-casuals ke liye zyada famous hain, lekin inke formal shirts bhi vibrant colors aur modern fits mein kafi pasand kiye jaate hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "### Khareedte Waqt In Baaton ka Dhyaan Rakhein:",
+        "original_text": "Khareedte Waqt In Baaton ka Dhyaan Rakhein:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "* **Fabric:** Garmi ke mausam ke liye hamesha **Pure Cotton** ya **Linen-Cotton blends** chunhein.\n* **Fit:** Agar aapki body slim hai toh **Slim Fit** lein, aur agar regular comfort chahiye toh **Regular Fit** ya **Tailored Fit** choose karein.\n* **Colors:** Wardrobe mein shuruat karne ke liye **White, Light Blue, aur Light Grey** jaise classic colors sabse pehle kharidein.",
+        "original_text": "Fabric: Garmi ke mausam ke liye hamesha Pure Cotton ya Linen-Cotton blends chunhein.\nFit: Agar aapki body slim hai toh Slim Fit lein, aur agar regular comfort chahiye toh Regular Fit ya Tailored Fit choose karein.\nColors: Wardrobe mein shuruat karne ke liye White, Light Blue, aur Light Grey jaise classic colors sabse pehle kharidein.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

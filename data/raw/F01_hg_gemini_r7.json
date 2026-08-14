@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 7,
+  "promptText": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+  "cellId": "F01_hg_gemini_r7",
+  "startedAt": "2026-08-14T13:07:17.749Z",
+  "finishedAt": "2026-08-14T13:07:35.774Z",
+  "durationMs": 18025,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein ₹2000 ke andar men ke liye kai acche aur reliable denim brands mil jaate hain jo quality aur fit ke maamle mein best hain. Aap in brands ko consider kar sakte hain:\n\n---\n\n### Top Denim Brands Under ₹2000\n\n* **Roadster (Myntra)**\n  *   * **Price Range:** ₹700 – ₹1,500\n  * **Kyun kharidein:** Yeh Myntra ka in-house brand hai jo budget-friendly fashion ke liye sabse popular hai. Yahan aapko slim fit, skinny, aur relaxed fit mein bohot saari variety mil jayegi.\n* **Mast & Harbour**\n  *   * **Price Range:** ₹800 – ₹1,600\n  * **Kyun kharidein:** Yeh bhi ek great budget brand hai jo daily wear aur casual outings ke liye trendy washes aur stretchable fabrics provide karta hai.\n* **Flying Machine**\n  *   * **Price Range:** ₹1,200 – ₹2,000 (Sale mein aur sasti mil jaati hain)\n  * **Kyun kharidein:** India ke oldest youth denim brands mein se ek hai. Inki durability aur fitting teenagers aur young adults ke liye kaafi acchi hoti hai.\n* **Wrogn**\n  *   * **Price Range:** ₹1,400 – ₹2,000 (Sales ke dauran)\n  * **Kyun kharidein:** Agar aapko modern, edgy, aur stylish streetwear pasand hai, toh Wrogn ke jeans ₹2000 ke budget mein ek solid choice hain.\n* **ZaneLA / Kook N Keech**\n  *   * **Price Range:** ₹800 – ₹1,500\n  * **Kyun kharidein:** Agar aap pocket-friendly options dhoondh rahe hain jo comfortable aur stylish dono hon, toh yeh e-commerce platforms par best value-for-money options hain.\n\n---\n\n### Tips for Buying:\n\n* **Check the Fabric:** Hamesha **cotton-spandex (elastane)** blend wali jeans choose karein kyunki yeh stretchable hoti hain aur pehenne mein zyada comfortable rehti hain.\n* **Online Sales:** Agar aap thoda wait kar sakte hain, toh Myntra, Ajio, ya Flipkart ki big sales (jaise End of Reason Sale) mein bade brands jaise **Levis, Wrangler, ya Lee** ki jeans bhi kabhi-kabhi ₹2000 ke andar mil jaati hain.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "16.7730 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141307-2163-0629-0000-798a87692710",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "16.1711 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:07:34 +00:00",
+      "markdown": "India mein ₹2000 ke andar men ke liye kai acche aur reliable denim brands mil jaate hain jo quality aur fit ke maamle mein best hain. Aap in brands ko consider kar sakte hain:\n\n---\n\n### Top Denim Brands Under ₹2000\n\n* **Roadster (Myntra)**\n  *   * **Price Range:** ₹700 – ₹1,500\n  * **Kyun kharidein:** Yeh Myntra ka in-house brand hai jo budget-friendly fashion ke liye sabse popular hai. Yahan aapko slim fit, skinny, aur relaxed fit mein bohot saari variety mil jayegi.\n* **Mast & Harbour**\n  *   * **Price Range:** ₹800 – ₹1,600\n  * **Kyun kharidein:** Yeh bhi ek great budget brand hai jo daily wear aur casual outings ke liye trendy washes aur stretchable fabrics provide karta hai.\n* **Flying Machine**\n  *   * **Price Range:** ₹1,200 – ₹2,000 (Sale mein aur sasti mil jaati hain)\n  * **Kyun kharidein:** India ke oldest youth denim brands mein se ek hai. Inki durability aur fitting teenagers aur young adults ke liye kaafi acchi hoti hai.\n* **Wrogn**\n  *   * **Price Range:** ₹1,400 – ₹2,000 (Sales ke dauran)\n  * **Kyun kharidein:** Agar aapko modern, edgy, aur stylish streetwear pasand hai, toh Wrogn ke jeans ₹2000 ke budget mein ek solid choice hain.\n* **ZaneLA / Kook N Keech**\n  *   * **Price Range:** ₹800 – ₹1,500\n  * **Kyun kharidein:** Agar aap pocket-friendly options dhoondh rahe hain jo comfortable aur stylish dono hon, toh yeh e-commerce platforms par best value-for-money options hain.\n\n---\n\n### Tips for Buying:\n\n* **Check the Fabric:** Hamesha **cotton-spandex (elastane)** blend wali jeans choose karein kyunki yeh stretchable hoti hain aur pehenne mein zyada comfortable rehti hain.\n* **Online Sales:** Agar aap thoda wait kar sakte hain, toh Myntra, Ajio, ya Flipkart ki big sales (jaise End of Reason Sale) mein bade brands jaise **Levis, Wrangler, ya Lee** ki jeans bhi kabhi-kabhi ₹2000 ke andar mil jaati hain.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 5,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein ₹2000 ke andar men ke liye kai acche aur reliable denim brands mil jaate hain jo quality aur fit ke maamle mein best hain. Aap in brands ko consider kar sakte hain:",
+        "original_text": "India mein ₹2000 ke andar men ke liye kai acche aur reliable denim brands mil jaate hain jo quality aur fit ke maamle mein best hain. Aap in brands ko consider kar sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### Top Denim Brands Under ₹2000",
+        "original_text": "Top Denim Brands Under ₹2000",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Roadster (Myntra)**\n  *   * **Price Range:** ₹700 – ₹1,500\n  * **Kyun kharidein:** Yeh Myntra ka in-house brand hai jo budget-friendly fashion ke liye sabse popular hai. Yahan aapko slim fit, skinny, aur relaxed fit mein bohot saari variety mil jayegi.\n* **Mast & Harbour**\n  *   * **Price Range:** ₹800 – ₹1,600\n  * **Kyun kharidein:** Yeh bhi ek great budget brand hai jo daily wear aur casual outings ke liye trendy washes aur stretchable fabrics provide karta hai.\n* **Flying Machine**\n  *   * **Price Range:** ₹1,200 – ₹2,000 (Sale mein aur sasti mil jaati hain)\n  * **Kyun kharidein:** India ke oldest youth denim brands mein se ek hai. Inki durability aur fitting teenagers aur young adults ke liye kaafi acchi hoti hai.\n* **Wrogn**\n  *   * **Price Range:** ₹1,400 – ₹2,000 (Sales ke dauran)\n  * **Kyun kharidein:** Agar aapko modern, edgy, aur stylish streetwear pasand hai, toh Wrogn ke jeans ₹2000 ke budget mein ek solid choice hain.\n* **ZaneLA / Kook N Keech**\n  *   * **Price Range:** ₹800 – ₹1,500\n  * **Kyun kharidein:** Agar aap pocket-friendly options dhoondh rahe hain jo comfortable aur stylish dono hon, toh yeh e-commerce platforms par best value-for-money options hain.",
+        "original_text": "Roadster (Myntra)\nPrice Range: ₹700 – ₹1,500\nKyun kharidein: Yeh Myntra ka in-house brand hai jo budget-friendly fashion ke liye sabse popular hai. Yahan aapko slim fit, skinny, aur relaxed fit mein bohot saari variety mil jayegi.\nMast & Harbour\nPrice Range: ₹800 – ₹1,600\nKyun kharidein: Yeh bhi ek great budget brand hai jo daily wear aur casual outings ke liye trendy washes aur stretchable fabrics provide karta hai.\nFlying Machine\nPrice Range: ₹1,200 – ₹2,000 (Sale mein aur sasti mil jaati hain)\nKyun kharidein: India ke oldest youth denim brands mein se ek hai. Inki durability aur fitting teenagers aur young adults ke liye kaafi acchi hoti hai.\nWrogn\nPrice Range: ₹1,400 – ₹2,000 (Sales ke dauran)\nKyun kharidein: Agar aapko modern, edgy, aur stylish streetwear pasand hai, toh Wrogn ke jeans ₹2000 ke budget mein ek solid choice hain.\nZaneLA / Kook N Keech\nPrice Range: ₹800 – ₹1,500\nKyun kharidein: Agar aap pocket-friendly options dhoondh rahe hain jo comfortable aur stylish dono hon, toh yeh e-commerce platforms par best value-for-money options hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### Tips for Buying:",
+        "original_text": "Tips for Buying:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "* **Check the Fabric:** Hamesha **cotton-spandex (elastane)** blend wali jeans choose karein kyunki yeh stretchable hoti hain aur pehenne mein zyada comfortable rehti hain.\n* **Online Sales:** Agar aap thoda wait kar sakte hain, toh Myntra, Ajio, ya Flipkart ki big sales (jaise End of Reason Sale) mein bade brands jaise **Levis, Wrangler, ya Lee** ki jeans bhi kabhi-kabhi ₹2000 ke andar mil jaati hain.",
+        "original_text": "Check the Fabric: Hamesha cotton-spandex (elastane) blend wali jeans choose karein kyunki yeh stretchable hoti hain aur pehenne mein zyada comfortable rehti hain.\nOnline Sales: Agar aap thoda wait kar sakte hain, toh Myntra, Ajio, ya Flipkart ki big sales (jaise End of Reason Sale) mein bade brands jaise Levis, Wrangler, ya Lee ki jeans bhi kabhi-kabhi ₹2000 ke andar mil jaati hain.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

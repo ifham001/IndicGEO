@@ -1,0 +1,203 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 7,
+  "promptText": "Which sarees should I buy online in India for a wedding on a budget?",
+  "cellId": "F05_en_gemini_r7",
+  "startedAt": "2026-08-14T13:10:50.435Z",
+  "finishedAt": "2026-08-14T13:11:04.716Z",
+  "durationMs": 14281,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "When shopping online in India for a wedding saree on a budget, you don't have to compromise on elegance. Several fabric choices and styles mimic the rich, regal look of high-end traditional wear without the heavy price tag.\n\n---\n\n### ## Best Budget-Friendly Saree Styles for Weddings\n\n| Saree Type | Why it Works on a Budget | Best For |\n| :--- | :--- | :--- |\n| **Art Silk / Banarasi-Inspired** | Offers the royal sheen and intricate gold zari weaving of authentic Banarasi silk at a fraction of the cost. | Main wedding ceremonies and evening receptions |\n| **Chiffon & Georgette with Sequins** | Lightweight, easy to drape, and catches the light beautifully under wedding hall photography. | Sangeet, cocktail nights, or cocktail parties |\n| **Organza / Tissue Silk** | Features a crisp, modern stiffness and subtle shimmer that looks chic, trendy, and high-fashion. | Daytime weddings, Haldi, or Mehendi functions |\n| **Patola-Blend / Printed Silk** | Replicates rich geometric patterns and vibrant color saturations without expensive hand-loom labor costs. | Traditional rituals and family gatherings |\n\n---\n\n### ## Top Online Platforms to Explore\n\n* **Mass Market & Hyper-Budget (Under ₹1,000 - ₹3,000):** Platforms like **Meesho**, **Sudathi**, and specific storefronts on **Myntra** feature extensive collections of art silk, faux-georgette, and festive wear with heavy-looking borders at very low price points.\n* **Mid-Range Traditional & Ethnic Specialists (₹3,000 - ₹10,000):** Websites like **Koskii**, **Pothys**, or curated handloom aggregators offer structured filters for price and occasion, ensuring reliable fabric descriptions and close-up texture photos.[www.koskii.com](https://www.koskii.com/collections/sarees#:~:text=To%20make%20up%20for%20the,Under%205000%2C%20Sarees%20Above%2010000.)\n\n---\n\n### ## Smart Tips for Budget Saree Shopping Online\n\n* **Focus on the Border and Pallu:** Heavy zari weaving or embroidery concentrated on the pallu and border instantly makes an affordable saree look much more expensive than all-over heavy work.\n* **Check the Blouse Piece:** Ensure the saree comes with an unstitched matching or contrasting blouse piece. A well-tailored, statement blouse can elevate a simple, budget-friendly saree into a standout outfit.\n* **Read Fabric Composition Closely:** Look out for terms like \"art silk,\" \"jacquard,\" or \"silk-blend\" so you know exactly what material you are getting instead of expecting pure handloom silk at a low price.\n\nWhat specific wedding function or color palette are you shopping for?",
+  "citations": [
+   {
+    "url": "https://www.koskii.com/collections/sarees#:~:text=To%20make%20up%20for%20the,Under%205000%2C%20Sarees%20Above%2010000.",
+    "source_name": null,
+    "position": 1
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "13.5614 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141310-2163-0629-0000-423bcbdeca4e",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "13.3316 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:11:02 +00:00",
+      "markdown": "When shopping online in India for a wedding saree on a budget, you don't have to compromise on elegance. Several fabric choices and styles mimic the rich, regal look of high-end traditional wear without the heavy price tag.\n\n---\n\n### ## Best Budget-Friendly Saree Styles for Weddings\n\n| Saree Type | Why it Works on a Budget | Best For |\n| :--- | :--- | :--- |\n| **Art Silk / Banarasi-Inspired** | Offers the royal sheen and intricate gold zari weaving of authentic Banarasi silk at a fraction of the cost. | Main wedding ceremonies and evening receptions |\n| **Chiffon & Georgette with Sequins** | Lightweight, easy to drape, and catches the light beautifully under wedding hall photography. | Sangeet, cocktail nights, or cocktail parties |\n| **Organza / Tissue Silk** | Features a crisp, modern stiffness and subtle shimmer that looks chic, trendy, and high-fashion. | Daytime weddings, Haldi, or Mehendi functions |\n| **Patola-Blend / Printed Silk** | Replicates rich geometric patterns and vibrant color saturations without expensive hand-loom labor costs. | Traditional rituals and family gatherings |\n\n---\n\n### ## Top Online Platforms to Explore\n\n* **Mass Market & Hyper-Budget (Under ₹1,000 - ₹3,000):** Platforms like **Meesho**, **Sudathi**, and specific storefronts on **Myntra** feature extensive collections of art silk, faux-georgette, and festive wear with heavy-looking borders at very low price points.\n* **Mid-Range Traditional & Ethnic Specialists (₹3,000 - ₹10,000):** Websites like **Koskii**, **Pothys**, or curated handloom aggregators offer structured filters for price and occasion, ensuring reliable fabric descriptions and close-up texture photos.[www.koskii.com](https://www.koskii.com/collections/sarees#:~:text=To%20make%20up%20for%20the,Under%205000%2C%20Sarees%20Above%2010000.)\n\n---\n\n### ## Smart Tips for Budget Saree Shopping Online\n\n* **Focus on the Border and Pallu:** Heavy zari weaving or embroidery concentrated on the pallu and border instantly makes an affordable saree look much more expensive than all-over heavy work.\n* **Check the Blouse Piece:** Ensure the saree comes with an unstitched matching or contrasting blouse piece. A well-tailored, statement blouse can elevate a simple, budget-friendly saree into a standout outfit.\n* **Read Fabric Composition Closely:** Look out for terms like \"art silk,\" \"jacquard,\" or \"silk-blend\" so you know exactly what material you are getting instead of expecting pure handloom silk at a low price.\n\nWhat specific wedding function or color palette are you shopping for?",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Sarees (साड़ी) - Buy Designer Saree For Women Online - Koskii",
+        "snippet": "To make up for the absence of that tactile experience, Koskii has ensured \nthe pictures you see of the saree fabric are close-ups and are of the \nhighest ...",
+        "domain": "www.koskii.com",
+        "url": "https://www.koskii.com/collections/sarees#:~:text=To%20make%20up%20for%20the,Under%205000%2C%20Sarees%20Above%2010000.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTxprrx199TJDgsEpbpEsLkajmqJ1geh4THvBVNwPPjkv4wOAeF4bCfuXY05LEjAdPEKiv8ZcHdEA-0givpWyWBeCPMZSLO1yI",
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "* Websites like **Koskii**, **Pothys**, or curated handloom aggregators offer structured filters for price and occasion, ensuring reliable fabric descriptions and close-up texture photos."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 8,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "When shopping online in India for a wedding saree on a budget, you don't have to compromise on elegance. Several fabric choices and styles mimic the rich, regal look of high-end traditional wear without the heavy price tag.",
+        "original_text": "When shopping online in India for a wedding saree on a budget, you don't have to compromise on elegance. Several fabric choices and styles mimic the rich, regal look of high-end traditional wear without the heavy price tag.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### ## Best Budget-Friendly Saree Styles for Weddings",
+        "original_text": "## Best Budget-Friendly Saree Styles for Weddings",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "markdown": "| Saree Type | Why it Works on a Budget | Best For |\n| :--- | :--- | :--- |\n| **Art Silk / Banarasi-Inspired** | Offers the royal sheen and intricate gold zari weaving of authentic Banarasi silk at a fraction of the cost. | Main wedding ceremonies and evening receptions |\n| **Chiffon & Georgette with Sequins** | Lightweight, easy to drape, and catches the light beautifully under wedding hall photography. | Sangeet, cocktail nights, or cocktail parties |\n| **Organza / Tissue Silk** | Features a crisp, modern stiffness and subtle shimmer that looks chic, trendy, and high-fashion. | Daytime weddings, Haldi, or Mehendi functions |\n| **Patola-Blend / Printed Silk** | Replicates rich geometric patterns and vibrant color saturations without expensive hand-loom labor costs. | Traditional rituals and family gatherings |",
+        "original_text": "Saree Type\tWhy it Works on a Budget\tBest For\nArt Silk / Banarasi-Inspired\tOffers the royal sheen and intricate gold zari weaving of authentic Banarasi silk at a fraction of the cost.\tMain wedding ceremonies and evening receptions\nChiffon & Georgette with Sequins\tLightweight, easy to drape, and catches the light beautifully under wedding hall photography.\tSangeet, cocktail nights, or cocktail parties\nOrganza / Tissue Silk\tFeatures a crisp, modern stiffness and subtle shimmer that looks chic, trendy, and high-fashion.\tDaytime weddings, Haldi, or Mehendi functions\nPatola-Blend / Printed Silk\tReplicates rich geometric patterns and vibrant color saturations without expensive hand-loom labor costs.\tTraditional rituals and family gatherings",
+        "table": {
+         "table_header": [
+          "Saree Type",
+          "Why it Works on a Budget",
+          "Best For"
+         ],
+         "table_content": [
+          [
+           "Art Silk / Banarasi-Inspired",
+           "Offers the royal sheen and intricate gold zari weaving of authentic Banarasi silk at a fraction of the cost.",
+           "Main wedding ceremonies and evening receptions"
+          ],
+          [
+           "Chiffon & Georgette with Sequins",
+           "Lightweight, easy to drape, and catches the light beautifully under wedding hall photography.",
+           "Sangeet, cocktail nights, or cocktail parties"
+          ],
+          [
+           "Organza / Tissue Silk",
+           "Features a crisp, modern stiffness and subtle shimmer that looks chic, trendy, and high-fashion.",
+           "Daytime weddings, Haldi, or Mehendi functions"
+          ],
+          [
+           "Patola-Blend / Printed Silk",
+           "Replicates rich geometric patterns and vibrant color saturations without expensive hand-loom labor costs.",
+           "Traditional rituals and family gatherings"
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "markdown": "### ## Top Online Platforms to Explore",
+        "original_text": "## Top Online Platforms to Explore",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "markdown": "* **Mass Market & Hyper-Budget (Under ₹1,000 - ₹3,000):** Platforms like **Meesho**, **Sudathi**, and specific storefronts on **Myntra** feature extensive collections of art silk, faux-georgette, and festive wear with heavy-looking borders at very low price points.\n* **Mid-Range Traditional & Ethnic Specialists (₹3,000 - ₹10,000):** Websites like **Koskii**, **Pothys**, or curated handloom aggregators offer structured filters for price and occasion, ensuring reliable fabric descriptions and close-up texture photos.[www.koskii.com](https://www.koskii.com/collections/sarees#:~:text=To%20make%20up%20for%20the,Under%205000%2C%20Sarees%20Above%2010000.)",
+        "original_text": "Mass Market & Hyper-Budget (Under ₹1,000 - ₹3,000): Platforms like Meesho, Sudathi, and specific storefronts on Myntra feature extensive collections of art silk, faux-georgette, and festive wear with heavy-looking borders at very low price points.\nMid-Range Traditional & Ethnic Specialists (₹3,000 - ₹10,000): Websites like Koskii, Pothys, or curated handloom aggregators offer structured filters for price and occasion, ensuring reliable fabric descriptions and close-up texture photos.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Sarees (साड़ी) - Buy Designer Saree For Women Online - Koskii",
+          "snippet": "To make up for the absence of that tactile experience, Koskii has ensured \nthe pictures you see of the saree fabric are close-ups and are of the \nhighest ...",
+          "domain": "www.koskii.com",
+          "url": "https://www.koskii.com/collections/sarees#:~:text=To%20make%20up%20for%20the,Under%205000%2C%20Sarees%20Above%2010000.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTxprrx199TJDgsEpbpEsLkajmqJ1geh4THvBVNwPPjkv4wOAeF4bCfuXY05LEjAdPEKiv8ZcHdEA-0givpWyWBeCPMZSLO1yI",
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "* Websites like **Koskii**, **Pothys**, or curated handloom aggregators offer structured filters for price and occasion, ensuring reliable fabric descriptions and close-up texture photos."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "markdown": "### ## Smart Tips for Budget Saree Shopping Online",
+        "original_text": "## Smart Tips for Budget Saree Shopping Online",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "markdown": "* **Focus on the Border and Pallu:** Heavy zari weaving or embroidery concentrated on the pallu and border instantly makes an affordable saree look much more expensive than all-over heavy work.\n* **Check the Blouse Piece:** Ensure the saree comes with an unstitched matching or contrasting blouse piece. A well-tailored, statement blouse can elevate a simple, budget-friendly saree into a standout outfit.\n* **Read Fabric Composition Closely:** Look out for terms like \"art silk,\" \"jacquard,\" or \"silk-blend\" so you know exactly what material you are getting instead of expecting pure handloom silk at a low price.",
+        "original_text": "Focus on the Border and Pallu: Heavy zari weaving or embroidery concentrated on the pallu and border instantly makes an affordable saree look much more expensive than all-over heavy work.\nCheck the Blouse Piece: Ensure the saree comes with an unstitched matching or contrasting blouse piece. A well-tailored, statement blouse can elevate a simple, budget-friendly saree into a standout outfit.\nRead Fabric Composition Closely: Look out for terms like \"art silk,\" \"jacquard,\" or \"silk-blend\" so you know exactly what material you are getting instead of expecting pure handloom silk at a low price.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 8,
+        "markdown": "What specific wedding function or color palette are you shopping for?",
+        "original_text": "What specific wedding function or color palette are you shopping for?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

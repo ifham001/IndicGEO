@@ -1,0 +1,222 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 1,
+  "promptText": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+  "cellId": "F02_en_gemini_r1",
+  "startedAt": "2026-08-14T12:51:21.797Z",
+  "finishedAt": "2026-08-14T12:51:37.397Z",
+  "durationMs": 15600,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Finding a quality pair of running shoes under ₹3000 in India requires balancing brand value with functional features. At this price point, you get the best value by choosing **specialized entry-level performance models** from major sports brands or **in-house technical brands** like Decathlon.\n\n### Top Recommendations Under ₹3000\n\nThese options are widely available in India via brand websites, Myntra, Flipkart, or Amazon.\n\n| Brand | Recommended Model | Best For | Why? |\n| :--- | :--- | :--- | :--- |\n| **Decathlon** | **Kiprun Jogflow 190.1** | Daily Training | Excellent durability and breathability; arguably the best \"value-for-money\" technical running shoe in India. |\n| **Adidas** | **Duramo Series** (e.g., Duramo 10/Speed) | Road Running | Reliable cushioning and grip. Often discounted to under ₹3000 during sales. |\n| **Puma** | **Softride / Flyer Runner** | Versatile/Gym | Very lightweight and comfortable for short runs (under 5km) and gym sessions. |\n| **ASICS** | **Jolt Series** (Jolt 4/5) | Beginners | A dedicated entry-level running shoe with better stability/support than fashion-focused sneakers. |\n| **Cult.sport** | **Velocity / Stride Series** | Budget Performance | Indian brand offering modern designs with decent foam cushioning for the price. |\n\n---\n\n### How to Choose the Right Pair\n\nAt the sub-₹3000 price point, brands often sell \"lifestyle\" shoes disguised as running shoes. Follow this checklist to ensure you are buying a true running shoe:\n\n* **Avoid \"Fashion\" Soles:** If the sole is flat, stiff, or made of hard plastic-like rubber, it is likely a casual sneaker. Look for shoes with visible **EVA or TPU foam** in the midsole for shock absorption.\n* **Prioritize Mesh Uppers:** Look for engineered mesh (perforated fabric). This keeps your feet cool in Indian weather and prevents blisters.\n* **Check the Outsole:** Ensure the bottom has a good amount of rubber coverage for traction. Avoid shoes with exposed foam on the bottom, as they will wear out quickly on Indian asphalt/concrete.\n* **Size Up:** Your feet swell during a run. Always buy **half a size larger** than your formal shoe size to ensure there is a thumb's width of space in front of your toes.\n\n### Where to Buy for Best Prices\n\n* **Official Brand Websites:** Brands like **Adidas, Puma, and Skechers** run \"Outlet\" or \"Sale\" sections where older season models are frequently marked down to 40–50% off.\n* **Decathlon Stores:** Always your safest bet for functional sports gear under ₹3000; their **Kiprun** (performance) and **Jogflow** (comfort) lines are specifically engineered for runners.\n* **Myntra/Flipkart:** Use filters to sort by \"Discount: High to Low.\" Look for bank offers during festival sales to get premium models (like ASICS or Nike entry-levels) within your budget.[www.reddit.com](https://www.reddit.com/r/IndianRunningshoes/comments/1tvd8ib/looking_for_running_shoes_under_3000_with_good/#:~:text=Please%20recommend%20me%20a%20good%20Road%20Running,6000.%206.%20*%20r%2Ftires.%20%E2%80%A2%204mo%20ago.)",
+  "citations": [
+   {
+    "url": "https://www.reddit.com/r/IndianRunningshoes/comments/1tvd8ib/looking_for_running_shoes_under_3000_with_good/#:~:text=Please%20recommend%20me%20a%20good%20Road%20Running,6000.%206.%20*%20r%2Ftires.%20%E2%80%A2%204mo%20ago.",
+    "source_name": "Reddit",
+    "position": 1
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "15.3931 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141251-2163-0629-0000-3ee3201be134",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "15.3559 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:51:36 +00:00",
+      "markdown": "Finding a quality pair of running shoes under ₹3000 in India requires balancing brand value with functional features. At this price point, you get the best value by choosing **specialized entry-level performance models** from major sports brands or **in-house technical brands** like Decathlon.\n\n### Top Recommendations Under ₹3000\n\nThese options are widely available in India via brand websites, Myntra, Flipkart, or Amazon.\n\n| Brand | Recommended Model | Best For | Why? |\n| :--- | :--- | :--- | :--- |\n| **Decathlon** | **Kiprun Jogflow 190.1** | Daily Training | Excellent durability and breathability; arguably the best \"value-for-money\" technical running shoe in India. |\n| **Adidas** | **Duramo Series** (e.g., Duramo 10/Speed) | Road Running | Reliable cushioning and grip. Often discounted to under ₹3000 during sales. |\n| **Puma** | **Softride / Flyer Runner** | Versatile/Gym | Very lightweight and comfortable for short runs (under 5km) and gym sessions. |\n| **ASICS** | **Jolt Series** (Jolt 4/5) | Beginners | A dedicated entry-level running shoe with better stability/support than fashion-focused sneakers. |\n| **Cult.sport** | **Velocity / Stride Series** | Budget Performance | Indian brand offering modern designs with decent foam cushioning for the price. |\n\n---\n\n### How to Choose the Right Pair\n\nAt the sub-₹3000 price point, brands often sell \"lifestyle\" shoes disguised as running shoes. Follow this checklist to ensure you are buying a true running shoe:\n\n* **Avoid \"Fashion\" Soles:** If the sole is flat, stiff, or made of hard plastic-like rubber, it is likely a casual sneaker. Look for shoes with visible **EVA or TPU foam** in the midsole for shock absorption.\n* **Prioritize Mesh Uppers:** Look for engineered mesh (perforated fabric). This keeps your feet cool in Indian weather and prevents blisters.\n* **Check the Outsole:** Ensure the bottom has a good amount of rubber coverage for traction. Avoid shoes with exposed foam on the bottom, as they will wear out quickly on Indian asphalt/concrete.\n* **Size Up:** Your feet swell during a run. Always buy **half a size larger** than your formal shoe size to ensure there is a thumb's width of space in front of your toes.\n\n### Where to Buy for Best Prices\n\n* **Official Brand Websites:** Brands like **Adidas, Puma, and Skechers** run \"Outlet\" or \"Sale\" sections where older season models are frequently marked down to 40–50% off.\n* **Decathlon Stores:** Always your safest bet for functional sports gear under ₹3000; their **Kiprun** (performance) and **Jogflow** (comfort) lines are specifically engineered for runners.\n* **Myntra/Flipkart:** Use filters to sort by \"Discount: High to Low.\" Look for bank offers during festival sales to get premium models (like ASICS or Nike entry-levels) within your budget.[www.reddit.com](https://www.reddit.com/r/IndianRunningshoes/comments/1tvd8ib/looking_for_running_shoes_under_3000_with_good/#:~:text=Please%20recommend%20me%20a%20good%20Road%20Running,6000.%206.%20*%20r%2Ftires.%20%E2%80%A2%204mo%20ago.)",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Looking for running shoes under ₹3000 with good cushioning and grip on wet \nsurfaces",
+        "snippet": "Please recommend me a good Road Running shoes. I Run 5-10km daily and go \nGym. My budget is around below 3500. 2. * r/IndianRunningshoes. • 5mo ago. \nBest shoes u...",
+        "domain": "www.reddit.com",
+        "url": "https://www.reddit.com/r/IndianRunningshoes/comments/1tvd8ib/looking_for_running_shoes_under_3000_with_good/#:~:text=Please%20recommend%20me%20a%20good%20Road%20Running,6000.%206.%20*%20r%2Ftires.%20%E2%80%A2%204mo%20ago.",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRlv2YGNPMRwoLknlViQL65F5cXWZI1wxyTPl30jz9qVImXj7JDW-DpqnjYEBQWhM21QaqBIDCnOOAE2ENqUACZvJeaQsqT6mq3",
+        "source_name": "Reddit",
+        "publication_date": null,
+        "markdown": "Look for bank offers during festival sales to get premium models (like ASICS or Nike entry-levels) within your budget."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 9,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Finding a quality pair of running shoes under ₹3000 in India requires balancing brand value with functional features. At this price point, you get the best value by choosing **specialized entry-level performance models** from major sports brands or **in-house technical brands** like Decathlon.",
+        "original_text": "Finding a quality pair of running shoes under ₹3000 in India requires balancing brand value with functional features. At this price point, you get the best value by choosing specialized entry-level performance models from major sports brands or in-house technical brands like Decathlon.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### Top Recommendations Under ₹3000",
+        "original_text": "Top Recommendations Under ₹3000",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "These options are widely available in India via brand websites, Myntra, Flipkart, or Amazon.",
+        "original_text": "These options are widely available in India via brand websites, Myntra, Flipkart, or Amazon.",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "markdown": "| Brand | Recommended Model | Best For | Why? |\n| :--- | :--- | :--- | :--- |\n| **Decathlon** | **Kiprun Jogflow 190.1** | Daily Training | Excellent durability and breathability; arguably the best \"value-for-money\" technical running shoe in India. |\n| **Adidas** | **Duramo Series** (e.g., Duramo 10/Speed) | Road Running | Reliable cushioning and grip. Often discounted to under ₹3000 during sales. |\n| **Puma** | **Softride / Flyer Runner** | Versatile/Gym | Very lightweight and comfortable for short runs (under 5km) and gym sessions. |\n| **ASICS** | **Jolt Series** (Jolt 4/5) | Beginners | A dedicated entry-level running shoe with better stability/support than fashion-focused sneakers. |\n| **Cult.sport** | **Velocity / Stride Series** | Budget Performance | Indian brand offering modern designs with decent foam cushioning for the price. |",
+        "original_text": "Brand\tRecommended Model\tBest For\tWhy?\nDecathlon\tKiprun Jogflow 190.1\tDaily Training\tExcellent durability and breathability; arguably the best \"value-for-money\" technical running shoe in India.\nAdidas\tDuramo Series (e.g., Duramo 10/Speed)\tRoad Running\tReliable cushioning and grip. Often discounted to under ₹3000 during sales.\nPuma\tSoftride / Flyer Runner\tVersatile/Gym\tVery lightweight and comfortable for short runs (under 5km) and gym sessions.\nASICS\tJolt Series (Jolt 4/5)\tBeginners\tA dedicated entry-level running shoe with better stability/support than fashion-focused sneakers.\nCult.sport\tVelocity / Stride Series\tBudget Performance\tIndian brand offering modern designs with decent foam cushioning for the price.",
+        "table": {
+         "table_header": [
+          "Brand",
+          "Recommended Model",
+          "Best For",
+          "Why?"
+         ],
+         "table_content": [
+          [
+           "Decathlon",
+           "Kiprun Jogflow 190.1",
+           "Daily Training",
+           "Excellent durability and breathability; arguably the best \"value-for-money\" technical running shoe in India."
+          ],
+          [
+           "Adidas",
+           "Duramo Series (e.g., Duramo 10/Speed)",
+           "Road Running",
+           "Reliable cushioning and grip. Often discounted to under ₹3000 during sales."
+          ],
+          [
+           "Puma",
+           "Softride / Flyer Runner",
+           "Versatile/Gym",
+           "Very lightweight and comfortable for short runs (under 5km) and gym sessions."
+          ],
+          [
+           "ASICS",
+           "Jolt Series (Jolt 4/5)",
+           "Beginners",
+           "A dedicated entry-level running shoe with better stability/support than fashion-focused sneakers."
+          ],
+          [
+           "Cult.sport",
+           "Velocity / Stride Series",
+           "Budget Performance",
+           "Indian brand offering modern designs with decent foam cushioning for the price."
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "markdown": "### How to Choose the Right Pair",
+        "original_text": "How to Choose the Right Pair",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "markdown": "At the sub-₹3000 price point, brands often sell \"lifestyle\" shoes disguised as running shoes. Follow this checklist to ensure you are buying a true running shoe:",
+        "original_text": "At the sub-₹3000 price point, brands often sell \"lifestyle\" shoes disguised as running shoes. Follow this checklist to ensure you are buying a true running shoe:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "markdown": "* **Avoid \"Fashion\" Soles:** If the sole is flat, stiff, or made of hard plastic-like rubber, it is likely a casual sneaker. Look for shoes with visible **EVA or TPU foam** in the midsole for shock absorption.\n* **Prioritize Mesh Uppers:** Look for engineered mesh (perforated fabric). This keeps your feet cool in Indian weather and prevents blisters.\n* **Check the Outsole:** Ensure the bottom has a good amount of rubber coverage for traction. Avoid shoes with exposed foam on the bottom, as they will wear out quickly on Indian asphalt/concrete.\n* **Size Up:** Your feet swell during a run. Always buy **half a size larger** than your formal shoe size to ensure there is a thumb's width of space in front of your toes.",
+        "original_text": "Avoid \"Fashion\" Soles: If the sole is flat, stiff, or made of hard plastic-like rubber, it is likely a casual sneaker. Look for shoes with visible EVA or TPU foam in the midsole for shock absorption.\nPrioritize Mesh Uppers: Look for engineered mesh (perforated fabric). This keeps your feet cool in Indian weather and prevents blisters.\nCheck the Outsole: Ensure the bottom has a good amount of rubber coverage for traction. Avoid shoes with exposed foam on the bottom, as they will wear out quickly on Indian asphalt/concrete.\nSize Up: Your feet swell during a run. Always buy half a size larger than your formal shoe size to ensure there is a thumb's width of space in front of your toes.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 8,
+        "markdown": "### Where to Buy for Best Prices",
+        "original_text": "Where to Buy for Best Prices",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 9,
+        "markdown": "* **Official Brand Websites:** Brands like **Adidas, Puma, and Skechers** run \"Outlet\" or \"Sale\" sections where older season models are frequently marked down to 40–50% off.\n* **Decathlon Stores:** Always your safest bet for functional sports gear under ₹3000; their **Kiprun** (performance) and **Jogflow** (comfort) lines are specifically engineered for runners.\n* **Myntra/Flipkart:** Use filters to sort by \"Discount: High to Low.\" Look for bank offers during festival sales to get premium models (like ASICS or Nike entry-levels) within your budget.[www.reddit.com](https://www.reddit.com/r/IndianRunningshoes/comments/1tvd8ib/looking_for_running_shoes_under_3000_with_good/#:~:text=Please%20recommend%20me%20a%20good%20Road%20Running,6000.%206.%20*%20r%2Ftires.%20%E2%80%A2%204mo%20ago.)",
+        "original_text": "Official Brand Websites: Brands like Adidas, Puma, and Skechers run \"Outlet\" or \"Sale\" sections where older season models are frequently marked down to 40–50% off.\nDecathlon Stores: Always your safest bet for functional sports gear under ₹3000; their Kiprun (performance) and Jogflow (comfort) lines are specifically engineered for runners.\nMyntra/Flipkart: Use filters to sort by \"Discount: High to Low.\" Look for bank offers during festival sales to get premium models (like ASICS or Nike entry-levels) within your budget.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Looking for running shoes under ₹3000 with good cushioning and grip on wet \nsurfaces",
+          "snippet": "Please recommend me a good Road Running shoes. I Run 5-10km daily and go \nGym. My budget is around below 3500. 2. * r/IndianRunningshoes. • 5mo ago. \nBest shoes u...",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/IndianRunningshoes/comments/1tvd8ib/looking_for_running_shoes_under_3000_with_good/#:~:text=Please%20recommend%20me%20a%20good%20Road%20Running,6000.%206.%20*%20r%2Ftires.%20%E2%80%A2%204mo%20ago.",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRlv2YGNPMRwoLknlViQL65F5cXWZI1wxyTPl30jz9qVImXj7JDW-DpqnjYEBQWhM21QaqBIDCnOOAE2ENqUACZvJeaQsqT6mq3",
+          "source_name": "Reddit",
+          "publication_date": null,
+          "markdown": "Look for bank offers during festival sales to get premium models (like ASICS or Nike entry-levels) within your budget."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

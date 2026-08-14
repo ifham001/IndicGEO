@@ -1,0 +1,417 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 5,
+  "promptText": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+  "cellId": "S02_hg_chatgpt_r5",
+  "startedAt": "2026-08-14T12:43:15.279Z",
+  "finishedAt": "2026-08-14T12:43:34.701Z",
+  "durationMs": 19422,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Haan — Indian skin tones ke liye **white-cast avoid karna hai toh lightweight chemical/hybrid sunscreen** generally safest bet hota hai. 2026 ke current options mein meri top picks:\n\n### 🥇 Best overall: Minimalist Light Fluid SPF 50 PA++++\n### [Minimalist Light Fluid SPF 50]()\n*₹315*\n\n- **No white cast** aur lightweight, non-greasy finish.\n- SPF 50 + **PA++++**\n- Water/sweat resistant, fragrance-free aur non-comedogenic.\n- Brand ke according in-vivo testing mein SPF 56 measure hua. [beminimalist.co](https://beminimalist.co/collections/skin-body-1/products/light-fluid-spf-50-sunscreen?utm_source=chatgpt.com)\n- **₹300–450 ke around** mil raha hai, size/offer ke hisaab se.\n\n**Meri first choice** agar aapko ek hi sunscreen lena hai.\n\n### 🥈 Oily/combination skin: Dot & Key Watermelon Cooling\n### [Dot & Key Watermelon Cooling Sunscreen]()\n*₹263*\n\nGel-type, lightweight aur quick-absorbing hai; brand ise SPF 50+ PA++++, non-comedogenic aur zero-white-cast formula batata hai. [www.dotandkey.com](https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-sunscreens-in-india?utm_source=chatgpt.com)\n\n### 🥉 Sensitive skin: Conscious Chemist 100% Mineral\n### [Conscious Chemist Sunscreen SPF 50 PA++]()\n*₹154*\n\nAgar aap **mineral sunscreen** prefer karte ho, iska SPF 50 PA++++ version specifically zero-white-cast claim karta hai. [consciouschemist.com](https://consciouschemist.com/products/100-percent-mineral-sunscreen-spf-50-pa-matte-finish-zero-white-cast?utm_source=chatgpt.com)\n\n**Short answer:** Agar aap mujhe apni **skin type (oily/dry/combination) + budget** bata do, toh main aapke liye **exact 2–3 best sunscreens** choose kar dunga — aur bataunga kaunsa tanning/pigmentation ke liye better hai.",
+  "citations": [
+   {
+    "url": "https://beminimalist.co/collections/skin-body-1/products/light-fluid-spf-50-sunscreen?utm_source=chatgpt.com",
+    "source_name": "Minimalist",
+    "position": 1
+   },
+   {
+    "url": "https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-sunscreens-in-india?utm_source=chatgpt.com",
+    "source_name": "Dot & Key",
+    "position": 2
+   },
+   {
+    "url": "https://consciouschemist.com/products/100-percent-mineral-sunscreen-spf-50-pa-matte-finish-zero-white-cast?utm_source=chatgpt.com",
+    "source_name": "Conscious Chemist",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "19.1842 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141243-2163-0629-0000-3200af6db1aa",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "19.1638 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Mujhe%20aisa%20sunscreen%20kharidna%20hai%20jo%20Indian%20skin%20par%20white%20cast%20na%20chhode.%20Konsa%20best%20hai%3F&hints=search",
+      "datetime": "2026-08-14 12:43:34 +00:00",
+      "markdown": "Haan — Indian skin tones ke liye **white-cast avoid karna hai toh lightweight chemical/hybrid sunscreen** generally safest bet hota hai. 2026 ke current options mein meri top picks:\n\n### 🥇 Best overall: Minimalist Light Fluid SPF 50 PA++++\n### [Minimalist Light Fluid SPF 50]()\n*₹315*\n\n- **No white cast** aur lightweight, non-greasy finish.\n- SPF 50 + **PA++++**\n- Water/sweat resistant, fragrance-free aur non-comedogenic.\n- Brand ke according in-vivo testing mein SPF 56 measure hua. [beminimalist.co](https://beminimalist.co/collections/skin-body-1/products/light-fluid-spf-50-sunscreen?utm_source=chatgpt.com)\n- **₹300–450 ke around** mil raha hai, size/offer ke hisaab se.\n\n**Meri first choice** agar aapko ek hi sunscreen lena hai.\n\n### 🥈 Oily/combination skin: Dot & Key Watermelon Cooling\n### [Dot & Key Watermelon Cooling Sunscreen]()\n*₹263*\n\nGel-type, lightweight aur quick-absorbing hai; brand ise SPF 50+ PA++++, non-comedogenic aur zero-white-cast formula batata hai. [www.dotandkey.com](https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-sunscreens-in-india?utm_source=chatgpt.com)\n\n### 🥉 Sensitive skin: Conscious Chemist 100% Mineral\n### [Conscious Chemist Sunscreen SPF 50 PA++]()\n*₹154*\n\nAgar aap **mineral sunscreen** prefer karte ho, iska SPF 50 PA++++ version specifically zero-white-cast claim karta hai. [consciouschemist.com](https://consciouschemist.com/products/100-percent-mineral-sunscreen-spf-50-pa-matte-finish-zero-white-cast?utm_source=chatgpt.com)\n\n**Short answer:** Agar aap mujhe apni **skin type (oily/dry/combination) + budget** bata do, toh main aapke liye **exact 2–3 best sunscreens** choose kar dunga — aur bataunga kaunsa tanning/pigmentation ke liye better hai.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://consciouschemist.com/collections/all/products/100-percent-mineral-sunscreen-spf-50-pa-matte-finish-zero-white-cast?utm_source=chatgpt.com",
+        "domain": "consciouschemist.com",
+        "title": "100% Mineral Sunscreen SPF 50 PA++++ | Matte Finish",
+        "description": "100% MINERAL SUNSCREEN SPF 50 PA++++  100% Mineral  No White Cast  Pregnancy and Child Safe  Non-Comedogenic  214 reviews  Image: 100% Mineral Sunscreen SPF 50 PA++++ | Matte Finish  Image: 100% Mine...",
+        "breadcrumb": "consciouschemist.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://consciouschemist.com/?utm_source=chatgpt.com",
+        "domain": "consciouschemist.com",
+        "title": "India’s Trusted Skincare Brand | Conscious Chemist",
+        "description": "Buy 2 Get 2 Free  [Input] [Input] [Input]  50 ml  100% Mineral  No White Cast  Pregnancy and Child Safe  Non-Comedogenic  100% Mineral  100% Mineral Sunscreen SPF 50 PA++++  4.3  (190+)  4.3  (190+)...",
+        "breadcrumb": "consciouschemist.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html/?utm_source=chatgpt.com",
+        "domain": "www.hindustantimes.com",
+        "title": "These 7 sunscreens without white cast work for Indian skin and summers | Fashion Trends",
+        "description": "THESE 7 SUNSCREENS WITHOUT WHITE CAST WORK FOR INDIAN SKIN AND SUMMERS  By Shweta Pandey  Published on: Jul 10, 2026 09:00 am IST  Read this news in brief form  [Input]  Share Via  Copy Link  IF YOU...",
+        "breadcrumb": "hindustantimes.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.drsheths.com/blogs/skin-care/sunscreens-that-dont-leave-a-white-cast-for-indian-skin?utm_source=chatgpt.com",
+        "domain": "www.drsheths.com",
+        "title": "Sunscreens That Don't Leave a White Cast for Indian Skin – Dr Sheth's",
+        "description": "SUNSCREENS THAT DON'T LEAVE A WHITE CAST FOR INDIAN SKIN  by Mohammad Shakil  on Jul 28  Image: Sunscreens That Don't Leave a White Cast for Indian Skin  The sunscreens that don't leave a white cast...",
+        "breadcrumb": "drsheths.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://glowdekho.com/blog-best-sunscreen-no-white-cast.html?utm_source=chatgpt.com",
+        "domain": "glowdekho.com",
+        "title": "Best Sunscreen for Indian Skin — No White Cast Under ₹500 (2026) | GlowDekho",
+        "description": "BEST SUNSCREEN FOR INDIAN SKIN — No White Cast, Under ₹500  📅 April 2026⏱ 6 min read🎯 Tested for Indian skin tones  The white cast problem is real — but it's also completely solved. Old-generation mi...",
+        "breadcrumb": "glowdekho.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ndtvshopping.com/beauty-and-grooming/best-spfs-that-wont-leave-a-white-cast-or-feel-sticky-in-humidity-11679621?utm_source=chatgpt.com",
+        "domain": "www.ndtvshopping.com",
+        "title": "Best SPFs That Will Not Leave A White Cast Or Feel Sticky In Humidity - NDTV Shopping",
+        "description": "5 BEST SPFS UNDER ₹500 THAT WON'T LEAVE A WHITE CAST OR FEEL STICKY IN HUMIDITY  LOOKING FOR A SUNSCREEN THAT FEELS WEIGHTLESS IN HUMID WEATHER? THESE SPFS OFFER BROAD-SPECTRUM PROTECTION WITHOUT LEA...",
+        "breadcrumb": "ndtvshopping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?_pos=7&_sid=84e4818d8&_ss=r&utm_source=chatgpt.com",
+        "domain": "beminimalist.co",
+        "title": "Light Fluid SPF 50 - Broad spectrum, PA++++ Rating, Water & Sweat Resistant - Suitable for All Skin Type | Minimalist",
+        "description": "OFFERS (5)  ATC5  Get Additional 5% Off on orders above ₹299/-  ATC10  Get Additional 10% Off on orders above ₹599/-  TRAVEL599  Free travel pouch on min purchase of ₹599/-  B2G3RDFREE  Buy 2, Get th...",
+        "breadcrumb": "beminimalist.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://kickassopinion.com/best-sunscreens-for-indian-skin-2026-the-only-guide-you-need/?utm_source=chatgpt.com",
+        "domain": "kickassopinion.com",
+        "title": "Best Sunscreens for Indian Skin 2026: The Only Guide You Need - KickassOpinion",
+        "description": "BEST SUNSCREENS FOR INDIAN SKIN 2026: THE ONLY GUIDE YOU NEED  By James / May 31, 2026  Image: Sunscreen skincare SPF beauty products India  Sunscreen is the single most important skincare product yo...",
+        "breadcrumb": "kickassopinion.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com",
+        "domain": "sskin.care",
+        "title": "The 33 Best Sunscreens in India: Every Label Decoded (2026) — sskin.care/",
+        "description": "THE 33 SUNSCREENS  Pick a category. Each sunscreen shows UV filters, verdict, skin type match, and price.  [Button: Budget (<₹500)] [Button: Mid-Range] [Button: Pharmacy] [Button: K/J-beauty] [Button:...",
+        "breadcrumb": "sskin.care"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Light Fluid SPF 50 - Broad spectrum, PA++++ Rating, Water & Sweat Resistant - Suitable for All Skin Type | Minimalist",
+        "snippet": null,
+        "domain": "beminimalist.co",
+        "url": "https://beminimalist.co/collections/skin-body-1/products/light-fluid-spf-50-sunscreen?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Minimalist",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Dermatologist-Recommended Sunscreens in India (2026)",
+        "snippet": null,
+        "domain": "www.dotandkey.com",
+        "url": "https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-sunscreens-in-india?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Dot & Key",
+        "publication_date": "2026-07-02 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "100% Mineral Sunscreen SPF 50 PA++++ | Matte Finish",
+        "snippet": null,
+        "domain": "consciouschemist.com",
+        "url": "https://consciouschemist.com/products/100-percent-mineral-sunscreen-spf-50-pa-matte-finish-zero-white-cast?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Conscious Chemist",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best sunscreen no white cast Indian skin SPF 50 PA++++ Minimalist Light Fluid Dot Key Conscious Chemist 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Haan — Indian skin tones ke liye **white-cast avoid karna hai toh lightweight chemical/hybrid sunscreen** generally safest bet hota hai. 2026 ke current options mein meri top picks:\n\n### 🥇 Best overall: Minimalist Light Fluid SPF 50 PA++++\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10913482140093209701",
+          "merchants": "Minimalist + others",
+          "id_to_token_map": "nvcGn3icbZTLjqtGEIaTPEG22c02Gllquo2BHM2Cu2EGbBpoMBsLaGwwF2MDY0B5mGjORTpZJpHyLOcs8hxZxlG2qVVJ_6__U0lV9dc3379lxZ_JkdnHlxWQLopUbo3tpTttLk76ub2e6ZD2Bf2dQ-yKY1iWg4DlGGF1bz6ncR9X52NB_2CAwKAlD5klAAKCQOAA81uexbQqmmxzOGRX5ZzeUyDgEGJ4XhBW_BJxHCtwvxZ1fMz-k7klWvEALiEEdxML75T3V9p9gVt5f6cLCAHIwxUPl0vhbvl5izfK_v-1j5chu05fHuqiuQOqousfq-KY94-HaijoYzc0XXrNsubjsf2X_D8J7-uC_vK-fe3f8uOHYaiyLz_eHmXRcAzZCEldTbvQ6LxAO-9CM09hDtJa7dyALeNAfTtWb0XzlldvWfPpHLevh_Trt3-rr6ksX1PZ8duWKBi4kCyxgvVM99kQ5JHls3kyR7WlmWwaYoA9205Lc7IRMXCZE3ctSYkvxNGMLx4sZ8_LI6xqdtJUL27VnrMg72NihniO1h7IS1IwCCMseyGWUkDmXd2SHTyOSU0ulqL2nuL3kS6Q1AVjDO2DO0uY6i2iOjnEoTpbPtU3a2zYjMNGCDtZ2eMY2Dtr3XYeE22jkEa-ZkAPkTVGBHmVqUWawLiNcbMCE5FZihPUyrSh4X2m0dfbW-ThW6rkASmZyy7oN7FCX6yyu_M1O2L80fIFFZf4lZIot0sh9hXTpbpWuCqzJSesUVJ5DlNVm6AyfUSxU-IZK7R6CcYoYbQmqqpdFkrY8ugu0FXWqu3aa9rzXbeSkzFaag4coIGdVz27NekpwZq7bkMH0Mo7qSzxHFeDZmMRIU-93c1pNNWpe8cl0pjCdpsS7aQXpoTX9rQJIuycaJvqxLI14TU5RTX2-dkNHUhDso4CcolCqfkwdtfDFyBqbO9uWKmUWvhyq6f5xu9LcIWj6g-VeJly8SeG4--beL-iFRLQp_R8Lovs63c_uKqI5fXeFS3VNTz1ST46xrhSpXcPoio_idQkajyw-90Q2NelrSUlVI_JAvgZq3UB5zCyEj_LCVPWoi7F0UYsh6BaM6H47mG_d7N0uGYL18PbJ9Guo1uMjhngpgtxCkVcPcd7kaEe5Hfjfjlk21PROoN8sMY9HUxlTF9ak-6sJPNyp2dae3vIp3quOMXfLeBlTgXvjMYsHgLzdcJhRg7TuweFPBnzcj5MV1ZeG3m3dsC0SfYHiFj4slNFu81X-9BM68UxYFPxXu8ebEN5YhF6ivGBv6rhZCylvbfsqMkkrXLhJ9U5CI7HnuIN9arFNiti5EJl5TFnwM5tultsl-YiZKZAJ03vewRj2AvbkZdl9yYeZKmjGSoB0J_VZ16Xk8VWcF43NquXEuwG_wWz_cUoxllmrwUtcKvDG2OsRVSOHTCfhTZJXT_r-X4hKE7M1alRbJqBa65h6mjO0AXqVlZdQSVdJPJGhvtlANDgZ1Yvuu4GrUdFSO9fkN7EZlKW42TMZpKzNx6hvWGzUCZT6VoQD92l8YXCeb7IC-qOPuf8A5xP6N8",
+          "title": "Minimalist Light Fluid SPF 50",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 358,
+           "rating_max": 5
+          },
+          "price": 315,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/SiYWmnicDcnxDoFAHADgJzqRUG1m6WhxK5Fl_WO5Wpf06-oO1VN5HW_D9-_3_TApuTAVJQPa9lxmKZI3mIxyIRNZ0BGtK0WwmvMC8lWz_J9peanh0NDdIaHZJ4ZwWqmv6LYhDcyuvdMccai6YZwcSBwZ_LLN9mJNFuV6gInuaNSuvKoVxMcxUPWJtTkInRk5mhG_Zu_mXjxwENhzwEE67vRzVtZJWMJwtLr27k7zH12RPls"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "bg1_aq60BqDBkPIPqsjOqQc",
+            "product_id": "7356715572057196572",
+            "catalog_id": "10913482140093209701",
+            "gpcid": "6719330282682449201",
+            "headline_offer_docid": "2073318899684377597",
+            "image_docid": "7436802422018852657",
+            "rds": "PC_6719330282682449201|PROD_PC_6719330282682449201",
+            "query": "minimalist+light+fluid+sunscreen",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIXVmlyYXIsTWFoYXJhc2h0cmEsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n- **No white cast** aur lightweight, non-greasy finish.\n- SPF 50 + **PA++++**\n- Water/sweat resistant, fragrance-free aur non-comedogenic.\n- Brand ke according in-vivo testing mein SPF 56 measure hua. [beminimalist.co](https://beminimalist.co/collections/skin-body-1/products/light-fluid-spf-50-sunscreen?utm_source=chatgpt.com)\n- **₹300–450 ke around** mil raha hai, size/offer ke hisaab se.\n\n**Meri first choice** agar aapko ek hi sunscreen lena hai.\n\n### 🥈 Oily/combination skin: Dot & Key Watermelon Cooling\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Light Fluid SPF 50 - Broad spectrum, PA++++ Rating, Water & Sweat Resistant - Suitable for All Skin Type | Minimalist",
+          "snippet": null,
+          "domain": "beminimalist.co",
+          "url": "https://beminimalist.co/collections/skin-body-1/products/light-fluid-spf-50-sunscreen?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Minimalist",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "11781078346234467158",
+          "merchants": "Amazon.in + others",
+          "id_to_token_map": "ky-weXicdZO7juvWGYUDP0GKNOmmDQYD7As3RfpgCooXiRyRkngnG4HcmxIpbl4kUhIl-Gnm2Aac0jaQZzku8ixRXCd_uxbWv4pv_fsvf_0sqn_lN7jL-reTLd_VW15vZHnzELfmL_25Yxc6Vux3OIMEoxkgSBIBIIAQEf9CszHj3eG_MpxJEMwkLIgIC4L4dEu_lkXGeNUW6_2-OGsdrdhvWIAYEgHLkvTMEfAM4X9WTXYo_pR_hwATQQYCQrMZFmaiIEji1zMbvgkbdQehAKAoEHGGJCwTLBE0-2HjrrXd_xF_Ol2K8_3bC-vG16xlr3Vxf71lY3FuCt61r8OlHei5KNqfDv2fz_9HxNemYr-SZxERERHJAoSQACB_7a_jZ3n48XLhxbd_3F5VxdyaqhmHDb8nsTn4kdElsVVSVALa6IMXkTqL9M8D_6zaz5J_Fu3PXdZf9_SP7_6mdzdNHW7qNuj7UHOBr7lnN5L7fMnSLAyHKJggBWG_CkoSHcvIiVwjr_nG9xWS1mTlLudt0fLRQZMXtCFOUZoy7t49LmGml2OAyiBdMBBoxj7VyZTq_JE9uBnicm1H4y3kae0Zoeksw8wPRpcZRkLRNHiQCpFfHsPAjRIgc6qxJgosP_Q5z4F7yQO3Y4F9Wy-T0X_Mj5lej5HPuL0gZdGwfY77KFowJ3iU_rP7JdCnii56y22VKQrKW7akY7AwoihKI3osGxYbjxQw3WvSjR8YHdWn0A5c30YdoKF8io4UUBhgVo-pV7tHBq2lr_OPMOi3UTNdAt_1aG3dc8g_3Lgvs9jY2GGaPL28CACyeThltQzdOr0HrbumYCJFXY9e4zrpwjJYyxLmlyc_nt8dPUQMco2hKbYRBDkIxVwnOjs6x7x1JlZPQ9IYWQIoYI3pGcjCdiiXVIWT73OyxazKoELW4Vx0uGEtKmvuLp37Oko9X5uTInRP1Oc31iSPXC_XHoJ32kzcAxCltTP_cRrO-29AMcjorWezskFvzqKuJFlztkoy7tUhPEqPuXf7_jm859qe6EpAln6mXVdXxR_f_X238wp6ORdvnu9u3hWnSW8Zrrph27QnZxu4AXZ27sWkkriT74WxIyfVIlaVhk6s76zUMe7DRM9v8sOUpcSzzG7-cW3RMnBtPhsqUzxSqdtPwrS3pWuR91UYf3nxdMVVlztPsXXP9PV39bA1J1Gff3lRdPVdYVaoZ8PxeuGBaV_nqM9Qq5229XJBVmQztxdb5LLGXbztDGW_SgeBOULcTbZrf3nRwvfb2-K4v3iHJNW7YbkF93W-26Mn6znVlfn5yAIab7ZWSeam8rwvL46pvROM3wvD8vf4elDUg3IChnN90qzSFaZTc4KOWbvCRtK2a1OZa_ZEsW9e8F6N_eNuVbGzhK-YW3EAZjD9UEk8ZGUugOSk6cZ-p20MKC1dcjBW9Yc1jnq8RTr2y1HYgDJeoLrjwmb6qBdi5WTH_mStZ8C4LaIVui7D-KYCa7JQyXM0xqq4UU_0rrZaLA6Eud70hid4KcvNanb6GB5QgU96OI5DjVf-Ignzc7T-oEg9PZJL38O5rLbJUTSwN9TNeF6ZXSMNmuBrVxhqfneQWSmc8-l4-A-5rfgC",
+          "title": "Dot & Key Watermelon Cooling Sunscreen",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 520,
+           "rating_max": 5
+          },
+          "price": 263,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/3PsDBnicDclJDoIwFADQEwkIBofEGHFAISiDgnanLRTElk_b4HAo7-Nt9G3f91MqBXKi6znH4gUqJz115aZGpbqoCmu4YbosG4CK01k7_d9kviNjFyeWceikGKIw3oDn90dLeEbMEmlhxPv0RjdBJSCy47l9zlByXx2XbE26dwG9wiQqC5zEax71ATEpTdoWCuHFKq8dg1anexlyJgZo2_aBNDzqIA5833QRK388XT8f"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "bw1_ap-qM9yCwbkP99Pz6QI",
+            "product_id": "17153270528600505563",
+            "catalog_id": "11781078346234467158",
+            "gpcid": "11401645672839538527",
+            "headline_offer_docid": "3413154398886043723",
+            "image_docid": "10354904227734764486",
+            "rds": "PC_11401645672839538527|PROD_PC_11401645672839538527",
+            "query": "dot+and+key+watermelon+sunscreen",
+            "mid": "576462562941115009",
+            "pvt": "hg",
+            "uule": "w+CAIQICIXVmlyYXIsTWFoYXJhc2h0cmEsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\nGel-type, lightweight aur quick-absorbing hai; brand ise SPF 50+ PA++++, non-comedogenic aur zero-white-cast formula batata hai. [www.dotandkey.com](https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-sunscreens-in-india?utm_source=chatgpt.com)\n\n### 🥉 Sensitive skin: Conscious Chemist 100% Mineral\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Dermatologist-Recommended Sunscreens in India (2026)",
+          "snippet": null,
+          "domain": "www.dotandkey.com",
+          "url": "https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-sunscreens-in-india?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Dot & Key",
+          "publication_date": "2026-07-02 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 3,
+        "rank_absolute": 6,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "11522987209440436676",
+          "merchants": "Amazon.in + others",
+          "id_to_token_map": "dMhUjHicbZS7juPYEYZtP4FTZ5M4WAwaOId3etCBeBOpFimdwzsTgTykSIrX5kUiCT-M0bO7wDq0DfhZZgM_h0NrHG9FP_AV6q8qoOo_v_vjR1b-O3nAS9w7hz27KsVsnt-5xn-g8Zd-6NKZTGX6L8iJIs9RokBz4lPSAAjiLySe4rrLv2PIUk_IU0BkGMDQHMdz_yiyOK3LNjtdr9mgdOR7Hs9xNM0DgachS3OQEnnw97KJ8-z__J8sYEX-6UFBlhd4AQJK_Dqk4zfqLF94ThAoBtKC8OyDeSKa_esZn5TLb7Of3udsWL_9mXTtSMpuHj-TImvKcfo8zu3ndCjb6rsayZBl7U95_93-N8p8bcr0b1_7-_RR5D_Oc519--HxWd4ZyJCNwGvqNQyM0fG1LgwOBaEKQBp1tH22in31I68_yvajqD-y9ucu7u9X8uvv_6veiSwPREZu33sKBo7WY7tJx4TqGFf3KuyRzQGW5VLYJ433ZuqRHzUMG-tSbN3Sd8tLR1x5G_LZLttHlV1Zj6fxZDV96N2KI6bRhmuMHL2HsQ2DsO57Z68NVis1IezYWEmXkFahC5gplWFgKYWWBFixAgywjktT7RhkA5roEkprkUWbNWDVe49B3yZ1DmOq92PFC30FLWYlsqGvMi4dRVlQmDbQ3jxYMa5jzVgt9q7mDTYwHzatrSmMUKYXIPHxu-mOIABFnKnakugFwi0esd4fXbX2Q9C_nzzJtDVjObk5RLX2sGo8JJVmB7S5xro2xY333EG6WF5hRH61pNCaieJdvUBdnf0ku1UIw8pTMxt2zk3aMnV8zuNZz_p7skmjSUXQpFgFtznrgOiMaqzavrdhII6Zm777OrE16kCbnlgQDb_hzWPxvoCOJy1WA4MUatu-PEhYt9aTHz376kMSaJO9t1bieovpHwwPFp3bLDNyTWA7Fv3jMg7Xb2CnsZN94qSZvvgDhDuTGND1eGmxw9U4ywCjv0Be4HgIGcALjPgz6bqqzH79w58uFzsj85C92A4-v-6sJnrEAM_4kieUZlzkZc-_3Y-QOWk9JQj0qe0iavQ700U5vjAj0cvtfL-8xD55gXe7u1i9muyD8l6CKLnB3SHYJpJ2lVnm2226eo8vn2x1h2X9Yu9M1TYc9VXOkbFwqvTl006VX3fpwVPje7lWx9YLqWA7jlVIFjV1_XrpdJ9LZublupseSr8GhOkDaV3R8320ovrlk-K95hy68j4QHgvokRH7sa3b50m-zYmr7rRBOZs0trUYFMjcPePLJ8tQXlmaeW2KaVvfI4W3tdCIaMqNTxJpmWD14lWwVD31yD15u6BHkM8Lk770E2nmPa1Iq73Ach1I4r9UUih0xcZf1dS6w-ZhniLUstOLNYoWRefJMg94j4wqLCT36PgUWLnybG352tze2P22Y842QsaNPVlTJvIrKqtJiDo5GwfKulG5i66HoorOz_OjaAuUia61wVCAXSofcvrlGierdA1kvmuxdVPRWh8uR94Zh5YSMoHtWjrTdAdRjXVawB1NyKzTbJpGRiTtPesO18dRqOWh0ZvmoBz_B3x37rg",
+          "title": "Conscious Chemist Sunscreen SPF 50 PA++",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 168,
+           "rating_max": 5
+          },
+          "price": 154,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/DxcgxXicu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDi51DA5PDwkJS87xL84vzQjw9fYzMjfID88q1y2MqvLyyzIIDi1MqgguNvE28nCO8I3wMfAuLgwpqTRzKSnK8fEyTDIxDA2PKgYAiZsuuA"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "bw1_apTJG5yDhuMPq6mWwQs",
+            "product_id": "16997629836969930089",
+            "catalog_id": "11522987209440436676",
+            "gpcid": "7688241388629410235",
+            "headline_offer_docid": "17663370873153612970",
+            "image_docid": "5059783621578781029",
+            "rds": "PC_7688241388629410235|PROD_PC_7688241388629410235",
+            "query": "conscious+chemist+sun+drink+sunscreen",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIXVmlyYXIsTWFoYXJhc2h0cmEsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "markdown": "\n\nAgar aap **mineral sunscreen** prefer karte ho, iska SPF 50 PA++++ version specifically zero-white-cast claim karta hai. [consciouschemist.com](https://consciouschemist.com/products/100-percent-mineral-sunscreen-spf-50-pa-matte-finish-zero-white-cast?utm_source=chatgpt.com)\n\n**Short answer:** Agar aap mujhe apni **skin type (oily/dry/combination) + budget** bata do, toh main aapke liye **exact 2–3 best sunscreens** choose kar dunga — aur bataunga kaunsa tanning/pigmentation ke liye better hai.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "100% Mineral Sunscreen SPF 50 PA++++ | Matte Finish",
+          "snippet": null,
+          "domain": "consciouschemist.com",
+          "url": "https://consciouschemist.com/products/100-percent-mineral-sunscreen-spf-50-pa-matte-finish-zero-white-cast?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Conscious Chemist",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

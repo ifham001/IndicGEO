@@ -1,0 +1,461 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S04",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 6,
+  "promptText": "Which moisturizer should I buy for dry skin in Indian winters?",
+  "cellId": "S04_en_chatgpt_r6",
+  "startedAt": "2026-08-14T13:13:27.652Z",
+  "finishedAt": "2026-08-14T13:14:10.578Z",
+  "durationMs": 42926,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "For **dry skin in Indian winters**, I’d prioritize a **rich, fragrance-free moisturizer with ceramides + humectants** such as hyaluronic acid/glycerin. Creams generally work better than lightweight lotions when dryness is significant. [www.ceraveindia.com](https://www.ceraveindia.com/skin-smart/skincare-tips-advice/best-moisturizer-for-dry-skin?utm_source=chatgpt.com)[www.cetaphil.in](https://www.cetaphil.in/skincare-tips/skin-concern/how-to-take-care-of-dry-skin-in-winter.html?utm_source=chatgpt.com)\n\n### My top picks\n\n### [CeraVe Moisturising Cream]()\n*₹356*\n\n### [Cetaphil DAM Daily Advance Ultra Hydrating Lotion]()\n*₹208*\n\n### [Bioderma Atoderm Creme Ultra-Nourishing Cream]()\n*₹629*\n\n### [Re'equil Ceramide & Hyaluronic Acid Moisturiser]()\n*₹266*\n\n**1. CeraVe Moisturising Cream — best overall for very dry skin**  \nThree ceramides + hyaluronic acid, fragrance-free and non-comedogenic. It's my first choice if your skin gets **tight, flaky or rough** during winter. [www.ceraveindia.com](https://www.ceraveindia.com/skin-smart/skincare-tips-advice/best-ceramide-moisturizer-in-india?utm_source=chatgpt.com)\n\n**2. Cetaphil DAM — best value/everyday option**  \nA particularly good choice if you want something moisturizing without an extremely heavy cream feel. Cetaphil specifically recommends its richer moisturizers for winter dryness. [www.ceraveindia.com](https://www.ceraveindia.com/skin-smart/skincare-tips-advice/best-moisturizer-for-dry-skin?utm_source=chatgpt.com)[www.cetaphil.in](https://www.cetaphil.in/skincare-tips/skin-concern/how-to-take-care-of-dry-skin-in-winter.html?utm_source=chatgpt.com)\n\n**3. Bioderma Atoderm Crème — best for very dry/sensitive skin**  \nA richer option if ordinary lotions aren't enough.\n\n**4. Re'equil Ceramide & Hyaluronic Acid — good Indian alternative**  \nWorth considering if you want a ceramide-focused moisturizer at a lower price.\n\n**If I had to pick just one:** **CeraVe Moisturising Cream** for genuinely dry winter skin. Apply it to **slightly damp skin after washing**, which helps retain moisture. [www.pingmedoc.com](https://www.pingmedoc.com/pharmacy/buying-guides/best-moisturizer-dry-skin?utm_source=chatgpt.com)\n\nIf you tell me your **budget (e.g. ₹300/₹500/₹1,000), whether it's for face or body, and whether you're acne-prone**, I can narrow it down to the best 1–2 options.",
+  "citations": [
+   {
+    "url": "https://www.ceraveindia.com/skin-smart/skincare-tips-advice/best-moisturizer-for-dry-skin?utm_source=chatgpt.com",
+    "source_name": "CeraVe India",
+    "position": 1
+   },
+   {
+    "url": "https://www.cetaphil.in/skincare-tips/skin-concern/how-to-take-care-of-dry-skin-in-winter.html?utm_source=chatgpt.com",
+    "source_name": "Cetaphil",
+    "position": 2
+   },
+   {
+    "url": "https://www.ceraveindia.com/skin-smart/skincare-tips-advice/best-ceramide-moisturizer-in-india?utm_source=chatgpt.com",
+    "source_name": "CeraVe India",
+    "position": 3
+   },
+   {
+    "url": "https://www.pingmedoc.com/pharmacy/buying-guides/best-moisturizer-dry-skin?utm_source=chatgpt.com",
+    "source_name": "PingMeDoc",
+    "position": 4
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "42.4778 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141313-2163-0629-0000-c538346290d2",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "42.3602 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Which moisturizer should I buy for dry skin in Indian winters?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which moisturizer should I buy for dry skin in Indian winters?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20moisturizer%20should%20I%20buy%20for%20dry%20skin%20in%20Indian%20winters%3F&hints=search",
+      "datetime": "2026-08-14 13:14:09 +00:00",
+      "markdown": "For **dry skin in Indian winters**, I’d prioritize a **rich, fragrance-free moisturizer with ceramides + humectants** such as hyaluronic acid/glycerin. Creams generally work better than lightweight lotions when dryness is significant. [www.ceraveindia.com](https://www.ceraveindia.com/skin-smart/skincare-tips-advice/best-moisturizer-for-dry-skin?utm_source=chatgpt.com)[www.cetaphil.in](https://www.cetaphil.in/skincare-tips/skin-concern/how-to-take-care-of-dry-skin-in-winter.html?utm_source=chatgpt.com)\n\n### My top picks\n\n### [CeraVe Moisturising Cream]()\n*₹356*\n\n### [Cetaphil DAM Daily Advance Ultra Hydrating Lotion]()\n*₹208*\n\n### [Bioderma Atoderm Creme Ultra-Nourishing Cream]()\n*₹629*\n\n### [Re'equil Ceramide & Hyaluronic Acid Moisturiser]()\n*₹266*\n\n**1. CeraVe Moisturising Cream — best overall for very dry skin**  \nThree ceramides + hyaluronic acid, fragrance-free and non-comedogenic. It's my first choice if your skin gets **tight, flaky or rough** during winter. [www.ceraveindia.com](https://www.ceraveindia.com/skin-smart/skincare-tips-advice/best-ceramide-moisturizer-in-india?utm_source=chatgpt.com)\n\n**2. Cetaphil DAM — best value/everyday option**  \nA particularly good choice if you want something moisturizing without an extremely heavy cream feel. Cetaphil specifically recommends its richer moisturizers for winter dryness. [www.ceraveindia.com](https://www.ceraveindia.com/skin-smart/skincare-tips-advice/best-moisturizer-for-dry-skin?utm_source=chatgpt.com)[www.cetaphil.in](https://www.cetaphil.in/skincare-tips/skin-concern/how-to-take-care-of-dry-skin-in-winter.html?utm_source=chatgpt.com)\n\n**3. Bioderma Atoderm Crème — best for very dry/sensitive skin**  \nA richer option if ordinary lotions aren't enough.\n\n**4. Re'equil Ceramide & Hyaluronic Acid — good Indian alternative**  \nWorth considering if you want a ceramide-focused moisturizer at a lower price.\n\n**If I had to pick just one:** **CeraVe Moisturising Cream** for genuinely dry winter skin. Apply it to **slightly damp skin after washing**, which helps retain moisture. [www.pingmedoc.com](https://www.pingmedoc.com/pharmacy/buying-guides/best-moisturizer-dry-skin?utm_source=chatgpt.com)\n\nIf you tell me your **budget (e.g. ₹300/₹500/₹1,000), whether it's for face or body, and whether you're acne-prone**, I can narrow it down to the best 1–2 options.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://etadviser.com/beauty/body-care/best-winter-moisturizing-creams-and-lotions-for-dry-skin/articleshow/125521596.cms?utm_source=chatgpt.com",
+        "domain": "etadviser.com",
+        "title": "10 Best Winter Moisturizing Creams and Lotions for Dry Skin (2025) - ET Adviser",
+        "description": "1. CETAPHIL MOISTURISING CREAM FOR FACE & BODY  The Cetaphil Moisturising Cream for Face and Body is a dermatologist-recommended essential for those seeking deep, long-lasting hydration during harsh w...",
+        "breadcrumb": "etadviser.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://etadviser.com/beauty/body-care/best-winter-moisturisers-recommended-by-dermatologists-for-smooth-nourished-skin/articleshow/125545009.cms?utm_source=chatgpt.com",
+        "domain": "etadviser.com",
+        "title": "Best Moisturisers for Winter: Best winter moisturisers recommended by dermatologists for smooth, nourished skin - ET Adviser",
+        "description": "BEST WINTER MOISTURISERS RECOMMENDED BY DERMATOLOGISTS FOR SMOOTH, NOURISHED SKIN  Team ProductLine Last Updated: Nov 24, 2025, 09:54:49 PM IST   SYNOPSIS  Winter requires additional care for the ski...",
+        "breadcrumb": "etadviser.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.hindustantimes.com/lifestyle/health/these-8-body-lotions-are-perfect-to-beat-your-winter-dryness-top-picks-for-january-2026-101768545696295-amp.html?utm_source=chatgpt.com",
+        "domain": "www.hindustantimes.com",
+        "title": "These 8 body lotions are perfect to beat your winter dryness: Top picks for January 2026 | Health",
+        "description": "1. CERAVE MOISTURIZING LOTION FOR DRY SKIN (473ML) - FORMULATED WITH 3 ESSENTIAL CERAMIDES AND HYALURONIC ACID | NON-COMEDOGENIC, OIL FREE AND FRAGRANCE-FREE BODY LOTION1. CERAVE MOISTURIZING LOTION F...",
+        "breadcrumb": "hindustantimes.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ceraveindia.com/ceramides-skin-care/moisturisers/moisturising-lotion?utm_source=chatgpt.com",
+        "domain": "www.ceraveindia.com",
+        "title": "Ceramides Body Moisturising Lotion For Dry Skin | CeraVe India",
+        "description": "CeraVe Moisturising Lotion for Dry Skin​  Find in Stores  Image: CeraVe Ceramides Moisturizing Lotion For Dry Skin  Image: CeraVe Moisturizing Lotion For Normal To Dry Skin  Image: CeraVe Ceramides M...",
+        "breadcrumb": "ceraveindia.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ceraveindia.com/ceramides-skin-care/moisturisers/facial-moisturiser?utm_source=chatgpt.com",
+        "domain": "www.ceraveindia.com",
+        "title": "CeraVe Facial Moisturizers For All Skin Types | CeraVe India",
+        "description": "The skin on your face is affected by everything you do; your diet, activities, the effects of cold winter air, indoor heating, hot dry summer air and air conditioning, as well as hormones, skin type...",
+        "breadcrumb": "ceraveindia.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ceraveindia.com/ceramides-skin-care/dry-skin?utm_source=chatgpt.com",
+        "domain": "www.ceraveindia.com",
+        "title": "CeraVe For Dry Skin: Ceramides Products For Dry Skin | CeraVe India",
+        "description": "Dry Skin Products for Face & Body.  Explore the range of CeraVe products for dry skin, which includes cleansers and moisturisers developed for skincare for dry skin type. Manage the daily environment...",
+        "breadcrumb": "ceraveindia.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://sunshineskinclinic.com/best-moisturizer-for-dry-skin-india/?utm_source=chatgpt.com",
+        "domain": "sunshineskinclinic.com",
+        "title": "Best Moisturizer for Dry Skin : Dermatologist-Recommended",
+        "description": "BEST MOISTURIZER FOR DRY SKIN — DERMATOLOGIST-RECOMMENDED PICKS & COMPLETE GUIDE (INDIA)  ImageBy sunshineskinclinic / January 22, 2026  Image: best moisturizer for dry skin  If your face feels tight...",
+        "breadcrumb": "sunshineskinclinic.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.nykaa.com/beauty-blog/best-ceramide-moisturisers?utm_source=chatgpt.com",
+        "domain": "www.nykaa.com",
+        "title": "10 Best Ceramide Moisturisers To Restore Skin's Barrier & Hydration | Nykaa's Beauty Book",
+        "description": "10 BEST CERAMIDE MOISTURISERS: A SKINVESTMENT YOU WON’T REGRET  Now that you know all about ceramides, let’s explore the best ceramide moisturisers in India, their key specifications, as well as pros...",
+        "breadcrumb": "nykaa.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Best Moisturizers for Dry Skin in India | Derm-Approved",
+        "snippet": null,
+        "domain": "www.ceraveindia.com",
+        "url": "https://www.ceraveindia.com/skin-smart/skincare-tips-advice/best-moisturizer-for-dry-skin?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "CeraVe India",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "How to Take Care of Dry Skin in Winter | Cetaphil India",
+        "snippet": null,
+        "domain": "www.cetaphil.in",
+        "url": "https://www.cetaphil.in/skincare-tips/skin-concern/how-to-take-care-of-dry-skin-in-winter.html?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Cetaphil",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Best Ceramide Moisturizers in India for Daily Use | CeraVe",
+        "snippet": null,
+        "domain": "www.ceraveindia.com",
+        "url": "https://www.ceraveindia.com/skin-smart/skincare-tips-advice/best-ceramide-moisturizer-in-india?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "CeraVe India",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Best Moisturizer for Dry Skin in India 2026 — Cetaphil, CeraVe",
+        "snippet": null,
+        "domain": "www.pingmedoc.com",
+        "url": "https://www.pingmedoc.com/pharmacy/buying-guides/best-moisturizer-dry-skin?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "PingMeDoc",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best moisturizer dry skin winter India ceramides fragrance free Cetaphil Bioderma CeraVe"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "For **dry skin in Indian winters**, I’d prioritize a **rich, fragrance-free moisturizer with ceramides + humectants** such as hyaluronic acid/glycerin. Creams generally work better than lightweight lotions when dryness is significant. [www.ceraveindia.com](https://www.ceraveindia.com/skin-smart/skincare-tips-advice/best-moisturizer-for-dry-skin?utm_source=chatgpt.com)[www.cetaphil.in](https://www.cetaphil.in/skincare-tips/skin-concern/how-to-take-care-of-dry-skin-in-winter.html?utm_source=chatgpt.com)\n\n### My top picks\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Moisturizers for Dry Skin in India | Derm-Approved",
+          "snippet": null,
+          "domain": "www.ceraveindia.com",
+          "url": "https://www.ceraveindia.com/skin-smart/skincare-tips-advice/best-moisturizer-for-dry-skin?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "CeraVe India",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "How to Take Care of Dry Skin in Winter | Cetaphil India",
+          "snippet": null,
+          "domain": "www.cetaphil.in",
+          "url": "https://www.cetaphil.in/skincare-tips/skin-concern/how-to-take-care-of-dry-skin-in-winter.html?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Cetaphil",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "17867313227970282146",
+          "merchants": "Myntra - MNow + others",
+          "id_to_token_map": "E700xXicdVO5rqNmGE3yBGnTTT-xxM9Orm7BasBm-4EfTGNhwIBZLwaDUR4murNIkzKJFOVRZoo8R8o40-d0n46-sxTn72--f83KP-sFHuP-tFF2ljifKnugJAvju0_90KVTMpbp7wRLsCSL0xRGMSwDKAqnPyXxGNddXqZ_AIalGQIQOM5wDIazOCDp34osTuuyzazzORukLnmoAIIkKIamcEDQ5Ncf5teyifPsK_2QwXGcwlmG5WgGsBiH48S7Ib1-Jm3xCGicpDASI2iMozmGJWmG_tmGlnT8H_LDy5QN97-SbIhv2dumK6_jNJTXss3fJkMWNx_y_r9MBAcetQDLshiGsRwOcO5dU6a_vOtv42uRv5-mOvv84_xW5DVHE7XICc3i1Jq3k7iEUWhimqzXpyYtHrd-amB_cF7z-rVsX4v6NWs_dnF_Oydfvv1HviWiOCSi4_c9kiDmViyIkA9iVDfJtu9ieRwiL30Jat3OVAEYzYgnrXINCX0HpZrwKp1C22XvtKYUt0VrbJUtdAFKXTAmlUmgUIgNOZINTFmdIL0YGHeHbXpGfnR2cYNwQG8iWbGMrXHPPD2OfaClYV1njdLEkrA31nqItrWUAEGI69p1Gq6LVMU0gAxOARihDGaX4CmnKhwE8tlCEYouEDPbtIFr6oQAviTV4qJVOPhy9PCl7okP16xNDxmCCG0BOKzoHIG6SAgFpbhJOxWoTgF195t5hk1UmyvCHKxQE7k_e5Uiwoqb3FqfHaBhWdUbbuCTMECCKy-LW5lzFiy6V8MwuNQvEAhFIj0yudhiIsGLVUWGl7R3gdlnNbyEGGemQCMPTUR5QD9bIrgHQTQdAEfFvtIHYWEklewq-EL6NVckW22E1Wg7RFrGQLibPrQNWbltS12Aqnm3gsh1qsg41IqZKdrdkwHlBfVq1LBJmgIZa0qZqg7fL9fh_BnjFWp0LTqeaF9qY5M4hRev1I8CmoTboHIO6_z0dUWPEREcQ9Ifk66ryuzLdz8cj26WTEO2cT1oP_NmE80xIbS4UQoozzNzWXiXcTfKdLPjRtorndFHGiWsJ0r0vXN6mKiZk7RJJTrWao8BflxGTiTmYRHIAOE7W-t7bvHGfjiX4Zx1uMA9vXFlHorq0eUN2dU8-VnMHW2hZeHpDS-Lz3yqIzkerS4jdqdCqBui8EUG6XKV-KBE3m1zM0Fuclsmob21t1FBTNR0Bb0nP72R0PN8X40LZWRZhXWOFgexq7r2KEqlamx5ZZBsg4CuEmOFI_MPPL0xNemZIojnw5F4UUuU03ieUnq8g-YaGFaeFSchzNM0UebdtNKbUGbugU3vtDt5cngxKW-cr6m4NK3XZtCN8nzfh_rFko8LsOyT3ojaThVLeNgrKtOfoCFfzdZ-gQu1V0erDjEX3SeTrOaBnRVyl1WXPFKojRpdRr1jceqQVLwXMYFUnWttxsLRhC_rbu2XG6-JHRfYyWoJWBUtNBwyIZ6TfZPcIt43jULWiuJabbb7gZjOhXE5kH4opFTA8Yo--VII1HOdp9BYafy49TbXeLisLgLM8T4d838B-5HqJA",
+          "title": "CeraVe Moisturising Cream",
+          "rating": null,
+          "price": 356,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/3CgmFnicDclJDoIwFADQEwGmBAwkxghGhKIGZJDupJ8wCJRCHfBQ3sfb6Nu-76cSYphMRSl6Os6DKEASea_K5SSuoqYyZZ0yVWwY6r5c89X_zM0RDIeei8g9hf1oZewVJ7UnhSjVsrmKPILaQyNhF3ZR4oNqbInaYiAtyknjBPHz6UJXWt0eUnF7SF2RJtqbh3nsIWIx29FtvtQx17gXtpCS-6zhYMGCwJ8RXH4UwT2u"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "lxR_apb-FKOCwbkPr5DO0Ao",
+            "product_id": "3838482650578715526",
+            "catalog_id": "17867313227970282146",
+            "gpcid": "3912651888000892129",
+            "headline_offer_docid": "1343576521364786737",
+            "image_docid": "17222528789671809223",
+            "rds": "PC_16245040360969784676|PROD_PC_16245040360969784676",
+            "query": "cerave+moisturising+cream",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIZQXNhbnNvbCxXZXN0IEJlbmdhbCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "5162387117985168596",
+          "merchants": "Meesho + others",
+          "id_to_token_map": "NvjMSHicbVTLjqtGEE3yBfmE2U9GarrBNhnNgleDsWnMoxvMxuJlgw0Y22CDlY-J5t5EulnmRsq33CzyHVnGibJMSSVV1ZGq6qh06s-vvn3Py99r2d3EXa5I27o4dZfVlQ_NmTP_1J6PWZ92ZfYbBxCHpjwvQCTyCM2mswn6lMZdXB13ZfZZ4CbwUeS4qTh7xDNBnPxa5HFWlU1ub7f5WT2m_3SBgoBEgKZQ5CczyEPAT38p63iX_4cDKPAi4qaPCYAXxRkUJh_O2eULXCkbKE5EHsx4HggigNwU8LMfVq6tbv4f--nU5-fxC5fmXdwWZfWcxfXDy2p8jrNr3KT5c1915_i5GLNz3JXN7rk6duWx-WnXPnb5_D8tP9Rl9uOH9tq9F7uPfV_lX767PSvS3Jkr88gJSZE05JooQxiFBMw1s0rqrHjkZlK77dp531XvZfNeVO958_Mxbq_b9I-v_9KuqaKcU8WhbctUF3hUPKUc8zONhJnBwpgzG_9w4JJDZyVhdkpUxrsKp_rGkXNRG1MWnSwqqgEdzpFuOgkVWwvJJ6KatyxoA4qzkNUXIQ1lFgfC3tLFhXswca5H90DXxiXllPVhqNidLBN9BtdU7Nco04kWlQR22NkTIWCi6ul852Ps5r7rOsAENGwFv5JQFrrQhyJImIwjipF3L_ogcLexn11ZTQILMdU7uGc3GLQ1wJoFCWaw0yNIuBDMoYNMec00wJiG1lVE2D0b8r3sZ4HoZ7TzvKqIIxDZGcKK62cXBxIWVHMY3glPaLT3jWKIgeiv4Q4FmCgWbk0_lG2fRkoCd1yCpZvHpTcLDAoxdoPnR5TRykmxafgauBNWWBbDE1sfYtuXwwiRFfELIYWi_eBGrUr0CbI8DDmFVmKR6Ux1gqiLDQxSTn6wKRY2xqZemrJrkNEOIhrr3TI6uBzlSBxjuUmxLLiPu1E43BkVuHXYyh-Hy3n7BUhY6Dx7wjOhSO5Kdsh1Tt4WU02xXuxLoUc353vuIbYphyAPHrL4OT0eD2X-xzdPm42Xp_05f_F8d_UmkTq6xQidOnQ3GmtccrbrWltAD_tB6J3LbWavXNzm3sq3lyd3t1oEKsNbaeWIeVPlE4SllCyF5M75-12dFHx-PcWTVSymTQqrE6J4E7w-eZrkKsbGkyzNm_vam7Jz5sNEk1-fJE15kzKTaXGfRtSEySJ092t1Nd-zajP0Te0oqx7l_uyivVzWYEN3auGNmYVZ1fLS65PK3vjZYjNZpb3QWteL4YDRTjZbyEUGcnQJH_lsdIe6gPeJ9K-9PpG5-iYg9KYYzmTaapvI1c561N7wEHFHUcVbqtPDZhVMD3FjjkuWt1e76Xl3rIb7kYn6prehoZ46I9mV7X6tLa3DxbIVtHfd8ZLXMoicUZhmtUEHahlz60Vm0UZLyYJRoMZ-EXb0pZjWfC3aYeKNRjddyIO_JQUj2bVW210YetkiiDxHHxtw7q7GKo_vcx4bPEhbko-lzLvkVNyEocEsi5YNKzyjaXdYO--t6IJtpIGDOncGj_MJLaUK8eRY-4wd82UumwC-3E6Pt-zSS0R6LmfJS1PhkgUtui6cvwH78-58",
+          "title": "Cetaphil DAM Daily Advance Ultra Hydrating Lotion",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 856,
+           "rating_max": 5
+          },
+          "price": 208,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/1YEXnnicDcndEoFAGADQJ0pLw1YzxlApk1lEpe6yNf1gd2s_lKfyOt6Gc3u-nwpASFNVC0a7QUCRK3BhaFRKyKCmI8rvqqy4EDUrF-38f-aS5IZLDxrHz9shRHnvJMQJG0hPESm1vXY1emKTac2yuGGVznE4PbfVrNxEYtfhNeu8ZJxscZB6z8kwHPVTrR_BpzQ2ZIsVskNi5Tpvy7jZUuLAb6xcHyOIufKIPOf1A4QXPdE"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "mBR_ateCAfmhqtsPv4XJ8QI",
+            "product_id": "10313744523943387863",
+            "catalog_id": "5162387117985168596",
+            "gpcid": "2969408440590217048",
+            "headline_offer_docid": "12553903729468242047",
+            "image_docid": "10254931733804998256",
+            "rds": "PC_2969408440590217048|PROD_PC_2969408440590217048",
+            "query": "cetaphil+dam+daily+advance+ultra+hydrating+lotion",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIZQXNhbnNvbCxXZXN0IEJlbmdhbCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "8117233894493837035",
+          "merchants": "Amazon.in + others",
+          "id_to_token_map": "yzmW5nicbZO7rttGEIaDPEGKdGncOwaWu7yIMU7BqySKWpLLOxuB5FIkJd4kUYcSkac5vgBOaQfJs9hFniWC22Sqme-fH9PM_88PP70U9d_NjezSZ8uzxhqer5rN2gfz6oBPw7mn13ys6WcGCCJEImIEKCIWcBz3KU_HtOnLmn5ZMA-M0EJkWREtkAAQ97kqUtrUXWHt98VZ7fOa_skgHokLllsglmMBEgWGYf6o27Qsvutf-IedEVlG5ADLIA5yAnx3ppevwFZ2Ai8uIAMYRnxgTgQI_m4TS939r_ThdC3O97-yuqfFuU1fp-P35nV-LtriQzk8jn3-r-td-8CcwLM85HiEIA-QIKDFu-F5fKnK99drU3z9dXqtSGtnrawTJ8JV1uHnTLlFSYTBWjOarKXVYzaylgyx81I2L3X3UjUvRfexT4fnff7tx5-1flKVy6Q4_jAEKgFup0-eZtgkwm2m4akIY-gCsi7apCEqnSjCcaDrQwqmWw7KMfD1NluKKl5hLWcGG88JXyzJJT8kJINJ48-yH4eMWSw56Mx6jz1jlTb6zetkFMw0IYgi2vU3oiZsGhEYqNLN9EcrCw3fCoM4mnHnhngftNyQaI-tMFASncb-inRONyjuXN4z3-CzUJ9dRt44kAN-e5yKQxA5h2YmyLBcVeYJOoLsgFN8Z7otE7BZQ3wXHu90WU5ul3QBcCAJKxmrBoqZ6kiDwA6PRucho3UBszR9cI9D3d62IsGAtgnklFRfsH7ITv6qgQGsrAfnMuCzWMfVtr15VAHImyvb1YYh9klqhUboqs2JRvIW69TMUeVmK_nswKradvGIm4R32svoeCTOUGJtYaLQkKIUMCcvTK6eSuJcb7ADhyrVbpHr43MW5q4Ob6zfiBU9ir6HyLDtDIYEEvCXw5YG2rSsDZms8N0KEz-OqisOSeSEySGGgIkA02EQtJjR3RQFTczo3fvb5bz_CiSdG12LDx6x2ijXQzqkFzNCkcmllyyLeKyXvzHCghcYBFkAeeFj3vfHuvj24y-uJhFltXOlreauPe1JKZ31jdfkt68kTXmSqBFojxDYrAtPuSBt4J7ytz6OJpON2CFCprWMlump3o2tXK7mgCQTOVGz6qS3r9TgyYfgYqNBl3aXIytHcy9unoOpHSe0XkryeYftkzed-iws19Kj3r7a7dwiv56LN65H7CcJt8mUovBU3V04G8HCzJuVGs2xo1RMapIRxTo-7mpNNpVGojbQ59WOCTfP4gzaS7UYD5Kq7wJtH4S6cTqerSRZNzEF5KB3bwRVBOXbV3itPnEIPS0zNkCL6958My45ul_tyTDO-iDa-JJYKKe-eJS8kihRN-9Mma3ZvLauj48qWC1Eg-kieLoXJzgevCO1Zakd7npuXC3X0JVturHyEyF5JwTs0nLzvMB2H9_j6aZvtgNbyn4_E63eyG44B7s8n0WeMSRubzbtZvHM2700LhrJvQvtlm0JkcmQtsua6lsvgAC3ZbFrSouplLOROYdiYtfPh8V-fV2eYieXsRUJg1GKXi7r3PUNvbH2AJRgP1-9SFlu-0tOelXf8ulJSoL9Iuo8NlK43nX-BZHb8bI",
+          "title": "Bioderma Atoderm Creme Ultra-Nourishing Cream",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 185,
+           "rating_max": 5
+          },
+          "price": 629,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/OsOjwXicDcnRCoIwFADQL1Jj2VxChBWsEoT2oPY453ILNq_tJtRjf9nf1Hk9349BhJAnifbq8QLUfYSdX8RDQIlWxWp0STAjgPXDdtr8Ly-qfs3VhR7aq2KnxjT9mU2kC5q4qMz4it1bn46CCvEmFEg1Hdke0loWOyvlvOT8yUs73zIhO9dEQ_0Dad4tvg"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "lxR_avOTOti2ruEP4PjLuQ0",
+            "product_id": "107923931729340555",
+            "catalog_id": "8117233894493837035",
+            "gpcid": "769821011925759032",
+            "headline_offer_docid": "13639845834540397111",
+            "image_docid": "6449194195041352572",
+            "rds": "PC_769821011925759032|PROD_PC_769821011925759032",
+            "query": "bioderma+atoderm+creme",
+            "mid": "576462563326037738",
+            "pvt": "hg",
+            "uule": "w+CAIQICIZQXNhbnNvbCxXZXN0IEJlbmdhbCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "18086017904198434339",
+          "merchants": "Nykaa + others",
+          "id_to_token_map": "awjnl3icbVTLjqNWEE3yBdll2_uOpXvBvNJqRYDBmDbYXN5sEHDBYN4Y2xjlY6KehzRZJiPlW3oW-Y4s48l6alVVp1TnlFRV_3z342ta_F0jFEbtgpcxoXJndp_36VzwxqduaPE5GQv8F0dBAAiOgDQENLWk7_GnJBqjqj0U-DNkAUsDyHBgCTl2SS5JkvszTyNcFU26y7J0WLXJvQtDsRxBcTTF0pAgOJbmuD-KOjqk_8OfIcUsKY6ELCSXLElBYgnZdwM-vRF7MWSXgAQ0sWRoGgCGou8cv-3RbhV-G_vQn9Ph9vZrnJ7Gx7otTuN5KOZ0eMTD7fFUFs1j0eAiah6vRTPe00k6RHWB08dsiA5D1CRfvTT9cOi-Cv8Gwbt79e_vusv4mh_en89V-vbz9VHkN8ZG3ASGp-dxo19icfICTwcbSa3iGuf3WI1r1PnG66F6LZrXvHpNm49t1F2y5Mv3_0qXRBSHRDTsrnNWCJiVOtlyOfu1McYWDnbSqGAFdW49NgZRzTHQvfSYI2eVCw6hS7GU534pXQNF3tu1bCEoV8hrQeAFmrVSkStNs0ZUoqlIpONKY-x0lEFMtG1TN5vQj0mZu1qtAdvG28RyWqw4BYaO5gNYpBLaWZITpZYqGBW3NisZxrNcp56aR021REfkOeV4CbwKIlJ3NUBJjpdHmuLc9PIKTTDdfJif9FkY4tpRtx7WojK5uY0GtVk_R2uKwJLeRI7gRmVO-vZ9LhJnsa36warSndJfRjJHaFUCrCZH_uyT9qy7uM5dnbQnVKmDSdoAl2hyVsExqeXBthw1qTDlzHofS8YYuBNMqq43arVGrjYmkL06BGVgMNY7KxkjIBeBvAGBovfIzStsT1ufcG6xuyGSuQpiRxZdpzRlApp2xeXxDQqoNm7msYI7WWgT16EjW0brQhWQot92bmBZZUXsJHWtwa52a2zqCgKahQ3fQtvgrmJr4eb9dBqyN8DL1GjuKKoYeqxQnNYPNJHEY1eafrjWLpNp_AIZlmYg-fU0ltzHpG3LIv3yw09haKbJeUgXpoX2z7xeB9cIpCddy2545hFjMAxXhB4dFyJTQL_tRwS5Tj72g9q0ZueATdtubXt7SOEU1vB6yBU5FZROX6wzXxAvvTfG-mXDXfgaTeEtixdPD6bEI1EJTV6TzI0lPYsHYzPRkvD0wEviM49VR4rOjk9yydLzqmLtzOognydtb5SA16IVcf8mbkJWeHUggi29WaTusBAV8fT0sHKeJfpoRV6bENpyPCkGuO3iMCOgulXsNS_3mt9ZHdYHqUc-f7enB32zeqZI8tnYrK4Z0p0dgEtNZ8Ts6klZuciFyRa39FjMnbCx-cDjogAw0pFwBdxfSsYHCny5zlzg5my_3zWCleFQ6vHqMsP-Vhq1Z-YvoAuD-wb6CmeYJAdkk3CGl8u5k9NIFIX1EB62ir5vtiIXgws4BqelXbIMdCkqdHxlDa29wm-1glKcY13pVnUobdSs1xk4FYPn0-a4ziSDPtqiblaszWiCCryulXVxfunDkrMWqmfskqxhzawqhMY9eBMS1-v9ldeTRiZPK02N26DQ1SCq1_lI_wevlfaw",
+          "title": "Re'equil Ceramide & Hyaluronic Acid Moisturiser",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 1300,
+           "rating_max": 5
+          },
+          "price": 266,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/xWb1N3icDcn_DkJAAADgJ8LFSLbWjtQm86NS6Z_GHUeLc-6iPFWv09vU9-_3_VRCdNxSlKJF_bsTBZZE3qoy4SITNZIRbRRe0a6rW7Jiy_9ZMMCLLYqrXcQlM6d83DgjGNanQWe5ew5rHIwxBbNHaEweAdwvnZRFajlll0PqEuhB1rMjMPdY15JoyOyggd50Nym-2VBTgUFfcz0hRKSVRlmuNcF1Ut2nXvptglL4A6XJPms"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "mRR_ao-AFd2J9u8PhqeziAQ",
+            "product_id": "9510029216106546951",
+            "catalog_id": "18086017904198434339",
+            "gpcid": "8403062476600756433",
+            "headline_offer_docid": "7589259658612298699",
+            "image_docid": "15745931813483512418",
+            "rds": "PC_8403062476600756433|PROD_PC_8403062476600756433",
+            "query": "best+moisturizer+dry+skin+indian+winter+ceramide+fragrance+free",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIZQXNhbnNvbCxXZXN0IEJlbmdhbCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n**1. CeraVe Moisturising Cream — best overall for very dry skin**  \nThree ceramides + hyaluronic acid, fragrance-free and non-comedogenic. It's my first choice if your skin gets **tight, flaky or rough** during winter. [www.ceraveindia.com](https://www.ceraveindia.com/skin-smart/skincare-tips-advice/best-ceramide-moisturizer-in-india?utm_source=chatgpt.com)\n\n**2. Cetaphil DAM — best value/everyday option**  \nA particularly good choice if you want something moisturizing without an extremely heavy cream feel. Cetaphil specifically recommends its richer moisturizers for winter dryness. [www.ceraveindia.com](https://www.ceraveindia.com/skin-smart/skincare-tips-advice/best-moisturizer-for-dry-skin?utm_source=chatgpt.com)[www.cetaphil.in](https://www.cetaphil.in/skincare-tips/skin-concern/how-to-take-care-of-dry-skin-in-winter.html?utm_source=chatgpt.com)\n\n**3. Bioderma Atoderm Crème — best for very dry/sensitive skin**  \nA richer option if ordinary lotions aren't enough.\n\n**4. Re'equil Ceramide & Hyaluronic Acid — good Indian alternative**  \nWorth considering if you want a ceramide-focused moisturizer at a lower price.\n\n**If I had to pick just one:** **CeraVe Moisturising Cream** for genuinely dry winter skin. Apply it to **slightly damp skin after washing**, which helps retain moisture. [www.pingmedoc.com](https://www.pingmedoc.com/pharmacy/buying-guides/best-moisturizer-dry-skin?utm_source=chatgpt.com)\n\nIf you tell me your **budget (e.g. ₹300/₹500/₹1,000), whether it's for face or body, and whether you're acne-prone**, I can narrow it down to the best 1–2 options.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Ceramide Moisturizers in India for Daily Use | CeraVe",
+          "snippet": null,
+          "domain": "www.ceraveindia.com",
+          "url": "https://www.ceraveindia.com/skin-smart/skincare-tips-advice/best-ceramide-moisturizer-in-india?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "CeraVe India",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Moisturizers for Dry Skin in India | Derm-Approved",
+          "snippet": null,
+          "domain": "www.ceraveindia.com",
+          "url": "https://www.ceraveindia.com/skin-smart/skincare-tips-advice/best-moisturizer-for-dry-skin?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "CeraVe India",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "How to Take Care of Dry Skin in Winter | Cetaphil India",
+          "snippet": null,
+          "domain": "www.cetaphil.in",
+          "url": "https://www.cetaphil.in/skincare-tips/skin-concern/how-to-take-care-of-dry-skin-in-winter.html?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Cetaphil",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Moisturizer for Dry Skin in India 2026 — Cetaphil, CeraVe",
+          "snippet": null,
+          "domain": "www.pingmedoc.com",
+          "url": "https://www.pingmedoc.com/pharmacy/buying-guides/best-moisturizer-dry-skin?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "PingMeDoc",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

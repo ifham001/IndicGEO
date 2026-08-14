@@ -1,0 +1,168 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S03",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 6,
+  "promptText": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+  "cellId": "S03_hg_gemini_r6",
+  "startedAt": "2026-08-14T13:11:53.864Z",
+  "finishedAt": "2026-08-14T13:12:13.450Z",
+  "durationMs": 19586,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein dark spots aur dull skin ke liye kuch best aur highly recommended Vitamin C serums available hain, jo aap apni skin type ke hisaab se chun sakte hain:\n\n---\n\n### 1. Minimalist 10% Vitamin C Serum (Best for Beginners & All Skin Types)\n\n* **Key Ingredients:** 10% Ethyl Ascorbic Acid (stable Vitamin C), 1% Acetyl Glucosamine, and Centella Water.\n* **Fayde:** Yeh dark spots ko light karta hai, skin ko glow deta hai aur sensitive skin ke liye bhi safe maana jata hai kyunki isme Centella water skin ko soothe karta hai.\n\n### 2. Deconstruct Vitamin C Serum (10% Vitamin C + 0.5% Ferulic Acid)\n\n* **Key Ingredients:** Ethyl Ascorbic Acid aur Ferulic Acid.\n* **Fayde:** Yeh combination dullness ko turant hatata hai, collagen production ko badhata hai aur hyperpigmentation aur sun damage ko tezi se theek karta hai.\n\n### 3. Plum 15% Vitamin C Face Serum (Best for Normal to Oily Skin)\n\n* **Key Ingredients:** 15% Ethyl Ascorbic Acid, Mandarin Orange, and Kakadu Plum.\n* **Fayde:** Agar aapki skin thodi mature hai ya zyada dull ho gayi hai, toh yeh high-potency serum bahut accha result deta hai. Yeh skin texture ko improve karta hai aur radiance lata hai.\n\n### 4. The Derma Co 10% Vitamin C Face Serum\n\n* **Key Ingredients:** Vitamin C, Niacinamide, and Ferulic Acid.\n* **Fayde:** Yeh dark spots aur acne marks ke liye ekdum perfect hai. Isme Niacinamide bhi hota hai jo skin barrier ko strong banata hai aur pores par bhi kaam karta hai.\n\n---\n\n### Kuch Zaroori Tips (Buying & Application):\n\n* **Concentration:** Agar aap pehli baar Vitamin C use kar rahe hain, toh **10% concentration** se shuru karein taaki skin ko aadat ho jaye.\n* **Sunscreen:** Subh Vitamin C lagane ke baad **Sunscreen (SPF 30 ya usse zyada)** lagana bilkul na bhulein, warna Vitamin C dhoop mein oxidize ho sakta hai aur asar kam ho jata hai.\n* **Storage:** Vitamin C serums ko thandi aur andheri jagah par rakhein (kuch serums ko fridge mein rakhna behtar hota hai taaki woh jaldi kharab na hon).",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "19.3593 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141311-2163-0629-0000-b22ef0ca940e",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "19.3454 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:12:12 +00:00",
+      "markdown": "India mein dark spots aur dull skin ke liye kuch best aur highly recommended Vitamin C serums available hain, jo aap apni skin type ke hisaab se chun sakte hain:\n\n---\n\n### 1. Minimalist 10% Vitamin C Serum (Best for Beginners & All Skin Types)\n\n* **Key Ingredients:** 10% Ethyl Ascorbic Acid (stable Vitamin C), 1% Acetyl Glucosamine, and Centella Water.\n* **Fayde:** Yeh dark spots ko light karta hai, skin ko glow deta hai aur sensitive skin ke liye bhi safe maana jata hai kyunki isme Centella water skin ko soothe karta hai.\n\n### 2. Deconstruct Vitamin C Serum (10% Vitamin C + 0.5% Ferulic Acid)\n\n* **Key Ingredients:** Ethyl Ascorbic Acid aur Ferulic Acid.\n* **Fayde:** Yeh combination dullness ko turant hatata hai, collagen production ko badhata hai aur hyperpigmentation aur sun damage ko tezi se theek karta hai.\n\n### 3. Plum 15% Vitamin C Face Serum (Best for Normal to Oily Skin)\n\n* **Key Ingredients:** 15% Ethyl Ascorbic Acid, Mandarin Orange, and Kakadu Plum.\n* **Fayde:** Agar aapki skin thodi mature hai ya zyada dull ho gayi hai, toh yeh high-potency serum bahut accha result deta hai. Yeh skin texture ko improve karta hai aur radiance lata hai.\n\n### 4. The Derma Co 10% Vitamin C Face Serum\n\n* **Key Ingredients:** Vitamin C, Niacinamide, and Ferulic Acid.\n* **Fayde:** Yeh dark spots aur acne marks ke liye ekdum perfect hai. Isme Niacinamide bhi hota hai jo skin barrier ko strong banata hai aur pores par bhi kaam karta hai.\n\n---\n\n### Kuch Zaroori Tips (Buying & Application):\n\n* **Concentration:** Agar aap pehli baar Vitamin C use kar rahe hain, toh **10% concentration** se shuru karein taaki skin ko aadat ho jaye.\n* **Sunscreen:** Subh Vitamin C lagane ke baad **Sunscreen (SPF 30 ya usse zyada)** lagana bilkul na bhulein, warna Vitamin C dhoop mein oxidize ho sakta hai aur asar kam ho jata hai.\n* **Storage:** Vitamin C serums ko thandi aur andheri jagah par rakhein (kuch serums ko fridge mein rakhna behtar hota hai taaki woh jaldi kharab na hon).",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 11,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein dark spots aur dull skin ke liye kuch best aur highly recommended Vitamin C serums available hain, jo aap apni skin type ke hisaab se chun sakte hain:",
+        "original_text": "India mein dark spots aur dull skin ke liye kuch best aur highly recommended Vitamin C serums available hain, jo aap apni skin type ke hisaab se chun sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### 1. Minimalist 10% Vitamin C Serum (Best for Beginners & All Skin Types)",
+        "original_text": "1. Minimalist 10% Vitamin C Serum (Best for Beginners & All Skin Types)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Key Ingredients:** 10% Ethyl Ascorbic Acid (stable Vitamin C), 1% Acetyl Glucosamine, and Centella Water.\n* **Fayde:** Yeh dark spots ko light karta hai, skin ko glow deta hai aur sensitive skin ke liye bhi safe maana jata hai kyunki isme Centella water skin ko soothe karta hai.",
+        "original_text": "Key Ingredients: 10% Ethyl Ascorbic Acid (stable Vitamin C), 1% Acetyl Glucosamine, and Centella Water.\nFayde: Yeh dark spots ko light karta hai, skin ko glow deta hai aur sensitive skin ke liye bhi safe maana jata hai kyunki isme Centella water skin ko soothe karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### 2. Deconstruct Vitamin C Serum (10% Vitamin C + 0.5% Ferulic Acid)",
+        "original_text": "2. Deconstruct Vitamin C Serum (10% Vitamin C + 0.5% Ferulic Acid)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "* **Key Ingredients:** Ethyl Ascorbic Acid aur Ferulic Acid.\n* **Fayde:** Yeh combination dullness ko turant hatata hai, collagen production ko badhata hai aur hyperpigmentation aur sun damage ko tezi se theek karta hai.",
+        "original_text": "Key Ingredients: Ethyl Ascorbic Acid aur Ferulic Acid.\nFayde: Yeh combination dullness ko turant hatata hai, collagen production ko badhata hai aur hyperpigmentation aur sun damage ko tezi se theek karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "### 3. Plum 15% Vitamin C Face Serum (Best for Normal to Oily Skin)",
+        "original_text": "3. Plum 15% Vitamin C Face Serum (Best for Normal to Oily Skin)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **Key Ingredients:** 15% Ethyl Ascorbic Acid, Mandarin Orange, and Kakadu Plum.\n* **Fayde:** Agar aapki skin thodi mature hai ya zyada dull ho gayi hai, toh yeh high-potency serum bahut accha result deta hai. Yeh skin texture ko improve karta hai aur radiance lata hai.",
+        "original_text": "Key Ingredients: 15% Ethyl Ascorbic Acid, Mandarin Orange, and Kakadu Plum.\nFayde: Agar aapki skin thodi mature hai ya zyada dull ho gayi hai, toh yeh high-potency serum bahut accha result deta hai. Yeh skin texture ko improve karta hai aur radiance lata hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### 4. The Derma Co 10% Vitamin C Face Serum",
+        "original_text": "4. The Derma Co 10% Vitamin C Face Serum",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "* **Key Ingredients:** Vitamin C, Niacinamide, and Ferulic Acid.\n* **Fayde:** Yeh dark spots aur acne marks ke liye ekdum perfect hai. Isme Niacinamide bhi hota hai jo skin barrier ko strong banata hai aur pores par bhi kaam karta hai.",
+        "original_text": "Key Ingredients: Vitamin C, Niacinamide, and Ferulic Acid.\nFayde: Yeh dark spots aur acne marks ke liye ekdum perfect hai. Isme Niacinamide bhi hota hai jo skin barrier ko strong banata hai aur pores par bhi kaam karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "### Kuch Zaroori Tips (Buying & Application):",
+        "original_text": "Kuch Zaroori Tips (Buying & Application):",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "* **Concentration:** Agar aap pehli baar Vitamin C use kar rahe hain, toh **10% concentration** se shuru karein taaki skin ko aadat ho jaye.\n* **Sunscreen:** Subh Vitamin C lagane ke baad **Sunscreen (SPF 30 ya usse zyada)** lagana bilkul na bhulein, warna Vitamin C dhoop mein oxidize ho sakta hai aur asar kam ho jata hai.\n* **Storage:** Vitamin C serums ko thandi aur andheri jagah par rakhein (kuch serums ko fridge mein rakhna behtar hota hai taaki woh jaldi kharab na hon).",
+        "original_text": "Concentration: Agar aap pehli baar Vitamin C use kar rahe hain, toh 10% concentration se shuru karein taaki skin ko aadat ho jaye.\nSunscreen: Subh Vitamin C lagane ke baad Sunscreen (SPF 30 ya usse zyada) lagana bilkul na bhulein, warna Vitamin C dhoop mein oxidize ho sakta hai aur asar kam ho jata hai.\nStorage: Vitamin C serums ko thandi aur andheri jagah par rakhein (kuch serums ko fridge mein rakhna behtar hota hai taaki woh jaldi kharab na hon).",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

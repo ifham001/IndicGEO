@@ -1,0 +1,170 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 7,
+  "promptText": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+  "cellId": "F02_hg_gemini_r7",
+  "startedAt": "2026-08-14T13:08:47.147Z",
+  "finishedAt": "2026-08-14T13:09:13.052Z",
+  "durationMs": 25905,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Bharat mein 3,000 rupees ke budget mein running shoes ke liye kayi acche aur reliable options available hain. Is price range mein aapko **Campus**, **Sparx**, **Red Tape**, aur **Nivia** jaise brands ke comfortable aur durable shoes mil jayenge jo daily running aur walking ke liye best hain.\n\nNeeche kuch behtareen options ki list di gayi hai:\n\n---\n\n### Top Running Shoes Under 3,000 Rupees in India\n\n| Brand & Model | Key Features | Best For | Approx. Price |\n| :--- | :--- | :--- | :--- |\n| **Campus OGs / Running Series** | Lightweight, good cushioning, breathable mesh upper | Daily jogging & casual gym workouts | Rs. 1,500 - Rs. 2,500 |\n| **Sparx Running Shoes** | Durable sole, firm grip, strong build quality | Rough use, road running & walking | Rs. 1,200 - Rs. 2,200 |\n| **Red Tape Sports Shoes** | Stylish design, comfortable in-sole, shock absorption | Casual wear & light running | Rs. 1,800 - Rs. 2,800 |\n| **Nivia Engage / Vizag** | Designed specifically for sports/running, flexible sole | Sports practice, track running | Rs. 1,000 - Rs. 2,000 |\n\n---\n\n### Key Tips to Choose the Right Pair:\n\n* **Breathability:** Mesh upper wale shoes chunen taaki running ke dauran pairo mein zyada sweat na ho.\n* **Cushioning:** Agar aap road par running karte hain, toh thoda soft sole (good cushioning) wala shoe select karein taaki ghutno (knees) par pressure kam pade.\n* **Size:** Running shoes hamesha apne regular shoe size se **ek size bada** (ya half size bada) kharidein, kyunki daudte waqt pair thode expand hote hain.\n\n---\n\nAapka primary use kya hoga (jaise ki daily road running, gym, ya sirf morning walk)? Aur aapka shoe size kya hai?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "25.6871 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141308-2163-0629-0000-daf35b8514b5",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "25.6747 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:09:11 +00:00",
+      "markdown": "Bharat mein 3,000 rupees ke budget mein running shoes ke liye kayi acche aur reliable options available hain. Is price range mein aapko **Campus**, **Sparx**, **Red Tape**, aur **Nivia** jaise brands ke comfortable aur durable shoes mil jayenge jo daily running aur walking ke liye best hain.\n\nNeeche kuch behtareen options ki list di gayi hai:\n\n---\n\n### Top Running Shoes Under 3,000 Rupees in India\n\n| Brand & Model | Key Features | Best For | Approx. Price |\n| :--- | :--- | :--- | :--- |\n| **Campus OGs / Running Series** | Lightweight, good cushioning, breathable mesh upper | Daily jogging & casual gym workouts | Rs. 1,500 - Rs. 2,500 |\n| **Sparx Running Shoes** | Durable sole, firm grip, strong build quality | Rough use, road running & walking | Rs. 1,200 - Rs. 2,200 |\n| **Red Tape Sports Shoes** | Stylish design, comfortable in-sole, shock absorption | Casual wear & light running | Rs. 1,800 - Rs. 2,800 |\n| **Nivia Engage / Vizag** | Designed specifically for sports/running, flexible sole | Sports practice, track running | Rs. 1,000 - Rs. 2,000 |\n\n---\n\n### Key Tips to Choose the Right Pair:\n\n* **Breathability:** Mesh upper wale shoes chunen taaki running ke dauran pairo mein zyada sweat na ho.\n* **Cushioning:** Agar aap road par running karte hain, toh thoda soft sole (good cushioning) wala shoe select karein taaki ghutno (knees) par pressure kam pade.\n* **Size:** Running shoes hamesha apne regular shoe size se **ek size bada** (ya half size bada) kharidein, kyunki daudte waqt pair thode expand hote hain.\n\n---\n\nAapka primary use kya hoga (jaise ki daily road running, gym, ya sirf morning walk)? Aur aapka shoe size kya hai?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Bharat mein 3,000 rupees ke budget mein running shoes ke liye kayi acche aur reliable options available hain. Is price range mein aapko **Campus**, **Sparx**, **Red Tape**, aur **Nivia** jaise brands ke comfortable aur durable shoes mil jayenge jo daily running aur walking ke liye best hain.",
+        "original_text": "Bharat mein 3,000 rupees ke budget mein running shoes ke liye kayi acche aur reliable options available hain. Is price range mein aapko Campus, Sparx, Red Tape, aur Nivia jaise brands ke comfortable aur durable shoes mil jayenge jo daily running aur walking ke liye best hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Neeche kuch behtareen options ki list di gayi hai:",
+        "original_text": "Neeche kuch behtareen options ki list di gayi hai:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### Top Running Shoes Under 3,000 Rupees in India",
+        "original_text": "Top Running Shoes Under 3,000 Rupees in India",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "markdown": "| Brand & Model | Key Features | Best For | Approx. Price |\n| :--- | :--- | :--- | :--- |\n| **Campus OGs / Running Series** | Lightweight, good cushioning, breathable mesh upper | Daily jogging & casual gym workouts | Rs. 1,500 - Rs. 2,500 |\n| **Sparx Running Shoes** | Durable sole, firm grip, strong build quality | Rough use, road running & walking | Rs. 1,200 - Rs. 2,200 |\n| **Red Tape Sports Shoes** | Stylish design, comfortable in-sole, shock absorption | Casual wear & light running | Rs. 1,800 - Rs. 2,800 |\n| **Nivia Engage / Vizag** | Designed specifically for sports/running, flexible sole | Sports practice, track running | Rs. 1,000 - Rs. 2,000 |",
+        "original_text": "Brand & Model\tKey Features\tBest For\tApprox. Price\nCampus OGs / Running Series\tLightweight, good cushioning, breathable mesh upper\tDaily jogging & casual gym workouts\tRs. 1,500 - Rs. 2,500\nSparx Running Shoes\tDurable sole, firm grip, strong build quality\tRough use, road running & walking\tRs. 1,200 - Rs. 2,200\nRed Tape Sports Shoes\tStylish design, comfortable in-sole, shock absorption\tCasual wear & light running\tRs. 1,800 - Rs. 2,800\nNivia Engage / Vizag\tDesigned specifically for sports/running, flexible sole\tSports practice, track running\tRs. 1,000 - Rs. 2,000",
+        "table": {
+         "table_header": [
+          "Brand & Model",
+          "Key Features",
+          "Best For",
+          "Approx. Price"
+         ],
+         "table_content": [
+          [
+           "Campus OGs / Running Series",
+           "Lightweight, good cushioning, breathable mesh upper",
+           "Daily jogging & casual gym workouts",
+           "Rs. 1,500 - Rs. 2,500"
+          ],
+          [
+           "Sparx Running Shoes",
+           "Durable sole, firm grip, strong build quality",
+           "Rough use, road running & walking",
+           "Rs. 1,200 - Rs. 2,200"
+          ],
+          [
+           "Red Tape Sports Shoes",
+           "Stylish design, comfortable in-sole, shock absorption",
+           "Casual wear & light running",
+           "Rs. 1,800 - Rs. 2,800"
+          ],
+          [
+           "Nivia Engage / Vizag",
+           "Designed specifically for sports/running, flexible sole",
+           "Sports practice, track running",
+           "Rs. 1,000 - Rs. 2,000"
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "markdown": "### Key Tips to Choose the Right Pair:",
+        "original_text": "Key Tips to Choose the Right Pair:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "markdown": "* **Breathability:** Mesh upper wale shoes chunen taaki running ke dauran pairo mein zyada sweat na ho.\n* **Cushioning:** Agar aap road par running karte hain, toh thoda soft sole (good cushioning) wala shoe select karein taaki ghutno (knees) par pressure kam pade.\n* **Size:** Running shoes hamesha apne regular shoe size se **ek size bada** (ya half size bada) kharidein, kyunki daudte waqt pair thode expand hote hain.",
+        "original_text": "Breathability: Mesh upper wale shoes chunen taaki running ke dauran pairo mein zyada sweat na ho.\nCushioning: Agar aap road par running karte hain, toh thoda soft sole (good cushioning) wala shoe select karein taaki ghutno (knees) par pressure kam pade.\nSize: Running shoes hamesha apne regular shoe size se ek size bada (ya half size bada) kharidein, kyunki daudte waqt pair thode expand hote hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "markdown": "Aapka primary use kya hoga (jaise ki daily road running, gym, ya sirf morning walk)? Aur aapka shoe size kya hai?",
+        "original_text": "Aapka primary use kya hoga (jaise ki daily road running, gym, ya sirf morning walk)? Aur aapka shoe size kya hai?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

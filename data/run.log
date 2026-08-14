@@ -1,0 +1,1039 @@
+[2026-08-14T12:25:47.365Z] RUN start: 6 cells, engines=chatgpt,gemini,perplexity, langs=en,hg, reps=1, seed=20260814, concurrency=3
+[2026-08-14T12:25:52.756Z] OK   S01_hg_perplexity_r1 attempt=1 5377ms text=1464ch cites=20 $0.005481
+[2026-08-14T12:25:53.271Z] OK   S01_en_perplexity_r1 attempt=1 5891ms text=1790ch cites=20 $0.005483
+[2026-08-14T12:26:00.398Z] OK   S01_hg_gemini_r1 attempt=1 13031ms text=2168ch cites=0 $0.004
+[2026-08-14T12:26:06.525Z] OK   S01_en_gemini_r1 attempt=1 13253ms text=4639ch cites=11 $0.004
+[2026-08-14T12:26:15.728Z] OK   S01_hg_chatgpt_r1 attempt=1 15328ms text=1450ch cites=1 $0.004
+[2026-08-14T12:26:42.895Z] OK   S01_en_chatgpt_r1 attempt=1 50138ms text=1782ch cites=2 $0.004
+[2026-08-14T12:26:42.895Z] RUN done: ok=6 failed=0 skipped=0
+[2026-08-14T12:27:35.571Z] RUN start: 300 cells, engines=chatgpt,gemini,perplexity, langs=en,hg, reps=5, seed=20260814, concurrency=3
+[2026-08-14T12:27:35.586Z] SKIP S01_en_perplexity_r1 (already done)
+[2026-08-14T12:27:41.290Z] OK   F05_hg_perplexity_r1 attempt=1 5684ms text=1558ch cites=20 $0.00554
+[2026-08-14T12:27:42.730Z] OK   F01_hg_perplexity_r5 attempt=1 7145ms text=1482ch cites=18 $0.005498
+[2026-08-14T12:27:43.896Z] OK   F02_hg_perplexity_r2 attempt=1 8322ms text=1860ch cites=16 $0.005628
+[2026-08-14T12:27:47.717Z] OK   F03_en_perplexity_r2 attempt=1 4985ms text=1598ch cites=20 $0.005515
+[2026-08-14T12:27:56.668Z] OK   S03_en_gemini_r4 attempt=1 15376ms text=6665ch cites=17 $0.004
+[2026-08-14T12:28:03.577Z] OK   S05_en_chatgpt_r1 attempt=1 19678ms text=2233ch cites=3 $0.004
+[2026-08-14T12:28:08.720Z] OK   F03_en_gemini_r5 attempt=1 21002ms text=2829ch cites=2 $0.004
+[2026-08-14T12:28:10.081Z] OK   S03_en_perplexity_r1 attempt=1 6501ms text=2021ch cites=20 $0.005565
+[2026-08-14T12:28:15.159Z] OK   S04_en_gemini_r2 attempt=1 18489ms text=5941ch cites=13 $0.004
+[2026-08-14T12:28:15.159Z] PROGRESS 10/300 ok=9 failed=0 skipped=1
+[2026-08-14T12:28:15.521Z] OK   F02_hg_perplexity_r5 attempt=1 5439ms text=1836ch cites=18 $0.005608
+[2026-08-14T12:28:19.584Z] OK   F01_en_perplexity_r2 attempt=1 4425ms text=1102ch cites=20 $0.005353
+[2026-08-14T12:28:27.492Z] OK   F03_hg_perplexity_r4 attempt=1 7906ms text=1886ch cites=18 $0.005659
+[2026-08-14T12:28:39.442Z] OK   F01_en_gemini_r1 attempt=1 11950ms text=3605ch cites=6 $0.004
+[2026-08-14T12:28:59.389Z] OK   F01_en_chatgpt_r1 attempt=1 19945ms text=1818ch cites=4 $0.004
+[2026-08-14T12:29:09.072Z] OK   S04_hg_gemini_r2 attempt=1 9681ms text=1835ch cites=0 $0.004
+[2026-08-14T12:29:13.291Z] OK   S01_hg_perplexity_r3 attempt=1 4216ms text=1431ch cites=20 $0.005495
+[2026-08-14T12:29:19.241Z] OK   S04_en_chatgpt_r5 attempt=1 63719ms text=2383ch cites=2 $0.004
+[2026-08-14T12:29:22.595Z] OK   S05_en_perplexity_r5 attempt=1 3353ms text=1385ch cites=20 $0.005392
+[2026-08-14T12:29:25.552Z] OK   S01_hg_gemini_r4 attempt=1 12260ms text=2026ch cites=1 $0.004
+[2026-08-14T12:29:25.552Z] PROGRESS 20/300 ok=19 failed=0 skipped=1
+[2026-08-14T12:29:27.128Z] OK   S05_hg_chatgpt_r1 attempt=1 78406ms text=1712ch cites=2 $0.004
+[2026-08-14T12:29:34.659Z] OK   S04_en_perplexity_r4 attempt=1 9106ms text=1136ch cites=20 $0.005354
+[2026-08-14T12:29:50.171Z] OK   F05_hg_chatgpt_r5 attempt=1 23043ms text=1381ch cites=1 $0.004
+[2026-08-14T12:30:08.351Z] OK   S02_en_chatgpt_r3 attempt=1 18177ms text=1835ch cites=2 $0.004
+[2026-08-14T12:31:34.541Z] RUN start: 300 cells, engines=chatgpt,gemini,perplexity, langs=en,hg, reps=5, seed=20260814, concurrency=3
+[2026-08-14T12:31:34.542Z] SKIP F02_hg_perplexity_r2 (already done)
+[2026-08-14T12:31:34.542Z] SKIP F01_hg_perplexity_r5 (already done)
+[2026-08-14T12:31:34.543Z] SKIP S01_en_perplexity_r1 (already done)
+[2026-08-14T12:31:34.555Z] SKIP S03_en_gemini_r4 (already done)
+[2026-08-14T12:31:34.574Z] SKIP S05_en_chatgpt_r1 (already done)
+[2026-08-14T12:31:39.238Z] OK   F03_en_perplexity_r2 attempt=1 4681ms text=1184ch cites=20 $0.005355
+[2026-08-14T12:31:39.238Z] SKIP S04_en_gemini_r2 (already done)
+[2026-08-14T12:31:39.238Z] SKIP S03_en_perplexity_r1 (already done)
+[2026-08-14T12:31:39.238Z] SKIP S05_hg_chatgpt_r1 (already done)
+[2026-08-14T12:31:39.239Z] SKIP F02_hg_perplexity_r5 (already done)
+[2026-08-14T12:31:39.239Z] PROGRESS 10/300 ok=1 failed=0 skipped=9
+[2026-08-14T12:31:39.239Z] SKIP F01_en_perplexity_r2 (already done)
+[2026-08-14T12:31:39.239Z] SKIP S04_en_chatgpt_r5 (already done)
+[2026-08-14T12:31:40.217Z] OK   F05_hg_perplexity_r1 attempt=1 5673ms text=1657ch cites=20 $0.005582
+[2026-08-14T12:31:40.217Z] SKIP F01_en_gemini_r1 (already done)
+[2026-08-14T12:31:40.217Z] SKIP F01_en_chatgpt_r1 (already done)
+[2026-08-14T12:31:40.218Z] SKIP S04_hg_gemini_r2 (already done)
+[2026-08-14T12:31:40.218Z] SKIP S01_hg_perplexity_r3 (already done)
+[2026-08-14T12:31:40.218Z] SKIP S01_hg_gemini_r4 (already done)
+[2026-08-14T12:31:40.218Z] SKIP S05_en_perplexity_r5 (already done)
+[2026-08-14T12:31:43.607Z] OK   F03_hg_perplexity_r4 attempt=1 4367ms text=1172ch cites=20 $0.005471
+[2026-08-14T12:31:43.607Z] PROGRESS 20/300 ok=3 failed=0 skipped=17
+[2026-08-14T12:31:43.608Z] SKIP S04_en_perplexity_r4 (already done)
+[2026-08-14T12:31:48.728Z] OK   F03_en_gemini_r5 attempt=1 14153ms text=5042ch cites=11 $0.004
+[2026-08-14T12:32:00.960Z] OK   F05_hg_chatgpt_r5 attempt=1 17350ms text=1515ch cites=1 $0.004
+[2026-08-14T12:32:00.961Z] SKIP S02_en_chatgpt_r3 (already done)
+[2026-08-14T12:32:22.560Z] OK   F02_en_gemini_r2 attempt=1 21598ms text=3131ch cites=3 $0.004
+[2026-08-14T12:32:28.173Z] OK   F03_hg_chatgpt_r2 attempt=1 47951ms text=2604ch cites=3 $0.004
+[2026-08-14T12:32:32.156Z] OK   S01_hg_perplexity_r5 attempt=1 3980ms text=1331ch cites=20 $0.005435
+[2026-08-14T12:32:36.510Z] OK   S04_hg_perplexity_r3 attempt=1 4354ms text=1581ch cites=20 $0.005504
+[2026-08-14T12:32:46.440Z] OK   S05_hg_chatgpt_r5 attempt=1 57709ms text=1680ch cites=2 $0.004
+[2026-08-14T12:33:11.855Z] OK   S03_hg_gemini_r4 attempt=1 35343ms text=2446ch cites=0 $0.004
+[2026-08-14T12:33:11.856Z] PROGRESS 30/300 ok=11 failed=0 skipped=19
+[2026-08-14T12:33:34.695Z] OK   F04_hg_gemini_r5 attempt=1 22836ms text=2406ch cites=0 $0.004
+[2026-08-14T12:33:35.349Z] OK   S02_hg_chatgpt_r4 attempt=1 48907ms text=1722ch cites=3 $0.004
+[2026-08-14T12:33:38.880Z] OK   S05_en_perplexity_r3 attempt=1 3529ms text=1306ch cites=20 $0.005367
+[2026-08-14T12:33:46.508Z] OK   S04_hg_chatgpt_r4 attempt=1 83945ms text=1595ch cites=2 $0.004
+[2026-08-14T12:33:50.585Z] OK   S04_hg_perplexity_r4 attempt=1 4077ms text=1231ch cites=20 $0.005431
+[2026-08-14T12:33:54.091Z] OK   S04_hg_gemini_r3 attempt=1 19387ms text=1797ch cites=0 $0.004
+[2026-08-14T12:33:55.104Z] OK   F04_hg_perplexity_r2 attempt=1 4518ms text=1170ch cites=18 $0.005416
+[2026-08-14T12:33:56.571Z] OK   F05_en_gemini_r3 attempt=1 17690ms text=3154ch cites=2 $0.004
+[2026-08-14T12:33:57.893Z] OK   S04_en_perplexity_r3 attempt=1 2787ms text=1264ch cites=20 $0.005381
+[2026-08-14T12:33:59.697Z] OK   F04_en_perplexity_r5 attempt=1 3125ms text=879ch cites=19 $0.005292
+[2026-08-14T12:33:59.698Z] PROGRESS 40/300 ok=21 failed=0 skipped=19
+[2026-08-14T12:34:13.544Z] OK   S05_hg_chatgpt_r2 attempt=1 15648ms text=1576ch cites=3 $0.004
+[2026-08-14T12:34:26.387Z] OK   S01_hg_chatgpt_r2 attempt=1 26688ms text=2198ch cites=3 $0.004
+[2026-08-14T12:34:29.459Z] OK   F03_en_gemini_r4 attempt=1 15914ms text=5511ch cites=12 $0.004
+[2026-08-14T12:34:31.456Z] OK   S03_en_perplexity_r5 attempt=1 5069ms text=2256ch cites=20 $0.005602
+[2026-08-14T12:34:43.224Z] OK   S03_en_chatgpt_r2 attempt=1 49132ms text=2378ch cites=4 $0.004
+[2026-08-14T12:34:46.728Z] OK   F04_hg_perplexity_r4 attempt=1 3502ms text=924ch cites=17 $0.005329
+[2026-08-14T12:34:51.117Z] OK   F04_hg_gemini_r3 attempt=1 21657ms text=2183ch cites=0 $0.004
+[2026-08-14T12:34:58.489Z] OK   S02_hg_perplexity_r3 attempt=1 7370ms text=1728ch cites=16 $0.005577
+[2026-08-14T12:34:58.490Z] SKIP S01_hg_chatgpt_r1 (already done)
+[2026-08-14T12:35:01.770Z] OK   F01_en_chatgpt_r4 attempt=1 15039ms text=1779ch cites=3 $0.004
+[2026-08-14T12:35:01.770Z] PROGRESS 50/300 ok=30 failed=0 skipped=20
+[2026-08-14T12:35:01.837Z] OK   S05_en_perplexity_r4 attempt=1 3346ms text=1456ch cites=20 $0.005391
+[2026-08-14T12:35:15.701Z] OK   F04_en_chatgpt_r3 attempt=1 13928ms text=1960ch cites=3 $0.004
+[2026-08-14T12:35:22.313Z] OK   F03_en_chatgpt_r3 attempt=1 20475ms text=2845ch cites=2 $0.004
+[2026-08-14T12:35:24.866Z] OK   F04_en_perplexity_r2 attempt=1 2550ms text=1011ch cites=19 $0.005303
+[2026-08-14T12:35:55.095Z] OK   S04_hg_chatgpt_r1 attempt=1 39393ms text=1591ch cites=1 $0.004
+[2026-08-14T12:36:00.899Z] OK   S02_hg_gemini_r4 attempt=1 36031ms text=2047ch cites=0 $0.004
+[2026-08-14T12:36:11.463Z] ERR  F03_en_chatgpt_r4 attempt=1/5: This operation was aborted
+[2026-08-14T12:36:14.671Z] OK   F02_en_chatgpt_r2 attempt=1 19573ms text=2406ch cites=2 $0.004
+[2026-08-14T12:36:18.576Z] OK   F03_en_chatgpt_r1 attempt=1 17676ms text=2494ch cites=2 $0.004
+[2026-08-14T12:36:39.235Z] OK   S05_en_gemini_r3 attempt=1 24562ms text=4387ch cites=9 $0.004
+[2026-08-14T12:36:40.485Z] OK   F03_en_chatgpt_r4 attempt=2 17866ms text=2466ch cites=2 $0.004
+[2026-08-14T12:36:40.485Z] PROGRESS 60/300 ok=40 failed=0 skipped=20
+[2026-08-14T12:36:52.532Z] OK   F03_hg_gemini_r3 attempt=1 13294ms text=4746ch cites=16 $0.004
+[2026-08-14T12:36:52.869Z] OK   S02_hg_gemini_r3 attempt=1 12383ms text=2292ch cites=0 $0.004
+[2026-08-14T12:36:53.680Z] OK   F02_en_chatgpt_r5 attempt=1 35102ms text=2261ch cites=2 $0.004
+[2026-08-14T12:36:58.164Z] OK   F01_hg_perplexity_r3 attempt=1 5630ms text=1410ch cites=20 $0.005497
+[2026-08-14T12:37:02.917Z] OK   S04_en_perplexity_r1 attempt=1 4751ms text=1647ch cites=20 $0.005513
+[2026-08-14T12:37:06.803Z] OK   F04_en_perplexity_r1 attempt=1 3882ms text=1205ch cites=19 $0.005348
+[2026-08-14T12:37:14.782Z] OK   F03_hg_gemini_r2 attempt=1 21099ms text=4013ch cites=9 $0.004
+[2026-08-14T12:37:17.835Z] OK   S02_en_gemini_r4 attempt=1 24963ms text=3951ch cites=7 $0.004
+[2026-08-14T12:37:29.360Z] OK   S03_hg_chatgpt_r3 attempt=1 22555ms text=2102ch cites=4 $0.004
+[2026-08-14T12:37:33.907Z] OK   S02_hg_chatgpt_r3 attempt=1 19122ms text=1487ch cites=3 $0.004
+[2026-08-14T12:37:33.907Z] PROGRESS 70/300 ok=50 failed=0 skipped=20
+[2026-08-14T12:37:37.979Z] OK   S05_hg_perplexity_r4 attempt=1 4071ms text=1570ch cites=18 $0.00556
+[2026-08-14T12:37:39.549Z] OK   F05_en_chatgpt_r4 attempt=1 21712ms text=2749ch cites=4 $0.004
+[2026-08-14T12:37:42.536Z] OK   F04_en_gemini_r4 attempt=1 13172ms text=4034ch cites=10 $0.004
+[2026-08-14T12:37:46.736Z] OK   F05_en_perplexity_r1 attempt=1 7186ms text=1742ch cites=20 $0.005527
+[2026-08-14T12:37:47.555Z] OK   S02_hg_perplexity_r4 attempt=1 5018ms text=1420ch cites=16 $0.005472
+[2026-08-14T12:37:56.616Z] OK   S05_hg_perplexity_r1 attempt=1 9877ms text=2308ch cites=18 $0.00579
+[2026-08-14T12:38:01.528Z] OK   S03_hg_gemini_r5 attempt=1 13971ms text=7143ch cites=21 $0.004
+[2026-08-14T12:38:04.366Z] OK   S04_hg_gemini_r1 attempt=1 26385ms text=2662ch cites=0 $0.004
+[2026-08-14T12:38:08.851Z] OK   S02_en_perplexity_r2 attempt=1 4482ms text=1684ch cites=19 $0.005507
+[2026-08-14T12:38:14.532Z] OK   S03_en_chatgpt_r4 attempt=1 17911ms text=2345ch cites=4 $0.004
+[2026-08-14T12:38:14.533Z] PROGRESS 80/300 ok=60 failed=0 skipped=20
+[2026-08-14T12:38:16.131Z] OK   F04_en_gemini_r3 attempt=1 14602ms text=5704ch cites=14 $0.004
+[2026-08-14T12:38:26.312Z] OK   S01_en_chatgpt_r3 attempt=1 17458ms text=1426ch cites=1 $0.004
+[2026-08-14T12:38:30.685Z] OK   S04_hg_gemini_r4 attempt=1 14553ms text=2289ch cites=0 $0.004
+[2026-08-14T12:38:34.658Z] OK   S02_en_perplexity_r3 attempt=1 3970ms text=1813ch cites=19 $0.005522
+[2026-08-14T12:38:39.151Z] OK   F03_hg_perplexity_r2 attempt=1 4492ms text=1669ch cites=20 $0.005588
+[2026-08-14T12:38:55.635Z] OK   S05_hg_chatgpt_r3 attempt=1 16480ms text=1519ch cites=1 $0.004
+[2026-08-14T12:39:11.238Z] OK   F05_hg_gemini_r2 attempt=1 15601ms text=4802ch cites=15 $0.004
+[2026-08-14T12:39:13.318Z] OK   S03_en_chatgpt_r3 attempt=1 47004ms text=2503ch cites=4 $0.004
+[2026-08-14T12:39:17.280Z] OK   S05_hg_perplexity_r2 attempt=1 3961ms text=1651ch cites=18 $0.00559
+[2026-08-14T12:39:22.100Z] OK   F05_hg_chatgpt_r2 attempt=1 67564ms text=1771ch cites=2 $0.004
+[2026-08-14T12:39:22.101Z] PROGRESS 90/300 ok=70 failed=0 skipped=20
+[2026-08-14T12:39:28.685Z] OK   F03_en_gemini_r3 attempt=1 11402ms text=2755ch cites=5 $0.004
+[2026-08-14T12:39:33.010Z] OK   F02_en_gemini_r4 attempt=1 21769ms text=2545ch cites=1 $0.004
+[2026-08-14T12:39:34.679Z] OK   S05_hg_perplexity_r5 attempt=1 5993ms text=1782ch cites=17 $0.00562
+[2026-08-14T12:39:37.884Z] OK   F02_en_perplexity_r5 attempt=1 4871ms text=1451ch cites=18 $0.005449
+[2026-08-14T12:39:37.999Z] OK   F03_en_perplexity_r4 attempt=1 3318ms text=1080ch cites=20 $0.005346
+[2026-08-14T12:39:42.739Z] OK   S03_en_perplexity_r4 attempt=1 4739ms text=1780ch cites=20 $0.005507
+[2026-08-14T12:39:46.206Z] OK   F01_hg_chatgpt_r2 attempt=1 24104ms text=2015ch cites=3 $0.004
+[2026-08-14T12:39:46.207Z] SKIP S01_hg_perplexity_r1 (already done)
+[2026-08-14T12:39:46.510Z] OK   S01_en_perplexity_r2 attempt=1 3771ms text=1304ch cites=20 $0.005375
+[2026-08-14T12:39:56.478Z] OK   S05_en_gemini_r2 attempt=1 18592ms text=5011ch cites=10 $0.004
+[2026-08-14T12:39:56.479Z] PROGRESS 100/300 ok=79 failed=0 skipped=21
+[2026-08-14T12:40:03.956Z] OK   F03_en_chatgpt_r5 attempt=1 17444ms text=2820ch cites=2 $0.004
+[2026-08-14T12:40:11.456Z] OK   S01_hg_chatgpt_r5 attempt=1 25248ms text=1798ch cites=1 $0.004
+[2026-08-14T12:40:18.053Z] OK   F05_en_gemini_r2 attempt=1 21573ms text=426ch cites=0 $0.004
+[2026-08-14T12:40:18.058Z] OK   F05_en_perplexity_r3 attempt=1 6600ms text=2076ch cites=20 $0.005616
+[2026-08-14T12:40:25.305Z] OK   S03_en_perplexity_r3 attempt=1 7249ms text=1866ch cites=20 $0.005517
+[2026-08-14T12:40:27.866Z] OK   F04_en_gemini_r1 attempt=1 23908ms text=7924ch cites=24 $0.004
+[2026-08-14T12:40:35.498Z] OK   S02_hg_chatgpt_r1 attempt=1 17439ms text=2090ch cites=3 $0.004
+[2026-08-14T12:40:42.968Z] OK   S03_hg_chatgpt_r5 attempt=1 17662ms text=2072ch cites=3 $0.004
+[2026-08-14T12:40:45.288Z] OK   S01_en_chatgpt_r4 attempt=1 17420ms text=1373ch cites=2 $0.004
+[2026-08-14T12:40:51.161Z] OK   S01_hg_chatgpt_r3 attempt=1 15660ms text=2383ch cites=2 $0.004
+[2026-08-14T12:40:51.162Z] PROGRESS 110/300 ok=89 failed=0 skipped=21
+[2026-08-14T12:41:02.320Z] OK   F01_en_gemini_r4 attempt=1 19350ms text=2171ch cites=0 $0.004
+[2026-08-14T12:41:05.421Z] OK   F05_hg_gemini_r1 attempt=1 20131ms text=3964ch cites=8 $0.004
+[2026-08-14T12:41:08.774Z] OK   F05_hg_chatgpt_r4 attempt=1 17611ms text=2226ch cites=3 $0.004
+[2026-08-14T12:41:10.137Z] OK   S03_hg_perplexity_r2 attempt=1 4714ms text=1972ch cites=20 $0.005612
+[2026-08-14T12:41:15.223Z] OK   S05_en_perplexity_r1 attempt=1 5084ms text=1344ch cites=20 $0.005374
+[2026-08-14T12:41:19.626Z] OK   S02_hg_perplexity_r5 attempt=1 4401ms text=1737ch cites=16 $0.005579
+[2026-08-14T12:41:24.422Z] OK   F05_en_perplexity_r2 attempt=1 4795ms text=1964ch cites=20 $0.005611
+[2026-08-14T12:41:29.776Z] OK   F01_hg_gemini_r2 attempt=1 20999ms text=8988ch cites=35 $0.004
+[2026-08-14T12:41:42.361Z] OK   F01_hg_chatgpt_r1 attempt=1 17936ms text=1950ch cites=2 $0.004
+[2026-08-14T12:41:43.794Z] OK   F01_hg_chatgpt_r5 attempt=1 14016ms text=1754ch cites=4 $0.004
+[2026-08-14T12:41:43.794Z] PROGRESS 120/300 ok=99 failed=0 skipped=21
+[2026-08-14T12:41:49.080Z] OK   S04_en_perplexity_r5 attempt=1 6715ms text=1595ch cites=20 $0.005469
+[2026-08-14T12:42:07.757Z] OK   F02_hg_chatgpt_r2 attempt=1 18676ms text=1708ch cites=1 $0.004
+[2026-08-14T12:42:14.346Z] OK   F01_hg_chatgpt_r3 attempt=1 72024ms text=2112ch cites=4 $0.004
+[2026-08-14T12:42:23.349Z] OK   F04_hg_gemini_r4 attempt=1 15588ms text=2076ch cites=0 $0.004
+[2026-08-14T12:42:34.644Z] OK   S03_hg_chatgpt_r1 attempt=1 20295ms text=2256ch cites=4 $0.004
+[2026-08-14T12:42:43.473Z] OK   F03_en_chatgpt_r2 attempt=1 20122ms text=2965ch cites=3 $0.004
+[2026-08-14T12:42:50.613Z] OK   F04_hg_chatgpt_r2 attempt=1 66818ms text=1883ch cites=2 $0.004
+[2026-08-14T12:42:51.057Z] OK   F04_en_chatgpt_r2 attempt=1 16411ms text=2966ch cites=3 $0.004
+[2026-08-14T12:42:56.908Z] OK   S05_hg_gemini_r3 attempt=1 13432ms text=1554ch cites=0 $0.004
+[2026-08-14T12:43:01.017Z] OK   S03_hg_perplexity_r4 attempt=1 4108ms text=1890ch cites=20 $0.005565
+[2026-08-14T12:43:01.017Z] PROGRESS 130/300 ok=109 failed=0 skipped=21
+[2026-08-14T12:43:06.806Z] OK   S05_en_chatgpt_r2 attempt=1 15745ms text=1693ch cites=2 $0.004
+[2026-08-14T12:43:15.278Z] OK   S05_en_gemini_r4 attempt=1 14259ms text=3765ch cites=7 $0.004
+[2026-08-14T12:43:16.168Z] OK   S02_en_chatgpt_r5 attempt=1 25553ms text=1778ch cites=3 $0.004
+[2026-08-14T12:43:17.080Z] OK   S04_hg_gemini_r5 attempt=1 10272ms text=2081ch cites=0 $0.004
+[2026-08-14T12:43:17.080Z] SKIP S01_hg_gemini_r1 (already done)
+[2026-08-14T12:43:32.442Z] OK   S03_hg_chatgpt_r2 attempt=1 16272ms text=2345ch cites=4 $0.004
+[2026-08-14T12:43:34.703Z] OK   S02_hg_chatgpt_r5 attempt=1 19422ms text=1725ch cites=3 $0.004
+[2026-08-14T12:43:35.066Z] OK   S02_en_chatgpt_r4 attempt=1 17984ms text=1511ch cites=1 $0.004
+[2026-08-14T12:43:51.896Z] OK   S04_en_chatgpt_r1 attempt=1 16830ms text=2617ch cites=3 $0.004
+[2026-08-14T12:43:53.292Z] OK   S04_en_gemini_r3 attempt=1 18587ms text=5249ch cites=8 $0.004
+[2026-08-14T12:43:53.292Z] PROGRESS 140/300 ok=118 failed=0 skipped=22
+[2026-08-14T12:43:55.173Z] OK   F02_en_chatgpt_r4 attempt=1 22731ms text=2088ch cites=1 $0.004
+[2026-08-14T12:43:56.279Z] OK   F02_en_perplexity_r1 attempt=1 4381ms text=2112ch cites=18 $0.005597
+[2026-08-14T12:44:04.429Z] OK   S02_hg_perplexity_r1 attempt=1 8149ms text=1924ch cites=18 $0.005626
+[2026-08-14T12:44:08.911Z] OK   F03_hg_chatgpt_r1 attempt=1 13737ms text=1823ch cites=3 $0.004
+[2026-08-14T12:44:12.789Z] OK   F03_en_perplexity_r3 attempt=1 3876ms text=1269ch cites=20 $0.005368
+[2026-08-14T12:44:17.060Z] OK   F04_en_perplexity_r4 attempt=1 4270ms text=962ch cites=19 $0.005286
+[2026-08-14T12:44:21.271Z] OK   F01_en_perplexity_r3 attempt=1 4209ms text=1250ch cites=20 $0.005374
+[2026-08-14T12:44:22.255Z] OK   S03_en_chatgpt_r5 attempt=1 17824ms text=1964ch cites=3 $0.004
+[2026-08-14T12:44:40.789Z] OK   S01_en_chatgpt_r2 attempt=1 47494ms text=2328ch cites=2 $0.004
+[2026-08-14T12:44:41.779Z] OK   S05_hg_gemini_r1 attempt=1 19522ms text=1579ch cites=0 $0.004
+[2026-08-14T12:44:41.779Z] PROGRESS 150/300 ok=128 failed=0 skipped=22
+[2026-08-14T12:44:45.129Z] OK   S01_en_perplexity_r3 attempt=1 3348ms text=1354ch cites=20 $0.005399
+[2026-08-14T12:44:45.366Z] OK   F04_hg_perplexity_r1 attempt=1 4573ms text=1258ch cites=18 $0.00539
+[2026-08-14T12:44:51.181Z] OK   F04_hg_chatgpt_r5 attempt=1 29908ms text=1701ch cites=2 $0.004
+[2026-08-14T12:44:58.796Z] OK   F05_hg_gemini_r5 attempt=1 13428ms text=2779ch cites=0 $0.004
+[2026-08-14T12:45:04.579Z] OK   S03_en_gemini_r5 attempt=1 19448ms text=2903ch cites=3 $0.004
+[2026-08-14T12:45:07.892Z] OK   F02_hg_gemini_r2 attempt=1 16710ms text=1421ch cites=0 $0.004
+[2026-08-14T12:45:07.940Z] OK   F02_en_perplexity_r2 attempt=1 3360ms text=1484ch cites=18 $0.005445
+[2026-08-14T12:45:16.124Z] OK   F03_en_gemini_r1 attempt=1 17325ms text=5668ch cites=12 $0.004
+[2026-08-14T12:45:24.409Z] ERR  F02_hg_gemini_r4 attempt=1/5: empty/short answer (28 chars)
+[2026-08-14T12:45:26.287Z] OK   S02_en_chatgpt_r2 attempt=1 18393ms text=2071ch cites=2 $0.004
+[2026-08-14T12:45:38.448Z] OK   S02_hg_gemini_r2 attempt=1 22321ms text=1772ch cites=0 $0.004
+[2026-08-14T12:45:38.449Z] PROGRESS 160/300 ok=138 failed=0 skipped=22
+[2026-08-14T12:45:42.352Z] OK   S03_en_gemini_r2 attempt=1 16064ms text=6588ch cites=17 $0.004
+[2026-08-14T12:45:49.452Z] OK   F02_hg_gemini_r4 attempt=2 11801ms text=1996ch cites=0 $0.004
+[2026-08-14T12:45:53.343Z] OK   F04_hg_perplexity_r3 attempt=1 3888ms text=1003ch cites=18 $0.005383
+[2026-08-14T12:45:53.764Z] OK   F01_hg_gemini_r4 attempt=1 15315ms text=2338ch cites=0 $0.004
+[2026-08-14T12:45:59.556Z] OK   F03_hg_perplexity_r5 attempt=1 5789ms text=1726ch cites=20 $0.005581
+[2026-08-14T12:46:00.071Z] OK   S04_hg_chatgpt_r5 attempt=1 17718ms text=1702ch cites=2 $0.004
+[2026-08-14T12:46:11.765Z] OK   S01_hg_chatgpt_r4 attempt=1 18419ms text=1713ch cites=2 $0.004
+[2026-08-14T12:46:13.618Z] OK   F01_en_chatgpt_r5 attempt=1 14060ms text=1885ch cites=3 $0.004
+[2026-08-14T12:46:18.130Z] OK   S04_en_chatgpt_r4 attempt=1 18054ms text=1965ch cites=2 $0.004
+[2026-08-14T12:46:32.774Z] OK   S02_en_gemini_r2 attempt=1 19153ms text=5121ch cites=13 $0.004
+[2026-08-14T12:46:32.776Z] PROGRESS 170/300 ok=148 failed=0 skipped=22
+[2026-08-14T12:46:39.551Z] OK   F05_en_chatgpt_r1 attempt=1 21419ms text=3025ch cites=4 $0.004
+[2026-08-14T12:46:43.327Z] OK   F04_en_perplexity_r3 attempt=1 3774ms text=940ch cites=17 $0.005274
+[2026-08-14T12:46:48.326Z] OK   F02_en_gemini_r5 attempt=1 15546ms text=3762ch cites=6 $0.004
+[2026-08-14T12:46:54.511Z] OK   F05_hg_perplexity_r2 attempt=1 6182ms text=1578ch cites=20 $0.005592
+[2026-08-14T12:46:58.566Z] OK   S03_hg_chatgpt_r4 attempt=1 15236ms text=2118ch cites=5 $0.004
+[2026-08-14T12:46:58.591Z] OK   F02_en_perplexity_r3 attempt=1 4077ms text=1663ch cites=18 $0.0055
+[2026-08-14T12:47:50.696Z] OK   S03_en_chatgpt_r1 attempt=1 52127ms text=2396ch cites=3 $0.004
+[2026-08-14T12:47:51.765Z] ERR  F04_hg_chatgpt_r1 attempt=1/5: This operation was aborted
+[2026-08-14T12:48:04.128Z] OK   S02_en_gemini_r3 attempt=1 13430ms text=5378ch cites=12 $0.004
+[2026-08-14T12:48:20.608Z] OK   S01_en_gemini_r5 attempt=1 16478ms text=7606ch cites=21 $0.004
+[2026-08-14T12:48:31.691Z] OK   S02_hg_gemini_r1 attempt=1 11079ms text=2031ch cites=0 $0.004
+[2026-08-14T12:48:31.692Z] PROGRESS 180/300 ok=158 failed=0 skipped=22
+[2026-08-14T12:48:38.048Z] OK   F04_hg_chatgpt_r3 attempt=1 99454ms text=2676ch cites=3 $0.004
+[2026-08-14T12:48:42.192Z] OK   F03_en_perplexity_r5 attempt=1 4139ms text=1196ch cites=20 $0.00537
+[2026-08-14T12:48:44.498Z] OK   S05_en_gemini_r1 attempt=1 12804ms text=2129ch cites=0 $0.004
+[2026-08-14T12:48:46.727Z] OK   F04_hg_chatgpt_r1 attempt=2 40136ms text=3315ch cites=4 $0.004
+[2026-08-14T12:48:49.633Z] OK   S02_hg_perplexity_r2 attempt=1 5134ms text=1386ch cites=16 $0.005461
+[2026-08-14T12:48:57.772Z] OK   F01_en_gemini_r2 attempt=1 15576ms text=2631ch cites=3 $0.004
+[2026-08-14T12:49:01.077Z] OK   S05_hg_gemini_r5 attempt=1 14349ms text=4159ch cites=14 $0.004
+[2026-08-14T12:49:24.699Z] OK   F03_hg_chatgpt_r3 attempt=1 23620ms text=2362ch cites=2 $0.004
+[2026-08-14T12:49:30.413Z] OK   S02_en_perplexity_r5 attempt=1 5712ms text=1767ch cites=20 $0.005494
+[2026-08-14T12:49:51.547Z] OK   F01_en_chatgpt_r3 attempt=1 53772ms text=1858ch cites=3 $0.004
+[2026-08-14T12:49:51.548Z] PROGRESS 190/300 ok=168 failed=0 skipped=22
+[2026-08-14T12:49:56.134Z] OK   F02_en_chatgpt_r1 attempt=1 66500ms text=2005ch cites=1 $0.004
+[2026-08-14T12:50:08.225Z] OK   F02_hg_gemini_r1 attempt=1 16675ms text=5250ch cites=11 $0.004
+[2026-08-14T12:50:13.646Z] OK   F04_en_gemini_r2 attempt=1 17510ms text=6376ch cites=13 $0.004
+[2026-08-14T12:50:33.409Z] OK   F03_hg_chatgpt_r4 attempt=1 25183ms text=2079ch cites=5 $0.004
+[2026-08-14T12:50:34.947Z] OK   F03_hg_gemini_r4 attempt=1 21298ms text=1889ch cites=0 $0.004
+[2026-08-14T12:50:37.834Z] OK   S02_en_perplexity_r4 attempt=1 4421ms text=1683ch cites=20 $0.005474
+[2026-08-14T12:50:40.377Z] OK   S04_en_chatgpt_r2 attempt=1 69962ms text=2148ch cites=2 $0.004
+[2026-08-14T12:50:51.026Z] OK   S05_en_gemini_r5 attempt=1 16077ms text=5890ch cites=14 $0.004
+[2026-08-14T12:51:05.464Z] OK   F04_hg_gemini_r1 attempt=1 25084ms text=2183ch cites=0 $0.004
+[2026-08-14T12:51:06.437Z] OK   S04_en_gemini_r4 attempt=1 15409ms text=4735ch cites=8 $0.004
+[2026-08-14T12:51:06.437Z] PROGRESS 200/300 ok=178 failed=0 skipped=22
+[2026-08-14T12:51:09.557Z] OK   F03_hg_perplexity_r1 attempt=1 4089ms text=1469ch cites=20 $0.005536
+[2026-08-14T12:51:21.795Z] OK   F03_hg_gemini_r1 attempt=1 15356ms text=3553ch cites=9 $0.004
+[2026-08-14T12:51:30.962Z] OK   F01_en_chatgpt_r2 attempt=1 21403ms text=2061ch cites=4 $0.004
+[2026-08-14T12:51:37.328Z] OK   S01_en_perplexity_r5 attempt=1 6365ms text=1780ch cites=20 $0.005488
+[2026-08-14T12:51:37.401Z] OK   F02_en_gemini_r1 attempt=1 15600ms text=3031ch cites=1 $0.004
+[2026-08-14T12:51:39.495Z] OK   F02_hg_chatgpt_r1 attempt=1 61659ms text=1574ch cites=2 $0.004
+[2026-08-14T12:51:39.495Z] SKIP S01_en_gemini_r1 (already done)
+[2026-08-14T12:51:51.909Z] OK   S01_en_chatgpt_r5 attempt=1 14577ms text=2208ch cites=3 $0.004
+[2026-08-14T12:51:54.005Z] OK   S04_hg_chatgpt_r3 attempt=1 16602ms text=1697ch cites=2 $0.004
+[2026-08-14T12:51:55.355Z] OK   S02_hg_gemini_r5 attempt=1 15858ms text=1879ch cites=0 $0.004
+[2026-08-14T12:51:55.355Z] PROGRESS 210/300 ok=187 failed=0 skipped=23
+[2026-08-14T12:52:01.575Z] OK   F05_hg_perplexity_r5 attempt=1 6218ms text=1992ch cites=20 $0.005688
+[2026-08-14T12:52:06.656Z] OK   S01_en_perplexity_r4 attempt=1 5078ms text=1604ch cites=20 $0.005446
+[2026-08-14T12:52:11.993Z] OK   S03_hg_gemini_r2 attempt=1 17983ms text=2022ch cites=0 $0.004
+[2026-08-14T12:52:21.345Z] OK   S04_en_gemini_r1 attempt=1 14686ms text=4349ch cites=10 $0.004
+[2026-08-14T12:52:23.953Z] OK   S01_en_gemini_r4 attempt=1 11955ms text=2972ch cites=5 $0.004
+[2026-08-14T12:52:27.687Z] OK   F04_hg_perplexity_r5 attempt=1 6337ms text=892ch cites=18 $0.005312
+[2026-08-14T12:52:30.731Z] OK   F02_hg_perplexity_r3 attempt=1 6775ms text=1988ch cites=16 $0.005669
+[2026-08-14T12:52:34.354Z] OK   S04_hg_perplexity_r2 attempt=1 6665ms text=1568ch cites=20 $0.005529
+[2026-08-14T12:52:40.038Z] OK   S01_en_gemini_r2 attempt=1 48126ms text=2847ch cites=4 $0.004
+[2026-08-14T12:52:41.843Z] OK   F01_hg_perplexity_r1 attempt=1 7489ms text=1477ch cites=18 $0.005532
+[2026-08-14T12:52:41.844Z] PROGRESS 220/300 ok=197 failed=0 skipped=23
+[2026-08-14T12:52:47.344Z] OK   F05_en_perplexity_r4 attempt=1 5499ms text=1832ch cites=20 $0.00557
+[2026-08-14T12:52:55.065Z] OK   S02_en_chatgpt_r1 attempt=1 24331ms text=1528ch cites=2 $0.004
+[2026-08-14T12:52:55.644Z] OK   S05_en_chatgpt_r4 attempt=1 15604ms text=2561ch cites=4 $0.004
+[2026-08-14T12:53:12.746Z] OK   F01_hg_gemini_r1 attempt=1 17677ms text=4739ch cites=13 $0.004
+[2026-08-14T12:53:12.899Z] OK   S04_en_chatgpt_r3 attempt=1 25552ms text=1702ch cites=2 $0.004
+[2026-08-14T12:53:16.528Z] OK   S04_hg_perplexity_r5 attempt=1 3627ms text=1136ch cites=20 $0.005376
+[2026-08-14T12:53:26.426Z] OK   F02_hg_perplexity_r4 attempt=1 9896ms text=1875ch cites=16 $0.005631
+[2026-08-14T12:53:31.376Z] OK   S03_hg_perplexity_r1 attempt=1 4947ms text=2003ch cites=20 $0.00559
+[2026-08-14T12:53:35.207Z] OK   S05_en_chatgpt_r5 attempt=1 22455ms text=1903ch cites=1 $0.004
+[2026-08-14T12:53:47.169Z] OK   F03_hg_chatgpt_r5 attempt=1 15791ms text=1761ch cites=1 $0.004
+[2026-08-14T12:53:47.170Z] PROGRESS 230/300 ok=207 failed=0 skipped=23
+[2026-08-14T12:53:51.867Z] OK   F05_en_chatgpt_r5 attempt=1 56220ms text=3002ch cites=1 $0.004
+[2026-08-14T12:53:52.190Z] OK   F03_hg_gemini_r5 attempt=1 16981ms text=1837ch cites=0 $0.004
+[2026-08-14T12:53:56.226Z] OK   F01_en_perplexity_r1 attempt=1 4357ms text=936ch cites=20 $0.005286
+[2026-08-14T12:54:01.427Z] OK   S01_hg_perplexity_r4 attempt=1 5197ms text=1848ch cites=20 $0.005615
+[2026-08-14T12:54:03.108Z] OK   S02_en_gemini_r5 attempt=1 15936ms text=6300ch cites=18 $0.004
+[2026-08-14T12:54:13.876Z] OK   F04_en_chatgpt_r4 attempt=1 21684ms text=1969ch cites=2 $0.004
+[2026-08-14T12:54:17.462Z] OK   F04_en_gemini_r5 attempt=1 14348ms text=6917ch cites=19 $0.004
+[2026-08-14T12:54:21.370Z] OK   F02_hg_perplexity_r1 attempt=1 3905ms text=1347ch cites=17 $0.005461
+[2026-08-14T12:54:24.558Z] OK   F01_en_gemini_r3 attempt=1 10680ms text=2538ch cites=2 $0.004
+[2026-08-14T12:54:29.104Z] OK   S03_en_perplexity_r2 attempt=1 4545ms text=1785ch cites=20 $0.005501
+[2026-08-14T12:54:29.104Z] PROGRESS 240/300 ok=217 failed=0 skipped=23
+[2026-08-14T12:54:46.850Z] OK   F05_en_chatgpt_r3 attempt=1 25475ms text=3035ch cites=5 $0.004
+[2026-08-14T12:55:01.649Z] OK   S05_hg_gemini_r2 attempt=1 14795ms text=5826ch cites=16 $0.004
+[2026-08-14T12:55:05.923Z] OK   S05_hg_chatgpt_r4 attempt=1 64493ms text=1799ch cites=2 $0.004
+[2026-08-14T12:55:10.417Z] OK   S01_hg_perplexity_r2 attempt=1 4491ms text=1532ch cites=20 $0.005492
+[2026-08-14T12:55:12.343Z] OK   S05_hg_gemini_r4 attempt=1 10688ms text=1674ch cites=0 $0.004
+[2026-08-14T12:55:18.330Z] OK   F05_hg_perplexity_r3 attempt=1 5984ms text=1815ch cites=20 $0.005668
+[2026-08-14T12:55:18.610Z] OK   S02_hg_chatgpt_r2 attempt=1 49504ms text=2442ch cites=3 $0.004
+[2026-08-14T12:55:22.174Z] OK   S02_en_perplexity_r1 attempt=1 3562ms text=1585ch cites=20 $0.005447
+[2026-08-14T12:55:23.955Z] OK   F01_hg_perplexity_r4 attempt=1 5624ms text=1648ch cites=18 $0.005548
+[2026-08-14T12:55:27.507Z] OK   S05_en_perplexity_r2 attempt=1 3550ms text=1190ch cites=20 $0.005357
+[2026-08-14T12:55:27.507Z] PROGRESS 250/300 ok=227 failed=0 skipped=23
+[2026-08-14T12:55:27.509Z] OK   F05_en_perplexity_r5 attempt=1 5332ms text=1906ch cites=20 $0.005563
+[2026-08-14T12:55:32.989Z] OK   F05_en_gemini_r1 attempt=1 22571ms text=4291ch cites=3 $0.004
+[2026-08-14T12:55:35.998Z] OK   F03_hg_perplexity_r3 attempt=1 8489ms text=1435ch cites=20 $0.005531
+[2026-08-14T12:55:37.417Z] OK   F03_en_perplexity_r1 attempt=1 4423ms text=1219ch cites=20 $0.005349
+[2026-08-14T12:55:39.895Z] OK   S03_en_gemini_r1 attempt=1 12384ms text=4899ch cites=10 $0.004
+[2026-08-14T12:55:51.189Z] OK   F05_hg_gemini_r3 attempt=1 13769ms text=2560ch cites=1 $0.004
+[2026-08-14T12:55:51.376Z] OK   F01_en_gemini_r5 attempt=1 15377ms text=5558ch cites=13 $0.004
+[2026-08-14T12:55:54.235Z] OK   S01_hg_gemini_r5 attempt=1 14339ms text=2100ch cites=1 $0.004
+[2026-08-14T12:55:54.746Z] OK   S04_en_perplexity_r2 attempt=1 3555ms text=1332ch cites=20 $0.005399
+[2026-08-14T12:56:06.928Z] OK   F05_hg_chatgpt_r1 attempt=1 15551ms text=1701ch cites=3 $0.004
+[2026-08-14T12:56:06.930Z] PROGRESS 260/300 ok=237 failed=0 skipped=23
+[2026-08-14T12:56:11.435Z] OK   F03_en_gemini_r2 attempt=1 16687ms text=6083ch cites=16 $0.004
+[2026-08-14T12:56:19.085Z] OK   S03_en_gemini_r3 attempt=1 12154ms text=2150ch cites=0 $0.004
+[2026-08-14T12:56:28.197Z] OK   F02_hg_gemini_r5 attempt=1 16761ms text=1692ch cites=0 $0.004
+[2026-08-14T12:56:30.786Z] OK   F02_en_gemini_r3 attempt=1 11696ms text=2681ch cites=2 $0.004
+[2026-08-14T12:56:46.638Z] OK   F05_hg_chatgpt_r3 attempt=1 18437ms text=2411ch cites=3 $0.004
+[2026-08-14T12:56:48.477Z] OK   F05_en_chatgpt_r2 attempt=1 17690ms text=2685ch cites=2 $0.004
+[2026-08-14T12:56:48.477Z] SKIP S01_en_chatgpt_r1 (already done)
+[2026-08-14T12:56:49.629Z] OK   F04_hg_chatgpt_r4 attempt=1 55392ms text=3139ch cites=4 $0.004
+[2026-08-14T12:57:00.977Z] OK   S01_hg_gemini_r2 attempt=1 14335ms text=7243ch cites=26 $0.004
+[2026-08-14T12:57:05.906Z] OK   F05_hg_gemini_r4 attempt=1 17428ms text=2839ch cites=0 $0.004
+[2026-08-14T12:57:05.907Z] PROGRESS 270/300 ok=246 failed=0 skipped=24
+[2026-08-14T12:57:06.017Z] OK   F04_hg_gemini_r2 attempt=1 16387ms text=2571ch cites=1 $0.004
+[2026-08-14T12:57:10.734Z] OK   F02_en_perplexity_r4 attempt=1 4714ms text=2003ch cites=18 $0.005591
+[2026-08-14T12:57:10.825Z] OK   S03_hg_perplexity_r5 attempt=1 4917ms text=1749ch cites=20 $0.005507
+[2026-08-14T12:57:15.614Z] OK   F02_hg_chatgpt_r3 attempt=1 14635ms text=1583ch cites=1 $0.004
+[2026-08-14T12:57:28.648Z] OK   S03_hg_gemini_r1 attempt=1 17822ms text=4418ch cites=9 $0.004
+[2026-08-14T12:57:32.538Z] OK   S02_en_gemini_r1 attempt=1 21800ms text=4469ch cites=11 $0.004
+[2026-08-14T12:57:34.263Z] OK   F01_hg_perplexity_r2 attempt=1 5607ms text=1201ch cites=20 $0.005445
+[2026-08-14T12:57:49.535Z] OK   S05_en_chatgpt_r3 attempt=1 33918ms text=2292ch cites=4 $0.004
+[2026-08-14T12:57:50.147Z] OK   F01_hg_gemini_r5 attempt=1 17605ms text=7269ch cites=26 $0.004
+[2026-08-14T12:57:54.845Z] OK   S01_en_gemini_r3 attempt=1 20576ms text=6920ch cites=20 $0.004
+[2026-08-14T12:57:54.845Z] PROGRESS 280/300 ok=256 failed=0 skipped=24
+[2026-08-14T12:58:05.126Z] OK   F02_hg_gemini_r3 attempt=1 15589ms text=2284ch cites=0 $0.004
+[2026-08-14T12:58:11.827Z] OK   S03_hg_gemini_r3 attempt=1 16975ms text=7115ch cites=21 $0.004
+[2026-08-14T12:58:15.717Z] OK   S04_hg_perplexity_r1 attempt=1 3887ms text=1467ch cites=20 $0.005479
+[2026-08-14T12:58:27.679Z] OK   F05_en_gemini_r4 attempt=1 22549ms text=4120ch cites=5 $0.004
+[2026-08-14T12:58:32.765Z] OK   F04_en_chatgpt_r1 attempt=1 42617ms text=2485ch cites=2 $0.004
+[2026-08-14T12:58:32.938Z] OK   S04_hg_chatgpt_r2 attempt=1 17220ms text=1826ch cites=2 $0.004
+[2026-08-14T12:58:39.245Z] OK   F01_en_perplexity_r4 attempt=1 6306ms text=1143ch cites=20 $0.005337
+[2026-08-14T12:58:40.273Z] OK   F05_hg_perplexity_r4 attempt=1 7508ms text=2278ch cites=20 $0.00577
+[2026-08-14T12:58:46.475Z] OK   F01_hg_gemini_r3 attempt=1 18794ms text=3717ch cites=5 $0.004
+[2026-08-14T12:58:55.230Z] OK   F01_hg_chatgpt_r4 attempt=1 15920ms text=1962ch cites=3 $0.004
+[2026-08-14T12:58:55.230Z] PROGRESS 290/300 ok=266 failed=0 skipped=24
+[2026-08-14T12:58:56.512Z] OK   F02_hg_chatgpt_r5 attempt=1 16236ms text=1834ch cites=2 $0.004
+[2026-08-14T12:58:58.445Z] OK   S05_hg_perplexity_r3 attempt=1 11969ms text=1439ch cites=17 $0.005508
+[2026-08-14T12:59:16.170Z] OK   F02_hg_chatgpt_r4 attempt=1 17723ms text=1590ch cites=1 $0.004
+[2026-08-14T12:59:21.687Z] OK   F04_en_chatgpt_r5 attempt=1 25174ms text=2139ch cites=3 $0.004
+[2026-08-14T12:59:32.188Z] OK   F02_en_chatgpt_r3 attempt=1 36955ms text=2034ch cites=1 $0.004
+[2026-08-14T12:59:34.626Z] OK   F05_en_gemini_r5 attempt=1 12936ms text=3357ch cites=3 $0.004
+[2026-08-14T12:59:34.805Z] OK   S04_en_gemini_r5 attempt=1 18628ms text=7493ch cites=19 $0.004
+[2026-08-14T12:59:38.487Z] OK   F01_en_perplexity_r5 attempt=1 3679ms text=1061ch cites=20 $0.005323
+[2026-08-14T12:59:41.295Z] OK   S03_hg_perplexity_r3 attempt=1 6668ms text=1877ch cites=20 $0.005577
+[2026-08-14T12:59:50.633Z] OK   S01_hg_gemini_r3 attempt=1 18443ms text=2260ch cites=2 $0.004
+[2026-08-14T12:59:50.634Z] PROGRESS 300/300 ok=276 failed=0 skipped=24
+[2026-08-14T12:59:50.634Z] RUN done: ok=276 failed=0 skipped=24
+[2026-08-14T13:00:16.337Z] RUN start: 480 cells, engines=chatgpt,gemini,perplexity, langs=en,hg, reps=8, seed=20260814, concurrency=3
+[2026-08-14T13:00:16.339Z] SKIP F03_en_gemini_r2 (already done)
+[2026-08-14T13:00:22.549Z] OK   F01_hg_perplexity_r7 attempt=1 6193ms text=1773ch cites=20 $0.005592
+[2026-08-14T13:00:33.376Z] OK   S04_hg_gemini_r8 attempt=1 17022ms text=2561ch cites=0 $0.004
+[2026-08-14T13:00:46.477Z] OK   F03_en_chatgpt_r7 attempt=1 30137ms text=2271ch cites=2 $0.004
+[2026-08-14T13:00:46.478Z] SKIP S05_en_chatgpt_r3 (already done)
+[2026-08-14T13:00:46.478Z] SKIP S05_hg_chatgpt_r4 (already done)
+[2026-08-14T13:00:46.478Z] SKIP S02_en_gemini_r2 (already done)
+[2026-08-14T13:00:46.479Z] SKIP F05_en_perplexity_r3 (already done)
+[2026-08-14T13:00:49.736Z] OK   F04_hg_chatgpt_r7 attempt=1 16358ms text=1940ch cites=1 $0.004
+[2026-08-14T13:00:49.736Z] SKIP S01_en_perplexity_r3 (already done)
+[2026-08-14T13:00:49.736Z] PROGRESS 10/480 ok=4 failed=0 skipped=6
+[2026-08-14T13:00:54.271Z] OK   S03_en_perplexity_r7 attempt=1 4533ms text=2129ch cites=20 $0.005597
+[2026-08-14T13:00:54.272Z] SKIP S04_en_perplexity_r5 (already done)
+[2026-08-14T13:00:54.273Z] SKIP F02_en_gemini_r4 (already done)
+[2026-08-14T13:00:54.273Z] SKIP S03_hg_gemini_r2 (already done)
+[2026-08-14T13:00:54.946Z] OK   S05_hg_perplexity_r6 attempt=1 8464ms text=1612ch cites=17 $0.005568
+[2026-08-14T13:00:54.948Z] SKIP F04_hg_perplexity_r3 (already done)
+[2026-08-14T13:01:00.759Z] OK   S02_hg_perplexity_r6 attempt=1 5809ms text=1638ch cites=16 $0.005545
+[2026-08-14T13:01:00.759Z] SKIP S02_hg_perplexity_r4 (already done)
+[2026-08-14T13:01:00.760Z] SKIP F03_hg_perplexity_r2 (already done)
+[2026-08-14T13:01:00.760Z] SKIP F04_hg_chatgpt_r3 (already done)
+[2026-08-14T13:01:00.760Z] PROGRESS 20/480 ok=7 failed=0 skipped=13
+[2026-08-14T13:01:00.761Z] SKIP S04_en_gemini_r4 (already done)
+[2026-08-14T13:01:00.761Z] SKIP F03_en_chatgpt_r2 (already done)
+[2026-08-14T13:01:00.761Z] SKIP F05_hg_gemini_r5 (already done)
+[2026-08-14T13:01:00.761Z] SKIP F01_en_chatgpt_r1 (already done)
+[2026-08-14T13:01:07.713Z] ERR  S04_hg_gemini_r7 attempt=1/5: empty/short answer (30 chars)
+[2026-08-14T13:01:09.754Z] OK   F03_en_chatgpt_r6 attempt=1 15480ms text=3770ch cites=4 $0.004
+[2026-08-14T13:01:09.754Z] SKIP F02_en_gemini_r5 (already done)
+[2026-08-14T13:01:09.755Z] SKIP F04_hg_gemini_r5 (already done)
+[2026-08-14T13:01:29.041Z] OK   S02_hg_chatgpt_r6 attempt=1 66490ms text=2047ch cites=3 $0.004
+[2026-08-14T13:01:29.041Z] SKIP S01_hg_gemini_r2 (already done)
+[2026-08-14T13:01:29.488Z] OK   S04_en_chatgpt_r7 attempt=1 19733ms text=2343ch cites=3 $0.004
+[2026-08-14T13:01:29.489Z] PROGRESS 30/480 ok=10 failed=0 skipped=20
+[2026-08-14T13:01:44.495Z] OK   S04_hg_gemini_r7 attempt=2 26439ms text=2094ch cites=0 $0.004
+[2026-08-14T13:01:47.125Z] OK   F04_en_gemini_r8 attempt=1 17633ms text=6322ch cites=16 $0.004
+[2026-08-14T13:01:58.228Z] OK   S03_hg_gemini_r8 attempt=1 29185ms text=4212ch cites=11 $0.004
+[2026-08-14T13:02:05.604Z] OK   F04_hg_chatgpt_r8 attempt=1 21107ms text=2257ch cites=3 $0.004
+[2026-08-14T13:02:11.947Z] OK   F03_hg_gemini_r6 attempt=1 24820ms text=3878ch cites=9 $0.004
+[2026-08-14T13:02:12.231Z] OK   F02_hg_perplexity_r6 attempt=1 6625ms text=1980ch cites=20 $0.005653
+[2026-08-14T13:02:12.231Z] SKIP F03_en_chatgpt_r4 (already done)
+[2026-08-14T13:02:12.232Z] SKIP S03_en_chatgpt_r4 (already done)
+[2026-08-14T13:02:17.459Z] OK   S04_hg_perplexity_r7 attempt=1 5226ms text=1297ch cites=20 $0.005436
+[2026-08-14T13:02:17.459Z] SKIP F03_hg_chatgpt_r3 (already done)
+[2026-08-14T13:02:17.460Z] PROGRESS 40/480 ok=17 failed=0 skipped=23
+[2026-08-14T13:02:22.130Z] OK   F04_hg_gemini_r8 attempt=1 23900ms text=2099ch cites=0 $0.004
+[2026-08-14T13:02:22.130Z] SKIP F02_en_perplexity_r2 (already done)
+[2026-08-14T13:02:22.131Z] SKIP F01_hg_perplexity_r2 (already done)
+[2026-08-14T13:02:40.895Z] OK   S04_en_gemini_r7 attempt=1 28947ms text=7781ch cites=18 $0.004
+[2026-08-14T13:02:40.896Z] SKIP F05_hg_gemini_r3 (already done)
+[2026-08-14T13:02:40.896Z] SKIP S02_hg_gemini_r2 (already done)
+[2026-08-14T13:02:42.295Z] OK   F02_en_gemini_r7 attempt=1 24834ms text=3263ch cites=2 $0.004
+[2026-08-14T13:02:42.296Z] SKIP F04_en_gemini_r2 (already done)
+[2026-08-14T13:02:42.296Z] SKIP S03_en_gemini_r2 (already done)
+[2026-08-14T13:02:42.297Z] SKIP F02_hg_chatgpt_r5 (already done)
+[2026-08-14T13:02:42.297Z] PROGRESS 50/480 ok=20 failed=0 skipped=30
+[2026-08-14T13:02:42.297Z] SKIP F04_en_chatgpt_r1 (already done)
+[2026-08-14T13:02:42.297Z] SKIP F05_hg_gemini_r2 (already done)
+[2026-08-14T13:02:42.298Z] SKIP S02_hg_perplexity_r5 (already done)
+[2026-08-14T13:02:52.851Z] OK   S03_en_perplexity_r6 attempt=1 10551ms text=1974ch cites=20 $0.005542
+[2026-08-14T13:02:52.851Z] SKIP S05_en_perplexity_r2 (already done)
+[2026-08-14T13:02:52.852Z] SKIP S02_en_chatgpt_r4 (already done)
+[2026-08-14T13:02:52.852Z] SKIP F01_hg_gemini_r4 (already done)
+[2026-08-14T13:02:52.852Z] SKIP S01_hg_chatgpt_r1 (already done)
+[2026-08-14T13:02:52.852Z] SKIP S01_hg_perplexity_r1 (already done)
+[2026-08-14T13:02:54.063Z] OK   S02_en_gemini_r6 attempt=1 31930ms text=6601ch cites=19 $0.004
+[2026-08-14T13:02:54.063Z] PROGRESS 60/480 ok=22 failed=0 skipped=38
+[2026-08-14T13:02:54.063Z] SKIP S01_en_gemini_r5 (already done)
+[2026-08-14T13:03:09.501Z] OK   F05_en_chatgpt_r8 attempt=1 16647ms text=2704ch cites=3 $0.004
+[2026-08-14T13:03:09.502Z] SKIP S04_hg_gemini_r3 (already done)
+[2026-08-14T13:03:09.502Z] SKIP S01_en_perplexity_r1 (already done)
+[2026-08-14T13:03:14.553Z] OK   S05_hg_perplexity_r7 attempt=1 5050ms text=1871ch cites=17 $0.005628
+[2026-08-14T13:03:14.555Z] SKIP F03_en_gemini_r1 (already done)
+[2026-08-14T13:03:14.555Z] SKIP S04_hg_chatgpt_r1 (already done)
+[2026-08-14T13:03:14.556Z] SKIP S01_hg_perplexity_r4 (already done)
+[2026-08-14T13:03:14.556Z] SKIP F02_hg_perplexity_r5 (already done)
+[2026-08-14T13:03:14.556Z] SKIP S05_hg_perplexity_r5 (already done)
+[2026-08-14T13:03:14.556Z] PROGRESS 70/480 ok=24 failed=0 skipped=46
+[2026-08-14T13:03:14.557Z] SKIP S03_en_gemini_r4 (already done)
+[2026-08-14T13:03:18.594Z] OK   F04_hg_perplexity_r7 attempt=1 4036ms text=1085ch cites=18 $0.00538
+[2026-08-14T13:03:18.595Z] SKIP S05_en_gemini_r4 (already done)
+[2026-08-14T13:03:18.595Z] SKIP F04_en_chatgpt_r3 (already done)
+[2026-08-14T13:03:18.595Z] SKIP F01_hg_gemini_r3 (already done)
+[2026-08-14T13:03:18.595Z] SKIP S02_en_perplexity_r2 (already done)
+[2026-08-14T13:03:18.596Z] SKIP S04_en_gemini_r2 (already done)
+[2026-08-14T13:03:18.596Z] SKIP F03_hg_chatgpt_r4 (already done)
+[2026-08-14T13:03:18.596Z] SKIP S04_en_chatgpt_r3 (already done)
+[2026-08-14T13:03:34.632Z] OK   S01_hg_chatgpt_r7 attempt=1 53735ms text=1667ch cites=1 $0.004
+[2026-08-14T13:03:34.633Z] PROGRESS 80/480 ok=26 failed=0 skipped=54
+[2026-08-14T13:03:39.740Z] OK   S02_hg_chatgpt_r8 attempt=1 21142ms text=2326ch cites=4 $0.004
+[2026-08-14T13:03:39.741Z] SKIP S01_en_chatgpt_r5 (already done)
+[2026-08-14T13:03:43.767Z] OK   S04_hg_perplexity_r6 attempt=1 4024ms text=1096ch cites=20 $0.005391
+[2026-08-14T13:03:43.767Z] SKIP F02_en_chatgpt_r4 (already done)
+[2026-08-14T13:03:43.767Z] SKIP F04_hg_chatgpt_r4 (already done)
+[2026-08-14T13:03:44.904Z] OK   S04_hg_gemini_r6 attempt=1 10269ms text=1971ch cites=0 $0.004
+[2026-08-14T13:03:47.753Z] OK   F03_en_perplexity_r6 attempt=1 2846ms text=1100ch cites=20 $0.005334
+[2026-08-14T13:03:52.545Z] OK   F05_en_perplexity_r6 attempt=1 8776ms text=2072ch cites=20 $0.005619
+[2026-08-14T13:03:52.546Z] SKIP F04_en_gemini_r5 (already done)
+[2026-08-14T13:03:52.546Z] SKIP F01_en_chatgpt_r2 (already done)
+[2026-08-14T13:03:52.546Z] PROGRESS 90/480 ok=31 failed=0 skipped=59
+[2026-08-14T13:03:52.546Z] SKIP F04_hg_gemini_r4 (already done)
+[2026-08-14T13:03:52.547Z] SKIP F01_en_gemini_r5 (already done)
+[2026-08-14T13:03:59.171Z] ERR  F02_hg_gemini_r6 attempt=1/5: empty/short answer (28 chars)
+[2026-08-14T13:04:27.381Z] OK   F02_hg_gemini_r6 attempt=2 14779ms text=1660ch cites=0 $0.004
+[2026-08-14T13:04:27.382Z] SKIP S03_hg_perplexity_r1 (already done)
+[2026-08-14T13:04:27.382Z] SKIP F04_en_perplexity_r1 (already done)
+[2026-08-14T13:04:32.873Z] OK   S01_hg_chatgpt_r8 attempt=1 98809ms text=1523ch cites=2 $0.004
+[2026-08-14T13:04:32.873Z] SKIP S04_hg_gemini_r5 (already done)
+[2026-08-14T13:04:42.666Z] OK   S01_en_perplexity_r8 attempt=1 9791ms text=1209ch cites=20 $0.005337
+[2026-08-14T13:04:42.667Z] SKIP S02_en_perplexity_r4 (already done)
+[2026-08-14T13:04:44.959Z] OK   S02_hg_chatgpt_r7 attempt=1 52410ms text=2065ch cites=3 $0.004
+[2026-08-14T13:04:44.959Z] PROGRESS 100/480 ok=35 failed=0 skipped=65
+[2026-08-14T13:04:44.959Z] SKIP S02_en_perplexity_r5 (already done)
+[2026-08-14T13:04:44.959Z] SKIP F04_hg_gemini_r3 (already done)
+[2026-08-14T13:04:44.959Z] SKIP F01_en_chatgpt_r5 (already done)
+[2026-08-14T13:04:44.960Z] SKIP F01_hg_chatgpt_r3 (already done)
+[2026-08-14T13:04:44.960Z] SKIP S03_hg_chatgpt_r3 (already done)
+[2026-08-14T13:04:44.960Z] SKIP S02_hg_perplexity_r2 (already done)
+[2026-08-14T13:04:44.960Z] SKIP S04_en_gemini_r5 (already done)
+[2026-08-14T13:04:45.178Z] OK   S02_en_chatgpt_r8 attempt=1 17795ms text=1626ch cites=2 $0.004
+[2026-08-14T13:04:45.179Z] SKIP S01_en_chatgpt_r4 (already done)
+[2026-08-14T13:04:45.179Z] SKIP F05_en_perplexity_r5 (already done)
+[2026-08-14T13:04:45.179Z] PROGRESS 110/480 ok=36 failed=0 skipped=74
+[2026-08-14T13:04:52.057Z] OK   F02_hg_perplexity_r8 attempt=1 7095ms text=1952ch cites=20 $0.005654
+[2026-08-14T13:05:01.071Z] OK   F05_hg_gemini_r8 attempt=1 18402ms text=2359ch cites=0 $0.004
+[2026-08-14T13:05:01.072Z] SKIP S03_en_gemini_r1 (already done)
+[2026-08-14T13:05:01.072Z] SKIP S01_en_chatgpt_r2 (already done)
+[2026-08-14T13:05:01.073Z] SKIP S03_en_perplexity_r3 (already done)
+[2026-08-14T13:05:02.649Z] OK   F03_hg_chatgpt_r6 attempt=1 17468ms text=2476ch cites=3 $0.004
+[2026-08-14T13:05:02.651Z] SKIP F05_en_gemini_r5 (already done)
+[2026-08-14T13:05:08.622Z] OK   F03_hg_perplexity_r7 attempt=1 5969ms text=2069ch cites=20 $0.00567
+[2026-08-14T13:05:08.622Z] SKIP F04_en_chatgpt_r4 (already done)
+[2026-08-14T13:05:34.125Z] OK   S03_hg_chatgpt_r8 attempt=1 33051ms text=2604ch cites=5 $0.004
+[2026-08-14T13:05:34.126Z] PROGRESS 120/480 ok=41 failed=0 skipped=79
+[2026-08-14T13:05:34.126Z] SKIP F01_en_perplexity_r5 (already done)
+[2026-08-14T13:05:34.127Z] SKIP S02_en_chatgpt_r5 (already done)
+[2026-08-14T13:05:44.455Z] OK   S03_hg_perplexity_r6 attempt=1 10327ms text=2060ch cites=20 $0.005616
+[2026-08-14T13:05:47.664Z] OK   F05_hg_gemini_r7 attempt=1 39040ms text=5868ch cites=17 $0.004
+[2026-08-14T13:05:51.428Z] OK   S01_en_chatgpt_r6 attempt=1 59369ms text=2055ch cites=1 $0.004
+[2026-08-14T13:05:51.428Z] SKIP S05_en_gemini_r1 (already done)
+[2026-08-14T13:05:52.697Z] OK   F05_en_perplexity_r7 attempt=1 5032ms text=2071ch cites=20 $0.005598
+[2026-08-14T13:05:52.697Z] SKIP S03_hg_chatgpt_r2 (already done)
+[2026-08-14T13:05:56.031Z] OK   S05_en_perplexity_r8 attempt=1 4601ms text=1265ch cites=20 $0.005372
+[2026-08-14T13:05:56.031Z] SKIP F01_en_perplexity_r1 (already done)
+[2026-08-14T13:05:56.031Z] PROGRESS 130/480 ok=46 failed=0 skipped=84
+[2026-08-14T13:05:56.032Z] SKIP F03_en_perplexity_r5 (already done)
+[2026-08-14T13:05:56.032Z] SKIP F04_en_gemini_r4 (already done)
+[2026-08-14T13:05:56.032Z] SKIP F05_hg_chatgpt_r5 (already done)
+[2026-08-14T13:05:56.715Z] OK   S01_en_perplexity_r6 attempt=1 4016ms text=1551ch cites=20 $0.005425
+[2026-08-14T13:06:04.561Z] OK   F01_hg_chatgpt_r8 attempt=1 20104ms text=2310ch cites=4 $0.004
+[2026-08-14T13:06:04.562Z] SKIP S04_en_perplexity_r4 (already done)
+[2026-08-14T13:06:04.562Z] SKIP S02_hg_perplexity_r1 (already done)
+[2026-08-14T13:06:04.562Z] SKIP S02_en_chatgpt_r2 (already done)
+[2026-08-14T13:06:15.179Z] ERR  S02_hg_gemini_r8 attempt=1/5: empty/short answer (24 chars)
+[2026-08-14T13:06:18.896Z] OK   S02_en_gemini_r7 attempt=1 22861ms text=4871ch cites=13 $0.004
+[2026-08-14T13:06:18.896Z] SKIP S05_en_perplexity_r5 (already done)
+[2026-08-14T13:06:18.896Z] PROGRESS 140/480 ok=49 failed=0 skipped=91
+[2026-08-14T13:06:22.760Z] OK   F02_en_perplexity_r6 attempt=1 3862ms text=1337ch cites=18 $0.005406
+[2026-08-14T13:06:22.760Z] SKIP S01_hg_chatgpt_r3 (already done)
+[2026-08-14T13:06:22.761Z] SKIP S03_hg_gemini_r1 (already done)
+[2026-08-14T13:06:43.144Z] OK   S02_hg_gemini_r8 attempt=2 14342ms text=2606ch cites=0 $0.004
+[2026-08-14T13:06:48.796Z] OK   F05_hg_chatgpt_r7 attempt=1 26034ms text=1459ch cites=1 $0.004
+[2026-08-14T13:06:48.797Z] SKIP F03_en_perplexity_r1 (already done)
+[2026-08-14T13:06:52.540Z] OK   F01_hg_chatgpt_r7 attempt=1 47975ms text=2205ch cites=2 $0.004
+[2026-08-14T13:06:52.540Z] SKIP F03_hg_perplexity_r5 (already done)
+[2026-08-14T13:07:01.369Z] OK   S03_hg_chatgpt_r7 attempt=1 18222ms text=1552ch cites=3 $0.004
+[2026-08-14T13:07:01.369Z] SKIP S05_hg_gemini_r5 (already done)
+[2026-08-14T13:07:01.370Z] PROGRESS 150/480 ok=54 failed=0 skipped=96
+[2026-08-14T13:07:09.236Z] OK   S04_en_perplexity_r8 attempt=1 7864ms text=1607ch cites=20 $0.005516
+[2026-08-14T13:07:09.237Z] SKIP S04_hg_perplexity_r4 (already done)
+[2026-08-14T13:07:09.237Z] SKIP F02_hg_chatgpt_r1 (already done)
+[2026-08-14T13:07:12.633Z] OK   S05_hg_gemini_r6 attempt=1 23835ms text=4085ch cites=15 $0.004
+[2026-08-14T13:07:12.634Z] SKIP F04_en_perplexity_r2 (already done)
+[2026-08-14T13:07:12.745Z] OK   F03_hg_gemini_r7 attempt=1 20202ms text=2154ch cites=0 $0.004
+[2026-08-14T13:07:16.372Z] OK   S01_en_perplexity_r7 attempt=1 7134ms text=1570ch cites=20 $0.00544
+[2026-08-14T13:07:16.372Z] SKIP S03_hg_gemini_r3 (already done)
+[2026-08-14T13:07:16.373Z] SKIP F03_en_chatgpt_r3 (already done)
+[2026-08-14T13:07:16.373Z] SKIP S02_hg_chatgpt_r3 (already done)
+[2026-08-14T13:07:16.373Z] PROGRESS 160/480 ok=58 failed=0 skipped=102
+[2026-08-14T13:07:16.373Z] SKIP S03_en_chatgpt_r1 (already done)
+[2026-08-14T13:07:16.374Z] SKIP F04_en_perplexity_r3 (already done)
+[2026-08-14T13:07:16.374Z] SKIP F05_hg_chatgpt_r1 (already done)
+[2026-08-14T13:07:17.745Z] OK   F01_en_perplexity_r6 attempt=1 5106ms text=975ch cites=20 $0.005311
+[2026-08-14T13:07:17.749Z] SKIP F02_hg_perplexity_r2 (already done)
+[2026-08-14T13:07:24.178Z] OK   S04_en_perplexity_r6 attempt=1 7801ms text=1278ch cites=20 $0.005394
+[2026-08-14T13:07:24.178Z] SKIP F05_en_gemini_r3 (already done)
+[2026-08-14T13:07:24.179Z] SKIP S05_hg_gemini_r3 (already done)
+[2026-08-14T13:07:24.179Z] SKIP F05_hg_gemini_r4 (already done)
+[2026-08-14T13:07:24.179Z] SKIP S01_en_perplexity_r5 (already done)
+[2026-08-14T13:07:24.179Z] PROGRESS 170/480 ok=60 failed=0 skipped=110
+[2026-08-14T13:07:24.180Z] SKIP F01_en_perplexity_r2 (already done)
+[2026-08-14T13:07:35.776Z] OK   F01_hg_gemini_r7 attempt=1 18025ms text=1845ch cites=0 $0.004
+[2026-08-14T13:07:50.833Z] OK   F01_en_chatgpt_r8 attempt=1 26650ms text=2243ch cites=3 $0.004
+[2026-08-14T13:07:52.753Z] OK   F03_en_gemini_r8 attempt=1 16974ms text=3753ch cites=8 $0.004
+[2026-08-14T13:08:00.289Z] OK   S03_en_chatgpt_r8 attempt=1 47541ms text=2519ch cites=4 $0.004
+[2026-08-14T13:08:03.458Z] OK   S01_en_gemini_r6 attempt=1 12623ms text=6339ch cites=17 $0.004
+[2026-08-14T13:08:03.458Z] SKIP F02_en_gemini_r3 (already done)
+[2026-08-14T13:08:03.458Z] SKIP F01_hg_chatgpt_r5 (already done)
+[2026-08-14T13:08:17.966Z] OK   F02_en_chatgpt_r8 attempt=1 17675ms text=1775ch cites=1 $0.004
+[2026-08-14T13:08:17.967Z] SKIP F04_en_gemini_r1 (already done)
+[2026-08-14T13:08:17.967Z] PROGRESS 180/480 ok=66 failed=0 skipped=114
+[2026-08-14T13:08:18.255Z] OK   F05_en_chatgpt_r6 attempt=1 14795ms text=2715ch cites=3 $0.004
+[2026-08-14T13:08:18.256Z] SKIP F05_en_gemini_r1 (already done)
+[2026-08-14T13:08:18.256Z] SKIP F01_en_gemini_r3 (already done)
+[2026-08-14T13:08:23.772Z] OK   S05_hg_gemini_r8 attempt=1 31017ms text=5238ch cites=19 $0.004
+[2026-08-14T13:08:24.528Z] OK   F02_hg_perplexity_r7 attempt=1 6270ms text=1997ch cites=16 $0.005668
+[2026-08-14T13:08:24.528Z] SKIP F01_en_perplexity_r3 (already done)
+[2026-08-14T13:08:28.750Z] OK   F03_en_perplexity_r7 attempt=1 4220ms text=1213ch cites=20 $0.00536
+[2026-08-14T13:08:29.832Z] OK   F03_hg_perplexity_r6 attempt=1 6058ms text=2007ch cites=20 $0.00569
+[2026-08-14T13:08:34.654Z] OK   S03_en_perplexity_r8 attempt=1 4819ms text=2050ch cites=20 $0.005579
+[2026-08-14T13:08:47.146Z] OK   F04_hg_gemini_r6 attempt=1 12489ms text=1960ch cites=0 $0.004
+[2026-08-14T13:08:47.147Z] PROGRESS 190/480 ok=73 failed=0 skipped=117
+[2026-08-14T13:08:49.866Z] OK   S01_en_chatgpt_r7 attempt=1 21113ms text=2078ch cites=1 $0.004
+[2026-08-14T13:09:08.598Z] OK   S05_en_gemini_r6 attempt=1 18731ms text=4016ch cites=7 $0.004
+[2026-08-14T13:09:13.053Z] OK   F02_hg_gemini_r7 attempt=1 25905ms text=1651ch cites=0 $0.004
+[2026-08-14T13:09:13.053Z] SKIP F04_en_chatgpt_r5 (already done)
+[2026-08-14T13:09:31.591Z] OK   S04_hg_chatgpt_r8 attempt=1 73621ms text=2002ch cites=3 $0.004
+[2026-08-14T13:09:31.592Z] SKIP F03_en_perplexity_r3 (already done)
+[2026-08-14T13:09:31.592Z] SKIP S01_hg_gemini_r3 (already done)
+[2026-08-14T13:09:31.592Z] SKIP S03_en_perplexity_r5 (already done)
+[2026-08-14T13:09:31.593Z] SKIP F03_hg_gemini_r1 (already done)
+[2026-08-14T13:09:31.593Z] SKIP S05_hg_chatgpt_r2 (already done)
+[2026-08-14T13:09:31.593Z] PROGRESS 200/480 ok=77 failed=0 skipped=123
+[2026-08-14T13:09:33.588Z] OK   F02_en_gemini_r8 attempt=1 24988ms text=3103ch cites=4 $0.004
+[2026-08-14T13:09:33.589Z] SKIP S03_en_chatgpt_r3 (already done)
+[2026-08-14T13:09:33.589Z] SKIP F05_hg_chatgpt_r3 (already done)
+[2026-08-14T13:09:46.411Z] OK   F01_en_gemini_r7 attempt=1 14815ms text=5442ch cites=13 $0.004
+[2026-08-14T13:09:46.411Z] SKIP F02_hg_gemini_r5 (already done)
+[2026-08-14T13:09:46.412Z] SKIP F03_en_gemini_r3 (already done)
+[2026-08-14T13:09:49.275Z] OK   F03_en_gemini_r7 attempt=1 15684ms text=6933ch cites=20 $0.004
+[2026-08-14T13:09:49.275Z] SKIP S04_hg_chatgpt_r2 (already done)
+[2026-08-14T13:09:49.275Z] SKIP F05_hg_chatgpt_r2 (already done)
+[2026-08-14T13:09:49.276Z] SKIP F05_en_perplexity_r1 (already done)
+[2026-08-14T13:09:49.276Z] PROGRESS 210/480 ok=80 failed=0 skipped=130
+[2026-08-14T13:09:49.276Z] SKIP S02_en_perplexity_r1 (already done)
+[2026-08-14T13:10:17.471Z] OK   F01_en_gemini_r6 attempt=1 28192ms text=2837ch cites=2 $0.004
+[2026-08-14T13:10:17.472Z] SKIP S01_en_gemini_r3 (already done)
+[2026-08-14T13:10:17.472Z] SKIP S05_hg_chatgpt_r1 (already done)
+[2026-08-14T13:10:22.555Z] OK   F04_en_chatgpt_r6 attempt=1 69500ms text=2320ch cites=2 $0.004
+[2026-08-14T13:10:23.990Z] OK   F05_hg_chatgpt_r6 attempt=1 37577ms text=2515ch cites=3 $0.004
+[2026-08-14T13:10:23.990Z] SKIP F02_hg_chatgpt_r2 (already done)
+[2026-08-14T13:10:28.641Z] OK   F01_hg_gemini_r8 attempt=1 11167ms text=2038ch cites=0 $0.004
+[2026-08-14T13:10:40.463Z] OK   F01_en_gemini_r8 attempt=1 17907ms text=2152ch cites=0 $0.004
+[2026-08-14T13:10:40.463Z] SKIP F03_en_chatgpt_r5 (already done)
+[2026-08-14T13:10:40.463Z] PROGRESS 220/480 ok=85 failed=0 skipped=135
+[2026-08-14T13:10:40.463Z] SKIP F03_hg_gemini_r3 (already done)
+[2026-08-14T13:10:40.825Z] OK   S01_hg_gemini_r7 attempt=1 12184ms text=1960ch cites=0 $0.004
+[2026-08-14T13:10:40.826Z] SKIP S05_en_perplexity_r3 (already done)
+[2026-08-14T13:10:40.826Z] SKIP S04_hg_chatgpt_r5 (already done)
+[2026-08-14T13:10:40.826Z] SKIP F05_en_chatgpt_r1 (already done)
+[2026-08-14T13:10:40.826Z] SKIP F05_en_gemini_r2 (already done)
+[2026-08-14T13:10:46.005Z] OK   S02_hg_perplexity_r7 attempt=1 5540ms text=1760ch cites=15 $0.005616
+[2026-08-14T13:10:49.151Z] OK   F03_hg_perplexity_r8 attempt=1 8323ms text=1504ch cites=20 $0.005549
+[2026-08-14T13:10:49.154Z] SKIP F02_en_chatgpt_r5 (already done)
+[2026-08-14T13:10:49.154Z] SKIP S04_en_perplexity_r1 (already done)
+[2026-08-14T13:10:49.155Z] PROGRESS 230/480 ok=88 failed=0 skipped=142
+[2026-08-14T13:10:49.155Z] SKIP F04_hg_gemini_r1 (already done)
+[2026-08-14T13:10:50.435Z] OK   F04_hg_perplexity_r6 attempt=1 4427ms text=1523ch cites=18 $0.005524
+[2026-08-14T13:10:52.121Z] OK   S01_hg_gemini_r6 attempt=1 28130ms text=6918ch cites=24 $0.004
+[2026-08-14T13:10:52.121Z] SKIP F05_hg_gemini_r1 (already done)
+[2026-08-14T13:10:56.686Z] OK   S02_hg_perplexity_r8 attempt=1 7528ms text=1817ch cites=15 $0.005583
+[2026-08-14T13:10:57.108Z] OK   F04_en_perplexity_r7 attempt=1 4985ms text=1075ch cites=19 $0.005336
+[2026-08-14T13:10:57.108Z] SKIP F04_en_chatgpt_r2 (already done)
+[2026-08-14T13:10:57.110Z] SKIP S03_en_chatgpt_r2 (already done)
+[2026-08-14T13:11:04.717Z] OK   F05_en_gemini_r7 attempt=1 14281ms text=2554ch cites=1 $0.004
+[2026-08-14T13:11:04.717Z] SKIP F04_hg_chatgpt_r2 (already done)
+[2026-08-14T13:11:04.717Z] PROGRESS 240/480 ok=93 failed=0 skipped=147
+[2026-08-14T13:11:04.717Z] SKIP S05_en_gemini_r5 (already done)
+[2026-08-14T13:11:04.718Z] SKIP F05_en_gemini_r4 (already done)
+[2026-08-14T13:11:13.954Z] OK   S05_en_gemini_r7 attempt=1 17267ms text=5735ch cites=15 $0.004
+[2026-08-14T13:11:13.955Z] SKIP F04_en_perplexity_r4 (already done)
+[2026-08-14T13:11:13.955Z] SKIP S02_hg_chatgpt_r2 (already done)
+[2026-08-14T13:11:13.956Z] SKIP S03_hg_gemini_r4 (already done)
+[2026-08-14T13:11:13.956Z] SKIP S05_hg_gemini_r4 (already done)
+[2026-08-14T13:11:13.956Z] SKIP S04_hg_chatgpt_r3 (already done)
+[2026-08-14T13:11:22.928Z] OK   F05_en_gemini_r8 attempt=1 25814ms text=3878ch cites=3 $0.004
+[2026-08-14T13:11:36.965Z] OK   F03_en_gemini_r6 attempt=1 32246ms text=5248ch cites=13 $0.004
+[2026-08-14T13:11:36.965Z] PROGRESS 250/480 ok=96 failed=0 skipped=154
+[2026-08-14T13:11:36.966Z] SKIP S03_hg_perplexity_r3 (already done)
+[2026-08-14T13:11:36.966Z] SKIP S03_en_gemini_r5 (already done)
+[2026-08-14T13:11:46.369Z] OK   F05_en_gemini_r6 attempt=1 32411ms text=3114ch cites=0 $0.004
+[2026-08-14T13:11:48.077Z] OK   S03_hg_perplexity_r8 attempt=1 11110ms text=1958ch cites=20 $0.005598
+[2026-08-14T13:11:53.688Z] OK   F01_hg_perplexity_r6 attempt=1 7314ms text=1621ch cites=20 $0.005547
+[2026-08-14T13:11:53.690Z] SKIP F03_en_gemini_r4 (already done)
+[2026-08-14T13:11:53.863Z] OK   S02_hg_gemini_r6 attempt=1 30933ms text=1543ch cites=0 $0.004
+[2026-08-14T13:11:53.864Z] SKIP S02_hg_chatgpt_r1 (already done)
+[2026-08-14T13:11:57.162Z] OK   S05_en_perplexity_r6 attempt=1 9084ms text=1668ch cites=20 $0.005469
+[2026-08-14T13:11:57.163Z] SKIP F02_en_chatgpt_r1 (already done)
+[2026-08-14T13:11:57.163Z] PROGRESS 260/480 ok=101 failed=0 skipped=159
+[2026-08-14T13:11:57.164Z] SKIP S02_en_gemini_r3 (already done)
+[2026-08-14T13:11:57.164Z] SKIP S04_en_perplexity_r3 (already done)
+[2026-08-14T13:11:57.164Z] SKIP F03_hg_perplexity_r4 (already done)
+[2026-08-14T13:11:57.164Z] SKIP F01_hg_gemini_r2 (already done)
+[2026-08-14T13:11:57.165Z] SKIP F05_en_chatgpt_r2 (already done)
+[2026-08-14T13:12:13.453Z] OK   S03_hg_gemini_r6 attempt=1 19586ms text=1980ch cites=0 $0.004
+[2026-08-14T13:12:16.253Z] OK   F01_hg_gemini_r6 attempt=1 22562ms text=6249ch cites=20 $0.004
+[2026-08-14T13:12:16.253Z] SKIP S01_hg_gemini_r5 (already done)
+[2026-08-14T13:12:16.254Z] SKIP S05_hg_perplexity_r2 (already done)
+[2026-08-14T13:12:16.254Z] SKIP S05_hg_perplexity_r3 (already done)
+[2026-08-14T13:12:16.254Z] PROGRESS 270/480 ok=103 failed=0 skipped=167
+[2026-08-14T13:12:16.254Z] SKIP S01_hg_perplexity_r3 (already done)
+[2026-08-14T13:12:20.435Z] OK   S03_en_chatgpt_r7 attempt=1 23269ms text=2658ch cites=4 $0.004
+[2026-08-14T13:12:20.435Z] SKIP F03_en_perplexity_r4 (already done)
+[2026-08-14T13:12:20.436Z] SKIP F01_hg_chatgpt_r4 (already done)
+[2026-08-14T13:12:20.436Z] SKIP F03_hg_gemini_r2 (already done)
+[2026-08-14T13:12:20.436Z] SKIP F01_hg_perplexity_r3 (already done)
+[2026-08-14T13:12:20.436Z] SKIP S01_hg_gemini_r1 (already done)
+[2026-08-14T13:12:20.436Z] SKIP F04_hg_chatgpt_r5 (already done)
+[2026-08-14T13:12:34.956Z] OK   F02_en_chatgpt_r6 attempt=1 18701ms text=1947ch cites=2 $0.004
+[2026-08-14T13:12:34.957Z] SKIP F02_en_gemini_r1 (already done)
+[2026-08-14T13:12:34.957Z] PROGRESS 280/480 ok=105 failed=0 skipped=175
+[2026-08-14T13:12:43.178Z] OK   F02_en_perplexity_r8 attempt=1 8219ms text=1636ch cites=18 $0.005466
+[2026-08-14T13:12:48.635Z] OK   S02_en_perplexity_r8 attempt=1 5455ms text=1706ch cites=16 $0.005501
+[2026-08-14T13:13:09.276Z] OK   S05_hg_chatgpt_r8 attempt=1 20640ms text=2153ch cites=3 $0.004
+[2026-08-14T13:13:09.277Z] SKIP F04_hg_perplexity_r5 (already done)
+[2026-08-14T13:13:09.277Z] SKIP S03_hg_chatgpt_r4 (already done)
+[2026-08-14T13:13:19.828Z] OK   S05_en_chatgpt_r8 attempt=1 66372ms text=1603ch cites=2 $0.004
+[2026-08-14T13:13:19.828Z] SKIP S01_en_gemini_r1 (already done)
+[2026-08-14T13:13:19.829Z] SKIP S01_hg_perplexity_r5 (already done)
+[2026-08-14T13:13:19.829Z] SKIP S02_hg_gemini_r4 (already done)
+[2026-08-14T13:13:20.898Z] OK   S02_en_chatgpt_r6 attempt=1 60461ms text=1598ch cites=2 $0.004
+[2026-08-14T13:13:20.898Z] PROGRESS 290/480 ok=110 failed=0 skipped=180
+[2026-08-14T13:13:25.447Z] OK   F05_hg_perplexity_r8 attempt=1 5617ms text=2042ch cites=20 $0.005674
+[2026-08-14T13:13:27.651Z] OK   F04_en_gemini_r7 attempt=1 18374ms text=6587ch cites=16 $0.004
+[2026-08-14T13:13:27.652Z] SKIP S05_hg_chatgpt_r5 (already done)
+[2026-08-14T13:13:27.652Z] SKIP F05_en_perplexity_r4 (already done)
+[2026-08-14T13:13:27.652Z] SKIP F01_hg_chatgpt_r1 (already done)
+[2026-08-14T13:13:39.263Z] OK   F03_hg_chatgpt_r7 attempt=1 18363ms text=2000ch cites=4 $0.004
+[2026-08-14T13:13:42.946Z] OK   F04_hg_perplexity_r8 attempt=1 3681ms text=872ch cites=18 $0.005312
+[2026-08-14T13:13:42.946Z] SKIP F04_hg_perplexity_r2 (already done)
+[2026-08-14T13:13:42.946Z] SKIP S05_hg_chatgpt_r3 (already done)
+[2026-08-14T13:13:42.946Z] SKIP F01_en_perplexity_r4 (already done)
+[2026-08-14T13:13:42.946Z] PROGRESS 300/480 ok=114 failed=0 skipped=186
+[2026-08-14T13:13:42.946Z] SKIP S04_hg_perplexity_r3 (already done)
+[2026-08-14T13:13:42.946Z] SKIP S03_en_gemini_r3 (already done)
+[2026-08-14T13:13:42.946Z] SKIP S03_hg_perplexity_r2 (already done)
+[2026-08-14T13:13:42.946Z] SKIP S04_hg_perplexity_r1 (already done)
+[2026-08-14T13:13:42.947Z] SKIP S05_en_chatgpt_r5 (already done)
+[2026-08-14T13:13:59.207Z] OK   F05_en_chatgpt_r7 attempt=1 16260ms text=2897ch cites=1 $0.004
+[2026-08-14T13:13:59.208Z] SKIP F02_hg_gemini_r3 (already done)
+[2026-08-14T13:14:10.582Z] OK   S04_en_chatgpt_r6 attempt=1 42926ms text=2347ch cites=4 $0.004
+[2026-08-14T13:14:10.583Z] SKIP F02_en_chatgpt_r2 (already done)
+[2026-08-14T13:14:10.584Z] SKIP S05_en_perplexity_r1 (already done)
+[2026-08-14T13:14:10.584Z] PROGRESS 310/480 ok=116 failed=0 skipped=194
+[2026-08-14T13:14:48.118Z] OK   F02_hg_chatgpt_r7 attempt=1 48907ms text=1500ch cites=1 $0.004
+[2026-08-14T13:14:49.446Z] OK   F05_hg_chatgpt_r8 attempt=1 83996ms text=2304ch cites=4 $0.004
+[2026-08-14T13:14:49.446Z] SKIP S03_en_perplexity_r4 (already done)
+[2026-08-14T13:14:54.527Z] OK   F02_en_gemini_r6 attempt=1 43941ms text=2549ch cites=1 $0.004
+[2026-08-14T13:15:00.247Z] OK   S01_hg_perplexity_r8 attempt=1 5717ms text=1755ch cites=20 $0.00556
+[2026-08-14T13:15:00.248Z] SKIP S02_hg_chatgpt_r5 (already done)
+[2026-08-14T13:15:03.744Z] OK   F04_en_gemini_r6 attempt=1 14296ms text=5497ch cites=13 $0.004
+[2026-08-14T13:15:15.869Z] OK   F03_hg_chatgpt_r8 attempt=1 15619ms text=2284ch cites=2 $0.004
+[2026-08-14T13:15:29.987Z] OK   F01_hg_chatgpt_r6 attempt=1 41865ms text=1901ch cites=4 $0.004
+[2026-08-14T13:15:29.988Z] SKIP F03_hg_chatgpt_r2 (already done)
+[2026-08-14T13:15:29.988Z] PROGRESS 320/480 ok=123 failed=0 skipped=197
+[2026-08-14T13:15:29.989Z] SKIP S01_en_chatgpt_r3 (already done)
+[2026-08-14T13:15:36.897Z] ERR  F04_hg_gemini_r7 attempt=1/5: empty/short answer (30 chars)
+[2026-08-14T13:15:41.496Z] OK   S05_en_gemini_r8 attempt=1 25623ms text=2416ch cites=0 $0.004
+[2026-08-14T13:16:11.139Z] OK   S05_hg_chatgpt_r6 attempt=1 67393ms text=2311ch cites=4 $0.004
+[2026-08-14T13:16:11.141Z] SKIP S04_en_chatgpt_r1 (already done)
+[2026-08-14T13:16:17.201Z] OK   F04_hg_gemini_r7 attempt=2 27415ms text=2300ch cites=0 $0.004
+[2026-08-14T13:16:17.201Z] SKIP S04_en_chatgpt_r2 (already done)
+[2026-08-14T13:16:17.201Z] SKIP S02_hg_perplexity_r3 (already done)
+[2026-08-14T13:16:17.201Z] SKIP S05_hg_perplexity_r4 (already done)
+[2026-08-14T13:16:17.274Z] OK   S03_hg_chatgpt_r6 attempt=1 35777ms text=2107ch cites=4 $0.004
+[2026-08-14T13:16:17.274Z] SKIP F04_hg_chatgpt_r1 (already done)
+[2026-08-14T13:16:17.274Z] PROGRESS 330/480 ok=127 failed=0 skipped=203
+[2026-08-14T13:16:17.275Z] SKIP S01_hg_chatgpt_r5 (already done)
+[2026-08-14T13:16:34.401Z] OK   S04_hg_chatgpt_r7 attempt=1 23255ms text=1686ch cites=3 $0.004
+[2026-08-14T13:16:42.907Z] OK   F03_hg_gemini_r8 attempt=1 25704ms text=3516ch cites=7 $0.004
+[2026-08-14T13:16:42.908Z] SKIP S02_en_gemini_r5 (already done)
+[2026-08-14T13:16:42.909Z] SKIP S01_en_perplexity_r2 (already done)
+[2026-08-14T13:16:42.909Z] SKIP S05_en_chatgpt_r4 (already done)
+[2026-08-14T13:16:42.909Z] SKIP S02_en_perplexity_r3 (already done)
+[2026-08-14T13:16:42.910Z] SKIP F02_hg_gemini_r2 (already done)
+[2026-08-14T13:16:53.532Z] OK   S03_en_gemini_r8 attempt=1 19125ms text=3117ch cites=9 $0.004
+[2026-08-14T13:17:05.665Z] OK   S03_en_gemini_r6 attempt=1 22753ms text=6302ch cites=13 $0.004
+[2026-08-14T13:17:05.666Z] PROGRESS 340/480 ok=131 failed=0 skipped=209
+[2026-08-14T13:17:05.666Z] SKIP S02_hg_gemini_r5 (already done)
+[2026-08-14T13:17:08.253Z] OK   F04_en_chatgpt_r8 attempt=1 50976ms text=2704ch cites=2 $0.004
+[2026-08-14T13:17:08.958Z] OK   F05_hg_perplexity_r7 attempt=1 15422ms text=2201ch cites=20 $0.005769
+[2026-08-14T13:17:08.958Z] SKIP F04_hg_perplexity_r4 (already done)
+[2026-08-14T13:17:14.337Z] OK   S01_hg_perplexity_r6 attempt=1 6082ms text=1753ch cites=20 $0.005565
+[2026-08-14T13:17:14.337Z] SKIP F02_hg_gemini_r1 (already done)
+[2026-08-14T13:17:14.338Z] SKIP S05_en_chatgpt_r1 (already done)
+[2026-08-14T13:17:19.252Z] OK   S05_hg_gemini_r7 attempt=1 13584ms text=4217ch cites=15 $0.004
+[2026-08-14T13:17:24.804Z] OK   F03_en_perplexity_r8 attempt=1 5550ms text=1322ch cites=20 $0.005387
+[2026-08-14T13:17:24.804Z] SKIP F05_hg_perplexity_r1 (already done)
+[2026-08-14T13:17:24.805Z] PROGRESS 350/480 ok=136 failed=0 skipped=214
+[2026-08-14T13:17:24.805Z] SKIP F01_en_chatgpt_r4 (already done)
+[2026-08-14T13:17:24.805Z] SKIP F05_en_chatgpt_r3 (already done)
+[2026-08-14T13:17:24.806Z] SKIP F05_hg_perplexity_r4 (already done)
+[2026-08-14T13:17:26.635Z] OK   F02_hg_gemini_r8 attempt=1 12294ms text=1823ch cites=1 $0.004
+[2026-08-14T13:17:38.096Z] OK   S01_en_gemini_r7 attempt=1 13287ms text=6230ch cites=15 $0.004
+[2026-08-14T13:17:38.097Z] SKIP S03_hg_chatgpt_r1 (already done)
+[2026-08-14T13:17:38.097Z] SKIP S02_en_chatgpt_r1 (already done)
+[2026-08-14T13:17:38.097Z] SKIP S02_hg_chatgpt_r4 (already done)
+[2026-08-14T13:17:38.098Z] SKIP S01_en_perplexity_r4 (already done)
+[2026-08-14T13:17:38.098Z] SKIP S03_en_chatgpt_r5 (already done)
+[2026-08-14T13:17:38.098Z] PROGRESS 360/480 ok=138 failed=0 skipped=222
+[2026-08-14T13:17:38.098Z] SKIP F01_en_gemini_r1 (already done)
+[2026-08-14T13:17:38.098Z] SKIP F03_en_chatgpt_r1 (already done)
+[2026-08-14T13:17:38.099Z] SKIP F02_en_perplexity_r5 (already done)
+[2026-08-14T13:17:44.339Z] OK   S05_en_chatgpt_r6 attempt=1 17702ms text=2087ch cites=3 $0.004
+[2026-08-14T13:17:53.454Z] OK   S03_en_gemini_r7 attempt=1 15354ms text=7299ch cites=19 $0.004
+[2026-08-14T13:17:53.455Z] SKIP F03_en_perplexity_r2 (already done)
+[2026-08-14T13:17:53.456Z] SKIP F02_en_gemini_r2 (already done)
+[2026-08-14T13:17:53.456Z] SKIP S05_hg_perplexity_r1 (already done)
+[2026-08-14T13:18:18.067Z] OK   S01_hg_chatgpt_r6 attempt=1 69108ms text=1409ch cites=1 $0.004
+[2026-08-14T13:18:18.073Z] SKIP S04_hg_gemini_r2 (already done)
+[2026-08-14T13:18:18.074Z] PROGRESS 370/480 ok=141 failed=0 skipped=229
+[2026-08-14T13:18:23.096Z] OK   S04_hg_perplexity_r8 attempt=1 5019ms text=1242ch cites=20 $0.005428
+[2026-08-14T13:18:23.097Z] SKIP S04_en_gemini_r3 (already done)
+[2026-08-14T13:18:23.104Z] SKIP S01_en_gemini_r2 (already done)
+[2026-08-14T13:18:23.105Z] SKIP F04_en_perplexity_r5 (already done)
+[2026-08-14T13:18:23.105Z] SKIP S02_hg_gemini_r3 (already done)
+[2026-08-14T13:18:40.774Z] OK   F01_en_chatgpt_r7 attempt=1 17662ms text=1358ch cites=1 $0.004
+[2026-08-14T13:18:40.774Z] SKIP F03_hg_gemini_r4 (already done)
+[2026-08-14T13:18:40.775Z] SKIP S05_en_chatgpt_r2 (already done)
+[2026-08-14T13:18:40.775Z] SKIP S04_hg_perplexity_r2 (already done)
+[2026-08-14T13:18:41.128Z] OK   F04_hg_chatgpt_r6 attempt=1 56788ms text=2184ch cites=2 $0.004
+[2026-08-14T13:18:41.128Z] PROGRESS 380/480 ok=144 failed=0 skipped=236
+[2026-08-14T13:18:41.129Z] SKIP S04_en_perplexity_r2 (already done)
+[2026-08-14T13:18:41.129Z] SKIP F01_hg_perplexity_r5 (already done)
+[2026-08-14T13:18:41.130Z] SKIP F03_en_gemini_r5 (already done)
+[2026-08-14T13:18:41.130Z] SKIP S01_hg_chatgpt_r4 (already done)
+[2026-08-14T13:18:53.248Z] OK   S02_hg_gemini_r7 attempt=1 59790ms text=4001ch cites=14 $0.004
+[2026-08-14T13:18:53.250Z] SKIP S05_en_gemini_r2 (already done)
+[2026-08-14T13:18:58.500Z] OK   S01_en_chatgpt_r8 attempt=1 17368ms text=1224ch cites=1 $0.004
+[2026-08-14T13:19:04.265Z] OK   S02_en_chatgpt_r7 attempt=1 23489ms text=1971ch cites=2 $0.004
+[2026-08-14T13:19:04.266Z] SKIP F05_hg_chatgpt_r4 (already done)
+[2026-08-14T13:19:18.004Z] OK   S03_en_chatgpt_r6 attempt=1 19503ms text=2478ch cites=5 $0.004
+[2026-08-14T13:19:18.005Z] PROGRESS 390/480 ok=148 failed=0 skipped=242
+[2026-08-14T13:19:18.005Z] SKIP F02_en_perplexity_r1 (already done)
+[2026-08-14T13:19:18.005Z] SKIP S01_hg_chatgpt_r2 (already done)
+[2026-08-14T13:19:18.005Z] SKIP S04_hg_gemini_r1 (already done)
+[2026-08-14T13:19:19.835Z] OK   F04_en_chatgpt_r7 attempt=1 26582ms text=2598ch cites=3 $0.004
+[2026-08-14T13:19:22.643Z] OK   S04_en_chatgpt_r8 attempt=1 18376ms text=2436ch cites=2 $0.004
+[2026-08-14T13:19:22.643Z] SKIP F03_hg_perplexity_r3 (already done)
+[2026-08-14T13:19:22.643Z] SKIP S05_en_perplexity_r4 (already done)
+[2026-08-14T13:19:22.643Z] SKIP S02_en_gemini_r1 (already done)
+[2026-08-14T13:19:25.098Z] OK   F01_en_perplexity_r7 attempt=1 5261ms text=1248ch cites=20 $0.005377
+[2026-08-14T13:19:25.098Z] SKIP S05_hg_gemini_r1 (already done)
+[2026-08-14T13:19:25.098Z] PROGRESS 400/480 ok=151 failed=0 skipped=249
+[2026-08-14T13:19:25.098Z] SKIP F02_hg_chatgpt_r4 (already done)
+[2026-08-14T13:19:29.815Z] OK   S04_en_perplexity_r7 attempt=1 4715ms text=1643ch cites=20 $0.005481
+[2026-08-14T13:19:29.816Z] SKIP F02_en_perplexity_r4 (already done)
+[2026-08-14T13:19:38.019Z] OK   F02_hg_chatgpt_r6 attempt=1 15374ms text=1596ch cites=1 $0.004
+[2026-08-14T13:19:38.377Z] OK   S01_en_gemini_r8 attempt=1 20371ms text=1905ch cites=0 $0.004
+[2026-08-14T13:19:43.128Z] OK   S02_en_gemini_r8 attempt=1 13309ms text=5917ch cites=17 $0.004
+[2026-08-14T13:19:43.129Z] SKIP F03_hg_gemini_r5 (already done)
+[2026-08-14T13:19:43.133Z] SKIP S04_en_gemini_r1 (already done)
+[2026-08-14T13:19:43.134Z] SKIP F05_hg_perplexity_r5 (already done)
+[2026-08-14T13:19:43.134Z] SKIP F01_en_gemini_r4 (already done)
+[2026-08-14T13:19:43.134Z] PROGRESS 410/480 ok=155 failed=0 skipped=255
+[2026-08-14T13:19:43.135Z] SKIP F04_hg_gemini_r2 (already done)
+[2026-08-14T13:19:43.135Z] SKIP F01_hg_perplexity_r4 (already done)
+[2026-08-14T13:19:43.135Z] SKIP F04_hg_perplexity_r1 (already done)
+[2026-08-14T13:19:43.136Z] SKIP S02_en_chatgpt_r3 (already done)
+[2026-08-14T13:19:43.136Z] SKIP F01_en_chatgpt_r3 (already done)
+[2026-08-14T13:19:43.864Z] OK   S05_en_perplexity_r7 attempt=1 5486ms text=1638ch cites=20 $0.005475
+[2026-08-14T13:19:43.865Z] SKIP F01_hg_gemini_r5 (already done)
+[2026-08-14T13:19:43.865Z] SKIP F03_hg_chatgpt_r1 (already done)
+[2026-08-14T13:19:47.997Z] OK   S02_en_perplexity_r7 attempt=1 4859ms text=1576ch cites=20 $0.005485
+[2026-08-14T13:19:47.997Z] SKIP S03_hg_chatgpt_r5 (already done)
+[2026-08-14T13:19:47.997Z] PROGRESS 420/480 ok=157 failed=0 skipped=263
+[2026-08-14T13:19:47.997Z] SKIP S02_hg_gemini_r1 (already done)
+[2026-08-14T13:19:53.586Z] OK   S05_hg_chatgpt_r7 attempt=1 15565ms text=1378ch cites=2 $0.004
+[2026-08-14T13:19:53.587Z] SKIP F01_en_gemini_r2 (already done)
+[2026-08-14T13:19:58.348Z] OK   S01_hg_perplexity_r7 attempt=1 4760ms text=1384ch cites=20 $0.005461
+[2026-08-14T13:19:58.349Z] SKIP S03_hg_perplexity_r4 (already done)
+[2026-08-14T13:20:03.627Z] OK   S04_en_gemini_r6 attempt=1 19760ms text=6004ch cites=12 $0.004
+[2026-08-14T13:20:03.628Z] SKIP F02_en_perplexity_r3 (already done)
+[2026-08-14T13:20:03.633Z] OK   F01_en_chatgpt_r6 attempt=1 15634ms text=1474ch cites=3 $0.004
+[2026-08-14T13:20:07.697Z] OK   S02_en_perplexity_r6 attempt=1 4067ms text=1301ch cites=19 $0.005369
+[2026-08-14T13:20:07.698Z] SKIP S05_hg_gemini_r2 (already done)
+[2026-08-14T13:20:07.698Z] PROGRESS 430/480 ok=162 failed=0 skipped=268
+[2026-08-14T13:20:11.305Z] OK   F04_en_perplexity_r6 attempt=1 3605ms text=932ch cites=19 $0.005267
+[2026-08-14T13:20:11.306Z] SKIP S03_en_perplexity_r1 (already done)
+[2026-08-14T13:20:11.306Z] SKIP F03_hg_perplexity_r1 (already done)
+[2026-08-14T13:20:16.889Z] OK   S01_hg_gemini_r8 attempt=1 18538ms text=1781ch cites=0 $0.004
+[2026-08-14T13:20:21.247Z] OK   S05_en_chatgpt_r7 attempt=1 17613ms text=2080ch cites=3 $0.004
+[2026-08-14T13:20:21.248Z] SKIP S01_hg_perplexity_r2 (already done)
+[2026-08-14T13:20:21.248Z] SKIP S04_hg_chatgpt_r4 (already done)
+[2026-08-14T13:20:21.249Z] SKIP S04_hg_gemini_r4 (already done)
+[2026-08-14T13:20:21.249Z] SKIP F05_en_chatgpt_r5 (already done)
+[2026-08-14T13:20:21.249Z] SKIP F03_hg_chatgpt_r5 (already done)
+[2026-08-14T13:20:21.249Z] PROGRESS 440/480 ok=165 failed=0 skipped=275
+[2026-08-14T13:20:21.249Z] SKIP S03_en_perplexity_r2 (already done)
+[2026-08-14T13:20:21.522Z] OK   F02_en_perplexity_r7 attempt=1 4631ms text=1580ch cites=18 $0.005461
+[2026-08-14T13:20:21.522Z] SKIP F02_hg_chatgpt_r3 (already done)
+[2026-08-14T13:20:21.523Z] SKIP S04_en_chatgpt_r4 (already done)
+[2026-08-14T13:20:21.523Z] SKIP F02_hg_perplexity_r3 (already done)
+[2026-08-14T13:20:25.843Z] OK   F05_hg_gemini_r6 attempt=1 14537ms text=2903ch cites=3 $0.004
+[2026-08-14T13:20:25.844Z] SKIP S01_en_chatgpt_r1 (already done)
+[2026-08-14T13:20:29.343Z] OK   F04_en_perplexity_r8 attempt=1 3497ms text=1083ch cites=17 $0.005299
+[2026-08-14T13:20:29.343Z] SKIP F05_en_chatgpt_r4 (already done)
+[2026-08-14T13:20:29.344Z] SKIP F02_hg_perplexity_r1 (already done)
+[2026-08-14T13:20:29.344Z] PROGRESS 450/480 ok=168 failed=0 skipped=282
+[2026-08-14T13:20:29.344Z] SKIP S04_en_chatgpt_r5 (already done)
+[2026-08-14T13:20:29.345Z] SKIP F05_hg_perplexity_r3 (already done)
+[2026-08-14T13:20:29.345Z] SKIP S02_en_gemini_r4 (already done)
+[2026-08-14T13:20:29.345Z] SKIP S03_hg_gemini_r5 (already done)
+[2026-08-14T13:20:29.345Z] SKIP S05_en_gemini_r3 (already done)
+[2026-08-14T13:20:29.345Z] SKIP F02_en_chatgpt_r3 (already done)
+[2026-08-14T13:20:32.989Z] OK   F05_hg_perplexity_r6 attempt=1 11464ms text=2433ch cites=20 $0.005853
+[2026-08-14T13:20:32.990Z] SKIP S01_en_gemini_r4 (already done)
+[2026-08-14T13:20:32.990Z] SKIP F02_hg_perplexity_r4 (already done)
+[2026-08-14T13:20:32.991Z] SKIP F05_hg_perplexity_r2 (already done)
+[2026-08-14T13:20:32.991Z] PROGRESS 460/480 ok=169 failed=0 skipped=291
+[2026-08-14T13:20:51.147Z] OK   S03_hg_gemini_r7 attempt=1 18155ms text=1906ch cites=0 $0.004
+[2026-08-14T13:20:55.581Z] OK   F01_hg_perplexity_r8 attempt=1 26232ms text=1420ch cites=20 $0.00552
+[2026-08-14T13:20:55.581Z] SKIP S04_hg_perplexity_r5 (already done)
+[2026-08-14T13:20:57.555Z] OK   F05_en_perplexity_r8 attempt=1 6406ms text=1627ch cites=20 $0.005503
+[2026-08-14T13:20:57.556Z] SKIP F01_hg_perplexity_r1 (already done)
+[2026-08-14T13:21:00.747Z] OK   F03_en_chatgpt_r8 attempt=1 39495ms text=3199ch cites=3 $0.004
+[2026-08-14T13:21:00.748Z] SKIP F01_hg_chatgpt_r2 (already done)
+[2026-08-14T13:21:00.748Z] SKIP F01_hg_gemini_r1 (already done)
+[2026-08-14T13:21:00.749Z] SKIP F02_hg_gemini_r4 (already done)
+[2026-08-14T13:21:02.737Z] OK   S03_hg_perplexity_r7 attempt=1 5179ms text=1708ch cites=20 $0.00553
+[2026-08-14T13:21:02.737Z] PROGRESS 470/480 ok=174 failed=0 skipped=296
+[2026-08-14T13:21:10.366Z] OK   S05_hg_perplexity_r8 attempt=1 9615ms text=1556ch cites=17 $0.005564
+[2026-08-14T13:21:10.367Z] SKIP F04_en_gemini_r3 (already done)
+[2026-08-14T13:21:32.396Z] OK   F02_en_chatgpt_r7 attempt=1 29656ms text=1936ch cites=2 $0.004
+[2026-08-14T13:21:38.635Z] OK   F02_hg_chatgpt_r8 attempt=1 28266ms text=1923ch cites=2 $0.004
+[2026-08-14T13:21:38.636Z] SKIP F05_en_perplexity_r2 (already done)
+[2026-08-14T13:21:38.636Z] SKIP S01_hg_gemini_r4 (already done)
+[2026-08-14T13:21:38.636Z] SKIP S03_hg_perplexity_r5 (already done)
+[2026-08-14T13:21:46.208Z] OK   S04_hg_chatgpt_r6 attempt=1 50624ms text=1524ch cites=2 $0.004
+[2026-08-14T13:21:51.398Z] OK   F01_en_perplexity_r8 attempt=1 12760ms text=964ch cites=20 $0.005299
+[2026-08-14T13:22:00.546Z] OK   S04_en_gemini_r8 attempt=1 28147ms text=5611ch cites=10 $0.004
+[2026-08-14T13:22:00.546Z] PROGRESS 480/480 ok=180 failed=0 skipped=300
+[2026-08-14T13:22:00.546Z] RUN done: ok=180 failed=0 skipped=300
+[2026-08-14T13:23:22.486Z] RUN start: 120 cells, engines=chatgpt,gemini,perplexity, langs=en,hg, reps=10, seed=20260814, concurrency=3
+[2026-08-14T13:23:22.487Z] SKIP S01_hg_perplexity_r4 (already done)
+[2026-08-14T13:23:22.487Z] SKIP F02_hg_chatgpt_r6 (already done)
+[2026-08-14T13:23:22.487Z] SKIP F02_en_gemini_r4 (already done)
+[2026-08-14T13:23:22.487Z] SKIP S01_en_gemini_r7 (already done)
+[2026-08-14T13:23:22.488Z] SKIP S01_en_chatgpt_r5 (already done)
+[2026-08-14T13:23:22.488Z] SKIP S01_hg_gemini_r1 (already done)
+[2026-08-14T13:23:22.488Z] SKIP S01_hg_gemini_r2 (already done)
+[2026-08-14T13:23:22.488Z] SKIP F02_hg_perplexity_r8 (already done)
+[2026-08-14T13:23:22.512Z] SKIP F02_hg_chatgpt_r7 (already done)
+[2026-08-14T13:23:27.194Z] OK   S01_en_perplexity_r10 attempt=1 4703ms text=1274ch cites=20 $0.005347
+[2026-08-14T13:23:27.194Z] PROGRESS 10/120 ok=1 failed=0 skipped=9
+[2026-08-14T13:23:27.195Z] SKIP S01_hg_perplexity_r6 (already done)
+[2026-08-14T13:23:27.195Z] SKIP F02_hg_gemini_r6 (already done)
+[2026-08-14T13:23:27.195Z] SKIP S01_en_perplexity_r7 (already done)
+[2026-08-14T13:23:27.195Z] SKIP S01_en_gemini_r4 (already done)
+[2026-08-14T13:23:27.195Z] SKIP F02_hg_chatgpt_r2 (already done)
+[2026-08-14T13:23:27.196Z] SKIP F02_hg_chatgpt_r8 (already done)
+[2026-08-14T13:23:27.196Z] SKIP S01_hg_gemini_r4 (already done)
+[2026-08-14T13:23:27.993Z] OK   S01_hg_perplexity_r10 attempt=1 5481ms text=1565ch cites=20 $0.005541
+[2026-08-14T13:23:27.993Z] SKIP S01_en_gemini_r1 (already done)
+[2026-08-14T13:23:27.994Z] SKIP S01_en_chatgpt_r4 (already done)
+[2026-08-14T13:23:27.994Z] PROGRESS 20/120 ok=2 failed=0 skipped=18
+[2026-08-14T13:23:27.994Z] SKIP S01_hg_perplexity_r3 (already done)
+[2026-08-14T13:23:27.994Z] SKIP S01_en_gemini_r8 (already done)
+[2026-08-14T13:23:27.994Z] SKIP F02_en_perplexity_r5 (already done)
+[2026-08-14T13:23:27.994Z] SKIP S01_hg_chatgpt_r6 (already done)
+[2026-08-14T13:23:27.994Z] SKIP F02_en_perplexity_r6 (already done)
+[2026-08-14T13:23:27.995Z] SKIP S01_en_gemini_r5 (already done)
+[2026-08-14T13:23:30.335Z] OK   S01_hg_perplexity_r9 attempt=1 3138ms text=1516ch cites=20 $0.005512
+[2026-08-14T13:23:30.335Z] SKIP S01_hg_gemini_r6 (already done)
+[2026-08-14T13:23:35.243Z] OK   F02_en_perplexity_r9 attempt=1 4903ms text=1735ch cites=18 $0.00552
+[2026-08-14T13:23:35.243Z] SKIP F02_hg_perplexity_r4 (already done)
+[2026-08-14T13:23:35.243Z] PROGRESS 30/120 ok=4 failed=0 skipped=26
+[2026-08-14T13:23:35.245Z] SKIP S01_hg_gemini_r7 (already done)
+[2026-08-14T13:23:39.439Z] OK   S01_hg_gemini_r9 attempt=1 16905ms text=7234ch cites=26 $0.004
+[2026-08-14T13:23:39.440Z] SKIP S01_en_gemini_r6 (already done)
+[2026-08-14T13:23:39.441Z] SKIP S01_en_chatgpt_r2 (already done)
+[2026-08-14T13:23:39.441Z] SKIP S01_en_perplexity_r5 (already done)
+[2026-08-14T13:23:39.441Z] SKIP S01_hg_chatgpt_r7 (already done)
+[2026-08-14T13:23:39.441Z] SKIP S01_en_perplexity_r1 (already done)
+[2026-08-14T13:23:39.442Z] SKIP S01_en_chatgpt_r6 (already done)
+[2026-08-14T13:23:39.442Z] SKIP F02_hg_perplexity_r3 (already done)
+[2026-08-14T13:23:39.442Z] SKIP S01_en_perplexity_r4 (already done)
+[2026-08-14T13:23:39.442Z] PROGRESS 40/120 ok=5 failed=0 skipped=35
+[2026-08-14T13:23:39.442Z] SKIP F02_hg_perplexity_r7 (already done)
+[2026-08-14T13:23:39.442Z] SKIP F02_hg_gemini_r1 (already done)
+[2026-08-14T13:23:46.411Z] OK   F02_en_gemini_r9 attempt=1 18416ms text=3164ch cites=1 $0.004
+[2026-08-14T13:23:46.412Z] SKIP F02_en_perplexity_r4 (already done)
+[2026-08-14T13:23:46.412Z] SKIP F02_en_gemini_r6 (already done)
+[2026-08-14T13:23:46.412Z] SKIP S01_en_perplexity_r6 (already done)
+[2026-08-14T13:23:46.412Z] SKIP S01_hg_gemini_r5 (already done)
+[2026-08-14T13:23:46.868Z] OK   F02_hg_perplexity_r9 attempt=1 7424ms text=1864ch cites=17 $0.005595
+[2026-08-14T13:23:46.868Z] SKIP S01_hg_perplexity_r1 (already done)
+[2026-08-14T13:23:46.868Z] SKIP S01_hg_chatgpt_r2 (already done)
+[2026-08-14T13:23:46.868Z] PROGRESS 50/120 ok=7 failed=0 skipped=43
+[2026-08-14T13:23:46.868Z] SKIP S01_hg_perplexity_r8 (already done)
+[2026-08-14T13:23:54.826Z] ERR  F02_hg_gemini_r9 attempt=1/5: empty/short answer (24 chars)
+[2026-08-14T13:24:02.455Z] OK   F02_hg_gemini_r10 attempt=1 15586ms text=1746ch cites=0 $0.004
+[2026-08-14T13:24:02.455Z] SKIP F02_hg_perplexity_r2 (already done)
+[2026-08-14T13:24:09.680Z] OK   F02_en_perplexity_r10 attempt=1 7224ms text=1633ch cites=18 $0.005477
+[2026-08-14T13:24:09.680Z] SKIP S01_hg_chatgpt_r4 (already done)
+[2026-08-14T13:24:18.442Z] OK   F02_hg_gemini_r9 attempt=2 13342ms text=1857ch cites=0 $0.004
+[2026-08-14T13:24:18.443Z] SKIP F02_en_gemini_r5 (already done)
+[2026-08-14T13:24:18.443Z] SKIP S01_hg_perplexity_r2 (already done)
+[2026-08-14T13:24:18.443Z] SKIP S01_en_perplexity_r3 (already done)
+[2026-08-14T13:24:24.273Z] OK   S01_en_chatgpt_r10 attempt=1 14592ms text=1661ch cites=2 $0.004
+[2026-08-14T13:24:24.273Z] PROGRESS 60/120 ok=11 failed=0 skipped=49
+[2026-08-14T13:24:24.936Z] OK   F02_hg_chatgpt_r10 attempt=1 49690ms text=1826ch cites=1 $0.004
+[2026-08-14T13:24:24.936Z] SKIP F02_en_gemini_r2 (already done)
+[2026-08-14T13:24:24.936Z] SKIP F02_hg_perplexity_r6 (already done)
+[2026-08-14T13:24:24.936Z] SKIP F02_hg_perplexity_r5 (already done)
+[2026-08-14T13:24:24.937Z] SKIP F02_en_perplexity_r3 (already done)
+[2026-08-14T13:24:24.937Z] SKIP S01_en_chatgpt_r7 (already done)
+[2026-08-14T13:24:36.827Z] OK   S01_en_gemini_r9 attempt=1 18383ms text=7409ch cites=22 $0.004
+[2026-08-14T13:24:36.827Z] SKIP S01_en_gemini_r2 (already done)
+[2026-08-14T13:24:39.414Z] OK   S01_hg_gemini_r10 attempt=1 14477ms text=1686ch cites=0 $0.004
+[2026-08-14T13:24:39.414Z] SKIP S01_hg_chatgpt_r8 (already done)
+[2026-08-14T13:24:39.414Z] PROGRESS 70/120 ok=14 failed=0 skipped=56
+[2026-08-14T13:24:43.648Z] OK   F02_en_chatgpt_r10 attempt=1 19374ms text=2474ch cites=2 $0.004
+[2026-08-14T13:24:53.406Z] OK   F02_en_gemini_r10 attempt=1 16579ms text=3618ch cites=2 $0.004
+[2026-08-14T13:24:53.407Z] SKIP F02_en_perplexity_r7 (already done)
+[2026-08-14T13:24:53.407Z] SKIP S01_hg_gemini_r8 (already done)
+[2026-08-14T13:24:53.407Z] SKIP S01_hg_perplexity_r5 (already done)
+[2026-08-14T13:24:53.407Z] SKIP F02_hg_chatgpt_r1 (already done)
+[2026-08-14T13:24:53.407Z] SKIP F02_hg_chatgpt_r3 (already done)
+[2026-08-14T13:24:53.408Z] SKIP F02_hg_gemini_r8 (already done)
+[2026-08-14T13:24:53.408Z] SKIP F02_en_perplexity_r1 (already done)
+[2026-08-14T13:24:53.408Z] SKIP F02_en_chatgpt_r8 (already done)
+[2026-08-14T13:24:53.408Z] PROGRESS 80/120 ok=16 failed=0 skipped=64
+[2026-08-14T13:24:53.408Z] SKIP S01_en_perplexity_r2 (already done)
+[2026-08-14T13:24:54.707Z] OK   F02_en_chatgpt_r9 attempt=1 15292ms text=1909ch cites=1 $0.004
+[2026-08-14T13:24:54.707Z] SKIP F02_en_chatgpt_r1 (already done)
+[2026-08-14T13:24:59.655Z] OK   F02_hg_perplexity_r10 attempt=1 6246ms text=1848ch cites=16 $0.005605
+[2026-08-14T13:24:59.655Z] SKIP F02_hg_gemini_r7 (already done)
+[2026-08-14T13:24:59.655Z] SKIP S01_en_chatgpt_r8 (already done)
+[2026-08-14T13:24:59.655Z] SKIP S01_en_chatgpt_r1 (already done)
+[2026-08-14T13:24:59.655Z] SKIP F02_en_perplexity_r2 (already done)
+[2026-08-14T13:24:59.655Z] SKIP F02_hg_gemini_r2 (already done)
+[2026-08-14T13:24:59.655Z] SKIP F02_hg_chatgpt_r4 (already done)
+[2026-08-14T13:24:59.655Z] PROGRESS 90/120 ok=18 failed=0 skipped=72
+[2026-08-14T13:24:59.655Z] SKIP F02_hg_gemini_r4 (already done)
+[2026-08-14T13:24:59.655Z] SKIP F02_en_chatgpt_r7 (already done)
+[2026-08-14T13:24:59.655Z] SKIP S01_en_gemini_r3 (already done)
+[2026-08-14T13:24:59.655Z] SKIP S01_en_perplexity_r8 (already done)
+[2026-08-14T13:24:59.655Z] SKIP F02_hg_gemini_r5 (already done)
+[2026-08-14T13:24:59.935Z] OK   S01_en_perplexity_r9 attempt=1 5227ms text=1350ch cites=20 $0.005394
+[2026-08-14T13:24:59.935Z] SKIP F02_en_chatgpt_r3 (already done)
+[2026-08-14T13:24:59.935Z] SKIP S01_en_chatgpt_r3 (already done)
+[2026-08-14T13:24:59.935Z] SKIP F02_en_gemini_r3 (already done)
+[2026-08-14T13:24:59.935Z] SKIP F02_en_perplexity_r8 (already done)
+[2026-08-14T13:24:59.935Z] PROGRESS 100/120 ok=19 failed=0 skipped=81
+[2026-08-14T13:24:59.935Z] SKIP S01_hg_chatgpt_r1 (already done)
+[2026-08-14T13:24:59.935Z] SKIP F02_hg_gemini_r3 (already done)
+[2026-08-14T13:24:59.935Z] SKIP S01_hg_gemini_r3 (already done)
+[2026-08-14T13:25:04.735Z] OK   S01_en_gemini_r10 attempt=1 21086ms text=2762ch cites=3 $0.004
+[2026-08-14T13:25:04.735Z] SKIP F02_en_chatgpt_r5 (already done)
+[2026-08-14T13:25:04.735Z] SKIP S01_hg_chatgpt_r3 (already done)
+[2026-08-14T13:25:04.735Z] SKIP F02_en_chatgpt_r2 (already done)
+[2026-08-14T13:25:04.736Z] SKIP F02_en_chatgpt_r4 (already done)
+[2026-08-14T13:25:04.736Z] SKIP F02_en_gemini_r7 (already done)
+[2026-08-14T13:25:04.736Z] SKIP S01_hg_perplexity_r7 (already done)
+[2026-08-14T13:25:04.736Z] PROGRESS 110/120 ok=20 failed=0 skipped=90
+[2026-08-14T13:25:04.736Z] SKIP F02_en_gemini_r1 (already done)
+[2026-08-14T13:25:04.736Z] SKIP F02_hg_chatgpt_r5 (already done)
+[2026-08-14T13:25:04.736Z] SKIP F02_en_gemini_r8 (already done)
+[2026-08-14T13:25:17.115Z] OK   F02_hg_chatgpt_r9 attempt=1 17459ms text=1643ch cites=1 $0.004
+[2026-08-14T13:25:17.116Z] SKIP F02_hg_perplexity_r1 (already done)
+[2026-08-14T13:25:22.443Z] OK   S01_hg_chatgpt_r9 attempt=1 17706ms text=1801ch cites=2 $0.004
+[2026-08-14T13:25:22.444Z] SKIP S01_hg_chatgpt_r5 (already done)
+[2026-08-14T13:25:22.444Z] SKIP F02_en_chatgpt_r6 (already done)
+[2026-08-14T13:25:29.949Z] OK   S01_en_chatgpt_r9 attempt=1 12832ms text=1789ch cites=3 $0.004
+[2026-08-14T13:25:47.886Z] OK   S01_hg_chatgpt_r10 attempt=1 47949ms text=2165ch cites=3 $0.004
+[2026-08-14T13:25:47.886Z] PROGRESS 120/120 ok=24 failed=0 skipped=96
+[2026-08-14T13:25:47.886Z] RUN done: ok=24 failed=0 skipped=96

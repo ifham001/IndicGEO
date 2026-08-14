@@ -1,0 +1,424 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 2,
+  "promptText": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+  "cellId": "S02_hg_chatgpt_r2",
+  "startedAt": "2026-08-14T12:54:29.105Z",
+  "finishedAt": "2026-08-14T12:55:18.609Z",
+  "durationMs": 49504,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Haan 👍 Indian skin tone par **white cast avoid karne ke liye chemical/modern hybrid sunscreen** generally better rehta hai. Current options dekhkar meri top picks:\n\n### [Minimalist Light Fluid Face Sunscreen SPF 50]()\n*₹315*\n\n### [Re'equil Ultra Matte Dry Touch Sunscreen SPF 50 PA++++]()\n*₹310.50*\n\n### [The Derma Co 1% Hyaluronic Sunscreen Aqua Gel SPF 50 PA++++]()\n*₹239*\n\n### [Fixderma Shadow SPF 50+ Gel Sunscreen]()\n*₹512*\n\n### 🏆 Meri recommendation\n**1. Minimalist SPF 50 PA++++ — best overall**  \nLightweight, moisturiser-jaisa texture, natural/non-shiny finish aur brand ke according white-cast free. Independent testing mein SPF 56.6 report hua hai. [beminimalist.co](https://beminimalist.co/collections/skin-body-1/products/multi-vitamin-spf-50?utm_source=chatgpt.com)\n\n**2. Re'equil Ultra Matte — oily skin ke liye best**  \nAgar face oily/sweaty rehta hai, iska matte, dry-touch finish better rahega. Indian-skin sunscreen roundups mein bhi ise no/minimal-white-cast option ke roop mein recommend kiya gaya hai. [www.femina.in](https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com)[www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html?utm_source=chatgpt.com)\n\n**3. The Derma Co 1% Hyaluronic Aqua Gel — lightweight/budget pick**  \nGel texture, SPF 50 PA++++ aur no-white-cast claim; especially normal-to-oily skin ke liye achha option. [www.femina.in](https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com)[www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html?utm_source=chatgpt.com)\n\n**4. Fixderma Shadow Gel — comfortable daily option**  \nGel texture aur deeper Indian skin tones par blend hone ke liye commonly recommended. [www.femina.in](https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com)\n\n**Agar mujhe ek hi choose karna ho:** 👉 **Minimalist SPF 50 PA++++**.\n\nAap mujhe bas bata do **aapki skin oily, dry, combination ya acne-prone hai**, aur budget (₹300/₹500/₹1000), main **sirf 2 best options** select karke bata dunga.",
+  "citations": [
+   {
+    "url": "https://beminimalist.co/collections/skin-body-1/products/multi-vitamin-spf-50?utm_source=chatgpt.com",
+    "source_name": "Minimalist",
+    "position": 1
+   },
+   {
+    "url": "https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com",
+    "source_name": "Femina",
+    "position": 2
+   },
+   {
+    "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html?utm_source=chatgpt.com",
+    "source_name": "Hindustan Times",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "49.1768 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141254-2163-0629-0000-11e6e26ebaf9",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "49.1599 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Mujhe%20aisa%20sunscreen%20kharidna%20hai%20jo%20Indian%20skin%20par%20white%20cast%20na%20chhode.%20Konsa%20best%20hai%3F&hints=search",
+      "datetime": "2026-08-14 12:55:17 +00:00",
+      "markdown": "Haan 👍 Indian skin tone par **white cast avoid karne ke liye chemical/modern hybrid sunscreen** generally better rehta hai. Current options dekhkar meri top picks:\n\n### [Minimalist Light Fluid Face Sunscreen SPF 50]()\n*₹315*\n\n### [Re'equil Ultra Matte Dry Touch Sunscreen SPF 50 PA++++]()\n*₹310.50*\n\n### [The Derma Co 1% Hyaluronic Sunscreen Aqua Gel SPF 50 PA++++]()\n*₹239*\n\n### [Fixderma Shadow SPF 50+ Gel Sunscreen]()\n*₹512*\n\n### 🏆 Meri recommendation\n**1. Minimalist SPF 50 PA++++ — best overall**  \nLightweight, moisturiser-jaisa texture, natural/non-shiny finish aur brand ke according white-cast free. Independent testing mein SPF 56.6 report hua hai. [beminimalist.co](https://beminimalist.co/collections/skin-body-1/products/multi-vitamin-spf-50?utm_source=chatgpt.com)\n\n**2. Re'equil Ultra Matte — oily skin ke liye best**  \nAgar face oily/sweaty rehta hai, iska matte, dry-touch finish better rahega. Indian-skin sunscreen roundups mein bhi ise no/minimal-white-cast option ke roop mein recommend kiya gaya hai. [www.femina.in](https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com)[www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html?utm_source=chatgpt.com)\n\n**3. The Derma Co 1% Hyaluronic Aqua Gel — lightweight/budget pick**  \nGel texture, SPF 50 PA++++ aur no-white-cast claim; especially normal-to-oily skin ke liye achha option. [www.femina.in](https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com)[www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html?utm_source=chatgpt.com)\n\n**4. Fixderma Shadow Gel — comfortable daily option**  \nGel texture aur deeper Indian skin tones par blend hone ke liye commonly recommended. [www.femina.in](https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com)\n\n**Agar mujhe ek hi choose karna ho:** 👉 **Minimalist SPF 50 PA++++**.\n\nAap mujhe bas bata do **aapki skin oily, dry, combination ya acne-prone hai**, aur budget (₹300/₹500/₹1000), main **sirf 2 best options** select karke bata dunga.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.nykaa.com/beauty-blog/dermatologist-recommended-sunscreens-india-2026?utm_source=chatgpt.com",
+        "domain": "www.nykaa.com",
+        "title": "Dermatologist-Recommended Sunscreens: The Clinical Guide to Indian Skin (2026) | Nykaa's Beauty Book",
+        "description": "Dermatologist-Recommended Sunscreens: The Clinical Guide to Indian Skin (2026)  by Gauravee Pathak  18.1K views | 0 shares  May 05, 2026  While trendy packaging is tempting, skin experts look for thr...",
+        "breadcrumb": "nykaa.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://glowdekho.com/blog-best-sunscreen-no-white-cast.html?utm_source=chatgpt.com",
+        "domain": "glowdekho.com",
+        "title": "Best Sunscreen for Indian Skin — No White Cast Under ₹500 (2026) | GlowDekho",
+        "description": "BEST SUNSCREEN FOR INDIAN SKIN — No White Cast, Under ₹500  📅 April 2026⏱ 6 min read🎯 Tested for Indian skin tones  The white cast problem is real — but it's also completely solved. Old-generation mi...",
+        "breadcrumb": "glowdekho.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.beautytipoffs.com/best-sunscreens-for-indian-skin/?utm_source=chatgpt.com",
+        "domain": "www.beautytipoffs.com",
+        "title": "Best Sunscreens for Indian Skin - Beauty tipoffs",
+        "description": "Image: Best Sunscreens for Indian Skin  Skin  BEST SUNSCREENS FOR INDIAN SKIN  by Authorupdated on July 10, 2026May 16, 2025Leave a Comment  🟦 BEST SUNSCREENS FOR INDIAN SKIN IN 2026 — MEGA GUIDE  If...",
+        "breadcrumb": "beautytipoffs.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.drsheths.com/blogs/skin-care/sunscreens-that-dont-leave-a-white-cast-for-indian-skin?utm_source=chatgpt.com",
+        "domain": "www.drsheths.com",
+        "title": "Sunscreens That Don't Leave a White Cast for Indian Skin – Dr Sheth's",
+        "description": "SUNSCREENS THAT DON'T LEAVE A WHITE CAST FOR INDIAN SKIN  by Mohammad Shakil  on Jul 28  Image: Sunscreens That Don't Leave a White Cast for Indian Skin  The sunscreens that don't leave a white cast...",
+        "breadcrumb": "drsheths.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.1mg.com/otc/minimalist-spf-50-pa-sunscreen-no-whitecast-and-contains-multi-vitamins-otc716073?utm_source=chatgpt.com",
+        "domain": "www.1mg.com",
+        "title": "Minimalist SPF 50 PA++++ Sunscreen | No Whitecast and Contains Multi Vitamins: Buy tube of 50.0 gm Cream at best price in India | 1mg",
+        "description": "MINIMALIST SPF 50 PA++++ SUNSCREEN | NO WHITECAST AND CONTAINS MULTI VITAMINS  ₹399  Get for  ₹359  Image: right chevron icon  on orders above ₹1200  Use Code 1MGNEWPLUS  Get for  ₹367   Size:  50 gm...",
+        "breadcrumb": "1mg.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ndtvshopping.com/beauty-and-grooming/best-spfs-that-wont-leave-a-white-cast-or-feel-sticky-in-humidity-11679621?utm_source=chatgpt.com",
+        "domain": "www.ndtvshopping.com",
+        "title": "Best SPFs That Will Not Leave A White Cast Or Feel Sticky In Humidity - NDTV Shopping",
+        "description": "5 BEST SPFS UNDER ₹500 THAT WON'T LEAVE A WHITE CAST OR FEEL STICKY IN HUMIDITY  LOOKING FOR A SUNSCREEN THAT FEELS WEIGHTLESS IN HUMID WEATHER? THESE SPFS OFFER BROAD-SPECTRUM PROTECTION WITHOUT LEA...",
+        "breadcrumb": "ndtvshopping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com",
+        "domain": "www.buyrn.in",
+        "title": "Best Sunscreen for Indian Skin: SPF 50 Picks | Buyrn",
+        "description": "Top Pick Minimalist SPF 50 Sunscreen  Check Price  BEST SUNSCREEN FOR INDIAN SKIN: SPF 50 PICKS  beauty· 28 Apr 2026· Updated 11 Jul 2026· 7 min read  By the Buyrn Editorial Team·Independently resear...",
+        "breadcrumb": "buyrn.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.femina.in/beauty/skin/amp-stories/5-lightweight-sunscreens-for-indias-warming-spring-weather-289632.amp?utm_source=chatgpt.com",
+        "domain": "www.femina.in",
+        "title": "5 Lightweight Sunscreens For India's Warming Spring Weather",
+        "description": "By Tushita Chauhan  5 LIGHTWEIGHT SUNSCREENS FOR INDIA'S WARMING SPRING WEATHER  Mar 20, 2026  1. CETAPHIL SPF 50+ SUNSCREEN  Sensitive skin deserves a sunscreen that does not make things worse, and t...",
+        "breadcrumb": "femina.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://drnishitaranka.com/blogs/best-sunscreen-for-indian-skin-a-dermatologists-complete-guide-2026/?utm_source=chatgpt.com",
+        "domain": "drnishitaranka.com",
+        "title": "Best Sunscreen for Indian Skin — A Dermatologist's Complete Guide (2026) - Dr. Nishita Ranka",
+        "description": "BEST SUNSCREENS FOR EACH SKIN TYPE  Based on what I recommend in my clinic daily, here are my top picks by skin type. These are all readily available in Hyderabad — at pharmacies, on Pharmeasy, 1mg, o...",
+        "breadcrumb": "drnishitaranka.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Multi-Vitamin SPF 50 - Broad spectrum SPF 50 sunscreen with PA++++ rating | Minimalist",
+        "snippet": null,
+        "domain": "beminimalist.co",
+        "url": "https://beminimalist.co/collections/skin-body-1/products/multi-vitamin-spf-50?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Minimalist",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "7 Best Sunscreens That Do Not Leave a White Cast on Indian Skin",
+        "snippet": null,
+        "domain": "www.femina.in",
+        "url": "https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Femina",
+        "publication_date": "2025-05-06 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "These 7 sunscreens without white cast work for Indian skin and summers | Fashion Trends",
+        "snippet": null,
+        "domain": "www.hindustantimes.com",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Hindustan Times",
+        "publication_date": "2026-07-10 00:00:00 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best sunscreen no white cast Indian skin SPF 50 PA++++ Minimalist Re'equil Fixderma 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Haan 👍 Indian skin tone par **white cast avoid karne ke liye chemical/modern hybrid sunscreen** generally better rehta hai. Current options dekhkar meri top picks:\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10913482140093209701",
+          "merchants": "Minimalist + others",
+          "id_to_token_map": "L3l6NHicbZPLrqPKFYaTPMF5gAw6owy2tgRVXNPaA7ABGxuwCyhMTRCmuJkCYwy-KQ9ztPsi9RmeRMqzdA_yHBnGUaa9Rkv6f_3fP1jr33_45T2v_7Wu9CQ9g9obVuJpPG-OWWKdNO5bPxzplI01_YcMRUnmRVEGnCjzqvRcvmXpmLJjWdN_8pzKQ0EBvMBxKgScKnP871WeUlZ3uVcU-TA_Zs8UwMkQ8oqiqpIiQFkWVfm3uk3L_P-yLEBJ4YAAAPc0ieBJ-TTQ83ewmSVPugohBxQgKUAQ1Kfl7xvkzZOfa19OUz7cv_-1rbsngNXn8YXVZTW-FGyq6ct56s7ZkOfdy7kvXkTuS9n_r8BPgj61Nf31U38Z36vy8zSx_Ptfri8zbbldzpYoiMxjvLOrDFRc1hpnPxKbNDLeS_Zed-8Ve8-7r8e0vxTZjz_-x7hks9mQzbZh3-M54nxYdYFJDgFDY2Zh3V_0HcZsIIby2O8qKTOU6x7jLoY2zGq-yx4ucUwWxJjGMRAgMshseyCtG1CQmXoRNMjcW_gaHvAmgyxEB7RyTHVNALtTjA8hxAVaUHFvXMd9QKfIymAK8C4Kllen2YrUrKZ9Y29RQFKHsxGFSz5kuknMLUBGLLgRvSLYXwKMwxDQkxvdBAqPgrfQpfyg3z2TrDK8BKnFp8RyxzXGMcXIpqY6uZAVO0g7d0HdfcvXiJHDvjEPURPyvol2yBAF1CIzn7s8fmgwC5GdttV2j22XWLent5-5sN85j2qFIjLFvC6Q1owDgxrB3O4xEDvK8N1pbAlhVUgXNA0hS7OAOTGwSYT1W7BwGwcTjnK3o9_pF8fiEQa3gXAq2wGKnQPj9xznm099y9Qqe9h9AO21uzO5jNcvMa8ustC4WrWto4V79yKCSEuEgKkuxv0mPZTAbxGKu-zmhgagB3bfhyr6fDsPxXdOM8XR90RJQ53f7x0CgLpiGluXnueE6z5Za3_jZeV5gYDneSCpX7PjsanzH3_6s29oaLZIfM0x_GVgvM3K7fImGfrHD5oxe9OojY3n80Ij1ajfHY18NMfUfxg6IISylV2027M9DjN9xngxziYY5t3jVs_I9eOHOX5zeMERBxFzvHES9N3jqK4u-MpcpTVMzTw9zDCVzf4mvZaO9pyPH5LEz7NpyF_9AG3eNLcl1xSAZJ5AX9EOEYotot0Fbx2pffVs8DgozWsXSw91XTWe23PRrRhHJVh7rfK4NZF9D6rHa-4sxdUutKSV2Nhn0AvpOO_yZVmenkR3OX8TIXwLXxmI3AfuNKTVAQhF73JST6FwKqe-aYtl34xOkbrkqOG0kNEutM1GCGduK_ErW_SEKp77is5ZbqJDtwWXqnL6xQPhg2Ufe2akzXBRFklwkvf5mN_lhkhgXmzhuQVlEJLNaBke4MsJyclU7Jbrsh4v3LpMAlZeLVG7TrtovIzDadLSlU2PF0sTifs6bDYmPF-zFGNwodNeLoDFPdvEaM2fwmFLVwlDO10O8XEz3SNykLxsJ5CHua_omgQVKrYcMpKl623uFDratEhE3MeZIc8qXfsvQIDodQ",
+          "title": "Minimalist Light Fluid Face Sunscreen SPF 50",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 358,
+           "rating_max": 5
+          },
+          "price": 315,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/SiYWmnicDcnxDoFAHADgJzqRUG1m6WhxK5Fl_WO5Wpf06-oO1VN5HW_D9-_3_TApuTAVJQPa9lxmKZI3mIxyIRNZ0BGtK0WwmvMC8lWz_J9peanh0NDdIaHZJ4ZwWqmv6LYhDcyuvdMccai6YZwcSBwZ_LLN9mJNFuV6gInuaNSuvKoVxMcxUPWJtTkInRk5mhG_Zu_mXjxwENhzwEE67vRzVtZJWMJwtLr27k7zH12RPls"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "LhB_as2iOrK5qtsPoc_GqA0",
+            "product_id": "7356715572057196572",
+            "catalog_id": "10913482140093209701",
+            "gpcid": "6719330282682449201",
+            "headline_offer_docid": "2073318899684377597",
+            "image_docid": "7436802422018852657",
+            "rds": "PC_6719330282682449201|PROD_PC_6719330282682449201",
+            "query": "minimalist+light+fluid+sunscreen+spf+50",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIRTWFoYXJhc2h0cmEsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "17555507136503342576",
+          "merchants": "Re'equil + others",
+          "id_to_token_map": "qwtklXicbVLJrqNGFI36C7LIIsvOIqsnS1WMJq23sM1gaIOhCqoMGwsDZsZgg7FRvub1IHWW3ZHyLd2LfEvc2SZnc6V7jo7OHf7-4ceXJP9rky33YbdC222YlLZuT5fiOHO4T-35FA9Rn8dfWA4AAfBQEAHk4KMw_Kco7MPqlObxn1DkHwAiZAUesCzH8KLwOUvCuMqbZHs8Jmf5FH3XAXE-Z1hBetg9iihxHPdHXodp8i__RZJEMJc4IIqcIEBBmIviu3N8-Qrs1Z6R5gzDiKIgclCcC2DO_W6jrbz_X-pDNyTn-1d4Tn5lxKQb8uppqPpz-FSHfZ88xef7U38aouzpMjSX6JwkzdOlPT7x4EPaPoJ8_q_ju_rRfozFCcxjFYwgifCRknvXXvuXLH0_DFXy9ZfxabXQHX2lI5eqJ39nZBGTgahWLpjyZUiVl7R6yZuXrHpJmo-nsL0eo2-vflJOo7y6jCvHa1siI4Cr6oTkeOt7ve2yKheTOUdlw6RNO5oKpB6QcpPod3ci3EEz3loFWhKy5HxPyiIYg5BFO0Sr1mN6EKxVnGglR1yT9xnedqHDhQAykVzdXVpyVI1bxBhrShBGRJq2qsmbtArMRj3jXbB2aByYIMOmQk6ESEu6JgKSqzxm0dYvDI80RPNZnSXUh5actVQzYVjHhcPMx5DyOyRnE9aQk9Qqixi42biB5yo87yrt0pwC7kBOoz8FdqxUPC6sMNJ6Ly50YCpShauWd5uWR4U14GnBm5plWXUchpPObLVKOKyRGa0tlBCLulW2c0g7xgxceUTVkya2H1m1mBhGXBmPg8SqV94GVGaBT427A9tw46krnyg308tIOBn3h5o3a2OgWjxaO6t0q-AtUuAm0LLac4Mz9XrBU1ToTYTuphhZbDtYTGxgoGAV3E5O9di_Z2EXSFlAeweTpRAxbb0hCtByY4nW1n1LA7zxiI7WBkBQAVROJ4-Sa-iZ98OajG4NBaxW6P3tcj5-BQuV7_FW6HPexPuTzB4ve4qnUfK313pydClNf_v-oCJk4AMs_zE6nco8-fbq5_0eJ9FwTmbYRfbzwqqDMWRwvKtoKIiGpeCZR2_XupCnwGgtIXNsBQ4OtKfSiEdXWqWB_uizO6sZyqXplWqXRDvoVv5My_Kg9DRnM2aAJBpMb_LEN8HmzWusLNBqvccLU8G6qzyvUke_CcryzeuFsnpexAZRwh52KBKdjnGyQX17nxIQ5A7n1l0w43MNLKdV2ulFKVwXKacbnTnf1eOb1zJ5nrNnM7EEGmiL1tFDGuI1tvtlMTGKulDPsm2yCKshQM7iO968tnT5mWfZ5yW51vc58JAwy7thoRRvU_8wnFdLfmFp99agi1k7Q14v2esc7U82m8VXwc8HmuK9b_uJj2otrYK42nZ22cyC9dKDrHiIqdgBH_bBIDW5EFvljT2BUGBvrltjT0rHRTaq2TbdZ-mO5lwir1s2m8RxVwS5GZD9sbkmZmHebnHYublb1em574YjoIeiuw_jDcF5qRrYlDv3jpZDfiyUMphtlsOhs_hZejfXpKrB_MCnTEGcZh6qUJ1KHBytOsqiAu3L9eAroVRUmTiNtwMyM74pnX8Arb73uw",
+          "title": "Re'equil Ultra Matte Dry Touch Sunscreen SPF 50 PA++++",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 410,
+           "rating_max": 5
+          },
+          "price": 310.5,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/5dcOonicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDoqsyjLxdTN1TnVO9DMPzk8zDSrLcfFNDIrMy0pMS3K2SPTIysx1DbR090oPy3L2N_QyzbOMKC9wrLRMBwAlSSnj"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "LhB_aqCROOaekPIPzsjf-Q4",
+            "product_id": "3400605167014116725",
+            "catalog_id": "17555507136503342576",
+            "gpcid": "298222776741786084",
+            "headline_offer_docid": "10788236934023679444",
+            "image_docid": "9970894077466166877",
+            "rds": "PC_298222776741786084|PROD_PC_298222776741786084",
+            "query": "re%27equil+ultra+matte+dry+touch+sunscreen+spf+50",
+            "mid": "576462400269717744",
+            "pvt": "hg",
+            "uule": "w+CAIQICIRTWFoYXJhc2h0cmEsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "11558207862570757202",
+          "merchants": "Amazon.in + others",
+          "id_to_token_map": "GiiibHicdVTJrqNWEI36C7KIsu4ssnp60h0YTFpPETbg4Rkws2GDMJfJgMEMZlC-5vUgdZadSPmW7kW-Je5EyiZKqVSLOkd1VFWq-vObb1-i7I_9uPSD5nGzVoXHbC8fOj-OWq36WDcV6cMuI79DBGnIchBwFIIsDQCN0Mcw6IKiSr7CkKYXCLALBtEsYGkWAfQpjQJSZJdIjeOoEarwK28BGIApfGdAxCLEsXjxa1YGSfQ3_htHYwQZjmMoGjAcYAFDv21I-5k6rPy7BgMBZCnmXpwGiIGI--Wgq4L_P-D7ax810-ef2_7Shk0UXR4u1cOQZl30EAZt95BdSBZcHto8u4c6fqDBQx38iJb_-j-M90kd_tPifxTelhn5RLPMPbfgMEXde2MBt3hb37qXNHnX90X0-YfhYcVvte1qq5uOVLnHXRqiFISl2BoOnQeO-JIUL9nlJS1eosuHKqhvcfjl1XdiNQirdlhpVl3bgg4MU7ppJRecIDk6OUlNEcyeQ8PQ2UkuVigd1o1TkFS_C2hQ2lmz9BzA1DAKO4jORDYuuhPltWVsQhTaxVEuOMOwl6p25oFZyOhUSCnJu61ZkN5aF67mjMypTKe9wwkekvIQE9Wzuq1ysSjDtq96Wa89wRotcYdsU8OeWXRuoZ_JJo2VMpxO-W6yoZfLm5qRrQUg0lLWzjugY7s2LspSyaBuzmRvldxNkbzJEsdOEcgkCwW2zS19OttHe6Mgb103Nq4Ly6GH0Pawi-3eWIFJhhIyUNq4Z5dWHZgTGM4WrpeOEE4eGGfdLjaeJM5hoQwB1igNFvMJSoIpWsNJEGnLVKZIUNYuLG4WIKpma8DLE5psll543j3boqI4zpjKpTQo593NnHXZWsGb5UixOe-aSOApVczvi0xLRarQ3gBUlMHZu9hABmQflsCQwEhpBZeGGdzqgBP3TiGb9hIckVeEULqts91S3yiT6nhm5MCzkZObi-ytCUXsWburDVzaxMspkBZdlNv43dg28WfAS3RnqEzG-jIvnIJrj-tRjE7-sBjDcsmuouQneD_F-4lBCFmEP4RVlWfRl1ffGyKvrza-wcuisTXFp1WibUdGXL55zYurJ57sbDFog0DrS9cuLk6grU-BVq0Py9tis1qzWLCxIIhFRgsVE-_4Yj4krhvK2pvXvm9EYd9Ej4apH554pfTuUz-VbnI9Pc4R2QpeeNgqsApEyPe2rRwX5-cUGcmmAa6gq9SZcI3U3grYeZqr3eoAtlSmEJk3j02rDae-5-4_ijyvWaoqJ4OWbm9eC_ZTO9lHslpn47nq2o0GJvXkxwh6LpIlXqr9Tc52ITDiCYv83d68VrbCE43xU3JpahPPhD-q1AYogb73KdYooplOdAWO5pgeAnbfzsphYvf91Pfizp1v0M18z-A4gucwHndmmYhwc8Xxo-Ten6HPZUfOmJqBpVIqM65HLm-tVne4dZUeZbTwnUschppzDc3n9HEcHKnEpqZq0iFYcsR4XJEiX57Bpg-Ad1Rj3xdFfji514ON9YU-TNRAD_FzE2eimuw0l9R10jcjr9VOzk7MnHT-uMXeohhmBzMYLQS4VvdOYHPbzrEe83SrErcNGsTQTDWcpuN1EoX6oN7-AnJN_I0",
+          "title": "The Derma Co 1% Hyaluronic Sunscreen Aqua Gel SPF 50 PA++++",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 4200,
+           "rating_max": 5
+          },
+          "price": 239,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/-XQ6iXicDcnbCoIwAADQL_KaRQoR3oXQGSKLXkLn8IZzuqmzj-p_-ps6r-f7aTinzFIUTNC8U44riZdEk2vGC94iGY2DwpqR0pbU1-nyP8tOKjNEWRWvqmes4L6zhziXvt5HUp4KWw30mpjL1iEhElpMIVy3tHekEAIYRNDHO8qM0LgBQXDCNGALbyNurA5aJx3frV46wRK7QBXP_ZXnIijrg-lhd577E2p-J9Y99Q"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "LxB_ar-HGOD-iLMPt_fesQo",
+            "product_id": "12151791094217500522",
+            "catalog_id": "11558207862570757202",
+            "gpcid": "11561017462025026129",
+            "headline_offer_docid": "18060343757127229738",
+            "image_docid": "9532169964506907065",
+            "rds": "PC_11561017462025026129|PROD_PC_11561017462025026129",
+            "query": "sunscreen+no+white+cast+indian+skin+spf+50+pa%2B%2B%2B%2B+india",
+            "mid": "576462893446037098",
+            "pvt": "hg",
+            "uule": "w+CAIQICIRTWFoYXJhc2h0cmEsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "13036486151709571981",
+          "merchants": "Fixderma + others",
+          "id_to_token_map": "wX55QnicbVPLrqNGEI3yBVkk-8l6dKWmeWd0F2DAgA02NDTQG6vNw9g8jbGxUb7mziRSskyi5Fsmi3xLPFmnaldVp86pUtU_X33zlh__Wt_VHb0tbor8croNYDtSIQNK8ks_dNk1HY_Z76wkiVCUBAkAIEiMAFnml5SOtO4Ox-wPhgWswEkCwzMikHmRkSXmtzKnWX1s801R5IPWpV_qAJQADyDP8eLTZZ6D8q_Hhh7y__K_C08kIwGJk0QRCl86yh-H7PIZbhc7XgKsxLOyDHmRk6EoAP7Hrb_Rdv-f--l8zYfHn8XxnuVDQ99fSpp10_tLX7znwU-H_gvd_8A-NsfsN14UOOGpVOQE8akHivzH_ja-lYdP12udf_5-er9QLM9aWH4QGV0S22UKS5A2-gVFfEUj_e1Qvx3bt7J-y9ufO9rfivTvr7_Vu0lbXKaFF_Y91nyAQnvMmw5g1rbWkbHNdRvg1r-4TNmhUwicoPb8uLSToDRCI3yQNuuCIOGfZCsXy12uW3x6ckvCqGQfkIlivEhZ0m5MPDhzwlLmwDihxVB9ZEjkjl6LAYlDmDf2lOs--4zbDq6Je3K3uO1pFtUr3JJTGNcJWpaax9a3EJRcCFxIoH9MAUFIM0pSyXeqk4RqFQh16eGaCh8zfUsr-RYACa6x3yUYowSTyY1rIwbJRExSYcQU-MHENK6b6GQzCNYU1RmL2hr4c8WjCk--4a9oYFwSRmcRJgu0rHnXKFGu4ZtzsjUMjGjfGiAIdQ43X2bLLFcjAmKV-zr25jD0J6IZalpbE2r8Y6jzgd8ay3R2bb8mSzeoXR_KNKuYIquyFQrc6zrqLUf3SXAiuhu7s8ukXNK6Dzd47rZ9osLpEURjhU8VMsCd82q5zCoXekE10pY8HEMFSUAqRzfI8mirvuk-NhEJcIgrGhLqAaNOsWrRyl1uDNWMTNxvIn8MNdX_dL8MxWegGPyINrxk7sXdRr20MA9Yp71xgRAUC8ZhT4cfmOf3iQxkGIblhJ_TrquO-d9ff4d0xV-YO6Q4OrIC_XVx8Ky7oKsf3in64lXJbKzT8WYH8h7Dl7Y4O8ttY-B46JtTY61H6RHdm9rXfGZJeiZpiGiWwDbWvv7hnYZfL4_qttpet8vBKg9KlwF1Z_aOpQeNZShGt8nA7THf7cSeLsrTPrzb7VCeXof8BQX-9lVxm-dZQlN6STwBy9kduM5520YbSNFwPYxCf1SIH55qC6gvqzFXl3JCDvOwUxBhz-aqCBZ5t87LtUdWGWMny3OCoEqPnhyP5bBX9ocP71xLe-VZ9vVAxdu2E40q0qOa48xkrdUDZJuzqal6jo6emIj35bDLkkawSKvc5cYasnnoFHqQ9WLcn52AbcJbASsAvTk_syaIkxlmBQ8nz-oVwMiDlbIccWfzzJ026mYr99I6Lc7yBBenuVeIHKd9tDs5SeEp7EO6E5ya2PHb5yMYNzpfj9dG7e4XXheUdWEK0aM-Z3A5FHG41lUhHquHO43SOQogTzK0HO5IK6uc0G5vPXUuVZjvWzeY4zmNVeTSlRDOG7QTipIYdm5fhtEwJysy5n8BpuTt9Q",
+          "title": "Fixderma Shadow SPF 50+ Gel Sunscreen",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 1700,
+           "rating_max": 5
+          },
+          "price": 512,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/h1pp-Hicu1maUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDqo0cg5LDUjyyndOMsxIKXSrKEnVLYsvDPDNdw-PdLLwCg83cgyMMPUIMKwIck4pTyrwDMlOM62MyncviQQAXAEqsQ"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "LxB_avCvA9-jvr0Pta6d0AY",
+            "product_id": "3887278680006816231",
+            "catalog_id": "13036486151709571981",
+            "gpcid": "5803853992574927605",
+            "headline_offer_docid": "10280502545757595429",
+            "image_docid": "6719180848772664869",
+            "rds": "PC_5803853992574927605|PROD_PC_5803853992574927605",
+            "query": "fixderma+shadow+spf+50",
+            "mid": "576462807467918275",
+            "pvt": "hg",
+            "uule": "w+CAIQICIRTWFoYXJhc2h0cmEsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n### 🏆 Meri recommendation\n**1. Minimalist SPF 50 PA++++ — best overall**  \nLightweight, moisturiser-jaisa texture, natural/non-shiny finish aur brand ke according white-cast free. Independent testing mein SPF 56.6 report hua hai. [beminimalist.co](https://beminimalist.co/collections/skin-body-1/products/multi-vitamin-spf-50?utm_source=chatgpt.com)\n\n**2. Re'equil Ultra Matte — oily skin ke liye best**  \nAgar face oily/sweaty rehta hai, iska matte, dry-touch finish better rahega. Indian-skin sunscreen roundups mein bhi ise no/minimal-white-cast option ke roop mein recommend kiya gaya hai. [www.femina.in](https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com)[www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html?utm_source=chatgpt.com)\n\n**3. The Derma Co 1% Hyaluronic Aqua Gel — lightweight/budget pick**  \nGel texture, SPF 50 PA++++ aur no-white-cast claim; especially normal-to-oily skin ke liye achha option. [www.femina.in](https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com)[www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html?utm_source=chatgpt.com)\n\n**4. Fixderma Shadow Gel — comfortable daily option**  \nGel texture aur deeper Indian skin tones par blend hone ke liye commonly recommended. [www.femina.in](https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com)\n\n**Agar mujhe ek hi choose karna ho:** 👉 **Minimalist SPF 50 PA++++**.\n\nAap mujhe bas bata do **aapki skin oily, dry, combination ya acne-prone hai**, aur budget (₹300/₹500/₹1000), main **sirf 2 best options** select karke bata dunga.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Multi-Vitamin SPF 50 - Broad spectrum SPF 50 sunscreen with PA++++ rating | Minimalist",
+          "snippet": null,
+          "domain": "beminimalist.co",
+          "url": "https://beminimalist.co/collections/skin-body-1/products/multi-vitamin-spf-50?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Minimalist",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "7 Best Sunscreens That Do Not Leave a White Cast on Indian Skin",
+          "snippet": null,
+          "domain": "www.femina.in",
+          "url": "https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Femina",
+          "publication_date": "2025-05-06 00:00:00 +00:00",
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "These 7 sunscreens without white cast work for Indian skin and summers | Fashion Trends",
+          "snippet": null,
+          "domain": "www.hindustantimes.com",
+          "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Hindustan Times",
+          "publication_date": "2026-07-10 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

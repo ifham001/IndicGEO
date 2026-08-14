@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 4,
+  "promptText": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+  "cellId": "F01_hg_gemini_r4",
+  "startedAt": "2026-08-14T12:45:38.449Z",
+  "finishedAt": "2026-08-14T12:45:53.764Z",
+  "durationMs": 15315,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein ₹2,000 ke budget mein men ke liye kai acche aur reliable denim brands available hain. Agar aap sales, online platforms (jaise Myntra, Ajio, Amazon), ya brand outlets par check karenge, toh aapko in brands ki jeans easily ₹1,000 se ₹2,000 ke beech mil jayengi:\n\n### Top Brands (Under ₹2,000)\n\n* **Spykar:** Yeh ek popular Indian denim brand hai jo comfortable aur stretchable fabrics ke liye jaana jaata hai. Inke slim aur tapered fits college wear ya daily use ke liye kaafi acche hote hain. Sales ke dauran inki jeans ₹1,500 ke andar mil jaati hain.\n* **Numero Uno:** Yeh ek trusted Indian heritage denim brand hai jo durable aur modern fits (slim, straight, tapered) offer karta hai. Inki quality daily wear ke liye kaafi sturdy hoti hai aur yeh ₹2,000 ke budget mein easily fit ho jaate hain.\n* **Killer:** Agar aapko thode trendy washes, distressed patterns ya party looks pasand hain, toh Killer ek acha option hai. Yeh tier-1 aur tier-2 cities mein kafi popular hain aur budget-friendly pricing ke liye jaane jaate hain.\n* **The Roadster Life Co. (Myntra Private Label):** Agar aapko modern trends jaise baggy fit, straight fit ya classic slim fit kam daam mein chahiye, toh Roadster ke options ₹800 se ₹1,500 ki range mein kafi badiya milte hain.\n* **Allen Solly / Louis Philippe Jeans (on Discount):** Jab online platforms par seasonal ya end-of-season sales (EOSS) chalti hain, toh in premium formal/smart-casual brands ki basic denim bhi ₹1,500–₹2,000 ki range mein mil sakti hai.\n* **Levi's (Entry-level / Sale):** Halanki Levi's ki regular pricing thodi high hoti hai, lekin online sales ya factory outlets par inke entry-level regular ya straight-fit models kafi baar ₹1,800–₹2,000 ke beech mil jaate hain.\n\n---\n\n### Khareedte Waqt Yeh Baatein Dhyan Rakhein:\n\n1.  **Fabric Composition:** Agar aapko pure din pehenne ke liye comfort chahiye, toh aisi jeans chuniye jisme thoda **Elastane (Spandex)** ya stretch ho taaki movement asaan ho.\n2.  **Fit Choice:** Apne body type ke hisab se fit chunein—jaise agar aapko modern look chahiye toh **Slim ya Tapered fit**, aur agar relaxed feel chahiye toh **Straight ya Regular fit** behtar rahega.\n3.  **Platform Check:** Online khareedne se pehle Myntra, Ajio, ya Amazon par chal rahe bank offers aur coupons zaroor check kar lein taaki aapko behtareen discount mil sake.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "15.1053 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141245-2163-0629-0000-874a5e4769fc",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "15.0983 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:45:53 +00:00",
+      "markdown": "India mein ₹2,000 ke budget mein men ke liye kai acche aur reliable denim brands available hain. Agar aap sales, online platforms (jaise Myntra, Ajio, Amazon), ya brand outlets par check karenge, toh aapko in brands ki jeans easily ₹1,000 se ₹2,000 ke beech mil jayengi:\n\n### Top Brands (Under ₹2,000)\n\n* **Spykar:** Yeh ek popular Indian denim brand hai jo comfortable aur stretchable fabrics ke liye jaana jaata hai. Inke slim aur tapered fits college wear ya daily use ke liye kaafi acche hote hain. Sales ke dauran inki jeans ₹1,500 ke andar mil jaati hain.\n* **Numero Uno:** Yeh ek trusted Indian heritage denim brand hai jo durable aur modern fits (slim, straight, tapered) offer karta hai. Inki quality daily wear ke liye kaafi sturdy hoti hai aur yeh ₹2,000 ke budget mein easily fit ho jaate hain.\n* **Killer:** Agar aapko thode trendy washes, distressed patterns ya party looks pasand hain, toh Killer ek acha option hai. Yeh tier-1 aur tier-2 cities mein kafi popular hain aur budget-friendly pricing ke liye jaane jaate hain.\n* **The Roadster Life Co. (Myntra Private Label):** Agar aapko modern trends jaise baggy fit, straight fit ya classic slim fit kam daam mein chahiye, toh Roadster ke options ₹800 se ₹1,500 ki range mein kafi badiya milte hain.\n* **Allen Solly / Louis Philippe Jeans (on Discount):** Jab online platforms par seasonal ya end-of-season sales (EOSS) chalti hain, toh in premium formal/smart-casual brands ki basic denim bhi ₹1,500–₹2,000 ki range mein mil sakti hai.\n* **Levi's (Entry-level / Sale):** Halanki Levi's ki regular pricing thodi high hoti hai, lekin online sales ya factory outlets par inke entry-level regular ya straight-fit models kafi baar ₹1,800–₹2,000 ke beech mil jaate hain.\n\n---\n\n### Khareedte Waqt Yeh Baatein Dhyan Rakhein:\n\n1.  **Fabric Composition:** Agar aapko pure din pehenne ke liye comfort chahiye, toh aisi jeans chuniye jisme thoda **Elastane (Spandex)** ya stretch ho taaki movement asaan ho.\n2.  **Fit Choice:** Apne body type ke hisab se fit chunein—jaise agar aapko modern look chahiye toh **Slim ya Tapered fit**, aur agar relaxed feel chahiye toh **Straight ya Regular fit** behtar rahega.\n3.  **Platform Check:** Online khareedne se pehle Myntra, Ajio, ya Amazon par chal rahe bank offers aur coupons zaroor check kar lein taaki aapko behtareen discount mil sake.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 5,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein ₹2,000 ke budget mein men ke liye kai acche aur reliable denim brands available hain. Agar aap sales, online platforms (jaise Myntra, Ajio, Amazon), ya brand outlets par check karenge, toh aapko in brands ki jeans easily ₹1,000 se ₹2,000 ke beech mil jayengi:",
+        "original_text": "India mein ₹2,000 ke budget mein men ke liye kai acche aur reliable denim brands available hain. Agar aap sales, online platforms (jaise Myntra, Ajio, Amazon), ya brand outlets par check karenge, toh aapko in brands ki jeans easily ₹1,000 se ₹2,000 ke beech mil jayengi:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### Top Brands (Under ₹2,000)",
+        "original_text": "Top Brands (Under ₹2,000)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Spykar:** Yeh ek popular Indian denim brand hai jo comfortable aur stretchable fabrics ke liye jaana jaata hai. Inke slim aur tapered fits college wear ya daily use ke liye kaafi acche hote hain. Sales ke dauran inki jeans ₹1,500 ke andar mil jaati hain.\n* **Numero Uno:** Yeh ek trusted Indian heritage denim brand hai jo durable aur modern fits (slim, straight, tapered) offer karta hai. Inki quality daily wear ke liye kaafi sturdy hoti hai aur yeh ₹2,000 ke budget mein easily fit ho jaate hain.\n* **Killer:** Agar aapko thode trendy washes, distressed patterns ya party looks pasand hain, toh Killer ek acha option hai. Yeh tier-1 aur tier-2 cities mein kafi popular hain aur budget-friendly pricing ke liye jaane jaate hain.\n* **The Roadster Life Co. (Myntra Private Label):** Agar aapko modern trends jaise baggy fit, straight fit ya classic slim fit kam daam mein chahiye, toh Roadster ke options ₹800 se ₹1,500 ki range mein kafi badiya milte hain.\n* **Allen Solly / Louis Philippe Jeans (on Discount):** Jab online platforms par seasonal ya end-of-season sales (EOSS) chalti hain, toh in premium formal/smart-casual brands ki basic denim bhi ₹1,500–₹2,000 ki range mein mil sakti hai.\n* **Levi's (Entry-level / Sale):** Halanki Levi's ki regular pricing thodi high hoti hai, lekin online sales ya factory outlets par inke entry-level regular ya straight-fit models kafi baar ₹1,800–₹2,000 ke beech mil jaate hain.",
+        "original_text": "Spykar: Yeh ek popular Indian denim brand hai jo comfortable aur stretchable fabrics ke liye jaana jaata hai. Inke slim aur tapered fits college wear ya daily use ke liye kaafi acche hote hain. Sales ke dauran inki jeans ₹1,500 ke andar mil jaati hain.\nNumero Uno: Yeh ek trusted Indian heritage denim brand hai jo durable aur modern fits (slim, straight, tapered) offer karta hai. Inki quality daily wear ke liye kaafi sturdy hoti hai aur yeh ₹2,000 ke budget mein easily fit ho jaate hain.\nKiller: Agar aapko thode trendy washes, distressed patterns ya party looks pasand hain, toh Killer ek acha option hai. Yeh tier-1 aur tier-2 cities mein kafi popular hain aur budget-friendly pricing ke liye jaane jaate hain.\nThe Roadster Life Co. (Myntra Private Label): Agar aapko modern trends jaise baggy fit, straight fit ya classic slim fit kam daam mein chahiye, toh Roadster ke options ₹800 se ₹1,500 ki range mein kafi badiya milte hain.\nAllen Solly / Louis Philippe Jeans (on Discount): Jab online platforms par seasonal ya end-of-season sales (EOSS) chalti hain, toh in premium formal/smart-casual brands ki basic denim bhi ₹1,500–₹2,000 ki range mein mil sakti hai.\nLevi's (Entry-level / Sale): Halanki Levi's ki regular pricing thodi high hoti hai, lekin online sales ya factory outlets par inke entry-level regular ya straight-fit models kafi baar ₹1,800–₹2,000 ke beech mil jaate hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### Khareedte Waqt Yeh Baatein Dhyan Rakhein:",
+        "original_text": "Khareedte Waqt Yeh Baatein Dhyan Rakhein:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "1.  **Fabric Composition:** Agar aapko pure din pehenne ke liye comfort chahiye, toh aisi jeans chuniye jisme thoda **Elastane (Spandex)** ya stretch ho taaki movement asaan ho.\n2.  **Fit Choice:** Apne body type ke hisab se fit chunein—jaise agar aapko modern look chahiye toh **Slim ya Tapered fit**, aur agar relaxed feel chahiye toh **Straight ya Regular fit** behtar rahega.\n3.  **Platform Check:** Online khareedne se pehle Myntra, Ajio, ya Amazon par chal rahe bank offers aur coupons zaroor check kar lein taaki aapko behtareen discount mil sake.",
+        "original_text": "Fabric Composition: Agar aapko pure din pehenne ke liye comfort chahiye, toh aisi jeans chuniye jisme thoda Elastane (Spandex) ya stretch ho taaki movement asaan ho.\nFit Choice: Apne body type ke hisab se fit chunein—jaise agar aapko modern look chahiye toh Slim ya Tapered fit, aur agar relaxed feel chahiye toh Straight ya Regular fit behtar rahega.\nPlatform Check: Online khareedne se pehle Myntra, Ajio, ya Amazon par chal rahe bank offers aur coupons zaroor check kar lein taaki aapko behtareen discount mil sake.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

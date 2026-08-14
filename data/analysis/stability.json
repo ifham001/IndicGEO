@@ -1,0 +1,35 @@
+{
+ "prompts": [
+  "S01",
+  "F02"
+ ],
+ "engines": {
+  "chatgpt": {
+   "freshWithinLang": 0.4797619047619047,
+   "freshCrossLang": 0.4380952380952381,
+   "directionHolds": true,
+   "freshVsPrimarySameLang": 0.45113467261904755,
+   "primaryWithinLang": 0.49537627551020413,
+   "driftRatio": 0.910690912992168,
+   "nFresh": 8
+  },
+  "gemini": {
+   "freshWithinLang": 0.6507936507936507,
+   "freshCrossLang": 0.6108766233766234,
+   "directionHolds": true,
+   "freshVsPrimarySameLang": 0.5305741567460318,
+   "primaryWithinLang": 0.5033056972789114,
+   "driftRatio": 1.0541787220262864,
+   "nFresh": 8
+  },
+  "perplexity": {
+   "freshWithinLang": 0.8333333333333333,
+   "freshCrossLang": 0.6678571428571428,
+   "directionHolds": true,
+   "freshVsPrimarySameLang": 0.8101190476190476,
+   "primaryWithinLang": 0.7811224489795915,
+   "driftRatio": 1.037121706945352,
+   "nFresh": 8
+  }
+ }
+}

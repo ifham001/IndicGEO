@@ -1,0 +1,306 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F03",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "perplexity",
+  "rep": 2,
+  "promptText": "India mein women ke liye online konse brand ke kurta sets kharidun?",
+  "cellId": "F03_hg_perplexity_r2",
+  "startedAt": "2026-08-14T12:38:34.658Z",
+  "finishedAt": "2026-08-14T12:38:39.150Z",
+  "durationMs": 4492,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein women ke liye **kurta sets** kharidne ke liye aap in brands ko shortlist kar sakte ho: **Libas, Biba, W for Woman, Aurelia, Janasya, Aachho, Jaipur Kurti, Lakshita, Varanga,** aur **House of Indya/Indya**.[1][2][6][7][9][10][11][14][19]\n\nAgar aap choice ko style aur budget ke hisaab se narrow karna chahte ho, to ye useful hai:\n\n| Brand | Best for | Notes |\n|---|---|---|\n| **Libas** | Everyday se festive tak | Straight cotton, A-line, Anarkali, woven aur embroidered sets milte hain.[1][15][17] |\n| **Biba** | Trendy ethnic wear | Brand site par kurta sets ka dedicated collection hai.[6] |\n| **W for Woman** | 2 & 3 pc sets | Vibrant kurta sets collection list ki gayi hai.[2] |\n| **Aurelia** | Versatile wardrobe staples | Kurta sets collection available hai.[9] |\n| **Janasya** | Wide size range | Regular sizes se plus-size, XS to 6XL tak mention hai.[11] |\n| **Aachho** | Festive / stylish prints | Traditional aur contemporary dono styles milte hain.[10] |\n| **Jaipur Kurti** | Affordable dailywear + party wear | Simple aur party-wear dono options milte hain.[14] |\n| **Lakshita** | Mid-range stylish sets | Georgette, rayon, viscose co-ord/kurta sets listed hain.[7] |\n\nAgar aap **budget-friendly** option chahte ho, to **Aachho, Anayna, Janasya, Jaipur Kurti,** aur **Meesho** dekh sakte ho, kyunki in listings mein kaafi options lower price range mein dikh rahe hain.[8][10][11][14][5]\n\nAgar aap **premium/designer** look chahte ho, to **Ensemble** aur **Pernia’s Pop Up Shop** better options hain.[12][20]\n\nAap agar chaho, main aapke liye **budget, occasion, aur fabric** ke hisaab se *top 5 best kurta set brands* bhi sort karke de sakta hoon.",
+  "citations": [
+   {
+    "url": "https://www.libas.in/collections/kurta-sets",
+    "position": 1
+   },
+   {
+    "url": "https://www.wforwoman.com/collections/kurta-sets",
+    "position": 2
+   },
+   {
+    "url": "https://varanga.in/collections/kurta-sets",
+    "position": 3
+   },
+   {
+    "url": "https://maybellindia.com/collections/womens-kurta-sets",
+    "position": 4
+   },
+   {
+    "url": "https://www.meesho.com/kurta-sets-women/pl/3k9",
+    "position": 5
+   },
+   {
+    "url": "https://www.biba.in/kurta-sets/",
+    "position": 6
+   },
+   {
+    "url": "https://www.lakshita.com/collections/kurta-sets",
+    "position": 7
+   },
+   {
+    "url": "https://anayna.com/collections/kurta-sets",
+    "position": 8
+   },
+   {
+    "url": "https://shopforaurelia.com/collections/kurta-sets",
+    "position": 9
+   },
+   {
+    "url": "https://www.aachho.com/collections/kurta-set",
+    "position": 10
+   },
+   {
+    "url": "https://janasya.com/collections/sets",
+    "position": 11
+   },
+   {
+    "url": "https://www.ensembleindia.com/women/clothing/kurtas.html",
+    "position": 12
+   },
+   {
+    "url": "https://www.soch.com/in/sets/2-piece-sets.html",
+    "position": 13
+   },
+   {
+    "url": "https://jaipurkurti.com/collections/kurta-set",
+    "position": 14
+   },
+   {
+    "url": "https://www.libas.in/collections/sleeveless-kurta-sets",
+    "position": 15
+   },
+   {
+    "url": "https://trendia.co/collections/women-kurta-sets",
+    "position": 16
+   },
+   {
+    "url": "https://www.shoplibas.com/collections/kurta-sets",
+    "position": 17
+   },
+   {
+    "url": "https://www.etsy.com/in-en/market/kurta_sets_for_women",
+    "position": 18
+   },
+   {
+    "url": "https://www.houseofindya.com/kurta-sets/cat",
+    "position": 19
+   },
+   {
+    "url": "https://www.perniaspopupshop.com/clothing/kurta-sets-salwar-kameez",
+    "position": 20
+   }
+  ],
+  "costUsd": 0.005588
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "4.2811 sec.",
+  "cost": 0.006188,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141238-2163-0612-0000-7743e22a93c3",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.2753 sec.",
+    "cost": 0.006188,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "India mein women ke liye online konse brand ke kurta sets kharidun?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 26,
+      "output_tokens": 562,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005588,
+      "datetime": "2026-08-14 12:38:39 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "India mein women ke liye **kurta sets** kharidne ke liye aap in brands ko shortlist kar sakte ho: **Libas, Biba, W for Woman, Aurelia, Janasya, Aachho, Jaipur Kurti, Lakshita, Varanga,** aur **House of Indya/Indya**.[1][2][6][7][9][10][11][14][19]\n\nAgar aap choice ko style aur budget ke hisaab se narrow karna chahte ho, to ye useful hai:\n\n| Brand | Best for | Notes |\n|---|---|---|\n| **Libas** | Everyday se festive tak | Straight cotton, A-line, Anarkali, woven aur embroidered sets milte hain.[1][15][17] |\n| **Biba** | Trendy ethnic wear | Brand site par kurta sets ka dedicated collection hai.[6] |\n| **W for Woman** | 2 & 3 pc sets | Vibrant kurta sets collection list ki gayi hai.[2] |\n| **Aurelia** | Versatile wardrobe staples | Kurta sets collection available hai.[9] |\n| **Janasya** | Wide size range | Regular sizes se plus-size, XS to 6XL tak mention hai.[11] |\n| **Aachho** | Festive / stylish prints | Traditional aur contemporary dono styles milte hain.[10] |\n| **Jaipur Kurti** | Affordable dailywear + party wear | Simple aur party-wear dono options milte hain.[14] |\n| **Lakshita** | Mid-range stylish sets | Georgette, rayon, viscose co-ord/kurta sets listed hain.[7] |\n\nAgar aap **budget-friendly** option chahte ho, to **Aachho, Anayna, Janasya, Jaipur Kurti,** aur **Meesho** dekh sakte ho, kyunki in listings mein kaafi options lower price range mein dikh rahe hain.[8][10][11][14][5]\n\nAgar aap **premium/designer** look chahte ho, to **Ensemble** aur **Pernia’s Pop Up Shop** better options hain.[12][20]\n\nAap agar chaho, main aapke liye **budget, occasion, aur fabric** ke hisaab se *top 5 best kurta set brands* bhi sort karke de sakta hoon.",
+          "annotations": [
+           {
+            "title": "Buy Designer Kurta Set For Women Online in India | Libas",
+            "url": "https://www.libas.in/collections/kurta-sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Kurta Sets for Women | Buy 2 & 3 Pc Sets Online | W for Woman",
+            "url": "https://www.wforwoman.com/collections/kurta-sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Latest Kurta Sets for Women Online - Varanga",
+            "url": "https://varanga.in/collections/kurta-sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Kurta Sets for Women Online in India - Maybell",
+            "url": "https://maybellindia.com/collections/womens-kurta-sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Kurta Sets for Women Online in India - Meesho",
+            "url": "https://www.meesho.com/kurta-sets-women/pl/3k9",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Kurta Sets for Women Online in India at Biba",
+            "url": "https://www.biba.in/kurta-sets/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shop Kurta Sets for Women Online at Best Price",
+            "url": "https://www.lakshita.com/collections/kurta-sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Kurta Sets for Women Online | Cotton & Ethnic - Anayna",
+            "url": "https://anayna.com/collections/kurta-sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shop Kurta Set for Women Online in India at Best Price",
+            "url": "https://shopforaurelia.com/collections/kurta-sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Kurta Sets for Women Online Upto 80% OFF - Aachho",
+            "url": "https://www.aachho.com/collections/kurta-set",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Designer Kurta Set For Women Online in India | Janasya",
+            "url": "https://janasya.com/collections/sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Designer Kurta Sets For Women Online | Ensemble",
+            "url": "https://www.ensembleindia.com/women/clothing/kurtas.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Stylish Kurta Sets for Women Online in India - Soch",
+            "url": "https://www.soch.com/in/sets/2-piece-sets.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Kurta Set For Women Online | Affordable Price Offer- Jaipurkurti",
+            "url": "https://jaipurkurti.com/collections/kurta-set",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Sleeveless Kurta Sets for Women Online in India",
+            "url": "https://www.libas.in/collections/sleeveless-kurta-sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Women's Kurta Sets - Trendia",
+            "url": "https://trendia.co/collections/women-kurta-sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Kurta Sets For Women Online - Libas",
+            "url": "https://www.shoplibas.com/collections/kurta-sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Kurta Sets for Women Online In India - Etsy India",
+            "url": "https://www.etsy.com/in-en/market/kurta_sets_for_women",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Kurta Sets Collection for Women at Indya",
+            "url": "https://www.houseofindya.com/kurta-sets/cat",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Designer Kurta Sets for Women 2026 - perniaspopupshop",
+            "url": "https://www.perniaspopupshop.com/clothing/kurta-sets-salwar-kameez",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

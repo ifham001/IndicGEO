@@ -1,0 +1,158 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F04",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 7,
+  "promptText": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+  "cellId": "F04_hg_gemini_r7",
+  "startedAt": "2026-08-14T13:15:49.784Z",
+  "finishedAt": "2026-08-14T13:16:17.199Z",
+  "durationMs": 27415,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-08-14T13:15:29.989Z",
+    "error": "empty/short answer (30 chars)"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Bharat mein men ke liye formal shirts kharidne ke liye kai behtareen brands available hain, jo quality, fit, aur price ke alag-alag segments mein aate hain. Yahan kuch top brands ki list di gayi hai jise aap apne budget aur zaroorat ke hisab se chun sakte hain:\n\n---\n\n### 1. Premium & Luxury Brands (Best for Office & Special Occasions)\n\n* **Van Heusen:** Yeh corporate dressing ke liye sabse popular brands mein se ek hai. Inki shirts ka fabric, fitting, aur finish professional look ke liye ekdum perfect hota hai.\n* **Louis Philippe:** Agar aapko ekdum premium feel, rich colors, aur high-end look chahiye, toh Louis Philippe ek behtareen vikalp (option) hai. Yeh meetings aur formal events ke liye ideal hain.\n* **Allen Solly:** Formal aur smart-casuals ka yeh brand ek lajawab mix deta hai. Inke paas modern prints aur vibrant colors ke options milte hain jo youth ke beech kafi pasand kiye jaate hain.\n\n---\n\n### 2. Mid-Range & Reliable Brands (Value for Money)\n\n* **Peter England:** Yeh India ke sabse trusted aur budget-friendly formal brands mein se ek hai. Agar aap daily office wear ke liye durable aur comfortable shirts chahte hain, toh yeh best choice hai.\n* **Park Avenue:** Raymond group ka yeh brand classic formal wear ke liye jana jata hai. Inki shirts wrinkle-resistant aur long-lasting hoti hain.\n* **Arrow:** Classic American heritage style ke sath Arrow ek shandar formal wear brand hai. Inki fitting aur collar stiffness kafi acchi hoti hai.\n\n---\n\n### 3. Affordable & Everyday Wear Brands\n\n* **Zudio / Max Fashion:** Agar aapka budget kam hai aur aap budget-friendly daamo mein achi basic formal shirts chahte hain, toh aap yahan se options dekh sakte hain.\n* **Raymond (Ready-to-wear):** Custom tailoring ke alawa Raymond ki readymade formal shirts bhi kafi shandar quality aur cotton fabric mein aati hain.\n\n---\n\n### Buying Tips (Khareedte Waqt In Baaton Ka Dhyan Rakhein):\n\n* **Fabric:** Garmi ke mausam ke liye **100% Cotton** ya **Linen blends** sabse best rehte hain kyunki yeh skin ke liye comfortable hote hain.\n* **Fit:** Hamesha apni body type ke hisab se **Slim Fit** ya **Tailored Fit** chunein taaki sharp look aaye.\n* **Colors:** Apke wardobe mein **White, Light Blue, aur Navy Blue** jaise classic colors hamesha hone chahiye jo har pant ke sath match ho sakein.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "25.8379 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141315-2163-0629-0000-8741c226fac4",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "25.1256 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:16:13 +00:00",
+      "markdown": "Bharat mein men ke liye formal shirts kharidne ke liye kai behtareen brands available hain, jo quality, fit, aur price ke alag-alag segments mein aate hain. Yahan kuch top brands ki list di gayi hai jise aap apne budget aur zaroorat ke hisab se chun sakte hain:\n\n---\n\n### 1. Premium & Luxury Brands (Best for Office & Special Occasions)\n\n* **Van Heusen:** Yeh corporate dressing ke liye sabse popular brands mein se ek hai. Inki shirts ka fabric, fitting, aur finish professional look ke liye ekdum perfect hota hai.\n* **Louis Philippe:** Agar aapko ekdum premium feel, rich colors, aur high-end look chahiye, toh Louis Philippe ek behtareen vikalp (option) hai. Yeh meetings aur formal events ke liye ideal hain.\n* **Allen Solly:** Formal aur smart-casuals ka yeh brand ek lajawab mix deta hai. Inke paas modern prints aur vibrant colors ke options milte hain jo youth ke beech kafi pasand kiye jaate hain.\n\n---\n\n### 2. Mid-Range & Reliable Brands (Value for Money)\n\n* **Peter England:** Yeh India ke sabse trusted aur budget-friendly formal brands mein se ek hai. Agar aap daily office wear ke liye durable aur comfortable shirts chahte hain, toh yeh best choice hai.\n* **Park Avenue:** Raymond group ka yeh brand classic formal wear ke liye jana jata hai. Inki shirts wrinkle-resistant aur long-lasting hoti hain.\n* **Arrow:** Classic American heritage style ke sath Arrow ek shandar formal wear brand hai. Inki fitting aur collar stiffness kafi acchi hoti hai.\n\n---\n\n### 3. Affordable & Everyday Wear Brands\n\n* **Zudio / Max Fashion:** Agar aapka budget kam hai aur aap budget-friendly daamo mein achi basic formal shirts chahte hain, toh aap yahan se options dekh sakte hain.\n* **Raymond (Ready-to-wear):** Custom tailoring ke alawa Raymond ki readymade formal shirts bhi kafi shandar quality aur cotton fabric mein aati hain.\n\n---\n\n### Buying Tips (Khareedte Waqt In Baaton Ka Dhyan Rakhein):\n\n* **Fabric:** Garmi ke mausam ke liye **100% Cotton** ya **Linen blends** sabse best rehte hain kyunki yeh skin ke liye comfortable hote hain.\n* **Fit:** Hamesha apni body type ke hisab se **Slim Fit** ya **Tailored Fit** chunein taaki sharp look aaye.\n* **Colors:** Apke wardobe mein **White, Light Blue, aur Navy Blue** jaise classic colors hamesha hone chahiye jo har pant ke sath match ho sakein.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 9,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Bharat mein men ke liye formal shirts kharidne ke liye kai behtareen brands available hain, jo quality, fit, aur price ke alag-alag segments mein aate hain. Yahan kuch top brands ki list di gayi hai jise aap apne budget aur zaroorat ke hisab se chun sakte hain:",
+        "original_text": "Bharat mein men ke liye formal shirts kharidne ke liye kai behtareen brands available hain, jo quality, fit, aur price ke alag-alag segments mein aate hain. Yahan kuch top brands ki list di gayi hai jise aap apne budget aur zaroorat ke hisab se chun sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### 1. Premium & Luxury Brands (Best for Office & Special Occasions)",
+        "original_text": "1. Premium & Luxury Brands (Best for Office & Special Occasions)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Van Heusen:** Yeh corporate dressing ke liye sabse popular brands mein se ek hai. Inki shirts ka fabric, fitting, aur finish professional look ke liye ekdum perfect hota hai.\n* **Louis Philippe:** Agar aapko ekdum premium feel, rich colors, aur high-end look chahiye, toh Louis Philippe ek behtareen vikalp (option) hai. Yeh meetings aur formal events ke liye ideal hain.\n* **Allen Solly:** Formal aur smart-casuals ka yeh brand ek lajawab mix deta hai. Inke paas modern prints aur vibrant colors ke options milte hain jo youth ke beech kafi pasand kiye jaate hain.",
+        "original_text": "Van Heusen: Yeh corporate dressing ke liye sabse popular brands mein se ek hai. Inki shirts ka fabric, fitting, aur finish professional look ke liye ekdum perfect hota hai.\nLouis Philippe: Agar aapko ekdum premium feel, rich colors, aur high-end look chahiye, toh Louis Philippe ek behtareen vikalp (option) hai. Yeh meetings aur formal events ke liye ideal hain.\nAllen Solly: Formal aur smart-casuals ka yeh brand ek lajawab mix deta hai. Inke paas modern prints aur vibrant colors ke options milte hain jo youth ke beech kafi pasand kiye jaate hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### 2. Mid-Range & Reliable Brands (Value for Money)",
+        "original_text": "2. Mid-Range & Reliable Brands (Value for Money)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "* **Peter England:** Yeh India ke sabse trusted aur budget-friendly formal brands mein se ek hai. Agar aap daily office wear ke liye durable aur comfortable shirts chahte hain, toh yeh best choice hai.\n* **Park Avenue:** Raymond group ka yeh brand classic formal wear ke liye jana jata hai. Inki shirts wrinkle-resistant aur long-lasting hoti hain.\n* **Arrow:** Classic American heritage style ke sath Arrow ek shandar formal wear brand hai. Inki fitting aur collar stiffness kafi acchi hoti hai.",
+        "original_text": "Peter England: Yeh India ke sabse trusted aur budget-friendly formal brands mein se ek hai. Agar aap daily office wear ke liye durable aur comfortable shirts chahte hain, toh yeh best choice hai.\nPark Avenue: Raymond group ka yeh brand classic formal wear ke liye jana jata hai. Inki shirts wrinkle-resistant aur long-lasting hoti hain.\nArrow: Classic American heritage style ke sath Arrow ek shandar formal wear brand hai. Inki fitting aur collar stiffness kafi acchi hoti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "### 3. Affordable & Everyday Wear Brands",
+        "original_text": "3. Affordable & Everyday Wear Brands",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **Zudio / Max Fashion:** Agar aapka budget kam hai aur aap budget-friendly daamo mein achi basic formal shirts chahte hain, toh aap yahan se options dekh sakte hain.\n* **Raymond (Ready-to-wear):** Custom tailoring ke alawa Raymond ki readymade formal shirts bhi kafi shandar quality aur cotton fabric mein aati hain.",
+        "original_text": "Zudio / Max Fashion: Agar aapka budget kam hai aur aap budget-friendly daamo mein achi basic formal shirts chahte hain, toh aap yahan se options dekh sakte hain.\nRaymond (Ready-to-wear): Custom tailoring ke alawa Raymond ki readymade formal shirts bhi kafi shandar quality aur cotton fabric mein aati hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### Buying Tips (Khareedte Waqt In Baaton Ka Dhyan Rakhein):",
+        "original_text": "Buying Tips (Khareedte Waqt In Baaton Ka Dhyan Rakhein):",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "* **Fabric:** Garmi ke mausam ke liye **100% Cotton** ya **Linen blends** sabse best rehte hain kyunki yeh skin ke liye comfortable hote hain.\n* **Fit:** Hamesha apni body type ke hisab se **Slim Fit** ya **Tailored Fit** chunein taaki sharp look aaye.\n* **Colors:** Apke wardobe mein **White, Light Blue, aur Navy Blue** jaise classic colors hamesha hone chahiye jo har pant ke sath match ho sakein.",
+        "original_text": "Fabric: Garmi ke mausam ke liye 100% Cotton ya Linen blends sabse best rehte hain kyunki yeh skin ke liye comfortable hote hain.\nFit: Hamesha apni body type ke hisab se Slim Fit ya Tailored Fit chunein taaki sharp look aaye.\nColors: Apke wardobe mein White, Light Blue, aur Navy Blue jaise classic colors hamesha hone chahiye jo har pant ke sath match ho sakein.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

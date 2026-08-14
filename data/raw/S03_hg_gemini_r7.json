@@ -1,0 +1,168 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S03",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 7,
+  "promptText": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+  "cellId": "S03_hg_gemini_r7",
+  "startedAt": "2026-08-14T13:20:32.991Z",
+  "finishedAt": "2026-08-14T13:20:51.146Z",
+  "durationMs": 18155,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein dark spots aur dull skin ke liye kuch best aur highly recommended Vitamin C serums available hain, jo alag-alag skin types aur budget ke hisab se bahut acche hain:\n\n---\n\n### 1. Best for Beginners & Sensitive Skin\n\n* **Minimalist Vitamin C 10% Face Serum**\n  *   * **Key Ingredients:** 10% Ethyl Ascorbic Acid (stable Vitamin C) + Centella Water.\n  * **Kyun kharidein:** Ye ek gentle formula hai jo naye users aur sensitive skin walon ke liye perfect hai. Ye dullness kam karta hai aur spots ko dheere-dheere fade karta hai.\n\n### 2. Best for Faster Results (High Potency)\n\n* **Plum 15% Vitamin C Face Serum**\n  *   * **Key Ingredients:** 15% Ethyl Ascorbic Acid + Mandarin Orange + Kakadu Plum.\n  * **Kyun kharidein:** Agar aapki skin pehle se Vitamin C use kar chuki hai, toh ye 15% concentration fast glow aur dark spots ko jaldi target karne ke liye behtareen hai.\n\n### 3. Best Dermatologist-Recommended (Premium)\n\n* **Derma Co 10% Vitamin C Face Serum**\n  *   * **Key Ingredients:** Vitamin C + 5% Niacinamide + Hyaluronic Acid.\n  * **Kyun kharidein:** Isme Niacinamide bhi hai, jo dark spots ke sath-sath skin barrier ko strong banata hai aur uneven skin tone ko theek karta hai.\n\n### 4. Best Budget-Friendly Option\n\n* **Garnier Vitamin C Booster Serum**\n  *   * **Key Ingredients:** 30x Vitamin C + Lemon Yuzu.\n  * **Kyun kharidein:** Ye lightweight hai, jaldi absorb hota hai, aur market mein easily affordable price par mil jata hai. Regular use se instant glow deta hai.\n\n---\n\n### Kuch Zaroori Tips:\n\n* **Patch Test:** Pehli baar use karne se pehle kahanon ke peeche ya haath par patch test zaroor karein.\n* **Sunscreen:** Subah Vitamin C lagane ke baad **Sunscreen** lagana bilkul na bhulein, warna serum ka poora fayda nahi milega.\n* **Storage:** Vitamin C serums ko aisi jagah rakhein jahan seedhi dhoop na pade (kuch serums ko fridge mein bhi rakh sakte hain taaki wo oxidize na ho).",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "17.7365 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141320-2163-0629-0000-77aa507e0ea5",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "17.7212 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:20:48 +00:00",
+      "markdown": "India mein dark spots aur dull skin ke liye kuch best aur highly recommended Vitamin C serums available hain, jo alag-alag skin types aur budget ke hisab se bahut acche hain:\n\n---\n\n### 1. Best for Beginners & Sensitive Skin\n\n* **Minimalist Vitamin C 10% Face Serum**\n  *   * **Key Ingredients:** 10% Ethyl Ascorbic Acid (stable Vitamin C) + Centella Water.\n  * **Kyun kharidein:** Ye ek gentle formula hai jo naye users aur sensitive skin walon ke liye perfect hai. Ye dullness kam karta hai aur spots ko dheere-dheere fade karta hai.\n\n### 2. Best for Faster Results (High Potency)\n\n* **Plum 15% Vitamin C Face Serum**\n  *   * **Key Ingredients:** 15% Ethyl Ascorbic Acid + Mandarin Orange + Kakadu Plum.\n  * **Kyun kharidein:** Agar aapki skin pehle se Vitamin C use kar chuki hai, toh ye 15% concentration fast glow aur dark spots ko jaldi target karne ke liye behtareen hai.\n\n### 3. Best Dermatologist-Recommended (Premium)\n\n* **Derma Co 10% Vitamin C Face Serum**\n  *   * **Key Ingredients:** Vitamin C + 5% Niacinamide + Hyaluronic Acid.\n  * **Kyun kharidein:** Isme Niacinamide bhi hai, jo dark spots ke sath-sath skin barrier ko strong banata hai aur uneven skin tone ko theek karta hai.\n\n### 4. Best Budget-Friendly Option\n\n* **Garnier Vitamin C Booster Serum**\n  *   * **Key Ingredients:** 30x Vitamin C + Lemon Yuzu.\n  * **Kyun kharidein:** Ye lightweight hai, jaldi absorb hota hai, aur market mein easily affordable price par mil jata hai. Regular use se instant glow deta hai.\n\n---\n\n### Kuch Zaroori Tips:\n\n* **Patch Test:** Pehli baar use karne se pehle kahanon ke peeche ya haath par patch test zaroor karein.\n* **Sunscreen:** Subah Vitamin C lagane ke baad **Sunscreen** lagana bilkul na bhulein, warna serum ka poora fayda nahi milega.\n* **Storage:** Vitamin C serums ko aisi jagah rakhein jahan seedhi dhoop na pade (kuch serums ko fridge mein bhi rakh sakte hain taaki wo oxidize na ho).",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 11,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein dark spots aur dull skin ke liye kuch best aur highly recommended Vitamin C serums available hain, jo alag-alag skin types aur budget ke hisab se bahut acche hain:",
+        "original_text": "India mein dark spots aur dull skin ke liye kuch best aur highly recommended Vitamin C serums available hain, jo alag-alag skin types aur budget ke hisab se bahut acche hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### 1. Best for Beginners & Sensitive Skin",
+        "original_text": "1. Best for Beginners & Sensitive Skin",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Minimalist Vitamin C 10% Face Serum**\n  *   * **Key Ingredients:** 10% Ethyl Ascorbic Acid (stable Vitamin C) + Centella Water.\n  * **Kyun kharidein:** Ye ek gentle formula hai jo naye users aur sensitive skin walon ke liye perfect hai. Ye dullness kam karta hai aur spots ko dheere-dheere fade karta hai.",
+        "original_text": "Minimalist Vitamin C 10% Face Serum\nKey Ingredients: 10% Ethyl Ascorbic Acid (stable Vitamin C) + Centella Water.\nKyun kharidein: Ye ek gentle formula hai jo naye users aur sensitive skin walon ke liye perfect hai. Ye dullness kam karta hai aur spots ko dheere-dheere fade karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### 2. Best for Faster Results (High Potency)",
+        "original_text": "2. Best for Faster Results (High Potency)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "* **Plum 15% Vitamin C Face Serum**\n  *   * **Key Ingredients:** 15% Ethyl Ascorbic Acid + Mandarin Orange + Kakadu Plum.\n  * **Kyun kharidein:** Agar aapki skin pehle se Vitamin C use kar chuki hai, toh ye 15% concentration fast glow aur dark spots ko jaldi target karne ke liye behtareen hai.",
+        "original_text": "Plum 15% Vitamin C Face Serum\nKey Ingredients: 15% Ethyl Ascorbic Acid + Mandarin Orange + Kakadu Plum.\nKyun kharidein: Agar aapki skin pehle se Vitamin C use kar chuki hai, toh ye 15% concentration fast glow aur dark spots ko jaldi target karne ke liye behtareen hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "### 3. Best Dermatologist-Recommended (Premium)",
+        "original_text": "3. Best Dermatologist-Recommended (Premium)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **Derma Co 10% Vitamin C Face Serum**\n  *   * **Key Ingredients:** Vitamin C + 5% Niacinamide + Hyaluronic Acid.\n  * **Kyun kharidein:** Isme Niacinamide bhi hai, jo dark spots ke sath-sath skin barrier ko strong banata hai aur uneven skin tone ko theek karta hai.",
+        "original_text": "Derma Co 10% Vitamin C Face Serum\nKey Ingredients: Vitamin C + 5% Niacinamide + Hyaluronic Acid.\nKyun kharidein: Isme Niacinamide bhi hai, jo dark spots ke sath-sath skin barrier ko strong banata hai aur uneven skin tone ko theek karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### 4. Best Budget-Friendly Option",
+        "original_text": "4. Best Budget-Friendly Option",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "* **Garnier Vitamin C Booster Serum**\n  *   * **Key Ingredients:** 30x Vitamin C + Lemon Yuzu.\n  * **Kyun kharidein:** Ye lightweight hai, jaldi absorb hota hai, aur market mein easily affordable price par mil jata hai. Regular use se instant glow deta hai.",
+        "original_text": "Garnier Vitamin C Booster Serum\nKey Ingredients: 30x Vitamin C + Lemon Yuzu.\nKyun kharidein: Ye lightweight hai, jaldi absorb hota hai, aur market mein easily affordable price par mil jata hai. Regular use se instant glow deta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "### Kuch Zaroori Tips:",
+        "original_text": "Kuch Zaroori Tips:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "* **Patch Test:** Pehli baar use karne se pehle kahanon ke peeche ya haath par patch test zaroor karein.\n* **Sunscreen:** Subah Vitamin C lagane ke baad **Sunscreen** lagana bilkul na bhulein, warna serum ka poora fayda nahi milega.\n* **Storage:** Vitamin C serums ko aisi jagah rakhein jahan seedhi dhoop na pade (kuch serums ko fridge mein bhi rakh sakte hain taaki wo oxidize na ho).",
+        "original_text": "Patch Test: Pehli baar use karne se pehle kahanon ke peeche ya haath par patch test zaroor karein.\nSunscreen: Subah Vitamin C lagane ke baad Sunscreen lagana bilkul na bhulein, warna serum ka poora fayda nahi milega.\nStorage: Vitamin C serums ko aisi jagah rakhein jahan seedhi dhoop na pade (kuch serums ko fridge mein bhi rakh sakte hain taaki wo oxidize na ho).",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

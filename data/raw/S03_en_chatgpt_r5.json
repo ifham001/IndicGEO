@@ -1,0 +1,433 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S03",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 5,
+  "promptText": "Which vitamin C serum should I buy for dark spots and dull skin in India?",
+  "cellId": "S03_en_chatgpt_r5",
+  "startedAt": "2026-08-14T12:44:04.430Z",
+  "finishedAt": "2026-08-14T12:44:22.254Z",
+  "durationMs": 17824,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "For **dark spots + dull skin**, I’d start with a **10% vitamin C serum** rather than jumping straight to 15–20%. Stable derivatives such as **3-O-ethyl ascorbic acid** are a practical choice in India because they’re generally more stable and less irritating than high-strength pure L-ascorbic acid. [phdbeauty.com](https://phdbeauty.com/blogs/general-advice/best-vitamin-c-serum-india-2026?utm_source=chatgpt.com)\n\n### My picks\n\n### [Minimalist Vitamin C Face Serum]()\n*₹629*\n\n### [Plum 15% Vitamin C Face Serum]()\n*₹227*\n\n### [Asaya 15% Vitamin C + E & Ferulic Acid Serum]()\n*₹674*\n\n### [The Derma Co 15% Vitamin C Face Serum]()\n*₹703*\n\n**🥇 Best overall: Minimalist 10% Vitamin C**  \nA good starting point for pigmentation and dullness, particularly if you haven't used vitamin C before. It uses a stable vitamin C derivative and is positioned for dark spots/uneven tone. [www.mrpuku.com](https://www.mrpuku.com/2026/02/Vitamin-C-Serum.html?m=1&utm_source=chatgpt.com)\n\n**🥈 If you've used vitamin C before: Plum 15%**  \nA stronger option if your skin tolerates actives well and your main goal is more noticeable brightening/spot fading.\n\n**🥉 If you want a stronger antioxidant formula: Asaya 15% Vitamin C + E + Ferulic Acid**  \nVitamin E and ferulic acid are useful companions to vitamin C, and this is a reasonable step-up option.\n\n### How I'd use it\n**Morning:** cleanser → 2–3 drops vitamin C → moisturizer → **SPF 50 sunscreen**.\n\nSunscreen is particularly important for dark spots; otherwise UV exposure can keep stimulating pigmentation and undermine your progress. Consistent treatment generally takes **several weeks to a few months**, rather than days. [www.whowhatwear.com](https://www.whowhatwear.com/beauty/skin/best-products-for-hyperpigmentation?utm_source=chatgpt.com)\n\n**If you tell me your skin type** (oily/dry/combination/sensitive) and your **budget (₹500 / ₹1,000 / ₹1,500+)**, I can narrow this to **one specific serum I'd buy for you**.",
+  "citations": [
+   {
+    "url": "https://phdbeauty.com/blogs/general-advice/best-vitamin-c-serum-india-2026?utm_source=chatgpt.com",
+    "source_name": "/PHD/ - Proven Honest Derma",
+    "position": 1
+   },
+   {
+    "url": "https://www.mrpuku.com/2026/02/Vitamin-C-Serum.html?m=1&utm_source=chatgpt.com",
+    "source_name": "MrPuku",
+    "position": 2
+   },
+   {
+    "url": "https://www.whowhatwear.com/beauty/skin/best-products-for-hyperpigmentation?utm_source=chatgpt.com",
+    "source_name": "whowhatwear.com",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "17.5035 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141244-2163-0629-0000-518b34888bf9",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "17.4624 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Which vitamin C serum should I buy for dark spots and dull skin in India?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which vitamin C serum should I buy for dark spots and dull skin in India?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20vitamin%20C%20serum%20should%20I%20buy%20for%20dark%20spots%20and%20dull%20skin%20in%20India%3F&hints=search",
+      "datetime": "2026-08-14 12:44:21 +00:00",
+      "markdown": "For **dark spots + dull skin**, I’d start with a **10% vitamin C serum** rather than jumping straight to 15–20%. Stable derivatives such as **3-O-ethyl ascorbic acid** are a practical choice in India because they’re generally more stable and less irritating than high-strength pure L-ascorbic acid. [phdbeauty.com](https://phdbeauty.com/blogs/general-advice/best-vitamin-c-serum-india-2026?utm_source=chatgpt.com)\n\n### My picks\n\n### [Minimalist Vitamin C Face Serum]()\n*₹629*\n\n### [Plum 15% Vitamin C Face Serum]()\n*₹227*\n\n### [Asaya 15% Vitamin C + E & Ferulic Acid Serum]()\n*₹674*\n\n### [The Derma Co 15% Vitamin C Face Serum]()\n*₹703*\n\n**🥇 Best overall: Minimalist 10% Vitamin C**  \nA good starting point for pigmentation and dullness, particularly if you haven't used vitamin C before. It uses a stable vitamin C derivative and is positioned for dark spots/uneven tone. [www.mrpuku.com](https://www.mrpuku.com/2026/02/Vitamin-C-Serum.html?m=1&utm_source=chatgpt.com)\n\n**🥈 If you've used vitamin C before: Plum 15%**  \nA stronger option if your skin tolerates actives well and your main goal is more noticeable brightening/spot fading.\n\n**🥉 If you want a stronger antioxidant formula: Asaya 15% Vitamin C + E + Ferulic Acid**  \nVitamin E and ferulic acid are useful companions to vitamin C, and this is a reasonable step-up option.\n\n### How I'd use it\n**Morning:** cleanser → 2–3 drops vitamin C → moisturizer → **SPF 50 sunscreen**.\n\nSunscreen is particularly important for dark spots; otherwise UV exposure can keep stimulating pigmentation and undermine your progress. Consistent treatment generally takes **several weeks to a few months**, rather than days. [www.whowhatwear.com](https://www.whowhatwear.com/beauty/skin/best-products-for-hyperpigmentation?utm_source=chatgpt.com)\n\n**If you tell me your skin type** (oily/dry/combination/sensitive) and your **budget (₹500 / ₹1,000 / ₹1,500+)**, I can narrow this to **one specific serum I'd buy for you**.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.drsheths.com/blogs/skin-care/best-vitamin-c-serum-for-indian-skin-what-actually-works?utm_source=chatgpt.com",
+        "domain": "www.drsheths.com",
+        "title": "Best Vitamin C Serum for Indian Skin – Dr Sheth's",
+        "description": "BEST VITAMIN C SERUM FOR INDIAN SKIN: WHAT ACTUALLY WORKS  by Vipul Kumar  on Jul 20  The best vitamin C serum for Indian skin is a stable 10-15% formula, ideally paired with niacinamide, in a lightw...",
+        "breadcrumb": "drsheths.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.pingmedoc.com/pharmacy/buying-guides/best-vitamin-c-serum?utm_source=chatgpt.com",
+        "domain": "www.pingmedoc.com",
+        "title": "Best Vitamin C Serum in India 2026 — Tested & Compared",
+        "description": "BEST VITAMIN C SERUM IN INDIA  Vitamin C is the most-googled skincare active in India for a reason — it actually works. A good morning serum brightens skin tone, fades dark spots over months and boos...",
+        "breadcrumb": "pingmedoc.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-face-serums-in-india?utm_source=chatgpt.com",
+        "domain": "www.dotandkey.com",
+        "title": "Dermatologist-Recommended Face Serums in India (2026)",
+        "description": "THE ACTIVE INGREDIENTS DERMATOLOGISTS TRUST MOST  Here is the dermatological consensus on the most evidence-backed serum ingredients for Indian skin in 2026.  VITAMIN C (THE BRIGHTENING ANTIOXIDANT)...",
+        "breadcrumb": "dotandkey.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.apollopharmacy.in/blogs/article/vitamin-c-serum-benefits-indian-skin-guide?utm_source=chatgpt.com",
+        "domain": "www.apollopharmacy.in",
+        "title": "Vitamin C Face Serums: Are They Worth the Hype for Indian Skin Tones?",
+        "description": "Vitamin C works best when combined with healthy habits:  * Eat a diet rich in citrus fruits, berries, and vegetables * Stay hydrated throughout the day * Limit excessive sun exposure and use protecti...",
+        "breadcrumb": "apollopharmacy.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://dropy.in/blogs/skin-care-products/5-best-vitamin-c-serum-for-indian-skin-pigmentation-dark-spots?utm_source=chatgpt.com",
+        "domain": "dropy.in",
+        "title": "5 Best Vitamin C Serums India 2026 | Pigmentation & Dark Spots – Dropy India",
+        "description": "Image: 5 Best Vitamin C Serums for Indian Skin 2026 — For Pigmentation, Dark Spots & Brightening (Dermatologist Recommended)  5 BEST VITAMIN C SERUMS FOR INDIAN SKIN 2026 — FOR PIGMENTATION, DARK SPO...",
+        "breadcrumb": "dropy.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.theexosomeedit.com/top-10-vitamin-c-serums-compared-2026?utm_source=chatgpt.com",
+        "domain": "www.theexosomeedit.com",
+        "title": "Top 10 Vitamin C Serums Compared: L-Ascorbic Acid, THD, MAP (2026) | The Exosome Edit",
+        "description": "Listicle May 24, 2026  TOP 10 VITAMIN C SERUMS COMPARED: L-ASCORBIC ACID, THD, MAP (2026)  By Dr. Mei Chen · Cosmetic Dermatologist & Senior Editor, The Exosome Edit  Updated Jun 2026  Vitamin C is t...",
+        "breadcrumb": "theexosomeedit.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.goodhousekeeping.com/beauty/anti-aging/g71536873/vitamin-c-serums/?utm_source=chatgpt.com",
+        "domain": "www.goodhousekeeping.com",
+        "title": "10 Best Vitamin C Serums, According to Dermatologists and Testers",
+        "description": "10 BEST VITAMIN C SERUMS, ACCORDING TO DERMATOLOGISTS AND TESTERS  Superstar serums for every skin type.  By Dori PricePublished: Jun 17, 2026  Image: VerifiedReviewed by Sabina WizemannBeauty Lab Di...",
+        "breadcrumb": "goodhousekeeping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://glowdekho.com/blog-vitamin-c-serum-india.html?utm_source=chatgpt.com",
+        "domain": "glowdekho.com",
+        "title": "Best Vitamin C Serum India 2026 — For Dark Spots, Dullness & Glow | GlowDekho",
+        "description": "Vitamin C  BEST VITAMIN C SERUM INDIA 2026 — For Dark Spots & Real Glow  📍 Written for Indian skin⏱️ 7 min read🗓️ April 2026  Vitamin C is the most important antioxidant serum for Indian skin. It add...",
+        "breadcrumb": "glowdekho.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ndtvshopping.com/beauty-and-grooming/vitamin-c-serums-that-work-great-for-dark-spots-10929856?utm_source=chatgpt.com",
+        "domain": "www.ndtvshopping.com",
+        "title": "Vitamin C Serums That Work Great For Dark Spots From Minimalist, The Derma Co, Plum To Foxtale - NDTV Shopping",
+        "description": "VITAMIN C SERUMS THAT HELP REDUCE DARK SPOTS AND RESTORE SKIN GLOW  IF YOU ARE LOOKING FOR VITAMIN C SERUMS THAT TARGET DARK SPOTS, FROM MINIMALIST, THE DERMA CO, PLUM TO FOXTALE, EXPLORE OUR CURATED...",
+        "breadcrumb": "ndtvshopping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://luxebykan.com/blogs/kans-narrative/best-vitamin-c-serums-to-buy-in-india-in-2026-for-bright-even-skin?utm_source=chatgpt.com",
+        "domain": "luxebykan.com",
+        "title": "Best Vitamin C Serums to Buy in India 2026 | Luxe by Kan",
+        "description": "BEST VITAMIN C SERUMS TO BUY IN INDIA IN 2026 (FOR BRIGHT, EVEN SKIN)  June 20, 2026  Vitamin C is the one serum almost every dermatologist agrees on. It brightens dull skin, fades dark spots and pos...",
+        "breadcrumb": "luxebykan.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Best Vitamin C Serum in India 2026: Dermatologist's Picks",
+        "snippet": null,
+        "domain": "phdbeauty.com",
+        "url": "https://phdbeauty.com/blogs/general-advice/best-vitamin-c-serum-india-2026?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "/PHD/ - Proven Honest Derma",
+        "publication_date": "2026-07-15 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Best Vitamin C Serum for Dull Skin & Dark Spots in India (2026 Honest Review)",
+        "snippet": null,
+        "domain": "www.mrpuku.com",
+        "url": "https://www.mrpuku.com/2026/02/Vitamin-C-Serum.html?m=1&utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "MrPuku",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Trying to Fade Dark Spots? These Are the Only 13 Products Worth Your Attention",
+        "snippet": "This article from Who What Wear UK provides a comprehensive guide to the best skincare products for treating hyperpigmentation, featuring insights from dermatologists and skin experts. Hyperpigmentation, a common skin concern caused by excess melanin, can result from sun exposure, hormonal changes (such as pregnancy-related melasma), inflammation, or acne scarring. The guide emphasizes that the cause of pigmentation determines the best treatment and underlines the importance of daily SPF use as the most critical step in both prevention and treatment.\n\nRecommended ingredients include vitamin C, niacinamide, azelaic acid, tranexamic acid, and retinoids, which can be found in both over-the-counter and prescription products. Experts caution that results typically take 6 to 12 weeks, or even months, and consistency in skincare is essential.\n\nThe article highlights 13 carefully selected products, spanning cleansers, serums, moisturizers, and SPFs. Notable mentions include La Roche-Posay Mela B3 Cleanser, Eucerin Pigment Control SPF50+, The Ordinary Azelaic Acid 10%, and Murad Rapid Dark Spot Correcting Serum. Each product is chosen based on expert input, performance, ingredient quality, and user reviews, providing practical options for anyone tackling dark spots and uneven skin tone.",
+        "domain": "www.whowhatwear.com",
+        "url": "https://www.whowhatwear.com/beauty/skin/best-products-for-hyperpigmentation?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "whowhatwear.com",
+        "publication_date": "2026-08-10 06:00:00 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best vitamin C serum India dark spots dull skin 2026 dermatologist vitamin C 10 15 percent"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "For **dark spots + dull skin**, I’d start with a **10% vitamin C serum** rather than jumping straight to 15–20%. Stable derivatives such as **3-O-ethyl ascorbic acid** are a practical choice in India because they’re generally more stable and less irritating than high-strength pure L-ascorbic acid. [phdbeauty.com](https://phdbeauty.com/blogs/general-advice/best-vitamin-c-serum-india-2026?utm_source=chatgpt.com)\n\n### My picks\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Vitamin C Serum in India 2026: Dermatologist's Picks",
+          "snippet": null,
+          "domain": "phdbeauty.com",
+          "url": "https://phdbeauty.com/blogs/general-advice/best-vitamin-c-serum-india-2026?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "/PHD/ - Proven Honest Derma",
+          "publication_date": "2026-07-15 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10806113484493966459",
+          "merchants": "Amazon.in + others",
+          "id_to_token_map": "RGcgd3icdVO5rqtWFE3yBalTvSZNLEscZufpFpjBwDVgDnAYGovJgBmMmYytfEx03yC9lEmkfMtNke9IGV6SMjnSbs5ae-21t7T--OLrl7T4rcnAMbxcr1w3OZR-OZzVohs57FPbXZIxHorkF5ZhAEltGIzd4ARFMzhNf4rDIawuWZH8CjAWowEgSJYkN8SGphfqz3kaJlXRpMbplHbCJf6Hh28YsFAZnAQ0A5b6qajDLP0XZ2ia2FDLFJbBKBxQJI2965L-lTzwR7DIMjjDUBS99C40gOM_HKAhHP8H_HAd0-7--t1UDGFdNKt41afdWK-KJinCVRJ25apvL0O_SsaqWvVl0XzI2r9t_IfYu7pIfnzXTsNLnr0fxyp9_fa24jnFVHjFMV2qDGU1V6Tt3XdhFeNZb33-c8WXrHopmpe8ekmbj5ewnU7x71_-KU4xz3cxbzptiwSI2YJaWgDJriNJVtk_dCc_GUJAmo9cct1AD3D07KOW8puANnbKbIhD48r5NnBBE4HtgGRIOUSCoXpwbBFhsbOp4KKReDqy3CowMX_WgK4nEipd0ScdMQ8TvJ1DpFeGnCi6kHjxI7CjWrWhkCuxW9Wxq3rw7FCRjA4-qOgAoNo9o6vjSbPhSA_b3bhBA2Wr0fewUu57D06BvTgp9Vuyg4Uub1EoZMB_aFiEwZsuBkr0QCdUqUTQBIRFaHiEVw_dRUKKEoCIitbOJaFj1GBJHOXuNuXiN4_PgWfXA-440sV6qCYCkDfx2Ye2bti7BMV2lcdEYpug9dAOKYYU4IGnXmMemMYOAG03YJatP2tYMPh2Jfp1pUU77ZaA5O7UFAjq4eQ6-eg8YKs_TCotqbsuznXoapaEU42GNnlESLPpqTiykbHc-2rV1T1xxNuuULdQ1u-GG0C7BkjzkgN04bNfDmNc69AhWi8qAzVxNjx8oOb93HenV4yTlhUNcstumW3HCbLECM59iZMX0P11PuWT-T1g2M_5ICmSoKmP8eVSFunvX31jiRzk5aPFaaKl2OITn5nKTIvbt284kX_iEhWJ4aATfb8PLmw17tN9JcYhttuNhq8hSpDLO5kOUKhr1SU0Ux8BmZ-ExLy9fSOgp5IMLcmBgNKzc7-nsGBWWIO9w1usiNy2azwl01Ir9eMb9_m9fXM8Wmk8dunasuHhidPr4BYSe-xi01kTj6oRXakanvM4kOENMzeYA3z4eJ7jCiPPbCSvJ9NSmE5xo9PQri-KFLiC-HzvJQXb3Dqi3qpwJIEfWvlRPRpOYdOLT10RniiCfIJrcmClufT483CeSH1JkWZjFjgzj7BogYfvjzSyyLhjz8pp77om2RLYMAXGODvu_Rim3jAMsQV974AnNTOLEh2pewac9XXSpvUduxxKqk2Ja1xcsXU9knl3A666r478eHYzZ6SLdoFNhz1O6X7dczG_jjsyuK6V294Sw7XIqzjehVrma5FB3wQhYMs7X4STwdlakO_xuJcsBwqSrPbietAl_BqhA25bsx8VWLvVTrg0Ctdpzd2mrt-xJjvZgAUJm80Qtr0o7niAy-tDGU1t5v8FOSHrug",
+          "title": "Minimalist Vitamin C Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 4500,
+           "rating_max": 5
+          },
+          "price": 629,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/8Tw1wHicDcltEkJAAADQE_loK2ubaRpGSBKmmPrTsIRMbGvFOlT36Tb1_r7vp2SMdCtJyhtMOWF5JrC0kcWiYwmrsIjbp9SVLSFVU2xe6_-tNC9DFg4LR8Wmhpx42TaIRf3srfk1BNyGpluTsEqrcj94l3Gav06LR2ZNqktNnbZU2CUITySdEnDNzz49IkCHvIdKAgV-i8YDQNDSLWNrjF7AjKCL77XieoBz2f4BHdA9nQ"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "ng1_aoqqArvU5NoPjJiruA0",
+            "product_id": "8771459708923567266",
+            "catalog_id": "10806113484493966459",
+            "gpcid": "16647277556416395122",
+            "headline_offer_docid": "10829716117241671167",
+            "image_docid": "17663957088705215460",
+            "rds": "PC_16647277556416395122|PROD_PC_16647277556416395122",
+            "query": "vitamin+c+serum+india+dark+spots+dull+skin",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIUQW5kaHJhIFByYWRlc2gsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "6240854859496185207",
+          "merchants": "Amazon.in + others",
+          "id_to_token_map": "abEa73icdVJJjuNGEDTmBT74AX3xqdGAqsji4kYfuEpkS6RYJIsiL0JxEfdFC0VJ8Gt6FmB8HBvwwS-ZOfgt1sBXO2-ZEZmISMTfP_z4lpV_djnY0vN2JQtKjqx-DfdPBef0n4dDn47JqUz_AIBnBcQLrMgICAoMEAH8nNATbfq8TH_nIDsT0J0hsiIH7owZ_6XIaNqUXWbvdtlB7ZMy_QJ4UZzxM44BAhAgQgL7W9nSPPsXhZAVRcAhwML7MW4miu8P6fEru1a2gEcQAPauQRBEnmNZKMBf19hWt_8DftyP2eH6F0A_Q_R4Lk-0LbvH5PGYHcb2sezSkn7Mh-S7sf9Yft_e1aB7w0HEiQKacezdPnw_nE9vRf5hHJvs68_ToyIZjqEYvhOgmi7MwtDlaxjgJoH50f0-C7S3vHkru7eiecu6Tz0dzrvk27uftH5SleOkOP4wEBXPPNUKQkBY0pA6rJrIahMm9IFHoe4mQO7jeVHhGz7imTAFjR5Fi8FOFUA8PwSUmKFPzJ3bmNTzyWvokTPuzGsIiRH4p6urDeukSt3YF5WMYM-fR8XSz0HSiJjUlyZqBy5VC5dWEsQeQVGN3UCLtLTFgG5CJpqJeydgJwInmATA8lXCrG5Nn1b5KZ6D0faxgqHVY0jm3mZYbeDFIcEKZL4uU9Ajq62vUY08h7EU3OoHy7NOsZ6wwWKoSKsDXzcJbYlN5yvkac3gwpNDiXzCzcAlbXPDoPHphsxXlRys5sVgbYpb4GtMeEuNpCL7VTeMuMPADy6T7RdW3EQXF6a7REPLlVcESZ0aWWOidCNrduBACtEca_60JGYRqY1Ng-QaNwOK6yIghMAUkn2m6hdaW5RqBYOhz0YbOcq8qMt0S45V8-hVmqtD1K2IWKSNaDlVoUY3YsdAuiYu6K1GP89LU8YL62oHkevOGxrC1KKMDGiLR0zu39VAYHkYBU3KksqUP1yOh93XmaSjk2ujzQoBpxv54HWZs6LOvR4blrs19cjnvwBe4Ph7ZNE9q7NPSd_XZfbt3YOrSVhZbF1ppbmGp70ouWNcOE1-fpA05UVKTaLRk_0U5gmw93C7MHYzkSIvXbE9ZHFQS7NRlbx4XazRdpln-7ivnioqT88PKnlx2B2Oe9i-AqNn5c2tF1_PZGrEZSJpkr6_6T7l9eHC2Xko3ev5Ybt1s2Q8ZE-uh9cvktVGEwWH2c266japlK0HqmWUXiHuaKcLkbQe-HW1quMnkNYZJ3ZpwXTO5clMYjuCLUjihVE5kuMo7BMj8HFxGMebCpHm8gf2sObiWfn8YBnqC2KYF8NVhtKvza6f-tNYDZAvtvjMjcDGOeP0Zrtc3_prt9EYZlmNEdmW9nDOvc6OmZxal5aax4jeuH2bJ6O0K8XJz1lt2UF_ETYTB5xK3eXVrRSVIlhm1y1Pj1bf1mR_UXXVsDGYye3NdZdBIMqp0XCqkbm-YUANXfx-TrDPShIquGUrx9q-ZoGCol1mZNtLy2CEFWLVp1oQz6scbcIrZJx9YQDHQ9KItY0bOQ3ciGm48eRtwBSupR_B3pjIvAvnyXrtzft0OBtrACeG9czkGHiXdU5XYy39A43C8jc",
+          "title": "Plum 15% Vitamin C Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 5700,
+           "rating_max": 5
+          },
+          "price": 227,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/B5Wt2HicDclZCoJAAADQE6mUigtEpAwaLuMWpj-i447LqGNOl-o-3abe7_t-WkLwpnJcNaH1jUlVMqSYeLbZSE46xKJ55LZ2xribmuty-Z96c0vFQJFknmse9kvGh6ZCPTuBmbZ4gYHlaNhKrTdfq6ZDGFaHDtI-zo9ccYEvYug5huPUwr5mANr3GMS2no5OSnWRDuipMHO7zwTLrdVptBSsdS9OQZE8JD-c3B__IT3V"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "ng1_av_MB8Cg5NoP2q-h6Qo",
+            "product_id": "11748578493852831912",
+            "catalog_id": "6240854859496185207",
+            "gpcid": "17521147488897644282",
+            "headline_offer_docid": "179907063181825584",
+            "image_docid": "224991651420856099",
+            "rds": "PC_17521147488897644282|PROD_PC_17521147488897644282",
+            "query": "15%25+vitamin+c+serum+india",
+            "mid": "576462569850641742",
+            "pvt": "hg",
+            "uule": "w+CAIQICIUQW5kaHJhIFByYWRlc2gsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "9613541226565783718",
+          "merchants": "Tira + others",
+          "id_to_token_map": "aw9sVHicdVDJjqNWFE3yBfmE2vSqVBLvwWNIqxaAwYYyMzwMG4vJzINtsDHKx0TVg9RZJpGyyJd0L_IdWcbd6-RurnSGe3Tu39_9-JqVf3Y52EeXvSawYo703oTHp4K2-k_DqU-nZCzT31kGUgSDCApAElEMZFjiUxKNUdPnd5ajwR0FENKIRgxLMoD9rciitCm7zDgcstOqT-6yuwIhloUcTbIkQTAQcr-WbZRn3-g_AEN8NQMOUSxJceAeyL07pefPlCnuAUsggqEYCpAMxwJIsBz62bSN1f5_yA_HKTvd_gLoDUSPl3KM2rJ7TB7P2WlqH8suLaMP-fAt9j_M79oy_eXdcBlfi_z9NDXZ5zfXR5FXLEVUPMtHdbRRC0UWboFvNwnMz85XzJde8-a17F6L5jXrPvbRcDkkX77_R7okonhKRMsbBryyCcfntjEY5KQpRrvRSLye144cUFZtH7NdPid1CnBVg0jiJIcsQHgjRs8Bkd6qitXa1xjrRgywGrnC5JVA8tp5TuvR1zbqJibSjQXlS7YSRg_boVZbhEvYcwxt0fGHEcuNlHhICqp0dEBIBAR3syuNcDysYpxOvqtHgY98fQkAdgXNr_HBX-uHbG07GDaNW8mGtx7nZBOe7tt3vfDqkgIZLsUua4Jb7M1nfS1bga9uAyC7iQeEHSlcbKji1JNv9666A0crwtKSyTjUO_ySerqqeXqlrQQXe-oQSxQKXTwFHjVHbhF569TUcdF4mCd1OZj1zUCnUA88HCz-StVCHzmRL1v37guGqHGWBKVgAGmnm-5GFkLQrHcQnC1ffdnuUtL3ElL38Oi5qb71JdLf4SJaeEeGqNMwV6QNp1tVsQoXfP8zf0sc0OuNfFmXqmBv9Jvhh46zaUZcYdPxmnW2G0IDN4orYTpr8OytFSqrU-H9fD4dPhO8jEbHQDsNAaubGP9lm1OcTL-cG4pemnpi8p8Aw9IMABSiKEh8TPq-LrMvPzw4Em-Lm73Da5Jzv_4s5pYy05Lw9oGXxGc-VbEUjcZTkCfAOML9RjkQXITcVKN6SNl-zRPTindjszDRfptnx7ivnqpIuL59WOFnizrYcQ_bF6D0lLBbeu7lgq8Nt014iZePi-xFjDzMtJEH_H3ePuz3TpZMp-zJcW3zmdfb8BqBE7HoN9nAlbh3QbUN0xu0u6iT2ZA3B8astDp-Ammd0VyXFmRnzU9qEhshbEESb5TK4i1LpJ5IlomL0zQtK4gkhzlRJ5OOifLtg66snhFJPiuOOJRerXb9tR-naoBMsbcv9AQMOyetXm235tLfup1EkttqCvG-NIZL7nZGTOaRPreReg6jhT62eTLxh5K7ejklbTvobYLmSgOrWh3yaik5sfC32W3PRGe9b2t8nFfySjFsQAjt4jhb3-eEVGnolZI5nqJACc1ev8a2R_E8KuhtK8TSsaaAiMJDpmT7uSVtZItYr8ea5S5ajnbBDZLWsVCA5SJ-sqWdE1oN3HFpsHOFvU8Wji6fwVG54nUXrBPTdNd9OlwUE8ArSblqcvbd2cwjbar5fwEjg-TO",
+          "title": "Asaya 15% Vitamin C + E & Ferulic Acid Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 148,
+           "rating_max": 5
+          },
+          "price": 674,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/B71t_HicDclLDoIwFADAEwkhgB8SYxr5KBoKViNxh20FopaWvircyut4G53tfD8NgNSBbXNB-1ECZxO4CteqNVTQUot2T1s3nZStqFdq-b8AZWyR0GMeqp6Mi4EVvibi5UZA44yo6TZBQ5w6PVNJvvNYaIzkfhU1_LIPfTdNhED7dTpTeCTDoZw_KJ1FBWD8eGNZZCnMd-a2mZy9ezk6pa6GXAI-mcLbipqTEv0AtJw_Dg"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "ng1_av_MB8Cg5NoP2q-h6Qo",
+            "product_id": "8724075041235472780",
+            "catalog_id": "9613541226565783718",
+            "gpcid": "18050747413798120895",
+            "headline_offer_docid": "4125588296383007229",
+            "image_docid": "17057831954834914079",
+            "rds": "PC_18050747413798120895|PROD_PC_18050747413798120895",
+            "query": "15%25+vitamin+c+serum+india",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIUQW5kaHJhIFByYWRlc2gsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "18222642301165890617",
+          "merchants": "Myntra + others",
+          "id_to_token_map": "5AxWjnicbZPJjqNWFIaTPEEeoTa9KpV074ULJq1aAAYblwFzmdlYmIuZB9vgAeVhoupB6uwySFnkSboXeY4s4866z_L_zi_90vnPP9_9-JoWf7UZ3MbnrS7N5Awb3QYdnnLO6j71x46OyVDQPyEHZjOMBZ7h8QwIM8TxzKckHuK6y77iGUKIYxEDIOTwTAAc5H_P05jWRZua-316nHdJQf_AiLnbWUZgOMQJLA85_teiibP0f_zbDLOABzOGhQIAdwjfHenpM9rIW-ausHjGMPydYo7hAPfzhpjz7bfZh8OYHm9_Q_wG4cdzMcRN0T4mj6f0ODaPRUuL-EPWfw30De-7pqC_vOvPw2uevR_HOv385vIoi5qlyZpr-biKl6tcU6Vb6JM6QdnJ_qr5ymtWvxbta16_pu3HLu7P--TL9_8q50SWj4lsuX3vzQmwIYGuQ14ixZ3MICrjpT5RoFxIq111mIO4TIawlS7eYtiEAW131Wqe1N01ccjKa6iZqFLhMZLstPnL2mWxrtTdLqCF3Vy5yJGstKJWOHlgV1fAXlZT6rOQNvlJR8ZIFn0UKfnZrYUFXUY1KSM1Lo1qbQNMW6IarnKJqz70m-uSIuEYMb3uqfVIlzS2qys0nLqMwH0XuJOzMBi9NAbCiIOu9thXPJI0g2cDCu1y1doNCa16BdNKrVx0vSTl6iVd0lUcSGUCoE5az7lnNe2WdESti7itkFd6clxHur7wBscfojToJd03LFepQACiMFVXxFhGB6slZujnRFc6aPq54_t9GDVUCpHnuIvcNINscF1aWwBiW4GDjtS1vjRGP4iaBJyww6hueIOWXZGb0-RmVCu2inCre0JOa8GwynweTZ65g-ItsWFn1Op5UawksjRuph858cJlY59CsuzuJchlDxlnuvDa6H6nEODIvmd7fz0d95-BqOLBNnGgY2i1I--_rDNWULmXU81yU12NfPYT5GccDyGLWRaBj0nXVUX65YcHWxGJvNzaoq7YmqM8y5mlXTlFevsgKvKzSFeeEg_mU5gl0Dyg7VLbAyHGDtXZDrHEr0QwzkVnt8k3eLvO0sOuK5_KWLq8fZh7zxa7J7sONS9Q61gpmDrh5exdamGdiIqoHibVjXm1v3JmFor3efuw3dppMh7TJ9shm2fRaKJLDI9gMm6q6ZXy1oHlOqI3RNq4VWeRuOn5TalXuydIq5QTWpozrXV9WiU7M0INTHZLrbREy5LZJ2bG7_LjOE5zhBWbP7LHDbcDxdsHQ5s_Y4Z51my5L9xq1XaXbhjLHvH5lpy5EZokY6xu1aw3U3drA4Vh1uUYedvC7M-Z05o7JouNaxOvTlE8cYcmS0ZxXwgXN2OVdYvcZVhfOGiV831WToUg5_46vW35-GR0TeUdrnN1rpkEAqmZbHvt-4JEtZqba6ntahpS8NXtFh5xWVHEObdupJ1yqFgo42ifaun22jAEE9kzqqGaCWc9w0F4Q4x1yDVoOVgciRLYkVWjQKBh4Ehbn8ltQz3Bg3b__jZcJJuNs-hof9Y2EF0Y1lklJ9-5brJYHyvxP3Ao5ug",
+          "title": "The Derma Co 15% Vitamin C Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 21,
+           "rating_max": 5
+          },
+          "price": 703,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/2osKQnicDcndEkJAGADQJ8LISMw0zWZUoh_VbK0bw6JVrK39mvBUvU5vU-f2fD8MQEhH0wpOn72AIlcg47p6lZBCRVXaNppkrRAVv84e0_85aJvbSxoxBLVZnq0IOj65LEJ_nkRWhztm6huyOg3HAwnYHd_8OYaNaEOb4EH6h0YJcUxctOvpGCerOHVppuzNdTveuR4OfONpbN8vMpKpZcRJHb95Vj6CfV556aXoS_QDmJE-qw"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "ng1_av_MB8Cg5NoP2q-h6Qo",
+            "product_id": "16088559737580982673",
+            "catalog_id": "18222642301165890617",
+            "gpcid": "3190458337834563606",
+            "headline_offer_docid": "5235804393626947167",
+            "image_docid": "85407083419007161",
+            "rds": "PC_3190458337834563606|PROD_PC_3190458337834563606",
+            "query": "15%25+vitamin+c+serum+india",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIUQW5kaHJhIFByYWRlc2gsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n**🥇 Best overall: Minimalist 10% Vitamin C**  \nA good starting point for pigmentation and dullness, particularly if you haven't used vitamin C before. It uses a stable vitamin C derivative and is positioned for dark spots/uneven tone. [www.mrpuku.com](https://www.mrpuku.com/2026/02/Vitamin-C-Serum.html?m=1&utm_source=chatgpt.com)\n\n**🥈 If you've used vitamin C before: Plum 15%**  \nA stronger option if your skin tolerates actives well and your main goal is more noticeable brightening/spot fading.\n\n**🥉 If you want a stronger antioxidant formula: Asaya 15% Vitamin C + E + Ferulic Acid**  \nVitamin E and ferulic acid are useful companions to vitamin C, and this is a reasonable step-up option.\n\n### How I'd use it\n**Morning:** cleanser → 2–3 drops vitamin C → moisturizer → **SPF 50 sunscreen**.\n\nSunscreen is particularly important for dark spots; otherwise UV exposure can keep stimulating pigmentation and undermine your progress. Consistent treatment generally takes **several weeks to a few months**, rather than days. [www.whowhatwear.com](https://www.whowhatwear.com/beauty/skin/best-products-for-hyperpigmentation?utm_source=chatgpt.com)\n\n**If you tell me your skin type** (oily/dry/combination/sensitive) and your **budget (₹500 / ₹1,000 / ₹1,500+)**, I can narrow this to **one specific serum I'd buy for you**.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Vitamin C Serum for Dull Skin & Dark Spots in India (2026 Honest Review)",
+          "snippet": null,
+          "domain": "www.mrpuku.com",
+          "url": "https://www.mrpuku.com/2026/02/Vitamin-C-Serum.html?m=1&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "MrPuku",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Trying to Fade Dark Spots? These Are the Only 13 Products Worth Your Attention",
+          "snippet": "This article from Who What Wear UK provides a comprehensive guide to the best skincare products for treating hyperpigmentation, featuring insights from dermatologists and skin experts. Hyperpigmentation, a common skin concern caused by excess melanin, can result from sun exposure, hormonal changes (such as pregnancy-related melasma), inflammation, or acne scarring. The guide emphasizes that the cause of pigmentation determines the best treatment and underlines the importance of daily SPF use as the most critical step in both prevention and treatment.\n\nRecommended ingredients include vitamin C, niacinamide, azelaic acid, tranexamic acid, and retinoids, which can be found in both over-the-counter and prescription products. Experts caution that results typically take 6 to 12 weeks, or even months, and consistency in skincare is essential.\n\nThe article highlights 13 carefully selected products, spanning cleansers, serums, moisturizers, and SPFs. Notable mentions include La Roche-Posay Mela B3 Cleanser, Eucerin Pigment Control SPF50+, The Ordinary Azelaic Acid 10%, and Murad Rapid Dark Spot Correcting Serum. Each product is chosen based on expert input, performance, ingredient quality, and user reviews, providing practical options for anyone tackling dark spots and uneven skin tone.",
+          "domain": "www.whowhatwear.com",
+          "url": "https://www.whowhatwear.com/beauty/skin/best-products-for-hyperpigmentation?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "whowhatwear.com",
+          "publication_date": "2026-08-10 06:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

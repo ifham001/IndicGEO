@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+title: >-
+  IndicGEO Study 01: Same question, different brands. English versus Hinglish
+  buying prompts across ChatGPT, Gemini, and Perplexity in India
+message: >-
+  If you use this dataset or its findings, please cite it as below. Source code
+  in this repository is MIT licensed; the dataset, reports, and documentation
+  are licensed CC BY 4.0. The single license field below records the code
+  license, as Citation File Format accepts only one identifier.
+type: dataset
+version: 1.0.0
+date-released: '2026-08-14'
+license: MIT
+repository-code: 'https://github.com/ifham001/IndicGEO'
+url: 'https://depra.ai'
+authors:
+  - name: Depra Research
+    website: 'https://depra.ai'
+    email: team@depra.ai
+abstract: >-
+  A controlled comparison of English and Hinglish (romanized Hindi-English
+  code-mix) purchase-intent prompts against three production AI answer engines,
+  geolocated to India. Ten brand-unaided buying prompts across skincare and
+  fashion, each written as an independently reviewed semantically equivalent
+  English/Hinglish pair, were run eight times per language against ChatGPT,
+  Gemini, and Perplexity in a single 57-minute window, yielding 480 responses
+  with complete raw API payloads. Using each engine's own rerun-to-rerun
+  variability as the null baseline, prompt language measurably changes the set
+  of brands recommended and the set of sources cited, with effect sizes
+  spanning an order of magnitude across engines: ChatGPT is approximately
+  language-invariant, Gemini is moderately sensitive and attaches citations to
+  90 percent of English answers but only 41 percent of Hinglish answers, and
+  Perplexity is strongly sensitive. The repository publishes the frozen prompt
+  set, all raw responses, the brand lexicon, the analysis code, and the
+  verification logs so that every reported number can be recomputed.
+keywords:
+  - generative engine optimization
+  - GEO
+  - AEO
+  - AI search
+  - answer engines
+  - Hinglish
+  - code-mixing
+  - India
+  - LLM evaluation
+  - brand visibility
+  - multilingual NLP
+  - citation analysis

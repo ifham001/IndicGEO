@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S04",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 5,
+  "promptText": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+  "cellId": "S04_hg_gemini_r5",
+  "startedAt": "2026-08-14T12:43:06.806Z",
+  "finishedAt": "2026-08-14T12:43:17.078Z",
+  "durationMs": 10272,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Indian winters mein dry skin ke liye kuch acche aur deeply hydrating moisturizers available hain jo skin ko long-lasting moisture dete hain. Aap apni skin type aur budget ke hisaab se inmein se koi bhi choose kar sakte hain:\n\n---\n\n### Top Moisturizers for Dry Skin in Indian Winters\n\n* **Cetaphil Moisturising Cream**\n  *   * **Best For:** Very dry, sensitive, or flaky skin.\n  * **Key Ingredients:** Sweet Almond Oil, Glycerin, Niacinamide.\n  * **Why it works:** Yeh ek rich cream hai jo skin ka natural moisture barrier repair karti hai aur bina heavy ya greasy feel ke 24-hour hydration deti hai.\n* **Bioderma Atoderm Creme**\n  *   * **Best For:** Extremely dry and irritated winter skin.\n  * **Key Ingredients:** Skin Protect Complex, Vaseline, Glycerin.\n  * **Why it works:** Yeh skin ko deep nourishment deti hai aur winter dryness ki wajah se hone wali itchiness ko bhi calm karti hai.\n* **Pond's Super Light Gel (Agar light hydration chahiye)**\n  *   * **Best For:** Combination to mildly dry skin jo heavy creams pasand nahi karti.\n  * **Key Ingredients:** Hyaluronic Acid, Vitamin E.\n  * **Why it works:** Agar aapko chip-chipi cream pasand nahi hai, toh yeh gel-based moisturizer skin mein easily absorb ho jata hai aur hydration lock karta hai.\n* **Dot & Key 72hr Hydrating Gel + Probiotics**\n  *   * **Best For:** Dull and dry winter skin.\n  * **Key Ingredients:** Hyaluronic Acid, Probiotics, Ceramides.\n  * **Why it works:** Yeh skin ko plump banata hai aur moisture loss ko rokkta hai.\n* **NourishVeda / Nivea Soft (Budget-Friendly Options)**\n  *   * **Best For:** Everyday use on face and body.\n  * **Why it works:** Nivea Soft (white cream) ya Nivea Creme (blue tin - classic for extreme winters) affordable hain aur dry skin ke liye bahut effective hain.\n\n---\n\n### Quick Tips for Winter Skincare:\n\n> 1.  **Apply on Damp Skin:** Hamesha moisturizer ko halki geeli (damp) skin par lagayein taaki hydration lock ho jaye.\n2.  **Layering:** Agar skin bohot zyada dry hai, toh pehle koi hydrating serum (jaise Hyaluronic Acid) lagakar upar se heavy cream apply karein.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "10.0582 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141243-2163-0629-0000-ffb6a1cae5c0",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "10.0441 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:43:16 +00:00",
+      "markdown": "Indian winters mein dry skin ke liye kuch acche aur deeply hydrating moisturizers available hain jo skin ko long-lasting moisture dete hain. Aap apni skin type aur budget ke hisaab se inmein se koi bhi choose kar sakte hain:\n\n---\n\n### Top Moisturizers for Dry Skin in Indian Winters\n\n* **Cetaphil Moisturising Cream**\n  *   * **Best For:** Very dry, sensitive, or flaky skin.\n  * **Key Ingredients:** Sweet Almond Oil, Glycerin, Niacinamide.\n  * **Why it works:** Yeh ek rich cream hai jo skin ka natural moisture barrier repair karti hai aur bina heavy ya greasy feel ke 24-hour hydration deti hai.\n* **Bioderma Atoderm Creme**\n  *   * **Best For:** Extremely dry and irritated winter skin.\n  * **Key Ingredients:** Skin Protect Complex, Vaseline, Glycerin.\n  * **Why it works:** Yeh skin ko deep nourishment deti hai aur winter dryness ki wajah se hone wali itchiness ko bhi calm karti hai.\n* **Pond's Super Light Gel (Agar light hydration chahiye)**\n  *   * **Best For:** Combination to mildly dry skin jo heavy creams pasand nahi karti.\n  * **Key Ingredients:** Hyaluronic Acid, Vitamin E.\n  * **Why it works:** Agar aapko chip-chipi cream pasand nahi hai, toh yeh gel-based moisturizer skin mein easily absorb ho jata hai aur hydration lock karta hai.\n* **Dot & Key 72hr Hydrating Gel + Probiotics**\n  *   * **Best For:** Dull and dry winter skin.\n  * **Key Ingredients:** Hyaluronic Acid, Probiotics, Ceramides.\n  * **Why it works:** Yeh skin ko plump banata hai aur moisture loss ko rokkta hai.\n* **NourishVeda / Nivea Soft (Budget-Friendly Options)**\n  *   * **Best For:** Everyday use on face and body.\n  * **Why it works:** Nivea Soft (white cream) ya Nivea Creme (blue tin - classic for extreme winters) affordable hain aur dry skin ke liye bahut effective hain.\n\n---\n\n### Quick Tips for Winter Skincare:\n\n> 1.  **Apply on Damp Skin:** Hamesha moisturizer ko halki geeli (damp) skin par lagayein taaki hydration lock ho jaye.\n2.  **Layering:** Agar skin bohot zyada dry hai, toh pehle koi hydrating serum (jaise Hyaluronic Acid) lagakar upar se heavy cream apply karein.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 5,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Indian winters mein dry skin ke liye kuch acche aur deeply hydrating moisturizers available hain jo skin ko long-lasting moisture dete hain. Aap apni skin type aur budget ke hisaab se inmein se koi bhi choose kar sakte hain:",
+        "original_text": "Indian winters mein dry skin ke liye kuch acche aur deeply hydrating moisturizers available hain jo skin ko long-lasting moisture dete hain. Aap apni skin type aur budget ke hisaab se inmein se koi bhi choose kar sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### Top Moisturizers for Dry Skin in Indian Winters",
+        "original_text": "Top Moisturizers for Dry Skin in Indian Winters",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Cetaphil Moisturising Cream**\n  *   * **Best For:** Very dry, sensitive, or flaky skin.\n  * **Key Ingredients:** Sweet Almond Oil, Glycerin, Niacinamide.\n  * **Why it works:** Yeh ek rich cream hai jo skin ka natural moisture barrier repair karti hai aur bina heavy ya greasy feel ke 24-hour hydration deti hai.\n* **Bioderma Atoderm Creme**\n  *   * **Best For:** Extremely dry and irritated winter skin.\n  * **Key Ingredients:** Skin Protect Complex, Vaseline, Glycerin.\n  * **Why it works:** Yeh skin ko deep nourishment deti hai aur winter dryness ki wajah se hone wali itchiness ko bhi calm karti hai.\n* **Pond's Super Light Gel (Agar light hydration chahiye)**\n  *   * **Best For:** Combination to mildly dry skin jo heavy creams pasand nahi karti.\n  * **Key Ingredients:** Hyaluronic Acid, Vitamin E.\n  * **Why it works:** Agar aapko chip-chipi cream pasand nahi hai, toh yeh gel-based moisturizer skin mein easily absorb ho jata hai aur hydration lock karta hai.\n* **Dot & Key 72hr Hydrating Gel + Probiotics**\n  *   * **Best For:** Dull and dry winter skin.\n  * **Key Ingredients:** Hyaluronic Acid, Probiotics, Ceramides.\n  * **Why it works:** Yeh skin ko plump banata hai aur moisture loss ko rokkta hai.\n* **NourishVeda / Nivea Soft (Budget-Friendly Options)**\n  *   * **Best For:** Everyday use on face and body.\n  * **Why it works:** Nivea Soft (white cream) ya Nivea Creme (blue tin - classic for extreme winters) affordable hain aur dry skin ke liye bahut effective hain.",
+        "original_text": "Cetaphil Moisturising Cream\nBest For: Very dry, sensitive, or flaky skin.\nKey Ingredients: Sweet Almond Oil, Glycerin, Niacinamide.\nWhy it works: Yeh ek rich cream hai jo skin ka natural moisture barrier repair karti hai aur bina heavy ya greasy feel ke 24-hour hydration deti hai.\nBioderma Atoderm Creme\nBest For: Extremely dry and irritated winter skin.\nKey Ingredients: Skin Protect Complex, Vaseline, Glycerin.\nWhy it works: Yeh skin ko deep nourishment deti hai aur winter dryness ki wajah se hone wali itchiness ko bhi calm karti hai.\nPond's Super Light Gel (Agar light hydration chahiye)\nBest For: Combination to mildly dry skin jo heavy creams pasand nahi karti.\nKey Ingredients: Hyaluronic Acid, Vitamin E.\nWhy it works: Agar aapko chip-chipi cream pasand nahi hai, toh yeh gel-based moisturizer skin mein easily absorb ho jata hai aur hydration lock karta hai.\nDot & Key 72hr Hydrating Gel + Probiotics\nBest For: Dull and dry winter skin.\nKey Ingredients: Hyaluronic Acid, Probiotics, Ceramides.\nWhy it works: Yeh skin ko plump banata hai aur moisture loss ko rokkta hai.\nNourishVeda / Nivea Soft (Budget-Friendly Options)\nBest For: Everyday use on face and body.\nWhy it works: Nivea Soft (white cream) ya Nivea Creme (blue tin - classic for extreme winters) affordable hain aur dry skin ke liye bahut effective hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### Quick Tips for Winter Skincare:",
+        "original_text": "Quick Tips for Winter Skincare:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "> 1.  **Apply on Damp Skin:** Hamesha moisturizer ko halki geeli (damp) skin par lagayein taaki hydration lock ho jaye.\n2.  **Layering:** Agar skin bohot zyada dry hai, toh pehle koi hydrating serum (jaise Hyaluronic Acid) lagakar upar se heavy cream apply karein.",
+        "original_text": "Apply on Damp Skin: Hamesha moisturizer ko halki geeli (damp) skin par lagayein taaki hydration lock ho jaye.\nLayering: Agar skin bohot zyada dry hai, toh pehle koi hydrating serum (jaise Hyaluronic Acid) lagakar upar se heavy cream apply karein.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,448 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 6,
+  "promptText": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+  "cellId": "S02_hg_chatgpt_r6",
+  "startedAt": "2026-08-14T13:00:22.549Z",
+  "finishedAt": "2026-08-14T13:01:29.039Z",
+  "durationMs": 66490,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Haan — Indian skin tones ke liye **white-cast-free SPF 50/PA++++** sunscreen lena ho, to meri top picks ye hain:\n\n### [Minimalist Light Fluid SPF 50 Face Sunscreen]()\n*₹315*\n\n### [The Derma Co 1% Hyaluronic Sunscreen Aqua Gel SPF 50 PA++++]()\n*₹278*\n\n### [Beauty of Joseon Relief Sun Rice + Probiotics]()\n*₹315*\n\n### [HYPHEN Sunscreen SPF 50]()\n*₹549*\n\n### 🥇 Meri #1 pick: Minimalist Light Fluid SPF 50\n- **White cast:** generally nahi\n- **Finish:** lightweight, natural; oily/combination skin ke liye especially achha\n- **Protection:** SPF 50, PA++++\n- Current listing mein ~₹315–₹450 range dikh rahi hai. [beminimalist.co](https://beminimalist.co/collections/spf/products/multi-vitamin-spf-50?utm_source=chatgpt.com)\n\n### Agar skin oily hai\n**The Derma Co 1% Hyaluronic Aqua Gel SPF 50 PA++++** — lightweight, non-greasy aur white-cast-free option. [www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html?utm_source=chatgpt.com)\n\n### Agar skin dry/normal hai\n**Beauty of Joseon Relief Sun** — creamy/moisturising feel, makeup ke neeche bhi comfortable. Indian-skin/summer recommendations mein bhi frequently included hai. [www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html/?utm_source=chatgpt.com)\n\n### Agar bahut zyada sweat hota hai\n**Re'equil Ultra Matte Dry Touch SPF 50 PA++++** — matte finish aur water/sweat resistance ke liye strong choice; Indian summer mein especially useful. [www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html/?utm_source=chatgpt.com)\n\n**Agar mujhe sirf ek choose karna ho:** 👉 **Minimalist Light Fluid SPF 50**.\n\nAap mujhe bas bata do **aapki skin oily, dry, combination ya acne-prone hai + budget (₹300/₹500/₹1000)**, main aapke liye **1 exact sunscreen** choose kar dunga.",
+  "citations": [
+   {
+    "url": "https://beminimalist.co/collections/spf/products/multi-vitamin-spf-50?utm_source=chatgpt.com",
+    "source_name": "Minimalist",
+    "position": 1
+   },
+   {
+    "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html?utm_source=chatgpt.com",
+    "source_name": "Hindustan Times",
+    "position": 2
+   },
+   {
+    "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html/?utm_source=chatgpt.com",
+    "source_name": "Hindustan Times",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "66.2502 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141300-2163-0629-0000-cd5b4f2109de",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "66.2430 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Mujhe%20aisa%20sunscreen%20kharidna%20hai%20jo%20Indian%20skin%20par%20white%20cast%20na%20chhode.%20Konsa%20best%20hai%3F&hints=search",
+      "datetime": "2026-08-14 13:01:28 +00:00",
+      "markdown": "Haan — Indian skin tones ke liye **white-cast-free SPF 50/PA++++** sunscreen lena ho, to meri top picks ye hain:\n\n### [Minimalist Light Fluid SPF 50 Face Sunscreen]()\n*₹315*\n\n### [The Derma Co 1% Hyaluronic Sunscreen Aqua Gel SPF 50 PA++++]()\n*₹278*\n\n### [Beauty of Joseon Relief Sun Rice + Probiotics]()\n*₹315*\n\n### [HYPHEN Sunscreen SPF 50]()\n*₹549*\n\n### 🥇 Meri #1 pick: Minimalist Light Fluid SPF 50\n- **White cast:** generally nahi\n- **Finish:** lightweight, natural; oily/combination skin ke liye especially achha\n- **Protection:** SPF 50, PA++++\n- Current listing mein ~₹315–₹450 range dikh rahi hai. [beminimalist.co](https://beminimalist.co/collections/spf/products/multi-vitamin-spf-50?utm_source=chatgpt.com)\n\n### Agar skin oily hai\n**The Derma Co 1% Hyaluronic Aqua Gel SPF 50 PA++++** — lightweight, non-greasy aur white-cast-free option. [www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html?utm_source=chatgpt.com)\n\n### Agar skin dry/normal hai\n**Beauty of Joseon Relief Sun** — creamy/moisturising feel, makeup ke neeche bhi comfortable. Indian-skin/summer recommendations mein bhi frequently included hai. [www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html/?utm_source=chatgpt.com)\n\n### Agar bahut zyada sweat hota hai\n**Re'equil Ultra Matte Dry Touch SPF 50 PA++++** — matte finish aur water/sweat resistance ke liye strong choice; Indian summer mein especially useful. [www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html/?utm_source=chatgpt.com)\n\n**Agar mujhe sirf ek choose karna ho:** 👉 **Minimalist Light Fluid SPF 50**.\n\nAap mujhe bas bata do **aapki skin oily, dry, combination ya acne-prone hai + budget (₹300/₹500/₹1000)**, main aapke liye **1 exact sunscreen** choose kar dunga.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.hindustantimes.com",
+        "title": "These 7 sunscreens without white cast work for Indian skin and summers | Fashion Trends",
+        "description": "THESE 7 SUNSCREENS WITHOUT WHITE CAST WORK FOR INDIAN SKIN AND SUMMERS  IF YOU HAVE BEEN LOOKING TO BUY A SUNSCREEN THAT SUITS INDIAN SKIN TONES WITHOUT LEAVING A WHITE CAST, HERE ARE OUR TOP 7 RECOM...",
+        "breadcrumb": "hindustantimes.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html/?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.hindustantimes.com",
+        "title": "These 7 sunscreens without white cast work for Indian skin and summers | Fashion Trends",
+        "description": "THESE 7 SUNSCREENS WITHOUT WHITE CAST WORK FOR INDIAN SKIN AND SUMMERS  By Shweta Pandey  Published on: Jul 10, 2026 09:00 am IST  Read this news in brief form  [Input]  Share Via  Copy Link  IF YOU...",
+        "breadcrumb": "hindustantimes.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308-amp.html?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.hindustantimes.com",
+        "title": "These 7 sunscreens without white cast work for Indian skin and summers | Fashion Trends",
+        "description": "THESE 7 SUNSCREENS WITHOUT WHITE CAST WORK FOR INDIAN SKIN AND SUMMERS  IF YOU HAVE BEEN LOOKING TO BUY A SUNSCREEN THAT SUITS INDIAN SKIN TONES WITHOUT LEAVING A WHITE CAST, HERE ARE OUR TOP 7 RECOM...",
+        "breadcrumb": "hindustantimes.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://beminimalist.co/collections/spf/products/multi-vitamin-spf-50?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "beminimalist.co",
+        "title": "Multi-Vitamin SPF 50 - Broad spectrum SPF 50 sunscreen with PA++++ rating | Minimalist",
+        "description": "SPF 50 SUNSCREEN  Broad Spectrum SPF 50, PA++++  A light weight, moisturiser-meets-sunscreen. This broad spectrum SPF 50 with PA++++ rating, has a very light texture that spreads easily & disappears...",
+        "breadcrumb": "beminimalist.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://beminimalist.co/products/multi-vitamin-spf-50?_pos=1&_sid=16fdd8d2c&_ss=r&utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "beminimalist.co",
+        "title": "Multi-Vitamin SPF 50 - Broad spectrum SPF 50 sunscreen with PA++++ rating | Minimalist",
+        "description": "Image: SPF 50 Sunscreen  Image: SPF 50 Sunscreen  Image: SPF 50 Sunscreen  Image: SPF 50 Sunscreen  Image: SPF 50 Sunscreen   SPF 50 SUNSCREEN  Broad Spectrum SPF 50, PA++++  A light weight, moisturi...",
+        "breadcrumb": "beminimalist.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.vogue.in/content/11-korean-sunscreen-picks-that-actually-understand-indian-skin?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.vogue.in",
+        "title": "11 Korean sunscreen picks that actually understand Indian skin | Vogue India",
+        "description": "11 KOREAN SUNSCREEN PICKS THAT ACTUALLY UNDERSTAND INDIAN SKIN  For anyone who has abandoned way too many sticky sunscreen tubes  By Siya Bhambwani  2 June 2026  Image: korean sunscreen  Representati...",
+        "breadcrumb": "vogue.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.buyrn.in",
+        "title": "Best Sunscreen for Indian Skin: SPF 50 Picks | Buyrn",
+        "description": "Top Pick Minimalist SPF 50 Sunscreen  Check Price  BEST SUNSCREEN FOR INDIAN SKIN: SPF 50 PICKS  beauty· 28 Apr 2026· Updated 11 Jul 2026· 7 min read  By the Buyrn Editorial Team·Independently resear...",
+        "breadcrumb": "buyrn.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.beautytipoffs.com/best-sunscreens-for-indian-skin/?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.beautytipoffs.com",
+        "title": "Best Sunscreens for Indian Skin - Beauty tipoffs",
+        "description": "Image: Best Sunscreens for Indian Skin  Skin  BEST SUNSCREENS FOR INDIAN SKIN  by Authorupdated on July 10, 2026May 16, 2025Leave a Comment  🟦 BEST SUNSCREENS FOR INDIAN SKIN IN 2026 — MEGA GUIDE  If...",
+        "breadcrumb": "beautytipoffs.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://glowdekho.com/blog-best-sunscreen-no-white-cast.html?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "glowdekho.com",
+        "title": "Best Sunscreen for Indian Skin — No White Cast Under ₹500 (2026) | GlowDekho",
+        "description": "BEST SUNSCREEN FOR INDIAN SKIN — No White Cast, Under ₹500  📅 April 2026⏱ 6 min read🎯 Tested for Indian skin tones  The white cast problem is real — but it's also completely solved. Old-generation mi...",
+        "breadcrumb": "glowdekho.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "sskin.care",
+        "title": "The 33 Best Sunscreens in India: Every Label Decoded (2026) — sskin.care/",
+        "description": "THE 33 SUNSCREENS  Pick a category. Each sunscreen shows UV filters, verdict, skin type match, and price.  [Button: Budget (<₹500)] [Button: Mid-Range] [Button: Pharmacy] [Button: K/J-beauty] [Button:...",
+        "breadcrumb": "sskin.care"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.bestbudgetpicks.in/blog/sunscreen-for-indian-skin-2026?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.bestbudgetpicks.in",
+        "title": "Best Sunscreen for Indian Skin 2026 | Honest Review",
+        "description": "MY REAL TESTING EXPERIENCE — 2 WEEKS ON REAL INDIAN SKIN  MINIMALIST SPF 50 PA++++ — THE NO-NONSENSE SUNSCREEN FOR INDIAN SKIN  This is the sunscreen for Indian skin that the entire Indian skincare co...",
+        "breadcrumb": "bestbudgetpicks.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.femina.in/beauty/skin/amp-stories/5-lightweight-sunscreens-for-indias-warming-spring-weather-289632.amp?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.femina.in",
+        "title": "5 Lightweight Sunscreens For India's Warming Spring Weather",
+        "description": "By Tushita Chauhan  5 LIGHTWEIGHT SUNSCREENS FOR INDIA'S WARMING SPRING WEATHER  Mar 20, 2026  1. CETAPHIL SPF 50+ SUNSCREEN  Sensitive skin deserves a sunscreen that does not make things worse, and t...",
+        "breadcrumb": "femina.in"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Multi-Vitamin SPF 50 - Broad spectrum SPF 50 sunscreen with PA++++ rating | Minimalist",
+        "snippet": null,
+        "domain": "beminimalist.co",
+        "url": "https://beminimalist.co/collections/spf/products/multi-vitamin-spf-50?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Minimalist",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "These 7 sunscreens without white cast work for Indian skin and summers | Fashion Trends",
+        "snippet": null,
+        "domain": "www.hindustantimes.com",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Hindustan Times",
+        "publication_date": "2026-07-10 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "These 7 sunscreens without white cast work for Indian skin and summers | Fashion Trends",
+        "snippet": null,
+        "domain": "www.hindustantimes.com",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html/?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Hindustan Times",
+        "publication_date": "2026-07-10 00:00:00 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best sunscreen no white cast Indian skin SPF 50 PA++++ Minimalist Beauty of Joseon Re'equil 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Haan — Indian skin tones ke liye **white-cast-free SPF 50/PA++++** sunscreen lena ho, to meri top picks ye hain:\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10913482140093209701",
+          "merchants": "Minimalist + others",
+          "id_to_token_map": "dZXI53icbZPJrqNWEIaTPEHWWfUui6srwcFMad0FYAZjg80BDsPGwhzMdDCDjQeUh4luD1JnmUTKLu_RvchzZBmibLtWpfqr6qvFX39_8_1rVv7Zyto-6fnAxKdLd3F2Fw5QnCN86oYWj-mlxL_zDMvxNMvygGJ5WuTm5FOaXBLS5iX-g6ZEmlkIgF5QlMgASuQp-rciSzApT9n2eMyGZZvOWwDFMwwtCKLICQuG51mR_7Vskjz7X-YXDCdQYAEANTexYKa8G_D5M9gp-5kuMgwFBMAJYLEQ55afd3C73H9d-9CP2fD4_GNTnmYAKc-XJ1LmxeXpSMYSP53H0zkdsuz0dO6OTyz1Ie_-O-Ari941Jf7lXXe9vBb5-3Ek2V-3J0VaOStltfMbrY9Cm0p0bdyoZIx1Urzm5LU8vRbkNTt9bJPueky_fPuPek0VZUgVx-86tISUt9QKCJACK23poI5EFYFBaJPMwIPF2EMwywdftO0KaoHaJU4Dm4hCgdeIu5iGceAXkQNaxptk1adj0yKaHjTtHS2x6k8ygbTdpqjQEgoeD2Hsbw27dDWbtn3I-DrZBo14tJAdhrQmJyEEmCkUd4nr2IA1MmJ7rnkpIkoyacRShSmqzNjzEePUtJOCrnZO2jrTRR2pKR1XqMfg_IhrirEoOkhrbTzUMdkEEeMtIQmQmMBAvCda3GEGTogqHKybvkPLp62PN94JcXEgwoQUyzRU6bix2XiJHJsWCarjMtDk1gaoR0F6RxqeZi4DVZMLtA64fjtZAbke6HqCujZtEO4TH7c2Q7ioIW1K2S30se0xto9duokYck8ZUgcNG9uB5m6DeBdOpuGFZnVoUlcDogKJWKQeDt0GjtiQKR_JlF2tbjZRF3ppytCwH_Oc51IrNkHQ8af47tM4Tmo0empNb42uTgLb2CATvr-fh-NnStLYi7vlG56Jirsf8bZe-NnDyYQcxisJx0r-E80Ls_vAQpgfSPyYtm1dZl---2G_d7N0HLJn14O7F8lu4lsC1m2Ma2Uarq5eGm151djjQUoYdrtmWC06uQIwkuf9AiDJtxLr5m5A5XWmjp9jNNa3pqSzA_FvmjPqd2eTAO6RsiC7talRSdvq7RtXlaBi7F3JUt2Vp74oubO6c6r89o2kKi8SNpGanL0pdHxXuE0Hwbsd7ZiCl_EsTjkdGNfEOixWtHzQsjvJCBR22dDwQyK9fbNEL7dFX2uIyvA573OpxZS8NzprXYsDpUly36TrrrNJtOvzVprj7Rt7tXxhGeYFq2tGlsEgDf3lmdBexV1MSzZvUuzq652hhTc5vIa9YleDttyIRaPuDjuHzYk4rPvOB_Jicx26tVaf5WuR7PJjoyQVcvybP4OjrMWWZdVUYFOc-nzVBNi760tb7g5H0b06jw1izWB719HJFe9deM2JOwF_gZ0gSqrZ4muYxnRf0yGvMwmIH2svQCdm49p9JJkLzromy-KqnMilk3Jraa22VXIg496hiw3NRJsKCyenjHah0h7LIC7HoFaHh-9yciy32nDLxYx7jOb9ebjQd0lxjPxfIefonQ",
+          "title": "Minimalist Light Fluid SPF 50 Face Sunscreen",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 358,
+           "rating_max": 5
+          },
+          "price": 315,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/SiYWmnicDcnxDoFAHADgJzqRUG1m6WhxK5Fl_WO5Wpf06-oO1VN5HW_D9-_3_TApuTAVJQPa9lxmKZI3mIxyIRNZ0BGtK0WwmvMC8lWz_J9peanh0NDdIaHZJ4ZwWqmv6LYhDcyuvdMccai6YZwcSBwZ_LLN9mJNFuV6gInuaNSuvKoVxMcxUPWJtTkInRk5mhG_Zu_mXjxwENhzwEE67vRzVtZJWMJwtLr27k7zH12RPls"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "oBF_aq7WJdntptQPt6206Q8",
+            "product_id": "7356715572057196572",
+            "catalog_id": "10913482140093209701",
+            "gpcid": "6719330282682449201",
+            "headline_offer_docid": "2073318899684377597",
+            "image_docid": "7436802422018852657",
+            "rds": "PC_6719330282682449201|PROD_PC_6719330282682449201",
+            "query": "minimalist+light+fluid+sunscreen+spf+50",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIPUmFqYXN0aGFuLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "11558207862570757202",
+          "merchants": "Purplle.com - Purplle Shop + others",
+          "id_to_token_map": "3mNsCXicdVQ5r-vWEQ78C1KkSvWaVBcCeA73PNyCu8grUlzPEU8jUNwpbqKoS4nIr7nPNuCURoB0_h_PhX-L9WAkTZDBYIr5ZsUsv_3pzx95_e_B14_JtFmVfGMtp7MrJn0PPeqncRqyWzrX2b8ABCzgRUCJDAQ8S1EshD-lyZy0Q_kNBiwrQIoXOMjyFM_ykII_V3mStXWf74sin9Qh_WbHcByEAoQ0BxlOBIwAqH_WXVLm_8FFINBQEHnAUoAHIsNyX6bs-pVxleMzCQeeWoZ7RmcpyAEo_sP19-rx_4A_XG759PgqXm_9NZ3yvH_ph5elquf8JU2u80vdZ3XSv1zP9VOMxQtLvYzJ36D8X_6hHNM_uvuf2F-6OvuZ5bmnThBphuEomqdE4cv4Pn9U5fe3W5v_srwokumZiulGnX6JDw6VGPptp7U3YrTVR9l-1P1H1X7k_Y9DMr4X6a_f_UUbFlW5LooXjSNSfSo0CHa2Y2OrxPW7-y2mie_TTptFlhtj0Y808r7XgBPoLZchMUwb0hMFKH5oNaj1Q3SQqDhik6yLHw7QqKi7v_kGAieFWqIA4LAb7hHlvMWrXEdqxqY9YRMj07FqOYEhrPZZREjNrHTN5CC6zl4jn5Fu0aEmwrRxohOc_dNKvGRFTArnA9K01TGiJe1m4EeVG1P-FoXpA2sp46ttnWiVjOBdxtrdOh2qNjhHs3NGl4giZrimS3wWdRtX42nbNjaqmORgxTYWOadz2lBt1RNdqdHTGRkCvQ-tPj77a_isi5zFOO8yQDSTJYcK-Rjc0pWcTx3aJivZ7Q1Eex3ABKLmOQ0cRQtNDlYfIseMuxKkVMTmHSF26OseZokXEXmHiIFC_Y7ocfZW-S1C8vlAS3O8OktqaOyJQjDdVhTpKmaPfGAfqi0xvECHYuC3YpXWgPNgNAff9gxIbIzZm91qi1Fbsr91HntMfLz177hvgW-IQdLI8kl91hRmso_bJjm0VqpX_ff361R8pSSdnYM9Rwpb1x8sxE66rCRTzcyxlkqf3sPl7-B5gTyAz7NiePbHdBjOdf7rd389HoM8vU35Jgh991VyOrIkoIWl6TjJ4OxEaDm-e79k9sqtu11XMkshOTTPsafGefCHsX04pMCUcW3WTR-MPtdzVna_FTltb5QaOaTu3Y5etSpgswMxA1f5_CnQJF_ZHgPJ1gIz1F6V0jPvnCZ__iRpyquUWUhLriu91ru1PbMb_bEIeFwGa1Iuni2k2bFQhvgOfUCKkgEEy1ZyDIc1iT5_UtGrTa_sJnqkuBhaSpXddA0CHVOyMA26JA8EXxI9cGdJXTzpSZ8_Oab6ytLMq3I3JuLFonKtbp28O5bvp2uzAUZw9wxOn9T1PcPNZBFc0iK7s2Z0N2U4lFsucTvViq0wQymGg2iXj0kr-cN0TfsoY-oxE0T1IcBU8Xrt-Qk3WipVTMS36uUojyLjFoy9n9bjUfEz3twmG15rFkOqqU5zCnrZCXU7y_Ylkx-o6Ms3hkPce4yvcxG_Mc29EQrFKl0gYvOxj_PiypTcuZFV98ZTHJTCw2GV0sNjulWXHF-8iEkGvMm00QzhOTJv-YCkE26WNjlulQVgkQzu8W0TDtrvgEv5jA",
+          "title": "The Derma Co 1% Hyaluronic Sunscreen Aqua Gel SPF 50 PA++++",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 4200,
+           "rating_max": 5
+          },
+          "price": 278,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/56d4D3icDcnhEoEwAADgJ1KJKHfOrbrKhTaF44_L6tpS29SovJXH8TZ8f7_vh0gp2oWq5gw3g5B5NpI3pilFK1NJsYJ5rbaEC0FZsXos_7cAu8zyMSKFMb8EZtZva3Z821x0jVfVzi6h5qZyy2qKmqe2TrnX4053jHMEn0ZMDl1ooXBiR1c9xjDUIR2zpC2pv2UDQLW7N9w7zaMu0k8AipQDsglfVtlbOZIgCWZV8QMA_z83"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "oRF_ar-zCe-JwbkP9ann2Q0",
+            "product_id": "12151791094217500522",
+            "catalog_id": "11558207862570757202",
+            "gpcid": "11561017462025026129",
+            "headline_offer_docid": "14662282236246914810",
+            "image_docid": "14918328971501719456",
+            "rds": "PC_11561017462025026129|PROD_PC_11561017462025026129",
+            "query": "sunscreen+no+white+cast+indian+skin+spf+50+pa%2B%2B%2B%2B",
+            "mid": "576462893446037098",
+            "pvt": "hg",
+            "uule": "w+CAIQICIPUmFqYXN0aGFuLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "13253439222638320997",
+          "merchants": "TATA CLiQ LUXURY + others",
+          "id_to_token_map": "_0CelnicbVPLrqNGEI3mC7LIIsvZX12pacBAru4CMA342o1pnmaDeNlg2oANtjHK19x5SJPlTKTs8h8zi3xLPLNNalMl1VFVndI5__z082tR_dWOKE6GNdLFxudxuz6sqytnt5-6U5ufs6HKv3AQcuJMgECU2NmMYxhB-pQlQ0LbXZX_ybCQZzlWghDOWJGFQJKEz2WR5LRqCmu7LU7zNvuOA4BneVZgwIxhZwwHRUH4ozoku-JH_4vACYwosCLPMUDgJMgK8N0p77_CtRoLAsMC8X4AZERJkCReYn5fE2se_3_vw_FcnG5fQVok5-H20G4f9m1ftM3DqaBVsX3oz_eyyoqHO8e0aocqe-i7LQ8-7Lofl_x34rtDlX_mhRk3g_ydLoSAhSzDvOsuw2u5e38-0-Lv64Mqm7apmmvvgI6bEINER-elRs-RTsvXHX2tmteSvhbNxzbpLtvs25tftPY6V_urantd588JcMJczfckyALe8vQI-aF2K2jE4Nq84UBSvBpfbW8R5DpVLQ8DK9zBLBhaV8vxSutgyGDDN6jvIqxsgjzEIRkjODCpUbqOHw0rHV2s-YZLmRXn6XTpeFi3QgzxnvqkUfpC7_ZkXir2tDBI0Bmpi_0EKXXKSFVWj56LIhTpQ7n0xlvuUS3zFi0O8OjWg54zuPcDk8f6Pbs-TvX26mrS2vEVzQ-VhkCNzb0B5kgcItQZNs0m-47PGUXFBhmwS65kf19CFUJYvCEe3iQHHAV-Z25CBZGA9oSRKA4WXObT0Tto7ErrxxUE12BecxGrXNwQTcV-kaSaObladCCQWQX1cMzrMYpQO2xqdHQQtTNKIWFJ5QEAAp0Okb-IUkPpVnq3cqfylLLlNm0o60MJ33lN0aTdfE0y0z0aE0gBgdJgNziwvcxBUOIIlcocKTqZyrO_962UUYb7f1mM0EWvFgox8M0KIpJS5UoOo-PScp1OtN2wMoz2hES0rLN5Pkt0vnk_9qftVyAjfnAs_pD5y9U0OBdDTSYFWTundc1NtFX38m-McLclczcnKwD-Y9a2dVV8e_Oro8lENWJHXmmO6WrP6s42x5mmPL2VNfVZzhe-lvS89kLMgTnUEzZP_vHuc40sVjX1hTMntzos5wYbF7N6oapSoNLh5bh7ejv3n2tWvDCGjC-T2ezkNgdKbHQrE4QpQDJqrRxcbtO42ESj_D2e3saxU2TnU_HouGT9LONDdE3ALjxhdrU_8-IjwyxqOBUaGaBUgTM9lC_nVHFwS8GtW66RHM95h-VBv2HoRtRFwqtouoLEcvvVCxRCs9YfBwAvQn6LppQQb_b0FpvzZ55ln50GKpeTlhC6jOppdJR-jk1kH_FmEfBi4lbcDfTVVhdh1ERlYFe3xS0J7LVqH3UcaCLmITHVemvC1IuYYJZJaNrLAl9Z3jA7x3lyjPjj4TDFZuHr834aJSFeBo3u8i_qbYOCuHVpVk5THLT1uVQcLlxaxkywNnHB6EjZcsexEZP4ZRyU1RWnp6K7HQASZG2r3GZJTBrNvOTqNu_pMr2W7DWxw3ltPSYO5s2dIT-SU3A0KnkneOtHFIC8ydiXSlIEXShkvtqeHlvpLue7SmSjca7_Akzw9nc",
+          "title": "Beauty of Joseon Relief Sun Rice + Probiotics",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 36000,
+           "rating_max": 5
+          },
+          "price": 315,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/j5JhE3icDcndCoIwGADQJ1KXlLYgYuVPlppoCnkTOddalK72SelT9Tq9TZ3b8_1cAKSaGQZr6LOXwGoNqgbpXMEJBNVpezfUpZVSNHzxmP9vRuIa-zSbqiIgyCeBaVUp34UyTUL1wm52H9JSPYr3wS4R7sN2r1ko648TBy072Q2-mzh55-XNbYNCNj3mskbUHL81AXGR3SLstR2YTARjdjrQrbOenK8jm0Yk9VaC8x9PVj1r"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "oxF_atPFG8nV5NoPmPiw4Qo",
+            "product_id": "4224867208936641179",
+            "catalog_id": "13253439222638320997",
+            "gpcid": "7713082082189799591",
+            "headline_offer_docid": "10053537106136142877",
+            "image_docid": "7471873854107492372",
+            "rds": "PC_7713082082189799591|PROD_PC_7713082082189799591",
+            "query": "beauty+of+joseon+relief+sun+rice+probiotic+spf50",
+            "mid": "576462525322032311",
+            "pvt": "hg",
+            "uule": "w+CAIQICIPUmFqYXN0aGFuLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10058662434235163962",
+          "merchants": "Hyphen",
+          "id_to_token_map": "hVdzj3icdVO5juNGELX9BY4dTeJIENDdvD2YgKckjkSJt9SJQLF5n6JIUSL8McbsAazDtQFn_o_dwN_h0LMbOLILhUpeVb1XwKu_vvn-Jcr-aCztGHTzSY7m-ngqdkJQ18gEH9quIUPYZ-QjYpEAOAawELECTVEc-hAGfVA2SUZ-hwAwPMsimqIRxUCWElj0MY0CUmZ1tI3jqFOa8EsfAhRPCTQAHEUxPIIcBL9mVZBEX_HfKIqGFEQ8Q9M0hDyiIHzTkcsneicfIUOzPBBe2VkABVaADMX9vLO2yvF_wHfnIerun4TLUF_CLorqWd3MxjTro1kYXPpZVpMsqGeXInstbTxjwKwNfkTSv_kuab-K_o_db6qM_PKmvfYvafJ2GMroz3EmiytzJa92bqWdD3sDBAttWKvlgBdl-pKUL1n9kpYvUf2-CdprHH7-9m_1GspyF8qm27aeYgF70mlz0hoCpekE0m3g49KkwhtWynO0D0Hk9oqdE8Wq2vXWJ-eobJ99h_jbhUlhaJlhBgCGkuw4luR46e3k49xRvb3jGcCmDPZ1fnvKrbtZlppX8hD75RR6JA_RBoauwZqALDFiAr8yFgGUWFu9DRgKxVZNfdNtGL_AiouI4jiag12h9tx-GeWl8soJPYcEdnGgncmwQzVhTlr77BVgtPYmHSIC7IJYpwrGWO2Lk8vQJiWNjlMaNmCAW6S95aaXqMKejbQhKiAiS2OFPTyeoDZ6ql4EMsxIvnm9sx1NqoXe0nsO3ZYKUD8Zi_bmeobtFW25n4w0qI3JpkrFUPTcrS2MEYAndUV7Ves6qi471YEmruVuAO7CXLvaxc06Qb3BC6YioKUND5-JDCvbta6OH9oaEmyrFNIwg6yJ3N7-4hwoMgefGTalOi4yXbKWxn3rY9vYYwsX_YFMxnm73NDhUjps_FLbeOROSq-Ncmy9vV26-BMQNaa3t5zmh5EYTKek2drZWcZU4DnHULr05_EnyPEsBxHNQ5pj34dNU2TR5-9-OB7tKBy6aG471u5JNCo8BrBEycowgsZYC0g3rN3tTDYTO63XVUKPsWhQHMuccuPO7dvybuDYB4tLPs1ru7XYmtXJbYgjajOXM8_AWb2rqElNbYbs8creyY8Ptipa8vJoixvVXjnqk5yYqxurSo8Poio_iUT31OAyUVO2nsqCmWv3kffbsdE7-Wxu-JAcY7k53JAFcZzQr9aT9ODoNFPgPj4o3tOGmpi5ew_9uCmBIu3CybY1H0h812ii1GD_HGj2rheV0RRf4_HBWClPDEU_ybdFh82DIF_SoZLWx-R6uuRzuLBv5oLVOmW6Ej_vdOwnlMCs9d67rSTUJEs22FWKftAd4oU-aoRNcu_UhNt3l7B2CZ21hBeUO49ev7NWEeDmaiimtMuVyvkotQK9i-nNtpuOR9ki3GoZzDk1HxdiBirViKlxzWdlL23ORLp7cZ0806zHXg_-pY8Pz3R-y_lY1pMdFPzVfXuI4gudsEUuKbuBAywSnf1-EsP9vRvSc-SfTZcOGn9O1HbloMJdDVHjiSc_H8vguJRH6Au42R2f506j_gMtHu2x",
+          "title": "HYPHEN Sunscreen SPF 50",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 228,
+           "rating_max": 5
+          },
+          "price": 549,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/qFadPHicDcnhDkJAAADgJ0KEla21I5E2Fl2aP6Zj51jOuUt4qN6nt6nv7_f91EL03FKUqkPD3IuqlMSjW8uYi0IQJCP6VHhN-550eM92_7NAWG49lOjoDucwXcErjI5zYmBfr5hhYLPV4qyaEt9NXPO2jKXeepAgnouaU2KDiW0GplFUQHUJltM6bV4owKOTuV5zMC6A2nP0LmIpl2opOwPmap5NYENz1S6dHyQLPcA"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "oRF_ar-zCe-JwbkP9ann2Q0",
+            "product_id": "262907506126943372",
+            "catalog_id": "10058662434235163962",
+            "gpcid": "15468092696019691537",
+            "headline_offer_docid": "12038394007335821710",
+            "image_docid": "3341312854441182311",
+            "rds": "PC_15468092696019691537|PROD_PC_15468092696019691537",
+            "query": "sunscreen+no+white+cast+indian+skin+spf+50+pa%2B%2B%2B%2B",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIPUmFqYXN0aGFuLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n### 🥇 Meri #1 pick: Minimalist Light Fluid SPF 50\n- **White cast:** generally nahi\n- **Finish:** lightweight, natural; oily/combination skin ke liye especially achha\n- **Protection:** SPF 50, PA++++\n- Current listing mein ~₹315–₹450 range dikh rahi hai. [beminimalist.co](https://beminimalist.co/collections/spf/products/multi-vitamin-spf-50?utm_source=chatgpt.com)\n\n### Agar skin oily hai\n**The Derma Co 1% Hyaluronic Aqua Gel SPF 50 PA++++** — lightweight, non-greasy aur white-cast-free option. [www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html?utm_source=chatgpt.com)\n\n### Agar skin dry/normal hai\n**Beauty of Joseon Relief Sun** — creamy/moisturising feel, makeup ke neeche bhi comfortable. Indian-skin/summer recommendations mein bhi frequently included hai. [www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html/?utm_source=chatgpt.com)\n\n### Agar bahut zyada sweat hota hai\n**Re'equil Ultra Matte Dry Touch SPF 50 PA++++** — matte finish aur water/sweat resistance ke liye strong choice; Indian summer mein especially useful. [www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html/?utm_source=chatgpt.com)\n\n**Agar mujhe sirf ek choose karna ho:** 👉 **Minimalist Light Fluid SPF 50**.\n\nAap mujhe bas bata do **aapki skin oily, dry, combination ya acne-prone hai + budget (₹300/₹500/₹1000)**, main aapke liye **1 exact sunscreen** choose kar dunga.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Multi-Vitamin SPF 50 - Broad spectrum SPF 50 sunscreen with PA++++ rating | Minimalist",
+          "snippet": null,
+          "domain": "beminimalist.co",
+          "url": "https://beminimalist.co/collections/spf/products/multi-vitamin-spf-50?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Minimalist",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "These 7 sunscreens without white cast work for Indian skin and summers | Fashion Trends",
+          "snippet": null,
+          "domain": "www.hindustantimes.com",
+          "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Hindustan Times",
+          "publication_date": "2026-07-10 00:00:00 +00:00",
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "These 7 sunscreens without white cast work for Indian skin and summers | Fashion Trends",
+          "snippet": null,
+          "domain": "www.hindustantimes.com",
+          "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Hindustan Times",
+          "publication_date": "2026-07-10 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

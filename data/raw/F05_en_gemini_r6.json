@@ -1,0 +1,200 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 6,
+  "promptText": "Which sarees should I buy online in India for a wedding on a budget?",
+  "cellId": "F05_en_gemini_r6",
+  "startedAt": "2026-08-14T13:11:13.956Z",
+  "finishedAt": "2026-08-14T13:11:46.367Z",
+  "durationMs": 32411,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Buying a wedding saree online on a budget requires balancing how rich the fabric looks with its actual price point. Authentic heavy Kanjeevarams or pure Katan Banarasis can easily cross ₹30,000 to ₹50,000+, but gorgeous, wedding-appropriate alternatives are widely available online in the **₹3,000 to ₹15,000** range.\n\n---\n\n### Best Budget-Friendly Wedding Sarees to Buy Online\n\n| Saree Type | Best For | Why It Works on a Budget | Estimated Price Range (Online) |\n| :--- | :--- | :--- | :--- |\n| **Chinia Silk / Soft Silk** | Main rituals, close family, or budget brides | Gives the rich, heavy sheen of traditional silk without the exorbitant cost or weight. | ₹4,000 – ₹10,000 |\n| **Tissue Silk / Shimmer** | Evening receptions & cocktail sangeets | Naturally catches the light and looks high-end and metallic under evening wedding lights. | ₹5,000 – ₹12,000 |\n| **Organza (with Zari Weaving)** | Day functions, mehendi, or engagements | Offers a trendy, airy, and youthful look; pastel organzas with cutwork borders look very designer. | ₹2,500 – ₹8,000 |\n| **Georgette / Crepe (Embroidered)** | Sangeet, reception, or guest wear | Fluid drape, easy to manage, and heavily embellished variants with sequins/threadwork look grand. | ₹3,000 – ₹9,000 |\n| **Semi-Banarasi / Kora Silk** | Traditional ceremonies | Replicates the grandeur of traditional Banarasi brocade using alternative silk blends. | ₹3,500 – ₹10,000 |\n\n---\n\n### Reliable Online Platforms to Explore\n\nTo get good quality within a budget and avoid cheap synthetic knock-offs, look at these trusted Indian online stores and platforms:\n\n* **Handloom & Ethnic Specialists:** *Meena Bazaar, Nalli (check their \"Under 5k\" or festive sales), House of Aarna, or Karagiri* offer great mid-range traditional weaves.\n* **Curated Fashion Marketplaces:** *Myntra* and *Nykaa Fashion* frequently run deep discounts on brands like *Sangria, Indya, and Anouk* for embroidered georgettes and organzas.\n* **Direct Weaver Portals:** Look for handloom co-op websites based out of Varanasi, Chanderi, or Pochampally if you want authentic regional weaves without middleman markups.\n\n---\n\n### Smart Tips for Buying Wedding Sarees Online\n\n1.  **Look for \"Silk Mark\" Certification:** If you are buying a budget silk blend or soft silk online, check the product description for a Silk Mark tag to ensure you aren't paying synthetic prices for pure fiber (or vice versa).\n2.  **Scrutinize the Blouse Piece:** Many budget sarees come with an unstitched matching blouse piece, but some budget designer pieces sell \"saree only\" and require you to source matching fabric separately. Always check the specifications.\n3.  **Check Return & Exchange Policies:** Wedding outfits have strict color matching needs. Ensure the online platform has a hassle-free return or exchange policy in case the shade looks different in natural light compared to studio photos.\n\n---\n\nTo help narrow down the best options for your specific event, could you share:\n\n1.  What is your approximate total budget for the saree?\n2.  Are you shopping as the bride, a close family member, or a wedding guest?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "28.0787 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141311-2163-0629-0000-cee399c2814c",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "24.2307 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:11:44 +00:00",
+      "markdown": "Buying a wedding saree online on a budget requires balancing how rich the fabric looks with its actual price point. Authentic heavy Kanjeevarams or pure Katan Banarasis can easily cross ₹30,000 to ₹50,000+, but gorgeous, wedding-appropriate alternatives are widely available online in the **₹3,000 to ₹15,000** range.\n\n---\n\n### Best Budget-Friendly Wedding Sarees to Buy Online\n\n| Saree Type | Best For | Why It Works on a Budget | Estimated Price Range (Online) |\n| :--- | :--- | :--- | :--- |\n| **Chinia Silk / Soft Silk** | Main rituals, close family, or budget brides | Gives the rich, heavy sheen of traditional silk without the exorbitant cost or weight. | ₹4,000 – ₹10,000 |\n| **Tissue Silk / Shimmer** | Evening receptions & cocktail sangeets | Naturally catches the light and looks high-end and metallic under evening wedding lights. | ₹5,000 – ₹12,000 |\n| **Organza (with Zari Weaving)** | Day functions, mehendi, or engagements | Offers a trendy, airy, and youthful look; pastel organzas with cutwork borders look very designer. | ₹2,500 – ₹8,000 |\n| **Georgette / Crepe (Embroidered)** | Sangeet, reception, or guest wear | Fluid drape, easy to manage, and heavily embellished variants with sequins/threadwork look grand. | ₹3,000 – ₹9,000 |\n| **Semi-Banarasi / Kora Silk** | Traditional ceremonies | Replicates the grandeur of traditional Banarasi brocade using alternative silk blends. | ₹3,500 – ₹10,000 |\n\n---\n\n### Reliable Online Platforms to Explore\n\nTo get good quality within a budget and avoid cheap synthetic knock-offs, look at these trusted Indian online stores and platforms:\n\n* **Handloom & Ethnic Specialists:** *Meena Bazaar, Nalli (check their \"Under 5k\" or festive sales), House of Aarna, or Karagiri* offer great mid-range traditional weaves.\n* **Curated Fashion Marketplaces:** *Myntra* and *Nykaa Fashion* frequently run deep discounts on brands like *Sangria, Indya, and Anouk* for embroidered georgettes and organzas.\n* **Direct Weaver Portals:** Look for handloom co-op websites based out of Varanasi, Chanderi, or Pochampally if you want authentic regional weaves without middleman markups.\n\n---\n\n### Smart Tips for Buying Wedding Sarees Online\n\n1.  **Look for \"Silk Mark\" Certification:** If you are buying a budget silk blend or soft silk online, check the product description for a Silk Mark tag to ensure you aren't paying synthetic prices for pure fiber (or vice versa).\n2.  **Scrutinize the Blouse Piece:** Many budget sarees come with an unstitched matching blouse piece, but some budget designer pieces sell \"saree only\" and require you to source matching fabric separately. Always check the specifications.\n3.  **Check Return & Exchange Policies:** Wedding outfits have strict color matching needs. Ensure the online platform has a hassle-free return or exchange policy in case the shade looks different in natural light compared to studio photos.\n\n---\n\nTo help narrow down the best options for your specific event, could you share:\n\n1.  What is your approximate total budget for the saree?\n2.  Are you shopping as the bride, a close family member, or a wedding guest?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 10,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Buying a wedding saree online on a budget requires balancing how rich the fabric looks with its actual price point. Authentic heavy Kanjeevarams or pure Katan Banarasis can easily cross ₹30,000 to ₹50,000+, but gorgeous, wedding-appropriate alternatives are widely available online in the **₹3,000 to ₹15,000** range.",
+        "original_text": "Buying a wedding saree online on a budget requires balancing how rich the fabric looks with its actual price point. Authentic heavy Kanjeevarams or pure Katan Banarasis can easily cross ₹30,000 to ₹50,000+, but gorgeous, wedding-appropriate alternatives are widely available online in the ₹3,000 to ₹15,000 range.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### Best Budget-Friendly Wedding Sarees to Buy Online",
+        "original_text": "Best Budget-Friendly Wedding Sarees to Buy Online",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "markdown": "| Saree Type | Best For | Why It Works on a Budget | Estimated Price Range (Online) |\n| :--- | :--- | :--- | :--- |\n| **Chinia Silk / Soft Silk** | Main rituals, close family, or budget brides | Gives the rich, heavy sheen of traditional silk without the exorbitant cost or weight. | ₹4,000 – ₹10,000 |\n| **Tissue Silk / Shimmer** | Evening receptions & cocktail sangeets | Naturally catches the light and looks high-end and metallic under evening wedding lights. | ₹5,000 – ₹12,000 |\n| **Organza (with Zari Weaving)** | Day functions, mehendi, or engagements | Offers a trendy, airy, and youthful look; pastel organzas with cutwork borders look very designer. | ₹2,500 – ₹8,000 |\n| **Georgette / Crepe (Embroidered)** | Sangeet, reception, or guest wear | Fluid drape, easy to manage, and heavily embellished variants with sequins/threadwork look grand. | ₹3,000 – ₹9,000 |\n| **Semi-Banarasi / Kora Silk** | Traditional ceremonies | Replicates the grandeur of traditional Banarasi brocade using alternative silk blends. | ₹3,500 – ₹10,000 |",
+        "original_text": "Saree Type\tBest For\tWhy It Works on a Budget\tEstimated Price Range (Online)\nChinia Silk / Soft Silk\tMain rituals, close family, or budget brides\tGives the rich, heavy sheen of traditional silk without the exorbitant cost or weight.\t₹4,000 – ₹10,000\nTissue Silk / Shimmer\tEvening receptions & cocktail sangeets\tNaturally catches the light and looks high-end and metallic under evening wedding lights.\t₹5,000 – ₹12,000\nOrganza (with Zari Weaving)\tDay functions, mehendi, or engagements\tOffers a trendy, airy, and youthful look; pastel organzas with cutwork borders look very designer.\t₹2,500 – ₹8,000\nGeorgette / Crepe (Embroidered)\tSangeet, reception, or guest wear\tFluid drape, easy to manage, and heavily embellished variants with sequins/threadwork look grand.\t₹3,000 – ₹9,000\nSemi-Banarasi / Kora Silk\tTraditional ceremonies\tReplicates the grandeur of traditional Banarasi brocade using alternative silk blends.\t₹3,500 – ₹10,000",
+        "table": {
+         "table_header": [
+          "Saree Type",
+          "Best For",
+          "Why It Works on a Budget",
+          "Estimated Price Range (Online)"
+         ],
+         "table_content": [
+          [
+           "Chinia Silk / Soft Silk",
+           "Main rituals, close family, or budget brides",
+           "Gives the rich, heavy sheen of traditional silk without the exorbitant cost or weight.",
+           "₹4,000 – ₹10,000"
+          ],
+          [
+           "Tissue Silk / Shimmer",
+           "Evening receptions & cocktail sangeets",
+           "Naturally catches the light and looks high-end and metallic under evening wedding lights.",
+           "₹5,000 – ₹12,000"
+          ],
+          [
+           "Organza (with Zari Weaving)",
+           "Day functions, mehendi, or engagements",
+           "Offers a trendy, airy, and youthful look; pastel organzas with cutwork borders look very designer.",
+           "₹2,500 – ₹8,000"
+          ],
+          [
+           "Georgette / Crepe (Embroidered)",
+           "Sangeet, reception, or guest wear",
+           "Fluid drape, easy to manage, and heavily embellished variants with sequins/threadwork look grand.",
+           "₹3,000 – ₹9,000"
+          ],
+          [
+           "Semi-Banarasi / Kora Silk",
+           "Traditional ceremonies",
+           "Replicates the grandeur of traditional Banarasi brocade using alternative silk blends.",
+           "₹3,500 – ₹10,000"
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "markdown": "### Reliable Online Platforms to Explore",
+        "original_text": "Reliable Online Platforms to Explore",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "markdown": "To get good quality within a budget and avoid cheap synthetic knock-offs, look at these trusted Indian online stores and platforms:",
+        "original_text": "To get good quality within a budget and avoid cheap synthetic knock-offs, look at these trusted Indian online stores and platforms:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "markdown": "* **Handloom & Ethnic Specialists:** *Meena Bazaar, Nalli (check their \"Under 5k\" or festive sales), House of Aarna, or Karagiri* offer great mid-range traditional weaves.\n* **Curated Fashion Marketplaces:** *Myntra* and *Nykaa Fashion* frequently run deep discounts on brands like *Sangria, Indya, and Anouk* for embroidered georgettes and organzas.\n* **Direct Weaver Portals:** Look for handloom co-op websites based out of Varanasi, Chanderi, or Pochampally if you want authentic regional weaves without middleman markups.",
+        "original_text": "Handloom & Ethnic Specialists: Meena Bazaar, Nalli (check their \"Under 5k\" or festive sales), House of Aarna, or Karagiri offer great mid-range traditional weaves.\nCurated Fashion Marketplaces: Myntra and Nykaa Fashion frequently run deep discounts on brands like Sangria, Indya, and Anouk for embroidered georgettes and organzas.\nDirect Weaver Portals: Look for handloom co-op websites based out of Varanasi, Chanderi, or Pochampally if you want authentic regional weaves without middleman markups.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "markdown": "### Smart Tips for Buying Wedding Sarees Online",
+        "original_text": "Smart Tips for Buying Wedding Sarees Online",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 8,
+        "markdown": "1.  **Look for \"Silk Mark\" Certification:** If you are buying a budget silk blend or soft silk online, check the product description for a Silk Mark tag to ensure you aren't paying synthetic prices for pure fiber (or vice versa).\n2.  **Scrutinize the Blouse Piece:** Many budget sarees come with an unstitched matching blouse piece, but some budget designer pieces sell \"saree only\" and require you to source matching fabric separately. Always check the specifications.\n3.  **Check Return & Exchange Policies:** Wedding outfits have strict color matching needs. Ensure the online platform has a hassle-free return or exchange policy in case the shade looks different in natural light compared to studio photos.",
+        "original_text": "Look for \"Silk Mark\" Certification: If you are buying a budget silk blend or soft silk online, check the product description for a Silk Mark tag to ensure you aren't paying synthetic prices for pure fiber (or vice versa).\nScrutinize the Blouse Piece: Many budget sarees come with an unstitched matching blouse piece, but some budget designer pieces sell \"saree only\" and require you to source matching fabric separately. Always check the specifications.\nCheck Return & Exchange Policies: Wedding outfits have strict color matching needs. Ensure the online platform has a hassle-free return or exchange policy in case the shade looks different in natural light compared to studio photos.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 9,
+        "markdown": "To help narrow down the best options for your specific event, could you share:",
+        "original_text": "To help narrow down the best options for your specific event, could you share:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 10,
+        "markdown": "1.  What is your approximate total budget for the saree?\n2.  Are you shopping as the bride, a close family member, or a wedding guest?",
+        "original_text": "What is your approximate total budget for the saree?\nAre you shopping as the bride, a close family member, or a wedding guest?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

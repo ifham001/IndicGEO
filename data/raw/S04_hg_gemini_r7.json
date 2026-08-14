@@ -1,0 +1,198 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S04",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 7,
+  "promptText": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+  "cellId": "S04_hg_gemini_r7",
+  "startedAt": "2026-08-14T13:01:18.055Z",
+  "finishedAt": "2026-08-14T13:01:44.494Z",
+  "durationMs": 26439,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-08-14T13:01:00.762Z",
+    "error": "empty/short answer (30 chars)"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Indian winters mein dry skin ke liye aisi creams ya lotions best hote hain jo deep nourishment dein, skin ki natural moisture barrier ko repair karein, aur long-lasting hydration provide karein.\n\nWinter ke liye kuch sabse acche aur dermatologist-recommended moisturizers yeh rahe:\n\n---\n\n### 1. Cetaphil Moisturizing Cream\n\n* **Kiske liye best hai:** Extremely dry aur sensitive skin ke liye.\n* **Kyun kharidein:** Isme sweet almond oil aur glycerin hota hai jo skin ko 48 hours tak hydrate rakhta hai. Yeh non-comedogenic hai (pores ko block nahi karta) aur fragrance-free hai.\n\n### 2. Physiogel Calming Relief AI Cream\n\n* **Kiske liye best hai:** Bahut zyada dry, flaky aur irritated skin ke liye.\n* **Kyun kharidein:** Yeh BioMimic Technology par kaam karti hai jo skin ki natural lipid barrier ko repair karne mein madad karti hai.\n\n### 3. Bioderma Atoderm Creme\n\n* **Kiske liye best hai:** Dry to very dry sensitive skin (face aur body dono ke liye).\n* **Kyun kharidein:** Yeh skin ko deep hydration deti hai aur winter mein skin ki dryness aur tightness ko turant theek karti hai.\n\n### 4. Plum E-Luminence Deep Moisturizing Crème\n\n* **Kiske liye best hai:** Normal to dry skin ke liye ek nourishing option.\n* **Kyun kharidein:** Yeh ek rich, butter-like texture wali cream hai jisme Vitamin E aur plant-derived oils hote hain jo skin ko soft aur glowing banate hain.\n\n### 5. Emolene Cream (Budget-Friendly & Popular)\n\n* **Kiske liye best hai:** Daily use ke liye lightweight hydration.\n* **Kyun kharidein:** Isme Propylene Glycol aur Urea hota hai jo skin mein moisture ko lock karta hai. (Lekin agar skin extremely dry hai, toh thodi heavy cream zyada behtar rahegi).\n\n---\n\n### Winter Moisturizer kharidte waqt in baaton ka dhyan rakhein:\n\n* **Ingredients check karein:** Aise products chunein jinme **Ceramides, Hyaluronic Acid, Glycerin, Shea Butter, ya Niacinamide** ho. Yeh ingredients dry skin ko andar se heal karte hain.\n* **Application tip:** Moisturizer hamesha halki geeli (damp) skin par lagayein, jaise nahane ke turant baad, taaki moisture skin mein achhi tarah lock ho sake.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "25.8119 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141301-2163-0629-0000-62c830e54f88",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "25.7925 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:01:43 +00:00",
+      "markdown": "Indian winters mein dry skin ke liye aisi creams ya lotions best hote hain jo deep nourishment dein, skin ki natural moisture barrier ko repair karein, aur long-lasting hydration provide karein.\n\nWinter ke liye kuch sabse acche aur dermatologist-recommended moisturizers yeh rahe:\n\n---\n\n### 1. Cetaphil Moisturizing Cream\n\n* **Kiske liye best hai:** Extremely dry aur sensitive skin ke liye.\n* **Kyun kharidein:** Isme sweet almond oil aur glycerin hota hai jo skin ko 48 hours tak hydrate rakhta hai. Yeh non-comedogenic hai (pores ko block nahi karta) aur fragrance-free hai.\n\n### 2. Physiogel Calming Relief AI Cream\n\n* **Kiske liye best hai:** Bahut zyada dry, flaky aur irritated skin ke liye.\n* **Kyun kharidein:** Yeh BioMimic Technology par kaam karti hai jo skin ki natural lipid barrier ko repair karne mein madad karti hai.\n\n### 3. Bioderma Atoderm Creme\n\n* **Kiske liye best hai:** Dry to very dry sensitive skin (face aur body dono ke liye).\n* **Kyun kharidein:** Yeh skin ko deep hydration deti hai aur winter mein skin ki dryness aur tightness ko turant theek karti hai.\n\n### 4. Plum E-Luminence Deep Moisturizing Crème\n\n* **Kiske liye best hai:** Normal to dry skin ke liye ek nourishing option.\n* **Kyun kharidein:** Yeh ek rich, butter-like texture wali cream hai jisme Vitamin E aur plant-derived oils hote hain jo skin ko soft aur glowing banate hain.\n\n### 5. Emolene Cream (Budget-Friendly & Popular)\n\n* **Kiske liye best hai:** Daily use ke liye lightweight hydration.\n* **Kyun kharidein:** Isme Propylene Glycol aur Urea hota hai jo skin mein moisture ko lock karta hai. (Lekin agar skin extremely dry hai, toh thodi heavy cream zyada behtar rahegi).\n\n---\n\n### Winter Moisturizer kharidte waqt in baaton ka dhyan rakhein:\n\n* **Ingredients check karein:** Aise products chunein jinme **Ceramides, Hyaluronic Acid, Glycerin, Shea Butter, ya Niacinamide** ho. Yeh ingredients dry skin ko andar se heal karte hain.\n* **Application tip:** Moisturizer hamesha halki geeli (damp) skin par lagayein, jaise nahane ke turant baad, taaki moisture skin mein achhi tarah lock ho sake.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 14,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Indian winters mein dry skin ke liye aisi creams ya lotions best hote hain jo deep nourishment dein, skin ki natural moisture barrier ko repair karein, aur long-lasting hydration provide karein.",
+        "original_text": "Indian winters mein dry skin ke liye aisi creams ya lotions best hote hain jo deep nourishment dein, skin ki natural moisture barrier ko repair karein, aur long-lasting hydration provide karein.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Winter ke liye kuch sabse acche aur dermatologist-recommended moisturizers yeh rahe:",
+        "original_text": "Winter ke liye kuch sabse acche aur dermatologist-recommended moisturizers yeh rahe:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### 1. Cetaphil Moisturizing Cream",
+        "original_text": "1. Cetaphil Moisturizing Cream",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Kiske liye best hai:** Extremely dry aur sensitive skin ke liye.\n* **Kyun kharidein:** Isme sweet almond oil aur glycerin hota hai jo skin ko 48 hours tak hydrate rakhta hai. Yeh non-comedogenic hai (pores ko block nahi karta) aur fragrance-free hai.",
+        "original_text": "Kiske liye best hai: Extremely dry aur sensitive skin ke liye.\nKyun kharidein: Isme sweet almond oil aur glycerin hota hai jo skin ko 48 hours tak hydrate rakhta hai. Yeh non-comedogenic hai (pores ko block nahi karta) aur fragrance-free hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. Physiogel Calming Relief AI Cream",
+        "original_text": "2. Physiogel Calming Relief AI Cream",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Kiske liye best hai:** Bahut zyada dry, flaky aur irritated skin ke liye.\n* **Kyun kharidein:** Yeh BioMimic Technology par kaam karti hai jo skin ki natural lipid barrier ko repair karne mein madad karti hai.",
+        "original_text": "Kiske liye best hai: Bahut zyada dry, flaky aur irritated skin ke liye.\nKyun kharidein: Yeh BioMimic Technology par kaam karti hai jo skin ki natural lipid barrier ko repair karne mein madad karti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "### 3. Bioderma Atoderm Creme",
+        "original_text": "3. Bioderma Atoderm Creme",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Kiske liye best hai:** Dry to very dry sensitive skin (face aur body dono ke liye).\n* **Kyun kharidein:** Yeh skin ko deep hydration deti hai aur winter mein skin ki dryness aur tightness ko turant theek karti hai.",
+        "original_text": "Kiske liye best hai: Dry to very dry sensitive skin (face aur body dono ke liye).\nKyun kharidein: Yeh skin ko deep hydration deti hai aur winter mein skin ki dryness aur tightness ko turant theek karti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### 4. Plum E-Luminence Deep Moisturizing Crème",
+        "original_text": "4. Plum E-Luminence Deep Moisturizing Crème",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "* **Kiske liye best hai:** Normal to dry skin ke liye ek nourishing option.\n* **Kyun kharidein:** Yeh ek rich, butter-like texture wali cream hai jisme Vitamin E aur plant-derived oils hote hain jo skin ko soft aur glowing banate hain.",
+        "original_text": "Kiske liye best hai: Normal to dry skin ke liye ek nourishing option.\nKyun kharidein: Yeh ek rich, butter-like texture wali cream hai jisme Vitamin E aur plant-derived oils hote hain jo skin ko soft aur glowing banate hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "### 5. Emolene Cream (Budget-Friendly & Popular)",
+        "original_text": "5. Emolene Cream (Budget-Friendly & Popular)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "* **Kiske liye best hai:** Daily use ke liye lightweight hydration.\n* **Kyun kharidein:** Isme Propylene Glycol aur Urea hota hai jo skin mein moisture ko lock karta hai. (Lekin agar skin extremely dry hai, toh thodi heavy cream zyada behtar rahegi).",
+        "original_text": "Kiske liye best hai: Daily use ke liye lightweight hydration.\nKyun kharidein: Isme Propylene Glycol aur Urea hota hai jo skin mein moisture ko lock karta hai. (Lekin agar skin extremely dry hai, toh thodi heavy cream zyada behtar rahegi).",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "markdown": "### Winter Moisturizer kharidte waqt in baaton ka dhyan rakhein:",
+        "original_text": "Winter Moisturizer kharidte waqt in baaton ka dhyan rakhein:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 14,
+        "rank_absolute": 14,
+        "markdown": "* **Ingredients check karein:** Aise products chunein jinme **Ceramides, Hyaluronic Acid, Glycerin, Shea Butter, ya Niacinamide** ho. Yeh ingredients dry skin ko andar se heal karte hain.\n* **Application tip:** Moisturizer hamesha halki geeli (damp) skin par lagayein, jaise nahane ke turant baad, taaki moisture skin mein achhi tarah lock ho sake.",
+        "original_text": "Ingredients check karein: Aise products chunein jinme Ceramides, Hyaluronic Acid, Glycerin, Shea Butter, ya Niacinamide ho. Yeh ingredients dry skin ko andar se heal karte hain.\nApplication tip: Moisturizer hamesha halki geeli (damp) skin par lagayein, jaise nahane ke turant baad, taaki moisture skin mein achhi tarah lock ho sake.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,443 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S05",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 3,
+  "promptText": "Which serum should I buy for acne-prone skin in India under ₹700?",
+  "cellId": "S05_en_chatgpt_r3",
+  "startedAt": "2026-08-14T12:57:15.615Z",
+  "finishedAt": "2026-08-14T12:57:49.533Z",
+  "durationMs": 33918,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "If you’re acne-prone and want to stay **under ₹700**, I’d prioritize a **2% salicylic acid serum** if you get active pimples, blackheads, or clogged pores.\n\n### [Minimalist Salicylic Acid Face Serum]()\n*₹549*\n\n### [Deconstruct Pore Control Serum]()\n*₹639*\n\n### [Dot & Key Cica + 2% Salicylic Skin Clearing Serum]()\n*₹399*\n\n### [The Derma Co Sali-Cinamide Anti-Acne Face Serum]()\n*₹314*\n\n### My picks\n\n**🥇 Best overall: Minimalist 2% Salicylic Acid Serum — ~₹549**  \nA straightforward 2% salicylic-acid option for acne, blackheads and oily skin. Minimalist currently lists it at ₹522–₹549 depending on size/offer. [beminimalist.co](https://beminimalist.co/collections/serums-acne-acne-prone-skin?utm_source=chatgpt.com)\n\n**🥈 Best if your skin gets irritated: Dot & Key Cica + 2% Salicylic — ₹550 MRP**  \nIt combines 2% salicylic acid with cica, zinc and niacinamide, so it’s a nice choice if you want acne treatment plus soothing/barrier-supporting ingredients. [www.dotandkey.com](https://www.dotandkey.com/products/dot-key-cica-2-salicylic-acne-control-serum-with-zinc-for-clear-skin-reduces-blackheads-whiteheads-oily-acne-prone-skin?_fid=46ad3edce&_pos=4&_ss=c&utm_source=chatgpt.com)\n\n**🥉 Best 2-in-1 for oily skin: Deconstruct Pore Control — ~₹599**  \nIt has **2% liposomal salicylic acid + 3% niacinamide**, targeting both clogged pores and excess oil. [thedeconstruct.in](https://thedeconstruct.in/products/pore-control-serum?utm_source=chatgpt.com)\n\n**Budget alternative: The Derma Co Sali-Cinamide — ~₹314**  \nA 2% salicylic-acid + niacinamide formula if you want to spend less. Current listed pricing can vary by retailer. [www.nykaaman.com](https://www.nykaaman.com/dp/serums-for-acne?utm_source=chatgpt.com)\n\n### What I'd buy\nIf I had to choose **one without knowing anything else about your skin: Minimalist 2% Salicylic Acid**.\n\nUse it **2–3 nights a week initially**, then increase if your skin tolerates it. Don't start with daily use, and wear sunscreen in the daytime. If your acne is severe, painful/cystic, or leaving scars, a dermatologist is a better route than adding stronger serums.\n\nIf you tell me **your skin type (oily/dry/combination) + whether you mainly have pimples, blackheads, or acne marks**, I can narrow it down to the best **₹300–700 option** for you.",
+  "citations": [
+   {
+    "url": "https://beminimalist.co/collections/serums-acne-acne-prone-skin?utm_source=chatgpt.com",
+    "source_name": "Minimalist",
+    "position": 1
+   },
+   {
+    "url": "https://www.dotandkey.com/products/dot-key-cica-2-salicylic-acne-control-serum-with-zinc-for-clear-skin-reduces-blackheads-whiteheads-oily-acne-prone-skin?_fid=46ad3edce&_pos=4&_ss=c&utm_source=chatgpt.com",
+    "source_name": "Dot & Key",
+    "position": 2
+   },
+   {
+    "url": "https://thedeconstruct.in/products/pore-control-serum?utm_source=chatgpt.com",
+    "source_name": "thedeconstruct",
+    "position": 3
+   },
+   {
+    "url": "https://www.nykaaman.com/dp/serums-for-acne?utm_source=chatgpt.com",
+    "source_name": "Nykaa Man",
+    "position": 4
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "33.4830 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141257-2163-0629-0000-b2f044a3e18e",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "33.4731 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Which serum should I buy for acne-prone skin in India under ₹700?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which serum should I buy for acne-prone skin in India under ₹700?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20serum%20should%20I%20buy%20for%20acne-prone%20skin%20in%20India%20under%20%E2%82%B9700%3F&hints=search",
+      "datetime": "2026-08-14 12:57:48 +00:00",
+      "markdown": "If you’re acne-prone and want to stay **under ₹700**, I’d prioritize a **2% salicylic acid serum** if you get active pimples, blackheads, or clogged pores.\n\n### [Minimalist Salicylic Acid Face Serum]()\n*₹549*\n\n### [Deconstruct Pore Control Serum]()\n*₹639*\n\n### [Dot & Key Cica + 2% Salicylic Skin Clearing Serum]()\n*₹399*\n\n### [The Derma Co Sali-Cinamide Anti-Acne Face Serum]()\n*₹314*\n\n### My picks\n\n**🥇 Best overall: Minimalist 2% Salicylic Acid Serum — ~₹549**  \nA straightforward 2% salicylic-acid option for acne, blackheads and oily skin. Minimalist currently lists it at ₹522–₹549 depending on size/offer. [beminimalist.co](https://beminimalist.co/collections/serums-acne-acne-prone-skin?utm_source=chatgpt.com)\n\n**🥈 Best if your skin gets irritated: Dot & Key Cica + 2% Salicylic — ₹550 MRP**  \nIt combines 2% salicylic acid with cica, zinc and niacinamide, so it’s a nice choice if you want acne treatment plus soothing/barrier-supporting ingredients. [www.dotandkey.com](https://www.dotandkey.com/products/dot-key-cica-2-salicylic-acne-control-serum-with-zinc-for-clear-skin-reduces-blackheads-whiteheads-oily-acne-prone-skin?_fid=46ad3edce&_pos=4&_ss=c&utm_source=chatgpt.com)\n\n**🥉 Best 2-in-1 for oily skin: Deconstruct Pore Control — ~₹599**  \nIt has **2% liposomal salicylic acid + 3% niacinamide**, targeting both clogged pores and excess oil. [thedeconstruct.in](https://thedeconstruct.in/products/pore-control-serum?utm_source=chatgpt.com)\n\n**Budget alternative: The Derma Co Sali-Cinamide — ~₹314**  \nA 2% salicylic-acid + niacinamide formula if you want to spend less. Current listed pricing can vary by retailer. [www.nykaaman.com](https://www.nykaaman.com/dp/serums-for-acne?utm_source=chatgpt.com)\n\n### What I'd buy\nIf I had to choose **one without knowing anything else about your skin: Minimalist 2% Salicylic Acid**.\n\nUse it **2–3 nights a week initially**, then increase if your skin tolerates it. Don't start with daily use, and wear sunscreen in the daytime. If your acne is severe, painful/cystic, or leaving scars, a dermatologist is a better route than adding stronger serums.\n\nIf you tell me **your skin type (oily/dry/combination) + whether you mainly have pimples, blackheads, or acne marks**, I can narrow it down to the best **₹300–700 option** for you.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://thedeconstruct.in/collections/anti-acne?utm_source=chatgpt.com",
+        "domain": "thedeconstruct.in",
+        "title": "Buy Anti Acne Serums Online at Best Price | Deconstruct",
+        "description": "ANTI ACNE PRODUCTS  * Anti Acne * Anti Aging * Brightening * Exfoliating * Hydrating * Nourishing * Oil Free * Sun Protection  More filters Reset  * [Input] acne pimple patch (1) * [Input] ALL (6) *...",
+        "breadcrumb": "thedeconstruct.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://thedeconstruct.in/collections/serum-for-oily-skin?utm_source=chatgpt.com",
+        "domain": "thedeconstruct.in",
+        "title": "Buy Serum for Oily Skin Online at Deconstruct",
+        "description": "SERUM FOR OILY SKIN  * Anti Acne * Anti Aging * Brightening * Exfoliating * Hydrating * Nourishing * Oil Free * Sun Protection  More filters Reset  * [Input] ALL (2)  2 products   * Dark Spot Clearin...",
+        "breadcrumb": "thedeconstruct.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://thedeconstruct.in/collections/open-pores?utm_source=chatgpt.com",
+        "domain": "thedeconstruct.in",
+        "title": "Buy Best Serum for Open Pores Online in India | Deconstruct",
+        "description": "* Anti Acne * Anti Aging * Brightening * Exfoliating * Hydrating * Nourishing * Oil Free * Sun Protection  More filters Reset  * [Input] ALL (3)  3 products  Ingredient Reset  Skin Goal Reset  3 pr...",
+        "breadcrumb": "thedeconstruct.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-face-serums-in-india?utm_source=chatgpt.com",
+        "domain": "www.dotandkey.com",
+        "title": "Dermatologist-Recommended Face Serums in India (2026)",
+        "description": "THE ACTIVE INGREDIENTS DERMATOLOGISTS TRUST MOST  Here is the dermatological consensus on the most evidence-backed serum ingredients for Indian skin in 2026.  VITAMIN C (THE BRIGHTENING ANTIOXIDANT)...",
+        "breadcrumb": "dotandkey.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://sskin.care/ingredients/niacinamide-products/?utm_source=chatgpt.com",
+        "domain": "sskin.care",
+        "title": "Every Niacinamide Product in India: All Options Compared (2026) — sskin.care/",
+        "description": "Foxtale  | Mighty 10% Niacinamide Serum  | Serum  | ₹525  | 10%  | Review Chemist at Play  | Ultra Smoothing Shampoo with Niacinamide & Aloe Vera Extract for Dry & Frizzy Hair - 250 ml  | Hair  | ₹529...",
+        "breadcrumb": "sskin.care"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://zoutons.com/news/dot-and-key-no-discount-anywhere-july-2026-picks?utm_source=chatgpt.com",
+        "domain": "zoutons.com",
+        "title": "Dot & Key Offers July 2026: Sunscreen and Serum Prices",
+        "description": "CICA + 10% NIACINAMIDE FACE SERUM FOR OILY SKIN  Rs. 599 — the price of five different serums here, of which this is the one for oily skin.  Why it earned its spot Rs. 599 for the cica + 10% niacinami...",
+        "breadcrumb": "zoutons.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.nykaa.com/dp/serum-for-open-pores?utm_source=chatgpt.com",
+        "domain": "www.nykaa.com",
+        "title": "Buy Serum For Open Pores Online At Discounted Prices From Top Brands",
+        "description": "BUY SERUM FOR OPEN PORES ONLINE  (100)   The Derma Co Pore Minimizing Face Serum With 4% Niacinamide,...₹599₹52712% Off Regular price ₹599. Discounted price ₹527. 12% Off.Enjoy Complimentary Gift( 52...",
+        "breadcrumb": "nykaa.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://skincaresaga.com/best-niacinamide-serum-india/?utm_source=chatgpt.com",
+        "domain": "skincaresaga.com",
+        "title": "7 Best Niacinamide Serums in India (2026) - Tested & Reviewed | SkincareSaga",
+        "description": "7 BEST NIACINAMIDE SERUMS IN INDIA FOR GLOWING SKIN (2026)  By Ananya Verma / April 14, 2026  If there’s one skincare ingredient that lives up to its hype, it’s niacinamide. Also known as vitamin B3,...",
+        "breadcrumb": "skincaresaga.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Serums - Acne/Acne Prone Skin – Minimalist",
+        "snippet": null,
+        "domain": "beminimalist.co",
+        "url": "https://beminimalist.co/collections/serums-acne-acne-prone-skin?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Minimalist",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Cica + 2% Salicylic Acid Serum for Acne",
+        "snippet": null,
+        "domain": "www.dotandkey.com",
+        "url": "https://www.dotandkey.com/products/dot-key-cica-2-salicylic-acne-control-serum-with-zinc-for-clear-skin-reduces-blackheads-whiteheads-oily-acne-prone-skin?_fid=46ad3edce&_pos=4&_ss=c&utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Dot & Key",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Salicylic Acid Face Serum for Pore Control Online at Deconstruct",
+        "snippet": null,
+        "domain": "thedeconstruct.in",
+        "url": "https://thedeconstruct.in/products/pore-control-serum?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "thedeconstruct",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Shop For Top Rated Serums For Acne At Great Prices",
+        "snippet": null,
+        "domain": "www.nykaaman.com",
+        "url": "https://www.nykaaman.com/dp/serums-for-acne?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Nykaa Man",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best acne serums India under ₹700 salicylic acid niacinamide Minimalist Deconstruct Dot Key 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "If you’re acne-prone and want to stay **under ₹700**, I’d prioritize a **2% salicylic acid serum** if you get active pimples, blackheads, or clogged pores.\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "1900532667665884872",
+          "merchants": "Minimalist + others",
+          "id_to_token_map": "Nv3uGnicdZPJrqNGFIajPEEW2WXTi2STK0tAURjSugswFJgL2EzFsLGYbDDFYIwHrDzN7UHqLDuR8izdizxLkJJdlJKOVEe_9H9HZ_jrm-9ei-rPuyTtkkF2rOFaQKvbnk-Jz9rnT_3Q5ZdsrPLfGYGFAPIs5ASaF-CSg-BTlowJ6Q6zSgsUBQHDcUuOgzzP8kvmc1kkOanaYrPfF4PcZVX-Bw0AT7EsyywpwDDCEgCK-a1qkkPxr76kBEGAAiUsl4CjWYGm4bshP39ht6sdDRjA8RByM5yhIMUIEPy6dTby7n_ED6dLMUxffmyqdmaQ6jw-MT8x8Ok8_7Npjqdkhj6di-HSfDj0_xT4X5t3TZV_nnOWY3iOo6BAL3mapt_11_G1PLy_XEjx5efb00pc2-vVOvJCPEYN6g2FLhMVTVFodbmml4ZCLrFKytcDea3a15K8Fu3HLumv--zrt98r3U1enW8r2-97LDuUSzkB9vHNbrCWkgO7QaVuKv3eJehueP6UKDqHMc-mR72LWgICxaISRhiwCnGEcWf668n1St8F9uQATALf2pizR0jjtYUQcmuiBKRfezV5pMGZsnw4ZHRZm2oNs5Zo7pHsLQburTpuXBxD3NrA1MrKCMu5LAt5CK3iFX3G_nhPAW5cWWGChrQxIWomx2baIM9SRzlRaXsjIz0geefUPuswVhg3ZVfIJefgnnVpqfNq2Kaa7lmt1SY49zwlol2mpGNk7TFwzDiUpEIh-4TkYYqJNXsBE6PADoTSUsuVf6xBioQ6P-ZcCnpke5LiB8IFh-RmHjPG9ZDhA9J6lGVkwRgWym3MgVTOnFuEJTN_xMQ5xpMN0MzX5ZQaQ78tjaCxBg-jMaKghpGE_do5bhTUJz6GCbF6C-ix1Qich_N16lMuAuXKJkKZ1Y7rtToTe3iT0tIjC9DcMfRQK11yNGvaBLHvNri0kG7Eaq6lqAM5YzJmS06-rDNBiLdRK0nv7-dh_4USERzdDSuaXhrcmVZMRwUdS07pI9uh_SUtiL_MG8ktaYbh6Pk2P2ZdV1fF129_2O3cIrsMxcL1nO2zaDXxLaFvLxHRjTtaN4u7tovvQ3bqO2uR8Xs2O-Wm2tONRkVGbKqe4W5qcL5tFkcweXzWsWEiJsLNOK1VqsQQbbgLuJ72O6w5Vc0pol--feMqorPSdq5oKu7aU55XB3t95xTp7RtRWT2LuY6V5CrRuAvj1kN8Z3NQ0LfcI6q2m4I3pnAnhrkv-rv6kMUjPPU9nJwa2oe3b2T8HO1eLF7SOGAfRnudBImrudtROtZRhkQ0yFsTOC5KqNJWxPm9fWOt5WcI2Gfp6iIyYgoiLFVCWxmPRZpw7OP0OHqXe1MvqmHLvPCtpZEqbZ1jmfin_KpG8pR5HludUFuzhjpzu9rdEJUNjKPrOExtb-1xUe0nUVzUQOyOuUPW6tEYH2PgyqeHtDjvyUKctusrFQNJJzW96A2TlIRjJwu6chZc54Ea1EteeRpZ7OpquL1sT_vysRyP8vJixIKjSnvN5R85A6rFRF-p7YNDm7QKVujkySsYKv5hSMYVWi636Y5G2d1aCvpwH3f9frfZdaHiVZJHyyaSI3PkFSmgt93fZkv2Ww",
+          "title": "Minimalist Salicylic Acid Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.3,
+           "votes_count": 5700,
+           "rating_max": 5
+          },
+          "price": 549,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/RoGLUnicDcndEoFAGADQJyJqTDFjTGTXT7KVargxtdl2DduyX9RLeR9vw7k93w8HUHpiGBdJn52CS9mDQlr9SkMOgvZpfTc0r5USspo9pv-buEE5xjR-yvp1JSH3wGXeui2siNgj0mCvo-y1xbc3Ms0hH5SoCdwRnJYCK-g2bC98namQV7bHZTOeU-KXAYlzCSgSUSatVfWoU4lMZorFMSniwz1xWHrWymn93Q9gyj7k"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "xBB_arDRNrve5NoPsqaU4Qs",
+            "product_id": "2945358456918957653",
+            "catalog_id": "1900532667665884872",
+            "gpcid": "13236855657620502953",
+            "headline_offer_docid": "13380444270322973302",
+            "image_docid": "17099959097736149115",
+            "rds": "PC_13236855657620502953|PROD_PC_13236855657620502953",
+            "query": "minimalist+2%25+salicylic+acid+serum",
+            "mid": "576462866059178111",
+            "pvt": "hg",
+            "uule": "w+CAIQICIYTXVtYmFpLE1haGFyYXNodHJhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "6166557825786010783",
+          "merchants": "Myntra - MNow + others",
+          "id_to_token_map": "khoT9XicbVRJrqNmEE5yglwgUm-yyZMlfgYDeXoLMxmwATP9DBuEAQMGDGbGymGi14PUWXYi5SyvFzlHlkHZJiWVVNL3qeaqv775_jXJ_5wzJgjHShdr7UCq3unWXPjtjv_ctHU8RH0e_w5IQOMITSIUSWI4jW-p7eco7MOyTld0C7ZbgiApdNUtAhCSwr5kSRiX-S3RLpek5epopWEojQASowFAVwckjgDwW16FafIv_AdAKIAj5JZEAE2sLAyjqPdt3L0hJzbAERTdYjRKYYDCtgiNU7-cDI0L_hf6eB-Sdnn7MU6i-tb17VrDE_ojSjx1YZlHy6pP4RrxqUvaofqYNqv95b9e3ld5_Ov7Zuxfs_TDMJTJ20_TE7uTdImVPMuFvVcJzZEHWbgXFs9V61iUsyNfDv6-zF7T8jW_vWbla3L7VIfNeIm-fvs3P0Ys20asbjcN5AzERGJo3srOB8psOFmuVrShWv7gW3J-rlRDx2IM7vuDXRCCCdSDXZZyhMmqL5bD-ZFBA_i5xamPs02MGj_nhug7iTMTkcgvyn7mfUTIHL4xILAxF5nFo2Mv4U0H3s3o4yrTVdeevQJqPgsuFgcHpzBQfw9lg4-mSChde19eFbu_O1cbt4qmt_h00UsFN8XS9G9w9lAgrZwW2tl45o3KRmbOERrJsik05rMZPnzDc2HooYLnuwzvAbq3bYBGe6OLKjrXkQ41RRmYgEJh6QtHWGPQ8u8W6jO-lfZny9COlsyHnLdAaGR6ESP-TZhsmLEQUx3NMVj1IdfrBAR1T18UIBfeo0TWPEEsZoSJAMxHM0mB-uJzpaXaahlVRmut_dArWBtorLgPYfIBndkiA3RMrc-uYgpYVuslncUVMMw9fTIfseZAZoj2vqAWgrDPZcYQ1UVzfCsp-odq9-K6AbqOlRoUYt-DpR1jNW45RO4Bhvkwd-3lDdkJRG9qhF-COOOm0iK4fmcmG0vY8WqsPXAi_RmsF0SCdRVRkqQ_RXVd5MnX734w-Z3BioG5U3hTsvgXNtWlecszz-92PPuyi2XIh928t0GMn8tjNJQScyOxCNib64MYdmWN3O2SwLXGY8Idw8eORnBpUeHR8zsOvkxLtGltTdA8r-w0PGvYw6hdKlnyUmHHtFceuzU4kIUkVXarPL8LAjOJhjbZmJZxetmplT-FQMjvetDnEREhu0beqLTa4Qf5JMU8lSRDzjyUjHKCbFSCVJbg4i4ELskKb4isEnCpdkdijAoWGDToddkYaD9kHNho0xjy4dI9v1Ml7oXAsJcy9TVwTS23jiLhXLuxl9fzabROTBFTZucXCSeMtTJr4dSwspsy-KOVHsj5fIpmMPf1JezIqFEFpiPvp5rLW8FSnAnlOKQdgzoIqPPGxcdL67blYT5MqX4uogo3c9EXhSM7BEvRg0cwOpujOEtHOzlfW3-_Zr5Hg6WTx_PtKm075rjRx1gIJCIjNrkBtk68XoDS5Rt6iqpOdGnrQO3rqu1I39neHO-Uauna_4O0XNbXw7QCGdyToRmJ4taSk0rzogSDHV5YU1dMA7uYuqU20RUeIJj-AcTQ7dc",
+          "title": "Deconstruct Pore Control Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 59,
+           "rating_max": 5
+          },
+          "price": 639,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/cyQTrHicDcndCoIwGADQJ1JzSaAQ0cWcNVRSk_ROp7gF-3H7QLzvJXubOrfn--EAxiVBMCtmdwPz5MGoDv7iYADBfKZl4Lg2Rqjlsp7_l1yLKSaswvDsRJyL_N4eI4TTgniWi6bkQ0tfbtfbiKwm2dSHEb7R7OSpfitrLG24oRVVNW8UUNm9s_rxA-iWLy8"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "xhB_avmQHoOK7NYPnpfE6AE",
+            "product_id": "1719409708773494686",
+            "catalog_id": "6166557825786010783",
+            "gpcid": "402263928318360948",
+            "headline_offer_docid": "3290173911246874011",
+            "image_docid": "10814076701953913388",
+            "rds": "PC_402263928318360948|PROD_PC_402263928318360948",
+            "query": "deconstruct+2%25+salicylic+acid+serum",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIYTXVtYmFpLE1haGFyYXNodHJhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "341112600803973784",
+          "merchants": "Dot & Key + others",
+          "id_to_token_map": "3dJgcHicdVPLrqtWEo3uF2TQ876TTHJkae_Ny_TVGfA2HAPmtXlMLGBjgwGDMTbG6q859yZSMkxayrfcO8i3BEU97C6ppJJWqdaqUq0_v_v-vaj-eIjiPr3sKms12PVO37FcGs4C_Us_dOSWjxX5neMhxTAMYBie4gDPrCH9S56OadMdK_IbRUMIEQvAGlA8R3Fr-reySElTnQv7cCgGucsr8h_I8oBbLxPW7JqhEE-xLP1r1abH4r84zQKeppkFWxrQmgMU9Xkg16_0TtpDtF5I1yzHcRQE9KJiTf1759ry_v-AP11uxTB__YF048sPiH2pi_klr_L05Zo2VT4v-ZIurC_XYri1Px37vxX8jzmf22VBhmNpFjEs4hlIw0Uf_bm_j-_l8cvt1hRff5xeJEF3dEmP_QiPcav2WwWWqabOcWR1ZGOUW6W5JVpTvh-b9-r8XjbvxfnnLu3vh_zbh38o3SRL10lygr7Hsgt8ZTzksAyTiDh406ue7A4ZxgGBBvYUHpsI0N5GTcKTzmwjcfJBcskiUY2pxCQby_JCDLJIB07tMHYwjZlvSHFNKAfwd7PmqxhZbaiopyLkd35kAV8O6LimEfHV0VTgxQIlHVGGZEbmgyDCxE3TpVoMwpafrAD6MXo8g3p0fKoJMpgcMt9BKcYVAcbOq0nvNoQuNLU1ZXMOGuHpB4wWh9MjC_Fk1fBOzgLjBeQN125nRoaLw3rKtD41A9dJT_gStnDIG3HMZCslmmVnGhbDqHFyxZBy9KjidiwT5Ia2r8_Yz2EhqzuzBc-gCWhfTnQMxd7b1LPl4xor1oDPqoM1y3LqEqVPssmUEWcRWW6kAC9oRF-zbkS1TuaZjIEGpWRjTq6KjcLPkRPC0zbqVR88zOBJ0vjcGHmQSMnTBEVEmrgldSKbnkqVktPwZY7F3q_g7KPR8bCALKRGRaAArTJEd2PNdpj4fn2d0gq-5QBuTASfEWVdYkSUoi63PkUmv1apL4_rcPgKBJUZPZu1WObOSif6jTHSzSBf662ykkKD6fXpX5BbXhYixC4uZH7Ou66uim8f_ukpgitt9p5gKp7uK6_S0dEfrCJ--igo0qtADKyko2LZ_E27ZXU6KJtZ7VrMXmjXkAoWrl1Sem660kPlrrqPptrW_HVc9fWnjzJ-zVE-CU3zLLP1eLXpspfe7vahNmg9VgVxOCnUuaehodpHICzx6eN-7xX5bShWnu_uXgWrTaYU4eFyJsypKsSjkvfHM6NN_VoQ7E2n0WWqNL2rDXi8r56IYt_QIG9FVuw6y1mfE4FX3oRo9AWpU80pOKIugslTzfnyOq2a88y6nz5auvzKUNRrpds6jSgT5qv6dN28PWOu5Xpwx_KpvTlkVubeX92QNsQC4aa-v04D2fmzAVl4L-18u3evp4flaYK_mqNH3FJjs9_vs8N1AopNOV5TuzWiY2E-hZtn73ri7W743OKaolDKps1pKvE6IWOCrjgtRcjcHpHV2HynTaN0Lu22lrdolPSOWTv4zsfTTmPzKns-L241rOY3DGCwUE3ybl1uAgx6c7GW0o9F0sidD47VqQBaHM3BYeIpP6QDfzWAKEiq4Gj2q8jgxLDbl_LheDhvO9TI4lUu_wI6Hvlp",
+          "title": "Dot & Key Cica + 2% Salicylic Skin Clearing Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 590,
+           "rating_max": 5
+          },
+          "price": 399,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/YkNzenicDcnbCoIwAADQL_KSTGtChKhIVstLKfQia1On5XUz0s_pr_qbOq_n-2FC9NxUlLwl49yLnEri3q7kkgssKiKTrlE46_q-asvdsP2faSEKPRIlYkJXB7AZ3LQUJEXbzY889gek2Xi0Jz4-mXSkqUW85RJkOlVhSjNS4_Iw8fDsFnS9CXxn2Mfq5WXAkLqsgngZ0RvU-qlDIKrx0hSGrv4AbeE6Bw"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "xBB_aqPiN-rOkPIP67aWyA4",
+            "product_id": "7913555055937095814",
+            "catalog_id": "341112600803973784",
+            "gpcid": "12858186777310493783",
+            "headline_offer_docid": "16907855986853293664",
+            "image_docid": "14609445532685287033",
+            "rds": "PC_12858186777310493783|PROD_PC_12858186777310493783",
+            "query": "dot+%26+key+cica+salicylic+acid+serum",
+            "mid": "576462562951413264",
+            "pvt": "hg",
+            "uule": "w+CAIQICIYTXVtYmFpLE1haGFyYXNodHJhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "17903418534338511782",
+          "merchants": "Nykaa + others",
+          "id_to_token_map": "Ee_e2HicbVTLrqNGEI3mC7KIlO2sc3WlhuaZ0V0ABtv40phX89hYmMYG0zyMscFWvubOJFKynETKt0wW-ZYw2SYllWpx6nF0VFV_f_PtW17-OanqLr3mMRo8p7_q25PoP85K-2vXt-SaDSX5g5GgKMiSzEgA8oIIGE4Sfs3SIaXt8SssygByjMRDDkKJZxhRYj8XeUpo2eT24ZD3izYryWeZlwRelBkAWFYGPGCk38o6Peb_or9DToQCIwuSKLOyJAiSJH7syeUL2Go7yEqAm_sKLOQ4yIuQ_2nr2ovd_0I_n695f__Cp1mTP13y_lo_XVJaZvfZn9J51FNTzqFJ65LkT2VDyvTp2pC8fxIB-PnYfaX6364f5-zPvChwAisJEsew3EwSch-72_BWHD9drzT_8sP4pClrZ62tYz_CQ1wb3avOFOnSuMcRasnKLF51ek2WtHg70reyeSvoW9780qbd7ZD99e47vR0X2mXUnKDr8MIFvqFunDo5k5XaBaHJYZyMuMEeCvibdVpDH8uWVRMuDC3g0xk_WQAvW9Zp1MoOyB2fsIVwcnFYc8r8grWgA_eYzLXkimg32Dhj3IC3g2U7ZXXGkcaIQsMIXEig49M405gFWSWHfUQ3uKI1YcnoQZKkyzUXUMxYp6R2AgzSeojjQL56UaLianC8xmH8WmLSyDSxxlgIoNEJu842dNaKuhoFydoBBMSNeiYBv0WRNbonBMMVrb2I6GmjbmPfTIIKVVaET3taTdnJrEMjGdI6YVPWcPe624cNLdDCPOUnbPhBB6ygKKyawb7Onx2mGoLADAMdoywkFAHGiwBV85oWSY0ivMpg-sAOijom97MxCBI1DyeLVPgwc9ok9cB5S-pn1AXOQ2X2lcw5tQRINWkuNUo7JI7FDr27UKYEEpD7ySbArWfAQnOoXJAQJ37j-kFkMi5Wz4hxhSwwbsvSVN0Vutth4np6ovkwAwlWeM-vBh9Q02Lp0jNwEoEJ2zqCn6ZLf_gCFIMfPJunMt_s1ud4GPSD1knPJdrPUm53KRl_nO9OEBmWFebFlX_J2rYq87_efe_piqutdp5i6d7a11-0o7OeBF398H638_Ls2ufPnu9uXxRUJ2MKPZdTp-h6ViKz9p3ba4bg7mhidXyt74V981dZE4rt7shhgTHbkXrtaWeLuCPTq_YQim11lAbwWKNsuzgsT2th6bes4PDPsLHs8MN7RddeFGJiPb3pfaRw9kOifTKp0vA8i3pUHLrf4CWsvHvq5Ku-2O_D51uAdM3C4v3sfHi_wC9rMW3349GpN2N3WTngbu93Bxaa4jo2FONsxZ3fEdTrqRsos314j9aLFx7CF7K9aFLVXY6T4YinGkzodlyu63WIVlrXsGng1tKm9c0FQ-czcCfgpJEQbQb0ejZD77oQhY5sXP-hc4STb7I-lFvjWdfM0UHZlCKGaQZAGft48QqoZ5uzrQ1Vu13IhyJZlY-FtzmMXm5lQo-718tqNNQ8f45qpVkBIeZ07VYxmeSdhSrZ4r7kCq8WDc5qzVlfnpWVV_5a0GskKWEcNSq5jzXbLr3muW9RVftlXBbGoS1bN66Oi96oOrRY-vv2LOym6BGvVtEBpNz8D3dtr9_j7B-mCP4f",
+          "title": "The Derma Co Sali-Cinamide Anti-Acne Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 230,
+           "rating_max": 5
+          },
+          "price": 314,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/A2qc33icDcndCoIwGADQJ0ohpZgQoQlCGxplZN6Im_vxwv24D8Mue8veps7t-X4UgPVJGHLN5tUCHzZAdRRIDz2MLGBmCr0y1o5aHt3hf0laDqhgV1KJcd90z3vd5tmpmMiD8Rn5atmdV-NmTFEqvH1N24iVJG874rL2TRWtBRDkbgLHFyxlvDQ_ufcvkA"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "xBB_aueYNtSQruEPj7TzqAo",
+            "product_id": "18376989180356701486",
+            "catalog_id": "17903418534338511782",
+            "gpcid": "328041176234435735",
+            "headline_offer_docid": "958657910022905018",
+            "image_docid": "3473619687929866887",
+            "rds": "PC_328041176234435735|PROD_PC_328041176234435735",
+            "query": "acne+serum+salicylic+acid+niacinamide+india+under+700",
+            "mid": "576462868412498634",
+            "pvt": "hg",
+            "uule": "w+CAIQICIYTXVtYmFpLE1haGFyYXNodHJhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n### My picks\n\n**🥇 Best overall: Minimalist 2% Salicylic Acid Serum — ~₹549**  \nA straightforward 2% salicylic-acid option for acne, blackheads and oily skin. Minimalist currently lists it at ₹522–₹549 depending on size/offer. [beminimalist.co](https://beminimalist.co/collections/serums-acne-acne-prone-skin?utm_source=chatgpt.com)\n\n**🥈 Best if your skin gets irritated: Dot & Key Cica + 2% Salicylic — ₹550 MRP**  \nIt combines 2% salicylic acid with cica, zinc and niacinamide, so it’s a nice choice if you want acne treatment plus soothing/barrier-supporting ingredients. [www.dotandkey.com](https://www.dotandkey.com/products/dot-key-cica-2-salicylic-acne-control-serum-with-zinc-for-clear-skin-reduces-blackheads-whiteheads-oily-acne-prone-skin?_fid=46ad3edce&_pos=4&_ss=c&utm_source=chatgpt.com)\n\n**🥉 Best 2-in-1 for oily skin: Deconstruct Pore Control — ~₹599**  \nIt has **2% liposomal salicylic acid + 3% niacinamide**, targeting both clogged pores and excess oil. [thedeconstruct.in](https://thedeconstruct.in/products/pore-control-serum?utm_source=chatgpt.com)\n\n**Budget alternative: The Derma Co Sali-Cinamide — ~₹314**  \nA 2% salicylic-acid + niacinamide formula if you want to spend less. Current listed pricing can vary by retailer. [www.nykaaman.com](https://www.nykaaman.com/dp/serums-for-acne?utm_source=chatgpt.com)\n\n### What I'd buy\nIf I had to choose **one without knowing anything else about your skin: Minimalist 2% Salicylic Acid**.\n\nUse it **2–3 nights a week initially**, then increase if your skin tolerates it. Don't start with daily use, and wear sunscreen in the daytime. If your acne is severe, painful/cystic, or leaving scars, a dermatologist is a better route than adding stronger serums.\n\nIf you tell me **your skin type (oily/dry/combination) + whether you mainly have pimples, blackheads, or acne marks**, I can narrow it down to the best **₹300–700 option** for you.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Serums - Acne/Acne Prone Skin – Minimalist",
+          "snippet": null,
+          "domain": "beminimalist.co",
+          "url": "https://beminimalist.co/collections/serums-acne-acne-prone-skin?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Minimalist",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Cica + 2% Salicylic Acid Serum for Acne",
+          "snippet": null,
+          "domain": "www.dotandkey.com",
+          "url": "https://www.dotandkey.com/products/dot-key-cica-2-salicylic-acne-control-serum-with-zinc-for-clear-skin-reduces-blackheads-whiteheads-oily-acne-prone-skin?_fid=46ad3edce&_pos=4&_ss=c&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Dot & Key",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Salicylic Acid Face Serum for Pore Control Online at Deconstruct",
+          "snippet": null,
+          "domain": "thedeconstruct.in",
+          "url": "https://thedeconstruct.in/products/pore-control-serum?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "thedeconstruct",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Shop For Top Rated Serums For Acne At Great Prices",
+          "snippet": null,
+          "domain": "www.nykaaman.com",
+          "url": "https://www.nykaaman.com/dp/serums-for-acne?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Nykaa Man",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

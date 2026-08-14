@@ -1,0 +1,136 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.0",
+  "promptId": "S04",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 2,
+  "promptText": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+  "cellId": "S04_hg_gemini_r2",
+  "startedAt": "2026-08-14T12:28:59.390Z",
+  "finishedAt": "2026-08-14T12:29:09.071Z",
+  "durationMs": 9681,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Indian winters mein dry skin ke liye kuch acche aur reliable moisturizers available hain jo skin ko deeply nourish aur hydrate karte hain. Aap apni skin type aur budget ke hisaab se inmein se koi bhi choose kar sakte hain:\n\n### 1. Best Budget & Everyday Options (Pharmacy & Drugstore)\n\n* **Cetaphil Moisturizing Cream:** Yeh dry to very dry skin ke liye ekdum classic aur dermatologist-recommended option hai. Isme sweet almond oil aur niacinamide hota hai jo skin barrier ko repair karta hai aur 48 hours tak hydration deta hai.\n* **Bioderma Atoderm Creme:** Agar aapki skin bahut zyada dry ya flaky ho rahi hai, toh yeh cream ek behtareen choice hai. Yeh non-greasy hoti hai aur skin ko long-lasting moisture deti hai.\n* **Physiogel Calming Relief AI Cream:** Sensitive aur dry skin ke liye yeh ek aisi cream hai jo irritation ya redness ko bhi calm karti hai.\n\n### 2. Rich & Deep Hydration Options\n\n* **Dot & Key Vitamin E + C Super Bright Moisturizer (Rich version):** Agar aapko hydration ke sath skin par ek acha glow bhi chahiye, toh yeh ek accha option hai. Winters ke liye inka 'Rich' variant best rehta hai.\n* **Emolene Cream:** Yeh ek lightweight cream hai jo jaldi absorb ho jati hai. Halanki bahut zyada extreme dry skin ke liye yeh thodi halki pad sakti hai, par normal dry skin ke liye kafi acchi hai.\n* **Requil Ceramide & Hyaluronic Acid Moisturizer:** Yeh skin barrier ko strong banane ke liye bahut accha hai kyunki isme ceramides hote hain jo moisture ko lock karke rakhte hain.\n\n---\n\n### Tips for Winter Skincare:\n\n* **Damp Skin par Lagayein:** Moisturizer hamesha halki geeli (damp) skin par lagayein, jaise nahane ke turant baad, taaki moisture skin ke andar lock ho jaye.\n* **Layering:** Agar skin bohot zyada dry hai, toh pehle koi hydrating serum ya toner lagakar uske upar cream-based moisturizer use karein.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "9.4071 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141228-2163-0629-0000-5231de9c2a57",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "9.3824 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:29:08 +00:00",
+      "markdown": "Indian winters mein dry skin ke liye kuch acche aur reliable moisturizers available hain jo skin ko deeply nourish aur hydrate karte hain. Aap apni skin type aur budget ke hisaab se inmein se koi bhi choose kar sakte hain:\n\n### 1. Best Budget & Everyday Options (Pharmacy & Drugstore)\n\n* **Cetaphil Moisturizing Cream:** Yeh dry to very dry skin ke liye ekdum classic aur dermatologist-recommended option hai. Isme sweet almond oil aur niacinamide hota hai jo skin barrier ko repair karta hai aur 48 hours tak hydration deta hai.\n* **Bioderma Atoderm Creme:** Agar aapki skin bahut zyada dry ya flaky ho rahi hai, toh yeh cream ek behtareen choice hai. Yeh non-greasy hoti hai aur skin ko long-lasting moisture deti hai.\n* **Physiogel Calming Relief AI Cream:** Sensitive aur dry skin ke liye yeh ek aisi cream hai jo irritation ya redness ko bhi calm karti hai.\n\n### 2. Rich & Deep Hydration Options\n\n* **Dot & Key Vitamin E + C Super Bright Moisturizer (Rich version):** Agar aapko hydration ke sath skin par ek acha glow bhi chahiye, toh yeh ek accha option hai. Winters ke liye inka 'Rich' variant best rehta hai.\n* **Emolene Cream:** Yeh ek lightweight cream hai jo jaldi absorb ho jati hai. Halanki bahut zyada extreme dry skin ke liye yeh thodi halki pad sakti hai, par normal dry skin ke liye kafi acchi hai.\n* **Requil Ceramide & Hyaluronic Acid Moisturizer:** Yeh skin barrier ko strong banane ke liye bahut accha hai kyunki isme ceramides hote hain jo moisture ko lock karke rakhte hain.\n\n---\n\n### Tips for Winter Skincare:\n\n* **Damp Skin par Lagayein:** Moisturizer hamesha halki geeli (damp) skin par lagayein, jaise nahane ke turant baad, taaki moisture skin ke andar lock ho jaye.\n* **Layering:** Agar skin bohot zyada dry hai, toh pehle koi hydrating serum ya toner lagakar uske upar cream-based moisturizer use karein.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Indian winters mein dry skin ke liye kuch acche aur reliable moisturizers available hain jo skin ko deeply nourish aur hydrate karte hain. Aap apni skin type aur budget ke hisaab se inmein se koi bhi choose kar sakte hain:",
+        "original_text": "Indian winters mein dry skin ke liye kuch acche aur reliable moisturizers available hain jo skin ko deeply nourish aur hydrate karte hain. Aap apni skin type aur budget ke hisaab se inmein se koi bhi choose kar sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### 1. Best Budget & Everyday Options (Pharmacy & Drugstore)",
+        "original_text": "1. Best Budget & Everyday Options (Pharmacy & Drugstore)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Cetaphil Moisturizing Cream:** Yeh dry to very dry skin ke liye ekdum classic aur dermatologist-recommended option hai. Isme sweet almond oil aur niacinamide hota hai jo skin barrier ko repair karta hai aur 48 hours tak hydration deta hai.\n* **Bioderma Atoderm Creme:** Agar aapki skin bahut zyada dry ya flaky ho rahi hai, toh yeh cream ek behtareen choice hai. Yeh non-greasy hoti hai aur skin ko long-lasting moisture deti hai.\n* **Physiogel Calming Relief AI Cream:** Sensitive aur dry skin ke liye yeh ek aisi cream hai jo irritation ya redness ko bhi calm karti hai.",
+        "original_text": "Cetaphil Moisturizing Cream: Yeh dry to very dry skin ke liye ekdum classic aur dermatologist-recommended option hai. Isme sweet almond oil aur niacinamide hota hai jo skin barrier ko repair karta hai aur 48 hours tak hydration deta hai.\nBioderma Atoderm Creme: Agar aapki skin bahut zyada dry ya flaky ho rahi hai, toh yeh cream ek behtareen choice hai. Yeh non-greasy hoti hai aur skin ko long-lasting moisture deti hai.\nPhysiogel Calming Relief AI Cream: Sensitive aur dry skin ke liye yeh ek aisi cream hai jo irritation ya redness ko bhi calm karti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### 2. Rich & Deep Hydration Options",
+        "original_text": "2. Rich & Deep Hydration Options",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "* **Dot & Key Vitamin E + C Super Bright Moisturizer (Rich version):** Agar aapko hydration ke sath skin par ek acha glow bhi chahiye, toh yeh ek accha option hai. Winters ke liye inka 'Rich' variant best rehta hai.\n* **Emolene Cream:** Yeh ek lightweight cream hai jo jaldi absorb ho jati hai. Halanki bahut zyada extreme dry skin ke liye yeh thodi halki pad sakti hai, par normal dry skin ke liye kafi acchi hai.\n* **Requil Ceramide & Hyaluronic Acid Moisturizer:** Yeh skin barrier ko strong banane ke liye bahut accha hai kyunki isme ceramides hote hain jo moisture ko lock karke rakhte hain.",
+        "original_text": "Dot & Key Vitamin E + C Super Bright Moisturizer (Rich version): Agar aapko hydration ke sath skin par ek acha glow bhi chahiye, toh yeh ek accha option hai. Winters ke liye inka 'Rich' variant best rehta hai.\nEmolene Cream: Yeh ek lightweight cream hai jo jaldi absorb ho jati hai. Halanki bahut zyada extreme dry skin ke liye yeh thodi halki pad sakti hai, par normal dry skin ke liye kafi acchi hai.\nRequil Ceramide & Hyaluronic Acid Moisturizer: Yeh skin barrier ko strong banane ke liye bahut accha hai kyunki isme ceramides hote hain jo moisture ko lock karke rakhte hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "### Tips for Winter Skincare:",
+        "original_text": "Tips for Winter Skincare:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **Damp Skin par Lagayein:** Moisturizer hamesha halki geeli (damp) skin par lagayein, jaise nahane ke turant baad, taaki moisture skin ke andar lock ho jaye.\n* **Layering:** Agar skin bohot zyada dry hai, toh pehle koi hydrating serum ya toner lagakar uske upar cream-based moisturizer use karein.",
+        "original_text": "Damp Skin par Lagayein: Moisturizer hamesha halki geeli (damp) skin par lagayein, jaise nahane ke turant baad, taaki moisture skin ke andar lock ho jaye.\nLayering: Agar skin bohot zyada dry hai, toh pehle koi hydrating serum ya toner lagakar uske upar cream-based moisturizer use karein.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S05",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 4,
+  "promptText": "India mein acne wali skin ke liye 700 rupees ke andar konsa serum kharidun?",
+  "cellId": "S05_hg_gemini_r4",
+  "startedAt": "2026-08-14T12:55:01.652Z",
+  "finishedAt": "2026-08-14T12:55:12.340Z",
+  "durationMs": 10688,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein acne-prone skin ke liye ₹700 ke under kai acche aur budget-friendly options available hain. Acne ke liye khas taur par **Salicylic Acid (BHA)** ya **Niacinamide** wale serums sabse best maane jaate hain, kyunki ye pores ko clean karte hain, excess oil control karte hain aur acne marks ko fade karte hain.\n\nAap apne budget ke andar in options mein se koi bhi chun sakte hain:\n\n### 1. Minimalist 2% Salicylic Acid Face Serum\n\n* **Estimated Price:** Around ₹549 (30ml)\n* **Main Benefits:** Yeh active acne, blackheads aur whiteheads ke liye best hai. Salicylic acid pores ke andar jaakar oil aur dirt ko saaf karta hai aur breakouts ko kam karta hai.\n\n### 2. The Derma Co. 2% Salicylic Acid Face Serum\n\n* **Estimated Price:** Around ₹599 (30ml)\n* **Main Benefits:** Isme Salicylic Acid ke sath Witch Hazel bhi hota hai jo pores ko tighten karne aur skin ko soothe karne mein madad karta hai. Yeh active pimples ke liye kafi effective hai.\n\n### 3. Plum 10% Niacinamide Face Serum with Rice Water\n\n* **Estimated Price:** Around ₹599 to ₹699 (30ml)\n* **Main Benefits:** Agar aapko active acne ke sath-sath purane acne marks (daag) bhi hatane hain, toh Niacinamide ekdum perfect hai. Yeh skin barrier ko repair karta hai aur oil production ko balance karta hai.\n\n### 4. Deconstruct Clearing Serum (2% Alpha Arbutin + 5% Niacinamide)\n\n* **Estimated Price:** Around ₹699 (30ml)\n* **Main Benefits:** Yeh serum especially acne marks, blemishes aur uneven skin tone ke liye design kiya gaya hai.\n\n---\n\n> **💡 Quick Tips for Acne-Prone Skin:**\n\nKya aap apni skin ke baare mein kuch aur batana chahenge (jaise skin oily hai ya dry), taaki main aur behtar suggestion de sakoon?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "10.4724 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141255-2163-0629-0000-bc828ae59f48",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "10.4522 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "India mein acne wali skin ke liye 700 rupees ke andar konsa serum kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein acne wali skin ke liye 700 rupees ke andar konsa serum kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:55:12 +00:00",
+      "markdown": "India mein acne-prone skin ke liye ₹700 ke under kai acche aur budget-friendly options available hain. Acne ke liye khas taur par **Salicylic Acid (BHA)** ya **Niacinamide** wale serums sabse best maane jaate hain, kyunki ye pores ko clean karte hain, excess oil control karte hain aur acne marks ko fade karte hain.\n\nAap apne budget ke andar in options mein se koi bhi chun sakte hain:\n\n### 1. Minimalist 2% Salicylic Acid Face Serum\n\n* **Estimated Price:** Around ₹549 (30ml)\n* **Main Benefits:** Yeh active acne, blackheads aur whiteheads ke liye best hai. Salicylic acid pores ke andar jaakar oil aur dirt ko saaf karta hai aur breakouts ko kam karta hai.\n\n### 2. The Derma Co. 2% Salicylic Acid Face Serum\n\n* **Estimated Price:** Around ₹599 (30ml)\n* **Main Benefits:** Isme Salicylic Acid ke sath Witch Hazel bhi hota hai jo pores ko tighten karne aur skin ko soothe karne mein madad karta hai. Yeh active pimples ke liye kafi effective hai.\n\n### 3. Plum 10% Niacinamide Face Serum with Rice Water\n\n* **Estimated Price:** Around ₹599 to ₹699 (30ml)\n* **Main Benefits:** Agar aapko active acne ke sath-sath purane acne marks (daag) bhi hatane hain, toh Niacinamide ekdum perfect hai. Yeh skin barrier ko repair karta hai aur oil production ko balance karta hai.\n\n### 4. Deconstruct Clearing Serum (2% Alpha Arbutin + 5% Niacinamide)\n\n* **Estimated Price:** Around ₹699 (30ml)\n* **Main Benefits:** Yeh serum especially acne marks, blemishes aur uneven skin tone ke liye design kiya gaya hai.\n\n---\n\n> **💡 Quick Tips for Acne-Prone Skin:**\n\nKya aap apni skin ke baare mein kuch aur batana chahenge (jaise skin oily hai ya dry), taaki main aur behtar suggestion de sakoon?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 12,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein acne-prone skin ke liye ₹700 ke under kai acche aur budget-friendly options available hain. Acne ke liye khas taur par **Salicylic Acid (BHA)** ya **Niacinamide** wale serums sabse best maane jaate hain, kyunki ye pores ko clean karte hain, excess oil control karte hain aur acne marks ko fade karte hain.",
+        "original_text": "India mein acne-prone skin ke liye ₹700 ke under kai acche aur budget-friendly options available hain. Acne ke liye khas taur par Salicylic Acid (BHA) ya Niacinamide wale serums sabse best maane jaate hain, kyunki ye pores ko clean karte hain, excess oil control karte hain aur acne marks ko fade karte hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Aap apne budget ke andar in options mein se koi bhi chun sakte hain:",
+        "original_text": "Aap apne budget ke andar in options mein se koi bhi chun sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### 1. Minimalist 2% Salicylic Acid Face Serum",
+        "original_text": "1. Minimalist 2% Salicylic Acid Face Serum",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Estimated Price:** Around ₹549 (30ml)\n* **Main Benefits:** Yeh active acne, blackheads aur whiteheads ke liye best hai. Salicylic acid pores ke andar jaakar oil aur dirt ko saaf karta hai aur breakouts ko kam karta hai.",
+        "original_text": "Estimated Price: Around ₹549 (30ml)\nMain Benefits: Yeh active acne, blackheads aur whiteheads ke liye best hai. Salicylic acid pores ke andar jaakar oil aur dirt ko saaf karta hai aur breakouts ko kam karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. The Derma Co. 2% Salicylic Acid Face Serum",
+        "original_text": "2. The Derma Co. 2% Salicylic Acid Face Serum",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Estimated Price:** Around ₹599 (30ml)\n* **Main Benefits:** Isme Salicylic Acid ke sath Witch Hazel bhi hota hai jo pores ko tighten karne aur skin ko soothe karne mein madad karta hai. Yeh active pimples ke liye kafi effective hai.",
+        "original_text": "Estimated Price: Around ₹599 (30ml)\nMain Benefits: Isme Salicylic Acid ke sath Witch Hazel bhi hota hai jo pores ko tighten karne aur skin ko soothe karne mein madad karta hai. Yeh active pimples ke liye kafi effective hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "### 3. Plum 10% Niacinamide Face Serum with Rice Water",
+        "original_text": "3. Plum 10% Niacinamide Face Serum with Rice Water",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Estimated Price:** Around ₹599 to ₹699 (30ml)\n* **Main Benefits:** Agar aapko active acne ke sath-sath purane acne marks (daag) bhi hatane hain, toh Niacinamide ekdum perfect hai. Yeh skin barrier ko repair karta hai aur oil production ko balance karta hai.",
+        "original_text": "Estimated Price: Around ₹599 to ₹699 (30ml)\nMain Benefits: Agar aapko active acne ke sath-sath purane acne marks (daag) bhi hatane hain, toh Niacinamide ekdum perfect hai. Yeh skin barrier ko repair karta hai aur oil production ko balance karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### 4. Deconstruct Clearing Serum (2% Alpha Arbutin + 5% Niacinamide)",
+        "original_text": "4. Deconstruct Clearing Serum (2% Alpha Arbutin + 5% Niacinamide)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "* **Estimated Price:** Around ₹699 (30ml)\n* **Main Benefits:** Yeh serum especially acne marks, blemishes aur uneven skin tone ke liye design kiya gaya hai.",
+        "original_text": "Estimated Price: Around ₹699 (30ml)\nMain Benefits: Yeh serum especially acne marks, blemishes aur uneven skin tone ke liye design kiya gaya hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "> **💡 Quick Tips for Acne-Prone Skin:**",
+        "original_text": "💡 Quick Tips for Acne-Prone Skin:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "Kya aap apni skin ke baare mein kuch aur batana chahenge (jaise skin oily hai ya dry), taaki main aur behtar suggestion de sakoon?",
+        "original_text": "Kya aap apni skin ke baare mein kuch aur batana chahenge (jaise skin oily hai ya dry), taaki main aur behtar suggestion de sakoon?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

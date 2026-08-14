@@ -1,0 +1,254 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 5,
+  "promptText": "Which sarees should I buy online in India for a wedding on a budget?",
+  "cellId": "F05_en_gemini_r5",
+  "startedAt": "2026-08-14T12:59:21.688Z",
+  "finishedAt": "2026-08-14T12:59:34.624Z",
+  "durationMs": 12936,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "To give you the best recommendations for buying wedding sarees online in India on a budget, I just need a couple of quick details to narrow things down:\n\n1.  **What is your role at the wedding?** (Are you the bride, a close family member, or a wedding guest?)\n2.  **What is your approximate budget range in INR?**\n\n---\n\nIn the meantime, here is a breakdown of the best budget-friendly saree styles, fabrics, and online shopping options to help you look regal without spending a fortune:\n\n### 1. Best Budget-Friendly Saree Styles & Fabrics\n\n* **Art Silk & Banarasi Silk Blends (INR 2,000 – INR 5,000):** Pure Kanjeevaram or Katan silk sarees can easily cost a small fortune, but **art silk, semi-silk, or silk-blend Banarasi sarees** offer the exact same rich texture, heavy gold/silver zari work, and royal sheen at a fraction of the cost.\n* **Organza with Cut-Work or Floral Prints (INR 1,500 – INR 4,000):** Organza is extremely trendy for modern day-weddings, cocktail events, or receptions.[www.azafashions.com](https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=Organza%20has%20completely%20taken%20over%20the%20wedding,sleek%20blouse%20for%20a%20flawless%20reception%20look.) It provides a voluminous, structured silhouette that looks high-end and designer while remaining very lightweight and affordable.[www.azafashions.com](https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=Organza%20has%20completely%20taken%20over%20the%20wedding,sleek%20blouse%20for%20a%20flawless%20reception%20look.)\n* **Georgette or Chiffon with Sequin/Zari Borders (INR 1,200 – INR 3,500):** If comfort and ease of movement are priorities (especially for long ceremonies or sangeet dances), a flowing georgette saree paired with a heavy statement blouse hits the sweet spot between modern and traditional.[www.azafashions.com](https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=When%20absolute%20comfort%20is%20your%20top%20priority%2C,that%20requires%20almost%20zero%20effort%20to%20carry.)\n\n---\n\n### 2. Trusted Online Sites for Budget Wedding Sarees in India\n\n| Platform | Best For | Typical Budget Range |\n| :--- | :--- | :--- |\n| **Koskii** | Semi-bridal wear, reception gowns/sarees, and heavily embellished net/organza pieces. | INR 2,000 – INR 8,000 |\n| **Mohi Fashion** | Affordable handloom, regional weaves (like soft Paithanis), and budget Banarasis. | INR 1,500 – INR 5,000 |\n| **The Chennai Silks / Pothys** | Traditional South Indian temple borders, soft silks, and family bulk-shopping. | INR 1,000 – INR 6,000 |\n| **Nykaa Fashion / Ajio / Myntra** | Quick shipping, reliable return policies, and massive festive sales on designer diffusion lines (like Indya, Shaye, or regional labels). | INR 1,500 – INR 7,000 |\n\n---\n\n### Quick Pro-Tips for Budget Saree Shopping Online\n\n* **Focus on the Blouse:** A budget-friendly plain or lightly textured saree can instantly look like a high-end designer piece if you pair it with a statement, well-tailored blouse (such as a high-neck corset style, heavy cut-work, or a contrasting embroidered elbow-length sleeve).\n* **Check the Return/Exchange Policy:** Wedding outfits require precise matching. Always buy from platforms that allow hassle-free returns in case the color shade differs slightly in natural lighting versus studio photos.",
+  "citations": [
+   {
+    "url": "https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=Organza%20has%20completely%20taken%20over%20the%20wedding,sleek%20blouse%20for%20a%20flawless%20reception%20look.",
+    "source_name": "Aza Fashions",
+    "position": 1
+   },
+   {
+    "url": "https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=Organza%20has%20completely%20taken%20over%20the%20wedding,sleek%20blouse%20for%20a%20flawless%20reception%20look.",
+    "source_name": "Aza Fashions",
+    "position": 2
+   },
+   {
+    "url": "https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=When%20absolute%20comfort%20is%20your%20top%20priority%2C,that%20requires%20almost%20zero%20effort%20to%20carry.",
+    "source_name": "Aza Fashions",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "12.6945 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141259-2163-0629-0000-1053f87887c1",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "12.6877 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:59:33 +00:00",
+      "markdown": "To give you the best recommendations for buying wedding sarees online in India on a budget, I just need a couple of quick details to narrow things down:\n\n1.  **What is your role at the wedding?** (Are you the bride, a close family member, or a wedding guest?)\n2.  **What is your approximate budget range in INR?**\n\n---\n\nIn the meantime, here is a breakdown of the best budget-friendly saree styles, fabrics, and online shopping options to help you look regal without spending a fortune:\n\n### 1. Best Budget-Friendly Saree Styles & Fabrics\n\n* **Art Silk & Banarasi Silk Blends (INR 2,000 – INR 5,000):** Pure Kanjeevaram or Katan silk sarees can easily cost a small fortune, but **art silk, semi-silk, or silk-blend Banarasi sarees** offer the exact same rich texture, heavy gold/silver zari work, and royal sheen at a fraction of the cost.\n* **Organza with Cut-Work or Floral Prints (INR 1,500 – INR 4,000):** Organza is extremely trendy for modern day-weddings, cocktail events, or receptions.[www.azafashions.com](https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=Organza%20has%20completely%20taken%20over%20the%20wedding,sleek%20blouse%20for%20a%20flawless%20reception%20look.) It provides a voluminous, structured silhouette that looks high-end and designer while remaining very lightweight and affordable.[www.azafashions.com](https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=Organza%20has%20completely%20taken%20over%20the%20wedding,sleek%20blouse%20for%20a%20flawless%20reception%20look.)\n* **Georgette or Chiffon with Sequin/Zari Borders (INR 1,200 – INR 3,500):** If comfort and ease of movement are priorities (especially for long ceremonies or sangeet dances), a flowing georgette saree paired with a heavy statement blouse hits the sweet spot between modern and traditional.[www.azafashions.com](https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=When%20absolute%20comfort%20is%20your%20top%20priority%2C,that%20requires%20almost%20zero%20effort%20to%20carry.)\n\n---\n\n### 2. Trusted Online Sites for Budget Wedding Sarees in India\n\n| Platform | Best For | Typical Budget Range |\n| :--- | :--- | :--- |\n| **Koskii** | Semi-bridal wear, reception gowns/sarees, and heavily embellished net/organza pieces. | INR 2,000 – INR 8,000 |\n| **Mohi Fashion** | Affordable handloom, regional weaves (like soft Paithanis), and budget Banarasis. | INR 1,500 – INR 5,000 |\n| **The Chennai Silks / Pothys** | Traditional South Indian temple borders, soft silks, and family bulk-shopping. | INR 1,000 – INR 6,000 |\n| **Nykaa Fashion / Ajio / Myntra** | Quick shipping, reliable return policies, and massive festive sales on designer diffusion lines (like Indya, Shaye, or regional labels). | INR 1,500 – INR 7,000 |\n\n---\n\n### Quick Pro-Tips for Budget Saree Shopping Online\n\n* **Focus on the Blouse:** A budget-friendly plain or lightly textured saree can instantly look like a high-end designer piece if you pair it with a statement, well-tailored blouse (such as a high-neck corset style, heavy cut-work, or a contrasting embroidered elbow-length sleeve).\n* **Check the Return/Exchange Policy:** Wedding outfits require precise matching. Always buy from platforms that allow hassle-free returns in case the color shade differs slightly in natural lighting versus studio photos.",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Best Sarees for Wedding Guests in 2026 - Aza Fashions",
+        "snippet": " Organza has completely taken over the wedding fashion scene in 2026. This \ncrisp, sheer fabric provides a dreamy, lightweight look that feels \nincredibly romanti...",
+        "domain": "www.azafashions.com",
+        "url": "https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=Organza%20has%20completely%20taken%20over%20the%20wedding,sleek%20blouse%20for%20a%20flawless%20reception%20look.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTcHM3QKVANuR8IkqtcmcgpEpQ4fXYS22UHABU_B7PGiUFZUrvu9OlKTXL_Wn24dEBRxqPoeqjprTAiXVSJmoPKR17bvA6ZTEmI7VlLNdI",
+        "source_name": "Aza Fashions",
+        "publication_date": null,
+        "markdown": "Organza is extremely trendy for modern day-weddings, cocktail events, or receptions."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Best Sarees for Wedding Guests in 2026 - Aza Fashions",
+        "snippet": " Organza has completely taken over the wedding fashion scene in 2026. This \ncrisp, sheer fabric provides a dreamy, lightweight look that feels \nincredibly romanti...",
+        "domain": "www.azafashions.com",
+        "url": "https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=Organza%20has%20completely%20taken%20over%20the%20wedding,sleek%20blouse%20for%20a%20flawless%20reception%20look.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTcHM3QKVANuR8IkqtcmcgpEpQ4fXYS22UHABU_B7PGiUFZUrvu9OlKTXL_Wn24dEBRxqPoeqjprTAiXVSJmoPKR17bvA6ZTEmI7VlLNdI",
+        "source_name": "Aza Fashions",
+        "publication_date": null,
+        "markdown": "It provides a voluminous, structured silhouette that looks high-end and designer while remaining very lightweight and affordable."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Best Sarees for Wedding Guests in 2026 - Aza Fashions",
+        "snippet": " When absolute comfort is your top priority, georgette and chiffon sarees \nare the perfect solution. These fabrics drape incredibly well, hugging your \ncurves and...",
+        "domain": "www.azafashions.com",
+        "url": "https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=When%20absolute%20comfort%20is%20your%20top%20priority%2C,that%20requires%20almost%20zero%20effort%20to%20carry.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTcHM3QKVANuR8IkqtcmcgpEpQ4fXYS22UHABU_B7PGiUFZUrvu9OlKTXL_Wn24dEBRxqPoeqjprTAiXVSJmoPKR17bvA6ZTEmI7VlLNdI",
+        "source_name": "Aza Fashions",
+        "publication_date": null,
+        "markdown": "If comfort and ease of movement are priorities (especially for long ceremonies or sangeet dances), a flowing georgette saree paired with a heavy statement blouse hits the sweet spot between modern and traditional."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 9,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "To give you the best recommendations for buying wedding sarees online in India on a budget, I just need a couple of quick details to narrow things down:",
+        "original_text": "To give you the best recommendations for buying wedding sarees online in India on a budget, I just need a couple of quick details to narrow things down:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "1.  **What is your role at the wedding?** (Are you the bride, a close family member, or a wedding guest?)\n2.  **What is your approximate budget range in INR?**",
+        "original_text": "What is your role at the wedding? (Are you the bride, a close family member, or a wedding guest?)\nWhat is your approximate budget range in INR?",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "In the meantime, here is a breakdown of the best budget-friendly saree styles, fabrics, and online shopping options to help you look regal without spending a fortune:",
+        "original_text": "In the meantime, here is a breakdown of the best budget-friendly saree styles, fabrics, and online shopping options to help you look regal without spending a fortune:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### 1. Best Budget-Friendly Saree Styles & Fabrics",
+        "original_text": "1. Best Budget-Friendly Saree Styles & Fabrics",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "* **Art Silk & Banarasi Silk Blends (INR 2,000 – INR 5,000):** Pure Kanjeevaram or Katan silk sarees can easily cost a small fortune, but **art silk, semi-silk, or silk-blend Banarasi sarees** offer the exact same rich texture, heavy gold/silver zari work, and royal sheen at a fraction of the cost.\n* **Organza with Cut-Work or Floral Prints (INR 1,500 – INR 4,000):** Organza is extremely trendy for modern day-weddings, cocktail events, or receptions.[www.azafashions.com](https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=Organza%20has%20completely%20taken%20over%20the%20wedding,sleek%20blouse%20for%20a%20flawless%20reception%20look.) It provides a voluminous, structured silhouette that looks high-end and designer while remaining very lightweight and affordable.[www.azafashions.com](https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=Organza%20has%20completely%20taken%20over%20the%20wedding,sleek%20blouse%20for%20a%20flawless%20reception%20look.)\n* **Georgette or Chiffon with Sequin/Zari Borders (INR 1,200 – INR 3,500):** If comfort and ease of movement are priorities (especially for long ceremonies or sangeet dances), a flowing georgette saree paired with a heavy statement blouse hits the sweet spot between modern and traditional.[www.azafashions.com](https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=When%20absolute%20comfort%20is%20your%20top%20priority%2C,that%20requires%20almost%20zero%20effort%20to%20carry.)",
+        "original_text": "Art Silk & Banarasi Silk Blends (INR 2,000 – INR 5,000): Pure Kanjeevaram or Katan silk sarees can easily cost a small fortune, but art silk, semi-silk, or silk-blend Banarasi sarees offer the exact same rich texture, heavy gold/silver zari work, and royal sheen at a fraction of the cost.\nOrganza with Cut-Work or Floral Prints (INR 1,500 – INR 4,000): Organza is extremely trendy for modern day-weddings, cocktail events, or receptions. It provides a voluminous, structured silhouette that looks high-end and designer while remaining very lightweight and affordable.\nGeorgette or Chiffon with Sequin/Zari Borders (INR 1,200 – INR 3,500): If comfort and ease of movement are priorities (especially for long ceremonies or sangeet dances), a flowing georgette saree paired with a heavy statement blouse hits the sweet spot between modern and traditional.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Best Sarees for Wedding Guests in 2026 - Aza Fashions",
+          "snippet": " Organza has completely taken over the wedding fashion scene in 2026. This \ncrisp, sheer fabric provides a dreamy, lightweight look that feels \nincredibly romanti...",
+          "domain": "www.azafashions.com",
+          "url": "https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=Organza%20has%20completely%20taken%20over%20the%20wedding,sleek%20blouse%20for%20a%20flawless%20reception%20look.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTcHM3QKVANuR8IkqtcmcgpEpQ4fXYS22UHABU_B7PGiUFZUrvu9OlKTXL_Wn24dEBRxqPoeqjprTAiXVSJmoPKR17bvA6ZTEmI7VlLNdI",
+          "source_name": "Aza Fashions",
+          "publication_date": null,
+          "markdown": "Organza is extremely trendy for modern day-weddings, cocktail events, or receptions."
+         },
+         {
+          "type": "gemini_source",
+          "title": "Best Sarees for Wedding Guests in 2026 - Aza Fashions",
+          "snippet": " When absolute comfort is your top priority, georgette and chiffon sarees \nare the perfect solution. These fabrics drape incredibly well, hugging your \ncurves and...",
+          "domain": "www.azafashions.com",
+          "url": "https://www.azafashions.com/blog/best-sarees-for-wedding-guests-2026/#:~:text=When%20absolute%20comfort%20is%20your%20top%20priority%2C,that%20requires%20almost%20zero%20effort%20to%20carry.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTcHM3QKVANuR8IkqtcmcgpEpQ4fXYS22UHABU_B7PGiUFZUrvu9OlKTXL_Wn24dEBRxqPoeqjprTAiXVSJmoPKR17bvA6ZTEmI7VlLNdI",
+          "source_name": "Aza Fashions",
+          "publication_date": null,
+          "markdown": "If comfort and ease of movement are priorities (especially for long ceremonies or sangeet dances), a flowing georgette saree paired with a heavy statement blouse hits the sweet spot between modern and traditional."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "### 2. Trusted Online Sites for Budget Wedding Sarees in India",
+        "original_text": "2. Trusted Online Sites for Budget Wedding Sarees in India",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 7,
+        "markdown": "| Platform | Best For | Typical Budget Range |\n| :--- | :--- | :--- |\n| **Koskii** | Semi-bridal wear, reception gowns/sarees, and heavily embellished net/organza pieces. | INR 2,000 – INR 8,000 |\n| **Mohi Fashion** | Affordable handloom, regional weaves (like soft Paithanis), and budget Banarasis. | INR 1,500 – INR 5,000 |\n| **The Chennai Silks / Pothys** | Traditional South Indian temple borders, soft silks, and family bulk-shopping. | INR 1,000 – INR 6,000 |\n| **Nykaa Fashion / Ajio / Myntra** | Quick shipping, reliable return policies, and massive festive sales on designer diffusion lines (like Indya, Shaye, or regional labels). | INR 1,500 – INR 7,000 |",
+        "original_text": "Platform\tBest For\tTypical Budget Range\nKoskii\tSemi-bridal wear, reception gowns/sarees, and heavily embellished net/organza pieces.\tINR 2,000 – INR 8,000\nMohi Fashion\tAffordable handloom, regional weaves (like soft Paithanis), and budget Banarasis.\tINR 1,500 – INR 5,000\nThe Chennai Silks / Pothys\tTraditional South Indian temple borders, soft silks, and family bulk-shopping.\tINR 1,000 – INR 6,000\nNykaa Fashion / Ajio / Myntra\tQuick shipping, reliable return policies, and massive festive sales on designer diffusion lines (like Indya, Shaye, or regional labels).\tINR 1,500 – INR 7,000",
+        "table": {
+         "table_header": [
+          "Platform",
+          "Best For",
+          "Typical Budget Range"
+         ],
+         "table_content": [
+          [
+           "Koskii",
+           "Semi-bridal wear, reception gowns/sarees, and heavily embellished net/organza pieces.",
+           "INR 2,000 – INR 8,000"
+          ],
+          [
+           "Mohi Fashion",
+           "Affordable handloom, regional weaves (like soft Paithanis), and budget Banarasis.",
+           "INR 1,500 – INR 5,000"
+          ],
+          [
+           "The Chennai Silks / Pothys",
+           "Traditional South Indian temple borders, soft silks, and family bulk-shopping.",
+           "INR 1,000 – INR 6,000"
+          ],
+          [
+           "Nykaa Fashion / Ajio / Myntra",
+           "Quick shipping, reliable return policies, and massive festive sales on designer diffusion lines (like Indya, Shaye, or regional labels).",
+           "INR 1,500 – INR 7,000"
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 8,
+        "markdown": "### Quick Pro-Tips for Budget Saree Shopping Online",
+        "original_text": "Quick Pro-Tips for Budget Saree Shopping Online",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 9,
+        "markdown": "* **Focus on the Blouse:** A budget-friendly plain or lightly textured saree can instantly look like a high-end designer piece if you pair it with a statement, well-tailored blouse (such as a high-neck corset style, heavy cut-work, or a contrasting embroidered elbow-length sleeve).\n* **Check the Return/Exchange Policy:** Wedding outfits require precise matching. Always buy from platforms that allow hassle-free returns in case the color shade differs slightly in natural lighting versus studio photos.",
+        "original_text": "Focus on the Blouse: A budget-friendly plain or lightly textured saree can instantly look like a high-end designer piece if you pair it with a statement, well-tailored blouse (such as a high-neck corset style, heavy cut-work, or a contrasting embroidered elbow-length sleeve).\nCheck the Return/Exchange Policy: Wedding outfits require precise matching. Always buy from platforms that allow hassle-free returns in case the color shade differs slightly in natural lighting versus studio photos.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

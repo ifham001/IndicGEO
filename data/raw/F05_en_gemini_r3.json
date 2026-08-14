@@ -1,0 +1,235 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 3,
+  "promptText": "Which sarees should I buy online in India for a wedding on a budget?",
+  "cellId": "F05_en_gemini_r3",
+  "startedAt": "2026-08-14T12:33:38.880Z",
+  "finishedAt": "2026-08-14T12:33:56.570Z",
+  "durationMs": 17690,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Finding a gorgeous wedding-ready saree online on a budget is entirely possible if you look for the right fabrics and styles that mimic high-end luxury without the heavy price tag.\n\n---\n\n### Top Budget-Friendly Saree Styles for Weddings\n\n| Saree Type | Why it Works for Weddings | Estimated Budget Range | Best For |\n| :--- | :--- | :--- | :--- |\n| **Tissue Silk / Glass Tissue** | Lightweight with a high-shine, metallic sheen that looks very rich and modern (trending heavily for celebrity-inspired wedding looks). | ₹1,500 – ₹3,500 | Receptions, Cocktail nights, Sangeet |\n| **Art Silk / Soft Silk (Khaddi/Banarasi Blends)** | Gives the regal, traditional look of a heavy Kanjeevaram or Banarasi at a fraction of the cost, while being easy to drape. | ₹1,200 – ₹4,000 | Main wedding ceremonies, Puja |\n| **Organza with Zari or Embroidery** | Stiff yet translucent, organza gives a majestic, voluminous look that stands out, especially with floral prints or delicate thread/sequin work. | ₹1,500 – ₹4,500 | Daytime weddings, Mehendi, Haldi |\n| **Georgette / Chiffon with Sequin/Lace Work** | Super flowy, effortless to manage, and catches the light well if it features subtle border work or scattered sequins. | ₹1,000 – ₹3,000 | Sangeet, Cocktail parties |\n\n---\n\n### Reliable Online Platforms for Budget Wedding Sarees\n\n* **Direct Weaver & Ethnic Brands (Great for Quality & Price):** Websites like *WeaversIndia*, *Mohi Fashion*, or curated handloom stores often offer direct-from-loom art silks and tissue blends that balance authenticity with budget.\n* **Mainstream Fashion E-tailers (Great for Sales & Easy Returns):** **Myntra** and **Nykaa Fashion** frequently host festive/wedding sales where branded fusion and ethnic labels (like *Anouk*, *Sangria*, or *Ethnic Junction*) offer heavy discounts on banarasi blends and organza sarees.[www.myntra.com](https://www.myntra.com/wedding-sarees-below-5000#:~:text=Cloth%20collective.%20Floral%20Chanderi%20Poly%20Georgette%20Saree.,Cotton%20Saree.%20%E2%82%B91%2C500.%2035%25%20OFF.%20*%20AD.)\n* **Value-Focused Marketplaces:** Platforms like **Meesho** host thousands of direct suppliers selling soft-silk and tissue sarees starting under ₹2,000—just be sure to check customer photo reviews for fabric quality.[www.meesho.com](https://www.meesho.com/silk-sarees/pl/3j4#:~:text=Pure%20soft%20silk%20sarees%20on%20Meesho%20start,blouse%20work%20designs%20suitable%20for%20various%20occasions.)\n\n---\n\n### Tips for Smart Online Saree Shopping\n\n1.  **Check the Blouse Piece Detail:** Ensure the listing specifies \"with blouse piece\" so you aren’t left scrambling to match fabric later.\n2.  **Read Customer Photo Reviews:** Studio lighting can make cheap synthetic fabrics look expensive. Real customer review photos give the truest representation of texture and color.\n3.  **Factor in Fall & Pico:** Many budget online sarees come raw. Budget an extra ₹100–₹200 locally to get the fall and pico stitched so it drapes cleanly.\n\n---\n\nTo help narrow down the best specific options, what is your exact budget range, and which wedding function (e.g., Haldi, Sangeet, or the main ceremony) are you shopping for?",
+  "citations": [
+   {
+    "url": "https://www.myntra.com/wedding-sarees-below-5000#:~:text=Cloth%20collective.%20Floral%20Chanderi%20Poly%20Georgette%20Saree.,Cotton%20Saree.%20%E2%82%B91%2C500.%2035%25%20OFF.%20*%20AD.",
+    "source_name": "Myntra",
+    "position": 1
+   },
+   {
+    "url": "https://www.meesho.com/silk-sarees/pl/3j4#:~:text=Pure%20soft%20silk%20sarees%20on%20Meesho%20start,blouse%20work%20designs%20suitable%20for%20various%20occasions.",
+    "source_name": "Meesho",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "17.4722 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141233-2163-0629-0000-af9e1fd775f2",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "17.3906 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:33:55 +00:00",
+      "markdown": "Finding a gorgeous wedding-ready saree online on a budget is entirely possible if you look for the right fabrics and styles that mimic high-end luxury without the heavy price tag.\n\n---\n\n### Top Budget-Friendly Saree Styles for Weddings\n\n| Saree Type | Why it Works for Weddings | Estimated Budget Range | Best For |\n| :--- | :--- | :--- | :--- |\n| **Tissue Silk / Glass Tissue** | Lightweight with a high-shine, metallic sheen that looks very rich and modern (trending heavily for celebrity-inspired wedding looks). | ₹1,500 – ₹3,500 | Receptions, Cocktail nights, Sangeet |\n| **Art Silk / Soft Silk (Khaddi/Banarasi Blends)** | Gives the regal, traditional look of a heavy Kanjeevaram or Banarasi at a fraction of the cost, while being easy to drape. | ₹1,200 – ₹4,000 | Main wedding ceremonies, Puja |\n| **Organza with Zari or Embroidery** | Stiff yet translucent, organza gives a majestic, voluminous look that stands out, especially with floral prints or delicate thread/sequin work. | ₹1,500 – ₹4,500 | Daytime weddings, Mehendi, Haldi |\n| **Georgette / Chiffon with Sequin/Lace Work** | Super flowy, effortless to manage, and catches the light well if it features subtle border work or scattered sequins. | ₹1,000 – ₹3,000 | Sangeet, Cocktail parties |\n\n---\n\n### Reliable Online Platforms for Budget Wedding Sarees\n\n* **Direct Weaver & Ethnic Brands (Great for Quality & Price):** Websites like *WeaversIndia*, *Mohi Fashion*, or curated handloom stores often offer direct-from-loom art silks and tissue blends that balance authenticity with budget.\n* **Mainstream Fashion E-tailers (Great for Sales & Easy Returns):** **Myntra** and **Nykaa Fashion** frequently host festive/wedding sales where branded fusion and ethnic labels (like *Anouk*, *Sangria*, or *Ethnic Junction*) offer heavy discounts on banarasi blends and organza sarees.[www.myntra.com](https://www.myntra.com/wedding-sarees-below-5000#:~:text=Cloth%20collective.%20Floral%20Chanderi%20Poly%20Georgette%20Saree.,Cotton%20Saree.%20%E2%82%B91%2C500.%2035%25%20OFF.%20*%20AD.)\n* **Value-Focused Marketplaces:** Platforms like **Meesho** host thousands of direct suppliers selling soft-silk and tissue sarees starting under ₹2,000—just be sure to check customer photo reviews for fabric quality.[www.meesho.com](https://www.meesho.com/silk-sarees/pl/3j4#:~:text=Pure%20soft%20silk%20sarees%20on%20Meesho%20start,blouse%20work%20designs%20suitable%20for%20various%20occasions.)\n\n---\n\n### Tips for Smart Online Saree Shopping\n\n1.  **Check the Blouse Piece Detail:** Ensure the listing specifies \"with blouse piece\" so you aren’t left scrambling to match fabric later.\n2.  **Read Customer Photo Reviews:** Studio lighting can make cheap synthetic fabrics look expensive. Real customer review photos give the truest representation of texture and color.\n3.  **Factor in Fall & Pico:** Many budget online sarees come raw. Budget an extra ₹100–₹200 locally to get the fall and pico stitched so it drapes cleanly.\n\n---\n\nTo help narrow down the best specific options, what is your exact budget range, and which wedding function (e.g., Haldi, Sangeet, or the main ceremony) are you shopping for?",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Buy Wedding Sarees Below 5000 online in India - Myntra",
+        "snippet": "Cloth collective. Floral Chanderi Poly Georgette Saree. ₹2,999. 63% OFF. * \nAD. 4.4. AANVI. Saree. Deal of the Day. ₹3,499. 74% OFF. * GAMVIYA. Woven \nDesign Bana...",
+        "domain": "www.myntra.com",
+        "url": "https://www.myntra.com/wedding-sarees-below-5000#:~:text=Cloth%20collective.%20Floral%20Chanderi%20Poly%20Georgette%20Saree.,Cotton%20Saree.%20%E2%82%B91%2C500.%2035%25%20OFF.%20*%20AD.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTw1BtjoTldkUDxbDnTik8KkWfq_cz9NX8aNFGEZaiat6NsJDZaj7moFtfT3Bs-9fJ07ofETgln4uG07JPimWSbVt4SrREN1yYA",
+        "source_name": "Myntra",
+        "publication_date": null,
+        "markdown": "**Myntra** and **Nykaa Fashion** frequently host festive/wedding sales where branded fusion and ethnic labels (like *Anouk*, *Sangria*, or *Ethnic Junction*) offer heavy discounts on banarasi blends and organza sarees."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Silk Sarees : Latest Silk Pattu Saree Designs at Best Price | Meesho",
+        "snippet": " Pure soft silk sarees on Meesho start at affordable prices and can go up \nto premium ranges, depending on the design and craftsmanship. Are pure silk \nsarees ava...",
+        "domain": "www.meesho.com",
+        "url": "https://www.meesho.com/silk-sarees/pl/3j4#:~:text=Pure%20soft%20silk%20sarees%20on%20Meesho%20start,blouse%20work%20designs%20suitable%20for%20various%20occasions.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQyI6Cz4DyMmtOANj1qtLzvOYj0VXymgQaOXmC4iOI1g4FAtbaz0yQJ7M2cACiNSiGxy6HFSIYGQ2OnqYJ0x2i28J8P3dN7vPH2",
+        "source_name": "Meesho",
+        "publication_date": null,
+        "markdown": "Platforms like **Meesho** host thousands of direct suppliers selling soft-silk and tissue sarees starting under ₹2,000—just be sure to check customer photo reviews for fabric quality."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 8,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Finding a gorgeous wedding-ready saree online on a budget is entirely possible if you look for the right fabrics and styles that mimic high-end luxury without the heavy price tag.",
+        "original_text": "Finding a gorgeous wedding-ready saree online on a budget is entirely possible if you look for the right fabrics and styles that mimic high-end luxury without the heavy price tag.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### Top Budget-Friendly Saree Styles for Weddings",
+        "original_text": "Top Budget-Friendly Saree Styles for Weddings",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "markdown": "| Saree Type | Why it Works for Weddings | Estimated Budget Range | Best For |\n| :--- | :--- | :--- | :--- |\n| **Tissue Silk / Glass Tissue** | Lightweight with a high-shine, metallic sheen that looks very rich and modern (trending heavily for celebrity-inspired wedding looks). | ₹1,500 – ₹3,500 | Receptions, Cocktail nights, Sangeet |\n| **Art Silk / Soft Silk (Khaddi/Banarasi Blends)** | Gives the regal, traditional look of a heavy Kanjeevaram or Banarasi at a fraction of the cost, while being easy to drape. | ₹1,200 – ₹4,000 | Main wedding ceremonies, Puja |\n| **Organza with Zari or Embroidery** | Stiff yet translucent, organza gives a majestic, voluminous look that stands out, especially with floral prints or delicate thread/sequin work. | ₹1,500 – ₹4,500 | Daytime weddings, Mehendi, Haldi |\n| **Georgette / Chiffon with Sequin/Lace Work** | Super flowy, effortless to manage, and catches the light well if it features subtle border work or scattered sequins. | ₹1,000 – ₹3,000 | Sangeet, Cocktail parties |",
+        "original_text": "Saree Type\tWhy it Works for Weddings\tEstimated Budget Range\tBest For\nTissue Silk / Glass Tissue\tLightweight with a high-shine, metallic sheen that looks very rich and modern (trending heavily for celebrity-inspired wedding looks).\t₹1,500 – ₹3,500\tReceptions, Cocktail nights, Sangeet\nArt Silk / Soft Silk (Khaddi/Banarasi Blends)\tGives the regal, traditional look of a heavy Kanjeevaram or Banarasi at a fraction of the cost, while being easy to drape.\t₹1,200 – ₹4,000\tMain wedding ceremonies, Puja\nOrganza with Zari or Embroidery\tStiff yet translucent, organza gives a majestic, voluminous look that stands out, especially with floral prints or delicate thread/sequin work.\t₹1,500 – ₹4,500\tDaytime weddings, Mehendi, Haldi\nGeorgette / Chiffon with Sequin/Lace Work\tSuper flowy, effortless to manage, and catches the light well if it features subtle border work or scattered sequins.\t₹1,000 – ₹3,000\tSangeet, Cocktail parties",
+        "table": {
+         "table_header": [
+          "Saree Type",
+          "Why it Works for Weddings",
+          "Estimated Budget Range",
+          "Best For"
+         ],
+         "table_content": [
+          [
+           "Tissue Silk / Glass Tissue",
+           "Lightweight with a high-shine, metallic sheen that looks very rich and modern (trending heavily for celebrity-inspired wedding looks).",
+           "₹1,500 – ₹3,500",
+           "Receptions, Cocktail nights, Sangeet"
+          ],
+          [
+           "Art Silk / Soft Silk (Khaddi/Banarasi Blends)",
+           "Gives the regal, traditional look of a heavy Kanjeevaram or Banarasi at a fraction of the cost, while being easy to drape.",
+           "₹1,200 – ₹4,000",
+           "Main wedding ceremonies, Puja"
+          ],
+          [
+           "Organza with Zari or Embroidery",
+           "Stiff yet translucent, organza gives a majestic, voluminous look that stands out, especially with floral prints or delicate thread/sequin work.",
+           "₹1,500 – ₹4,500",
+           "Daytime weddings, Mehendi, Haldi"
+          ],
+          [
+           "Georgette / Chiffon with Sequin/Lace Work",
+           "Super flowy, effortless to manage, and catches the light well if it features subtle border work or scattered sequins.",
+           "₹1,000 – ₹3,000",
+           "Sangeet, Cocktail parties"
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "markdown": "### Reliable Online Platforms for Budget Wedding Sarees",
+        "original_text": "Reliable Online Platforms for Budget Wedding Sarees",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "markdown": "* **Direct Weaver & Ethnic Brands (Great for Quality & Price):** Websites like *WeaversIndia*, *Mohi Fashion*, or curated handloom stores often offer direct-from-loom art silks and tissue blends that balance authenticity with budget.\n* **Mainstream Fashion E-tailers (Great for Sales & Easy Returns):** **Myntra** and **Nykaa Fashion** frequently host festive/wedding sales where branded fusion and ethnic labels (like *Anouk*, *Sangria*, or *Ethnic Junction*) offer heavy discounts on banarasi blends and organza sarees.[www.myntra.com](https://www.myntra.com/wedding-sarees-below-5000#:~:text=Cloth%20collective.%20Floral%20Chanderi%20Poly%20Georgette%20Saree.,Cotton%20Saree.%20%E2%82%B91%2C500.%2035%25%20OFF.%20*%20AD.)\n* **Value-Focused Marketplaces:** Platforms like **Meesho** host thousands of direct suppliers selling soft-silk and tissue sarees starting under ₹2,000—just be sure to check customer photo reviews for fabric quality.[www.meesho.com](https://www.meesho.com/silk-sarees/pl/3j4#:~:text=Pure%20soft%20silk%20sarees%20on%20Meesho%20start,blouse%20work%20designs%20suitable%20for%20various%20occasions.)",
+        "original_text": "Direct Weaver & Ethnic Brands (Great for Quality & Price): Websites like WeaversIndia, Mohi Fashion, or curated handloom stores often offer direct-from-loom art silks and tissue blends that balance authenticity with budget.\nMainstream Fashion E-tailers (Great for Sales & Easy Returns): Myntra and Nykaa Fashion frequently host festive/wedding sales where branded fusion and ethnic labels (like Anouk, Sangria, or Ethnic Junction) offer heavy discounts on banarasi blends and organza sarees.\nValue-Focused Marketplaces: Platforms like Meesho host thousands of direct suppliers selling soft-silk and tissue sarees starting under ₹2,000—just be sure to check customer photo reviews for fabric quality.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Buy Wedding Sarees Below 5000 online in India - Myntra",
+          "snippet": "Cloth collective. Floral Chanderi Poly Georgette Saree. ₹2,999. 63% OFF. * \nAD. 4.4. AANVI. Saree. Deal of the Day. ₹3,499. 74% OFF. * GAMVIYA. Woven \nDesign Bana...",
+          "domain": "www.myntra.com",
+          "url": "https://www.myntra.com/wedding-sarees-below-5000#:~:text=Cloth%20collective.%20Floral%20Chanderi%20Poly%20Georgette%20Saree.,Cotton%20Saree.%20%E2%82%B91%2C500.%2035%25%20OFF.%20*%20AD.",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTw1BtjoTldkUDxbDnTik8KkWfq_cz9NX8aNFGEZaiat6NsJDZaj7moFtfT3Bs-9fJ07ofETgln4uG07JPimWSbVt4SrREN1yYA",
+          "source_name": "Myntra",
+          "publication_date": null,
+          "markdown": "**Myntra** and **Nykaa Fashion** frequently host festive/wedding sales where branded fusion and ethnic labels (like *Anouk*, *Sangria*, or *Ethnic Junction*) offer heavy discounts on banarasi blends and organza sarees."
+         },
+         {
+          "type": "gemini_source",
+          "title": "Silk Sarees : Latest Silk Pattu Saree Designs at Best Price | Meesho",
+          "snippet": " Pure soft silk sarees on Meesho start at affordable prices and can go up \nto premium ranges, depending on the design and craftsmanship. Are pure silk \nsarees ava...",
+          "domain": "www.meesho.com",
+          "url": "https://www.meesho.com/silk-sarees/pl/3j4#:~:text=Pure%20soft%20silk%20sarees%20on%20Meesho%20start,blouse%20work%20designs%20suitable%20for%20various%20occasions.",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQyI6Cz4DyMmtOANj1qtLzvOYj0VXymgQaOXmC4iOI1g4FAtbaz0yQJ7M2cACiNSiGxy6HFSIYGQ2OnqYJ0x2i28J8P3dN7vPH2",
+          "source_name": "Meesho",
+          "publication_date": null,
+          "markdown": "Platforms like **Meesho** host thousands of direct suppliers selling soft-silk and tissue sarees starting under ₹2,000—just be sure to check customer photo reviews for fabric quality."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "markdown": "### Tips for Smart Online Saree Shopping",
+        "original_text": "Tips for Smart Online Saree Shopping",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "markdown": "1.  **Check the Blouse Piece Detail:** Ensure the listing specifies \"with blouse piece\" so you aren’t left scrambling to match fabric later.\n2.  **Read Customer Photo Reviews:** Studio lighting can make cheap synthetic fabrics look expensive. Real customer review photos give the truest representation of texture and color.\n3.  **Factor in Fall & Pico:** Many budget online sarees come raw. Budget an extra ₹100–₹200 locally to get the fall and pico stitched so it drapes cleanly.",
+        "original_text": "Check the Blouse Piece Detail: Ensure the listing specifies \"with blouse piece\" so you aren’t left scrambling to match fabric later.\nRead Customer Photo Reviews: Studio lighting can make cheap synthetic fabrics look expensive. Real customer review photos give the truest representation of texture and color.\nFactor in Fall & Pico: Many budget online sarees come raw. Budget an extra ₹100–₹200 locally to get the fall and pico stitched so it drapes cleanly.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 8,
+        "markdown": "To help narrow down the best specific options, what is your exact budget range, and which wedding function (e.g., Haldi, Sangeet, or the main ceremony) are you shopping for?",
+        "original_text": "To help narrow down the best specific options, what is your exact budget range, and which wedding function (e.g., Haldi, Sangeet, or the main ceremony) are you shopping for?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

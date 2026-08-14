@@ -1,0 +1,251 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "perplexity",
+  "rep": 7,
+  "promptText": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+  "cellId": "S02_hg_perplexity_r7",
+  "startedAt": "2026-08-14T13:10:40.463Z",
+  "finishedAt": "2026-08-14T13:10:46.003Z",
+  "durationMs": 5540,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Indian skin par **white cast na chhodne** ke liye usually **chemical ya hybrid sunscreen** sabse better rehti hai, especially jisme **“invisible,” “gel,” “aqua gel,” ya “tinted”** finish ho.[1][6][9][15]\n\nMere hisaab se **best overall pick**: **Re’equil Ultra Matte Dry Touch Sunscreen SPF 50** — isse multiple lists me no-white-cast, matte, oily/combination skin ke liye top option bataya gaya hai.[1][11]\n\nAgar aapko quick shortlist chahiye, to ye options strong hain:\n\n- **Re’equil Ultra Matte Dry Touch SPF 50** — oily/combination skin ke liye, no white cast, matte finish.[1][11]\n- **Minimalist SPF 50 PA++++ Multi-Vitamin Sunscreen** — affordable option, no white cast, natural finish.[1][3][4]\n- **Deconstruct Gel Sunscreen / Hydrating Sunscreen** — lightweight, fast-absorbing, no white cast.[1][9]\n- **Aqualogica Glow+ SPF 50** — dry skin ke liye, dewy finish, no white cast.[1]\n- **Supergoop! Unseen SPF 50** — premium “invisible” option, completely zero white cast.[2]\n\n**Aapko kaunsa lena chahiye?**\n- **Oily skin**: Re’equil Ultra Matte ya Deconstruct Gel.[1][9]\n- **Dry skin**: Aqualogica Glow+ ya koi hydrating gel/cream sunscreen.[1][10]\n- **Dark/deeper skin tone**: “Invisible” ya **tinted** sunscreen best rahega; tinted formulas grey cast kam karti hain.[2][13][15]\n\n**White cast avoid karne ke liye kya dekhein**\n- **Chemical / hybrid filters**: white cast kam hota hai.[1][6][13]\n- **Zinc oxide / titanium dioxide heavy mineral formulas**: white cast ka risk zyada hota hai, jab tak micronized ya tinted na ho.[1][13][15]\n- Packaging par **“no white cast,” “invisible,” “clear,” “gel,”** ya **“tinted”** likha ho.[1][2][15]\n\nAgar aap chahein, main aapke **skin type** aur **budget** ke hisaab se 3 exact sunscreens shortlist kar deta hoon.",
+  "citations": [
+   {
+    "url": "https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast",
+    "position": 1
+   },
+   {
+    "url": "https://dropy.in/blogs/dropy-blog/7-best-sunscreens-for-indian-skin-no-white-cast",
+    "position": 2
+   },
+   {
+    "url": "https://www.nykaa.com/skin/sun-care/c/8428",
+    "position": 3
+   },
+   {
+    "url": "https://glowdekho.com/blog-best-sunscreen-no-white-cast.html",
+    "position": 4
+   },
+   {
+    "url": "https://smytten.com/blogs/skincare/6-best-sunscreens-with-no-white-cast-for-indian-skin",
+    "position": 5
+   },
+   {
+    "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html",
+    "position": 6
+   },
+   {
+    "url": "https://www.amazon.in/sunscreen-spf-50-without-white-cast/s?k=sunscreen+spf+50+without+white+cast",
+    "position": 7
+   },
+   {
+    "url": "https://thedermaco.com/blogs/skin-care/finding-no-white-cast-sunscreens-for-indian-skin-tones",
+    "position": 8
+   },
+   {
+    "url": "https://thedeconstruct.in/blogs/skin-information/best-sunscreen-without-white-cast-in-india-for-face",
+    "position": 9
+   },
+   {
+    "url": "https://avivabeauty.in/blogs/articles/best-sunscreen-for-glowing-skin-in-india-non-sticky-no-white-cast-guide",
+    "position": 10
+   },
+   {
+    "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/17yr1i9/please_recommend_a_good_sunscreen_without_white/",
+    "position": 11
+   },
+   {
+    "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/mzi61q/best_physical_sunscreen_for_indian_skin_with_no/",
+    "position": 12
+   },
+   {
+    "url": "https://smytten.com/blogs/skincare/best-sunscreen-for-dark-skin-india-no-white-cast-faq",
+    "position": 13
+   },
+   {
+    "url": "https://deyga.in/blogs/news/best-sunscreen-recommended-by-dermatologists-in-india",
+    "position": 14
+   },
+   {
+    "url": "https://thefaceshop.in/blogs/skincare/top-10-sunscreens-for-indian-skin-your-ultimate-guide-to-glow-without-the-burn",
+    "position": 15
+   }
+  ],
+  "costUsd": 0.005616
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "5.2272 sec.",
+  "cost": 0.006216,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141310-2163-0612-0000-55595ea5f52f",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "5.0713 sec.",
+    "cost": 0.006216,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 33,
+      "output_tokens": 583,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005616,
+      "datetime": "2026-08-14 13:10:45 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "Indian skin par **white cast na chhodne** ke liye usually **chemical ya hybrid sunscreen** sabse better rehti hai, especially jisme **“invisible,” “gel,” “aqua gel,” ya “tinted”** finish ho.[1][6][9][15]\n\nMere hisaab se **best overall pick**: **Re’equil Ultra Matte Dry Touch Sunscreen SPF 50** — isse multiple lists me no-white-cast, matte, oily/combination skin ke liye top option bataya gaya hai.[1][11]\n\nAgar aapko quick shortlist chahiye, to ye options strong hain:\n\n- **Re’equil Ultra Matte Dry Touch SPF 50** — oily/combination skin ke liye, no white cast, matte finish.[1][11]\n- **Minimalist SPF 50 PA++++ Multi-Vitamin Sunscreen** — affordable option, no white cast, natural finish.[1][3][4]\n- **Deconstruct Gel Sunscreen / Hydrating Sunscreen** — lightweight, fast-absorbing, no white cast.[1][9]\n- **Aqualogica Glow+ SPF 50** — dry skin ke liye, dewy finish, no white cast.[1]\n- **Supergoop! Unseen SPF 50** — premium “invisible” option, completely zero white cast.[2]\n\n**Aapko kaunsa lena chahiye?**\n- **Oily skin**: Re’equil Ultra Matte ya Deconstruct Gel.[1][9]\n- **Dry skin**: Aqualogica Glow+ ya koi hydrating gel/cream sunscreen.[1][10]\n- **Dark/deeper skin tone**: “Invisible” ya **tinted** sunscreen best rahega; tinted formulas grey cast kam karti hain.[2][13][15]\n\n**White cast avoid karne ke liye kya dekhein**\n- **Chemical / hybrid filters**: white cast kam hota hai.[1][6][13]\n- **Zinc oxide / titanium dioxide heavy mineral formulas**: white cast ka risk zyada hota hai, jab tak micronized ya tinted na ho.[1][13][15]\n- Packaging par **“no white cast,” “invisible,” “clear,” “gel,”** ya **“tinted”** likha ho.[1][2][15]\n\nAgar aap chahein, main aapke **skin type** aur **budget** ke hisaab se 3 exact sunscreens shortlist kar deta hoon.",
+          "annotations": [
+           {
+            "title": "Top 7 Sunscreens for Indian Skin No White Cast 2025 - Nourish Mantra",
+            "url": "https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "7 Best Sunscreens for Indian Skin 2026 — No White Cast, SPF ...",
+            "url": "https://dropy.in/blogs/dropy-blog/7-best-sunscreens-for-indian-skin-no-white-cast",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shop For Top Rated Sunscreen Creams, Lotions & Sprays At Best ...",
+            "url": "https://www.nykaa.com/skin/sun-care/c/8428",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Sunscreen for Indian Skin — No White Cast Under ₹500 ...",
+            "url": "https://glowdekho.com/blog-best-sunscreen-no-white-cast.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "6 Best Sunscreens With No White Cast for Indian Skin - Smytten",
+            "url": "https://smytten.com/blogs/skincare/6-best-sunscreens-with-no-white-cast-for-indian-skin",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "These 7 sunscreens without white cast work for Indian skin ...",
+            "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Sunscreen Spf 50 Without White Cast - Amazon.in",
+            "url": "https://www.amazon.in/sunscreen-spf-50-without-white-cast/s?k=sunscreen+spf+50+without+white+cast",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Finding No White Cast Sunscreens for Indian Skin Tones",
+            "url": "https://thedermaco.com/blogs/skin-care/finding-no-white-cast-sunscreens-for-indian-skin-tones",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Sunscreen Without White Cast in India for Face - Deconstruct",
+            "url": "https://thedeconstruct.in/blogs/skin-information/best-sunscreen-without-white-cast-in-india-for-face",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Sunscreen for Glowing Skin: No White Cast Guide - Aviva Beauty",
+            "url": "https://avivabeauty.in/blogs/articles/best-sunscreen-for-glowing-skin-in-india-non-sticky-no-white-cast-guide",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Please recommend a good sunscreen without white cast. - Reddit",
+            "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/17yr1i9/please_recommend_a_good_sunscreen_without_white/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best physical sunscreen for indian skin with no - minimal white cast?",
+            "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/mzi61q/best_physical_sunscreen_for_indian_skin_with_no/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Sunscreen for Dark Skin India: No White Cast FAQ - Smytten",
+            "url": "https://smytten.com/blogs/skincare/best-sunscreen-for-dark-skin-india-no-white-cast-faq",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Sunscreen Recommended by Dermatologists in India",
+            "url": "https://deyga.in/blogs/news/best-sunscreen-recommended-by-dermatologists-in-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 10 Sunscreens for Indian Skin: No White Cast & SPF 50 Guide",
+            "url": "https://thefaceshop.in/blogs/skincare/top-10-sunscreens-for-indian-skin-your-ultimate-guide-to-glow-without-the-burn",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

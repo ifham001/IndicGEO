@@ -1,0 +1,397 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 8,
+  "promptText": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+  "cellId": "S02_en_chatgpt_r8",
+  "startedAt": "2026-08-14T13:04:27.382Z",
+  "finishedAt": "2026-08-14T13:04:45.177Z",
+  "durationMs": 17795,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "If your priority is **high protection + no obvious white cast on Indian skin**, my first pick would be:\n\n### [Minimalist Light Fluid Face Sunscreen SPF 50]()\n*₹315*\n\n### 🥇 Best overall: Minimalist Light Fluid SPF 50\n- **Very lightweight, fluid texture**\n- Designed to blend invisibly rather than sit on the skin\n- **SPF 50** with strong UVA protection\n- A good choice if you want something that doesn't look like you're wearing sunscreen.\n- Current listings I found are around **₹315–₹450**, depending on seller. [www.buyrn.in](https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com)\n\n### 🥈 If you have oily skin: Re'equil Ultra Matte\n### [Re'equil Ultra Matte Dry Touch Sunscreen SPF 50 PA++++]()\n*₹580.50*\n\nThis is particularly good if you hate a **greasy/shiny finish**. User reviews consistently mention no white cast and a matte finish. [www.nykaa.com](https://www.nykaa.com/re-equil-ultra-matte-dry-touch-sunscreen-gel-spf-50-na/reviews/2649620?utm_source=chatgpt.com)\n\n### 🥉 If you want a little more hydration: Dot & Key Watermelon\n### [Dot & Key Watermelon Cooling Sunscreen]()\n*₹263*\n\nA better option if your skin is **normal/dry** and you prefer a slightly dewier finish.\n\n**One important point:** if you're **medium-deep to deep Indian skin**, I'd lean toward a **chemical sunscreen or a properly tinted sunscreen**. Mineral sunscreens containing zinc oxide/titanium dioxide are much more likely to show a cast.\n\nIf you tell me your **skin type (oily/dry/combination)** and roughly your **skin tone (fair/medium/wheatish/deep)**, I can narrow it down to **one exact sunscreen** for you.",
+  "citations": [
+   {
+    "url": "https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com",
+    "source_name": "Buyrn",
+    "position": 1
+   },
+   {
+    "url": "https://www.nykaa.com/re-equil-ultra-matte-dry-touch-sunscreen-gel-spf-50-na/reviews/2649620?utm_source=chatgpt.com",
+    "source_name": "Nykaa",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "17.5431 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141304-2163-0629-0000-d1f65b5ba634",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "17.5340 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=I%20want%20to%20buy%20a%20sunscreen%20that%20doesn%27t%20leave%20a%20white%20cast%20on%20Indian%20skin.%20Which%20one%20is%20best%3F&hints=search",
+      "datetime": "2026-08-14 13:04:44 +00:00",
+      "markdown": "If your priority is **high protection + no obvious white cast on Indian skin**, my first pick would be:\n\n### [Minimalist Light Fluid Face Sunscreen SPF 50]()\n*₹315*\n\n### 🥇 Best overall: Minimalist Light Fluid SPF 50\n- **Very lightweight, fluid texture**\n- Designed to blend invisibly rather than sit on the skin\n- **SPF 50** with strong UVA protection\n- A good choice if you want something that doesn't look like you're wearing sunscreen.\n- Current listings I found are around **₹315–₹450**, depending on seller. [www.buyrn.in](https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com)\n\n### 🥈 If you have oily skin: Re'equil Ultra Matte\n### [Re'equil Ultra Matte Dry Touch Sunscreen SPF 50 PA++++]()\n*₹580.50*\n\nThis is particularly good if you hate a **greasy/shiny finish**. User reviews consistently mention no white cast and a matte finish. [www.nykaa.com](https://www.nykaa.com/re-equil-ultra-matte-dry-touch-sunscreen-gel-spf-50-na/reviews/2649620?utm_source=chatgpt.com)\n\n### 🥉 If you want a little more hydration: Dot & Key Watermelon\n### [Dot & Key Watermelon Cooling Sunscreen]()\n*₹263*\n\nA better option if your skin is **normal/dry** and you prefer a slightly dewier finish.\n\n**One important point:** if you're **medium-deep to deep Indian skin**, I'd lean toward a **chemical sunscreen or a properly tinted sunscreen**. Mineral sunscreens containing zinc oxide/titanium dioxide are much more likely to show a cast.\n\nIf you tell me your **skin type (oily/dry/combination)** and roughly your **skin tone (fair/medium/wheatish/deep)**, I can narrow it down to **one exact sunscreen** for you.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.nykaa.com/re-equil-oxybenzone-and-omc-free-sunscreen/reviews/491042?utm_source=chatgpt.com",
+        "domain": "www.nykaa.com",
+        "title": "Re'equil Oxybenzone And Omc Free Sunscreen SPF 50 PA+++ Reviews Online | Nykaa",
+        "description": "Re'equil Oxybenzone And Omc Free Sunscreen SPF 50 PA+++ - All Reviews  Nykaa is committed to showing genuine and verified reviews.  4.3/5  Overall Rating 13712 verified ratings  Write a review and wi...",
+        "breadcrumb": "nykaa.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.nykaa.com/re-equil-sheer-zinc-tinted-sunscreen-spf-50-pa-100-mineral-sunscreen/reviews/1166299?utm_source=chatgpt.com",
+        "domain": "www.nykaa.com",
+        "title": "Re'equil Sheer Zinc Tinted Sunscreen Spf 50 Pa+++ 100% Mineral Sunscreen Reviews Online | Nykaa",
+        "description": "Re'equil Sheer Zinc Tinted Sunscreen Spf 50 Pa+++ 100% Mineral Sunscreen - All Reviews  Nykaa is committed to showing genuine and verified reviews.  4.2/5  Overall Rating 2917 verified ratings  Write...",
+        "breadcrumb": "nykaa.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.nykaa.com/re-equil-oxybenzone-and-omc-free-sunscreen/p/491042?pps=21&productId=491042&utm_source=chatgpt.com",
+        "domain": "www.nykaa.com",
+        "title": "Buy Re'equil Oxybenzone And Omc Free Sunscreen SPF 50 PA+++ Online",
+        "description": "Expiry Date: 15 July 2028  Country of Origin:  India  Manufacturer:  Lyra Laboratories Private Limited  Address:  SAI ROAD, BADDI, HIMACHAL PRADESH, INDIA  PRODUCT DETAILS  RATINGS & REVIEWS  4.4/5...",
+        "breadcrumb": "nykaa.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.oilyskinfix.in/2026/03/requeil-spf-50-review-oily-skin-india.html?utm_source=chatgpt.com",
+        "domain": "www.oilyskinfix.in",
+        "title": "Oily Skin Fix India: Re'equil SPF 50 Review — 4-Week Test for Oily Skin India",
+        "description": "Disclosure: This post contains affiliate links. If you buy through our Amazon links, we may earn a small commission at no extra cost to you. All recommendations are editorially independent and based...",
+        "breadcrumb": "oilyskinfix.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.oilyskinfix.in/2026/04/reequil-ultra-matte-sunscreen-review-oily-skin.html?utm_source=chatgpt.com",
+        "domain": "www.oilyskinfix.in",
+        "title": "Oily Skin Fix India: Re'equil Ultra Matte Sunscreen Review: 6 Hours Oil-Free or Just Hype? (April 2026)",
+        "description": " April 2026  Oily Skin Fix India  9 min read Sunscreen Review Oily Skin India SPF 50   Tested and updated: April 2026   Disclosure: This post contains Amazon affiliate links. I earn a small comm...",
+        "breadcrumb": "oilyskinfix.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.reequil.com/products/oxybenzone-free-sunscreen-spf-50-for-oily-acne-prone-skin?utm_source=chatgpt.com",
+        "domain": "www.reequil.com",
+        "title": "Buy Re'equil Oxybenzone Free Sunscreen SPF 50 for Oily Skin",
+        "description": "OXYBENZONE & OMC FREE SUNSCREEN  Oxybenzone & OMC Free Sunscreen  4.5   1817 Reviews  * No harmful filters * Lightweight, lotion texture * For oily, acne prone skin  ₹355.50  ₹355.50 ~~ ₹395.00 ~~  (...",
+        "breadcrumb": "reequil.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.reequil.com/collections/sunscreens/products/oxybenzone-free-sunscreen-spf-50-for-oily-acne-prone-skin?utm_source=chatgpt.com",
+        "domain": "www.reequil.com",
+        "title": "Buy Re'equil Oxybenzone Free Sunscreen SPF 50 for Oily Skin",
+        "description": "OXYBENZONE & OMC FREE SUNSCREEN  * No harmful filters * Lightweight, lotion texture * For oily, acne prone skin  OXYBENZONE & OMC FREE SUNSCREEN  * No harmful filters * Lightweight, lotion texture *...",
+        "breadcrumb": "reequil.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.reequil.com/collections/sunscreens/products/ultra-matte-dry-touch-sunscreen-gel-spf-50-pa?utm_source=chatgpt.com",
+        "domain": "www.reequil.com",
+        "title": "Buy Ultra Matte Dry Touch Sunscreen Gel SPF 50 PA++++ – Re'equil",
+        "description": "ULTRA MATTE DRY TOUCH SUNSCREEN  * All skin types * Water resistant * Non comedogenic  ULTRA MATTE DRY TOUCH SUNSCREEN  * All skin types * Water resistant * Non comedogenic  Image: Ultra Matte Dry To...",
+        "breadcrumb": "reequil.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com",
+        "domain": "www.femina.in",
+        "title": "7 Best Sunscreens That Do Not Leave a White Cast on Indian Skin",
+        "description": "By Purva Joshi  7 BEST SUNSCREENS THAT DO NOT LEAVE A WHITE CAST ON INDIAN SKIN  May 6, 2025  1. LA SHIELD FISICO MATTE SUNSCREEN GEL SPF 50  Formulated for sensitive skin, this mineral sunscreen blen...",
+        "breadcrumb": "femina.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html/?utm_source=chatgpt.com",
+        "domain": "www.hindustantimes.com",
+        "title": "These 7 sunscreens without white cast work for Indian skin and summers | Fashion Trends",
+        "description": "CUSTOMER REVIEWS  Customers praise the effective sun protection and natural-looking tint. Many users find that it blends well and creates an even skin tone without appearing cakey. Sensitive skin user...",
+        "breadcrumb": "hindustantimes.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Best Sunscreen for Indian Skin: SPF 50 Picks | Buyrn",
+        "snippet": null,
+        "domain": "www.buyrn.in",
+        "url": "https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Buyrn",
+        "publication_date": "2026-04-28 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Re'equil Ultra Matte Dry Touch Sunscreen SPF 50 PA++++ Reviews Online | Nykaa",
+        "snippet": null,
+        "domain": "www.nykaa.com",
+        "url": "https://www.nykaa.com/re-equil-ultra-matte-dry-touch-sunscreen-gel-spf-50-na/reviews/2649620?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Nykaa",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best sunscreen no white cast Indian skin Minimalist Re'equil sunscreen SPF 50 review"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "If your priority is **high protection + no obvious white cast on Indian skin**, my first pick would be:\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10913482140093209701",
+          "merchants": "Minimalist + others",
+          "id_to_token_map": "LCsV7nicbVTJrqNWEE3yBVlm-XZZPFliNJCntwDMaDPDBbOxmGyGy2AGY6x8TPR6kDrLJFKUT-le5DuyDFG2XauS6uicUlWd-vub79-y4s_QVk_RVABZ4a_9JJibcDPQrPCp69t0SsYi_Z3CyS2FkiSFISSFMts1-ZREYwTbS5H-gSIMihM0hhIIwuAYwlAI-lueRSksmsw4n7N-1yYrC4ZQOI7SNMNsaQKnKJKhfi3q6JL9X6YIfEsjGIFhyAoisVXlXZ8OnzGTP63qDI4jGI1taYwgmBXys2kbu9PXax-uU9Yvn3-si2YVgMUwPsPiko_PZzgV6fMwNUPSZ1nzPHTnZxL5cOn-a-ArRO_qIv3lXXcb3_LL-2mC2V_zM88qlsIrB1sCQyRVg-OTVeQLbxf4VjRvOXzLmo9t1N3OyZdv_xFuCc_3CW95XQd2NuKKqgYaKDuyWriVhWgFarg-edUlfY4rsV0xXlimZ09OmxTJ1chTfSCJii8DzYXhFbjpzWm4PMC6TqugFVYMYQje7EPdsDCdi316Sd2cjIKUc6p8TNwcWkFqhZJtRAtaeT7j6qLYJlUKQwG1I6DKOkae3Rp1Y7kbrZogNRw-kkogwgrKITLfDQ8hVn3UrcIywG3JgiwOKl336wpJd-EU1yTvOWgJUG481sd7KIBruEtvvpCWUaVzWsW4sTQWUaPv0ibkdADmAMlbIOT7pOHMBO0UH3RGsgN7w1958HB2QFrFstj4IjN5EmPYDdBDwUN9AEoXG7UYOz7WBWBaBcqstnHP1c1YgIQepH5UWoQLRR_UnQQajYy9dNIQu4sFsXdRUCe1GPg7ljj6-pIJoXTEBkdEO8eBTJ760HcEuEsCFbUBO_oF-jAEUZQKlbNlfTH80EmEEVgPa4kDzoxqEh5xlQcQqjaCKgeQIHrA4e_vQ3_-jLAiOToGWVNF0Zxdf1stRt_ceZJIrN1J6JUD-xNK0evhYVuKohj6Y9K2VZF9-e4HR2BtXj45rCY4iiu88hdLuW8F7uWJFfhXNlWBEE1muhBuNFWgGFiVPJap0OhNEnvooMz78BGkcm0GLX9XHm14c-ey83bsy9MOvA6bgoCmqo3dpRxkC1mM-HReze1niMiKLZEu9r3OsceeVdg1Xp5OJydLpj7bOK5tvrJ6Hc4RUhHmldn7VgazfG8t41JezqxTmpxgob6ZEPR1vvVzvB0AnTGlvT8G6_Q2qmPqUNWsGRPZdh9i1m1vhlQvKVY7qNwJ542TbL086crulcTxV0mFw_XQVntBstRzPwbTMe3DnlYUmS07PTIdf7vbg-0Ceto7GRy9QTFQiqsPkKWA82Esy0MBD6pYwG3uo9zkH-6Ue5VJgqQIZFMVl-im7AvhIkRF18oDdna2hYURbF9z3JyRm_vqLCvUFPPQyxJFB2h4UCNz_SvkUHPYaZBOQ1AH9rahXTQq887GuuvZD2d6uQU8q9bwFKvHSlmMln5kl-UganUcuxZW3TKPL7wQqxmNvyxVU99dnzGREwhN2pwHO6SGhp1ms2v1k7gag8QK5fgvIo7nNQ",
+          "title": "Minimalist Light Fluid Face Sunscreen SPF 50",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 358,
+           "rating_max": 5
+          },
+          "price": 315,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/SiYWmnicDcnxDoFAHADgJzqRUG1m6WhxK5Fl_WO5Wpf06-oO1VN5HW_D9-_3_TApuTAVJQPa9lxmKZI3mIxyIRNZ0BGtK0WwmvMC8lWz_J9peanh0NDdIaHZJ4ZwWqmv6LYhDcyuvdMccai6YZwcSBwZ_LLN9mJNFuV6gInuaNSuvKoVxMcxUPWJtTkInRk5mhG_Zu_mXjxwENhzwEE67vRzVtZJWMJwtLr27k7zH12RPls"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "ZRJ_auiVHICqruEP-Z-s8AE",
+            "product_id": "7356715572057196572",
+            "catalog_id": "10913482140093209701",
+            "gpcid": "6719330282682449201",
+            "headline_offer_docid": "2073318899684377597",
+            "image_docid": "7436802422018852657",
+            "rds": "PC_6719330282682449201|PROD_PC_6719330282682449201",
+            "query": "minimalist+light+fluid+sunscreen+spf+50",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICILRGVsaGksSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n### 🥇 Best overall: Minimalist Light Fluid SPF 50\n- **Very lightweight, fluid texture**\n- Designed to blend invisibly rather than sit on the skin\n- **SPF 50** with strong UVA protection\n- A good choice if you want something that doesn't look like you're wearing sunscreen.\n- Current listings I found are around **₹315–₹450**, depending on seller. [www.buyrn.in](https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com)\n\n### 🥈 If you have oily skin: Re'equil Ultra Matte\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Sunscreen for Indian Skin: SPF 50 Picks | Buyrn",
+          "snippet": null,
+          "domain": "www.buyrn.in",
+          "url": "https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Buyrn",
+          "publication_date": "2026-04-28 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "11025672868353804453",
+          "merchants": "Re'equil + others",
+          "id_to_token_map": "HdTUSHicbVRJrqNWFE2yggyygJpkZH3p0UNKf4DNA8y3wTzg0UysR2ODwfS4U1bzq5Eqw0qkKEupDLKD7CFUpskd3nt17jm3--ub71-z4vcIGXvSTSM8TNY1LnfUi7UvbPFT2zfplIxF-ivHMDTHsZzAMLzIC5LEsJ8SMpKqORbpbxQFaI4XaJEXGY4RActyzOc8I2lV1Jl1OGS90iQzCiPNWRQtSjTDzFjsDPZLcSbH7N_wZ1Hi5ioUECmKYllR4Jh3fTp8AbvVnpZEmqYFgRdYShB5ILI_75Cl7P839KGbsv7-heuzH2kh66aiWkzV2JPFmYxjtkj7-2JspiRfDFM9JH2W1YtjVi2G9rDgwIdj-5XLf1HfnWc3J_AsT7MA0LwkUILAsu_ay_iaH99PU5X9cV2s5LW9Xq03SMMD0crB8bmS-PD1WL0W9WtevWb1x4a0l0Py53c_wOaqrIbryvbaFisIOD5GLk4rrOMwO4cMAjmdBDmKz2mUgiODNBugkzdiF209WEGHQmFMq6sU3i5bFytbLRpImVZpsDSIL1F2UD7ssoU2aLlIWd5sxhtRHe3ck0q2oG0ivVqTWu02vsojBRfmY8mHJ2MMaOrhQsOKdbVyMabjckt7bqQFdNqlENUmnQCCJZBpaHLdBKR1FDl0pSU-YqJTuksrVJkwnyI3v2Q-OsW4uZHaxAiUt0RB24AyBg-qFqKSRxJAsNXVnJRGaEHcZDhhYj06xwxe2x5Xx27eplpkR3SOMr8dQpBb27kz5GQwqMSa6eUqgbi1PbwkEOmmH4V-pTYxpOhZO0lUo4u1fGkCzvFq-IhOaoEZ-xGDiksDmwsdcHOodjIfah0p66vnDZSl4tDEeRi7hhHDAWzPHBN548wF0XaNSk9PAaKiIASDo1Kt41RSngQYID-iXCYtCCXfHCAdCIasVhjLmdXd8iPX0fKbWVdBNE9yq0YPpFQw1rgR36m1f0IbHKD6_W3oD1-ArHKjY_F14ulllUv79qDySbfa2H70so1bUNg_fd3L-Zp4YT4U4WPSNGWR_fnt3_u9kyVTnz05Lto9y-Y5uhL6Zl3iR_1USI5Pj2auXey1cOea_XQ-EV99Gdq-CvcP4zIgUdESeigBrJewGOtihS6T87I_J_z6HLD-jRaiCsiWXqT6Bkwx8cf87RsHymil7x15C521C59XR3t94-Hy7RsZrp7l1MCQXF7wUhNjbjXa4SMU1QZ2rHZRxkuSJE9xv1X5jR0KGfHLSHW07C52TTS8faPg5zXXN7TgBqtpaIGy3CUPx1F9gKB1VeVlE_kdUZ3dKLtX-au9fWOulef5Yz1vDKMkwtXgAr57Wub50fXcy3ItNwIWrnfVC_1ZECt0OG6teWptdLJcOfA43tb1ctNqUr5jHtfN9dz1-4wJuoay96xvdiN7gJQhKvetpU_hE2t1yk3SfIi4PaM9tRJvTHc2OJSFeKofNlXwkKO60zXuXR_neqLngB_vzgtO7ZMl1_LhQpncI5XGk5cNUEr76nqQkgEW7HioT5on1POjs14acUt2uwZqZmUUKjjcqCf5H7n_6Io",
+          "title": "Re'equil Ultra Matte Dry Touch Sunscreen SPF 50 PA++++",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 410,
+           "rating_max": 5
+          },
+          "price": 580.5,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/yaGVi3icDcnRCoIwFADQL1LxKRUiyqQQMXVY0zebFzfJ7battJ77yf6mzuv5fri1aCLPA8n0Cy30jr1K3x2M7axgLlOTZ7hCFHLY3Nf_i7Z5Hx4YeYgsWcIFfGzaOd47SGM9Sx0UTK1wTEvQ2fl2qd5-yknFiSTB82S6aVfW0OaFYrRJ8mNNR6jKHzgmMLA"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "ZRJ_aqutEfuOwbkP1KO_iQ8",
+            "product_id": "5332554573368679934",
+            "catalog_id": "11025672868353804453",
+            "gpcid": "298222776741786084",
+            "headline_offer_docid": "3956712892334574336",
+            "image_docid": "895325108111448753",
+            "rds": "PC_298222776741786084|PROD_PC_298222776741786084",
+            "query": "re%27equil+ultra+matte+dry+touch+sunscreen+gel+spf+50",
+            "mid": "576462400269717744",
+            "pvt": "hg",
+            "uule": "w+CAIQICILRGVsaGksSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\nThis is particularly good if you hate a **greasy/shiny finish**. User reviews consistently mention no white cast and a matte finish. [www.nykaa.com](https://www.nykaa.com/re-equil-ultra-matte-dry-touch-sunscreen-gel-spf-50-na/reviews/2649620?utm_source=chatgpt.com)\n\n### 🥉 If you want a little more hydration: Dot & Key Watermelon\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Re'equil Ultra Matte Dry Touch Sunscreen SPF 50 PA++++ Reviews Online | Nykaa",
+          "snippet": null,
+          "domain": "www.nykaa.com",
+          "url": "https://www.nykaa.com/re-equil-ultra-matte-dry-touch-sunscreen-gel-spf-50-na/reviews/2649620?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Nykaa",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 3,
+        "rank_absolute": 6,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "11781078346234467158",
+          "merchants": "Amazon.in + others",
+          "id_to_token_map": "BV0NDXicdVTJrqNWFIz6C7LIJrveZPVkhctlzNNbgAEDtsFMF5uNxWSwuQwGbDDK17wepM6y01KUT-le5FtCsk7Oto5KpVJV_fXd96_p-Y9A1I_hNaJ0fS3nkba70ozbCd2npq2TW9yfky-ABTQkWYImOYYgaIKmGfgpDvsQ19k_MGA5QLAcpBgSUhQzf3Of8zRM8LlKzdMpbaU6Pie_QwpAQFOQ57iZh4IsCX87l2GW_gt_AQSkKZ6gSJJlIcUyFMUx79qk-0rtlkcAKAIwFM2wJAd5GnI0yf66s03p-D_gh-stbR9ff07q_uknknkq0sfTEPZpW6a4rp7iup7VZU_dreriNk2rp645PdHEh6z5V8t_ML4rz8lnetbFkDRD8hQAgCYI_l1z71_z7P3thtM_h6eloFnaUtvYK9SFq6JzfLoIffk1w6_n6jXHr2n1sQ6b-yn-9uYHuR6kZTcsLa9pkGQTzoSarRLAZK-riYKAjfONW9Cmt28sU8WMVXSDcRE9e1KwVwXungwkpGDZwkblq6iwgDUZZzAGsm4nXjxGEvL3UJ7Soim9C76GhHFPMG8geTxFhd55yGZMWdFRQVFBUYwbF0moaIKobChbVqqtD9S0wLWD8MMqvd5Q8saAGj1rutgEaAM3Xx0c4Ht-XlhuASPfeBiXAFiwhqgcy6gSC3Nla64rLuNV7yayMu5JYnChXcQSuieFoZkrfXOAdb-F-rgn9JvloztStlQwiUyo6sD18MHCtunJFpWWFjBlCto4OXhyHrqFDQ-gkZIVAiERKHGFr7HaYAfndnzBsktqo1_YjodFLy2RYcFsii62lQCODCusOmR_cqUgt3y7N0p9dCdUxFCBDiiGeIWRA0QvkrEXK1ibfVtbZDBZlegairJGK_3mVZmjgGbpYD6PfY1wimZj-_nZQeJouIEXE8q0OuuirRoP0w8cb8rvpmRXqWR7wQrZaQlaH6F7QDY7uxL6WG6q92PXnr4SgkL3jkkH6zu0ivhwYPxATq1KdXdEwG8bibd-mWs3d41kWIYH1Mc50cU5_fbmR0cW7KV6dISt7Giu_LLMLG1kZPH5rSAvX4RER3J4wya1qNcIySxP9d1ACAea5Huq2h-42fSKzjtNrk5KERm13F1YRRb77vnt8eik8a1NF45r714EowyGkCQugXrxiqwOFiNQ2VZbbDDqkEoW925xv_CxOTrxtC1i9nAem_Z4KuK0M5SWmQMHr6qeGSZzorlMNbrDWSTmidg80lLfXvbZ81sJvXALM6YULgT9HH-Typvl-m6eKppddIogthcZVg0FdGWRycJ8z28NTXqhIXzJTzU5BYaL8LRZ1RWz3QYJv6g70oDcZeDNQbgkabKZ16dd0A_GV6orvG-i9bR88Og6mYjeGjadGtSwR1puqZrr8ye1YwjOsU2SWJJJ4WWPTS22HRc2OwyycR0j8noUu0SPy_2xHARWi4xNtlwHojpJJhAcPNjB-c7rEVS5tioq1hLEXR8FgzNX0tkrUZ-Sw3A7rEzRvwVbVSCOytXeg9JUBavc8wf_CBYPpnT5gNY7f13tfZol9y5XKoF-7ncLvBXHweo92ii1UJnI2yAyA5FVZvQ3Xyj12Q",
+          "title": "Dot & Key Watermelon Cooling Sunscreen",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 520,
+           "rating_max": 5
+          },
+          "price": 263,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/_vtuEHicu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnpJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDiosSk0tic8J808x8s0tdswLSo4MrfROTo7PcjQLTTHLKYh0DfEtd64yc0sMqHROc8-tCgwL98suMPDzcfIwcM7RzQwLzTV1SgcAq9MvHA"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "ZBJ_aqb4JJKEhbIPq56TsAs",
+            "product_id": "17153270528600505563",
+            "catalog_id": "11781078346234467158",
+            "gpcid": "11401645672839538527",
+            "headline_offer_docid": "3413154398886043723",
+            "image_docid": "10354904227734764486",
+            "rds": "PC_11401645672839538527|PROD_PC_11401645672839538527",
+            "query": "dot+%26+key+watermelon+cooling+sunscreen+spf+50",
+            "mid": "576462562941115009",
+            "pvt": "hg",
+            "uule": "w+CAIQICILRGVsaGksSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "markdown": "\n\nA better option if your skin is **normal/dry** and you prefer a slightly dewier finish.\n\n**One important point:** if you're **medium-deep to deep Indian skin**, I'd lean toward a **chemical sunscreen or a properly tinted sunscreen**. Mineral sunscreens containing zinc oxide/titanium dioxide are much more likely to show a cast.\n\nIf you tell me your **skin type (oily/dry/combination)** and roughly your **skin tone (fair/medium/wheatish/deep)**, I can narrow it down to **one exact sunscreen** for you.",
+        "sources": null,
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

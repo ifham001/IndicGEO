@@ -1,0 +1,478 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 1,
+  "promptText": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+  "cellId": "F01_hg_chatgpt_r1",
+  "startedAt": "2026-08-14T12:41:24.423Z",
+  "finishedAt": "2026-08-14T12:41:42.359Z",
+  "durationMs": 17936,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Bilkul. **₹2,000 ke budget mein meri first choice Pepe Jeans aur Spykar** rahengi—sale mein inke achhe models mil rahe hain.\n\n### [Pepe Jeans Men's Holborne Mid Rise Straight Jeans]()\n*₹1,359.15*\n\n### [Pepe Jeans Men Slim Blue Jeans]()\n*₹1,495.15*\n\n### [Spykar Men's Regular Fit Mid Rise Jeans]()\n*₹2,475*\n\n### [Snitch Men's Black Straight Fit Jeans]()\n*₹1,799*\n\n### [H&M Denim Blue Relaxed Jeans]()\n*₹1,999*\n\n### [Jack & Jones Clark Low Rise Regular Fit Jeans]()\n*₹1,679*\n\n### Mere hisaab se ranking\n\n1. **🥇 Pepe Jeans — Best overall**  \n   ₹1,300–₹2,000 ke aas-paas sale mein mil rahe hain. Straight/slim fits aur denim quality generally achhi choice hai. Official site par abhi kuch models ₹1,499–₹1,999 range mein listed hain. [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)\n\n2. **🥈 Spykar — Best Indian denim brand**  \n   Regular/slim fits ke kaafi options ₹1,300–₹1,900 mein mil rahe hain. Daily wear ke liye **Rover Regular Fit** particularly achha option hai. [spykar.com](https://spykar.com/collections/men-jeans?utm_source=chatgpt.com)\n\n3. **🥉 Jack & Jones — Stylish option**  \n   Sale mein ₹1,500–₹2,000 ke andar mil jaye to definitely consider karo. Fit/styling thoda more fashionable hai.\n\n4. **H&M — Simple & modern**  \n   Agar **relaxed/straight fit** pasand hai, ₹1,999 ka option achha hai.\n\n5. **Snitch — Trendy look**  \n   ₹1,500–₹1,800 ke aas-paas stylish straight/black jeans mil sakti hain. Quality se zyada fashion priority ho to.\n\n### Agar sirf **ek** jeans leni ho:\n**Dark blue + straight/regular fit + mid-rise** lo. Ye T-shirt, shirt, polo aur sneakers—sabke saath easily chalegi.\n\n**Meri pick: Pepe Jeans ki dark-blue straight-fit ₹1,499 wali.** [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)\n\nAgar tum mujhe **apni age, height, weight aur waist size** bata do, main tumhare body type ke hisaab se **₹2,000 ke andar 5 exact jeans** choose karke de sakta hoon.",
+  "citations": [
+   {
+    "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+    "source_name": "Pepe Jeans",
+    "position": 1
+   },
+   {
+    "url": "https://spykar.com/collections/men-jeans?utm_source=chatgpt.com",
+    "source_name": "Spykar Lifestyles",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "17.6285 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141241-2163-0629-0000-41b92f635e00",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "17.4305 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=India%20mein%202000%20rupees%20ke%20andar%20men%20ke%20liye%20konse%20brand%20ki%20jeans%20kharidni%20chahiye%3F&hints=search",
+      "datetime": "2026-08-14 12:41:41 +00:00",
+      "markdown": "Bilkul. **₹2,000 ke budget mein meri first choice Pepe Jeans aur Spykar** rahengi—sale mein inke achhe models mil rahe hain.\n\n### [Pepe Jeans Men's Holborne Mid Rise Straight Jeans]()\n*₹1,359.15*\n\n### [Pepe Jeans Men Slim Blue Jeans]()\n*₹1,495.15*\n\n### [Spykar Men's Regular Fit Mid Rise Jeans]()\n*₹2,475*\n\n### [Snitch Men's Black Straight Fit Jeans]()\n*₹1,799*\n\n### [H&M Denim Blue Relaxed Jeans]()\n*₹1,999*\n\n### [Jack & Jones Clark Low Rise Regular Fit Jeans]()\n*₹1,679*\n\n### Mere hisaab se ranking\n\n1. **🥇 Pepe Jeans — Best overall**  \n   ₹1,300–₹2,000 ke aas-paas sale mein mil rahe hain. Straight/slim fits aur denim quality generally achhi choice hai. Official site par abhi kuch models ₹1,499–₹1,999 range mein listed hain. [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)\n\n2. **🥈 Spykar — Best Indian denim brand**  \n   Regular/slim fits ke kaafi options ₹1,300–₹1,900 mein mil rahe hain. Daily wear ke liye **Rover Regular Fit** particularly achha option hai. [spykar.com](https://spykar.com/collections/men-jeans?utm_source=chatgpt.com)\n\n3. **🥉 Jack & Jones — Stylish option**  \n   Sale mein ₹1,500–₹2,000 ke andar mil jaye to definitely consider karo. Fit/styling thoda more fashionable hai.\n\n4. **H&M — Simple & modern**  \n   Agar **relaxed/straight fit** pasand hai, ₹1,999 ka option achha hai.\n\n5. **Snitch — Trendy look**  \n   ₹1,500–₹1,800 ke aas-paas stylish straight/black jeans mil sakti hain. Quality se zyada fashion priority ho to.\n\n### Agar sirf **ek** jeans leni ho:\n**Dark blue + straight/regular fit + mid-rise** lo. Ye T-shirt, shirt, polo aur sneakers—sabke saath easily chalegi.\n\n**Meri pick: Pepe Jeans ki dark-blue straight-fit ₹1,499 wali.** [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)\n\nAgar tum mujhe **apni age, height, weight aur waist size** bata do, main tumhare body type ke hisaab se **₹2,000 ke andar 5 exact jeans** choose karke de sakta hoon.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://spykar.com/collections/men-jeans/rs-2000-rs-2999?utm_source=chatgpt.com",
+        "domain": "spykar.com",
+        "title": "Buy Jeans for Men Online at Spykar – tagged \"Rs. 2000 - Rs. 2999\"",
+        "description": "Flat 10% of on orders above 2499. Use Code SPYKAR10  Flat 15% off on orders above 3499. Use Code: SPYKAR15  Need Help?  customercare@spykar.com  Free shipping on orders above ₹999  MY BAG  Your bag is...",
+        "breadcrumb": "spykar.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://spykar.com/collections/men?utm_source=chatgpt.com",
+        "domain": "spykar.com",
+        "title": "Buy Casual Wear for Men Online at Best Prices from Spykar",
+        "description": "Flat 10% of on orders above 2499. Use Code SPYKAR10  Flat 15% off on orders above 3499. Use Code: SPYKAR15  New Arrivals  Men  Menu  * * *  Men   1808 Product s  * Save 65%  5.0  MEN JEANS REGULAR FIT...",
+        "breadcrumb": "spykar.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://spykar.com/collections/men-jeans/men?utm_source=chatgpt.com",
+        "domain": "spykar.com",
+        "title": "Buy Jeans for Men Online at Spykar – tagged \"Men\"",
+        "description": "Flat 10% of on orders above 2499. Use Code SPYKAR10  Flat 15% off on orders above 3499. Use Code: SPYKAR15  484 Product s  * Save 65%  5.0  MEN JEANS REGULAR FIT BLUE MID RISE  ₹ 1,923 ~~ ₹ 5,499 ~~...",
+        "breadcrumb": "spykar.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://spykar.com/collections/men-jeans-2?utm_source=chatgpt.com",
+        "domain": "spykar.com",
+        "title": "Buy Jeans for Men Online at Spykar",
+        "description": "Flat 10% of on orders above 2499. Use Code SPYKAR10  Flat 15% off on orders above 3499. Use Code: SPYKAR15   * Jeans  Men's - Shop by Fit  Loose Relaxed Comfort Regular Boot Cut Slim View All  Men's -...",
+        "breadcrumb": "spykar.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://spykar.com/collections/shop-all/men?utm_source=chatgpt.com",
+        "domain": "spykar.com",
+        "title": "Shop All Spykar Products Online | Made Proudly in India – tagged \"Men\"",
+        "description": "MEN NICO JEANS SKINNY FIT BLACK LOW RISE  ₹ 1,849 ~~ ₹ 3,699 ~~  50% Off  28 30 32 34 36 38 40 42  * Save 50%  5.0  MEN KANO JEANS SLIM FIT CHARCOAL BLACK MID RISE  ₹ 1,849 ~~ ₹ 3,699 ~~  50% Off  28...",
+        "breadcrumb": "spykar.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.pepejeans.in/s/MIRAI/men/jeans?utm_source=chatgpt.com",
+        "domain": "www.pepejeans.in",
+        "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+        "description": "JEANS FOR MEN  (1211 products)   4.3  Quick View  sale deal of day  Men Blue Mid Rise Straight Fit Jeans  ~~ Price reduced from ₹3,199 to ~~ ₹1,499  (53% off)  Best price : ₹1,449  Quick View  sale d...",
+        "breadcrumb": "pepejeans.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.pepejeans.in/new-arrivals/men/jeans?utm_source=chatgpt.com",
+        "domain": "www.pepejeans.in",
+        "title": "Trending Jeans for Mens – Shop Latest New Jeans Online at Pepe Jeans India",
+        "description": "TRENDING JEANS FOR MEN  (198 products)   4.2  Quick View  Men Black Mid Rise Straight Fit Jeans  ~~ Price reduced from ₹2,299 to ~~ ₹1,499  (35% off)  Best price : ₹1,449  4.0  Quick View  deal of da...",
+        "breadcrumb": "pepejeans.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com",
+        "domain": "magicpin.in",
+        "title": "Top 14 Jeans Brands for Men in India (July 2026): Levi's, Wrangler, Pepe & More | magicpin blog",
+        "description": "TOP 14 JEANS BRANDS FOR MEN IN INDIA (JULY 2026): LEVI'S, WRANGLER, PEPE & MORE  BY ANIKET  UPDATED - JULY 1, 2026 16 MIN READ  Browse more in Fashion  Greetings, fashion-forward men! A great pair of...",
+        "breadcrumb": "magicpin.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000?utm_source=chatgpt.com",
+        "domain": "magicpin.in",
+        "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men Under INR 2,000 | magicpin blog",
+        "description": "FASHION  UPGRADE YOUR STYLE: TOP 5 BRANDS OFFERING TRENDY DENIMS FOR MEN UNDER INR 2,000  BY ANIKET  UPDATED - APRIL 21, 2026 3 MIN READ   Are you a fashion-forward man on the hunt for trendy denims...",
+        "breadcrumb": "magicpin.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.flipkart.com/q/mens-bell-bottom-jeans?utm_source=chatgpt.com",
+        "domain": "www.flipkart.com",
+        "title": "Mens Bell Bottom Jeans - Buy Mens Bell Bottom Jeans online at Best Prices in India | Flipkart.com",
+        "description": "PODGE  Men Boot-Leg Mid Rise Dark Blue Jeans  Image  ₹527₹2,999 82% off  Every Choice  Men Boot-Leg Mid Rise Grey Jeans₹380₹1,999 80% off  Hot Deal  LEVI'S  Men Boot-Leg Mid Rise Blue Jeans  Image  ₹1...",
+        "breadcrumb": "flipkart.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+        "snippet": null,
+        "domain": "www.pepejeans.in",
+        "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Pepe Jeans",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Jeans for Men Online at Spykar",
+        "snippet": null,
+        "domain": "spykar.com",
+        "url": "https://spykar.com/collections/men-jeans?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Spykar Lifestyles",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best men's jeans under 2000 India Levi's Pepe Jeans Jack & Jones Spykar Roadster 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Bilkul. **₹2,000 ke budget mein meri first choice Pepe Jeans aur Spykar** rahengi—sale mein inke achhe models mil rahe hain.\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "7051352881652744258",
+          "merchants": "Pepe Jeans",
+          "id_to_token_map": "PPkxh3icdVO7rqNWFI3yBSmi1NOksizxfmR0CzAcDDbH5gAHTGMdAzZvMMYGW_mZ3HlIk3ISKV3-Y1LkW-IoKZMl7V2stfZDW9p_fvXNa5r_th-nPTnXaBk_rHGgtt3qSkZn_NT1bXKNhzz5hZU4inmGIFMcT0m8LPGfYjKQqj09VZHiaZZnJIkWeEbkOIaXPmcpSaq8STfHY9prbfy00QzPPSFygkgJf9tk-ue8Jqf0H_lJPSWeedKiRAkcI4rv-uTyhdsu9s_2NCdKgsSIkiw--wuc_OMWbbT9_4gfzte0v38x6rSZFSlpLrMqveXfM-Jl1qVd-i9XkLicfc8Is6Jt0svs0t1L0s_6liSXIe1n1yZ5ZoaiqA-n7rnir_816V2dJ595UeCE5wFkRqQFhuEk6V13G34i76_XKv19nC0U0zEX5tZlwP1QA2oXDNlar66RUWWvp-o1b16z6jVtPrakux3jP77-Vm9HbXEZF47fdVhDlMtE3gFAy8MgC0B1Q8FgwbraxWxlkwbhdYjPNjDpSLNCQuHJ022aBHQflRYIH-rNZfgRl9Q9DZIsqXTaoSwEK3xch9CARuZABq-QfqKdGuZ-mHlYs5r4kRFUVgwxgO9qycqmuzqprcFls96nzbvfVF1UDn2y7NygybgosLaJ0WWE2t0jgNaxzg1eiU3ngb24ihwvsB7Q6HQvoDXEdhDp0TJm5AA-AErrDHlMSz3r7rvAMlPs8FCPdgfKp-16OkPP55J694B1d3aBNCWFVSc62kDN4T1_fMTlQMVFOdo0tDZBPKwDAFKMmIjGOAq6yavU3PNREzXAT__e0Z82pFBDEgxrUmTLiILCIcQDLBGHKJ3d-CYNDcD4TeL5tAwOOPGwPuG1p-puaI0ehh0qcHvQBxNrcJmGVn4o8EQMvg9ZC0N_5wJaZlMgZ3FAu64BBbdJKBuoo8viLKEBa-SWipbwvgkiN2bB41D7NDbiAfn8PQhRmDBTuAtkLvHg2cWgeT9d-uMXSgH84G7E4-14Oq0uZzjeI8TwO7eN7ocLa3po_OH5QYJI04zMSzT_MW7bMk__-Pq7_d5N42ufzl0PbV8UWEcjofgoWjtS2KrmmYcOOY4bfX4o-eX8zk7ZxFI7_upXjxtCU7vJL5ShXcHtfNUdT-PHuThgwS7q8NQO2rwUdZOlH_16FRHDxx4Bj7dvXF1Bi-XeVWzdNT39ZXFyzEnQ1bdvFH3xoiQW1smgLLy5JR-vJEvvgduPBXS56z3coqno9JbNU1j2jDNQdlmwiqbZc9Z5-0bDL85UWCf3HDhDeXFMEhB36W4HpdhZra6AXtvaLHIBoSbHVp54-waa2gvPci9OeaZUHLWQ9Tk3oFlwq9YTv2jTtdxul7mdQE51971qL7GhWmfetzJgUcf1YshGVUOB7yxufHTehoK0yZy5Z4tW3fm74X5yH4tizTrH5W5RtFEWBlOxuxKnAWfVxVPOx3o1-lMXGbIoRCfWVPbH3rfyVRIw7fWqCYJzu9iFojUdZwiJJe7AmpqONQGsmyDMOjDQF6vECoCMQd-ZsZIui8NqzaitMFeoiOF9VJT6aKp6vTsSNgHmsehK2jTgIK1kJ1fOEaveGEf11Tsniqq0-QsZFfzv",
+          "title": "Pepe Jeans Men's Holborne Mid Rise Straight Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 160,
+           "rating_max": 5
+          },
+          "price": 1359.15,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/xhEryHicDcnbEoFAGADgJ-qw0ZAZY0JDBzFZkpumdlNrOvy1G_JUXsfb8N1-308hBPCZomQ16QYQGZVEWiM55yIRjMikqRReNACszhft_H8z06fGhmCWSmi3t9_j2_EMB919RTyI9VZ7DEPTOVbRxx5QbKEIJ3ZwdSe3tXdyM29lqM4u4yxoyn54Yx9NxxKUvbVsJbibl2i1GYUxRcC2pdo9e-YzUmlgWp4TGsYyzH-o3j5-"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "_wx_aqmRHczJwt0PpKuawQw",
+            "product_id": "3840284069045085985",
+            "catalog_id": "7051352881652744258",
+            "gpcid": "13514786827897258649",
+            "headline_offer_docid": "1254444746706744291",
+            "image_docid": "6747465229178064277",
+            "rds": "PC_13514786827897258649|PROD_PC_13514786827897258649",
+            "query": "men+jeans+levi%27s+pepe+jeans+jack+%26+jones+spykar+roadster+under+2000",
+            "mid": "576462889271622488",
+            "pvt": "a",
+            "uule": "w+CAIQICIPS2FybmF0YWthLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "6142449069335256824",
+          "merchants": "Pepe Jeans + others",
+          "id_to_token_map": "GRu0KXicbZQ7r6NWEMeTfIJUqW-zlWXpwOFhcnULnsYYsHkdDI117IPN02AMBlv5MMndh7QpN5HS5XvsFvkcKWOt0iVTTDEP_f4z0sxf33z_mmR_bIdxi8-Vq-_vxtCBdbPs8eAMH5u2Jv2-y8gnmmMZnucEiuYADyDPwY973OGyPmbkN45iaIYRACdAyNIsN6OZT2mCSZmdktXhkLRKvX-UMQLFCsyjl-ZpZsZDOAO_ZhU-Jl_Tv1MUJcxmDE_T3AywPEU9SG9bcvlMr-XtA8DSPOBZwAHugaB59qe1u1K2_597f-6T9vZ5XiWnSZ7g02VSJtfsDc1fJk3SJP_GcrwvJm9obpLXp-QyuTS3AreTtsbk0iXtpD-Rh6cBAO-PzdcB_gt6W2Xk57fNtfsFv-v7MvlzmMjiwlnIi7VHa7ddpYEo7FJTLft4Xqavx_I1O72m5Wty-lDj5nrYf_n2b_W6l-V2LztB0yDFBV5B6aSwxlghaqIbhyBgL75erjHdrYhSuqavghikyKmsG5k3uR26lEWllq3Y-gaUN1uNW6Lb6ygnagRK1dP30PcoaYeIEc6FNapSg1CaugdU5pfC0smR4lfC3ENI9UFD-0FB7SohNxFi_MA4edCeY1UodgoxsSbpSG8wCZDn5uSWFA2M8oKNlVh9qBh2OTJsyuASzWAi3x4TvXRd2HRO2GmBLkWbu9T6ip37RQkd2qiJ7pp2hUozsG3n7ga7qoxQYAEMypIEVBlr2jwKajrRUojCMvaAOgaBoTooNc2A8ryNa5rIcK0gph_lm5ViOFhD2uaubWyNXFbzzl4FAtpppUI2ZBkVs3FfdG0cjEtSpisM7cGp0sJHDRPlkhHftRKfUhpV8S1AkhTK1MkvEXRz0dMoASaakO7DB3duc96JAEuTBg-i9LFPOM8MydXt2yqM_V3x0B6W551H0WhDZJRbNKbTNtFFZheqY1iN7rvx0h4-A1FjO2_FUf3tFLjWMtxywywokWywizAtYUUPP1L8jHtcBC2wM475sK_rIku-fPfDdusl-75Npp7vrl9Eu4oHDNg4Np3ZppYWZ9Z28GFYqdNdwerTGxzTEYKI7YPyfnXdsV5lFzBXeu167lXHV9hhyneIs_Jqc6w7ZVrw6gJS99ZcxngeIB9r9-cnTxVdWd96oqV6C199kY_OYuRU6flJVOUXkRhIxZ0o-1NDOPQ4TW6h1w657TH9bbN2x7xRa5gldtHSTgesIoeiolhT6Dw_KejFGXPj6J1DpysuzgKH2NO9dSfmkVGrotYqawu6nobB6Fjiw56f7IXywkLmxSnOQEJxbcOA8UIKatfSHFm5TkyhXuuZRWxG8ratZOloLhlnNjBSzQAHU-7SQVLcMHDkKxuf1xtutkqdqW_xRtUEUXc7enc5N6Fz0CM5r-N0E4551GPnpJ0lD40Zu1fLIRibeC7wXHyEC3F7aAMjW5KQrvte4TjnerFyUTk1zJwjBh9pJhgPFdagR1wEHTtU5eXjLjUBaW2z2IuJnu-WJi3V3FQEMc0Gbl6ow0JSq-iAIdEWh7wpqMXc7mZLwcnEcwylK-1IgXR7vGhptvoH6CHsEw",
+          "title": "Pepe Jeans Men Slim Blue Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 161,
+           "rating_max": 5
+          },
+          "price": 1495.15,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/tRsPCnicDclhDsEwGADQEzGGbCQilaBmUWrY_Fm6tqpBt27fJnMq13Eb3t_3_dwAimriONLwsi1Aig5kZtBVFTDQvMvzp1Pd8qLQRs3s9H8TtBXjFd8Hmf9K3DJIdWcELKnRoTYqTuOHpokf0QveLVSmhuh8eseYmKgOOUbzXnhvPUF16XHXtwwS6Z2uLQnHS8yYXQqZRqIPktBmv77Pn5hQ99jYiuw2lyYPLEE_vSs_QQ"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "_wx_aqmRHczJwt0PpKuawQw",
+            "product_id": "265477691260703763",
+            "catalog_id": "6142449069335256824",
+            "gpcid": "4245270750606256275",
+            "headline_offer_docid": "4915943762724873380",
+            "image_docid": "11198847226805711607",
+            "rds": "PC_4245270750606256275|PROD_PC_4245270750606256275",
+            "query": "men+jeans+levi%27s+pepe+jeans+jack+%26+jones+spykar+roadster+under+2000",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIPS2FybmF0YWthLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "2902505467202164188",
+          "merchants": "Spykar",
+          "id_to_token_map": "7KXgt3icbVO5ruNGFh30F0wwcNyJI0FAcSen8QJuJZESKZHFtRKhRFLiKlIUKVLC_My8tg14Qo8BZ_6PduBvsRpwZp_gBudc4G7n_v6Pf75nxS-HaT6Qa-Ouk6c5DWDfbUYyOdOPXd-mYzIU6f9FHjAczXMsz4mMwANJ4n5MyEDq9vxSaQnQHHiJAg1oimcpUfwpz0haF5dsdzplvdYmRfozxTEMy4qCyPM0y_ACI_LS_4qGnLM_dVaSpFcKJbAi_YJE8dLnPr19AXv1wHEMAAwtiKzAsixHCeJ_9u5OO_yt9P11zPrHl1WTXRZlRi63RZ3di29p4bbosi77kytJUi2-pflF2V6y2-LWPSrSL_qWpLch6xfjJX1FGgDw_bl79ffTX-t8br7SAs_ytCiKLOABLQoc97m7D_8l341jnf06LVTZcAzV2CMaPo4NBHE45Fu9HvGqzt_P9Xtxec_r9-zyQ0u6-yn57cO_9HbS1NukOn7XBZoLvBUssZbbNo19rwxCt8FFHEjKsalNEuTdsQxMO3L141MBx5DaWZFbEZ-id-uaHOszm4XDxm7iGdHYdaM8wHquIh0Mx3VHPMa13Wf1iJ-Bg6P84dMcISG8IKiQbeCGftP1uEoDFIqPXZCwqe8PoZ_uwhCari_hiG6ZtMwNDCH2Ckr3_KBC0G2TcL4nHtbtS7CJnzDHa-dpRcHWLfMyouGALpCEfmeHYcc7dcUdG2lLwAzjMh8xBVd2Y6ruqh7ipi4dGuoulGnUBNhfpZYV4fUxhDTS57tfBShZuzZ51vvUCywS4VsEEmCt7DmgcZz5Q4wLagojF9ir2cJQBlilIo9JB6uKH0kTAMTU2i6yXtdxHctz707lDKi5zU51A0FkQ-RTuwx25ms3QaID1opsYl3SwqWS2aq4wYPWkDZSTvR8Qo1deOsEQUpiMijlSUghtLJ5dEmBBZUJMUGeUpBZFabiru3HLsQoLNPZXVt0CjAbeK5tfZ2TdljEYN-pht71auW7-dafvgAZcgPacenaSptxc_Tx0jCG4IqscT4aXnapzv9--ZIXKIqWOBFwPyRtWxXZbx--ORxQlox9tkSeu3-T7QZPBHAYbx0xahXjytkOOU07fXmsuPXywcz5zICYG_36eXfdud0VN7DSRni_jrrjady0FIaAt8omOreDtqwE3WCoZ7_dYLLyA4_A56ePSJdddX1AsqUjw9Pf1LNjzLyufPoo6-qbnJqBTgZZ9ZamdBpJnj1C1E-ljdjxEe3duez0likyu-ppZwBWVTKypllLxvn0UQvenLk0z-gaOkN1cwwSErRG-0EuY7PVZdhre4txEXx5yrHkFz59tA3tjWPYN6e6AiXArc34LAopBt7r7cypbbaV2v26sFKbVdChV6x1sFLMK-ebOTTBaasO-aRor5dw1DuHr_uIF3e5s_QswWw6Px4eZ_RUyy3jnNaxWrY4j8K5jEfiXOBVQcFccIleT_7c4ZUk8PjMGPLh1PtmsUlDuh1Hjeed-80qZe3SsSs-NYUYbsF8aghkUOoGjGOHurpJzRBKAew7I5GzdXncbGml5ZcvW9Oc75aVPhmK3sQnwqTQOJVdRRkrexA3klPIV8wod9pRfOXBCoIi7v4AKcr8Lg",
+          "title": "Spykar Men's Regular Fit Mid Rise Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 1,
+           "votes_count": 1,
+           "rating_max": 5
+          },
+          "price": 2475,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/oxusZHicDcnbCoIwAADQL_IaXhIiNgyTSLxEii-iU-a05m2o21f1O_1Nndfz_bSMjYujKA1FMx9ZU0usopqMF1YygmQ0vJWlHcaRUHyeTv9zQFAfPfR41tsmKmJAWKyiUYtreni1aZLoXteIvCtCTu0hkAjCW8R1E5My0kUB7iLKvMyKCbA5gPshr-Z89uOYRh31dzuQOIeW22sXYrjmyjYYBtPax7W6mDq5YfAD-Ys_Wg"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "_wx_aqmRHczJwt0PpKuawQw",
+            "product_id": "8603526546583760995",
+            "catalog_id": "2902505467202164188",
+            "gpcid": "553003278474445178",
+            "headline_offer_docid": "15334487866243673869",
+            "image_docid": "14999334174822229169",
+            "rds": "PC_553003278474445178|PROD_PC_553003278474445178",
+            "query": "men+jeans+levi%27s+pepe+jeans+jack+%26+jones+spykar+roadster+under+2000",
+            "mid": "576462888406028755",
+            "pvt": "a",
+            "uule": "w+CAIQICIPS2FybmF0YWthLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "8422643765125552850",
+          "merchants": "snitch.com + others",
+          "id_to_token_map": "zKpe9XicHZNJjttWEIaTnCAXCNBA4FVDAPkexzR6wVEiW6I4k-KG4PBEUhzFQRR1mqTbNuAsHQPZ5R72ImeJnFr-Vfjqx4-qf3_4-RUVf4fzNYyGydEG6zzHpU4jn1uM-VPXt-mUjEX6BadZGkCWwCmGIglAQYaiPyXRGFVtVqR_MQQAFAFpisQBSZKAIbHPOYrSqmjQ_nhEvdgm9zGWhTTLAOY7i8ZJEjLMn0UdZej_9hccY1gKAxhLEywNKRYyLPvWp8PvH84T6pevv9aoeTyhqBkepyZF_eM7CbxjwDueBRiGPRZNWkQfsu6O-kyydy8MjbEQx4i7Y4x8q7_LNEVQ9_0khROAgCyk3rrL-Ef0fpoq9M_8KHCKoQiKbgF5iWsZO3hjvpWqKVhX-WtWvRbNa169ouZjG3WXY_LtxzepTwThkvCG03WuaGIWYCtUs5hbm4ThjDo6uQHyNfXgsEMkqkCDqWW4_FFzrrots6Tpdf7e53NLdgXkXRVzTRCOh_NIkm0LT647MPrI1uTkxuMRnvLOTRs1kT9EEu55JxfGssrHtqvEEotra3bwYWV4It-mdXBwbF6zbLPd4enOKA3S21QbS-R513bd3drNk8bFUpDvUcV27oLzphRQiWQGsa_N9oJfYschvTr3fCgTyMsDozJLR9Qac3NYzKo7eZWEOesWmk5u70rNNWXtJfFl33bw3q4ry_LzwoTBOQLycAA5iG_mKdnkauy4c1DjnlFi0PRGLcLM4dB0XbyuiMNV8X2YEj6Qb6nr7hNcu6ZA7R0xrTxJJh0_iZRSlhKokEFlAG-TBomt9mhjEJFo1ltPHXan4GThqqdhrhxJ0vvr0B-_YpxMjtae8myjkWIQwu6cZOdL1RrswR0CoAXGbzh9P2scBywFCPpj0rZlgb799EsYWiiZerS6h6k_c1odzBHoMck6HamSzzuYC_NmPzbqiVdCztEd-7BSnFHLyKm4dsQgjs0B7Z1i3gZu52rD2ZTGvQYXhujyPJNbBG-YWa4UzDl0DTNJrfH0YEmcKWxCi9tJlmJLz0JmKFdK4p8eOEl45lLVlaLRAcjfZeC88CadnnLRVV-s3a2bo86bvHqcjq7iLFWzZjc9ceIEbztlTw-i-4wt640ZSmG2ZfqMa1OMDzfdTi3FYJY4tS_PmnesLxm5zAN3r6cHTRGfSQif90kG9tXu-NLnJ6W0sf02ysMi5jriclhfX2YG7oTc3uvkXJ1fmO68mU14O2VgCblUF6NZt_Ys_7LSMY1ZbmOIKqE4oramY_2yupQBA6M6remFv7rV4ejNGLJvxyRv5hX04zmiYXRd6JFTt7G5n6mXLpnWpikePbXcwG3qTprP0-eiFVpd3ob16jKPtBCq0O3X2WAza1I0QleKu_z-EZPfE2lPv9DJ3NJb-ooLK264JpCX1B431e2J55StvL5Ddm1p7VKr4qWpQ6W-2mC6o2IuwGJOh_zwH2wMwTA",
+          "title": "Snitch Men's Black Straight Fit Jeans",
+          "rating": null,
+          "price": 1799,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/WiWXenicDcnbDsEwGADgJ6qZ1ZhEZFmYUzBF2U3Dv65z2KFrR_SpvI634bv9vp9M60oNLIsXUL8rzROkL4XTEkqf9RVaUOaWysqquhZiJIf_G_irxAshOhqjaTqd30gaNAsf9J4-mcqxl8TAWflUmDsvnBtnEr9tJPx2n-13B7Q0ksNRzJpTV47JBse93RyiB_UYJbgWnUYGSHrNyw3JA2zWQ8Z18vVteSfR1qXY_wHmVD5q"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "_wx_asuUNsSqwbkP7eXAyQw",
+            "product_id": "17972394168654263867",
+            "catalog_id": "8422643765125552850",
+            "gpcid": "597658709310465405",
+            "headline_offer_docid": "9937982897237155388",
+            "image_docid": "10896020974973693899",
+            "rds": null,
+            "query": "men+jeans+under+%E2%82%B92000+india",
+            "mid": "576462895614243936",
+            "pvt": "a",
+            "uule": "w+CAIQICIPS2FybmF0YWthLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "12042060520982175963",
+          "merchants": "H&M",
+          "id_to_token_map": "YoBHAHicdZPNzqtUFIaNV-DAqclJzBl9abI3m19PvgFQoKWUfzYtE0KB8l8ohQKNN-N31ESHauLM-zgOvBarjl3Td-V517uy1l-fffGWFr-H0xxGt9HTb851OlUmkx74xZp-6vo2GeOhSH5hIAI0AQENWQhZQHPET3E0RHWbFclvkAAkAWhAEYBjCchQHI1-ydMoqYtLapzPab9u4yL5lQCQoDhAcYiGDMlQCFA_F02Upf_JJMOQNIcgTdMMQTM0B6mPfXL7RJpiCBH7hJMczVEMxzAczXLEt6ZtrMP_EX-4jmm_fPq6SS8vZRpdbi_jJUn7l_cS8Z4l3gscAQB4KS5JEf2Qdf_aI0iST2tEkf-gGATQx-YZnWJokiZYxJEsTUGaosDH7j58F30_jnX6x_Qi8ltrK25Nh5CXUyODoz_kmlSPgVLnb1n9Vlze8votvfzYRt39HP_5-ZdSO63F2yRaXtfhtQ0c3JGu1EKvgabhbkkHJJ3dbKHjWYMjcZ6PO99WONHyA8d7qJKP893hoerWI-kOD1zGJaZ8f9aPjbzGJY6OZd5hyfZtr-s1b5j9AizBI4jcWhWsRwxTiVOCQ6dZPnVwaqF1DsHD8TrpCKgtrjMYlxIZrWvTgfWcXPRnovyhe_luLyWCBWzVlWVLry3SOxwnXa5tXeGaRKoHG-aKrsDJ2KiOKz_7HVjouLZjoh6jKgBHKCt7xdbjjbBNNmp5dC10WtvzHgkgqigQYTVwvUTzmtuylxPRA7Ue4Gw5gfnmKnavHapFl2Va83PB8TjXkIVzUMEyxTbSKzxYKN9gAnpWYzuBogv2RS3TOn7OKBzsSl7rfgICmMiaP0tJnYwWwZ0NLM1HvCcx0hdjIwenWiJOEvZdV6biBRL7WrjHqA4SLxj0TW4HEidZwHNkyKFU5vIYYexedDc-PC8J8ijAuZBiGSmFKtibJ9MPbIsI1OAgX45Iv-4brtaxStugok6VReglfsQEJXw_3_rzJ8DL1OAYNAXikBpWbTQTfbYZHgx9Te_87XEvs28gw9IMhARHEyT6MW7bqkj__PyrMHTSeOzTlePa5iuvN8EUET2QnPJMV0LeoVycNsbwXImwDXnP9NzjausNekaNxdyRt_VwOaaGV0xagDus3662NBg6Wliyy_NMblP0AHa12gLv2F3YUWqtD-8cibfFTejwe8nZutKrmFnbmZaED-94SXzlExVL0eAR6WGfEddFsJmkzNdY3Tn7RzdFnT_6zTCe8dZb6ovCbXqy5EVfG7MP79b4FSzKxg6lMNPYPuPbBAjhptur1TqYJF7tq6vun5t7Ri3TjX_Wh3f6dv1KIfRqxBlh1Pvzrs_LbeUCQ4vysDjxHXk_KvNuYtFezF3DpKb6umO762ay0aPMiCXkE3MdTaZjcMJuZQKdXR5DmNZicU7bhjmZ99W9ClgUNUnDLMKM6-PZn0DqPs5xfplW6HCaIgZF88IMvKqdbGOid108Kra9PvtqtUFagkf9IDDXohVbU9bCZnWfBkYMVYR7Jbu5rEKtrRBLpy5v93A89GTSMzsmnlpGY2YorvjbHCNBUntoq1op8FtNVp6QfVs5--T5zNLYpZW52gDTUwEmwIk3kXD7G-rb8p4",
+          "title": "H&M Denim Blue Relaxed Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 152,
+           "rating_max": 5
+          },
+          "price": 1999,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/odtSUXicDcltEkJAAADQE6FlU8w0jZrQ2ISK6k_D2lqG9bUqTtV1uk29v-_7oZzXnS5JhOF2qDlJBZ4wRXx0POYZFnFVSh2t6jpjj2Wz-J9uuKlm4QA1QFPhrh9DqvpynqvCDLpm362eZpHerfcpkY3Qs8vW3droaJjgogRUhs5tvm2jQEM2gqlJlSGx17hcM3TzGYkMkp2TiRe_D4V6JZsAVIBP9-4IYgdWVrPSXj8Vtzy3"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "_wx_asuUNsSqwbkP7eXAyQw",
+            "product_id": "713062106181180692",
+            "catalog_id": "12042060520982175963",
+            "gpcid": "4314466735449697303",
+            "headline_offer_docid": "2012590593617475305",
+            "image_docid": "4774693166672676915",
+            "rds": "PC_13820949695797796892|PROD_PC_13820949695797796892",
+            "query": "men+jeans+under+%E2%82%B92000+india",
+            "mid": "576462839486516550",
+            "pvt": "a",
+            "uule": "w+CAIQICIPS2FybmF0YWthLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "659853258132509026",
+          "merchants": "Jack & Jones",
+          "id_to_token_map": "wJBrmXicbZK7rqNWFIaTPEGq1KeZyrK0AQN2jk7B3WCDvdmwwTTWNmBzM2AMBqM8zOTMRZqUkyJd3mNGUZ4lTpRyVvEV69daWr_-9fd3P77G6R_7ftiTy9lehqPRt2BbrzrSw_5T3VRRF7Zp9JljF3OWodk59QBYAJr7FJKWFNUpjd5-TmISFWkZb47HuJGr8JsDv6Vncor_U3-nOZqe83OGAyzHUTw359l3TXT9Qm-lPQ0Wi_mCYuYcRQEeUOyM_2Vrb-T9t7UPly5u7l-0c1xOspiU10kR39I3NH-d1HEd_9_LSJhP3tDcJKvK-Dq51vecNJOmItG1jZtJV0YP0gCAD6f6ceDbd-d_Ud_aX8n7riviP_uJJOhQl_QtotX74ayCndcma6XoAq1IXk_Fa1q-JsVrXH6sSH07hl-__0vpdEm66BJ06xrLNkBOsMJafo8d1bKyHW3KUeBJgDpk6s5UksFx7dTK2dTNRMbNjdzKgiU6B1fHZcWdG7QuXfjYrzVTw72DVZnQwUgcdfRpag1xbSAtBITR2RC0pjnag1die-Pkw6EUQcCoLc4NRKgao7zv1x7WNx7mrLGwIMb3Q2HOoI93LraWG621fMZabbxBRsVihRh83uXRYCnz1vTrOxkfu1SbxXk7-BQErpsYSBVdH9goVhO0Oy86IlEZ9gsXO-oKO8HM9rAdjLi2_ER3H59GskiL5Uj2MlveKBhEmb0yHQOEZb1EbkAOYzESbzi6fmEd5GQkLrUjsgBcHKRRmdzMZREEOGwDLeng2TZJXkPTG4KNwmaubzBrjAdYFh0ewxliQqRSCyZWF0noUQhpFofKCJiq2D-8JRGlMlpqiPbSum-8wLZSaogY8frwNdplkke-WhFKdAJfhBvXsF1GZd4P1-b4BQgq26INq2jD2EyN9i6p15t05fDZtPaRnwN4-pni5xxPUfSCnYP5x7Cq8jT--sNP-z2Kw66Jp8ixty-CdQ56AtggWMO5X4n6hbUgOfYbZXrI2eX0zgzJwIAd27nFeLPtodqkV6DJnXq7dAp0ZLaf8i3mzOzsn6pWnua8ojPU2KxXAdEeKRB1fH5CimBLyz0STAXpjvIinaA-cIr4_CQo0osQGVghrSA5U2Nx7EgS3z3U9JmFZt3d39pDVisVk8ZW3tCwBWaeMYIsm1MGPj_J-AUOmXFCFw-2-RXqxCNoibatkO2MShHURt6ajI1UAgZoCo96frJ0-YVlZi8wvwARB5XFuDPkUYx6K9YDK1XxelFtl6kZWTMR7RvRXGJNNC6saySqAY5rqU16UbY9F0o3NrhsfW6-SeDUMXnjXLu79n5Co5StGXhc7qSsChLfG7JdR2CpXkSEh5QNlaJ3hzrQFjwXnBhd2B8b10hXkUdXXSdzHLxdzUyQy3qmcZHB79Q1GI5nojIosjEDLU-RVpHhqQusNrUeCvEyO6zWtFhxUwEENOvaWa70uqicd0fCRKp-zOqc0jWrna8WMBUuASPeaCi64n3G8-J88w8I-t2y",
+          "title": "Jack & Jones Clark Low Rise Regular Fit Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 3,
+           "rating_max": 5
+          },
+          "price": 1679,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/Vy5qJ3icDclbCoJAFADQFfnIRFSIGMOsTMMKFX9CR_OVzjhz8dGi2k-7qfN7vp8KgHJTkooes4VCkQuQ9Wux5JBCjUVMOolXhNK6L7fD5n8m8nPDwXd-iDroRhaGV015o7DL3hBMTaLlJKKLXjul9XhZ-ypGkF7ZLnZPynGIUj8VxkQDmw2szdWWzNhZvPaGbH0qZRzUNzLITxfRpICz6iX25KwaY74oeO0vBv8Bsew_cg"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "_wx_aqmRHczJwt0PpKuawQw",
+            "product_id": "659853258132509026",
+            "catalog_id": null,
+            "gpcid": null,
+            "headline_offer_docid": "659853258132509026",
+            "image_docid": "2622878360566176875",
+            "rds": "PC_2099891386110701547|PROD_PC_2099891386110701547",
+            "query": "men+jeans+levi%27s+pepe+jeans+jack+%26+jones+spykar+roadster+under+2000",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIPS2FybmF0YWthLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n### Mere hisaab se ranking\n\n1. **🥇 Pepe Jeans — Best overall**  \n   ₹1,300–₹2,000 ke aas-paas sale mein mil rahe hain. Straight/slim fits aur denim quality generally achhi choice hai. Official site par abhi kuch models ₹1,499–₹1,999 range mein listed hain. [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)\n\n2. **🥈 Spykar — Best Indian denim brand**  \n   Regular/slim fits ke kaafi options ₹1,300–₹1,900 mein mil rahe hain. Daily wear ke liye **Rover Regular Fit** particularly achha option hai. [spykar.com](https://spykar.com/collections/men-jeans?utm_source=chatgpt.com)\n\n3. **🥉 Jack & Jones — Stylish option**  \n   Sale mein ₹1,500–₹2,000 ke andar mil jaye to definitely consider karo. Fit/styling thoda more fashionable hai.\n\n4. **H&M — Simple & modern**  \n   Agar **relaxed/straight fit** pasand hai, ₹1,999 ka option achha hai.\n\n5. **Snitch — Trendy look**  \n   ₹1,500–₹1,800 ke aas-paas stylish straight/black jeans mil sakti hain. Quality se zyada fashion priority ho to.\n\n### Agar sirf **ek** jeans leni ho:\n**Dark blue + straight/regular fit + mid-rise** lo. Ye T-shirt, shirt, polo aur sneakers—sabke saath easily chalegi.\n\n**Meri pick: Pepe Jeans ki dark-blue straight-fit ₹1,499 wali.** [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)\n\nAgar tum mujhe **apni age, height, weight aur waist size** bata do, main tumhare body type ke hisaab se **₹2,000 ke andar 5 exact jeans** choose karke de sakta hoon.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+          "snippet": null,
+          "domain": "www.pepejeans.in",
+          "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Pepe Jeans",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Jeans for Men Online at Spykar",
+          "snippet": null,
+          "domain": "spykar.com",
+          "url": "https://spykar.com/collections/men-jeans?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Spykar Lifestyles",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

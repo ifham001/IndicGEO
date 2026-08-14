@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 2,
+  "promptText": "Which sarees should I buy online in India for a wedding on a budget?",
+  "cellId": "F05_en_gemini_r2",
+  "startedAt": "2026-08-14T12:39:56.479Z",
+  "finishedAt": "2026-08-14T12:40:18.052Z",
+  "durationMs": 21573,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "To give you the best recommendations for buying a budget-friendly wedding saree online in India, could you share a bit more context?\n\n1.  **What is your budget range** (e.g., under ₹2,000, ₹2,000 to ₹5,000, or up to ₹10,000)?\n2.  **What is your role** at the wedding (e.g., bride, close family member, or wedding guest)?\n3.  **Which events** are you shopping for (e.g., Sangeet, Cocktail, Haldi, or the main Wedding ceremony)?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "21.3000 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141239-2163-0629-0000-88c2965283dd",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "21.2835 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:40:17 +00:00",
+      "markdown": "To give you the best recommendations for buying a budget-friendly wedding saree online in India, could you share a bit more context?\n\n1.  **What is your budget range** (e.g., under ₹2,000, ₹2,000 to ₹5,000, or up to ₹10,000)?\n2.  **What is your role** at the wedding (e.g., bride, close family member, or wedding guest)?\n3.  **Which events** are you shopping for (e.g., Sangeet, Cocktail, Haldi, or the main Wedding ceremony)?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 2,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "To give you the best recommendations for buying a budget-friendly wedding saree online in India, could you share a bit more context?",
+        "original_text": "To give you the best recommendations for buying a budget-friendly wedding saree online in India, could you share a bit more context?",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "1.  **What is your budget range** (e.g., under ₹2,000, ₹2,000 to ₹5,000, or up to ₹10,000)?\n2.  **What is your role** at the wedding (e.g., bride, close family member, or wedding guest)?\n3.  **Which events** are you shopping for (e.g., Sangeet, Cocktail, Haldi, or the main Wedding ceremony)?",
+        "original_text": "What is your budget range (e.g., under ₹2,000, ₹2,000 to ₹5,000, or up to ₹10,000)?\nWhat is your role at the wedding (e.g., bride, close family member, or wedding guest)?\nWhich events are you shopping for (e.g., Sangeet, Cocktail, Haldi, or the main Wedding ceremony)?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

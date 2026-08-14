@@ -1,0 +1,184 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S04",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 6,
+  "promptText": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+  "cellId": "S04_hg_gemini_r6",
+  "startedAt": "2026-08-14T13:03:34.634Z",
+  "finishedAt": "2026-08-14T13:03:44.903Z",
+  "durationMs": 10269,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Indian winters mein dry skin ke liye kuch acche aur deeply hydrating moisturizers available hain jo skin barrier ko repair karte hain aur moisture ko lock karte hain. Yahan kuch top recommendations hain jo alag-alag budget mein aate hain:\n\n### 1. Cetaphil DAM Daily Advance Ultra Hydrating Lotion\n\n* **Best for:** Extremely dry and sensitive skin.\n* **Kyu kharidein:** Yeh rich formula hai jo Shea Butter ke sath aata hai. Yeh skin ko 24 hours tak hydrated rakhta hai aur non-greasy hai.\n\n### 2. Emolene Cream\n\n* **Best for:** Lightweight yet intense hydration.\n* **Kyu kharidein:** Yeh ek propylene glycol aur urea-based cream hai jo skin mein moisture ko attract karti hai. Winters mein yeh kafi popular choice hai dry skin walon ke liye.\n\n### 3. Bioderma Atoderm Creme Ultra\n\n* **Best for:** Long-lasting nourishment and repairing the skin barrier.\n* **Kyu kharidein:** Agar aapki skin winter mein bahut zyada flaking ya tightness feel karti hai, toh yeh cream skin ko deep comfort deti hai.\n\n### 4. Nivea Soft Light Moisturizer (or Nivea Creme for very dry skin)\n\n* **Best for:** Budget-friendly daily use.\n* **Kyuqh kharidein:** Nivea Soft lightweight hai aur face/body dono ke liye achhi hai. Agar skin bahut zyada dry hai, toh classic blue tin wali **Nivea Creme** (Jojoba oil aur Vitamin E ke sath) winter ke liye best hai.\n\n### 5. Plum Hello Aloe Just Gel / Aqualogica Illuminate+ / Dot & Key Barrier Repair Cream\n\n* **Best for:** Ceramides and soothing care.\n* **Kyu kharidein:** Dot & Key ki barrier repair creams mein ceramides hote hain jo winter ki dry hawa se damaged skin ko heal karne mein madad karte hain.\n\n---\n\n### Kuch Zaroori Tips Winter Skincare ke Liye:\n\n* **Damp Skin par lagayein:** Moisturizer hamesha nahane ke turant baad ya face wash karne ke baad halki geeli (damp) skin par lagayein, taaki moisture lock ho jaye.\n* **Layering karein:** Agar skin zyada dry hai, toh pehle koi hydrating serum ya toner lagakar upar se heavy cream use karein.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "10.0472 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141303-2163-0629-0000-da5e95897a56",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "10.0344 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:03:44 +00:00",
+      "markdown": "Indian winters mein dry skin ke liye kuch acche aur deeply hydrating moisturizers available hain jo skin barrier ko repair karte hain aur moisture ko lock karte hain. Yahan kuch top recommendations hain jo alag-alag budget mein aate hain:\n\n### 1. Cetaphil DAM Daily Advance Ultra Hydrating Lotion\n\n* **Best for:** Extremely dry and sensitive skin.\n* **Kyu kharidein:** Yeh rich formula hai jo Shea Butter ke sath aata hai. Yeh skin ko 24 hours tak hydrated rakhta hai aur non-greasy hai.\n\n### 2. Emolene Cream\n\n* **Best for:** Lightweight yet intense hydration.\n* **Kyu kharidein:** Yeh ek propylene glycol aur urea-based cream hai jo skin mein moisture ko attract karti hai. Winters mein yeh kafi popular choice hai dry skin walon ke liye.\n\n### 3. Bioderma Atoderm Creme Ultra\n\n* **Best for:** Long-lasting nourishment and repairing the skin barrier.\n* **Kyu kharidein:** Agar aapki skin winter mein bahut zyada flaking ya tightness feel karti hai, toh yeh cream skin ko deep comfort deti hai.\n\n### 4. Nivea Soft Light Moisturizer (or Nivea Creme for very dry skin)\n\n* **Best for:** Budget-friendly daily use.\n* **Kyuqh kharidein:** Nivea Soft lightweight hai aur face/body dono ke liye achhi hai. Agar skin bahut zyada dry hai, toh classic blue tin wali **Nivea Creme** (Jojoba oil aur Vitamin E ke sath) winter ke liye best hai.\n\n### 5. Plum Hello Aloe Just Gel / Aqualogica Illuminate+ / Dot & Key Barrier Repair Cream\n\n* **Best for:** Ceramides and soothing care.\n* **Kyu kharidein:** Dot & Key ki barrier repair creams mein ceramides hote hain jo winter ki dry hawa se damaged skin ko heal karne mein madad karte hain.\n\n---\n\n### Kuch Zaroori Tips Winter Skincare ke Liye:\n\n* **Damp Skin par lagayein:** Moisturizer hamesha nahane ke turant baad ya face wash karne ke baad halki geeli (damp) skin par lagayein, taaki moisture lock ho jaye.\n* **Layering karein:** Agar skin zyada dry hai, toh pehle koi hydrating serum ya toner lagakar upar se heavy cream use karein.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 13,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Indian winters mein dry skin ke liye kuch acche aur deeply hydrating moisturizers available hain jo skin barrier ko repair karte hain aur moisture ko lock karte hain. Yahan kuch top recommendations hain jo alag-alag budget mein aate hain:",
+        "original_text": "Indian winters mein dry skin ke liye kuch acche aur deeply hydrating moisturizers available hain jo skin barrier ko repair karte hain aur moisture ko lock karte hain. Yahan kuch top recommendations hain jo alag-alag budget mein aate hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### 1. Cetaphil DAM Daily Advance Ultra Hydrating Lotion",
+        "original_text": "1. Cetaphil DAM Daily Advance Ultra Hydrating Lotion",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Best for:** Extremely dry and sensitive skin.\n* **Kyu kharidein:** Yeh rich formula hai jo Shea Butter ke sath aata hai. Yeh skin ko 24 hours tak hydrated rakhta hai aur non-greasy hai.",
+        "original_text": "Best for: Extremely dry and sensitive skin.\nKyu kharidein: Yeh rich formula hai jo Shea Butter ke sath aata hai. Yeh skin ko 24 hours tak hydrated rakhta hai aur non-greasy hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### 2. Emolene Cream",
+        "original_text": "2. Emolene Cream",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "* **Best for:** Lightweight yet intense hydration.\n* **Kyu kharidein:** Yeh ek propylene glycol aur urea-based cream hai jo skin mein moisture ko attract karti hai. Winters mein yeh kafi popular choice hai dry skin walon ke liye.",
+        "original_text": "Best for: Lightweight yet intense hydration.\nKyu kharidein: Yeh ek propylene glycol aur urea-based cream hai jo skin mein moisture ko attract karti hai. Winters mein yeh kafi popular choice hai dry skin walon ke liye.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "### 3. Bioderma Atoderm Creme Ultra",
+        "original_text": "3. Bioderma Atoderm Creme Ultra",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **Best for:** Long-lasting nourishment and repairing the skin barrier.\n* **Kyu kharidein:** Agar aapki skin winter mein bahut zyada flaking ya tightness feel karti hai, toh yeh cream skin ko deep comfort deti hai.",
+        "original_text": "Best for: Long-lasting nourishment and repairing the skin barrier.\nKyu kharidein: Agar aapki skin winter mein bahut zyada flaking ya tightness feel karti hai, toh yeh cream skin ko deep comfort deti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### 4. Nivea Soft Light Moisturizer (or Nivea Creme for very dry skin)",
+        "original_text": "4. Nivea Soft Light Moisturizer (or Nivea Creme for very dry skin)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "* **Best for:** Budget-friendly daily use.\n* **Kyuqh kharidein:** Nivea Soft lightweight hai aur face/body dono ke liye achhi hai. Agar skin bahut zyada dry hai, toh classic blue tin wali **Nivea Creme** (Jojoba oil aur Vitamin E ke sath) winter ke liye best hai.",
+        "original_text": "Best for: Budget-friendly daily use.\nKyuqh kharidein: Nivea Soft lightweight hai aur face/body dono ke liye achhi hai. Agar skin bahut zyada dry hai, toh classic blue tin wali Nivea Creme (Jojoba oil aur Vitamin E ke sath) winter ke liye best hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "### 5. Plum Hello Aloe Just Gel / Aqualogica Illuminate+ / Dot & Key Barrier Repair Cream",
+        "original_text": "5. Plum Hello Aloe Just Gel / Aqualogica Illuminate+ / Dot & Key Barrier Repair Cream",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "* **Best for:** Ceramides and soothing care.\n* **Kyu kharidein:** Dot & Key ki barrier repair creams mein ceramides hote hain jo winter ki dry hawa se damaged skin ko heal karne mein madad karte hain.",
+        "original_text": "Best for: Ceramides and soothing care.\nKyu kharidein: Dot & Key ki barrier repair creams mein ceramides hote hain jo winter ki dry hawa se damaged skin ko heal karne mein madad karte hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "### Kuch Zaroori Tips Winter Skincare ke Liye:",
+        "original_text": "Kuch Zaroori Tips Winter Skincare ke Liye:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "markdown": "* **Damp Skin par lagayein:** Moisturizer hamesha nahane ke turant baad ya face wash karne ke baad halki geeli (damp) skin par lagayein, taaki moisture lock ho jaye.\n* **Layering karein:** Agar skin zyada dry hai, toh pehle koi hydrating serum ya toner lagakar upar se heavy cream use karein.",
+        "original_text": "Damp Skin par lagayein: Moisturizer hamesha nahane ke turant baad ya face wash karne ke baad halki geeli (damp) skin par lagayein, taaki moisture lock ho jaye.\nLayering karein: Agar skin zyada dry hai, toh pehle koi hydrating serum ya toner lagakar upar se heavy cream use karein.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

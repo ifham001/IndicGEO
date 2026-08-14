@@ -1,0 +1,445 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 8,
+  "promptText": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+  "cellId": "S02_hg_chatgpt_r8",
+  "startedAt": "2026-08-14T13:03:18.596Z",
+  "finishedAt": "2026-08-14T13:03:39.738Z",
+  "durationMs": 21142,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Haan — Indian skin tones, especially **medium/wheatish se dusky skin** par white cast avoid karna ho, toh main **chemical/hybrid sunscreen with SPF 50+ and PA++++** prefer karunga. [www.drsheths.com](https://www.drsheths.com/blogs/skin-care/sunscreens-that-dont-leave-a-white-cast-for-indian-skin?utm_source=chatgpt.com)\n\n### Meri top picks 👇\n\n### [Minimalist SPF 50 Sunscreen]()\n*₹224*\n\n**1. Minimalist Multi-Vitamin SPF 50 PA++++ — Best overall** ⭐  \n- White-cast free formula; brand specifically fragrance-free aur non-comedogenic batata hai. [beminimalist.co](https://beminimalist.co/collections/skin-body-1/products/multi-vitamin-spf-50?utm_source=chatgpt.com)\n- Lightweight, everyday use aur makeup ke neeche bhi achha option.\n- **Normal/combination/oily skin:** particularly good.\n- Current listed price around **₹380**. [beminimalist.co](https://beminimalist.co/collections/skin-body-1/products/multi-vitamin-spf-50?utm_source=chatgpt.com)\n\n### [Dot & Key Super Bright Sunscreen SPF 50]()\n*₹263*\n\n**2. Dot & Key Vitamin C + E SPF 50+ PA++++ — Glow/dewy finish**  \n- Brand ke independent in-vivo testing mein SPF/PA++++ results listed hain. [www.dotandkey.com](https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com)\n- Agar skin dry/normal hai aur **dewy finish** pasand hai, ye achha choice hai.\n- White cast concern ke liye iska newer formula particularly interesting hai.\n\n### [Re'equil Sunscreen SPF 50 PA++++ Ultra Matte Dry Touch Gel]()\n*₹310.50*\n\n**3. Re'equil Ultra Matte — Oily skin ke liye**  \n- Matte finish aur oil-control chahiye toh strong option.\n- Lekin ek caveat: user reports mein medium/deeper skin par kabhi-kabhi patchiness/greyish cast report hua hai, isliye **dusky skin par main Minimalist ko pehle try karunga**. [www.reddit.com](https://www.reddit.com/r/IndianSkincareAddicts/comments/1syrmz9/matte_sunscreens_uv_doux_vs_reequil/?utm_source=chatgpt.com)\n\n### 🏆 Agar mujhe sirf ek choose karna ho:\n**Minimalist SPF 50 PA++++** — especially agar tumhara main goal hai **“sunscreen lagaya hua dikhe hi nahi.”**\n\nAgar tum mujhe **apni skin type (oily/dry/combination) + skin tone (fair/wheatish/medium/dusky)** bata do, main tumhare liye **₹300–₹700 ke andar 3 exact best options** shortlist kar dunga.",
+  "citations": [
+   {
+    "url": "https://www.drsheths.com/blogs/skin-care/sunscreens-that-dont-leave-a-white-cast-for-indian-skin?utm_source=chatgpt.com",
+    "source_name": "Dr Sheth's",
+    "position": 1
+   },
+   {
+    "url": "https://beminimalist.co/collections/skin-body-1/products/multi-vitamin-spf-50?utm_source=chatgpt.com",
+    "source_name": "Minimalist",
+    "position": 2
+   },
+   {
+    "url": "https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com",
+    "source_name": "Dot & Key",
+    "position": 3
+   },
+   {
+    "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/1syrmz9/matte_sunscreens_uv_doux_vs_reequil/?utm_source=chatgpt.com",
+    "source_name": "Reddit",
+    "position": 4
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "20.8593 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141303-2163-0629-0000-b3f0d510966a",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "20.6671 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Mujhe%20aisa%20sunscreen%20kharidna%20hai%20jo%20Indian%20skin%20par%20white%20cast%20na%20chhode.%20Konsa%20best%20hai%3F&hints=search",
+      "datetime": "2026-08-14 13:03:38 +00:00",
+      "markdown": "Haan — Indian skin tones, especially **medium/wheatish se dusky skin** par white cast avoid karna ho, toh main **chemical/hybrid sunscreen with SPF 50+ and PA++++** prefer karunga. [www.drsheths.com](https://www.drsheths.com/blogs/skin-care/sunscreens-that-dont-leave-a-white-cast-for-indian-skin?utm_source=chatgpt.com)\n\n### Meri top picks 👇\n\n### [Minimalist SPF 50 Sunscreen]()\n*₹224*\n\n**1. Minimalist Multi-Vitamin SPF 50 PA++++ — Best overall** ⭐  \n- White-cast free formula; brand specifically fragrance-free aur non-comedogenic batata hai. [beminimalist.co](https://beminimalist.co/collections/skin-body-1/products/multi-vitamin-spf-50?utm_source=chatgpt.com)\n- Lightweight, everyday use aur makeup ke neeche bhi achha option.\n- **Normal/combination/oily skin:** particularly good.\n- Current listed price around **₹380**. [beminimalist.co](https://beminimalist.co/collections/skin-body-1/products/multi-vitamin-spf-50?utm_source=chatgpt.com)\n\n### [Dot & Key Super Bright Sunscreen SPF 50]()\n*₹263*\n\n**2. Dot & Key Vitamin C + E SPF 50+ PA++++ — Glow/dewy finish**  \n- Brand ke independent in-vivo testing mein SPF/PA++++ results listed hain. [www.dotandkey.com](https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com)\n- Agar skin dry/normal hai aur **dewy finish** pasand hai, ye achha choice hai.\n- White cast concern ke liye iska newer formula particularly interesting hai.\n\n### [Re'equil Sunscreen SPF 50 PA++++ Ultra Matte Dry Touch Gel]()\n*₹310.50*\n\n**3. Re'equil Ultra Matte — Oily skin ke liye**  \n- Matte finish aur oil-control chahiye toh strong option.\n- Lekin ek caveat: user reports mein medium/deeper skin par kabhi-kabhi patchiness/greyish cast report hua hai, isliye **dusky skin par main Minimalist ko pehle try karunga**. [www.reddit.com](https://www.reddit.com/r/IndianSkincareAddicts/comments/1syrmz9/matte_sunscreens_uv_doux_vs_reequil/?utm_source=chatgpt.com)\n\n### 🏆 Agar mujhe sirf ek choose karna ho:\n**Minimalist SPF 50 PA++++** — especially agar tumhara main goal hai **“sunscreen lagaya hua dikhe hi nahi.”**\n\nAgar tum mujhe **apni skin type (oily/dry/combination) + skin tone (fair/wheatish/medium/dusky)** bata do, main tumhare liye **₹300–₹700 ke andar 3 exact best options** shortlist kar dunga.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.dotandkey.com/products/vitamin-c-e-mineral-sunscreen?utm_source=chatgpt.com",
+        "domain": "www.dotandkey.com",
+        "title": "Vitamin C + E 100% Mineral Sunscreen IN-VIVO tested SPF 50+, PA++++",
+        "description": "VITAMIN C + E 100% MINERAL SUNSCREEN IN-VIVO TESTED SPF 50+, PA++++  Loved by +customers  Suitable for: Pregnant Women, Kids & Sensitive Skin  Reduces:  Image: Vitamin C + E 100% Mineral Sunscreen IN...",
+        "breadcrumb": "dotandkey.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.oilyskinfix.in/2026/03/requeil-spf-50-review-oily-skin-india.html?utm_source=chatgpt.com",
+        "domain": "www.oilyskinfix.in",
+        "title": "Oily Skin Fix India: Re'equil SPF 50 Review — 4-Week Test for Oily Skin India",
+        "description": "Disclosure: This post contains affiliate links. If you buy through our Amazon links, we may earn a small commission at no extra cost to you. All recommendations are editorially independent and based...",
+        "breadcrumb": "oilyskinfix.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com",
+        "domain": "www.femina.in",
+        "title": "7 Best Sunscreens That Do Not Leave a White Cast on Indian Skin",
+        "description": "By Purva Joshi  7 BEST SUNSCREENS THAT DO NOT LEAVE A WHITE CAST ON INDIAN SKIN  May 6, 2025  1. LA SHIELD FISICO MATTE SUNSCREEN GEL SPF 50  Formulated for sensitive skin, this mineral sunscreen blen...",
+        "breadcrumb": "femina.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.femina.in/beauty/skin/7-sunscreens-that-wont-leave-a-white-cast-on-our-indian-skin-tones-284385.html?utm_source=chatgpt.com",
+        "domain": "www.femina.in",
+        "title": "7 Sunscreens That Won’t Leave A White Cast On Our Indian Skin Tones | Femina.in",
+        "description": "7 SUNSCREENS THAT WON’T LEAVE A WHITE CAST ON OUR INDIAN SKIN TONES  Image: Karen Alfonso  Written by Karen Alfonso  Published on Jun 3, 2024, 13:00 IST  *   * Follow On  Nobody likes a white cast on...",
+        "breadcrumb": "femina.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.nykaa.com/dot-key-vitamin-c-e-100percent-mineral-sunscreen-spf-50-pa/reviews/24846622?utm_source=chatgpt.com",
+        "domain": "www.nykaa.com",
+        "title": "Dot & Key Vitamin C + E 100% Mineral Sunscreen In-Vivo Tested SPF 50+ PA++++, No White Cast Reviews Online | Nykaa",
+        "description": "Dot & Key Vitamin C + E 100% Mineral Sunscreen In-Vivo Tested SPF 50+ PA++++, No White Cast - All Reviews  Nykaa is committed to showing genuine and verified reviews.  4/5  Overall Rating 159 verifie...",
+        "breadcrumb": "nykaa.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.beautytipoffs.com/best-sunscreens-for-indian-skin/?utm_source=chatgpt.com",
+        "domain": "www.beautytipoffs.com",
+        "title": "Best Sunscreens for Indian Skin - Beauty tipoffs",
+        "description": "Skin sensitivity depends on the filter used. Here’s what matters:  * * *  🟩 1. CHEMICAL FILTERS  Lightweight, blend easily, best for oily/normal skin.  Common filters in India (2026):  * Uvinul A+ *...",
+        "breadcrumb": "beautytipoffs.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.reequil.com/collections/sunscreens/products/oxybenzone-free-sunscreen-spf-50-for-oily-acne-prone-skin?utm_source=chatgpt.com",
+        "domain": "www.reequil.com",
+        "title": "Buy Re'equil Oxybenzone Free Sunscreen SPF 50 for Oily Skin",
+        "description": "OXYBENZONE & OMC FREE SUNSCREEN  Oxybenzone & OMC Free Sunscreen  4.5   1817 Reviews  * No harmful filters * Lightweight, lotion texture * For oily, acne prone skin  ₹395.00  ₹395.00 ~~ ₹395.00 ~~  M...",
+        "breadcrumb": "reequil.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com",
+        "domain": "www.buyrn.in",
+        "title": "Best Sunscreen for Indian Skin: SPF 50 Picks | Buyrn",
+        "description": "Top Pick Minimalist SPF 50 Sunscreen  Check Price  BEST SUNSCREEN FOR INDIAN SKIN: SPF 50 PICKS  beauty· 28 Apr 2026· Updated 11 Jul 2026· 7 min read  By the Buyrn Editorial Team·Independently resear...",
+        "breadcrumb": "buyrn.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.hindustantimes.com/genesis/sunscreens-without-white-cast-in-india-a-buying-guide-101766991924034.html?utm_source=chatgpt.com",
+        "domain": "www.hindustantimes.com",
+        "title": "Sunscreens Without White Cast in India: A Buying Guide | Hindustan Times",
+        "description": "SUNSCREENS WITHOUT WHITE CAST IN INDIA: A BUYING GUIDE  SUNSCREENS WITH A WHITE CAST ARE A COMMON PROBLEM, PARTICULARLY FOR DEEPER SKIN TONES. MODERN CHEMICAL FORMULAS OFFER INVISIBLE FINISHES AND HI...",
+        "breadcrumb": "hindustantimes.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Sunscreens That Don't Leave a White Cast for Indian Skin – Dr Sheth's",
+        "snippet": null,
+        "domain": "www.drsheths.com",
+        "url": "https://www.drsheths.com/blogs/skin-care/sunscreens-that-dont-leave-a-white-cast-for-indian-skin?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Dr Sheth's",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Multi-Vitamin SPF 50 - Broad spectrum SPF 50 sunscreen with PA++++ rating | Minimalist",
+        "snippet": null,
+        "domain": "beminimalist.co",
+        "url": "https://beminimalist.co/collections/skin-body-1/products/multi-vitamin-spf-50?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Minimalist",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Vitamin C + E Sunscreen SPF 50+ PA++++ With New-Age UV Filters",
+        "snippet": null,
+        "domain": "www.dotandkey.com",
+        "url": "https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Dot & Key",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Matte sunscreens: UV Doux vs Re’equil",
+        "snippet": null,
+        "domain": "www.reddit.com",
+        "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/1syrmz9/matte_sunscreens_uv_doux_vs_reequil/?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Reddit",
+        "publication_date": "2026-04-29 07:22:18 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best sunscreen no white cast Indian skin SPF 50 PA++++ Minimalist Dot & Key Re'equil"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Haan — Indian skin tones, especially **medium/wheatish se dusky skin** par white cast avoid karna ho, toh main **chemical/hybrid sunscreen with SPF 50+ and PA++++** prefer karunga. [www.drsheths.com](https://www.drsheths.com/blogs/skin-care/sunscreens-that-dont-leave-a-white-cast-for-indian-skin?utm_source=chatgpt.com)\n\n### Meri top picks 👇\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Sunscreens That Don't Leave a White Cast for Indian Skin – Dr Sheth's",
+          "snippet": null,
+          "domain": "www.drsheths.com",
+          "url": "https://www.drsheths.com/blogs/skin-care/sunscreens-that-dont-leave-a-white-cast-for-indian-skin?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Dr Sheth's",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "17970867615910469282",
+          "merchants": "Amazon.in + others",
+          "id_to_token_map": "usq1UHicbZO7ruNUFIaBJ6CknIbqKNLevsaMTpH4Gid24tt2shtr29uJHV_j2Ikd8TDoDIw0lICExJvMFDwHJYdBomLp775PS3-x1p9ffP2S5r-vlmZEmi7b3vTx0l933eGoMI7zoe0aOiR9Tn-DogQAJ3ASD0QOShBCnvuQkJ6UzelfLIK5IAqQl-CrJzFz5pcsJbTM63R7PKad0iT_eBBKc0kUmDkvsgLDQRGyP-cVOaWf-a9zSRIZRmI5nocMACzL8O86ev3I7OSI54AksYAX5gyQWBZwc-77nbtVov9nP12GtJs-StehviZdmtZP1_b4xIOnlnzLLP_LU9083bO8T58Scu2f8prm5FUt8vqnU_u5sigCkWEhz4s8M-cEkWPZd1VOf3jX3vqX7PTjMJTpH_cnebFyVvLK8hg0HcIx26jlgPUyezmVL3n9kpUvaf2-Ie3tmHz68i_1lshyl8hO0LZIcYGHWjUsM8Xet23M2J5V4zrcLzNSjMsULYd4T01fzxAtzMehpKVf2Y3vwd5mT5PD3GGI0AWV88kH2MfnkiV7-ogZpB58yuPw9Ah0RAJdqn2oWZgtZaxmjFdonaXgPPSXbFK2I1IyOS2QcthT39P5taeiVVzjLtUlFpWtZ4Py4BetS3Q6OnAFDkXm2Oq1J9VIbOR2gW4Xe4A3hKGOV67YMEByXPCmey6gG9hBvC-1oCzVtLT7NLQR1cvABW5OziaOFeoHYbYiisbFmpZhxl06DGzDQpqsUNqlmsWhQNun-rUPAHp1bOABd49DrB-CsYoLSScIA6olPIV2SHxzSIv-SCqV9fSswcrStqGk0qoBGNH1BmEvCeGD1u4GnV0fVyOL2VaNfWtM9gFnMch2UOBpoJS9Uspi1mx8FhupoYEELqcwxKpVaq6em0vXsKdtiINQB3Cr49Hftwo2bOsQ8ryrmENS0oro48OHJfvjeO2OH8FC43tvKxizhr9xmRIpWyrOal468uk9BSI53L-D4us_QUZ4vWdBeJ80TZGnn776Joq8NBm6dOb57u55YVf4ThjLF6-6Sk6G2G1COoDBmB0LR7_hHRAQQwa5NcPkyp73seQRMy-XY1pvhMiwIo44FbJDY6RNDEGROmI07S5h_mh7yXic9PvbN566cGUj8haW6q189Vk-OatRUJdv3yxU-XlBTaSS67SNGHBzyVxjCTpkwDif8nOSwj5y8ttMnOQ4nm0KvzvNF2BRZ752ft2soGfuLrgROlrAXdycFQmJZ3i7fuG70l1baJ2ys1jX0wjInNXidd6-sVfKM89yz-QomffLuOM3xm17M_NRNSaa55dRrNZbPDUT5gVC6_0w3aHoRC0_R9vdw14rTokadWM98Jy3Zqe1v2M6OlzT5uy2cUdsf6Ge89Fb7kocNMaG5bx224KeG2g_h_Ylm7W06lb3tbuO85AM1DHu1oiukUjKLNVd4RAset-cbbd2ZNp1nJgMDNaDC8_Rzs3aFseHCZ0zWdEXy2Y-ctfdGLXVsRxEFl48N_Q3o1Qf0bHDyuHU-2vpigZl2lVbozrVTOP0yiwiWb63D5ftTNkPs_uqGi8m0v4Gy0ruIA",
+          "title": "Minimalist SPF 50 Sunscreen",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 5700,
+           "rating_max": 5
+          },
+          "price": 224,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/tJEkLHicDclJDoIwFADQExUQRFISYxAClEEkYhw2hCkFo9DS78SpvI630bd9308LwIQpy01fjW8GTY2g7GcSFVBAV0nVcJNFOzDW9XTFl_8zrU2NvSpzUX5XEdXVPkaXLXkqY214RsjLeRvnyVm7BRfHJ3S7aSaOpsf6XA52sEuonTKIIheUo29Z-R3jKX4r_HAVkEa6ulAdzz7hPQk1Ha-fYZ0Jgp2c8XTQXkpQWD8v9Ty4"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "IBJ_aorhOvGxqtsPrYfD2QQ",
+            "product_id": "17900464950741911154",
+            "catalog_id": "17970867615910469282",
+            "gpcid": "17707231557528467433",
+            "headline_offer_docid": "11198976285736241713",
+            "image_docid": "8997229345512003325",
+            "rds": "PC_5409930568209330484|PROD_PC_5409930568209330484",
+            "query": "sunscreen+spf+50+pa%2B%2B%2B%2B+no+white+cast+indian+skin",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIMS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n**1. Minimalist Multi-Vitamin SPF 50 PA++++ — Best overall** ⭐  \n- White-cast free formula; brand specifically fragrance-free aur non-comedogenic batata hai. [beminimalist.co](https://beminimalist.co/collections/skin-body-1/products/multi-vitamin-spf-50?utm_source=chatgpt.com)\n- Lightweight, everyday use aur makeup ke neeche bhi achha option.\n- **Normal/combination/oily skin:** particularly good.\n- Current listed price around **₹380**. [beminimalist.co](https://beminimalist.co/collections/skin-body-1/products/multi-vitamin-spf-50?utm_source=chatgpt.com)\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Multi-Vitamin SPF 50 - Broad spectrum SPF 50 sunscreen with PA++++ rating | Minimalist",
+          "snippet": null,
+          "domain": "beminimalist.co",
+          "url": "https://beminimalist.co/collections/skin-body-1/products/multi-vitamin-spf-50?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Minimalist",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "9449863486097855594",
+          "merchants": "Purplle.com - Beauty Online + others",
+          "id_to_token_map": "g3WxwHicdVTJrqNWEI3yBVlkk11vsnp60r1Mhjy9BQauMTZgBl8wGwtzGcz8GGyw8jWvB6mz7ESKFOVHuhf5lriV7KKUand0TumcUtVf33z3Gp9_Xy-1Yzi6htafp-sAdtf4MUzF4mPbNWSMhjP5xHA0BRY8oGkGLASBEpiPUTiEZZOeya8Cwwg8RzM8B4QFz7KswHzK4pCU5zo2kyTu5CY6k98gLQj8116ABbiL3ZWoX85VmMb_4hwLFxQHeYpiIEUzHOD5tx3pPzM76Qg5nuYX1J3H0DxLsTwvUD_vbFM-_g_4_mWMu_lP0gwPP1LcQxHPD_1Y91EXx_VD3yYPLHiftv_M_S_7bXU3zS44hqNYCCmeZ3laoKm37WV4zdJ341jGf1wfJHFtraW17lB4PnhTtlXKMViV2Wtavp7r16x8jesPTdhekujLt98rzVWW-qtk7dsWyzZwIPFDkGlulUn7OvMdtaXtFa6MImVOdZboru3beH894WUZFlNr-QjGfoZcz76FgDAYElXP8WjUGh3m-EBcMoRYQ5gqN7YDZl3WpAhpm4MnhFZZsra8p2MJqp6PsF1oE6mMraukjFcRxYXRdNobYwSJEeVa4hQ2jpQMendHJ0W5OVS7wchICAhcH_BzXGWmqZSKXqLEpdFsItIcikmzlaGMaxTECskiqLlerslRhabQ02QMS8nwWPNU27S7z9BpD4vAXU96MVkYl1dDDgqjbktMNyyBLeXI2QV7RmB6ExMpg0woNjnkqPHq9GavMuBhwgauvdMpofcqVg33tmPLOk1g9rK_kWW012i9CBg9R-59Q_d88DrO9SFAxsqFhCGyto3r5YTpgtFLrGK1GCLfCHxgn_eeXYSroYtlpGPAuqZsh5i2HARKySmFjGDbdGqjjVUCdLSkAwdmAUDd6qwtbdWYTS-wA_rA2iqatn7pHiqyCen91cjRISiQE8AWxti23019l3wGImIHx2QpLFeLo3HudVem2dlzzD3erHfdoFo_wQXPLSD19Sh4-CFqmuIcf_n2h-PRiaOxix-dexLPolEF15C6LdebojfZ1hrySQfa4G6CJQDz9pQklZiZO-bqB_XWiuS2NB-F7egotbZIDUldMaTudb03b8nhNgvqbXfCg04FBHK7i68T5FFPbxxFtCX16Ii64qxd5VlKrfXEKcunN6IiPYtEw0p4iTMl3b1oDI52qOCrPFDVNjlunFpmPO62k9n9VnK1RwQWp7ZiN9fgmjFPb2T8rEzr2apFWQpA3qsWmM3TMaFgsCA9EpddTvaRv7O0jF024r2e3hhr-Zml6WdUJb10GLazPx12gBFTH3OWvW3lC4t0yxNbqTrJTM8UOQln53aARQmEMDNYPRmro2Ibni9HicoQD5jNZQTTZl2yE2fClxlbkjKQslULOHSFDA9sLgb-lj76zSEtpo1kv5zXj_nZQ9Tp0iFGpacktY5m04x1onbqvhmbpe_nOwilHOykEXEvkzNwl1EcdwUxtuKyr9f1YeZeKIYWixRYy_4K9WQI0f0BdRbX6BfcpvEQVu111NdBFnYdx2b5KfE2iNswmd4W9ZBE-sq-XSSaFf8Gsf3vNw",
+          "title": "Dot & Key Super Bright Sunscreen SPF 50",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 4400,
+           "rating_max": 5
+          },
+          "price": 263,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/YKdGMHicDcntDkJQGADgKzooarG1FstHzpiPQ_On1WGIw8G7ibvqcrqbev4-308FwCdNFIuOjguHIkfw7CShnOABNRVoz8Sp6jmvu_I0HP-nnb1ctWg8HhKfFAbaYKaMD0sOgzvcDZ8rjmvLGdhmY9eJu7UWxzh7ZB8E2etd4UuEomFWmGTtFHVVIcGoM-WhxyGVsaS3rV7lgckIiVIepmiOMXvepCtJa3PfhGW6Oj9ULT0w"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "IBJ_auTNJsixwt0Pwe-agAk",
+            "product_id": "463207803340799294",
+            "catalog_id": "9449863486097855594",
+            "gpcid": "16838720074385258892",
+            "headline_offer_docid": "13998998970700784072",
+            "image_docid": "16517261822412346088",
+            "rds": "PC_16838720074385258892|PROD_PC_16838720074385258892",
+            "query": "dot+%26+key+sunscreen+spf+50",
+            "mid": "576462511288583932",
+            "pvt": "hg",
+            "uule": "w+CAIQICIMS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\n**2. Dot & Key Vitamin C + E SPF 50+ PA++++ — Glow/dewy finish**  \n- Brand ke independent in-vivo testing mein SPF/PA++++ results listed hain. [www.dotandkey.com](https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com)\n- Agar skin dry/normal hai aur **dewy finish** pasand hai, ye achha choice hai.\n- White cast concern ke liye iska newer formula particularly interesting hai.\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Vitamin C + E Sunscreen SPF 50+ PA++++ With New-Age UV Filters",
+          "snippet": null,
+          "domain": "www.dotandkey.com",
+          "url": "https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Dot & Key",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 3,
+        "rank_absolute": 6,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "17555507136503342576",
+          "merchants": "Re'equil + others",
+          "id_to_token_map": "eelC6HicbVLJrqNWEI36C7LIIsvet1q6XCaTp7dgtrGZ4WLYWJiLDfZlMAaDUb7m9SB1lt2RIkX5ke5FviXubJPanNKp4VSV6u8ffnzJyz9WkrFLL8PdtB1j7IEDcydrxPFT2zV4yPoSf6EZADjAUhwPKIZ6AGQ_ZWmfkuZY4t8pnn0Y4CmaYwFNM5Dluc9FnmJS1rl9OOSd0mTf8wC_WECaEx7tHsALDMP8VlbpMf83_kUQeLAQGMDzDMdRHLfg-Xcdvn4FjryDwgJCyPMcz1D8ggML5lfHs5Xd_4Y-XIa8u__V5ZehJG8G0nfpmyrt-_zNdaivWZfn9Ydj-5D8_N_ad9WDfizAcPCxNOQEnnrMw7xrb_1LcXw_DCT_c3wjiyt3Ja9MH6J7HE3FRiVDopPi5UheyvqlIC95_bFJ29sh-_bqJ7UZFfk6ym7YtkjxQKCzxFSwkmylc0gZfkC8MAAkSNWp3AO8DRWjMUkh-ecj3Feal0Lv4J6wG0KjQMSc7CApg7N1DyvqkimFkp-KCqkatHXvkKmsFgILmpSkY6r1H3q3GAiDVVKJjRoYVMVkVtQqUQ0pnK05O2MqC0fWUjQ7UI0mU90xUDzGClERV0WfLZPIRcfROxE9itohmaXeOmM6QOf7ltYKWzMnRCdFRpCbnV2w1zTDDKzLnqBrCPEVqdbKrSaUzVg3AdpGmuT7tXVPtiqNiESw4m2tyqtN2jKj2qLNM24tgK14xmM2u1N8judIU1lf92qskt7UiOYjfM8rY4wjz0YUvobAq-JKOCW1yOTb4pyrVos1csV36nEDr7MUMkSRYGfRVAXE6jwFkYiIdFgZMFp6fgCyPlWwh0_GFEMMU4X07kxgRrVpFHobtIx9DRDZJ0KRbREbhILr1xiYmnhPkHTaA43WS0PyltbdjpLAkiklBmycByZMdJSiAHsZOE7ufKT3VKu6J1K_n67d4SsQNbb3bXZEwq0yNsbbh1epjjEnydrbNDbYiL98f0yeghwQAIQfs6Y5l_m3Vz_vdn6eDV3-1g8851m0qmRMoSvVnXFd8DsZ90tebB3jRsULqehcHmOuuZ22ttSubDFVVlbJKbOGt-xyVo8tXxtjvrPQ2ZF6Zx_JKb9XZ-Vq69F6G0r90nafXvuq6MnLnS-aqr8K1Gf56K4mTpWeXouq_CxiA6npcJ93QcxSkq_EF9DyFFrOzszY6qU-1TGooqyPw2nKFJflrofVthvu4tNrBT2Hu6C4xGIeNWINFMnJZt_XIjgV_VUTpSaJLqnmO70YjOJ3e3ptrZRnlqaf7XYTm-d6hIxJFMgXIgkVunIfBF0f9uqwMozhMpYGb4xXWdHY6FapDVqXhyNcECXYDgiR6s7pPa3H5HZZbxza2XDO0ItRXrqOnI-h0077PbmybpnOi_WRXqfCoW3Gm1wlm1ZI3U65cYPL4GAK_evjrXZ1LK2rlFWpNQKh7ipKtThQJcTRjbMRva3XINItIQxVLBxil62OeN45y8UNWJoejB3eDQNeyamoDgHBQimfVyh11ipkrXqhaivPFtiaztteYPVibV9Gb1k9zu7qmL2U_wB-9_Dg",
+          "title": "Re'equil Sunscreen SPF 50 PA++++ Ultra Matte Dry Touch Gel",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 410,
+           "rating_max": 5
+          },
+          "price": 310.5,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/HhhXdnicDclJDoIwAADAFwESgyCJMQhSBFsS8aBeCC1YUJYWyvobn-VvdK7z_eRCsM5UlKwm7cxElkoC16pMO5GIgsikqZQubxgrarrnu_-ZFkq3gETEDV00a9AbIgChevWt6e2FfJn6AOcx00oHjKvS6BwbFVOLyYHmGzyfT-sau_FIUQUaGFy44P1Ntx_qK9Q9axAwlZokW0AQ-0-aHfnd-AE0cjpl"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "IBJ_aquyMOPJwt0P2ePcoAw",
+            "product_id": "3400605167014116725",
+            "catalog_id": "17555507136503342576",
+            "gpcid": "298222776741786084",
+            "headline_offer_docid": "10788236934023679444",
+            "image_docid": "9970894077466166877",
+            "rds": "PC_298222776741786084|PROD_PC_298222776741786084",
+            "query": "requil+ultra+matte+sunscreen",
+            "mid": "576462400269717744",
+            "pvt": "hg",
+            "uule": "w+CAIQICIMS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "markdown": "\n\n**3. Re'equil Ultra Matte — Oily skin ke liye**  \n- Matte finish aur oil-control chahiye toh strong option.\n- Lekin ek caveat: user reports mein medium/deeper skin par kabhi-kabhi patchiness/greyish cast report hua hai, isliye **dusky skin par main Minimalist ko pehle try karunga**. [www.reddit.com](https://www.reddit.com/r/IndianSkincareAddicts/comments/1syrmz9/matte_sunscreens_uv_doux_vs_reequil/?utm_source=chatgpt.com)\n\n### 🏆 Agar mujhe sirf ek choose karna ho:\n**Minimalist SPF 50 PA++++** — especially agar tumhara main goal hai **“sunscreen lagaya hua dikhe hi nahi.”**\n\nAgar tum mujhe **apni skin type (oily/dry/combination) + skin tone (fair/wheatish/medium/dusky)** bata do, main tumhare liye **₹300–₹700 ke andar 3 exact best options** shortlist kar dunga.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Matte sunscreens: UV Doux vs Re’equil",
+          "snippet": null,
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/1syrmz9/matte_sunscreens_uv_doux_vs_reequil/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Reddit",
+          "publication_date": "2026-04-29 07:22:18 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

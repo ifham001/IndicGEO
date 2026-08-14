@@ -1,0 +1,273 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F04",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "perplexity",
+  "rep": 4,
+  "promptText": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+  "cellId": "F04_hg_perplexity_r4",
+  "startedAt": "2026-08-14T12:34:43.225Z",
+  "finishedAt": "2026-08-14T12:34:46.727Z",
+  "durationMs": 3502,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein men ke liye formal shirts kharidne ke liye **Van Heusen, Arrow, Louis Philippe, Raymond, Peter England, aur Blackberrys** sabse safe choices hain, kyunki ye brands consistently office wear, fit, aur quality ke liye recommend kiye jaate hain.[1][2][7][9][10]\n\nAgar budget ke hisaab se dekhen, to best pick aise ban sakti hai:\n\n- **Budget-friendly:** **Peter England**, **Allen Solly**, **Park Avenue**[1][2][3]\n- **Mid-range:** **Van Heusen**, **Arrow**, **Raymond**, **Blackberrys**[2][7][9]\n- **Premium / sharper formal look:** **Louis Philippe**, **Raymond**, **Van Heusen**[1][3][10]\n\nQuick recommendation:\n- **Office ke liye sabse balanced:** **Van Heusen** ya **Arrow**[2][9][10]\n- **Premium and polished look:** **Louis Philippe**[1][6][10]\n- **Value for money:** **Peter England**[1][2][3]\n\nAgar aap chahein, main aapke **budget** aur **use case** ke hisaab se 3 best shirt brands shortlist kar sakta hoon.",
+  "citations": [
+   {
+    "url": "https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india",
+    "position": 1
+   },
+   {
+    "url": "https://www.paisawapas.com/blog/top-10-best-formal-shirt-brands-in-india/",
+    "position": 2
+   },
+   {
+    "url": "https://www.fashioncronical.com/top-10-best-formal-shirt-brands-in-india/",
+    "position": 3
+   },
+   {
+    "url": "https://midvey.com/blogs/news/top-10-best-formal-shirt-brands-in-india-for-2026",
+    "position": 4
+   },
+   {
+    "url": "https://magicalassam.com/review/fashion/best-brands-for-formal-shirts-in-india/",
+    "position": 5
+   },
+   {
+    "url": "https://louisphilippe.abfrl.in/c/men-formal-shirts",
+    "position": 6
+   },
+   {
+    "url": "https://pehanoge.com/blog/best-formal-shirt-brands-india-2026/",
+    "position": 7
+   },
+   {
+    "url": "https://www.ozmod.in/blogs/news/top-10-formal-men-s-shirts-in-india",
+    "position": 8
+   },
+   {
+    "url": "https://www.grabon.in/indulge/shopping-tips/best-shirts-brands-india-men/",
+    "position": 9
+   },
+   {
+    "url": "https://cashkaro.com/thegoodlookbook/men-shirt-brands/",
+    "position": 10
+   },
+   {
+    "url": "https://www.desidime.com/news/top-10-men-s-formal-clothing-brands-in-india",
+    "position": 11
+   },
+   {
+    "url": "https://cottonking.com/collections/all-shirts",
+    "position": 12
+   },
+   {
+    "url": "https://cashkaro.com/blog/6-formal-wear-brands-to-choose-from-this-aw16/6691",
+    "position": 13
+   },
+   {
+    "url": "https://myraymond.com/collections/formal-shirts",
+    "position": 14
+   },
+   {
+    "url": "https://www.reddit.com/r/BuyItForLifeIndia/comments/1nfvbve/i_need_formal_shirt_recommendations/",
+    "position": 15
+   },
+   {
+    "url": "https://blackberrys.com/collections/all-formal-shirts",
+    "position": 16
+   },
+   {
+    "url": "https://www.bombayshirts.com/",
+    "position": 17
+   }
+  ],
+  "costUsd": 0.005329
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.2872 sec.",
+  "cost": 0.005929,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141234-2163-0612-0000-a3fbf38c591c",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.2478 sec.",
+    "cost": 0.005929,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 27,
+      "output_tokens": 302,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005329,
+      "datetime": "2026-08-14 12:34:46 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "India mein men ke liye formal shirts kharidne ke liye **Van Heusen, Arrow, Louis Philippe, Raymond, Peter England, aur Blackberrys** sabse safe choices hain, kyunki ye brands consistently office wear, fit, aur quality ke liye recommend kiye jaate hain.[1][2][7][9][10]\n\nAgar budget ke hisaab se dekhen, to best pick aise ban sakti hai:\n\n- **Budget-friendly:** **Peter England**, **Allen Solly**, **Park Avenue**[1][2][3]\n- **Mid-range:** **Van Heusen**, **Arrow**, **Raymond**, **Blackberrys**[2][7][9]\n- **Premium / sharper formal look:** **Louis Philippe**, **Raymond**, **Van Heusen**[1][3][10]\n\nQuick recommendation:\n- **Office ke liye sabse balanced:** **Van Heusen** ya **Arrow**[2][9][10]\n- **Premium and polished look:** **Louis Philippe**[1][6][10]\n- **Value for money:** **Peter England**[1][2][3]\n\nAgar aap chahein, main aapke **budget** aur **use case** ke hisaab se 3 best shirt brands shortlist kar sakta hoon.",
+          "annotations": [
+           {
+            "title": "Top 10 Best Formal Shirt Brands in India for 2026",
+            "url": "https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 10 Best Formal Shirt Brands In India 2026 | Price",
+            "url": "https://www.paisawapas.com/blog/top-10-best-formal-shirt-brands-in-india/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 10 Best Formal Shirt Brands in India for 2025",
+            "url": "https://www.fashioncronical.com/top-10-best-formal-shirt-brands-in-india/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 10 Best Formal Shirt Brands in India for 2026",
+            "url": "https://midvey.com/blogs/news/top-10-best-formal-shirt-brands-in-india-for-2026",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "7 Best Brands for Formal Shirts in India - The Product Guide",
+            "url": "https://magicalassam.com/review/fashion/best-brands-for-formal-shirts-in-india/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Men's Formal Shirts Online at Louis Philippe",
+            "url": "https://louisphilippe.abfrl.in/c/men-formal-shirts",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top Formal Shirt Brands in India for 2026 Professionals - Pehanoge",
+            "url": "https://pehanoge.com/blog/best-formal-shirt-brands-india-2026/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 10 formal men's shirts in India",
+            "url": "https://www.ozmod.in/blogs/news/top-10-formal-men-s-shirts-in-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "24 Best Shirt Brands for Men in India - GrabOn",
+            "url": "https://www.grabon.in/indulge/shopping-tips/best-shirts-brands-india-men/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "23 Best Shirt Brands for Men in India 2026 - CashKaro",
+            "url": "https://cashkaro.com/thegoodlookbook/men-shirt-brands/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 10 Men's Formal Clothing Brands in India 2025 - Desidime",
+            "url": "https://www.desidime.com/news/top-10-men-s-formal-clothing-brands-in-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Cottonking | Branded & 100% pure Cotton Men's Formal Shirts",
+            "url": "https://cottonking.com/collections/all-shirts",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Amazon Brand – Symbol",
+            "url": "https://cashkaro.com/blog/6-formal-wear-brands-to-choose-from-this-aw16/6691",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Stylish Formal Shirts - Professional & Formal Elegance - MyRaymond",
+            "url": "https://myraymond.com/collections/formal-shirts",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "I need formal shirt recommendations : r/BuyItForLifeIndia - Reddit",
+            "url": "https://www.reddit.com/r/BuyItForLifeIndia/comments/1nfvbve/i_need_formal_shirt_recommendations/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Formal Shirts For Men - Tailored Fit - Blackberrys",
+            "url": "https://blackberrys.com/collections/all-formal-shirts",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Men's Tailored Shirts Online | Made-To-Measure Branded Shirts",
+            "url": "https://www.bombayshirts.com/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,432 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 2,
+  "promptText": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+  "cellId": "S02_en_chatgpt_r2",
+  "startedAt": "2026-08-14T12:45:07.892Z",
+  "finishedAt": "2026-08-14T12:45:26.285Z",
+  "durationMs": 18393,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "If your **main priority is zero/near-zero white cast on Indian skin**, my top pick would be:\n\n### [Minimalist Light Fluid SPF 50 Face Sunscreen]()\n*₹224*\n\n### 🥇 Best overall: Minimalist Light Fluid SPF 50 PA++++\n- **Very low/no visible white cast** across Indian skin tones.\n- Lightweight, fluid texture that spreads easily.\n- **SPF 50 PA++++**.\n- Particularly good if you have **normal, combination, or oily skin**. [sskin.care](https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com)\n- Usually a better choice than mineral sunscreens if white cast is your biggest concern.\n\n### Other good choices\n\n### [Re'equil Ultra Matte Dry Touch SPF 50 PA++++]()\n*₹580.50*\n\n### [Fixderma Shadow SPF 50+ Gel]()\n*₹512*\n\n### [Minimalist SPF 50 PA++++]()\n*₹211*\n\n**Re'equil Ultra Matte** — excellent if you're **very oily or sweat a lot**. It has a highly photostable filter system and a genuinely matte finish, although some people with deeper skin tones report a slight cast. [sskin.care](https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com)\n\n**Fixderma Shadow Gel** — good budget-friendly option, particularly for medium Indian skin tones. There can be slight ashiness on deeper tones, so I'd choose Minimalist if you're particularly sensitive to white cast. [www.oilyskinfix.in](https://www.oilyskinfix.in/2026/03/fixderma-shadow-spf-50-review-oily-skin-india.html?utm_source=chatgpt.com)\n\n**Minimalist SPF 50** — another solid everyday option and generally invisible on Indian skin, though its finish can feel somewhat heavier/greasier than the Light Fluid. [sskin.care](https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com)\n\n**My simple recommendation:**  \n👉 **Normal/oily skin → Minimalist Light Fluid SPF 50**  \n👉 **Very oily/sweaty skin → Re'equil Ultra Matte SPF 50**  \n👉 **Dry skin → Minimalist Light Fluid or a more hydrating sunscreen**\n\nIf you tell me your **skin type (oily/dry/combination) and approximate skin tone (fair/medium/wheatish/dusky/deep)**, I can narrow it down to **one specific sunscreen** for you.",
+  "citations": [
+   {
+    "url": "https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com",
+    "source_name": "sskin.care",
+    "position": 1
+   },
+   {
+    "url": "https://www.oilyskinfix.in/2026/03/fixderma-shadow-spf-50-review-oily-skin-india.html?utm_source=chatgpt.com",
+    "source_name": "Oily Skin Fix",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "18.1729 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141245-2163-0629-0000-e184ea110ac8",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "18.0584 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=I%20want%20to%20buy%20a%20sunscreen%20that%20doesn%27t%20leave%20a%20white%20cast%20on%20Indian%20skin.%20Which%20one%20is%20best%3F&hints=search",
+      "datetime": "2026-08-14 12:45:25 +00:00",
+      "markdown": "If your **main priority is zero/near-zero white cast on Indian skin**, my top pick would be:\n\n### [Minimalist Light Fluid SPF 50 Face Sunscreen]()\n*₹224*\n\n### 🥇 Best overall: Minimalist Light Fluid SPF 50 PA++++\n- **Very low/no visible white cast** across Indian skin tones.\n- Lightweight, fluid texture that spreads easily.\n- **SPF 50 PA++++**.\n- Particularly good if you have **normal, combination, or oily skin**. [sskin.care](https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com)\n- Usually a better choice than mineral sunscreens if white cast is your biggest concern.\n\n### Other good choices\n\n### [Re'equil Ultra Matte Dry Touch SPF 50 PA++++]()\n*₹580.50*\n\n### [Fixderma Shadow SPF 50+ Gel]()\n*₹512*\n\n### [Minimalist SPF 50 PA++++]()\n*₹211*\n\n**Re'equil Ultra Matte** — excellent if you're **very oily or sweat a lot**. It has a highly photostable filter system and a genuinely matte finish, although some people with deeper skin tones report a slight cast. [sskin.care](https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com)\n\n**Fixderma Shadow Gel** — good budget-friendly option, particularly for medium Indian skin tones. There can be slight ashiness on deeper tones, so I'd choose Minimalist if you're particularly sensitive to white cast. [www.oilyskinfix.in](https://www.oilyskinfix.in/2026/03/fixderma-shadow-spf-50-review-oily-skin-india.html?utm_source=chatgpt.com)\n\n**Minimalist SPF 50** — another solid everyday option and generally invisible on Indian skin, though its finish can feel somewhat heavier/greasier than the Light Fluid. [sskin.care](https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com)\n\n**My simple recommendation:**  \n👉 **Normal/oily skin → Minimalist Light Fluid SPF 50**  \n👉 **Very oily/sweaty skin → Re'equil Ultra Matte SPF 50**  \n👉 **Dry skin → Minimalist Light Fluid or a more hydrating sunscreen**\n\nIf you tell me your **skin type (oily/dry/combination) and approximate skin tone (fair/medium/wheatish/dusky/deep)**, I can narrow it down to **one specific sunscreen** for you.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.drsheths.com/blogs/skin-care/sunscreens-that-dont-leave-a-white-cast-for-indian-skin?utm_source=chatgpt.com",
+        "domain": "www.drsheths.com",
+        "title": "Sunscreens That Don't Leave a White Cast for Indian Skin – Dr Sheth's",
+        "description": "SUNSCREENS THAT DON'T LEAVE A WHITE CAST FOR INDIAN SKIN  by Mohammad Shakil  on Jul 28  Image: Sunscreens That Don't Leave a White Cast for Indian Skin  The sunscreens that don't leave a white cast...",
+        "breadcrumb": "drsheths.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com",
+        "domain": "www.femina.in",
+        "title": "7 Best Sunscreens That Do Not Leave a White Cast on Indian Skin",
+        "description": "By Purva Joshi  7 BEST SUNSCREENS THAT DO NOT LEAVE A WHITE CAST ON INDIAN SKIN  May 6, 2025  1. LA SHIELD FISICO MATTE SUNSCREEN GEL SPF 50  Formulated for sensitive skin, this mineral sunscreen blen...",
+        "breadcrumb": "femina.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://skinsort.com/compare/fixderma-skincare-shadow-tinted-sunscreen-spf-50-vs-re-equil-ultra-matte-dry-touch-sunscreen-spf-50?utm_source=chatgpt.com",
+        "domain": "skinsort.com",
+        "title": "Fixderma Skincare Shadow Tinted Sunscreen SPF 50+ Light VS Re’equil",
+        "description": "Comparisons / Fixderma Skincare Shadow Tinted Sunscreen SPF 50+ Light VS Re’equil Ultra Matte Dry Touch Sunscreen SPF 50  FIXDERMA SKINCARE SHADOW TINTED SUNSCREEN SPF 50+ VERSUS RE’EQUIL ULTRA MATTE...",
+        "breadcrumb": "skinsort.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://skinsort.com/compare/re-equil-ultra-matte-dry-touch-sunscreen-spf-50-vs-fixderma-skincare-shadow-spf-50-gel?utm_source=chatgpt.com",
+        "domain": "skinsort.com",
+        "title": "Re’equil Ultra Matte Dry Touch Sunscreen SPF 50 VS Fixderma Skincare",
+        "description": "Comparisons / Re’equil Ultra Matte Dry Touch Sunscreen SPF 50 VS Fixderma Skincare Shadow SPF 50+ Gel  RE’EQUIL ULTRA MATTE DRY TOUCH SUNSCREEN SPF 50 VERSUS FIXDERMA SKINCARE SHADOW SPF 50+ GEL  Thi...",
+        "breadcrumb": "skinsort.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://drnishitaranka.com/blogs/best-sunscreen-for-indian-skin-a-dermatologists-complete-guide-2026/?utm_source=chatgpt.com",
+        "domain": "drnishitaranka.com",
+        "title": "Best Sunscreen for Indian Skin — A Dermatologist's Complete Guide (2026) - Dr. Nishita Ranka",
+        "description": "BEST SUNSCREENS FOR EACH SKIN TYPE  Based on what I recommend in my clinic daily, here are my top picks by skin type. These are all readily available in Hyderabad — at pharmacies, on Pharmeasy, 1mg, o...",
+        "breadcrumb": "drnishitaranka.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.fixderma.com/products/shadow-brightening-sunscreen-cream-spf-50?utm_source=chatgpt.com",
+        "domain": "www.fixderma.com",
+        "title": "Shadow Brightening Sunscreen SPF 50+ | Glow Boosting UV Protection – Fixderma Skincare",
+        "description": "Image: Dermatologist tested brightening sunscreen spf 50  Image: Dermatologist tested brightening sunscreen spf 50  Image: Brightenieng Sunscreen SPF 50 with alpha arbutin  Image: Benefits of Brighte...",
+        "breadcrumb": "fixderma.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.fixderma.com/products/shadow-light-fluid-sunscreen-spf-50?variant=47697275650274&utm_source=chatgpt.com",
+        "domain": "www.fixderma.com",
+        "title": "Shadow Light Fluid Sunscreen SPF 50 | Ultra-Light Sunscreen for Oily Skin – Fixderma Skincare",
+        "description": "SHADOW LIGHT FLUID SUNSCREEN SPF 50+  11 reviews  Rs. 584  ~~Rs. 649~~ Rs. 584 10% OFF  Inclusive of all taxes Free Shipping calculated at checkout.  KEY HIGHLIGHTS  Broad spectrum protection Lightwe...",
+        "breadcrumb": "fixderma.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.beautytipoffs.com/best-sunscreens-for-indian-skin/?utm_source=chatgpt.com",
+        "domain": "www.beautytipoffs.com",
+        "title": "Best Sunscreens for Indian Skin - Beauty tipoffs",
+        "description": "Skin sensitivity depends on the filter used. Here’s what matters:  * * *  🟩 1. CHEMICAL FILTERS  Lightweight, blend easily, best for oily/normal skin.  Common filters in India (2026):  * Uvinul A+ *...",
+        "breadcrumb": "beautytipoffs.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ndtvshopping.com/beauty-and-grooming/best-spfs-that-wont-leave-a-white-cast-or-feel-sticky-in-humidity-11679621?utm_source=chatgpt.com",
+        "domain": "www.ndtvshopping.com",
+        "title": "Best SPFs That Will Not Leave A White Cast Or Feel Sticky In Humidity - NDTV Shopping",
+        "description": "5 BEST SPFS UNDER ₹500 THAT WON'T LEAVE A WHITE CAST OR FEEL STICKY IN HUMIDITY  LOOKING FOR A SUNSCREEN THAT FEELS WEIGHTLESS IN HUMID WEATHER? THESE SPFS OFFER BROAD-SPECTRUM PROTECTION WITHOUT LEA...",
+        "breadcrumb": "ndtvshopping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?_pos=7&_sid=84e4818d8&_ss=r&utm_source=chatgpt.com",
+        "domain": "beminimalist.co",
+        "title": "Light Fluid SPF 50 - Broad spectrum, PA++++ Rating, Water & Sweat Resistant - Suitable for All Skin Type | Minimalist",
+        "description": "OFFERS (5)  ATC5  Get Additional 5% Off on orders above ₹299/-  ATC10  Get Additional 10% Off on orders above ₹599/-  TRAVEL599  Free travel pouch on min purchase of ₹599/-  B2G3RDFREE  Buy 2, Get th...",
+        "breadcrumb": "beminimalist.co"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "The 33 Best Sunscreens in India: Every Label Decoded (2026) — sskin.care/",
+        "snippet": null,
+        "domain": "sskin.care",
+        "url": "https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "sskin.care",
+        "publication_date": "2026-04-17 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Oily Skin Fix India: Fixderma Shadow SPF 50 Review India: Honest Take for Oily Skin",
+        "snippet": null,
+        "domain": "www.oilyskinfix.in",
+        "url": "https://www.oilyskinfix.in/2026/03/fixderma-shadow-spf-50-review-oily-skin-india.html?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Oily Skin Fix",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best sunscreen no white cast Indian skin Minimalist Light Fluid Re'equil Ultra Matte Fixderma Shadow SPF 50"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 5,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "If your **main priority is zero/near-zero white cast on Indian skin**, my top pick would be:\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "17446867799431403269",
+          "merchants": "Purplle.com - Purplle Shopping + others",
+          "id_to_token_map": "cAWwnHicbZO9rqtGFIWjPEGKFClvESnFkaUZYPjJ1Sn4NxwDZoDB0FgYMP8YA7axlac5N4mUlEmkPMtNkWeJkzqr2cUnrb20tfbfX3z1nld_0i7cJ2OvSJt1we2DLc1smbM4_TKMp-ySzlX2B6R4KACeRrwAIHpOAVG_pMmctKfiX8wxDMuzHCcIDA0ZQFOs8FuZJ1lb9blzPOajckqr7DeKYRFPAQgpikcQsAz7a9UlRf4f_QMiATI8CzmeQ08mUAINPo3Z9JnayntGAIgRGJblWBpSLCUw6IctdpT9_7Ofzpd8vH_-rqv654a2muaXtirK-eXYXqrsZbr0Uzrmef8yDccXBH4qhmeC3__H6FP3zI24Z1SKEzgGIECxT30arvN7Wfx4ubT5529vL7JouIZs-AFN7tHOnTBNztHOLDN5MQ8dHiL3vWjfq_69bN_z_udTMlyP6V9ffq2eboo83WQ3GAaiYOD1Q0lIfI57YvlgeAv1YsaNUCVNycRUa8cUYuygZT06QhbBekZLdUxIbdW4j30Txw_bTB4SHaj2JmylixdkbAJiNtEEzX7YlU3Uxw7wD9KndBwsZkTB9UGRoNWVAGvGkjYDGwTmnEIebIhmWFQBLCqgk25Qido8nNBYnECoo9rU8jUmPkwfESwHS2dAqttlqiMmBq158M2LDQdkhVi2A2gePIhyD-5Ig9mDOiQ7apGiDp3CXqSy3nRSYvu5LmwSCnmZ0laxYo4pKKlcj_W4b-9-b81piPooWCqfbquoxmOgT_cYwCZQMy-gzChUNcv1iZEFxAlIaWYUP2-ICTy_dHwNM3HY2s_b-nY3sJY-PzIZTgGAbNwSFa9tJwuhE6rkFvXtLSXBLdUwSGgSxUCbYsI_kjqWMECNtcOTBy1kw3TOVd7THja2iFCmHVLdZjHiR3YkRHzYmgjSQHvolSk9_e9OGPuhghdnVw52E0C_bs_BOr57KkAHQhTrEQd53Uo_LtN4_AxEDc2ew2KN1pAP6HhDtmck08i6AJ3c7XC8ff98FZaDEEEO0fDn9HRqqvyvL7_Z7708vYz5yvPx9lW0u_iWgLxUmgTnOk0Q6-rbcbmlknmQDFDPaYbg8sbZmlmct4YMU-XihcIugIvFpcWtW_wCB6V04-ixrfOsXSa93FTbyNgtVMlydHz8-MFTRSyv955oqZ7hq69y4RoLq0ofP4iq_CpmJlGTeaPrlwGsNAqRdIy2SYj3nhdJp60hbM6Iq9PwpJO5Ph8SXFetEKV88fGDQl6jvbfNkbXKlqKY1i64O4f9kaLMSlBVURv264abU-Ad7zdGfOrjB9tQXhHNvIr80vRXlzlouWt113PSyd39npZv8FmjuEhugfB2WVj_zRMwUgpB393XGY6GsBFnZpaUEKueyl3xdTTucbqbAFyJWlhp8gqE_Bgaa-gZ6nwSjtTEoMnNGDc8YHwCj7pkrlObpW6xHo9jX3kNcdFbHqwUd71r8JX1J_EcwEv-NivEp20JMI6tCId6p0ftanU3LWDVhMvhMSI3-VTrQs3Jc6Pzs9ads-P9ep-krgaJr7f6ymmoY1sS5Modhvv1nkICrz6Go-NVWX3oeyceJd5K3X8ApQPx5Q",
+          "title": "Minimalist Light Fluid SPF 50 Face Sunscreen",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 710,
+           "rating_max": 5
+          },
+          "price": 224,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/8BHVeXicDclLDoIwFADAE8lHCSKJMUIsKoSSKCpsCP-iWAq8gngrj-NtdLbz_RAA1uuimNO0mxjk2QwSOhfKHmKoUiFtnmJPGsYqWm7a9f_0rZutrPRcW6yvfTQSFdfcSPj9RrUVlXk0jGrCravi3IxdZ2rj455hXylik14KyclNA0WvdtkGeMIPby_l7XHObPl9mkpk16Fqc0SvOJ68gYBq-1YITIEFctwFmR2Cl_QDONM_oQ"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "3Q1_arnDBLHg7_UP34P4qAs",
+            "product_id": "12819083589015835952",
+            "catalog_id": "17446867799431403269",
+            "gpcid": "4905494667631262945",
+            "headline_offer_docid": "246582011228510646",
+            "image_docid": "15914861787506492930",
+            "rds": "PC_4905494667631262945|PROD_PC_4905494667631262945",
+            "query": "minimalist+light+fluid+sunscreen+spf+50",
+            "mid": "576462797405026666",
+            "pvt": "hg",
+            "uule": "w+CAIQICITU3VyYXQsR3VqYXJhdCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n### 🥇 Best overall: Minimalist Light Fluid SPF 50 PA++++\n- **Very low/no visible white cast** across Indian skin tones.\n- Lightweight, fluid texture that spreads easily.\n- **SPF 50 PA++++**.\n- Particularly good if you have **normal, combination, or oily skin**. [sskin.care](https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com)\n- Usually a better choice than mineral sunscreens if white cast is your biggest concern.\n\n### Other good choices\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "The 33 Best Sunscreens in India: Every Label Decoded (2026) — sskin.care/",
+          "snippet": null,
+          "domain": "sskin.care",
+          "url": "https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "sskin.care",
+          "publication_date": "2026-04-17 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "11025672868353804453",
+          "merchants": "Re'equil + others",
+          "id_to_token_map": "iMSwj3icbZJJjqtWFIaTrCCDLOANkpFliQtcmpRqQA-2AdM3EwvDBVy-GExjYyurqddIL8OXSFlLvUF2kD3EyTQ5w_P9-v4zOH9-8_0rOvxBOWCXnc-zZG-0jqO3NGdHreN87vq2mPLxUPwGKYqEkIYsRTEcw_I8RX_OszHDbXUofgeAICHDkhzDUZDiCJqG1JcaZQU-nJBdlqiX2_xhofhHCpAcT1LUw0U_ZL8emqxC_-IvHA8fLYDgAAA0zbGQet8XwxuxlXYkz5EkybIMSwOWYwiO_mXr2vLuf9HH84T629uiRz-RLDpPB7yY8NhniyYbR7QYptOQ9widFhXCi6ErF5D4WHX_XPBf1_vmsYYsQzMkTRAkw7OAZWn6fXcZX-vqwzRh9PbjdSEJhmNIhh9Q4S2JncGlwnMSr-pCmlf7xu0S57XCr4fTa41f0elTm3WXMv_63Q9Ke5Wl4So5QdeFskt4JFZcVZ3SCCeFop5DjSAznNbui1XmxzBK1c7wVPWeESkdye6D5deESIPwOE_7G1ghFR-zk3tCuHbNqL4kuKstZWXnenHMo1E3AX9DL1gNFXD3lWHMqXAoSALYgXrPwcoITu4qI9UYaRaVqqLkB8GtIKBSHDnSDBKy8MUh0N0x8WvL02YchgF0ItgXctqjBkhBXKwtsoNJNMcxYW32Dbh6unHNNV5JqNQ0MSYibN18rJYOLsxQx53TOMCScZjiCviaa_tkJ21ibPk6NhwS0G6Ylj52g9y3-iKsxUiraR-nth27q4SAgdPUYq4VZ0-2-vRUzE7ckaG8ijZhqKaUAqNAxUE0Bw7Gay9uoe-vtqmclnaQmm5E35Mw3MQAx14omubxCPcabxbNCofH0HB9rGfK3BSPPhRb4ibuZFMuHFM_AlNfpXvF8dS75ZohX-exSjsEb7qUQFuqQNgKH--B6mqHlejq1s2OUm__ksr5KaD2kZV4D28SFbc97sZIwdE-gpnTrKgP89CXb4SgwtGzWXljQ0AXPtyVjH-InZCOIT_kR1EQfv7nR1kAIGApmv2Ut-3xgL5--5enCK6k7zzBVDzDV56lyjFmRhGf3gmK9CwUq1DJLpSpchuuOV6WcFAnKMa4tufdmW_PbUkkWS7Ve-JeCFAbjfg8yptyLzy92-08lE89Wnq-u30WrCa9ZmBaGpODUC6CY6hLLXG9qLcJuSW6DReh7c6iL1gBxKOqR82slZeSxptqWk_tmdzb1UUgi1mRKFCvO006c7rMmIJh7eoZhlWlPr2Tw2dipprUx_WaFE6D7hA3e78rSQoGo6AIVmseeDKJpmpPiKbwmKd3liE_Q4p-rgNld0-X47ayURMvU-Y-y50EI6On25iE9DQSjACOA5F4AuNtSqERh4Q9EtUq7eTKOnN2uAkQlrtUW0XVZRc5VlTC04VcMqdDr-hevdVQdLfXHn1NXKZAeFzDM-8erDst-ae7pRsaYIrLaGbbu3d1GvGAtdanikhpG_6m0erMD2760s_LKCqjNUjFnaV569FD_rkaFBi8uOI9rOuApaFkL4_aLieQnPRzNyddJ9cn4m86a-bR",
+          "title": "Re'equil Ultra Matte Dry Touch SPF 50 PA++++",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 410,
+           "rating_max": 5
+          },
+          "price": 580.5,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/XeDOWHicDcnbCoIwAADQL0pTMlGISEOzyDEK23wRnZdpXqYubf5Vn9Pf1Hk93w_lnI2mLGctGQTjWbriSatIxchjXhKJdI080o6xsi32_e5_5sFPDZfAJoT4vFBdW1QlQ8KAwzzXW4awgxXbK5dCBQwFYGEABdfjxvUCXxfWMwzyXiR-03m5QgAaxAxQfycvzGk1RfGNTvHqAS3VofYb4clR9b5CMKr5Ja3FSUvWPzQHQIQ"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "3Q1_aqqxCOLGp84P48OWoQQ",
+            "product_id": "5332554573368679934",
+            "catalog_id": "11025672868353804453",
+            "gpcid": "298222776741786084",
+            "headline_offer_docid": "3956712892334574336",
+            "image_docid": "895325108111448753",
+            "rds": "PC_298222776741786084|PROD_PC_298222776741786084",
+            "query": "re%27equil+ultra+matte+sunscreen+gel+spf+50",
+            "mid": "576462400269717744",
+            "pvt": "hg",
+            "uule": "w+CAIQICITU3VyYXQsR3VqYXJhdCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "13036486151709571981",
+          "merchants": "Fixderma + others",
+          "id_to_token_map": "Z_-42XicbVPLrqNGEI3mC7LIJrtZZHd1Jbp55-oubAPG2GBooHlsEKZ52bxswBgrX3PnISXLJFKk_MlkkW-JJ-upWp46Vad0dP797vu3tPyLtkAUX8ZiJYz1eejNko2Fycp_7S4tGZOhJH_QgsBDXuAEiqI4AXCQBr8m8RBXbV6SPwFN0RwjcIAFPCWyPBAF8HuRxqQqm3SfZelFapOvcxQUKJaCLMPyjxZZBoq_lXWcp__jf3APJhAogRF4HnJfN4ofLqT_As1VxAoULbC0KEKWZ0TIcxT7i4n2UvRt7NN5TC_z31l5I-mljp_6Iibt9NR32RNLPeVp9Snvvp78BvVDXZLfWZ5juIdanuH4hybIsx-66_BW5B_HsUq__DQ9rRYba7PaOC6N58C3ekTjc-BrBVndtEONusB6y6u3snkrqre0-dzG3TVL_nn3g9xO0qqfVpbbdVhClE2JWwtUGYas5LrBLfa02a1BgRSkhZiYutcF8YlMBCgobtpJp7tLKIPZPupw74c3QnVZ6lazT7GqXecAr_HekUMzvhs4lHCD1WqZYIzQXTnqbuhYvtHFrsA4PoYupYR2HYY7BzWuZFh4PUiJot89t7s49FJyIYaOX7GO3NOGp8HYX3K6LFqhW10fR-ChItBQ0YyOyEY1coyma1MXNPpjX-gWG7Q2zm5F2qBJ6L2HO_uk9E5V3AJ_CRFQLroM1s5RW-J7pblA2bt0aKE6hLpb6DauBp8COK2KnQ9Ju3ceuk_a5gC1Sl8zswXQjayBHZ8mynWFW7ImhV0rZeqFqnsK5R0mywM24EEeaKfJgeORjuBCIevC23mkcvwcOo6h6Io7kZO4DGA3ev7yhqhBOuCuPxw3wwPfeY-fAv_xQ61x-FhdsZvYyt1AOhaLpMGtdS_AwVeoBCw7w5OZh0_NutSWSDXmvRe66I7mwEUTXncAU3hJajQGbhFieolCuYpDikUfb_0l-0ItFHaw96ygqZxp0iG9KloUTb4b21iVYqFD-c_gEUIefA0aI7Kfk7Y9lek_736MIjtNxkv6bDvIfF0YdTjFdJNNy_ttaNRrxMF19bxJM1JsaR0BryApSMxniW5wJpqR1Nnd8VCVmu-kqpEy5W1hGO3tjhO6up63vsDMfTw9X0P6KvZlaucv7215gVZqZC902d448usqtzY3Tl6-vF_Iq9cF0bAc966imNhc7zJ0vZ_0I0nikeY4vYi2dMGoKDQ8tQcrfI-va2piVP94rtqX9xJ-3czSsXa5-XgPxl61qHl_iDJIsbthIy-Usx50TkeMi7xFweJRL--NjfTK0vTrwVzMl7QNcDbCOuOaHpJ7hZnav0eKB4Vium3PKe2e2Juz33bPYMUvgq5nl8VqzkaG2-RUvBBykpp9Im65KgDXlhhn56BT-tYZtejhYuWREur2PEyWajr12G8t6bqJoyuIBatTvO3AtV5eWAcUDYg5sjEfJSHLueOMvSlew6reVaSUpZ6ZF9H-xu2ZITvuZfT8vGTjnas2q7zg9_m518b1UEGd7cshCIB9foZbxyHa0Vypc3n2t0Aydbn1M1pP7q0Z7DYXP4yucemfCzGixYn119v_AO8X9P4",
+          "title": "Fixderma Shadow SPF 50+ Gel",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 1700,
+           "rating_max": 5
+          },
+          "price": 512,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/BJRVKHicDclJDoIwAADAF7GoIQKJMbgiGAxQTDwRaKEtQqm0bD7HX_kbnet8P0RKLmxNKxjsZi4LpMicLVQsZCYpVGHbaIK0nFOGt6_N_2wnQNYZgl2VQDIAbMzete_mohbUGxOz0udnbPoA8XB_gyAYMpMqZZS6WEw5vlO5eh_FRfENNx10TKLYXDbpepQgtNCJlQ7DMGlJDB41PQiM-on_ALM9O-g"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "3Q1_aruhC8umqtsPi5a8wQg",
+            "product_id": "3887278680006816231",
+            "catalog_id": "13036486151709571981",
+            "gpcid": "5803853992574927605",
+            "headline_offer_docid": "10280502545757595429",
+            "image_docid": "6719180848772664869",
+            "rds": "PC_5803853992574927605|PROD_PC_5803853992574927605",
+            "query": "fixderma+shadow+spf+50+gel",
+            "mid": "576462807467918275",
+            "pvt": "hg",
+            "uule": "w+CAIQICITU3VyYXQsR3VqYXJhdCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "17970867615910469282",
+          "merchants": "skyshopy + others",
+          "id_to_token_map": "EIGmhXicbVTLjqNWEE3yBVlnNYtk1RqJC1wwaXUkMGCgDeZ1L5iNxfv9MGBjW_mYqOchTZbJSPmWnkW-I8tYiZRVSqVa1CmVjnTq1J9fffuSln9QOTiEk-MITDkPs2We1bN65K1Pw9gnp3guk8-A5QiCZmgOEiwNOAAApD_F4Rw2ff4vzBIrhmUA5MB9jiNX5G9FGiZN2aW7LEtHsY_L5HcWQpZbAQgASTCAYAFB_lq2YZ7-A38GFAtZyBArbkURJAsommTfjcn0SprrA6QJjqMIyKxIgqMogl7RP5v2Tjz8P_bheErH6-tPUTrND9Opm-IxTbuHrn9YinJOH-Lw3i-7pAy7h6ku72XIHiDxMIQ_kMJ_-SEf_iHGsgRLUuBOH5IrmmFpinrXlskv74bz_FLk70-nJn39fnlY86qlrlUXUfi6963JpvBx72tFsr5oUWsPe-slb17K7qVoXtLuYx8O5yz-8vVf0jler8d4baFhwKJNOEB-xlinkNh4Ht5fPIQDg9J6DIQg8GbSvxXWvpWoCEuL6000lgzLrmFn4ZzUqeZmtTUZEnYREUEfeavF6WKYuI27BzqNESICasBWbVzCVq4jVFjBrZEsFMhpJah6l1gO0jaGIuhGDTOnaoKkyQlENZIu47WB6iWt585x7avlyZWB66sNtG3kNpbrFlersWmfihfbL-QYcEe7ki5GJ5zTpqmSKpAMSqU8Ra4SIFR7YrptfYGMEE3iFvYeTkxPAnriyZmNuCmmjD5qA8JGMgwQpyHXYHSPI1JvWrxOGA0J0AEQBGcDBKdp7BQHF0QGgl1fqtQDktPhMHQLywbYcUhDSRpOjkV7ibuisNx6jlq5SEQjjClt9pSi9sEKhF6_IAQWJAoe8gvJIhMpkeQ6VGJHvhmdjrkiBoZrVcGQKAKBsEA6fqDFSLY3pSbYinHdeYGDUbHBm0a3XaFw3GSxGjyksko5ZDFHXbMJpUF4f5nG7JXgZTg7O3Y8J6MdROtmb-bP89HqCWV1vlza5wP_I2Dv_rrbDqzuxvkY931dpl---e5wcNL4NKZv72qYT7zRBktIZfVUcCjUN9GdoHFlHOFG0vzitxOssXlTt53g8_WZFdp5OMk15PampyI6leqBCRkFGk68mPwF3I-49S6tIhrL4XTwZ_4Qds3jG0fi7bVycHhdclRXelrnlnphJOHxDS-tn_hEw1I4HWE0GwKqTM5PjZvVG8mOixeAdjTdtOMwon1Gulc080gJE5963tSH_PGNiJ9Urteko14V1HLfG3qhozjmLNyOhirx8iiaOmU7ckhcLIu_x-MbQxWfIEU9bSVvFWrP8QnKDcZx8naRk6z33U2FuiE2Br3IttaoXasKDvm0ccbbNW-YhU-joGUM_VYpA4KSEu6UFB62a2b0pqO9t1esRmVJzj7fXNpxw6aE64atErPdpbrleG3YLDLuu8si7QXZAW_HPSHN2YB2pDB2J1AdifJoJx6vkWaq51Z9FCo6SlqDrfh1EGXcqHcn8SxHKNNErTsZkVnWW98wWbiisMak5QLPQwLpZ_O6C8mRIRhYDKAXBXknThy7s2RNudpBd1Tz7P7mxKMtnrYHMf8bCqTz0A",
+          "title": "Minimalist SPF 50 PA++++",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 5700,
+           "rating_max": 5
+          },
+          "price": 211,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/qO8WfHicDclLDoIwFADAExUSWEBJjBHFoiBCNAJuDJ9aClietJHgqbyOt9HZzvfTKAXS0XUqqnEGRWukSmFqTKpC8UqrhocumwGAC7Z8Lv7nrKIakyrZCbt5KZqz2jAgCa_IW53eB4_b_mhz5KbxmvTzS07TDTYZUR3dYtxZiGDLD3zJAji3R6Mu0cU198eI-CUf8-R-7gd7MO97eg2jokiBRTPOYBu3dDJ6T1jsB4eQPnI"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "3g1_asSSB6itptQPvIvIqAQ",
+            "product_id": "17900464950741911154",
+            "catalog_id": "17970867615910469282",
+            "gpcid": "17707231557528467433",
+            "headline_offer_docid": "7557981511206107102",
+            "image_docid": "13757560898302713427",
+            "rds": "PC_5409930568209330484|PROD_PC_5409930568209330484",
+            "query": "best+sunscreen+no+white+cast+indian+skin+spf+50+pa%2B%2B%2B%2B",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICITU3VyYXQsR3VqYXJhdCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\n**Re'equil Ultra Matte** — excellent if you're **very oily or sweat a lot**. It has a highly photostable filter system and a genuinely matte finish, although some people with deeper skin tones report a slight cast. [sskin.care](https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com)\n\n**Fixderma Shadow Gel** — good budget-friendly option, particularly for medium Indian skin tones. There can be slight ashiness on deeper tones, so I'd choose Minimalist if you're particularly sensitive to white cast. [www.oilyskinfix.in](https://www.oilyskinfix.in/2026/03/fixderma-shadow-spf-50-review-oily-skin-india.html?utm_source=chatgpt.com)\n\n**Minimalist SPF 50** — another solid everyday option and generally invisible on Indian skin, though its finish can feel somewhat heavier/greasier than the Light Fluid. [sskin.care](https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com)\n\n**My simple recommendation:**  \n👉 **Normal/oily skin → Minimalist Light Fluid SPF 50**  \n👉 **Very oily/sweaty skin → Re'equil Ultra Matte SPF 50**  \n👉 **Dry skin → Minimalist Light Fluid or a more hydrating sunscreen**\n\nIf you tell me your **skin type (oily/dry/combination) and approximate skin tone (fair/medium/wheatish/dusky/deep)**, I can narrow it down to **one specific sunscreen** for you.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "The 33 Best Sunscreens in India: Every Label Decoded (2026) — sskin.care/",
+          "snippet": null,
+          "domain": "sskin.care",
+          "url": "https://sskin.care/lists/best-sunscreens-india/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "sskin.care",
+          "publication_date": "2026-04-17 00:00:00 +00:00",
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Oily Skin Fix India: Fixderma Shadow SPF 50 Review India: Honest Take for Oily Skin",
+          "snippet": null,
+          "domain": "www.oilyskinfix.in",
+          "url": "https://www.oilyskinfix.in/2026/03/fixderma-shadow-spf-50-review-oily-skin-india.html?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Oily Skin Fix",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

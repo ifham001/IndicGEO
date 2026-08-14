@@ -1,0 +1,212 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F04",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 5,
+  "promptText": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+  "cellId": "F04_hg_gemini_r5",
+  "startedAt": "2026-08-14T12:33:11.857Z",
+  "finishedAt": "2026-08-14T12:33:34.693Z",
+  "durationMs": 22836,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein men ke liye formal shirts ke liye kai behtareen brands available hain, jo alag-alag budget aur quality preferences ke hisaab se aate hain. Neeche top brands ki list di gayi hai:\n\n### 1. Premium & Luxury Brands (High Budget)\n\nAgar aapko premium fabric aur luxury finish chahiye, toh ye brands sabse acche hain:\n\n* **Van Heusen:** Corporate wear ke liye sabse popular brand hai. Inke shirts ka fit aur fabric formal meetings ke liye perfect hota hai.\n* **Louis Philippe:** Ek premium brand jo apni superior quality aur sophisticated designs ke liye jaana jaata hai. Yeh weddings aur high-end corporate events ke liye best hain.\n* **Arrow:** Sabse purane aur trusted formal shirt brands mein se ek. Inki \"Arrow New York\" aur regular lines wrinkle-resistant fabrics mein aati hain.\n\n### 2. Mid-Range & Value for Money (Best for Daily Office Wear)\n\nAgar aap professional look chahte hain jo pocket-friendly bhi ho:\n\n* **Peter England:** India ka sabse bada menswear brand hai. Yeh budget-friendly price mein durable aur stylish formal shirts provide karte hain.\n* **Raymond:** \"The Complete Man\" ke naam se mashhoor, Raymond ke fabrics aur readymade formal shirts apni durability aur classic look ke liye jaane jaate hain.\n* **Allen Solly:** \"Friday Dressing\" ke concept ke liye famous, Allen Solly thode modern, smart-casual aur slim-fit formal shirts offer karta hai.\n\n### 3. Online & Contemporary Brands (Trendy Fits)\n\n* **blackberrys:** Sharp cuts aur contemporary tailoring ke liye jaana jaata hai. Inki slim-fit shirts modern professionals ke beech kaafi popular hain.\n* **Park Avenue:** Raymond group ka hi brand hai jo elegant corporate wear par focus karta hai.\n\n---\n\n### Quick Comparison Table\n\n| Brand Category | Popular Brands | Price Range (Approx.) | Best For |\n| :--- | :--- | :--- | :--- |\n| **Premium** | Louis Philippe, Van Heusen | ₹2,000 - ₹4,500+ | Boardroom meetings, Special events |\n| **Mid-Range** | Allen Solly, Arrow, Raymond | ₹1,500 - ₹3,000 | Daily office wear, Smart corporate look |\n| **Budget/Value** | Peter England, Park Avenue | ₹800 - ₹1,800 | Affordable daily wear, Durability |\n\n---\n\n### Buying Tips\n\n* **Fit:** Agar aapki body lean hai toh **Slim Fit** chunein, aur agar aap comfortable aur traditional fit chahte hain toh **Regular Fit** behtar rahega.\n* **Fabric:** Garmi ke liye **100% Cotton** ya cotton-blend shirts kharidein taaki poora din comfort rahe.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "22.6189 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141233-2163-0629-0000-32e4e104a384",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "22.5712 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:33:34 +00:00",
+      "markdown": "India mein men ke liye formal shirts ke liye kai behtareen brands available hain, jo alag-alag budget aur quality preferences ke hisaab se aate hain. Neeche top brands ki list di gayi hai:\n\n### 1. Premium & Luxury Brands (High Budget)\n\nAgar aapko premium fabric aur luxury finish chahiye, toh ye brands sabse acche hain:\n\n* **Van Heusen:** Corporate wear ke liye sabse popular brand hai. Inke shirts ka fit aur fabric formal meetings ke liye perfect hota hai.\n* **Louis Philippe:** Ek premium brand jo apni superior quality aur sophisticated designs ke liye jaana jaata hai. Yeh weddings aur high-end corporate events ke liye best hain.\n* **Arrow:** Sabse purane aur trusted formal shirt brands mein se ek. Inki \"Arrow New York\" aur regular lines wrinkle-resistant fabrics mein aati hain.\n\n### 2. Mid-Range & Value for Money (Best for Daily Office Wear)\n\nAgar aap professional look chahte hain jo pocket-friendly bhi ho:\n\n* **Peter England:** India ka sabse bada menswear brand hai. Yeh budget-friendly price mein durable aur stylish formal shirts provide karte hain.\n* **Raymond:** \"The Complete Man\" ke naam se mashhoor, Raymond ke fabrics aur readymade formal shirts apni durability aur classic look ke liye jaane jaate hain.\n* **Allen Solly:** \"Friday Dressing\" ke concept ke liye famous, Allen Solly thode modern, smart-casual aur slim-fit formal shirts offer karta hai.\n\n### 3. Online & Contemporary Brands (Trendy Fits)\n\n* **blackberrys:** Sharp cuts aur contemporary tailoring ke liye jaana jaata hai. Inki slim-fit shirts modern professionals ke beech kaafi popular hain.\n* **Park Avenue:** Raymond group ka hi brand hai jo elegant corporate wear par focus karta hai.\n\n---\n\n### Quick Comparison Table\n\n| Brand Category | Popular Brands | Price Range (Approx.) | Best For |\n| :--- | :--- | :--- | :--- |\n| **Premium** | Louis Philippe, Van Heusen | ₹2,000 - ₹4,500+ | Boardroom meetings, Special events |\n| **Mid-Range** | Allen Solly, Arrow, Raymond | ₹1,500 - ₹3,000 | Daily office wear, Smart corporate look |\n| **Budget/Value** | Peter England, Park Avenue | ₹800 - ₹1,800 | Affordable daily wear, Durability |\n\n---\n\n### Buying Tips\n\n* **Fit:** Agar aapki body lean hai toh **Slim Fit** chunein, aur agar aap comfortable aur traditional fit chahte hain toh **Regular Fit** behtar rahega.\n* **Fabric:** Garmi ke liye **100% Cotton** ya cotton-blend shirts kharidein taaki poora din comfort rahe.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 13,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein men ke liye formal shirts ke liye kai behtareen brands available hain, jo alag-alag budget aur quality preferences ke hisaab se aate hain. Neeche top brands ki list di gayi hai:",
+        "original_text": "India mein men ke liye formal shirts ke liye kai behtareen brands available hain, jo alag-alag budget aur quality preferences ke hisaab se aate hain. Neeche top brands ki list di gayi hai:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### 1. Premium & Luxury Brands (High Budget)",
+        "original_text": "1. Premium & Luxury Brands (High Budget)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "Agar aapko premium fabric aur luxury finish chahiye, toh ye brands sabse acche hain:",
+        "original_text": "Agar aapko premium fabric aur luxury finish chahiye, toh ye brands sabse acche hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Van Heusen:** Corporate wear ke liye sabse popular brand hai. Inke shirts ka fit aur fabric formal meetings ke liye perfect hota hai.\n* **Louis Philippe:** Ek premium brand jo apni superior quality aur sophisticated designs ke liye jaana jaata hai. Yeh weddings aur high-end corporate events ke liye best hain.\n* **Arrow:** Sabse purane aur trusted formal shirt brands mein se ek. Inki \"Arrow New York\" aur regular lines wrinkle-resistant fabrics mein aati hain.",
+        "original_text": "Van Heusen: Corporate wear ke liye sabse popular brand hai. Inke shirts ka fit aur fabric formal meetings ke liye perfect hota hai.\nLouis Philippe: Ek premium brand jo apni superior quality aur sophisticated designs ke liye jaana jaata hai. Yeh weddings aur high-end corporate events ke liye best hain.\nArrow: Sabse purane aur trusted formal shirt brands mein se ek. Inki \"Arrow New York\" aur regular lines wrinkle-resistant fabrics mein aati hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. Mid-Range & Value for Money (Best for Daily Office Wear)",
+        "original_text": "2. Mid-Range & Value for Money (Best for Daily Office Wear)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "Agar aap professional look chahte hain jo pocket-friendly bhi ho:",
+        "original_text": "Agar aap professional look chahte hain jo pocket-friendly bhi ho:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **Peter England:** India ka sabse bada menswear brand hai. Yeh budget-friendly price mein durable aur stylish formal shirts provide karte hain.\n* **Raymond:** \"The Complete Man\" ke naam se mashhoor, Raymond ke fabrics aur readymade formal shirts apni durability aur classic look ke liye jaane jaate hain.\n* **Allen Solly:** \"Friday Dressing\" ke concept ke liye famous, Allen Solly thode modern, smart-casual aur slim-fit formal shirts offer karta hai.",
+        "original_text": "Peter England: India ka sabse bada menswear brand hai. Yeh budget-friendly price mein durable aur stylish formal shirts provide karte hain.\nRaymond: \"The Complete Man\" ke naam se mashhoor, Raymond ke fabrics aur readymade formal shirts apni durability aur classic look ke liye jaane jaate hain.\nAllen Solly: \"Friday Dressing\" ke concept ke liye famous, Allen Solly thode modern, smart-casual aur slim-fit formal shirts offer karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### 3. Online & Contemporary Brands (Trendy Fits)",
+        "original_text": "3. Online & Contemporary Brands (Trendy Fits)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "* **blackberrys:** Sharp cuts aur contemporary tailoring ke liye jaana jaata hai. Inki slim-fit shirts modern professionals ke beech kaafi popular hain.\n* **Park Avenue:** Raymond group ka hi brand hai jo elegant corporate wear par focus karta hai.",
+        "original_text": "blackberrys: Sharp cuts aur contemporary tailoring ke liye jaana jaata hai. Inki slim-fit shirts modern professionals ke beech kaafi popular hain.\nPark Avenue: Raymond group ka hi brand hai jo elegant corporate wear par focus karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "### Quick Comparison Table",
+        "original_text": "Quick Comparison Table",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 11,
+        "markdown": "| Brand Category | Popular Brands | Price Range (Approx.) | Best For |\n| :--- | :--- | :--- | :--- |\n| **Premium** | Louis Philippe, Van Heusen | ₹2,000 - ₹4,500+ | Boardroom meetings, Special events |\n| **Mid-Range** | Allen Solly, Arrow, Raymond | ₹1,500 - ₹3,000 | Daily office wear, Smart corporate look |\n| **Budget/Value** | Peter England, Park Avenue | ₹800 - ₹1,800 | Affordable daily wear, Durability |",
+        "original_text": "Brand Category\tPopular Brands\tPrice Range (Approx.)\tBest For\nPremium\tLouis Philippe, Van Heusen\t₹2,000 - ₹4,500+\tBoardroom meetings, Special events\nMid-Range\tAllen Solly, Arrow, Raymond\t₹1,500 - ₹3,000\tDaily office wear, Smart corporate look\nBudget/Value\tPeter England, Park Avenue\t₹800 - ₹1,800\tAffordable daily wear, Durability",
+        "table": {
+         "table_header": [
+          "Brand Category",
+          "Popular Brands",
+          "Price Range (Approx.)",
+          "Best For"
+         ],
+         "table_content": [
+          [
+           "Premium",
+           "Louis Philippe, Van Heusen",
+           "₹2,000 - ₹4,500+",
+           "Boardroom meetings, Special events"
+          ],
+          [
+           "Mid-Range",
+           "Allen Solly, Arrow, Raymond",
+           "₹1,500 - ₹3,000",
+           "Daily office wear, Smart corporate look"
+          ],
+          [
+           "Budget/Value",
+           "Peter England, Park Avenue",
+           "₹800 - ₹1,800",
+           "Affordable daily wear, Durability"
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 12,
+        "markdown": "### Buying Tips",
+        "original_text": "Buying Tips",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 13,
+        "markdown": "* **Fit:** Agar aapki body lean hai toh **Slim Fit** chunein, aur agar aap comfortable aur traditional fit chahte hain toh **Regular Fit** behtar rahega.\n* **Fabric:** Garmi ke liye **100% Cotton** ya cotton-blend shirts kharidein taaki poora din comfort rahe.",
+        "original_text": "Fit: Agar aapki body lean hai toh Slim Fit chunein, aur agar aap comfortable aur traditional fit chahte hain toh Regular Fit behtar rahega.\nFabric: Garmi ke liye 100% Cotton ya cotton-blend shirts kharidein taaki poora din comfort rahe.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S01",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 8,
+  "promptText": "Which face wash should I buy for oily skin in India under ₹500?",
+  "cellId": "S01_en_gemini_r8",
+  "startedAt": "2026-08-14T13:19:18.005Z",
+  "finishedAt": "2026-08-14T13:19:38.376Z",
+  "durationMs": 20371,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "When looking for a face wash for **oily skin** in India under **₹500**, the key is to look for ingredients like **Salicylic Acid (BHA)**, **Niacinamide**, or **Green Tea/Tea Tree**, which help control excess sebum and clear out pores without completely stripping your skin's natural moisture.\n\nHere are some of the top-rated, budget-friendly options available in India:\n\n### Top Recommendations Under ₹500\n\n| Brand & Product | Key Ingredients | Estimated Price | Best For |\n| :--- | :--- | :--- | :--- |\n| **Minimalist 2% Salicylic Acid Face Cleanser** | Salicylic Acid, LHA, Zinc | ~₹299 | Deep pore cleansing, controlling excess oil, and preventing breakouts |\n| **Plum Green Tea Pore Cleansing Face Wash** | Green Tea, Glycolic Acid | ~₹175 – ₹350 | Refreshing gel cleanse, tackling oiliness and mild acne |\n| **The Derma Co. 2% Salicylic Acid Face Wash** | Salicylic Acid, Witch Hazel | ~₹299 | Unclogging pores and managing active acne-prone oily skin |\n| **Pilgrim Tea Tree Purifying Foaming Face Wash** | Tea Tree, Salicylic Acid | ~₹175 | Quick foaming action for oil and acne control |\n| **Deconstruct Salicylic Acid & Niacinamide Face Wash** | Salicylic Acid, Niacinamide | ~₹299 | Controlling sebum production and soothing redness |\n\n---\n\n### Tips for Oily Skin Care:\n\n* **Texture Matters:** Opt for **gel-based** or **foaming** cleansers rather than heavy, creamy washes, as they feel lighter and remove grease more effectively.\n* **Frequency:** Wash your face twice a day (morning and night). Avoid over-washing, as stripping your skin of too much oil can actually trigger it to produce *more* oil.\n* **Follow Up:** Always follow up with a light, oil-free or water-based moisturizer and sunscreen during the day, even if you have oily skin.\n\nAre you dealing with any specific skin concerns like breakouts or acne marks, or are you looking for a recommendation for a complete skincare routine?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "20.1552 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141319-2163-0629-0000-686db5ab93ae",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "20.1347 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Which face wash should I buy for oily skin in India under ₹500?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which face wash should I buy for oily skin in India under ₹500?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:19:38 +00:00",
+      "markdown": "When looking for a face wash for **oily skin** in India under **₹500**, the key is to look for ingredients like **Salicylic Acid (BHA)**, **Niacinamide**, or **Green Tea/Tea Tree**, which help control excess sebum and clear out pores without completely stripping your skin's natural moisture.\n\nHere are some of the top-rated, budget-friendly options available in India:\n\n### Top Recommendations Under ₹500\n\n| Brand & Product | Key Ingredients | Estimated Price | Best For |\n| :--- | :--- | :--- | :--- |\n| **Minimalist 2% Salicylic Acid Face Cleanser** | Salicylic Acid, LHA, Zinc | ~₹299 | Deep pore cleansing, controlling excess oil, and preventing breakouts |\n| **Plum Green Tea Pore Cleansing Face Wash** | Green Tea, Glycolic Acid | ~₹175 – ₹350 | Refreshing gel cleanse, tackling oiliness and mild acne |\n| **The Derma Co. 2% Salicylic Acid Face Wash** | Salicylic Acid, Witch Hazel | ~₹299 | Unclogging pores and managing active acne-prone oily skin |\n| **Pilgrim Tea Tree Purifying Foaming Face Wash** | Tea Tree, Salicylic Acid | ~₹175 | Quick foaming action for oil and acne control |\n| **Deconstruct Salicylic Acid & Niacinamide Face Wash** | Salicylic Acid, Niacinamide | ~₹299 | Controlling sebum production and soothing redness |\n\n---\n\n### Tips for Oily Skin Care:\n\n* **Texture Matters:** Opt for **gel-based** or **foaming** cleansers rather than heavy, creamy washes, as they feel lighter and remove grease more effectively.\n* **Frequency:** Wash your face twice a day (morning and night). Avoid over-washing, as stripping your skin of too much oil can actually trigger it to produce *more* oil.\n* **Follow Up:** Always follow up with a light, oil-free or water-based moisturizer and sunscreen during the day, even if you have oily skin.\n\nAre you dealing with any specific skin concerns like breakouts or acne marks, or are you looking for a recommendation for a complete skincare routine?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "When looking for a face wash for **oily skin** in India under **₹500**, the key is to look for ingredients like **Salicylic Acid (BHA)**, **Niacinamide**, or **Green Tea/Tea Tree**, which help control excess sebum and clear out pores without completely stripping your skin's natural moisture.",
+        "original_text": "When looking for a face wash for oily skin in India under ₹500, the key is to look for ingredients like Salicylic Acid (BHA), Niacinamide, or Green Tea/Tea Tree, which help control excess sebum and clear out pores without completely stripping your skin's natural moisture.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Here are some of the top-rated, budget-friendly options available in India:",
+        "original_text": "Here are some of the top-rated, budget-friendly options available in India:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### Top Recommendations Under ₹500",
+        "original_text": "Top Recommendations Under ₹500",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "markdown": "| Brand & Product | Key Ingredients | Estimated Price | Best For |\n| :--- | :--- | :--- | :--- |\n| **Minimalist 2% Salicylic Acid Face Cleanser** | Salicylic Acid, LHA, Zinc | ~₹299 | Deep pore cleansing, controlling excess oil, and preventing breakouts |\n| **Plum Green Tea Pore Cleansing Face Wash** | Green Tea, Glycolic Acid | ~₹175 – ₹350 | Refreshing gel cleanse, tackling oiliness and mild acne |\n| **The Derma Co. 2% Salicylic Acid Face Wash** | Salicylic Acid, Witch Hazel | ~₹299 | Unclogging pores and managing active acne-prone oily skin |\n| **Pilgrim Tea Tree Purifying Foaming Face Wash** | Tea Tree, Salicylic Acid | ~₹175 | Quick foaming action for oil and acne control |\n| **Deconstruct Salicylic Acid & Niacinamide Face Wash** | Salicylic Acid, Niacinamide | ~₹299 | Controlling sebum production and soothing redness |",
+        "original_text": "Brand & Product\tKey Ingredients\tEstimated Price\tBest For\nMinimalist 2% Salicylic Acid Face Cleanser\tSalicylic Acid, LHA, Zinc\t~₹299\tDeep pore cleansing, controlling excess oil, and preventing breakouts\nPlum Green Tea Pore Cleansing Face Wash\tGreen Tea, Glycolic Acid\t~₹175 – ₹350\tRefreshing gel cleanse, tackling oiliness and mild acne\nThe Derma Co. 2% Salicylic Acid Face Wash\tSalicylic Acid, Witch Hazel\t~₹299\tUnclogging pores and managing active acne-prone oily skin\nPilgrim Tea Tree Purifying Foaming Face Wash\tTea Tree, Salicylic Acid\t~₹175\tQuick foaming action for oil and acne control\nDeconstruct Salicylic Acid & Niacinamide Face Wash\tSalicylic Acid, Niacinamide\t~₹299\tControlling sebum production and soothing redness",
+        "table": {
+         "table_header": [
+          "Brand & Product",
+          "Key Ingredients",
+          "Estimated Price",
+          "Best For"
+         ],
+         "table_content": [
+          [
+           "Minimalist 2% Salicylic Acid Face Cleanser",
+           "Salicylic Acid, LHA, Zinc",
+           "~₹299",
+           "Deep pore cleansing, controlling excess oil, and preventing breakouts"
+          ],
+          [
+           "Plum Green Tea Pore Cleansing Face Wash",
+           "Green Tea, Glycolic Acid",
+           "~₹175 – ₹350",
+           "Refreshing gel cleanse, tackling oiliness and mild acne"
+          ],
+          [
+           "The Derma Co. 2% Salicylic Acid Face Wash",
+           "Salicylic Acid, Witch Hazel",
+           "~₹299",
+           "Unclogging pores and managing active acne-prone oily skin"
+          ],
+          [
+           "Pilgrim Tea Tree Purifying Foaming Face Wash",
+           "Tea Tree, Salicylic Acid",
+           "~₹175",
+           "Quick foaming action for oil and acne control"
+          ],
+          [
+           "Deconstruct Salicylic Acid & Niacinamide Face Wash",
+           "Salicylic Acid, Niacinamide",
+           "~₹299",
+           "Controlling sebum production and soothing redness"
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "markdown": "### Tips for Oily Skin Care:",
+        "original_text": "Tips for Oily Skin Care:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "markdown": "* **Texture Matters:** Opt for **gel-based** or **foaming** cleansers rather than heavy, creamy washes, as they feel lighter and remove grease more effectively.\n* **Frequency:** Wash your face twice a day (morning and night). Avoid over-washing, as stripping your skin of too much oil can actually trigger it to produce *more* oil.\n* **Follow Up:** Always follow up with a light, oil-free or water-based moisturizer and sunscreen during the day, even if you have oily skin.",
+        "original_text": "Texture Matters: Opt for gel-based or foaming cleansers rather than heavy, creamy washes, as they feel lighter and remove grease more effectively.\nFrequency: Wash your face twice a day (morning and night). Avoid over-washing, as stripping your skin of too much oil can actually trigger it to produce more oil.\nFollow Up: Always follow up with a light, oil-free or water-based moisturizer and sunscreen during the day, even if you have oily skin.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "markdown": "Are you dealing with any specific skin concerns like breakouts or acne marks, or are you looking for a recommendation for a complete skincare routine?",
+        "original_text": "Are you dealing with any specific skin concerns like breakouts or acne marks, or are you looking for a recommendation for a complete skincare routine?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

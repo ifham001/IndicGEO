@@ -1,0 +1,241 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 7,
+  "promptText": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+  "cellId": "F02_en_gemini_r7",
+  "startedAt": "2026-08-14T13:02:17.460Z",
+  "finishedAt": "2026-08-14T13:02:42.294Z",
+  "durationMs": 24834,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Finding a reliable pair of running shoes under ₹3,000 in India requires balancing durability, cushioning, and brand trust. While major global brands usually price their core running lineup higher, frequent online sales (Myntra, Flipkart, brand websites) and specialized budget lineups bring exceptional options right into this price bracket.\n\nTop-recommended running shoes under ₹3,000 in India span across trusted brands:\n\n---\n\n### 1. Adidas Duramo Series (Duramo SL / Duramo Speed variants on discount)\n\n* **Why buy them:** Adidas consistently offers some of the best entry-level performance running shoes. The Duramo line features lightweight mesh uppers for breathability and dependable midsole cushioning that absorbs impact well during daily jogs or 5K training.\n* **Best for:** Daily road running, gym workouts, and general fitness.\n* **Price Range:** Often drops to **₹2,200 – ₹3,000** during sales on Myntra or the official Adidas India online store.\n\n### 2. Decathlon Kalenji Jogflow Series (Jogflow 100.1 / Jogflow 190.1)\n\n* **Why buy them:** Decathlon is unmatched for pure value-and-durability in the budget segment. The Jogflow series is specifically designed for regular road runners (up to 10km to 20km a week), offering proprietary foam cushioning, great flexibility, and a secure fit without gimmicks.[www.decathlon.in](https://www.decathlon.in/c/men-running-shoes-25402#:~:text=Kalenji%20JOGFLOW%20190.1%20Run%20Men.%208.9k.%20%2B10.,Kalenji%20JOGFLOW%20100.1%20M%203.%2016.3k.%20%2B7.)\n* **Best for:** Beginners, casual joggers, and indoor treadmill running.\n* **Price Range:** **₹1,599 – ₹2,499** (Standard pricing, no sale needed).[www.decathlon.in](https://www.decathlon.in/c/men-running-shoes-25402#:~:text=%E2%82%B92%2C499.%20MRP%20%E2%82%B93%2C249.%20Kalenji%20JOGFLOW%20100.1%20M,-%20Black.%207.0k.%20%2B4.%20%E2%82%B93%2C599.%20MRP%20%E2%82%B94%2C999.)\n\n### 3. Puma Pro Series (Puma Conduct Pro / Galaxis Pro)\n\n* **Why buy them:** Puma offers aggressive styling paired with functional comfort. Models like the Conduct Pro or similar foam-cushioned variants provide a bouncy ride, decent grip, and a snug fit. They double up seamlessly as lifestyle sneakers.\n* **Best for:** Casual runners, gym-goers, and all-day casual wear.\n* **Price Range:** Frequently available between **₹2,000 – ₹3,000** on Myntra, Flipkart, and Amazon during promotional events.\n\n### 4. HRX by Hrithik Roshan (Performance Running Shoes)\n\n* **Why buy them:** Specifically tailored for the Indian market, HRX performance shoes offer specialized anti-skid rubber outsoles and breathable mesh. They focus heavily on lightweight structure and arch support.\n* **Best for:** Short-distance running, gym sessions, and daily walking.\n* **Price Range:** **₹1,500 – ₹2,500**.\n\n---\n\n### Quick Buying Tips for This Budget:\n\n* **Check the Outsole:** Look for rubber patches on the sole rather than pure foam. Pure foam soles wear out extremely fast on harsh Indian asphalt.\n* **Sizing:** Budget performance shoes from brands like Adidas and Puma can sometimes run slightly narrow. If you have wide feet, consider going half a size up or looking into Decathlon's standard fits.\n\nWhat kind of running do you plan to do (e.g., treadmill, outdoor road running, or daily gym use)?",
+  "citations": [
+   {
+    "url": "https://www.decathlon.in/c/men-running-shoes-25402#:~:text=Kalenji%20JOGFLOW%20190.1%20Run%20Men.%208.9k.%20%2B10.,Kalenji%20JOGFLOW%20100.1%20M%203.%2016.3k.%20%2B7.",
+    "source_name": "Decathlon",
+    "position": 1
+   },
+   {
+    "url": "https://www.decathlon.in/c/men-running-shoes-25402#:~:text=%E2%82%B92%2C499.%20MRP%20%E2%82%B93%2C249.%20Kalenji%20JOGFLOW%20100.1%20M,-%20Black.%207.0k.%20%2B4.%20%E2%82%B93%2C599.%20MRP%20%E2%82%B94%2C999.",
+    "source_name": "Decathlon",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "24.6214 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141302-2163-0629-0000-642dd68c12a4",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "24.3590 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:02:41 +00:00",
+      "markdown": "Finding a reliable pair of running shoes under ₹3,000 in India requires balancing durability, cushioning, and brand trust. While major global brands usually price their core running lineup higher, frequent online sales (Myntra, Flipkart, brand websites) and specialized budget lineups bring exceptional options right into this price bracket.\n\nTop-recommended running shoes under ₹3,000 in India span across trusted brands:\n\n---\n\n### 1. Adidas Duramo Series (Duramo SL / Duramo Speed variants on discount)\n\n* **Why buy them:** Adidas consistently offers some of the best entry-level performance running shoes. The Duramo line features lightweight mesh uppers for breathability and dependable midsole cushioning that absorbs impact well during daily jogs or 5K training.\n* **Best for:** Daily road running, gym workouts, and general fitness.\n* **Price Range:** Often drops to **₹2,200 – ₹3,000** during sales on Myntra or the official Adidas India online store.\n\n### 2. Decathlon Kalenji Jogflow Series (Jogflow 100.1 / Jogflow 190.1)\n\n* **Why buy them:** Decathlon is unmatched for pure value-and-durability in the budget segment. The Jogflow series is specifically designed for regular road runners (up to 10km to 20km a week), offering proprietary foam cushioning, great flexibility, and a secure fit without gimmicks.[www.decathlon.in](https://www.decathlon.in/c/men-running-shoes-25402#:~:text=Kalenji%20JOGFLOW%20190.1%20Run%20Men.%208.9k.%20%2B10.,Kalenji%20JOGFLOW%20100.1%20M%203.%2016.3k.%20%2B7.)\n* **Best for:** Beginners, casual joggers, and indoor treadmill running.\n* **Price Range:** **₹1,599 – ₹2,499** (Standard pricing, no sale needed).[www.decathlon.in](https://www.decathlon.in/c/men-running-shoes-25402#:~:text=%E2%82%B92%2C499.%20MRP%20%E2%82%B93%2C249.%20Kalenji%20JOGFLOW%20100.1%20M,-%20Black.%207.0k.%20%2B4.%20%E2%82%B93%2C599.%20MRP%20%E2%82%B94%2C999.)\n\n### 3. Puma Pro Series (Puma Conduct Pro / Galaxis Pro)\n\n* **Why buy them:** Puma offers aggressive styling paired with functional comfort. Models like the Conduct Pro or similar foam-cushioned variants provide a bouncy ride, decent grip, and a snug fit. They double up seamlessly as lifestyle sneakers.\n* **Best for:** Casual runners, gym-goers, and all-day casual wear.\n* **Price Range:** Frequently available between **₹2,000 – ₹3,000** on Myntra, Flipkart, and Amazon during promotional events.\n\n### 4. HRX by Hrithik Roshan (Performance Running Shoes)\n\n* **Why buy them:** Specifically tailored for the Indian market, HRX performance shoes offer specialized anti-skid rubber outsoles and breathable mesh. They focus heavily on lightweight structure and arch support.\n* **Best for:** Short-distance running, gym sessions, and daily walking.\n* **Price Range:** **₹1,500 – ₹2,500**.\n\n---\n\n### Quick Buying Tips for This Budget:\n\n* **Check the Outsole:** Look for rubber patches on the sole rather than pure foam. Pure foam soles wear out extremely fast on harsh Indian asphalt.\n* **Sizing:** Budget performance shoes from brands like Adidas and Puma can sometimes run slightly narrow. If you have wide feet, consider going half a size up or looking into Decathlon's standard fits.\n\nWhat kind of running do you plan to do (e.g., treadmill, outdoor road running, or daily gym use)?",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Buy Running Shoes for Men Online from Decathlon",
+        "snippet": "Kalenji JOGFLOW 190.1 Run Men. 8.9k. +10. ₹2,499. MRP ₹3,249. Kalenji Men \nRunning Shoes Superior Grip Cushioned Upto 20km/week, Jogflow 190.1 - \nBlack. 8.9k. +10...",
+        "domain": "www.decathlon.in",
+        "url": "https://www.decathlon.in/c/men-running-shoes-25402#:~:text=Kalenji%20JOGFLOW%20190.1%20Run%20Men.%208.9k.%20%2B10.,Kalenji%20JOGFLOW%20100.1%20M%203.%2016.3k.%20%2B7.",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ4DKY_gsmLfGGV9Q7mFTqRKDqVVAMA0NUqMPWuFGhSUoniQ_EHirCIltX1eSkpAteB4LKpIBZlrfHKeAMzac2Icv7MCN8XgFrfJOQ",
+        "source_name": "Decathlon",
+        "publication_date": null,
+        "markdown": "The Jogflow series is specifically designed for regular road runners (up to 10km to 20km a week), offering proprietary foam cushioning, great flexibility, and a secure fit without gimmicks."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Buy Running Shoes for Men Online from Decathlon",
+        "snippet": "₹2,499. MRP ₹3,249. Kalenji JOGFLOW 100.1 M 3. 16.3k. +7. ₹1,599. MRP \n₹2,099. Kalenji Men's running shoes with Carbon plate, Kiprun Kipstorm \nElite - Light yello...",
+        "domain": "www.decathlon.in",
+        "url": "https://www.decathlon.in/c/men-running-shoes-25402#:~:text=%E2%82%B92%2C499.%20MRP%20%E2%82%B93%2C249.%20Kalenji%20JOGFLOW%20100.1%20M,-%20Black.%207.0k.%20%2B4.%20%E2%82%B93%2C599.%20MRP%20%E2%82%B94%2C999.",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ4DKY_gsmLfGGV9Q7mFTqRKDqVVAMA0NUqMPWuFGhSUoniQ_EHirCIltX1eSkpAteB4LKpIBZlrfHKeAMzac2Icv7MCN8XgFrfJOQ",
+        "source_name": "Decathlon",
+        "publication_date": null,
+        "markdown": "**₹1,599 – ₹2,499** (Standard pricing, no sale needed)."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 13,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Finding a reliable pair of running shoes under ₹3,000 in India requires balancing durability, cushioning, and brand trust. While major global brands usually price their core running lineup higher, frequent online sales (Myntra, Flipkart, brand websites) and specialized budget lineups bring exceptional options right into this price bracket.",
+        "original_text": "Finding a reliable pair of running shoes under ₹3,000 in India requires balancing durability, cushioning, and brand trust. While major global brands usually price their core running lineup higher, frequent online sales (Myntra, Flipkart, brand websites) and specialized budget lineups bring exceptional options right into this price bracket.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Top-recommended running shoes under ₹3,000 in India span across trusted brands:",
+        "original_text": "Top-recommended running shoes under ₹3,000 in India span across trusted brands:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### 1. Adidas Duramo Series (Duramo SL / Duramo Speed variants on discount)",
+        "original_text": "1. Adidas Duramo Series (Duramo SL / Duramo Speed variants on discount)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Why buy them:** Adidas consistently offers some of the best entry-level performance running shoes. The Duramo line features lightweight mesh uppers for breathability and dependable midsole cushioning that absorbs impact well during daily jogs or 5K training.\n* **Best for:** Daily road running, gym workouts, and general fitness.\n* **Price Range:** Often drops to **₹2,200 – ₹3,000** during sales on Myntra or the official Adidas India online store.",
+        "original_text": "Why buy them: Adidas consistently offers some of the best entry-level performance running shoes. The Duramo line features lightweight mesh uppers for breathability and dependable midsole cushioning that absorbs impact well during daily jogs or 5K training.\nBest for: Daily road running, gym workouts, and general fitness.\nPrice Range: Often drops to ₹2,200 – ₹3,000 during sales on Myntra or the official Adidas India online store.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. Decathlon Kalenji Jogflow Series (Jogflow 100.1 / Jogflow 190.1)",
+        "original_text": "2. Decathlon Kalenji Jogflow Series (Jogflow 100.1 / Jogflow 190.1)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Why buy them:** Decathlon is unmatched for pure value-and-durability in the budget segment. The Jogflow series is specifically designed for regular road runners (up to 10km to 20km a week), offering proprietary foam cushioning, great flexibility, and a secure fit without gimmicks.[www.decathlon.in](https://www.decathlon.in/c/men-running-shoes-25402#:~:text=Kalenji%20JOGFLOW%20190.1%20Run%20Men.%208.9k.%20%2B10.,Kalenji%20JOGFLOW%20100.1%20M%203.%2016.3k.%20%2B7.)\n* **Best for:** Beginners, casual joggers, and indoor treadmill running.\n* **Price Range:** **₹1,599 – ₹2,499** (Standard pricing, no sale needed).[www.decathlon.in](https://www.decathlon.in/c/men-running-shoes-25402#:~:text=%E2%82%B92%2C499.%20MRP%20%E2%82%B93%2C249.%20Kalenji%20JOGFLOW%20100.1%20M,-%20Black.%207.0k.%20%2B4.%20%E2%82%B93%2C599.%20MRP%20%E2%82%B94%2C999.)",
+        "original_text": "Why buy them: Decathlon is unmatched for pure value-and-durability in the budget segment. The Jogflow series is specifically designed for regular road runners (up to 10km to 20km a week), offering proprietary foam cushioning, great flexibility, and a secure fit without gimmicks.\nBest for: Beginners, casual joggers, and indoor treadmill running.\nPrice Range: ₹1,599 – ₹2,499 (Standard pricing, no sale needed).",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Buy Running Shoes for Men Online from Decathlon",
+          "snippet": "Kalenji JOGFLOW 190.1 Run Men. 8.9k. +10. ₹2,499. MRP ₹3,249. Kalenji Men \nRunning Shoes Superior Grip Cushioned Upto 20km/week, Jogflow 190.1 - \nBlack. 8.9k. +10...",
+          "domain": "www.decathlon.in",
+          "url": "https://www.decathlon.in/c/men-running-shoes-25402#:~:text=Kalenji%20JOGFLOW%20190.1%20Run%20Men.%208.9k.%20%2B10.,Kalenji%20JOGFLOW%20100.1%20M%203.%2016.3k.%20%2B7.",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ4DKY_gsmLfGGV9Q7mFTqRKDqVVAMA0NUqMPWuFGhSUoniQ_EHirCIltX1eSkpAteB4LKpIBZlrfHKeAMzac2Icv7MCN8XgFrfJOQ",
+          "source_name": "Decathlon",
+          "publication_date": null,
+          "markdown": "The Jogflow series is specifically designed for regular road runners (up to 10km to 20km a week), offering proprietary foam cushioning, great flexibility, and a secure fit without gimmicks."
+         },
+         {
+          "type": "gemini_source",
+          "title": "Buy Running Shoes for Men Online from Decathlon",
+          "snippet": "₹2,499. MRP ₹3,249. Kalenji JOGFLOW 100.1 M 3. 16.3k. +7. ₹1,599. MRP \n₹2,099. Kalenji Men's running shoes with Carbon plate, Kiprun Kipstorm \nElite - Light yello...",
+          "domain": "www.decathlon.in",
+          "url": "https://www.decathlon.in/c/men-running-shoes-25402#:~:text=%E2%82%B92%2C499.%20MRP%20%E2%82%B93%2C249.%20Kalenji%20JOGFLOW%20100.1%20M,-%20Black.%207.0k.%20%2B4.%20%E2%82%B93%2C599.%20MRP%20%E2%82%B94%2C999.",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ4DKY_gsmLfGGV9Q7mFTqRKDqVVAMA0NUqMPWuFGhSUoniQ_EHirCIltX1eSkpAteB4LKpIBZlrfHKeAMzac2Icv7MCN8XgFrfJOQ",
+          "source_name": "Decathlon",
+          "publication_date": null,
+          "markdown": "**₹1,599 – ₹2,499** (Standard pricing, no sale needed)."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "### 3. Puma Pro Series (Puma Conduct Pro / Galaxis Pro)",
+        "original_text": "3. Puma Pro Series (Puma Conduct Pro / Galaxis Pro)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Why buy them:** Puma offers aggressive styling paired with functional comfort. Models like the Conduct Pro or similar foam-cushioned variants provide a bouncy ride, decent grip, and a snug fit. They double up seamlessly as lifestyle sneakers.\n* **Best for:** Casual runners, gym-goers, and all-day casual wear.\n* **Price Range:** Frequently available between **₹2,000 – ₹3,000** on Myntra, Flipkart, and Amazon during promotional events.",
+        "original_text": "Why buy them: Puma offers aggressive styling paired with functional comfort. Models like the Conduct Pro or similar foam-cushioned variants provide a bouncy ride, decent grip, and a snug fit. They double up seamlessly as lifestyle sneakers.\nBest for: Casual runners, gym-goers, and all-day casual wear.\nPrice Range: Frequently available between ₹2,000 – ₹3,000 on Myntra, Flipkart, and Amazon during promotional events.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### 4. HRX by Hrithik Roshan (Performance Running Shoes)",
+        "original_text": "4. HRX by Hrithik Roshan (Performance Running Shoes)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "* **Why buy them:** Specifically tailored for the Indian market, HRX performance shoes offer specialized anti-skid rubber outsoles and breathable mesh. They focus heavily on lightweight structure and arch support.\n* **Best for:** Short-distance running, gym sessions, and daily walking.\n* **Price Range:** **₹1,500 – ₹2,500**.",
+        "original_text": "Why buy them: Specifically tailored for the Indian market, HRX performance shoes offer specialized anti-skid rubber outsoles and breathable mesh. They focus heavily on lightweight structure and arch support.\nBest for: Short-distance running, gym sessions, and daily walking.\nPrice Range: ₹1,500 – ₹2,500.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "### Quick Buying Tips for This Budget:",
+        "original_text": "Quick Buying Tips for This Budget:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "* **Check the Outsole:** Look for rubber patches on the sole rather than pure foam. Pure foam soles wear out extremely fast on harsh Indian asphalt.\n* **Sizing:** Budget performance shoes from brands like Adidas and Puma can sometimes run slightly narrow. If you have wide feet, consider going half a size up or looking into Decathlon's standard fits.",
+        "original_text": "Check the Outsole: Look for rubber patches on the sole rather than pure foam. Pure foam soles wear out extremely fast on harsh Indian asphalt.\nSizing: Budget performance shoes from brands like Adidas and Puma can sometimes run slightly narrow. If you have wide feet, consider going half a size up or looking into Decathlon's standard fits.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "markdown": "What kind of running do you plan to do (e.g., treadmill, outdoor road running, or daily gym use)?",
+        "original_text": "What kind of running do you plan to do (e.g., treadmill, outdoor road running, or daily gym use)?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

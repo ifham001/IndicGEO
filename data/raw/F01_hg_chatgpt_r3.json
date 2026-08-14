@@ -1,0 +1,399 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 3,
+  "promptText": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+  "cellId": "F01_hg_chatgpt_r3",
+  "startedAt": "2026-08-14T12:41:02.321Z",
+  "finishedAt": "2026-08-14T12:42:14.345Z",
+  "durationMs": 72024,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Haan, **₹2,000 ke andar** India mein kaafi achhi branded jeans mil jaati hain. Mere hisaab se quality + fit + value ke liye ye ranking best rahegi:\n\n1. **Levi’s — Best overall** ⭐  \n   Sale mein 511/513/505 jaise models ₹1,300–₹1,900 ke aas-paas mil sakte hain. [Levi's 513 Slim Men Blue Jeans]() [Levi's 505 Straight Fit Men Mid Rise Jeans]()  \n   **Agar ek hi jeans leni hai, Levi’s meri first choice hai.** [www.ndtvshopping.com](https://www.ndtvshopping.com/fashion/top-levis-jeans-for-men-under-2000-9201855?utm_source=chatgpt.com)\n\n2. **Pepe Jeans — Best stylish option**  \n   Sale mein ₹1,350–₹1,900 tak achhe straight/slim fits mil rahe hain. [Pepe Jeans Men's Holborne Mid Rise Straight Jeans]() [Pepe Jeans Men's Straight Fit Jeans]() [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)\n\n3. **Lee — Best comfort + classic look**  \n   Lee Travis Slim jaise options ₹1,650 ke aas-paas mil rahe hain. [Lee Men's Travis Slim Jeans]()\n\n4. **H&M — Best modern/relaxed fit**  \n   Regular aur relaxed jeans ₹1,400–₹2,000 range mein available hain. [Men H&M Regular Jeans At NykaaMan]() [H&M Men's Relaxed Jeans]()\n\n5. **Flying Machine — Best budget branded**  \n   ₹1,000–₹1,500 ke around mil jaati hai; daily/college wear ke liye achhi value. [Flying Machine Men's Jackson Skinny Fit Jeans]() [magicpin.in](https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com)\n\n6. **Roadster — Cheapest decent option**  \n   ₹700–₹1,000 ke range mein kaafi options milte hain. [The Roadster Life Co. Men's Slim Fit Stretchable Jeans]() [zoutons.com](https://zoutons.com/news/best-branded-jeans-ajio-under-1500?utm_source=chatgpt.com)\n\n**Meri short recommendation:**  \n- 👑 **Quality:** Levi’s  \n- 😎 **Style:** Pepe Jeans  \n- 👖 **Comfort:** Lee  \n- 💰 **₹1,000 ke andar:** Flying Machine / Roadster  \n- 🔥 **Trendy loose/relaxed look:** H&M\n\nAgar tum **apni height, weight aur waist size** bata do (jaise **5'8\", 70 kg, 32 waist**), main tumhare body type ke hisaab se **exact fit — slim, straight, relaxed ya tapered — aur 3–5 best jeans** choose kar dunga.",
+  "citations": [
+   {
+    "url": "https://www.ndtvshopping.com/fashion/top-levis-jeans-for-men-under-2000-9201855?utm_source=chatgpt.com",
+    "source_name": "NDTV Shopping",
+    "position": 1
+   },
+   {
+    "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+    "source_name": "Pepe Jeans",
+    "position": 2
+   },
+   {
+    "url": "https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com",
+    "source_name": "magicpin.in",
+    "position": 3
+   },
+   {
+    "url": "https://zoutons.com/news/best-branded-jeans-ajio-under-1500?utm_source=chatgpt.com",
+    "source_name": "zoutons.com",
+    "position": 4
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "71.0180 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141241-2163-0629-0000-8e17cf1f1388",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "69.6535 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=India%20mein%202000%20rupees%20ke%20andar%20men%20ke%20liye%20konse%20brand%20ki%20jeans%20kharidni%20chahiye%3F&hints=search",
+      "datetime": "2026-08-14 12:42:12 +00:00",
+      "markdown": "Haan, **₹2,000 ke andar** India mein kaafi achhi branded jeans mil jaati hain. Mere hisaab se quality + fit + value ke liye ye ranking best rahegi:\n\n1. **Levi’s — Best overall** ⭐  \n   Sale mein 511/513/505 jaise models ₹1,300–₹1,900 ke aas-paas mil sakte hain. [Levi's 513 Slim Men Blue Jeans]() [Levi's 505 Straight Fit Men Mid Rise Jeans]()  \n   **Agar ek hi jeans leni hai, Levi’s meri first choice hai.** [www.ndtvshopping.com](https://www.ndtvshopping.com/fashion/top-levis-jeans-for-men-under-2000-9201855?utm_source=chatgpt.com)\n\n2. **Pepe Jeans — Best stylish option**  \n   Sale mein ₹1,350–₹1,900 tak achhe straight/slim fits mil rahe hain. [Pepe Jeans Men's Holborne Mid Rise Straight Jeans]() [Pepe Jeans Men's Straight Fit Jeans]() [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)\n\n3. **Lee — Best comfort + classic look**  \n   Lee Travis Slim jaise options ₹1,650 ke aas-paas mil rahe hain. [Lee Men's Travis Slim Jeans]()\n\n4. **H&M — Best modern/relaxed fit**  \n   Regular aur relaxed jeans ₹1,400–₹2,000 range mein available hain. [Men H&M Regular Jeans At NykaaMan]() [H&M Men's Relaxed Jeans]()\n\n5. **Flying Machine — Best budget branded**  \n   ₹1,000–₹1,500 ke around mil jaati hai; daily/college wear ke liye achhi value. [Flying Machine Men's Jackson Skinny Fit Jeans]() [magicpin.in](https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com)\n\n6. **Roadster — Cheapest decent option**  \n   ₹700–₹1,000 ke range mein kaafi options milte hain. [The Roadster Life Co. Men's Slim Fit Stretchable Jeans]() [zoutons.com](https://zoutons.com/news/best-branded-jeans-ajio-under-1500?utm_source=chatgpt.com)\n\n**Meri short recommendation:**  \n- 👑 **Quality:** Levi’s  \n- 😎 **Style:** Pepe Jeans  \n- 👖 **Comfort:** Lee  \n- 💰 **₹1,000 ke andar:** Flying Machine / Roadster  \n- 🔥 **Trendy loose/relaxed look:** H&M\n\nAgar tum **apni height, weight aur waist size** bata do (jaise **5'8\", 70 kg, 32 waist**), main tumhare body type ke hisaab se **exact fit — slim, straight, relaxed ya tapered — aur 3–5 best jeans** choose kar dunga.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.myntra.com/men-jeans-under-1999?utm_source=chatgpt.com",
+        "domain": "www.myntra.com",
+        "title": "Men Jeans Under 1999 - Buy Men Jeans Under 1999 online in India",
+        "description": "MEN JEANS UNDER 1999  - 62952 items  FILTERS  Brand  [Input: Search for Brand]  * [Input]Roadster(2698)  * [Input]SPYKAR(1992)  * [Input]Flying Machine(1929)  * [Input]StyleCast(1632)  * [Input]WROGN...",
+        "breadcrumb": "myntra.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://etadviser.com/lifestyle/6-best-jeans-for-men-under-2000-in-india-to-look-effortlessly-stylish/articleshow/101220271.cms?utm_source=chatgpt.com",
+        "domain": "etadviser.com",
+        "title": "Jeans for Men Under 2000: 6 Best Jeans for Men Under 2000 in India to Look Effortlessly Stylish - ET Adviser",
+        "description": "HomeLifestyle6 Best Jeans for Men Under 2000 in India to Look Effortlessly Stylish  6 BEST JEANS FOR MEN UNDER 2000 IN INDIA TO LOOK EFFORTLESSLY STYLISH  Team ProductLine Last Updated: Jun 23, 2023,...",
+        "breadcrumb": "etadviser.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://etadviser.com/lifestyle/best-jeans-for-men-under-2000-premium-materials-and-comfort/articleshow/111264189.cms?utm_source=chatgpt.com",
+        "domain": "etadviser.com",
+        "title": "best jeans under 2000: Best Jeans for Men Under 2000: Premium Materials and Great Comfort - ET Adviser",
+        "description": "BEST JEANS FOR MEN UNDER 2000: PREMIUM MATERIALS AND GREAT COMFORT  Team ProductLine Last Updated: Jun 25, 2024, 07:55:31 PM IST   SYNOPSIS  Discover the best jeans for men under ₹2000 in our latest...",
+        "breadcrumb": "etadviser.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.fashioncronical.com/top-10-jeans-brands-for-men-in-india/?utm_source=chatgpt.com",
+        "domain": "www.fashioncronical.com",
+        "title": "Top 10 Jeans Brands for Men in India",
+        "description": "TOP 10 JEANS BRANDS FOR MEN IN INDIA (2026) – BEST STYLISH & AFFORDABLE PICKS  * Krishna Verma * March 25, 2026  Jeans are no longer just a basic wardrobe essential—they’ve become a style statement f...",
+        "breadcrumb": "fashioncronical.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicpin.com/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com",
+        "domain": "magicpin.com",
+        "title": "Top 14 Jeans Brands for Men in India (July 2026): Levi's, Wrangler, Pepe & More | magicpin blog",
+        "description": "MID TIER (RS 2,000-RS 4,000): THE EVERYDAY WORKHORSES  6. WRANGLER  Image: Wrangler jeans for menWrangler jeans for men  Wrangler in May 2026 is in an interesting spot in India - heritage Western bran...",
+        "breadcrumb": "magicpin.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.lifestylestores.com/in/en/c/men-bottoms-jeans/?utm_source=chatgpt.com",
+        "domain": "www.lifestylestores.com",
+        "title": "Jeans for Men: Buy Men Jeans Online | Lifestyle Stores",
+        "description": "1. Home 2.   3. Men 4.   5. Bottomwear 6.   7. Jeans  New  ₹  1,299  DENIMIZE Washed Regular Straight Jeans  New Buy 1 Get 1 30% OFF  ₹  2,659  ₹4,199  LEVI'S Solid Mid-Rise Regular Straight Jeans  N...",
+        "breadcrumb": "lifestylestores.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ndtvshopping.com/fashion/levis-to-pepe-best-jeans-under-2000-on-flipkart-goat-sale-8860006?utm_source=chatgpt.com",
+        "domain": "www.ndtvshopping.com",
+        "title": "Levi&#039;s To Pepe, Best Jeans Under 2000 On Flipkart GOAT Sale - NDTV Shopping",
+        "description": "LEVI'S TO PEPE, 5 BEST JEANS DEALS ON FLIPKART GOAT SALE: GET 65% TO 80% OFF  UPGRADE YOUR WARDROBE WITH HIGH-QUALITY JEANS THAT OFFER GREAT FIT, COMFORT, AND LONG-LASTING STYLE ALL AT UNBEATABLE PRI...",
+        "breadcrumb": "ndtvshopping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://toireviews.com/hot-picks/best-jeans-for-men-from-classic-to-contemporary/articleshow/109711011.cms?utm_source=chatgpt.com",
+        "domain": "toireviews.com",
+        "title": "Jeans For Men: Best Jeans For Men From Classic to Contemporary | - The Times Reviews",
+        "description": "The best jeans for men mix quality, comfort, and style seamlessly, whether they embrace modern denim trends or stick to the tried-and-true classics. The possibilities are as varied as the personalitie...",
+        "breadcrumb": "toireviews.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Top 5 Levis Jeans for Men Under 2000 - NDTV Shopping",
+        "snippet": null,
+        "domain": "www.ndtvshopping.com",
+        "url": "https://www.ndtvshopping.com/fashion/top-levis-jeans-for-men-under-2000-9201855?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "NDTV Shopping",
+        "publication_date": "2025-08-31 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+        "snippet": null,
+        "domain": "www.pepejeans.in",
+        "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Pepe Jeans",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Top 14 Jeans Brands for Men in India (July 2026): Levi's, Wrangler, Pepe & More | magicpin blog",
+        "snippet": null,
+        "domain": "magicpin.in",
+        "url": "https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "magicpin.in",
+        "publication_date": "2026-07-01 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "10 Best Branded Jeans on AJIO Under Rs. 1,500 for Men & Women (2026)",
+        "snippet": null,
+        "domain": "zoutons.com",
+        "url": "https://zoutons.com/news/best-branded-jeans-ajio-under-1500?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "zoutons.com",
+        "publication_date": "2026-06-24 00:00:00 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best men's jeans brands under 2000 India Levi's Lee Wrangler Pepe Jeans Flying Machine"
+      ],
+      "brand_entities": [
+       {
+        "type": "chat_gpt_brand_entity",
+        "title": "Levi's 513 Slim Men Blue Jeans",
+        "category": "product",
+        "markdown": "[Levi's 513 Slim Men Blue Jeans]()",
+        "urls": null
+       },
+       {
+        "type": "chat_gpt_brand_entity",
+        "title": "Levi's 505 Straight Fit Men Mid Rise Jeans",
+        "category": "product",
+        "markdown": "[Levi's 505 Straight Fit Men Mid Rise Jeans]()",
+        "urls": null
+       },
+       {
+        "type": "chat_gpt_brand_entity",
+        "title": "Pepe Jeans Men's Holborne Mid Rise Straight Jeans",
+        "category": "product",
+        "markdown": "[Pepe Jeans Men's Holborne Mid Rise Straight Jeans]()",
+        "urls": null
+       },
+       {
+        "type": "chat_gpt_brand_entity",
+        "title": "Pepe Jeans Men's Straight Fit Jeans",
+        "category": "product",
+        "markdown": "[Pepe Jeans Men's Straight Fit Jeans]()",
+        "urls": null
+       },
+       {
+        "type": "chat_gpt_brand_entity",
+        "title": "Lee Men's Travis Slim Jeans",
+        "category": "product",
+        "markdown": "[Lee Men's Travis Slim Jeans]()",
+        "urls": null
+       },
+       {
+        "type": "chat_gpt_brand_entity",
+        "title": "Men H&M Regular Jeans At NykaaMan",
+        "category": "product",
+        "markdown": "[Men H&M Regular Jeans At NykaaMan]()",
+        "urls": null
+       },
+       {
+        "type": "chat_gpt_brand_entity",
+        "title": "H&M Men's Relaxed Jeans",
+        "category": "product",
+        "markdown": "[H&M Men's Relaxed Jeans]()",
+        "urls": null
+       },
+       {
+        "type": "chat_gpt_brand_entity",
+        "title": "Flying Machine Men's Jackson Skinny Fit Jeans",
+        "category": "product",
+        "markdown": "[Flying Machine Men's Jackson Skinny Fit Jeans]()",
+        "urls": null
+       },
+       {
+        "type": "chat_gpt_brand_entity",
+        "title": "The Roadster Life Co. Men's Slim Fit Stretchable Jeans",
+        "category": "product",
+        "markdown": "[The Roadster Life Co. Men's Slim Fit Stretchable Jeans]()",
+        "urls": null
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text"
+      ],
+      "items_count": 1,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Haan, **₹2,000 ke andar** India mein kaafi achhi branded jeans mil jaati hain. Mere hisaab se quality + fit + value ke liye ye ranking best rahegi:\n\n1. **Levi’s — Best overall** ⭐  \n   Sale mein 511/513/505 jaise models ₹1,300–₹1,900 ke aas-paas mil sakte hain. [Levi's 513 Slim Men Blue Jeans]() [Levi's 505 Straight Fit Men Mid Rise Jeans]()  \n   **Agar ek hi jeans leni hai, Levi’s meri first choice hai.** [www.ndtvshopping.com](https://www.ndtvshopping.com/fashion/top-levis-jeans-for-men-under-2000-9201855?utm_source=chatgpt.com)\n\n2. **Pepe Jeans — Best stylish option**  \n   Sale mein ₹1,350–₹1,900 tak achhe straight/slim fits mil rahe hain. [Pepe Jeans Men's Holborne Mid Rise Straight Jeans]() [Pepe Jeans Men's Straight Fit Jeans]() [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)\n\n3. **Lee — Best comfort + classic look**  \n   Lee Travis Slim jaise options ₹1,650 ke aas-paas mil rahe hain. [Lee Men's Travis Slim Jeans]()\n\n4. **H&M — Best modern/relaxed fit**  \n   Regular aur relaxed jeans ₹1,400–₹2,000 range mein available hain. [Men H&M Regular Jeans At NykaaMan]() [H&M Men's Relaxed Jeans]()\n\n5. **Flying Machine — Best budget branded**  \n   ₹1,000–₹1,500 ke around mil jaati hai; daily/college wear ke liye achhi value. [Flying Machine Men's Jackson Skinny Fit Jeans]() [magicpin.in](https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com)\n\n6. **Roadster — Cheapest decent option**  \n   ₹700–₹1,000 ke range mein kaafi options milte hain. [The Roadster Life Co. Men's Slim Fit Stretchable Jeans]() [zoutons.com](https://zoutons.com/news/best-branded-jeans-ajio-under-1500?utm_source=chatgpt.com)\n\n**Meri short recommendation:**  \n- 👑 **Quality:** Levi’s  \n- 😎 **Style:** Pepe Jeans  \n- 👖 **Comfort:** Lee  \n- 💰 **₹1,000 ke andar:** Flying Machine / Roadster  \n- 🔥 **Trendy loose/relaxed look:** H&M\n\nAgar tum **apni height, weight aur waist size** bata do (jaise **5'8\", 70 kg, 32 waist**), main tumhare body type ke hisaab se **exact fit — slim, straight, relaxed ya tapered — aur 3–5 best jeans** choose kar dunga.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Top 5 Levis Jeans for Men Under 2000 - NDTV Shopping",
+          "snippet": null,
+          "domain": "www.ndtvshopping.com",
+          "url": "https://www.ndtvshopping.com/fashion/top-levis-jeans-for-men-under-2000-9201855?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "NDTV Shopping",
+          "publication_date": "2025-08-31 00:00:00 +00:00",
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+          "snippet": null,
+          "domain": "www.pepejeans.in",
+          "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Pepe Jeans",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Top 14 Jeans Brands for Men in India (July 2026): Levi's, Wrangler, Pepe & More | magicpin blog",
+          "snippet": null,
+          "domain": "magicpin.in",
+          "url": "https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "magicpin.in",
+          "publication_date": "2026-07-01 00:00:00 +00:00",
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "10 Best Branded Jeans on AJIO Under Rs. 1,500 for Men & Women (2026)",
+          "snippet": null,
+          "domain": "zoutons.com",
+          "url": "https://zoutons.com/news/best-branded-jeans-ajio-under-1500?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "zoutons.com",
+          "publication_date": "2026-06-24 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": [
+         {
+          "type": "chat_gpt_brand_entity",
+          "title": "Levi's 513 Slim Men Blue Jeans",
+          "category": "product",
+          "markdown": "[Levi's 513 Slim Men Blue Jeans]()",
+          "urls": null
+         },
+         {
+          "type": "chat_gpt_brand_entity",
+          "title": "Levi's 505 Straight Fit Men Mid Rise Jeans",
+          "category": "product",
+          "markdown": "[Levi's 505 Straight Fit Men Mid Rise Jeans]()",
+          "urls": null
+         },
+         {
+          "type": "chat_gpt_brand_entity",
+          "title": "Pepe Jeans Men's Holborne Mid Rise Straight Jeans",
+          "category": "product",
+          "markdown": "[Pepe Jeans Men's Holborne Mid Rise Straight Jeans]()",
+          "urls": null
+         },
+         {
+          "type": "chat_gpt_brand_entity",
+          "title": "Pepe Jeans Men's Straight Fit Jeans",
+          "category": "product",
+          "markdown": "[Pepe Jeans Men's Straight Fit Jeans]()",
+          "urls": null
+         },
+         {
+          "type": "chat_gpt_brand_entity",
+          "title": "Lee Men's Travis Slim Jeans",
+          "category": "product",
+          "markdown": "[Lee Men's Travis Slim Jeans]()",
+          "urls": null
+         },
+         {
+          "type": "chat_gpt_brand_entity",
+          "title": "Men H&M Regular Jeans At NykaaMan",
+          "category": "product",
+          "markdown": "[Men H&M Regular Jeans At NykaaMan]()",
+          "urls": null
+         },
+         {
+          "type": "chat_gpt_brand_entity",
+          "title": "H&M Men's Relaxed Jeans",
+          "category": "product",
+          "markdown": "[H&M Men's Relaxed Jeans]()",
+          "urls": null
+         },
+         {
+          "type": "chat_gpt_brand_entity",
+          "title": "Flying Machine Men's Jackson Skinny Fit Jeans",
+          "category": "product",
+          "markdown": "[Flying Machine Men's Jackson Skinny Fit Jeans]()",
+          "urls": null
+         },
+         {
+          "type": "chat_gpt_brand_entity",
+          "title": "The Roadster Life Co. Men's Slim Fit Stretchable Jeans",
+          "category": "product",
+          "markdown": "[The Roadster Life Co. Men's Slim Fit Stretchable Jeans]()",
+          "urls": null
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

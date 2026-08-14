@@ -1,0 +1,280 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S01",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 2,
+  "promptText": "Which face wash should I buy for oily skin in India under ₹500?",
+  "cellId": "S01_en_gemini_r2",
+  "startedAt": "2026-08-14T12:51:51.910Z",
+  "finishedAt": "2026-08-14T12:52:40.036Z",
+  "durationMs": 48126,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "When looking for a face wash for oily skin in India under ₹500, the best options focus on ingredients like **Salicylic Acid (BHA)**, **Niacinamide**, or **Green Tea** to help control excess oil, clear pores, and prevent breakouts without stripping your skin's natural moisture.[sixamglow.com](https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Before%20you%20buy%20oily%20skin,oil%20production%20and%20soothes%20inflammation.)\n\nHere are some of the top-rated, budget-friendly options widely available in India:\n\n---\n\n### Top Face Washes for Oily Skin Under ₹500\n\n| Brand & Product | Key Ingredients | Estimated Price (INR) | Why It’s Great for Oily Skin |\n| :--- | :--- | :--- | :--- |\n| **Minimalist 2% Salicylic Acid + LHA Cleanser** | Salicylic Acid, LHA, Zinc | ~₹299 | Deeply penetrates pores to dissolve excess sebum and reduce pimples without being overly harsh. |\n| **Plum Green Tea Pore Cleansing Face Wash** | Green Tea, Glycolic Acid | ~₹319 - ₹380 | Gently exfoliates dead skin cells, fights acne-causing bacteria, and leaves a refreshing, non-greasy feel. |\n| **The Derma Co. 2% Salicylic Acid Face Wash** | Salicylic Acid, Witch Hazel | ~₹299 | Targets active acne, tightens pores, and controls oil production effectively. |\n| **Pilgrim Tea Tree Purifying Foaming Face Wash** | Tea Tree, Salicylic Acid | ~₹175 | Offers built-in foaming convenience with natural antibacterial tea tree oil to manage oiliness. |\n| **Dot & Key Cica Calming Blemish Clearing Gel Face Wash** | Salicylic Acid, Cica, Green Tea | ~₹214 - ₹249 | Great if your oily skin is also sensitive or prone to redness and irritation. |\n\n---\n\n### Quick Tips for Oily Skin\n\n* **Look for Gel or Foaming Textures:** These formats work best to lift away excess oil and grime compared to thick, cream-based cleansers.[sixamglow.com](https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Why%20a%20Foaming%20Cleanser%20is,trapped%20deep%20within%20your%20pores.)\n* **Don't Over-Wash:** Cleansing twice a day (morning and night) is plenty.[sixamglow.com](https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Q1%3A%20How%20often%20should%20I,cleanser%20make%20my%20skin%20dry%3F) Washing too frequently can trick your skin into producing even *more* oil to compensate for dryness.\n* **Follow up with Moisture:** Even oily skin needs hydration.[sixamglow.com](https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=A%3A%20Yes%2C%20most%20over-,doesn't%20require%20expensive%20treatments.) Pair your cleanser with a lightweight, oil-free, or gel-based moisturizer to keep your skin barrier balanced.",
+  "citations": [
+   {
+    "url": "https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Before%20you%20buy%20oily%20skin,oil%20production%20and%20soothes%20inflammation.",
+    "source_name": null,
+    "position": 1
+   },
+   {
+    "url": "https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Why%20a%20Foaming%20Cleanser%20is,trapped%20deep%20within%20your%20pores.",
+    "source_name": null,
+    "position": 2
+   },
+   {
+    "url": "https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Q1%3A%20How%20often%20should%20I,cleanser%20make%20my%20skin%20dry%3F",
+    "source_name": null,
+    "position": 3
+   },
+   {
+    "url": "https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=A%3A%20Yes%2C%20most%20over-,doesn't%20require%20expensive%20treatments.",
+    "source_name": null,
+    "position": 4
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "47.9077 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141251-2163-0629-0000-3b7ebeb4d3b0",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "47.8954 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Which face wash should I buy for oily skin in India under ₹500?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which face wash should I buy for oily skin in India under ₹500?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:52:38 +00:00",
+      "markdown": "When looking for a face wash for oily skin in India under ₹500, the best options focus on ingredients like **Salicylic Acid (BHA)**, **Niacinamide**, or **Green Tea** to help control excess oil, clear pores, and prevent breakouts without stripping your skin's natural moisture.[sixamglow.com](https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Before%20you%20buy%20oily%20skin,oil%20production%20and%20soothes%20inflammation.)\n\nHere are some of the top-rated, budget-friendly options widely available in India:\n\n---\n\n### Top Face Washes for Oily Skin Under ₹500\n\n| Brand & Product | Key Ingredients | Estimated Price (INR) | Why It’s Great for Oily Skin |\n| :--- | :--- | :--- | :--- |\n| **Minimalist 2% Salicylic Acid + LHA Cleanser** | Salicylic Acid, LHA, Zinc | ~₹299 | Deeply penetrates pores to dissolve excess sebum and reduce pimples without being overly harsh. |\n| **Plum Green Tea Pore Cleansing Face Wash** | Green Tea, Glycolic Acid | ~₹319 - ₹380 | Gently exfoliates dead skin cells, fights acne-causing bacteria, and leaves a refreshing, non-greasy feel. |\n| **The Derma Co. 2% Salicylic Acid Face Wash** | Salicylic Acid, Witch Hazel | ~₹299 | Targets active acne, tightens pores, and controls oil production effectively. |\n| **Pilgrim Tea Tree Purifying Foaming Face Wash** | Tea Tree, Salicylic Acid | ~₹175 | Offers built-in foaming convenience with natural antibacterial tea tree oil to manage oiliness. |\n| **Dot & Key Cica Calming Blemish Clearing Gel Face Wash** | Salicylic Acid, Cica, Green Tea | ~₹214 - ₹249 | Great if your oily skin is also sensitive or prone to redness and irritation. |\n\n---\n\n### Quick Tips for Oily Skin\n\n* **Look for Gel or Foaming Textures:** These formats work best to lift away excess oil and grime compared to thick, cream-based cleansers.[sixamglow.com](https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Why%20a%20Foaming%20Cleanser%20is,trapped%20deep%20within%20your%20pores.)\n* **Don't Over-Wash:** Cleansing twice a day (morning and night) is plenty.[sixamglow.com](https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Q1%3A%20How%20often%20should%20I,cleanser%20make%20my%20skin%20dry%3F) Washing too frequently can trick your skin into producing even *more* oil to compensate for dryness.\n* **Follow up with Moisture:** Even oily skin needs hydration.[sixamglow.com](https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=A%3A%20Yes%2C%20most%20over-,doesn't%20require%20expensive%20treatments.) Pair your cleanser with a lightweight, oil-free, or gel-based moisturizer to keep your skin barrier balanced.",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Top 7 Foaming Cleansers for Oily Skin Under ₹500 in India - sixam glow",
+        "snippet": "Before you buy oily skin cleanser products, check the label for these \npowerhouse ingredients: Salicylic Acid: A BHA that dissolves dead skin \ncells and unclogs ...",
+        "domain": "sixamglow.com",
+        "url": "https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Before%20you%20buy%20oily%20skin,oil%20production%20and%20soothes%20inflammation.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSsCSqHiXA2ukfbOqNFYiyDrqYogf5Aen0m7pgLknljgefIOlgNnJX_wIgv92WzZg71vErZyjT1Nq417rkApBzFQPkqoj6SYQ",
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "When looking for a face wash for oily skin in India under ₹500, the best options focus on ingredients like **Salicylic Acid (BHA)**, **Niacinamide**, or **Green Tea** to help control excess oil, clear pores, and prevent breakouts without stripping your skin's natural moisture."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Top 7 Foaming Cleansers for Oily Skin Under ₹500 in India - sixam glow",
+        "snippet": "Why a Foaming Cleanser is the Ultimate Choice for Oily Skin. When it comes \nto managing excess sebum, a foaming cleanser oily skin formula is often \nhighly ...",
+        "domain": "sixamglow.com",
+        "url": "https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Why%20a%20Foaming%20Cleanser%20is,trapped%20deep%20within%20your%20pores.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSsCSqHiXA2ukfbOqNFYiyDrqYogf5Aen0m7pgLknljgefIOlgNnJX_wIgv92WzZg71vErZyjT1Nq417rkApBzFQPkqoj6SYQ",
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "* **Look for Gel or Foaming Textures:** These formats work best to lift away excess oil and grime compared to thick, cream-based cleansers."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Top 7 Foaming Cleansers for Oily Skin Under ₹500 in India - sixam glow",
+        "snippet": "Q1: How often should I use a foaming cleanser for oily skin? A: \nDermatologists recommend washing your face twice daily, once in the morning \nto remove overnight ...",
+        "domain": "sixamglow.com",
+        "url": "https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Q1%3A%20How%20often%20should%20I,cleanser%20make%20my%20skin%20dry%3F",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSsCSqHiXA2ukfbOqNFYiyDrqYogf5Aen0m7pgLknljgefIOlgNnJX_wIgv92WzZg71vErZyjT1Nq417rkApBzFQPkqoj6SYQ",
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "* **Don't Over-Wash:** Cleansing twice a day (morning and night) is plenty."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Top 7 Foaming Cleansers for Oily Skin Under ₹500 in India - sixam glow",
+        "snippet": "A: Yes, most over-the-counter salicylic acid cleansers (typically 1-2% \nconcentration) are formulated for daily use, provided you follow up with a \nsuitable ...",
+        "domain": "sixamglow.com",
+        "url": "https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=A%3A%20Yes%2C%20most%20over-,doesn't%20require%20expensive%20treatments.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSsCSqHiXA2ukfbOqNFYiyDrqYogf5Aen0m7pgLknljgefIOlgNnJX_wIgv92WzZg71vErZyjT1Nq417rkApBzFQPkqoj6SYQ",
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "* **Follow up with Moisture:** Even oily skin needs hydration."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 6,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "When looking for a face wash for oily skin in India under ₹500, the best options focus on ingredients like **Salicylic Acid (BHA)**, **Niacinamide**, or **Green Tea** to help control excess oil, clear pores, and prevent breakouts without stripping your skin's natural moisture.[sixamglow.com](https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Before%20you%20buy%20oily%20skin,oil%20production%20and%20soothes%20inflammation.)",
+        "original_text": "When looking for a face wash for oily skin in India under ₹500, the best options focus on ingredients like Salicylic Acid (BHA), Niacinamide, or Green Tea to help control excess oil, clear pores, and prevent breakouts without stripping your skin's natural moisture.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Top 7 Foaming Cleansers for Oily Skin Under ₹500 in India - sixam glow",
+          "snippet": "Before you buy oily skin cleanser products, check the label for these \npowerhouse ingredients: Salicylic Acid: A BHA that dissolves dead skin \ncells and unclogs ...",
+          "domain": "sixamglow.com",
+          "url": "https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Before%20you%20buy%20oily%20skin,oil%20production%20and%20soothes%20inflammation.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSsCSqHiXA2ukfbOqNFYiyDrqYogf5Aen0m7pgLknljgefIOlgNnJX_wIgv92WzZg71vErZyjT1Nq417rkApBzFQPkqoj6SYQ",
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "When looking for a face wash for oily skin in India under ₹500, the best options focus on ingredients like **Salicylic Acid (BHA)**, **Niacinamide**, or **Green Tea** to help control excess oil, clear pores, and prevent breakouts without stripping your skin's natural moisture."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Here are some of the top-rated, budget-friendly options widely available in India:",
+        "original_text": "Here are some of the top-rated, budget-friendly options widely available in India:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### Top Face Washes for Oily Skin Under ₹500",
+        "original_text": "Top Face Washes for Oily Skin Under ₹500",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "markdown": "| Brand & Product | Key Ingredients | Estimated Price (INR) | Why It’s Great for Oily Skin |\n| :--- | :--- | :--- | :--- |\n| **Minimalist 2% Salicylic Acid + LHA Cleanser** | Salicylic Acid, LHA, Zinc | ~₹299 | Deeply penetrates pores to dissolve excess sebum and reduce pimples without being overly harsh. |\n| **Plum Green Tea Pore Cleansing Face Wash** | Green Tea, Glycolic Acid | ~₹319 - ₹380 | Gently exfoliates dead skin cells, fights acne-causing bacteria, and leaves a refreshing, non-greasy feel. |\n| **The Derma Co. 2% Salicylic Acid Face Wash** | Salicylic Acid, Witch Hazel | ~₹299 | Targets active acne, tightens pores, and controls oil production effectively. |\n| **Pilgrim Tea Tree Purifying Foaming Face Wash** | Tea Tree, Salicylic Acid | ~₹175 | Offers built-in foaming convenience with natural antibacterial tea tree oil to manage oiliness. |\n| **Dot & Key Cica Calming Blemish Clearing Gel Face Wash** | Salicylic Acid, Cica, Green Tea | ~₹214 - ₹249 | Great if your oily skin is also sensitive or prone to redness and irritation. |",
+        "original_text": "Brand & Product\tKey Ingredients\tEstimated Price (INR)\tWhy It’s Great for Oily Skin\nMinimalist 2% Salicylic Acid + LHA Cleanser\tSalicylic Acid, LHA, Zinc\t~₹299\tDeeply penetrates pores to dissolve excess sebum and reduce pimples without being overly harsh.\nPlum Green Tea Pore Cleansing Face Wash\tGreen Tea, Glycolic Acid\t~₹319 - ₹380\tGently exfoliates dead skin cells, fights acne-causing bacteria, and leaves a refreshing, non-greasy feel.\nThe Derma Co. 2% Salicylic Acid Face Wash\tSalicylic Acid, Witch Hazel\t~₹299\tTargets active acne, tightens pores, and controls oil production effectively.\nPilgrim Tea Tree Purifying Foaming Face Wash\tTea Tree, Salicylic Acid\t~₹175\tOffers built-in foaming convenience with natural antibacterial tea tree oil to manage oiliness.\nDot & Key Cica Calming Blemish Clearing Gel Face Wash\tSalicylic Acid, Cica, Green Tea\t~₹214 - ₹249\tGreat if your oily skin is also sensitive or prone to redness and irritation.",
+        "table": {
+         "table_header": [
+          "Brand & Product",
+          "Key Ingredients",
+          "Estimated Price (INR)",
+          "Why It’s Great for Oily Skin"
+         ],
+         "table_content": [
+          [
+           "Minimalist 2% Salicylic Acid + LHA Cleanser",
+           "Salicylic Acid, LHA, Zinc",
+           "~₹299",
+           "Deeply penetrates pores to dissolve excess sebum and reduce pimples without being overly harsh."
+          ],
+          [
+           "Plum Green Tea Pore Cleansing Face Wash",
+           "Green Tea, Glycolic Acid",
+           "~₹319 - ₹380",
+           "Gently exfoliates dead skin cells, fights acne-causing bacteria, and leaves a refreshing, non-greasy feel."
+          ],
+          [
+           "The Derma Co. 2% Salicylic Acid Face Wash",
+           "Salicylic Acid, Witch Hazel",
+           "~₹299",
+           "Targets active acne, tightens pores, and controls oil production effectively."
+          ],
+          [
+           "Pilgrim Tea Tree Purifying Foaming Face Wash",
+           "Tea Tree, Salicylic Acid",
+           "~₹175",
+           "Offers built-in foaming convenience with natural antibacterial tea tree oil to manage oiliness."
+          ],
+          [
+           "Dot & Key Cica Calming Blemish Clearing Gel Face Wash",
+           "Salicylic Acid, Cica, Green Tea",
+           "~₹214 - ₹249",
+           "Great if your oily skin is also sensitive or prone to redness and irritation."
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "markdown": "### Quick Tips for Oily Skin",
+        "original_text": "Quick Tips for Oily Skin",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "markdown": "* **Look for Gel or Foaming Textures:** These formats work best to lift away excess oil and grime compared to thick, cream-based cleansers.[sixamglow.com](https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Why%20a%20Foaming%20Cleanser%20is,trapped%20deep%20within%20your%20pores.)\n* **Don't Over-Wash:** Cleansing twice a day (morning and night) is plenty.[sixamglow.com](https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Q1%3A%20How%20often%20should%20I,cleanser%20make%20my%20skin%20dry%3F) Washing too frequently can trick your skin into producing even *more* oil to compensate for dryness.\n* **Follow up with Moisture:** Even oily skin needs hydration.[sixamglow.com](https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=A%3A%20Yes%2C%20most%20over-,doesn't%20require%20expensive%20treatments.) Pair your cleanser with a lightweight, oil-free, or gel-based moisturizer to keep your skin barrier balanced.",
+        "original_text": "Look for Gel or Foaming Textures: These formats work best to lift away excess oil and grime compared to thick, cream-based cleansers.\nDon't Over-Wash: Cleansing twice a day (morning and night) is plenty. Washing too frequently can trick your skin into producing even more oil to compensate for dryness.\nFollow up with Moisture: Even oily skin needs hydration. Pair your cleanser with a lightweight, oil-free, or gel-based moisturizer to keep your skin barrier balanced.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Top 7 Foaming Cleansers for Oily Skin Under ₹500 in India - sixam glow",
+          "snippet": "Why a Foaming Cleanser is the Ultimate Choice for Oily Skin. When it comes \nto managing excess sebum, a foaming cleanser oily skin formula is often \nhighly ...",
+          "domain": "sixamglow.com",
+          "url": "https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Why%20a%20Foaming%20Cleanser%20is,trapped%20deep%20within%20your%20pores.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSsCSqHiXA2ukfbOqNFYiyDrqYogf5Aen0m7pgLknljgefIOlgNnJX_wIgv92WzZg71vErZyjT1Nq417rkApBzFQPkqoj6SYQ",
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "* **Look for Gel or Foaming Textures:** These formats work best to lift away excess oil and grime compared to thick, cream-based cleansers."
+         },
+         {
+          "type": "gemini_source",
+          "title": "Top 7 Foaming Cleansers for Oily Skin Under ₹500 in India - sixam glow",
+          "snippet": "Q1: How often should I use a foaming cleanser for oily skin? A: \nDermatologists recommend washing your face twice daily, once in the morning \nto remove overnight ...",
+          "domain": "sixamglow.com",
+          "url": "https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=Q1%3A%20How%20often%20should%20I,cleanser%20make%20my%20skin%20dry%3F",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSsCSqHiXA2ukfbOqNFYiyDrqYogf5Aen0m7pgLknljgefIOlgNnJX_wIgv92WzZg71vErZyjT1Nq417rkApBzFQPkqoj6SYQ",
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "* **Don't Over-Wash:** Cleansing twice a day (morning and night) is plenty."
+         },
+         {
+          "type": "gemini_source",
+          "title": "Top 7 Foaming Cleansers for Oily Skin Under ₹500 in India - sixam glow",
+          "snippet": "A: Yes, most over-the-counter salicylic acid cleansers (typically 1-2% \nconcentration) are formulated for daily use, provided you follow up with a \nsuitable ...",
+          "domain": "sixamglow.com",
+          "url": "https://sixamglow.com/blogs/skincare/budget-friendly-buys-top-7-foaming-cleansers-for-oily-skin-in-india-under-500#:~:text=A%3A%20Yes%2C%20most%20over-,doesn't%20require%20expensive%20treatments.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSsCSqHiXA2ukfbOqNFYiyDrqYogf5Aen0m7pgLknljgefIOlgNnJX_wIgv92WzZg71vErZyjT1Nq417rkApBzFQPkqoj6SYQ",
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "* **Follow up with Moisture:** Even oily skin needs hydration."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

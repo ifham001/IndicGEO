@@ -1,0 +1,217 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S01",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 3,
+  "promptText": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+  "cellId": "S01_hg_gemini_r3",
+  "startedAt": "2026-08-14T12:59:32.188Z",
+  "finishedAt": "2026-08-14T12:59:50.631Z",
+  "durationMs": 18443,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein oily aur acne-prone skin ke liye 500 rupees ke andar kai saare behtareen face washes aate hain jo excess oil ko control karte hain aur pores ko saaf rakhte hain.\n\nAapke liye kuch top-rated aur budget-friendly options ki list neeche di gayi hai, jinki keemat **Rs. 300 se Rs. 400 ke beech** hai:\n\n| Brand & Product Name | Main Active Ingredients | Fayde (Benefits) | Approximate Price (INR) |\n| :--- | :--- | :--- | :--- |\n| **Minimalist 2% Salicylic Acid Face Cleanser** | 2% Salicylic Acid + LHA + Zinc | Deep pore cleaning karta hai, excess sebum aur acne reduce karta hai. | ₹299 |\n| **Plum Green Tea Pore Cleansing Face Wash** | Green Tea Extracts + Glycolic Acid | Skin ke excess oil ko hatata hai aur pimples/breakouts se ladta hai. | ₹320 - ₹380 |\n| **Deconstruct Salicylic Acid & Niacinamide Face Wash** | 2% Salicylic Acid + Niacinamide | Oil control ke sath-sath skin barrier ko protect karta hai aur marks kam karta hai. | ₹299 |\n| **Dot & Key Cica Calming Blemish Clearing Gel Face Wash** | Salicylic Acid + Green Tea + Cica | Sensitive aur oily skin ke liye best hai; acne aur redness ko calm karta hai. | ₹249 - ₹299 |\n| **WishCare 2% Salicylic Acid Face Wash** | Salicylic Acid + AHA + Green Tea | Blackheads, whiteheads aur excess oil ko control karne ke liye accha option hai. | ₹399 |\n\n### Oily Skin ke liye Khareedte Waqt In Baaton ka Dhyan Rakhein:\n\n* **Ingredients:[www.flipkart.com](https://www.flipkart.com/beauty-and-grooming/body-face-skin-care/body-and-face-care/face-wash/pr?sid=g9b,ema,5la,jav#:~:text=*%20Oil-control%20or%20Acne-fighting%20Cleansers%3A%20These%20products,Safety%3A%20Go%20for%20options%20recommended%20by%20dermatologists.)** Aise face wash chunein jinme **Salicylic Acid (BHA)**, **Niacinamide**, ya **Glycolic Acid** ho. Yeh ingredients oily skin ke liye sabse acche maane jaate hain kyunki yeh pores ke andar jaakar oil ko dissolve karte hain.\n* **Texture:[www.ceraveindia.com](https://www.ceraveindia.com/ceramides-skin-care/cleansers/facial-cleanser#:~:text=Facial%20skin%20cleansers%20like%20the%20CeraVe%20face,skin%2C%20and%20leave%20you%20a%20refreshed%20skin.)** hamesha **Gel-based** ya **Foaming** face wash hi select karein. Creamy ya heavy milk cleansers oily skin ke liye theek nahi hote.",
+  "citations": [
+   {
+    "url": "https://www.flipkart.com/beauty-and-grooming/body-face-skin-care/body-and-face-care/face-wash/pr?sid=g9b,ema,5la,jav#:~:text=*%20Oil-control%20or%20Acne-fighting%20Cleansers%3A%20These%20products,Safety%3A%20Go%20for%20options%20recommended%20by%20dermatologists.",
+    "source_name": "Flipkart",
+    "position": 1
+   },
+   {
+    "url": "https://www.ceraveindia.com/ceramides-skin-care/cleansers/facial-cleanser#:~:text=Facial%20skin%20cleansers%20like%20the%20CeraVe%20face,skin%2C%20and%20leave%20you%20a%20refreshed%20skin.",
+    "source_name": "CeraVe India",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "18.2160 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141259-2163-0629-0000-638c1e31048e",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "18.1267 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:59:50 +00:00",
+      "markdown": "India mein oily aur acne-prone skin ke liye 500 rupees ke andar kai saare behtareen face washes aate hain jo excess oil ko control karte hain aur pores ko saaf rakhte hain.\n\nAapke liye kuch top-rated aur budget-friendly options ki list neeche di gayi hai, jinki keemat **Rs. 300 se Rs. 400 ke beech** hai:\n\n| Brand & Product Name | Main Active Ingredients | Fayde (Benefits) | Approximate Price (INR) |\n| :--- | :--- | :--- | :--- |\n| **Minimalist 2% Salicylic Acid Face Cleanser** | 2% Salicylic Acid + LHA + Zinc | Deep pore cleaning karta hai, excess sebum aur acne reduce karta hai. | ₹299 |\n| **Plum Green Tea Pore Cleansing Face Wash** | Green Tea Extracts + Glycolic Acid | Skin ke excess oil ko hatata hai aur pimples/breakouts se ladta hai. | ₹320 - ₹380 |\n| **Deconstruct Salicylic Acid & Niacinamide Face Wash** | 2% Salicylic Acid + Niacinamide | Oil control ke sath-sath skin barrier ko protect karta hai aur marks kam karta hai. | ₹299 |\n| **Dot & Key Cica Calming Blemish Clearing Gel Face Wash** | Salicylic Acid + Green Tea + Cica | Sensitive aur oily skin ke liye best hai; acne aur redness ko calm karta hai. | ₹249 - ₹299 |\n| **WishCare 2% Salicylic Acid Face Wash** | Salicylic Acid + AHA + Green Tea | Blackheads, whiteheads aur excess oil ko control karne ke liye accha option hai. | ₹399 |\n\n### Oily Skin ke liye Khareedte Waqt In Baaton ka Dhyan Rakhein:\n\n* **Ingredients:[www.flipkart.com](https://www.flipkart.com/beauty-and-grooming/body-face-skin-care/body-and-face-care/face-wash/pr?sid=g9b,ema,5la,jav#:~:text=*%20Oil-control%20or%20Acne-fighting%20Cleansers%3A%20These%20products,Safety%3A%20Go%20for%20options%20recommended%20by%20dermatologists.)** Aise face wash chunein jinme **Salicylic Acid (BHA)**, **Niacinamide**, ya **Glycolic Acid** ho. Yeh ingredients oily skin ke liye sabse acche maane jaate hain kyunki yeh pores ke andar jaakar oil ko dissolve karte hain.\n* **Texture:[www.ceraveindia.com](https://www.ceraveindia.com/ceramides-skin-care/cleansers/facial-cleanser#:~:text=Facial%20skin%20cleansers%20like%20the%20CeraVe%20face,skin%2C%20and%20leave%20you%20a%20refreshed%20skin.)** hamesha **Gel-based** ya **Foaming** face wash hi select karein. Creamy ya heavy milk cleansers oily skin ke liye theek nahi hote.",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Buy Best Face Wash Online for Glowing Skin - Flipkart",
+        "snippet": "* Oil-control or Acne-fighting Cleansers: These products have active \ningredients that can manage excess sebum and keep the skin healthy. Key \nFeatures to Look fo...",
+        "domain": "www.flipkart.com",
+        "url": "https://www.flipkart.com/beauty-and-grooming/body-face-skin-care/body-and-face-care/face-wash/pr?sid=g9b,ema,5la,jav#:~:text=*%20Oil-control%20or%20Acne-fighting%20Cleansers%3A%20These%20products,Safety%3A%20Go%20for%20options%20recommended%20by%20dermatologists.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT8jV960pL55Lb2Sfat645hIPdGfaQOWLGhDliu87YOjroVHQVTGErTX8UI2y19NLdza8wJ6q7ihC6cu-5t1My2Ki44eCCvXPqdly8",
+        "source_name": "Flipkart",
+        "publication_date": null,
+        "markdown": "**Ingredients:**"
+       },
+       {
+        "type": "gemini_source",
+        "title": "CeraVe Face Wash & Face Cleanser For Hydrating Skin",
+        "snippet": " Facial skin cleansers like the CeraVe face cleanser support skin \nbeneficial formulas, textures, and advanced technology that help maintain \nthe skin's natural b...",
+        "domain": "www.ceraveindia.com",
+        "url": "https://www.ceraveindia.com/ceramides-skin-care/cleansers/facial-cleanser#:~:text=Facial%20skin%20cleansers%20like%20the%20CeraVe%20face,skin%2C%20and%20leave%20you%20a%20refreshed%20skin.",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS70dwlZRH7n7yYtcmhQd1nT_Fo70MwoSXTdc0TuhUg5B9yoSydETqy2OMrJ0xWSwf577dCpIYnPdulhKhn77RN3XUi_-QnmidZvd74CyY",
+        "source_name": "CeraVe India",
+        "publication_date": null,
+        "markdown": "**Texture:**"
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 5,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein oily aur acne-prone skin ke liye 500 rupees ke andar kai saare behtareen face washes aate hain jo excess oil ko control karte hain aur pores ko saaf rakhte hain.",
+        "original_text": "India mein oily aur acne-prone skin ke liye 500 rupees ke andar kai saare behtareen face washes aate hain jo excess oil ko control karte hain aur pores ko saaf rakhte hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Aapke liye kuch top-rated aur budget-friendly options ki list neeche di gayi hai, jinki keemat **Rs. 300 se Rs. 400 ke beech** hai:",
+        "original_text": "Aapke liye kuch top-rated aur budget-friendly options ki list neeche di gayi hai, jinki keemat Rs. 300 se Rs. 400 ke beech hai:",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "markdown": "| Brand & Product Name | Main Active Ingredients | Fayde (Benefits) | Approximate Price (INR) |\n| :--- | :--- | :--- | :--- |\n| **Minimalist 2% Salicylic Acid Face Cleanser** | 2% Salicylic Acid + LHA + Zinc | Deep pore cleaning karta hai, excess sebum aur acne reduce karta hai. | ₹299 |\n| **Plum Green Tea Pore Cleansing Face Wash** | Green Tea Extracts + Glycolic Acid | Skin ke excess oil ko hatata hai aur pimples/breakouts se ladta hai. | ₹320 - ₹380 |\n| **Deconstruct Salicylic Acid & Niacinamide Face Wash** | 2% Salicylic Acid + Niacinamide | Oil control ke sath-sath skin barrier ko protect karta hai aur marks kam karta hai. | ₹299 |\n| **Dot & Key Cica Calming Blemish Clearing Gel Face Wash** | Salicylic Acid + Green Tea + Cica | Sensitive aur oily skin ke liye best hai; acne aur redness ko calm karta hai. | ₹249 - ₹299 |\n| **WishCare 2% Salicylic Acid Face Wash** | Salicylic Acid + AHA + Green Tea | Blackheads, whiteheads aur excess oil ko control karne ke liye accha option hai. | ₹399 |",
+        "original_text": "Brand & Product Name\tMain Active Ingredients\tFayde (Benefits)\tApproximate Price (INR)\nMinimalist 2% Salicylic Acid Face Cleanser\t2% Salicylic Acid + LHA + Zinc\tDeep pore cleaning karta hai, excess sebum aur acne reduce karta hai.\t₹299\nPlum Green Tea Pore Cleansing Face Wash\tGreen Tea Extracts + Glycolic Acid\tSkin ke excess oil ko hatata hai aur pimples/breakouts se ladta hai.\t₹320 - ₹380\nDeconstruct Salicylic Acid & Niacinamide Face Wash\t2% Salicylic Acid + Niacinamide\tOil control ke sath-sath skin barrier ko protect karta hai aur marks kam karta hai.\t₹299\nDot & Key Cica Calming Blemish Clearing Gel Face Wash\tSalicylic Acid + Green Tea + Cica\tSensitive aur oily skin ke liye best hai; acne aur redness ko calm karta hai.\t₹249 - ₹299\nWishCare 2% Salicylic Acid Face Wash\tSalicylic Acid + AHA + Green Tea\tBlackheads, whiteheads aur excess oil ko control karne ke liye accha option hai.\t₹399",
+        "table": {
+         "table_header": [
+          "Brand & Product Name",
+          "Main Active Ingredients",
+          "Fayde (Benefits)",
+          "Approximate Price (INR)"
+         ],
+         "table_content": [
+          [
+           "Minimalist 2% Salicylic Acid Face Cleanser",
+           "2% Salicylic Acid + LHA + Zinc",
+           "Deep pore cleaning karta hai, excess sebum aur acne reduce karta hai.",
+           "₹299"
+          ],
+          [
+           "Plum Green Tea Pore Cleansing Face Wash",
+           "Green Tea Extracts + Glycolic Acid",
+           "Skin ke excess oil ko hatata hai aur pimples/breakouts se ladta hai.",
+           "₹320 - ₹380"
+          ],
+          [
+           "Deconstruct Salicylic Acid & Niacinamide Face Wash",
+           "2% Salicylic Acid + Niacinamide",
+           "Oil control ke sath-sath skin barrier ko protect karta hai aur marks kam karta hai.",
+           "₹299"
+          ],
+          [
+           "Dot & Key Cica Calming Blemish Clearing Gel Face Wash",
+           "Salicylic Acid + Green Tea + Cica",
+           "Sensitive aur oily skin ke liye best hai; acne aur redness ko calm karta hai.",
+           "₹249 - ₹299"
+          ],
+          [
+           "WishCare 2% Salicylic Acid Face Wash",
+           "Salicylic Acid + AHA + Green Tea",
+           "Blackheads, whiteheads aur excess oil ko control karne ke liye accha option hai.",
+           "₹399"
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "markdown": "### Oily Skin ke liye Khareedte Waqt In Baaton ka Dhyan Rakhein:",
+        "original_text": "Oily Skin ke liye Khareedte Waqt In Baaton ka Dhyan Rakhein:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "markdown": "* **Ingredients:[www.flipkart.com](https://www.flipkart.com/beauty-and-grooming/body-face-skin-care/body-and-face-care/face-wash/pr?sid=g9b,ema,5la,jav#:~:text=*%20Oil-control%20or%20Acne-fighting%20Cleansers%3A%20These%20products,Safety%3A%20Go%20for%20options%20recommended%20by%20dermatologists.)** Aise face wash chunein jinme **Salicylic Acid (BHA)**, **Niacinamide**, ya **Glycolic Acid** ho. Yeh ingredients oily skin ke liye sabse acche maane jaate hain kyunki yeh pores ke andar jaakar oil ko dissolve karte hain.\n* **Texture:[www.ceraveindia.com](https://www.ceraveindia.com/ceramides-skin-care/cleansers/facial-cleanser#:~:text=Facial%20skin%20cleansers%20like%20the%20CeraVe%20face,skin%2C%20and%20leave%20you%20a%20refreshed%20skin.)** hamesha **Gel-based** ya **Foaming** face wash hi select karein. Creamy ya heavy milk cleansers oily skin ke liye theek nahi hote.",
+        "original_text": "Ingredients: Aise face wash chunein jinme Salicylic Acid (BHA), Niacinamide, ya Glycolic Acid ho. Yeh ingredients oily skin ke liye sabse acche maane jaate hain kyunki yeh pores ke andar jaakar oil ko dissolve karte hain.\nTexture: hamesha Gel-based ya Foaming face wash hi select karein. Creamy ya heavy milk cleansers oily skin ke liye theek nahi hote.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Buy Best Face Wash Online for Glowing Skin - Flipkart",
+          "snippet": "* Oil-control or Acne-fighting Cleansers: These products have active \ningredients that can manage excess sebum and keep the skin healthy. Key \nFeatures to Look fo...",
+          "domain": "www.flipkart.com",
+          "url": "https://www.flipkart.com/beauty-and-grooming/body-face-skin-care/body-and-face-care/face-wash/pr?sid=g9b,ema,5la,jav#:~:text=*%20Oil-control%20or%20Acne-fighting%20Cleansers%3A%20These%20products,Safety%3A%20Go%20for%20options%20recommended%20by%20dermatologists.",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT8jV960pL55Lb2Sfat645hIPdGfaQOWLGhDliu87YOjroVHQVTGErTX8UI2y19NLdza8wJ6q7ihC6cu-5t1My2Ki44eCCvXPqdly8",
+          "source_name": "Flipkart",
+          "publication_date": null,
+          "markdown": "**Ingredients:**"
+         },
+         {
+          "type": "gemini_source",
+          "title": "CeraVe Face Wash & Face Cleanser For Hydrating Skin",
+          "snippet": " Facial skin cleansers like the CeraVe face cleanser support skin \nbeneficial formulas, textures, and advanced technology that help maintain \nthe skin's natural b...",
+          "domain": "www.ceraveindia.com",
+          "url": "https://www.ceraveindia.com/ceramides-skin-care/cleansers/facial-cleanser#:~:text=Facial%20skin%20cleansers%20like%20the%20CeraVe%20face,skin%2C%20and%20leave%20you%20a%20refreshed%20skin.",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS70dwlZRH7n7yYtcmhQd1nT_Fo70MwoSXTdc0TuhUg5B9yoSydETqy2OMrJ0xWSwf577dCpIYnPdulhKhn77RN3XUi_-QnmidZvd74CyY",
+          "source_name": "CeraVe India",
+          "publication_date": null,
+          "markdown": "**Texture:**"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

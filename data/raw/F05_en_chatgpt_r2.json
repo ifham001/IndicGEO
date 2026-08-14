@@ -1,0 +1,419 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 2,
+  "promptText": "Which sarees should I buy online in India for a wedding on a budget?",
+  "cellId": "F05_en_chatgpt_r2",
+  "startedAt": "2026-08-14T12:56:30.786Z",
+  "finishedAt": "2026-08-14T12:56:48.476Z",
+  "durationMs": 17690,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "For a **wedding guest saree on a budget in India**, I’d prioritize **Banarasi-style silk, organza, tissue, or soft silk** over very cheap shiny polyester—they tend to look much richer in wedding photos.\n\n### My best picks by budget\n\n### [ORHANS Organza Silk Saree with Heavy Embroidery]()\n*₹1,269*\n\n### [NIRLABH Gold Floral Embroidery Saree]()\n*₹999*\n\n### [ORHANS Embellished Mirrorwork Floral Saree]()\n*₹1,099*\n\n### [Pure Silk Organza Saree]()\n*₹2,999*\n\n### [Koskii Unstitched Blouse Saree]()\n*₹1,794*\n\n**Under ₹1,500:**  \n- **Embroidered organza** — probably the best value for a glamorous look.  \n- **Gold floral embroidery** — especially good with a plain blouse and statement earrings.  \n- **Mirrorwork** — great for a more festive North Indian wedding look.\n\n**₹1,500–₹2,500:**  \nThis is the sweet spot. I'd look for **Banarasi organza, tissue silk, or semi-silk with a substantial zari border**. Current online collections have options around ₹1,600–₹2,000, including Banarasi organza, tissue silk and soft-silk styles. [www.prashantisarees.com](https://www.prashantisarees.com/collections/sarees-under-3000?utm_source=chatgpt.com)\n\n**Around ₹2,500–₹3,000:**  \nGo for **Banarasi organza or pure/near-pure silk organza**. There are currently wedding-appropriate organza options around ₹1,600–₹2,999, including rani pink, royal blue, bridal red, sea green and ivory. [utsarees.in](https://utsarees.in/collections/organza-silk?utm_source=chatgpt.com)\n\n### Colors I'd choose\n\n- 💗 **Rani pink** — safest glamorous choice\n- 💚 **Emerald/sea green** — looks expensive with gold jewellery\n- ❤️ **Wine/maroon** — elegant for an evening wedding\n- 💙 **Royal blue** — striking and less predictable\n- 🧡 **Peach/orange** — excellent for daytime weddings\n- 🥂 **Ivory/gold** — beautiful, but avoid if the bride is wearing a similar shade\n\n**My personal budget pick:** a **rani-pink or emerald Banarasi organza with a gold zari border**, around **₹1,600–₹2,500**, paired with a contrasting silk blouse. It gives you the \"wedding saree\" appearance without paying for a heavy silk saree. Current listings show several such styles in that range. [utsarees.in](https://utsarees.in/collections/organza-silk?utm_source=chatgpt.com)\n\nOne caution: some marketplace listings at ₹400–₹800 can look tempting, but for a wedding I'd rather spend **₹1,500–₹2,500 on the saree** and save on accessories/blouse. Very low-priced listings can vary substantially in fabric and finishing.\n\nIf you tell me **your total budget (e.g. ₹1,000 / ₹2,000 / ₹3,000), your age, and whether the wedding is Kerala/ South Indian or North Indian**, I can narrow it down to **5 specific sarees worth buying online right now**.",
+  "citations": [
+   {
+    "url": "https://www.prashantisarees.com/collections/sarees-under-3000?utm_source=chatgpt.com",
+    "source_name": "Prashanti Sarees",
+    "position": 1
+   },
+   {
+    "url": "https://utsarees.in/collections/organza-silk?utm_source=chatgpt.com",
+    "source_name": "Unique Threads Sarees",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "17.4184 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141256-2163-0629-0000-02361dcbd291",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "17.3996 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20sarees%20should%20I%20buy%20online%20in%20India%20for%20a%20wedding%20on%20a%20budget%3F&hints=search",
+      "datetime": "2026-08-14 12:56:48 +00:00",
+      "markdown": "For a **wedding guest saree on a budget in India**, I’d prioritize **Banarasi-style silk, organza, tissue, or soft silk** over very cheap shiny polyester—they tend to look much richer in wedding photos.\n\n### My best picks by budget\n\n### [ORHANS Organza Silk Saree with Heavy Embroidery]()\n*₹1,269*\n\n### [NIRLABH Gold Floral Embroidery Saree]()\n*₹999*\n\n### [ORHANS Embellished Mirrorwork Floral Saree]()\n*₹1,099*\n\n### [Pure Silk Organza Saree]()\n*₹2,999*\n\n### [Koskii Unstitched Blouse Saree]()\n*₹1,794*\n\n**Under ₹1,500:**  \n- **Embroidered organza** — probably the best value for a glamorous look.  \n- **Gold floral embroidery** — especially good with a plain blouse and statement earrings.  \n- **Mirrorwork** — great for a more festive North Indian wedding look.\n\n**₹1,500–₹2,500:**  \nThis is the sweet spot. I'd look for **Banarasi organza, tissue silk, or semi-silk with a substantial zari border**. Current online collections have options around ₹1,600–₹2,000, including Banarasi organza, tissue silk and soft-silk styles. [www.prashantisarees.com](https://www.prashantisarees.com/collections/sarees-under-3000?utm_source=chatgpt.com)\n\n**Around ₹2,500–₹3,000:**  \nGo for **Banarasi organza or pure/near-pure silk organza**. There are currently wedding-appropriate organza options around ₹1,600–₹2,999, including rani pink, royal blue, bridal red, sea green and ivory. [utsarees.in](https://utsarees.in/collections/organza-silk?utm_source=chatgpt.com)\n\n### Colors I'd choose\n\n- 💗 **Rani pink** — safest glamorous choice\n- 💚 **Emerald/sea green** — looks expensive with gold jewellery\n- ❤️ **Wine/maroon** — elegant for an evening wedding\n- 💙 **Royal blue** — striking and less predictable\n- 🧡 **Peach/orange** — excellent for daytime weddings\n- 🥂 **Ivory/gold** — beautiful, but avoid if the bride is wearing a similar shade\n\n**My personal budget pick:** a **rani-pink or emerald Banarasi organza with a gold zari border**, around **₹1,600–₹2,500**, paired with a contrasting silk blouse. It gives you the \"wedding saree\" appearance without paying for a heavy silk saree. Current listings show several such styles in that range. [utsarees.in](https://utsarees.in/collections/organza-silk?utm_source=chatgpt.com)\n\nOne caution: some marketplace listings at ₹400–₹800 can look tempting, but for a wedding I'd rather spend **₹1,500–₹2,500 on the saree** and save on accessories/blouse. Very low-priced listings can vary substantially in fabric and finishing.\n\nIf you tell me **your total budget (e.g. ₹1,000 / ₹2,000 / ₹3,000), your age, and whether the wedding is Kerala/ South Indian or North Indian**, I can narrow it down to **5 specific sarees worth buying online right now**.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://mysilklove.com/collections/organza-sarees-under-3000?utm_source=chatgpt.com",
+        "domain": "mysilklove.com",
+        "title": "Organza Sarees Under ₹3000 — Lightweight Silk Online | MySilkLove",
+        "description": "ORGANZA SAREES UNDER ₹3000  [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]  CADMIUM GREEN WOVEN ORGANZA SAREE  Sale price Rs. 3,075.75 Regular price Rs. 4,101.00 Save 25 (25% OFF)  [...",
+        "breadcrumb": "mysilklove.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://mysilklove.com/collections/banarasi-sarees-under-3000?utm_source=chatgpt.com",
+        "domain": "mysilklove.com",
+        "title": "Banarasi Sarees Under ₹3000 — Pure Silk at Honest Prices | MySilkLove",
+        "description": "BANARASI SAREES UNDER ₹3000  [Button: Filter ]  Sort by  Sort by  Featured Most relevant Best selling Alphabetically, A-Z Alphabetically, Z-A Price, low to high Price, high to low Date, old to new Da...",
+        "breadcrumb": "mysilklove.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://utsarees.in/collections/saree-under-2000/products/bestserller-banarasi-organza-silk-saree-with-premium-lace-work?utm_source=chatgpt.com",
+        "domain": "utsarees.in",
+        "title": "Ivory banarasi organza silk saree with premium lace work",
+        "description": "Image: Bestserller banarasi organza silk saree with premium lace work Close (esc)  Image: Ivory banarasi organza silk saree with premium lace work Close (esc)  Image: Bestserller banarasi organza sil...",
+        "breadcrumb": "utsarees.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://utsarees.in/collections/saree-under-2000?utm_source=chatgpt.com",
+        "domain": "utsarees.in",
+        "title": "Buy Affordable Ethnic Sarees Under ₹2000 – UT Sarees",
+        "description": "\"Close (esc)\"  Sale  Image: Sky Blue Colour Soft Silk Khaddi Buti Banarasi Saree  Image  [Button: Quick view ]  Sky Blue Colour Soft Silk Khaddi Buti Banarasi Saree 9 reviews Rs. 2,199.00 from Rs. 1,2...",
+        "breadcrumb": "utsarees.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://hotdeals360.com/fashion/wedding-guest-guide-elegant-ethnic-sets-and-sarees-under-3-000-10938544?utm_source=chatgpt.com",
+        "domain": "hotdeals360.com",
+        "title": "Wedding Guest Guide: Elegant Ethnic Sets and Sarees Under ₹3,000 | HotDeals360",
+        "description": "WEDDING GUEST GUIDE: ELEGANT ETHNIC SETS AND SAREES UNDER ₹3,000  On Myntra Fashion Carnival, get the latest collections on ethnic sarees featuring ethnic motifs, adding an elegant touch to weddings....",
+        "breadcrumb": "hotdeals360.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://theuseeshop.com/collections/organza-silk-saree?utm_source=chatgpt.com",
+        "domain": "theuseeshop.com",
+        "title": "Banarasi Organza Silk Collection | The Usee Shop",
+        "description": "Sort by  Sort by  Featured Most relevant Best selling Alphabetically, A-Z Alphabetically, Z-A Price, low to high Price, high to low Date, old to new Date, new to old  34 products  Filters  [Input]  A...",
+        "breadcrumb": "theuseeshop.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.varnavi.com/collections/sarees-under-2999?utm_source=chatgpt.com",
+        "domain": "www.varnavi.com",
+        "title": "Sarees Under 2999",
+        "description": "SAREES UNDER 2999 THAT FEEL WEDDING-READY AND REFINED  There's something special about the ₹3000 mark. It's the range where sarees start to look noticeably richerdeeper colours, heavier pallus, finer...",
+        "breadcrumb": "varnavi.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.myntra.com/organza-silk-saree-for-wedding?utm_source=chatgpt.com",
+        "domain": "www.myntra.com",
+        "title": "Organza Silk Saree For Wedding - Buy Organza Silk Saree For Wedding online in India",
+        "description": "VIEW SIMILAR  wishlist  Select a size  [Button: Onesize]  * DIVASTRI Floral Banarasi Organza Saree Sizes: Onesize Rs. 482Rs. 2599(81% OFF)Only Few Left!  VIEW SIMILAR  wishlist  Select a size  [Button...",
+        "breadcrumb": "myntra.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://barkhaboutique.com/guides/best-organza-saree-brands?utm_source=chatgpt.com",
+        "domain": "barkhaboutique.com",
+        "title": "Best Organza Saree Brands in India: From Affordable to Designer | Barkha Boutique",
+        "description": "BEST ORGANZA SAREE BRANDS IN INDIA: FROM AFFORDABLE TO DESIGNER  Published 11 April 2026 · 6 min read  Satrani is the best affordable organza saree brand in India, offering printed and embellished or...",
+        "breadcrumb": "barkhaboutique.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://1.www.flipkart.com/q/banarasi-sarees-for-wedding?utm_source=chatgpt.com",
+        "domain": "1.www.flipkart.com",
+        "title": "Banarasi Sarees For Wedding - Buy Banarasi Sarees For Wedding online at Best Prices in India | Flipkart.com",
+        "description": "BANARASI SAREES FOR WEDDING  (Showing 1 – 40 products of 37,913 products)  Sort By  Relevance  Popularity  Price -- Low to High  Price -- High to Low  Newest First  GajGajra  Woven Banarasi Cotton Si...",
+        "breadcrumb": "flipkart.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Sarees under 3000 – Prashanti Sarees",
+        "snippet": null,
+        "domain": "www.prashantisarees.com",
+        "url": "https://www.prashantisarees.com/collections/sarees-under-3000?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Prashanti Sarees",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Banarasi Organza Silk Sarees | Unique Threads Sarees",
+        "snippet": null,
+        "domain": "utsarees.in",
+        "url": "https://utsarees.in/collections/organza-silk?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Unique Threads Sarees",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best affordable wedding sarees online India under 3000 Banarasi organza silk saree"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "For a **wedding guest saree on a budget in India**, I’d prioritize **Banarasi-style silk, organza, tissue, or soft silk** over very cheap shiny polyester—they tend to look much richer in wedding photos.\n\n### My best picks by budget\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "11971714897744082524",
+          "merchants": "Amazon.in",
+          "id_to_token_map": "sS_7bXicdVK5juNGFLT9Bc6cTi4I4ClSHkxAioeogyOeLTERmuzmLbbEW_ya8ewBrMOFAQP-k93A32LZuV_wUEDhVRUK7-8ffn7H2Z-pLZ9h67QbDh-GsDiIO0UrrOTLtSaoi9oM_UHTS4EWaE5cCgLHUSLDM9yXCLawJEmG3r6mGKIyq_BrHONaIdH_nPyeXWCC_-O_srQgiiLHLzmKX1LMkqE-1Kh5-3TrcH3_thowQlmVzBpYYzwbyAVXs6xCGZx1FcL1jKUoatZkZTGL0iyOSTUjdQKrCc4S_EC4bfGn5Powevtw-Xdd-_Y3-LHrSvzXMFtJhmWsjL3D-PcTGNOdWnaBXqbvSfmeVe9p-Y6rzwRe-zj6_mOukmG1agbZ8q5XX7Epx0UL1ytaq9rYFmMvTlWqQ0DRwE-d6KHiHVUeloHlsRp1KujGo20F6e3CU_mDWwb3vR-oQKd7BNLtXrPVvYpSDxDWncrJUTQLaJvWze3GzRFwVHoVrDdk75uxuaJ7k93woSZPsPJ3NkVxx6msIRsYaH09OkzAYX3ZRKCEISi7R54Ru4hHU8JHlH093Wk61Nt275rcq2KMLl2wMJdYu6BdVJWBm9FsQJu6D_j45JMpvJhM6MoHC4yOyxZ8qAQqUrQ9dn1iKiqrpoh4xSY-HW0XqYQKfJk9XVrrVR1V-9LawUgyy7OnKC8vnr9xIs1UQa4xri6yJn0aUO63tpdwFmgBAG3uWR_Hpo6_UZLGt84rxxCjJFG-bYtrzmOK3F-RFuv9o3bp18fzLASaoZcixS4-R4QUGf7-0y_ns4OjrsZzx7UPL5J5CQbIAIbipaITVstrb4qdEBKZFROrNHfyMiy2-CpqfVkJJCausEM3MTFQuyw3mWyEvXI4c-veNfu0qXswf42Jdgsv8_CqgEIfkucnR5Xs1frsSHvVMVz1ZZVYxrhQ5ecnSV29SGjjq7DL9Ol2WU7O0IrYGvmtinlxWqx91lFts9xlat7UKoB1UfScbnETCobnJ8V_8ca57De4Tc_7G6XIh2hyHA2wI2QjTZJJAG5Qcw6tpAyG9JjnJ9NQXniWeyHLtlpXuLZDZKdq3QynBFD33qatJBAuliPahnrbrET3JhrjlTFK1CxlmWkQPBi5szgnxnQmpzubAL7IOq928t0CXAp4hMcN3O4yuxvhlYk4yapuoSNHdz-nIiM1N0aYnDeCQINuPE83J8u90p7rl6PZrgct1rD3KA_etDxL7q0suWHXBaG-dLTcLbPgsB7JsR_xVgrFXsCleJK006sQLs7zA7jIZyLe9X3MZz1PucV8Pd96nE_Hx9smtyXoaXJiDrjhwoLncAWsc06sgFlp51b6B7bsr0E",
+          "title": "ORHANS Organza Silk Saree with Heavy Embroidery",
+          "rating": null,
+          "price": 1269,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/lqAdTHicDclJDoIwAADAF7EoKoHEGCQKNLLUCBEuhE122tIahEf5H38j15nft2IMU1UQiiEbZ8yKnGPpIPIlZQmrMz5DvUArhHE9lCdyXE_VnFwxsjskSK4IdZyEtIbXAngZLes56r6yuF41SDuStthuJm45IDH0odJsxHkPz_3cveLGlgIvvunmtXxYAUp6IwR0a1pjnbLI6Lo8d5seTBEAb-Aqtil_Im1l-Adaqz6t"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "hRB_atStJ4ePwbkP8LDFkQg",
+            "product_id": "11971714897744082524",
+            "catalog_id": null,
+            "gpcid": null,
+            "headline_offer_docid": "11971714897744082524",
+            "image_docid": "317888459405902920",
+            "rds": null,
+            "query": "wedding+saree+women+india+under+3000+silk+chiffon+organza+georgette",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIMS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "1394856814075798774",
+          "merchants": "Amazon.in",
+          "id_to_token_map": "mKkIW3icLVLJjqNWFE3yBdll23vL0mOGlGoBNthQBpvHZLOxgPfMPBgzma9Jqrpb6iw7kSLlT7oX-Za4W7mrI12d6er--8PPrzj9O4HSOeisTqPxYQzzA79bK7kZf2raGvVRl6K_CIJhCY5mKY4nGZojActSn6KgC4o6TtGfBCXQPMPyBA04hhN4jqM_JzhARVrh_eWC23UdfVOhSJbnCCBwpAA4liN4QP-RlkGM_99zPMtRAkeTFEuTHMcxBPvWottvH649bu9fViNGKK3ixS1oMV6MdYmrRVqhNFj0FcLtggIALG5pkS-iJL1c6mpRt3FQzcEixg-Euw5_iJvvVrTwCAKYRyPwMGUZiuTfyhR9ZjiWZkme5wWBBMK3rG_N0P0evO_7Av8zLlaiaqorVbdI937ypmQnF72_KZLXuHhNq9ekeMXVxzpohkv09cc3uY1WqyGSTKdp3DUEFtCgRRgruzKgmWlsCPR7SKLU8abrKT8RLvBLr3RVf61dvBKMOkikKBc6N9P2DmkohmPese1eLU8efeDTaIt0v0zmE1lkPjmNe1dJIko6RoQ866VW4VyDDw5hA6ToNgJRpTm-7OpYbmijZGxIGitXdqu9Z0An065og6Bf8KQlR8CffQ3aYmdXmocAcXBntHLXEoM32gDzgtxv6sl1dep0TAiDbBh9re1Csrl5GdSCDDbwaNiWAwkjn-b9sZCw17G4cN1Tzs8RZZwgGXUoU4Gh-Mqp1Ge_QMew1GZ307Hu5tFtTtZ63tHGtjHRUSI9B25tqB4DRVsdSQU4FHwxNq6JSK111okOZb91vChQc0WOKJXxCyUIQUfpx2QHc0215MnARbK1SX_wC79218hE2-j9dGsvX4CoMJ21Z93RgY1Pw7xneEqObuZwVxNT2h-F-Nfv70mQhMADnv4Y1XWe4q8__XI-WzjqW7y0bHh4Fo3SHwPSIwEj5j23EprB4HsurCWKj83C2ElCmL_ghleGouLqS21zO3TlYxV1QqGlkhoO68OZ3g62MSS3dvCW-0utXMNyGTZrL9-M8dM7Sxbhanu2RF22VFt-XsWmOrGy9PROlFfPItJcOejTzXwthdkaOx6bE_MiY4af2a1LWTI0il0qZ7dW9oI2zwd6Y9Iz8send2v32ZmWknvDXXLWr2AtHaLZshSPmgIqUkSp9r1roFiHTlyPqviYp3eGun5mKPq5FrpqW-EWhggmcnsbT7EH7gMkzNjnStPioSpftRVvX3l1aki1QDdBksgbCg5qZrHnWJ3P9elOxR6Tp73TWtmO9co8OAZHLXjZpbCfgoaMaNGsrqElRXc3A5GaGJoaxmeN4wivn87z1Uozp4DLTXk0uu2oXBTsPI4XXJUsje-dJNph3_vhRrCUzC5S_7Cd6uMw4Rcx5AcOF_xJVE57LmTPy4NXSueav2_0C5MODLDz5Xb54tAucTletQyKgaNIsTHiGx3mDI0rzzxntemTK-Xcif8BfSTNow",
+          "title": "NIRLABH Gold Floral Embroidery Saree",
+          "rating": null,
+          "price": 999,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/2gwpMnicDclJDoIwAADAF7HXjcQYogRUoJFN4sVoi1QUWqBU4VH-x9_oXOf7IZyzzlSUvEbtwHiOJX6tVbno-IXfkYxopXSEMnavi1Wz_J9pBXjhoAMM9Z3dxhF1gQ3CLI5KnL8oXk8yIz6e6I1s1DlqEkHnMx1quzOB2luv3D5j05Jv9xZ0hlPVwOqciyDRUsMfNgL0oRd1mSeeRHoIECA3xOX48KKL2rhjn_o_-lo-KA"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "hRB_atStJ4ePwbkP8LDFkQg",
+            "product_id": "11561746378254720663",
+            "catalog_id": "1394856814075798774",
+            "gpcid": "14971005637086765328",
+            "headline_offer_docid": "13268710972907671804",
+            "image_docid": "17867397423642777516",
+            "rds": null,
+            "query": "wedding+saree+women+india+under+3000+silk+chiffon+organza+georgette",
+            "mid": "576462888992091097",
+            "pvt": "a",
+            "uule": "w+CAIQICIMS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "12862098287830031302",
+          "merchants": "Amazon.in",
+          "id_to_token_map": "vvHPHnicJZDJjqNWGIWTPEF22dbessRgDKRUC0YbbFPmXgb7bqwLXDMPxmAwL9Cv0akepM4yiRQpb9K9yLPESc7i169zpO9I5-_vfnwj6Z8JkE-4g525IPshyPfCVtVzO_7StHXUh10a_UEzLC8KNMXxAi2wC2G5XHJfQtzhoo7_i4UlQ4kCI_ACS1EszVLMbwnBUZFW5PV8Jq1ah2n0u8gJDMVTHLMUWJHh2Afn17TEMfk_fjhLkeYeJHZJszS_YPgPbXR9_-nSk_b-VRlIFKVVPLvilpDZUJekmqVVlOJZX0WknT2qqdk1LfJZmKTnc13N6jbG1YRnMXl8pOvIp7h5NL3_UP57mlv3C_7Y9wX5a5gpkmEbirGDjHc_-mOy1YoerYrkLS7e0uotKd5I9bnGze0cfvv-nXYxFKU3ZNttGk8FlLOWDeKALGIj5egkU0h1BqBRe2BNjZRmC_Ioc1SXg4UJwapZbB2kRKuxsZjmiHNqwodo5-X0xmaLBNDWtKOiQ1Q1CWTjCbEIBZOeWHS8AKtRBgXYQBpZQNMpSHUTWSM2ogv2VaPXkBJz3_OwUxQ3m0bAoXQ6yI6cpyUlougKOtY-VJO7RVtrj4kMVAh3UjY0OXjWTgPbgC0636vZqEperTXaHv2GPR4QGzL6xj40FFKRevQ9aK0s1qVqBhWijzO7QwrdwHycLKpQXR20HqXREZ3f7QcbMh0M3ZFxgXHAuqkcGJ1yWbCxVp4dMWbrqskOaKh1_RAbua6FrMGhAmDXFbOoAsB20egUYvLqAQ9n6II8MFqubuJ1-HG8tuevlKRzHXzlLH-vmIPllPNjU8Y9OA-rfgyachUOP9O8sORphhYFSqQ_h3Wdp-TbDz-dTpCEfUvm0AH7F8kq0YAZn6E4Ke95RWxultDzQS2zQmwX1lYWg3xDGkG_FRVfn2uH30YXITaiTizMVDaCm7o_LdY3x7ol1_bmz1_PtX4JynnQqH6-GuLnJ6hJQFmfoLTToOFoL0psG-NSk5-fJE15kSLT03CfrqZLKU5w6ARij9xGI5wwLdceCzVgFdtUy66t5uM2z2-Llb2YIjQ8P6neizvOZe9KuuS0u1CqvA8nCHWfHTEb6pJcI_-CdbjvJHUwpIeenyxDfeHYxUstdtW6Ii0IIpBo7XU4xj51vwHajhFf2lAAhnYxFcG5CMbYMEYRXUVZZq4R3hsZXJ5iYzrVxzsb-1ye9m4Ls-3SL3N8wAcTb7Yp6EfcMOFCsqtLAOXw7mVUaCSWaQTxyeR52u_H03SBaeYWYL4qD1a3HvSzTtzHePiiZ2l872TJCfoeBSsR6plTpGi_HuvDbSQbKRBuPCmEo6QfX_lgeZrv_VI-1cJ9tTtz6Y2jnHy-nm_chUefDxczAxJ2dTm2BnJdBDm3IJVvn7LaRoyinzrpH-z5u3A",
+          "title": "ORHANS Embellished Mirrorwork Floral Saree",
+          "rating": null,
+          "price": 1099,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/2etzVHicDcndCoIwGADQJyrNJVYQoeQ0RsM0UrvT-bdMW9tnYg_V-_Q2dW7P99MACLXRtLJnchJQFjPIezSvFWTA2Zw9Ok01DyF4X--e2_9tbFqsPRYdMb3LXFLFBxOZ2Wlgaeq8gF_aZUDUrT28C0zRzWKh7URh60wBHnTp6M2M8Dg_YELifRpKqN3EIG78djvuT6sI-4CMTu8X65RWiCaXDqzRq5C45uQ8_gA2lT29"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "hRB_atStJ4ePwbkP8LDFkQg",
+            "product_id": "12379810578183486665",
+            "catalog_id": "12862098287830031302",
+            "gpcid": null,
+            "headline_offer_docid": "9582070526839253866",
+            "image_docid": "2536915209361317427",
+            "rds": null,
+            "query": "wedding+saree+women+india+under+3000+silk+chiffon+organza+georgette",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIMS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "15002468627526285160",
+          "merchants": "Nykaa Fashion",
+          "id_to_token_map": "KMGDN3icHVJLrqNWEE2ygswyfXPLElz-eXoDMB-DbTB_mwm6wDVg_hgM9gZ6G533ulvqDJOWImUn3YOsJe6uUUmnqs45VfXfT7--ovyfzBJCONiDRqL9FBV7divKhZl-bvsmGeMhT_5mKABYjsFwnCQBhpE44D7HcIBlk-bJF5zCMEDSLA0edTRgKZzG_soQTMq8RsbphHqxib9PYQlAYAzB0TgJKJYmcPbPvIIp-gF_wQF40DA0oGmKIjgWAJJ865PL-4_diPrb19WEkiSv08UF9ggtpqZC9SKvkxwuxjpB_YLAMGxxyctiEWf56dTUi6ZPYX2HixQ9MjQM6GPafldC0jjDMBiFYwDQFIHjHPtW5cn7t_Y6_AE_jGOJ_p0WK1411ZW6s4F3O_pztpXKMVDK7DUtX_P6NStfUf2pge31FH_7-Z3UqavVqAqm27aeaGGOYmk7PGiPAM-8KqYCXBZ0j1vrd03f4UmdKIMe4dkulrXArLgCubpoFrioV97GkLxOF7URlaVtg-mme3q3W5dy5CWDJXO9fZBrYx2sAqk9uaUmH4E77xTOdNf8dMA0HUomsNY8hdyWNjxO1CXPcIjs4DhC59fBDxe2JwSothrTS2TDnffQ0Tqz1uvIb9XAlbFdHWw9MGyTh-y4aCvDLwbbsRzTD5QHv23IjzasoaKiNCxCtx6YZSv4FPuDHCnczfIHYPrU7Nm48Jg5Gp4VmIVJxaKX-_689apSDWb1AGVtdQAy5hLWRlc8MwFa74rZzpKC3vVjqBayFBMqFZSab7jt5CmJiNy5gDlOJmvLQm4Gd5518g-ZEID4w3zpT18xXqYG26CXYXvwl1zr7C-M5qOJ9vBxCXRV5c3fcYalGRw8bo-x3Ke4aYocffvltzC0UTz2aPkwtH_h9SqYIPABRvHFyKy49qqzIxM1AsGmZqlvBS4qNqhl5WtZM82pcZht0rGpmgxcqeWCGl3FfUiur45-zS791V8ap0buomoZtaJfKFP6_GRLvLVahza_k2zVkV5WqanOtCQ8P_HS6oVPNE-CY67cu4q729PAInOmNhKi2Du99ghbsvRym0vnSy_5sC-KK6mY5D0Jpucn0Xtx56XgXdCQhbsOE4V9fLdt2SdmSMQyLzSB30HZ3g-8OKn8I56fdFV8oQjypeGGel2j3ooSK5P6y3RMfex2tXAzDZjKtFlLlTptxTodq84tUMvkwgkCuCRwr55tOkzVe9gcb0TqU0U-ur193tJ-VcADPGhws82tcYYtiEnerLvIFuKbd8ZiNdM1NUpDjWFwf5zDe2fnZ7e0lkp10If1JJ9k5D6WBzv5nKe3QeCdaByDx7_Z8tkp82C_npvDdUYbPmKvDCrZIy8fDSaiw-Xer4SwYW_K7kTlVwpziuV6uXFJDz8dOu1s8dCVhVSf0IWMCopEtW-G58YMwEoOB_5_iQO-bg",
+          "title": "Pure Silk Organza Saree",
+          "rating": null,
+          "price": 2999,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/sMrvK3icDclJDoIwAADAF7FoAgYSYyQaFgMiSyhcDJSlUCiFFoVf-R1_o3Od7wdxTpkuSRWB80Z5VQq8ILLYMJ7zFopwHCSGRkpb0pym4__0s1dqJgwFQ-4a8Ix4vHTLHlmulg1x3tvWNdnYGqMOaybAc8oS_6UKaMU2dQ_mUqhg8slU08hysFwJEXtXZe5lW2ZAh1xCuV49RJQ7RgVrSQBSYnBwe8x9kOyUSXn_AAhcQHQ"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "hRB_atStJ4ePwbkP8LDFkQg",
+            "product_id": "7522897011442004129",
+            "catalog_id": "15002468627526285160",
+            "gpcid": "4617770510226531198",
+            "headline_offer_docid": "7832307396142586318",
+            "image_docid": "12252276266553982244",
+            "rds": null,
+            "query": "wedding+saree+women+india+under+3000+silk+chiffon+organza+georgette",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIMS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "5678890608655148398",
+          "merchants": "Myntra - MNow",
+          "id_to_token_map": "41b_knicHVI5juNWFLR9AmdOOxcEcF_c6ICrREpiizvFhPgkv0iK-07xAr7GuGcBxqHHgAHfZCbwWaxxUniFB9R7Vah_f_j5DWZ_pwYfgMEcVAKe5zA_M0dRzvXkc9PV8RgNWfwXiuIUQhIUziAETtEYRSDk5wgMoKiTLP5CUjTDsAiFMBRJogSDs8yfKQRxkVXw9XqFnVhH31VoiqYJnCUYDMNYhiJwhPgjK0EC_99_IcmHPENjLIVRKM0gD_6-i_t3H9sRdvevwgzjOKuSTQ86CDdzXcJqk1VxBjZjFcNugyMIsumzIt9EaXa91tWm7hJQrWCTwMcEhwF-TJrHpXfvy-_QTMPv4MM4FvCfeSNwiq4IysnEnPvFXdKjVIz-rkjfkuItq97S4g1Wn2rQTNfo24-_Sa0iCKPC63bTOKKBWHsJ86Xo_rozUA_xV22V0csq8_ZeH-JSK06Or0B7cKPVQV13aFxPIq1bLMR79WDbfuut6i3Kk_kk86Jta_swHwxQ8fdQTEsdLQzNbSRD8hUfdUwdlVvoDpXlxAZAFtEp2eySO2NUSLhmy-IJ0e8G4lihla8h2qy-mL6a0oK7hToCLBZDT180NB0ctLj7KIsAtCkumFOHN74Ld0tjV4YWSQgBRVVxdo4alktr2A4RuZflaGvd43fE9bTewXzc3A2EZWk-2BtVWJKTVWjnqGD7WNTmVyeaTUTBgSQLvh2P_qJ4QFYFD5MRGzcO2s7RY0ztbDE9Pbx1thsBJZelCFdIv5B1w3r4wHncLgfFdHjJWePhgrHAr3xFwxbP8aIPS99dvyKcTA7mK6HlXO_pZ_y61SnNYSR02N5Hk-M4ZP710SeKRjGUZR4l_RTVdZ7Bbz_9EgQmjMYObk3LOL9wWunPAHMxhOTykRbYZtKYkQ5rHmcSvdCOPBvmB9gw8lRUdH2tLfoYt0yixANbqBmvhJN4Doj9ZGlT2neTu3291nIbltuwEd18NyfPT6bEGcI-MLmTZCqW9CIkurJQEv_8xEnCCxerjgTGbLe2Jbua88BAfSEPEiSZldo7uCkZWnHMpFvfSS7o8nwidjqxxv78_CQ6L_ay5Z0eDmlwahGRP0eracouvgA8kjm-9t0WyOZ54MRZecTCPT9pivhC4sRLzQ7VvoKdEcZGKnX9fElc5D4ZqJ74dKmbjKFIrSowVssoS4MpRdyzPI_1MTgrN5MKEmUN6ssdT1wyz0a7M29Hyi1z4AFPBYdjZowLaLCI4PSqDU0-ujs3JFJSTVXCJFBpGnXHJVhbM7vZhbHdlZ427Gf5KkP7ER5o5VuW3Aees8Jx9MMda8o3q8j8836pvWmBBy5kJhoWzIWTL690SAXbs1vyQc3cd6crmU0kYuXb_fZgEw569Vr1ZnDAlvlEm2FPhDlJwMrVg1ut-5ggBwP3HzTmvGI",
+          "title": "Koskii Unstitched Blouse Saree",
+          "rating": null,
+          "price": 1794,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/0LyXC3icDclJDoIwAADAFyGgaJTEGBWlSmQpbnAh0CIVpS2lBuFR_sff6Fzn-yFS8sZU1Zwi0XGZY0VmdDgoGpnKOxogVqkNYZzfabGo5_8zly6e2QhagfN4ghYiI5llKchvQAR6T-u1ZhDUxTt-2kNUPsNWY1E6bsj1nOY63lB7ZJWi6LaWuEBc9cJLDnZ2CLw49le15rCjH03c8A0IhivFD9up-yhHr65SmEPAD13KPro"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "hRB_atStJ4ePwbkP8LDFkQg",
+            "product_id": "11360546380436726405",
+            "catalog_id": "5678890608655148398",
+            "gpcid": null,
+            "headline_offer_docid": "17677439482229864304",
+            "image_docid": "5580487296261780558",
+            "rds": null,
+            "query": "wedding+saree+women+india+under+3000+silk+chiffon+organza+georgette",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIMS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n**Under ₹1,500:**  \n- **Embroidered organza** — probably the best value for a glamorous look.  \n- **Gold floral embroidery** — especially good with a plain blouse and statement earrings.  \n- **Mirrorwork** — great for a more festive North Indian wedding look.\n\n**₹1,500–₹2,500:**  \nThis is the sweet spot. I'd look for **Banarasi organza, tissue silk, or semi-silk with a substantial zari border**. Current online collections have options around ₹1,600–₹2,000, including Banarasi organza, tissue silk and soft-silk styles. [www.prashantisarees.com](https://www.prashantisarees.com/collections/sarees-under-3000?utm_source=chatgpt.com)\n\n**Around ₹2,500–₹3,000:**  \nGo for **Banarasi organza or pure/near-pure silk organza**. There are currently wedding-appropriate organza options around ₹1,600–₹2,999, including rani pink, royal blue, bridal red, sea green and ivory. [utsarees.in](https://utsarees.in/collections/organza-silk?utm_source=chatgpt.com)\n\n### Colors I'd choose\n\n- 💗 **Rani pink** — safest glamorous choice\n- 💚 **Emerald/sea green** — looks expensive with gold jewellery\n- ❤️ **Wine/maroon** — elegant for an evening wedding\n- 💙 **Royal blue** — striking and less predictable\n- 🧡 **Peach/orange** — excellent for daytime weddings\n- 🥂 **Ivory/gold** — beautiful, but avoid if the bride is wearing a similar shade\n\n**My personal budget pick:** a **rani-pink or emerald Banarasi organza with a gold zari border**, around **₹1,600–₹2,500**, paired with a contrasting silk blouse. It gives you the \"wedding saree\" appearance without paying for a heavy silk saree. Current listings show several such styles in that range. [utsarees.in](https://utsarees.in/collections/organza-silk?utm_source=chatgpt.com)\n\nOne caution: some marketplace listings at ₹400–₹800 can look tempting, but for a wedding I'd rather spend **₹1,500–₹2,500 on the saree** and save on accessories/blouse. Very low-priced listings can vary substantially in fabric and finishing.\n\nIf you tell me **your total budget (e.g. ₹1,000 / ₹2,000 / ₹3,000), your age, and whether the wedding is Kerala/ South Indian or North Indian**, I can narrow it down to **5 specific sarees worth buying online right now**.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Sarees under 3000 – Prashanti Sarees",
+          "snippet": null,
+          "domain": "www.prashantisarees.com",
+          "url": "https://www.prashantisarees.com/collections/sarees-under-3000?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Prashanti Sarees",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Banarasi Organza Silk Sarees | Unique Threads Sarees",
+          "snippet": null,
+          "domain": "utsarees.in",
+          "url": "https://utsarees.in/collections/organza-silk?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Unique Threads Sarees",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

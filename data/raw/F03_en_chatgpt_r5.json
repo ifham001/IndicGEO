@@ -1,0 +1,472 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F03",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 5,
+  "promptText": "Which brand's kurta sets should I buy for women online in India?",
+  "cellId": "F03_en_chatgpt_r5",
+  "startedAt": "2026-08-14T12:39:46.511Z",
+  "finishedAt": "2026-08-14T12:40:03.955Z",
+  "durationMs": 17444,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "If you’re buying **women’s kurta sets online in India**, I’d shortlist these brands rather than buying randomly from marketplace sellers:\n\n| Brand | Best for | Typical positioning |\n|---|---|---|\n| **BIBA** | Best overall, festive + everyday | Mid-range |\n| **W for Woman** | Office/workwear, polished looks | Mid-range |\n| **Aurelia** | Everyday + smart casual | Budget–mid |\n| **Libas** | Trendy designs and value | Budget–mid |\n| **Fabindia** | Cotton, handcrafted, timeless | Premium |\n| **Rangriti** | Affordable colourful everyday wear | Budget |\n| **Soch** | Festive/traditional sets | Mid-range |\n\n\nA recent hands-on comparison found **W** strongest for polished versatility, **BIBA** particularly good for practical cotton everyday wear, **Fabindia** for timeless/artisanal styles, **Aurelia** for dressier occasions, and **Lakshita** for soft, comfortable everyday sets. [www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/i-tried-kurta-sets-from-w-fabindia-aurelia-biba-and-lakshita-here-s-which-ones-actually-feel-worth-the-money-101778651587378-amp.html?utm_source=chatgpt.com)\n\n### My picks for you\n\n**🥇 BIBA — safest choice overall**  \nIf you want one brand where you can find both everyday cotton suits and prettier embroidered sets, I'd start here.\n\n### [Biba Women's Embroidered Straight Kurta Set]()\n*₹2,150*\n\n**🥈 W for Woman — best for office**  \nChoose W if you want a more sophisticated, structured look that works for office, meetings and dinners.\n\n**🥉 Aurelia — best value for regular wear**  \nGood choice if you like contemporary prints, straight kurtas and palazzo/pants sets without going too expensive.\n\n**💰 Libas — best if you're price-conscious**  \nThere's a particularly broad selection, and current listings include sets around ₹1,000–₹2,200. [www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india?utm_source=chatgpt.com)\n\n### [Libas Printed Straight Kurta Set]()\n*₹1,039*\n\n### [Libas Floral Embroidered A-Line Suit Set]()\n*₹2,069*\n\n### [Libas Turquoise Blue Embroidered Suit Set]()\n*₹2,169*\n\n**🌿 Fabindia — best if fabric/quality matters more than trends**  \nI'd pick it for cotton, understated embroidery and a more timeless wardrobe.\n\n### If I were spending my own money\n\n- **₹1,000–₹1,500:** Libas / Rangriti\n- **₹1,500–₹2,500:** **BIBA / Aurelia / Libas** ← sweet spot\n- **₹2,500–₹4,000:** **W / BIBA / Aurelia**\n- **₹4,000+:** Fabindia / premium BIBA or W\n- **Wedding/festive:** BIBA or Soch\n- **Office:** **W for Woman**\n- **Daily cotton:** **BIBA or Aurelia**\n- **Trendy/youthful:** **Libas**\n\nIf you tell me your **budget (e.g. under ₹1,500 / ₹2,000 / ₹3,000), age range, and whether you want cotton, festive, office or daily wear**, I can narrow it down to **5–10 specific kurta sets currently worth buying online**.",
+  "citations": [
+   {
+    "url": "https://www.hindustantimes.com/lifestyle/fashion/i-tried-kurta-sets-from-w-fabindia-aurelia-biba-and-lakshita-here-s-which-ones-actually-feel-worth-the-money-101778651587378-amp.html?utm_source=chatgpt.com",
+    "source_name": "Hindustan Times",
+    "position": 1
+   },
+   {
+    "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india?utm_source=chatgpt.com",
+    "source_name": "IndiSangam Ecom",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "17.2289 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141239-2163-0629-0000-32de2d7efffd",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "17.2216 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Which brand's kurta sets should I buy for women online in India?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which brand's kurta sets should I buy for women online in India?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20brand%27s%20kurta%20sets%20should%20I%20buy%20for%20women%20online%20in%20India%3F&hints=search",
+      "datetime": "2026-08-14 12:40:03 +00:00",
+      "markdown": "If you’re buying **women’s kurta sets online in India**, I’d shortlist these brands rather than buying randomly from marketplace sellers:\n\n| Brand | Best for | Typical positioning |\n|---|---|---|\n| **BIBA** | Best overall, festive + everyday | Mid-range |\n| **W for Woman** | Office/workwear, polished looks | Mid-range |\n| **Aurelia** | Everyday + smart casual | Budget–mid |\n| **Libas** | Trendy designs and value | Budget–mid |\n| **Fabindia** | Cotton, handcrafted, timeless | Premium |\n| **Rangriti** | Affordable colourful everyday wear | Budget |\n| **Soch** | Festive/traditional sets | Mid-range |\n\n\nA recent hands-on comparison found **W** strongest for polished versatility, **BIBA** particularly good for practical cotton everyday wear, **Fabindia** for timeless/artisanal styles, **Aurelia** for dressier occasions, and **Lakshita** for soft, comfortable everyday sets. [www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/i-tried-kurta-sets-from-w-fabindia-aurelia-biba-and-lakshita-here-s-which-ones-actually-feel-worth-the-money-101778651587378-amp.html?utm_source=chatgpt.com)\n\n### My picks for you\n\n**🥇 BIBA — safest choice overall**  \nIf you want one brand where you can find both everyday cotton suits and prettier embroidered sets, I'd start here.\n\n### [Biba Women's Embroidered Straight Kurta Set]()\n*₹2,150*\n\n**🥈 W for Woman — best for office**  \nChoose W if you want a more sophisticated, structured look that works for office, meetings and dinners.\n\n**🥉 Aurelia — best value for regular wear**  \nGood choice if you like contemporary prints, straight kurtas and palazzo/pants sets without going too expensive.\n\n**💰 Libas — best if you're price-conscious**  \nThere's a particularly broad selection, and current listings include sets around ₹1,000–₹2,200. [www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india?utm_source=chatgpt.com)\n\n### [Libas Printed Straight Kurta Set]()\n*₹1,039*\n\n### [Libas Floral Embroidered A-Line Suit Set]()\n*₹2,069*\n\n### [Libas Turquoise Blue Embroidered Suit Set]()\n*₹2,169*\n\n**🌿 Fabindia — best if fabric/quality matters more than trends**  \nI'd pick it for cotton, understated embroidery and a more timeless wardrobe.\n\n### If I were spending my own money\n\n- **₹1,000–₹1,500:** Libas / Rangriti\n- **₹1,500–₹2,500:** **BIBA / Aurelia / Libas** ← sweet spot\n- **₹2,500–₹4,000:** **W / BIBA / Aurelia**\n- **₹4,000+:** Fabindia / premium BIBA or W\n- **Wedding/festive:** BIBA or Soch\n- **Office:** **W for Woman**\n- **Daily cotton:** **BIBA or Aurelia**\n- **Trendy/youthful:** **Libas**\n\nIf you tell me your **budget (e.g. under ₹1,500 / ₹2,000 / ₹3,000), age range, and whether you want cotton, festive, office or daily wear**, I can narrow it down to **5–10 specific kurta sets currently worth buying online**.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://clothingclone.com/top-10-kurti-brands-in-india/?utm_source=chatgpt.com",
+        "domain": "clothingclone.com",
+        "title": "Top 10 Kurti Brands In India 2026 For Style, Comfort, Budget",
+        "description": "Image: top 10 kurti brands in india 2025  TOP 10 KURTI BRANDS IN INDIA (2026 GUIDE) – BEST, AFFORDABLE & LUXURY PICKS  * Atoofa Khushnood * February 11, 2026 * 5:20 am  Last Updated: February 2026  T...",
+        "breadcrumb": "clothingclone.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/i-tried-kurta-sets-from-w-fabindia-aurelia-biba-and-lakshita-here-s-which-ones-actually-feel-worth-the-money-101778651587378.html?utm_source=chatgpt.com",
+        "domain": "www.hindustantimes.com",
+        "title": "I tried kurta sets from W, Fabindia, Aurelia, Biba and Lakshita: Here’s which ones actually feel worth the money | Fashion Trends",
+        "description": "Top 5 Indian wear brands I tried and tested  1. Aurelia Red Zari Embroidered Kurta, Palazzo and Dupatta Set  Loading Suggestions...  This set instantly feels more festive and dressy compared to the o...",
+        "breadcrumb": "hindustantimes.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/weddingready-kurta-sets-from-biba-w-libas-and-more-elegant-picks-for-women-101771396315770.html?utm_source=chatgpt.com",
+        "domain": "www.hindustantimes.com",
+        "title": "Wedding-ready kurta sets from Biba, W, Libas and more: Elegant picks for women | Fashion Trends",
+        "description": "WEDDING-READY KURTA SETS FROM BIBA, W, LIBAS AND MORE: ELEGANT PICKS FOR WOMEN  WEDDING KURTA SETS FROM BRANDS LIKE BIBA, W FOR WOMAN, LIBAS AND OTHER POPULAR LABELS ARE IDEAL FOR WEDDING-WEAR PICKS...",
+        "breadcrumb": "hindustantimes.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/ive-reviewed-countless-kurta-sets-but-these-6-brands-stood-out-for-me-for-their-quality-style-and-affordability-101785317723722.html?utm_source=chatgpt.com",
+        "domain": "www.hindustantimes.com",
+        "title": "I've reviewed countless kurta sets, but these 6 brands stood out for me for their quality, style and affordability | Fashion Trends",
+        "description": "BEST KURTA SET BRANDS THAT I'VE REVIEWED SO FAR  1. Fabindia Women's Black Embroidered Long Ethnic Kurta  Loading Suggestions...  Fabindia continues to be one of the safest investments for anyone who...",
+        "breadcrumb": "hindustantimes.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://thejaipurstudio.com/blogs/blog/top-7-designer-kurti-brands-for-women-in-india?utm_source=chatgpt.com",
+        "domain": "thejaipurstudio.com",
+        "title": "Top 7 Leading Designer Kurti Brands for Women in India",
+        "description": "TOP 7 DESIGNER KURTI BRANDS FOR WOMEN IN INDIA (2026)  By Shalini BhathejaJuly 09, 2026  Image: Top 7 Designer Kurti Brands for Women in India (2026) Image: Top 7 Designer Kurti Brands for Women in I...",
+        "breadcrumb": "thejaipurstudio.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://barkhaboutique.com/guides/best-palazzo-kurta-sets-women?utm_source=chatgpt.com",
+        "domain": "barkhaboutique.com",
+        "title": "Best Palazzo Kurta Sets for Women: Comfort Meets Ethnic Style | Barkha Boutique",
+        "description": "BEST PALAZZO KURTA SETS FOR WOMEN: COMFORT MEETS ETHNIC STYLE  Published 9 April 2026 · 3 min read  Palazzo kurta sets have become the go-to outfit for women who want ethnic comfort without sacrifici...",
+        "breadcrumb": "barkhaboutique.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://barkhaboutique.com/guides/best-ethnic-wear-brands-myntra?utm_source=chatgpt.com",
+        "domain": "barkhaboutique.com",
+        "title": "Best Ethnic Wear Brands on Myntra: Complete Guide to What's Actually Good | Barkha Boutique",
+        "description": "BEST ETHNIC WEAR BRANDS ON MYNTRA: COMPLETE GUIDE TO WHAT'S ACTUALLY GOOD  Published 9 April 2026 · 4 min read  Myntra stocks hundreds of ethnic wear brands — most of which are not worth your time. A...",
+        "breadcrumb": "barkhaboutique.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://barkhaboutique.com/compare/soch-vs-biba-vs-rangriti?utm_source=chatgpt.com",
+        "domain": "barkhaboutique.com",
+        "title": "Soch vs BIBA vs Rangriti: Mid-Range Ethnic Wear Brand Showdown | Barkha Boutique",
+        "description": "SOCH VS BIBA VS RANGRITI: MID-RANGE ETHNIC WEAR BRAND SHOWDOWN  Published 9 April 2026 · 4 min read  QUICK ANSWER  Biba is the most reliable and widely available of the three, with the strongest trac...",
+        "breadcrumb": "barkhaboutique.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.biba.in/new-arrival/suit-sets/?utm_source=chatgpt.com",
+        "domain": "www.biba.in",
+        "title": "Latest 2026 Collection of Kurta Sets for Women at Biba India",
+        "description": "KURTA SETS  703 Products  [Input]  [Input] [Input]  703 Products   KURTA SETS  703 Products  [Input]  [Input] [Input]  [Select]  SORT BY  * Bestsellers * Popular * New Arrival * Price (low to high) *...",
+        "breadcrumb": "biba.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.amrahwholesale.com/blogs/news/top-10-kurti-brands-in-india?utm_source=chatgpt.com",
+        "domain": "www.amrahwholesale.com",
+        "title": "Top 10 Kurti Brands in India for Style & Comfort – Amrah Wholesale",
+        "description": "TOP 10 KURTI BRANDS IN INDIA FOR WOMEN, WITH A QUICK COMPARISON  Here are the best kurti brands for different budgets and moods. Think of this as your practical kurti brand name list, not a hype-fille...",
+        "breadcrumb": "amrahwholesale.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "I tried kurta sets from W, Fabindia, Aurelia, Biba and Lakshita: Here’s which ones actually feel worth the money | Fashion Trends",
+        "snippet": null,
+        "domain": "www.hindustantimes.com",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/i-tried-kurta-sets-from-w-fabindia-aurelia-biba-and-lakshita-here-s-which-ones-actually-feel-worth-the-money-101778651587378-amp.html?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Hindustan Times",
+        "publication_date": "2026-05-16 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "10 Best Kurta Set Brands for Women in India (2026) – IndiSangam Ecom",
+        "snippet": null,
+        "domain": "www.indisangam.com",
+        "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "IndiSangam Ecom",
+        "publication_date": "2026-03-17 00:00:00 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best women kurta set brands India Biba Aurelia W Libas Rangriti Fabindia 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_table",
+       "chat_gpt_products"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "If you’re buying **women’s kurta sets online in India**, I’d shortlist these brands rather than buying randomly from marketplace sellers:\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_table",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "text": null,
+        "markdown": "| Brand | Best for | Typical positioning |\n|---|---|---|\n| **BIBA** | Best overall, festive + everyday | Mid-range |\n| **W for Woman** | Office/workwear, polished looks | Mid-range |\n| **Aurelia** | Everyday + smart casual | Budget–mid |\n| **Libas** | Trendy designs and value | Budget–mid |\n| **Fabindia** | Cotton, handcrafted, timeless | Premium |\n| **Rangriti** | Affordable colourful everyday wear | Budget |\n| **Soch** | Festive/traditional sets | Mid-range |\n\n",
+        "table": {
+         "table_header": [
+          "Brand",
+          "Best for",
+          "Typical positioning"
+         ],
+         "table_content": [
+          [
+           "**BIBA**",
+           "Best overall, festive + everyday",
+           "Mid-range"
+          ],
+          [
+           "**W for Woman**",
+           "Office/workwear, polished looks",
+           "Mid-range"
+          ],
+          [
+           "**Aurelia**",
+           "Everyday + smart casual",
+           "Budget–mid"
+          ],
+          [
+           "**Libas**",
+           "Trendy designs and value",
+           "Budget–mid"
+          ],
+          [
+           "**Fabindia**",
+           "Cotton, handcrafted, timeless",
+           "Premium"
+          ],
+          [
+           "**Rangriti**",
+           "Affordable colourful everyday wear",
+           "Budget"
+          ],
+          [
+           "**Soch**",
+           "Festive/traditional sets",
+           "Mid-range"
+          ]
+         ]
+        },
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\nA recent hands-on comparison found **W** strongest for polished versatility, **BIBA** particularly good for practical cotton everyday wear, **Fabindia** for timeless/artisanal styles, **Aurelia** for dressier occasions, and **Lakshita** for soft, comfortable everyday sets. [www.hindustantimes.com](https://www.hindustantimes.com/lifestyle/fashion/i-tried-kurta-sets-from-w-fabindia-aurelia-biba-and-lakshita-here-s-which-ones-actually-feel-worth-the-money-101778651587378-amp.html?utm_source=chatgpt.com)\n\n### My picks for you\n\n**🥇 BIBA — safest choice overall**  \nIf you want one brand where you can find both everyday cotton suits and prettier embroidered sets, I'd start here.\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "I tried kurta sets from W, Fabindia, Aurelia, Biba and Lakshita: Here’s which ones actually feel worth the money | Fashion Trends",
+          "snippet": null,
+          "domain": "www.hindustantimes.com",
+          "url": "https://www.hindustantimes.com/lifestyle/fashion/i-tried-kurta-sets-from-w-fabindia-aurelia-biba-and-lakshita-here-s-which-ones-actually-feel-worth-the-money-101778651587378-amp.html?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Hindustan Times",
+          "publication_date": "2026-05-16 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "177575284981807559",
+          "merchants": "Biba.in",
+          "id_to_token_map": "iVNZW3icHVPJrqNWEE3yBVlm-VbZWJaYLkOe3oLRBhtspsuwsa4BA-YaMGaw39ck73W31Fl2Wsq3dC_yLSEp1aZ0qlTnqE7988PPb1n592W6H1An25u2RtVe33cD1S9F4nPbNemQ9GX6lWSYOQHH0jxF0oRAswL3OUE9wk1epl9IjgMcoHhG4Eme4AAQvhQZSnFZZ7vTKeuUJinTvxheoEmaI2jAzuM0D2jyz_KC8ux_-CsJOIriCQKwDKBIBhAUTb536e33j9ch6x7ftKm5ZPWiGroeLW5ZvyjrtESLY3lECzR0GZ6LaXFqusXciOoFnoHbokN13pV9uTih4_8DH_P2PzIcT7MkP_OY1zEEIHiWeb_MUmaNDEvNIMUwNAsoBry3Y_8H-jAMOPv267SQRd3WZR16F-0aBXEdhUazVR18XBXtVsVDvMLFW47fyvqtwG9Z_alB7XhKvv_4rnaJLI-JZPttCxWHcF-TR6K1yCGcxvSdMTrrvUu1sQMNM6IL08fRFFcgSGuLPmJDi8N4473mk-u3pUcKsU9KoYvhZJKWldWx7q7uwxZiylxj-kiAKPbj9hgYfkoAJr1YEwyM2lTbEZE2FVPC3sSOkkKILGwEfp1SaaAxdtVbfgU1s5ZATDtMAFs1OccqqiUq1WI9pcDWDp3tNmi9RMUQ-a2EtHaHKsx4K3xDgTXFZLtLaAtEl56BhBB4KonMoD_HZy10FEu15q02FMYMtnSgaGuLNClHvQ-ISKijAgOfaHoPRjNH0rVoC6dQuseXeOXUUPEU45TAQk1IiNBdD49hyoSU9rBJbZusQIFIyfDXBmnWdm97ItIrTU1oHcRYpR2sRcda6jwPeukZVyEl3FMoDCiEuqXEfqCpH-637vSNEDXQuztmCbsO3cJxSUwDvgo9Lko3TeLCeRV_Izme5UiSFMBsoU9J01Rl9v2nX1xVdOT1wRVN1dU99UXObf3OqtLzk6jKL2JqQBXd7O3Sq2j2rDX5Lj_dLv3APVzbQHVV10QT-73Enou9Rp_DqeRvhNJB8fnpcHCzZLb50vWc_YtoXeIJUXKtpScVjAehaPvKnPLJuPvKaK4OOV-G9dK8sjrRPaCzodtsTTZnXtDEAomYzOFdLo0BLQMZpOVlLJe2Wa5XG2EzRlrRECqNnp8U-OIzDv9aJg_REXEuNikhHdatuanyyFZF6XpJNm1r4Wi_yRlxjucnS1deAE2_NN4qC4Q-sU2lPBHN_AMTXA_GNgjao6lzOuMbDsBq1605qbHinprYk7kxxvnKBaio1r1H5EDdYspSHjvLlHZ1YWDOFHaBfRGH7bi899ZV6Si3GuSjp8nOa5jQhX_eAzva5DXX3SQyK6Or5G7rbJLb266JTnSDIi_ao1Bb7fEhmMzCro1K9R-7x9pu1eXpoBjZ3jgPMm26I7xaNpZv15QV7_VAta9VVYwbNuXocWyL-VVvOrtO4elQb7n1xBZi5OykK7W-7xQ7YXkA3KNKRJ6w9Ox_AezF0kU",
+          "title": "Biba Women's Embroidered Straight Kurta Set",
+          "rating": null,
+          "price": 2150,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/PzsvPnicDclZCoJAGADgE7lQEipEmIrLuJEK6ou4a-k4Nr-Zl-o-3aa-1-_76QEIlTmuwdVzJ9DUDJT4yHYUChgqtponjvYzIQPuLsv5f7Li1ZJRRTVFkf3OMjXJT7A4IQbJzoWu1AUvCakGPEaB8rqucYHKcU0FJw_cWHcGKqK8cweUbZEWiOMkILCnUE0ZpLZGNlqm6floVYq9aDcs3fiHZfmH8k6SFPPGDzPHPd4"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "mwx_arCQKpnakPIPru2t-A0",
+            "product_id": "14414457638213093697",
+            "catalog_id": "177575284981807559",
+            "gpcid": "7836186975644050864",
+            "headline_offer_docid": "4893137035669738531",
+            "image_docid": "15722800564521450231",
+            "rds": null,
+            "query": "women+kurta+set+india+biba+aurelia+w+for+woman+libas+rangriti+fabindia",
+            "mid": "576462836244365245",
+            "pvt": "a",
+            "uule": "w+CAIQICIVTmFqYWZnYXJoLERlbGhpLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\n**🥈 W for Woman — best for office**  \nChoose W if you want a more sophisticated, structured look that works for office, meetings and dinners.\n\n**🥉 Aurelia — best value for regular wear**  \nGood choice if you like contemporary prints, straight kurtas and palazzo/pants sets without going too expensive.\n\n**💰 Libas — best if you're price-conscious**  \nThere's a particularly broad selection, and current listings include sets around ₹1,000–₹2,200. [www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india?utm_source=chatgpt.com)\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "10 Best Kurta Set Brands for Women in India (2026) – IndiSangam Ecom",
+          "snippet": null,
+          "domain": "www.indisangam.com",
+          "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "IndiSangam Ecom",
+          "publication_date": "2026-03-17 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 6,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "8232814349519801082",
+          "merchants": "Libas",
+          "id_to_token_map": "s8nNqnicdVM5juNWEDXmBA4cOOzIiSCA_3N3owOKqyiRFHeRicBN_BRXcRElwZdxzwKMw7EBn6Un8FmsMRzalVW9Vxuq3l_fff-aFX_W8_UQ9by56Zqo3K13_QTHJYd97vo2nZKxSP8AJEGRkCZYjIYYgVGAxMDnJBqjqs2L9HcG4pABBE6wJGAZDGAM_IKyKK2KJjOOx6wX2uRbFQwAiDEkzgKapEicwlj2t6KO8uxfnAKAZvAHgwGQpEkSEMz7Ph3eiB1_ADQLAINTLElAFlA0QwP6l51lCIf_AT-ep6y_vUlzW2fNopz6MVoM2bgomrSIFnERR4to6rPq4cyLY9svHsSoWVQPYFj0UZP3xVgsjlH8T8LHvPtnxP9o9L4u0i8kTREUZFiA4yTG4hTDvO8u46_Rh2mqsref5gXPrc01v_acWjoHftgEe7XdilYVy6jbitUUyhV6zavXonlF1WvWfGqj7nJMvr77QWxngR9m3nS7zhMszPZzGMq66Ss5YYjpxZYREdSq4ItX261C0ZLHUq_c2QVp5TveOYY6iBzpbkkBqYvBGLrS6Fee6tdhEJeeGAloZbiS5QLUWqIeOhigglr33L2qWd7qsscTwpPHPj1Z68Rt8UioKK9GilkypLZfY4lrzToUoVOOQlKrjeaiQIfVGDohFotVEDVpYLp67TmVYbrSYJ9SynGTMcRCOYWsZpfjFNWhsb-rG-sG4Nb1BPtubbxG2gc2MFPMEu078h-xbVRX60hU997Jc_xGarSmm3RFLf2axAIgWTZkA69EyIGVs8c9TXfTSHdSQa-Hm-uptivryJGlq4cj0nFVPPWvu2zvOVZjYu5JWtkNN-oS2miehL5dJvbB4CjV7PshcOVgDu-paO-rMlZC1xZHMWi4q3u3LhG0Jm2fX2MxleOTCsIGNQ5E97hEY4yVtgQBnkksSkrdsvHVFPijaXurW-qo2NYVZ7lQV5ai3ww_tGIpdSKZtR2XgV7dyYZvAt8HoyOiY4AlwIbI-nAd-uMbxknkaBukWfCKfZtrMRv40ch9Y3AGqMgbT8p_fiiKogEALIVhxKekbcsi-_ruR1vkLF452Jwm2mtHfOFzc32lxNXzEyfyL1yqPv5iMLdLp8Spk9TmRn4c6nGib7apRk3ZNFgbuuOKOqGdhJ_2c8EMmNB73PPT4WBnyUNYS9uxdi-cXodzBPlGSo8ieTmwqBtLbc5n9eoKF00-5Eyxb5bamVpj_c2zNniXKaA9MazEoYirQO5d-UKdoqXPk2lRX4qlqRWP3djNJZBQi4l49PwkeC8uYTH3IrlxFlflXJtiq4PSaZsyD0yRW53rZNN1ehXsNjnBPez5SV8LLySOv7SOnPnsmJiaUByx9iG62VMmdev7Xayt6TXhqhZZiX2v0KtWD0c4U0dto16sxkNkCTv7GoAJDiHUhZuhayujQWpFa-zjbDU3bS_L66ifhR7a5cTHjsRb932CI_e0I81gkzd0P6xAVgTnlb1tspnvBqMNjngbBU6wi_aSvKsO_qwhs1FL0b0ZN8XsxOXxIKjZTj1NPK7ZF--smxU_nFOKuzYT7O5liS4bKqXxy6VDNuyGNaWk3vHQbGllphAXWMbqDJWrIZgJxZCkHYtY4LBLx_wbP38Grg",
+          "title": "Libas Printed Straight Kurta Set",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 29,
+           "rating_max": 5
+          },
+          "price": 1039,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/lMjq6HicDcndCoIwGADQJzKjJjIhItE2wqxGFHoT9c1faq5tWvOpep3eps7t-X5qY6QOXLcQoKw0BXfMTUwnlTZX08AEuoer607KRlTL5-J_wSrlmADDt1c5eM36yCihoz7vCXvzzMbjmCeKC7A2z4DFB161ydvpZhFVF-Iz6oPqxTwp0hBIv1O-pn0b4lqEsHVQhHmeo9HDJ4ltjNYU2dOjdDZDKhEc7raofvjKP1Y"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "mwx_arCQKpnakPIPru2t-A0",
+            "product_id": "15465274907204061501",
+            "catalog_id": "8232814349519801082",
+            "gpcid": "17911836954291678717",
+            "headline_offer_docid": "10112085391756536099",
+            "image_docid": "16117830858125755148",
+            "rds": "PC_17911836954291678717|PROD_PC_17911836954291678717",
+            "query": "women+kurta+set+india+biba+aurelia+w+for+woman+libas+rangriti+fabindia",
+            "mid": "576462891335093688",
+            "pvt": "a",
+            "uule": "w+CAIQICIVTmFqYWZnYXJoLERlbGhpLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "14637462700477848182",
+          "merchants": "Libas",
+          "id_to_token_map": "kvAFYHicLVO5juNmDE7yBClTTpXGMCD9ujOYQvdlydZ9NIYsyZKs0zptP81mZneBTbkJkGeZLfIsURZhQYLgR3wg-fGfH35-TYu_6-V2jHrWULsmKg_yoZ_AuKWhL13fJlM8FsmfBAZjCATDBIyRBEAIDCW_xNEYVW1WJH_BKI4QKA4ICEIJgkRJmARf8zRKqqJJ9-dz2nNt_B8OJiGAEzBEYhROEiQCSOiPoo6y9P86BqEkQsEIia5kGAYBDLz1yfDh03VK-_u7sLR12mzKqR-jzZCOm6JJimhzKk7RJpr6tFqTZXNu-80KjJpNtRaGTR81WV-MxeYcnb43fMq672wkChMkQHAAQwQOYQiOUG91kXzFCHwdhqQAAjBi9ST11s3j79HHaarS91-XDUvLhszKrl0L18ALm8BX2h1vVicx73Z8NYVilb9m1WvRvObVa9p8bqNuPsfffnzj-5hl55gxnK5zOROyPGUKgXY_edjNFszIhRQ29Krr3g9rC0Jhz2UmR8S60O-ADrreanTEB5gagq5yLiaUlMpVg6rLGg-eazYhUHa2QD7csrvoknMLpVBNubBwm3DwH-YtEtxZE4WDKzCj5iio41DMiVP4GNFn2xnV1OlqWwilE7-MYSMcNAeGTVcDtrhiRaV3Rf0RgLDUytGMQYjEJaVqcFj4iGDq0IDpDwZ1ah4kkIJEVSLFjskatRJ4pYxa3jCmrsBbIrbb-wxrcboaIYLrlcM9BBnilrqWuIxk1LeDxQnBSQjLvaCXmpP3qagsgUPeXT7ch0Iurnw3W-pKnZH9k5-gPhDuBizsYhHLI5hRHEmBtcYYDZuO5FJY55OxsDJNizMfJlfl9kWfYqDvQtuswnUZqVgJ1iMYbZj_eBv68ztEC9ho7bGWHOjB1-N0Xow2ji0HvkpT1gMqpn9b1bOKGYYpHIKQz3HblkX67adfLJ42Welo0RpvyTb_wmaGfMN55vmJ5tkXOlFcPhqM3dYuEfwitNk-Ow_1OBF3y1CipmwaqA2dkcEv-UFALv5SkAPE9S79_HQ8Wmm86nxr2ebhhdbrcIkA2wjJmcfmI5V3Y6kt2aLcHG698jEjC7_Zaldchvq7a6pIl0pweyEpgc4juoIz98YWyhRtPRZLinoutoZWSKJKqXMg5C3EI9HzE-e-OKhJPor4Tpt0ldFtAjFHqdPUMgsMnmaudax2nV4FBzVD6dWen3SZe8EQ5KW1xdSjxtjQuOIMtesPLK40KTvP606aTMioo5hYxfe9RDCtHo5gwc-aqsxm4-ZYCTrrFsATGEKgc_e9rjH7JlcqQqP2nlHT027e3kb9yvXAKif2ZAus-fBjJHcuB8wI1Kwh-oGB0yK4MtauSRe2G_ZtcEbaKLCDQ-QL4qE6eouWG41S8s59f5eMjt-ej5ySHpTLxCKaNbtX3ajY4Zrg9K2ZQPcoy3xW8YRA5rnLLdANMi4l7vnY7AhpwXM6MPfMFUi3PWfEOIlh1omHApva2sa_9DbRmg",
+          "title": "Libas Floral Embroidered A-Line Suit Set",
+          "rating": null,
+          "price": 2069,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/rwAMUnicDcn_DkJAAADgJ4pI-bG1ZiUhrK7V-MeuY0fm7nA5PE5v1dvU9-_3_ZScs96S5YKgbmK8yBf8SZYS7jnkFZIQbeS-pIxVBO_a7f8sO8pNF92c1clPEgLtPdI1nyhGHOsBFqCkXRuUQlMLeDCGNHxjsPFSZ5iKKQEa9XPoCbZmvNHPk8hc4zE7V1CHtnKsg-rljzCiM8tCNRkvuFPM8f4DPz06cg"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "mwx_arCQKpnakPIPru2t-A0",
+            "product_id": "7515301171587237548",
+            "catalog_id": "14637462700477848182",
+            "gpcid": "18417823621076053639",
+            "headline_offer_docid": "11802671085968783280",
+            "image_docid": "15048391384301550252",
+            "rds": null,
+            "query": "women+kurta+set+india+biba+aurelia+w+for+woman+libas+rangriti+fabindia",
+            "mid": "576462892325792389",
+            "pvt": "a",
+            "uule": "w+CAIQICIVTmFqYWZnYXJoLERlbGhpLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10222918006159690554",
+          "merchants": "Libas",
+          "id_to_token_map": "Fm2oGnicdZPLrqNGEIajeYIsssjyrLKxLNFcTY7OgqsxNo25NYaNhQEDBjeYi7GtvEzOXKTJcjJSnuXMIs8SMuukd9V_VX31l1R___Dja1r8dR5v-6iVrHWDo3K72rYD2c8F4nPT1skQ90XyFdAkxxIcs1gsWIYgOIoAxOc46qOqzv6VCZIkebAgCBYwPMsTDEN_ydMoqQqcmsdj2sp1XCR_LhYUwdAsoHmeZAA9tQN_FOcoS7_LXwHLMzQBGILnKYKaUDxHv2-T7o3eSnvAUSzH0hRHA3YxAScM89vWNuX9_4gfL0Pa3t_UsT6neFYObR_NurSfFTgpotmhOESzaGjTagrG2bFuZ1NihGfVJHSzNsJZW_TF7Bgdvhd8zJrvI_4H6P25SL4w0y9L8gSgaXJywBHk--ba_x59GIYqfftlnEnCylpJK-Se1UvghzjY6fVGsavDMm82SjWEyyp_zarXAr_m1WuKP9VRcz3G3979pNSjLHWjZHlNg2SbcFWomDLKYaWP7rI37JOYezLyoIYKf9fsPB-S1gOGiQcUp4r7HciBhdDaw8otIvXBRSKAWoPTHVpBCtbmUi-hkouprLOHSjxGOyg5IBiNh34xfHsNff5herwOUdI6WHcNN99YXo8MV6cjWbx4p3CXKIgNXUgHPu8ZldqFGAYQV7TtJ2t74kWVzSCPL2KEKCSj9YGqqQRD8qB6faRVqq1Om_BvLPJBmZAEbfkqOfVQI89-mMu89UAIbRxScSW6ppfrUElWIbItxxXursLfTJVXPdkg06ppHLWCprJ4xA7Ymu7ksYSWpyxoXwmlA_Z6Z1l5AVBu6VINTVcnINbP9q4hbTJU47O6g8sm9AC6R759OpxU0gXQcireQ4rxMGXRMhCUQ9T0HvbusZzsgpJf-VquHgimcjx9cEjEpKqamz6jISw8HC1wVBJQqcrncQlthxKHwO8tB4n3ZOJvPGVcFrpoa_Bu-qHtYbiJyr6yQdkb5W3n-tkjXdI0rFY3eLJPvgLsD7euPb4Rgsr0jslYhaQ59_GspJ3Um5lvdm5Hass1UrNfAbdgOQAAzxIE_Smu67JIv7372VEEW9L2jmAozspVXqTMWt1YRXx-EhTpRUh0pESdtZm7JcWe1Dozs2N37gfu7lh6hEuMiTr0epE95VuVOu3GYtERcouE56f93knj6bDmjmtvXwR4DseIlLCaHBXmuufzpi-NMRv1mydfjeU-WxQ7PDcu7Ipo78heU02qgfq04FUhj4QKZOgmFfoQzX2JSYrztZhbRjF549fXQM1rQqGi5ycZvXi0vXgU8V2whSoT6oQQ91pjrMsssBRBvJzjddPAKtiuM1qY3vMTXMkvDEW91O4y9fk-tgy5OBL1dHQj0gZ94_vNwVhxK9rTbaZS2lbjxBqGPTmyR2OtX22McqYkG-cWgIHsQhLKdxMaoolzveIM3vStszBsrvNbDy9ySzrlIB1cVbIfu5jKvdOWsYJ1hrm2E0FaBBfR2eB0lJrOrIMjVUeBG2yjnbrcVnt_NHIL66Xi3c27ZjXK_LiX9XSrnwaJMpwrukCrkrpLwgo3PJDNoyzz65pNOOp6bXKHbLoVqyXouMcbThvZXAhsU7yQ2s2UrZhdMIxzUIjA5eeu9Q9soQM2",
+          "title": "Libas Turquoise Blue Embroidered Suit Set",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 2,
+           "rating_max": 5
+          },
+          "price": 2169,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/mPoECHicDclJDoIwAADAFxVcQC2JMUiUoqGyaJGjlq3IUqCI8ij_4290rvP9ZELwTpPluKLtm4s4AuJezaS0EzfBqETrUu6ymnNWpZtm_T9NxxE0qZvCvHwkEToUKkaxWRr563hVMIhApeTj1iOBS8JJoVymqm3vOucU4AnbJ2iuM-4TbLkLoJbUaAl4YsOJ7SGxRwTgGTZ7hHuz8ZI-YGF4ew2-BV2yXC0g9H7MWTw2"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "mwx_arCQKpnakPIPru2t-A0",
+            "product_id": "14276075888650073010",
+            "catalog_id": "10222918006159690554",
+            "gpcid": "17367643741681029695",
+            "headline_offer_docid": "8830546149925145881",
+            "image_docid": "16954015099303886974",
+            "rds": "PC_17367643741681029695|PROD_PC_17367643741681029695",
+            "query": "women+kurta+set+india+biba+aurelia+w+for+woman+libas+rangriti+fabindia",
+            "mid": "576462901442150702",
+            "pvt": "a",
+            "uule": "w+CAIQICIVTmFqYWZnYXJoLERlbGhpLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "markdown": "\n\n**🌿 Fabindia — best if fabric/quality matters more than trends**  \nI'd pick it for cotton, understated embroidery and a more timeless wardrobe.\n\n### If I were spending my own money\n\n- **₹1,000–₹1,500:** Libas / Rangriti\n- **₹1,500–₹2,500:** **BIBA / Aurelia / Libas** ← sweet spot\n- **₹2,500–₹4,000:** **W / BIBA / Aurelia**\n- **₹4,000+:** Fabindia / premium BIBA or W\n- **Wedding/festive:** BIBA or Soch\n- **Office:** **W for Woman**\n- **Daily cotton:** **BIBA or Aurelia**\n- **Trendy/youthful:** **Libas**\n\nIf you tell me your **budget (e.g. under ₹1,500 / ₹2,000 / ₹3,000), age range, and whether you want cotton, festive, office or daily wear**, I can narrow it down to **5–10 specific kurta sets currently worth buying online**.",
+        "sources": null,
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

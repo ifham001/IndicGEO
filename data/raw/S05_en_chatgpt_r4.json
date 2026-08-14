@@ -1,0 +1,460 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S05",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 4,
+  "promptText": "Which serum should I buy for acne-prone skin in India under ₹700?",
+  "cellId": "S05_en_chatgpt_r4",
+  "startedAt": "2026-08-14T12:52:40.039Z",
+  "finishedAt": "2026-08-14T12:52:55.643Z",
+  "durationMs": 15604,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "For **acne-prone skin under ₹700 in India**, I’d prioritize **2% salicylic acid** if you get active pimples, blackheads, or clogged pores. Niacinamide is a useful bonus, but you don’t need a very high percentage. [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/life-style/beauty/why-more-ingredients-dont-always-mean-better-skincare/articleshow/133209263.cms?utm_source=chatgpt.com)\n\n### My top picks\n\n### [The Derma Co Sali-Cinamide Anti-Acne Face Serum]()\n*₹314*\n\n### [The Derma Co 2% Salicylic Acid Face Serum]()\n*₹213*\n\n### [Hyphen Acne Defence Daily Serum]()\n*₹610*\n\n### [Minimalist Niacinamide Face Serum]()\n*₹212*\n\n**🥇 Best overall: The Derma Co Sali-Cinamide** — **2% salicylic acid + 5% niacinamide**. This is my pick if you have **active acne + oily skin + acne marks**. Current listings are around ₹314–₹527 depending on seller. [www.tirabeauty.com](https://www.tirabeauty.com/collection/serum-for-oily-skin?super-ingredients=Niacinamide&utm_source=chatgpt.com)[www.1mg.com](https://www.1mg.com/otc/932964?utm_source=chatgpt.com)\n\n**🥈 Best if you mainly have clogged pores/blackheads:** **The Derma Co 2% Salicylic Acid**. A simpler formula, currently around ₹213 in the product results.  \n\n**🥉 Best gentler daily option:** **Hyphen Acne Defence Daily Serum** at about ₹610. I'd choose this if your skin gets irritated easily.\n\n**For mostly acne marks rather than active acne:** a **niacinamide/azelaic-acid** serum makes more sense than repeatedly exfoliating. Azelaic acid can be particularly useful for post-acne discoloration and inflammation. [www.marieclaire.com](https://www.marieclaire.com/beauty/skincare/azelaic-acid-vs-niacinamide/?utm_source=chatgpt.com)\n\n### What I'd buy\nIf you told me nothing else about your skin, I'd buy **The Derma Co Sali-Cinamide**. It gives you both **2% salicylic acid for breakouts/clogged pores and 5% niacinamide for oil control and marks**, while staying comfortably below ₹700. [www.tirabeauty.com](https://www.tirabeauty.com/collection/serum-for-oily-skin?super-ingredients=Niacinamide&utm_source=chatgpt.com)[www.1mg.com](https://www.1mg.com/otc/932964?utm_source=chatgpt.com)\n\n**How to start:** use 2–3 nights/week initially, then increase if your skin tolerates it. Don't combine it initially with retinol, strong AHA/BHA exfoliants, or other irritating actives. Wear sunscreen every morning.\n\nIf you tell me whether your skin is **oily, dry, combination, or sensitive** and whether your main issue is **pimples, blackheads, or acne marks**, I can narrow it down to **one serum**.",
+  "citations": [
+   {
+    "url": "https://timesofindia.indiatimes.com/life-style/beauty/why-more-ingredients-dont-always-mean-better-skincare/articleshow/133209263.cms?utm_source=chatgpt.com",
+    "source_name": "The Times of India",
+    "position": 1
+   },
+   {
+    "url": "https://www.tirabeauty.com/collection/serum-for-oily-skin?super-ingredients=Niacinamide&utm_source=chatgpt.com",
+    "source_name": "Tira",
+    "position": 2
+   },
+   {
+    "url": "https://www.1mg.com/otc/932964?utm_source=chatgpt.com",
+    "source_name": "1mg",
+    "position": 3
+   },
+   {
+    "url": "https://www.marieclaire.com/beauty/skincare/azelaic-acid-vs-niacinamide/?utm_source=chatgpt.com",
+    "source_name": "Marie Claire",
+    "position": 4
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "15.2948 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141252-2163-0629-0000-1cd6087a921a",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "15.2675 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Which serum should I buy for acne-prone skin in India under ₹700?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which serum should I buy for acne-prone skin in India under ₹700?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20serum%20should%20I%20buy%20for%20acne-prone%20skin%20in%20India%20under%20%E2%82%B9700%3F&hints=search",
+      "datetime": "2026-08-14 12:52:54 +00:00",
+      "markdown": "For **acne-prone skin under ₹700 in India**, I’d prioritize **2% salicylic acid** if you get active pimples, blackheads, or clogged pores. Niacinamide is a useful bonus, but you don’t need a very high percentage. [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/life-style/beauty/why-more-ingredients-dont-always-mean-better-skincare/articleshow/133209263.cms?utm_source=chatgpt.com)\n\n### My top picks\n\n### [The Derma Co Sali-Cinamide Anti-Acne Face Serum]()\n*₹314*\n\n### [The Derma Co 2% Salicylic Acid Face Serum]()\n*₹213*\n\n### [Hyphen Acne Defence Daily Serum]()\n*₹610*\n\n### [Minimalist Niacinamide Face Serum]()\n*₹212*\n\n**🥇 Best overall: The Derma Co Sali-Cinamide** — **2% salicylic acid + 5% niacinamide**. This is my pick if you have **active acne + oily skin + acne marks**. Current listings are around ₹314–₹527 depending on seller. [www.tirabeauty.com](https://www.tirabeauty.com/collection/serum-for-oily-skin?super-ingredients=Niacinamide&utm_source=chatgpt.com)[www.1mg.com](https://www.1mg.com/otc/932964?utm_source=chatgpt.com)\n\n**🥈 Best if you mainly have clogged pores/blackheads:** **The Derma Co 2% Salicylic Acid**. A simpler formula, currently around ₹213 in the product results.  \n\n**🥉 Best gentler daily option:** **Hyphen Acne Defence Daily Serum** at about ₹610. I'd choose this if your skin gets irritated easily.\n\n**For mostly acne marks rather than active acne:** a **niacinamide/azelaic-acid** serum makes more sense than repeatedly exfoliating. Azelaic acid can be particularly useful for post-acne discoloration and inflammation. [www.marieclaire.com](https://www.marieclaire.com/beauty/skincare/azelaic-acid-vs-niacinamide/?utm_source=chatgpt.com)\n\n### What I'd buy\nIf you told me nothing else about your skin, I'd buy **The Derma Co Sali-Cinamide**. It gives you both **2% salicylic acid for breakouts/clogged pores and 5% niacinamide for oil control and marks**, while staying comfortably below ₹700. [www.tirabeauty.com](https://www.tirabeauty.com/collection/serum-for-oily-skin?super-ingredients=Niacinamide&utm_source=chatgpt.com)[www.1mg.com](https://www.1mg.com/otc/932964?utm_source=chatgpt.com)\n\n**How to start:** use 2–3 nights/week initially, then increase if your skin tolerates it. Don't combine it initially with retinol, strong AHA/BHA exfoliants, or other irritating actives. Wear sunscreen every morning.\n\nIf you tell me whether your skin is **oily, dry, combination, or sensitive** and whether your main issue is **pimples, blackheads, or acne marks**, I can narrow it down to **one serum**.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://biomlogy.com/products/dynamic-anti-acne-serum?utm_source=chatgpt.com",
+        "domain": "biomlogy.com",
+        "title": "Biomlogy Anti Acne Serum for Acne Marks - 30ml – BIOM:LOGY",
+        "description": "DYNAMIC SOOTHING SERUM 30 ML  Dynamic Soothing Serum 30 ml  7% Niacinamide 2% Salicylic Acid 2% Ceramide Acne Clearing Serum | For Active Acne & Oil Control | Reduces Blemish & Acne Marks | Soothes |...",
+        "breadcrumb": "biomlogy.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.nykaa.com/dp/serum-for-open-pores?utm_source=chatgpt.com",
+        "domain": "www.nykaa.com",
+        "title": "Buy Serum For Open Pores Online At Discounted Prices From Top Brands",
+        "description": "BUY SERUM FOR OPEN PORES ONLINE  (100)   The Derma Co Pore Minimizing Face Serum With 4% Niacinamide,...₹599₹52712% Off Regular price ₹599. Discounted price ₹527. 12% Off.Enjoy Complimentary Gift( 52...",
+        "breadcrumb": "nykaa.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicdrop.in/drops/acne-treatment-products?utm_source=chatgpt.com",
+        "domain": "magicdrop.in",
+        "title": "Best Acne Treatment Products India 2026 | Magicdrop.in",
+        "description": "beauty By Arjun · 19 June 2026  BEST ACNE TREATMENT PRODUCTS IN INDIA 2026 — PRICE, DEALS & COMPARISON  📢 Affiliate links — we may earn a commission at no extra cost to you. Read our affiliate disclo...",
+        "breadcrumb": "magicdrop.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicdrop.in/drops/best-salicylic-acid-serum?utm_source=chatgpt.com",
+        "domain": "magicdrop.in",
+        "title": "Best Salicylic Acid Serum India 2026 | Magicdrop.in",
+        "description": "beauty By Arjun · 29 June 2026  BEST SALICYLIC ACID SERUM IN INDIA 2026 — PRICE, DEALS & COMPARISON  📢 Affiliate links — we may earn a commission at no extra cost to you. Read our affiliate disclosur...",
+        "breadcrumb": "magicdrop.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicdrop.in/drops/best-serum-for-open-pores?utm_source=chatgpt.com",
+        "domain": "magicdrop.in",
+        "title": "Best Serum for Open Pores India 2026 | Magicdrop.in | MagicDrop",
+        "description": "beauty By Arjun · 29 June 2026  BEST SERUM FOR OPEN PORES IN INDIA 2026 — PRICE, DEALS & COMPARISON  📢 Affiliate links — we may earn a commission at no extra cost to you. Read our affiliate disclosur...",
+        "breadcrumb": "magicdrop.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.1mg.com/categories/skin-care/face-serums-4432?utm_source=chatgpt.com",
+        "domain": "www.1mg.com",
+        "title": "Online Pharmacy India | Buy Medicines from India's Trusted Medicine Store: 1mg.com",
+        "description": "Minimalist Salicylic Acid 2% Face Serum | Reduces Oil, Acne & Blackheads | Face Care Product for Acne-Prone Skin 30 ml Serum 4.2 105 ratings Get in 60 mins₹549₹494 order for₹1200 ADD  The Derma Co 10%...",
+        "breadcrumb": "1mg.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.1mg.com/otc/the-derma-co-2-sali-cinamide-anti-acne-serum-otc932964?utm_source=chatgpt.com",
+        "domain": "www.1mg.com",
+        "title": "The Derma Co 2% Sali-Cinamide Anti-Acne Serum: Buy bottle of 30.0 ml Serum at best price in India | 1mg",
+        "description": "THE DERMA CO 2% SALI-CINAMIDE ANTI-ACNE SERUM  ₹545  ₹599  9% off  Get for  ₹491  Image: right chevron icon  on orders above ₹1200  Use Code 1MGNEWPLUS  Get for  ₹501  Image: right chevron icon  0  B...",
+        "breadcrumb": "1mg.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.klir.in/products/klir-acne-pore-serum?utm_source=chatgpt.com",
+        "domain": "www.klir.in",
+        "title": "KLIR Acne Pore Serum | 2% Salicylic Acid for Acne & Open Pores – KLIR SKINCARE",
+        "description": "* Image  * Image  * Image  * Image  * Image  * Image  * Image  1 / 7  * Image: KLIR Acne Pore Serum – 2% Salicylic Acid + 2% Niacinamide + Zinc PCA for Acne, Pores & Oil Control – 30ml * Image: KLIR...",
+        "breadcrumb": "klir.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://sskin.care/ingredients/salicylic-acid-products/?utm_source=chatgpt.com",
+        "domain": "sskin.care",
+        "title": "Every Salicylic Acid Product in India: All Options Compared (2026) — sskin.care/",
+        "description": "Derma Co  | Sali-Cinamide Anti-Acne Serum with 2% Salicylic Acid & 5% Niacinamide - 30ml  | Serum  | ₹599  | 2%  | View → Derma Co  | 30% AHA + 2% BHA Peeling Solution - 30ml  | Serum  | ₹599  | -  |...",
+        "breadcrumb": "sskin.care"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://blog.flash.co/serum/top-10-salicylic-acid-serums/?utm_source=chatgpt.com",
+        "domain": "blog.flash.co",
+        "title": "Best Salicylic Acid Serums in India (2026) | Flash AI",
+        "description": "Salicylic Acid Serums. Flash AI analysed 10 products from 9045+ verified reviews across multiple platforms. The top pick is Foxtale 12% Niacinamide Clarifying Serum with an AI Score of 92/100, availab...",
+        "breadcrumb": "flash.co"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Why more ingredients don't always mean better skincare",
+        "snippet": "The article \"Why more ingredients don't always mean better skincare\" from the Times of India (dated August 13, 2026) discusses the growing trend of ingredient-focused skincare shopping. Consumers increasingly recognize ingredients like niacinamide and salicylic acid and often rely on percentage values listed on product labels to judge the product's strength. However, the article emphasizes that higher concentrations or a longer ingredient list do not necessarily result in better skincare outcomes. Instead, it suggests that factors like ingredient synergy, formulation quality, and individual skin compatibility play a more crucial role in determining a product’s effectiveness.",
+        "domain": "timesofindia.indiatimes.com",
+        "url": "https://timesofindia.indiatimes.com/life-style/beauty/why-more-ingredients-dont-always-mean-better-skincare/articleshow/133209263.cms?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "The Times of India",
+        "publication_date": "2026-08-13 13:30:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Serum For Oily Skin Online at Best Prices in India on Tira Website & App",
+        "snippet": null,
+        "domain": "www.tirabeauty.com",
+        "url": "https://www.tirabeauty.com/collection/serum-for-oily-skin?super-ingredients=Niacinamide&utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Tira",
+        "publication_date": "2026-07-28 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "The Derma Co 2% Sali-Cinamide Anti-Acne Serum: Buy bottle of 30.0 ml Serum at best price in India | 1mg",
+        "snippet": null,
+        "domain": "www.1mg.com",
+        "url": "https://www.1mg.com/otc/932964?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "1mg",
+        "publication_date": "2026-07-15 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Azelaic Acid vs. Niacinamide: Which Is Better for Dark Spots?",
+        "snippet": "This article compares azelaic acid and niacinamide as treatments for dark spots, breaking down how each works, what kinds of discoloration they best target, and whether they can be used together. Both ingredients help reduce pigmentation but via different mechanisms: azelaic acid inhibits melanin production early on and reduces inflammation—ideal for post-acne marks and melasma—while niacinamide interrupts pigment transfer and strengthens the skin barrier, making it gentler and suitable for sensitive skin. \n\nAzelaic acid is more suited for discoloration linked to inflammation, and is available in both prescription and OTC formulations. Niacinamide, or vitamin B3, is a milder option beneficial for generally uneven tone and for routines involving multiple active ingredients. Although neither ingredient is considered ideal for sun spots, they can complement each other when used together. Results typically appear in 4–12 weeks with consistent use, and sunscreen is crucial to prevent further pigmentation. Potential side effects include initial irritation, mainly with azelaic acid. Proper product layering and choosing well-formulated treatments with barrier-supporting ingredients enhance outcomes. Dermatologists also recommended specific products tailored for different skin needs.",
+        "domain": "www.marieclaire.com",
+        "url": "https://www.marieclaire.com/beauty/skincare/azelaic-acid-vs-niacinamide/?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Marie Claire",
+        "publication_date": "2026-08-12 14:19:04 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best acne serum India salicylic acid niacinamide under ₹700 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "For **acne-prone skin under ₹700 in India**, I’d prioritize **2% salicylic acid** if you get active pimples, blackheads, or clogged pores. Niacinamide is a useful bonus, but you don’t need a very high percentage. [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/life-style/beauty/why-more-ingredients-dont-always-mean-better-skincare/articleshow/133209263.cms?utm_source=chatgpt.com)\n\n### My top picks\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Why more ingredients don't always mean better skincare",
+          "snippet": "The article \"Why more ingredients don't always mean better skincare\" from the Times of India (dated August 13, 2026) discusses the growing trend of ingredient-focused skincare shopping. Consumers increasingly recognize ingredients like niacinamide and salicylic acid and often rely on percentage values listed on product labels to judge the product's strength. However, the article emphasizes that higher concentrations or a longer ingredient list do not necessarily result in better skincare outcomes. Instead, it suggests that factors like ingredient synergy, formulation quality, and individual skin compatibility play a more crucial role in determining a product’s effectiveness.",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/life-style/beauty/why-more-ingredients-dont-always-mean-better-skincare/articleshow/133209263.cms?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "The Times of India",
+          "publication_date": "2026-08-13 13:30:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "17903418534338511782",
+          "merchants": "Nykaa Now + others",
+          "id_to_token_map": "XjLY7XicbVS5ruPIFTXmCxw4ctT5wwOquHMaLyApLqKkoljFPRG4SdxJUeSjRMzXvJ4ZYBy2DUw2_9ET-FusdmoXUKjgFM6527n__stfP_Ly914ST_HQJdsxH8BRPXavr2tvh78NY5_N6VRm_4ICzXOiIEIB0CzHA8gI3G9pPMVNf_kO8yKgGSiwNEPTAgshL1BfizzOmrLLrfM5Hzd9WmZfKZ4RIccCDvIs-2SkmX-UbXzJ_4v-k2Z4moMiJ_AiJQocJwj8lzG7fQNH5URTAmCevBxFMwzN8jT70xFbm9P_hX65zvn4-MbGaZe_3PJxbl9ucVOmj-d9iZ9SL135fLq4LbP8peyyMn6ZuywfX3gAfrkM30P9X9Yvz99fWZ5jOErgBAZSzDNImvkyvE8fxeXneW7yP5YXRdraW2V7dFvtGgYIxLo279VmjvSm-Lg0H2X3UTQfefdrHw_v5_TPH_6m9stGuS2K7Q6Dt8GA-DYIfXi1vCZw1-KOfHMfUGiMK8ymACluhypUs2fUmIekDunMFY9-DRZL93CiyXTUmIXneMiDQ5C393NayVPSmPrBw9CtD0u0Fmdfy5bYE30Esz3Rm8luNCaq8cavhyql1AXXEcZGscNAY-1a05FbWEltRomKiszNqNC1Hzbo7wSoVOoiLgy0JQrcJVc9HcFixiACqBVYT53KQ5BRhwekIqO4Wm40OoFGEByIoxf7aI0K2y1mBMDDBaaWb7zJ12s6NTDta_IQUxnjdXjBCpQJgPtMT58aSE4esHLrno3WBoagho6BAuINJXZvK17ROdfMIQSoivWUijztkVVmm3uZGflw73emk_r4ZrkT8auowZTWJXW0ZtREYu2Z2-pZvqo9dU0jD5r7s07TIUBHspH7g4NoD2i6Axo_rCI913GAa5VolChbnlikOluSwGzSjWxjT573BHIJ1CK9NGVsoIflRxhRmoKMxnboDPiVDYlbQNdHLNIalGzs6aA33c_323j-BiSNnYjFuYP0KirJmssOl3HaApj9TsCLLxHpx6fVOB5-d43A07-mfV-X-Z8__J2oElaME5EOKtk66ptysbd3TpU_f5JU5U3KTE-NJ5FjH_Ia1EbL0NetLslrPEpkXXfZ04mWBm5l5xI974JhihAzV3bjgs-fNt6bLSADpI9LRoPiZtjgYSWnM0WZbbVoEuoPpUiF_nxJaln6fj5_Op1Ins5j_kocfHyTUBstMb3dQ8Smt-vkg8LGbb-pm0TZpiAzSgq2j9TajTVuX4PofoNj8C6E8zjGDsvlN9I64ybMK2EIB1a_pR5NTnx-2d4pz7vtk-WOlM-f0HbzxtL0W9q-ltNzfMwqeHcuJMEXJYj3e-4Y3Dm2SOeO1jVMDvp5UQzGLk7R3XIG0if8fUvSkQncVgzZwmde07u6EnZhE8MPSHSbSaKVaId0z3jlB05jsCwk3rG_XtucFcsV52t5UsbEhNVR2TvOpPmacd-F5rtk54I8aqMhPtoFz1oUigE_XKgbKg5WLErHdkfz6FxlOtX3iXHtd0wuG_GzJ0XYLdnkdtu8ujwym-p3PHUmp8nvzVg8XopOXliLLuOdibopdQ47_7kNsBpukgdJaqhawvIfvZv3UQ",
+          "title": "The Derma Co Sali-Cinamide Anti-Acne Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 230,
+           "rating_max": 5
+          },
+          "price": 314,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/YBYJA3icDclRCoIwAADQE6XCRFOIiALTmmkLSn_EberUctMtprfqOt2m3u_7fphSQvqmWQ1kWoSq6ErhARiNVKVqiUH4y5SMC9EOzXbc_M_fxdQLCOIUXaMKt_CEUHhzQJIgN37QcgjsbnYwjpXMM3jnTYoxLTSeQOUCHZM535PQDhaW8qmGxUGHF2aNCQvrozNBqM9rT-yl5bLew71uguKtIYngE4hb1rXpD8vlP5o"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "oA9_apnbIrep0PEPn--zoQY",
+            "product_id": "18376989180356701486",
+            "catalog_id": "17903418534338511782",
+            "gpcid": "328041176234435735",
+            "headline_offer_docid": "274916506175537634",
+            "image_docid": "3473619687929866887",
+            "rds": "PC_328041176234435735|PROD_PC_328041176234435735",
+            "query": "acne+serum+salicylic+acid+niacinamide+india+under+700",
+            "mid": "576462868412498634",
+            "pvt": "hg",
+            "uule": "w+CAIQICIPUmFqYXN0aGFuLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "4031854231016164204",
+          "merchants": "Flipkart + others",
+          "id_to_token_map": "ajwykHicbZLLrqNGEIajPEEWWWU1-6Mj0dzJ6CzA5mobm25oYzYWNG2DuZqLwVae5swkUrKcLLLLe0wWeZY4WaekUpX01-WTqv7-5rt3mv_RqMoxbuvE7mjL7PRd_fr6aLzDr23XpCMZ8vR3VgKCIEuMLIqsInGAE8CvJB7isjk_VZ7hgCzwLAcYIAKRZxn-S0bjtMxruj2daLdsSJ5-AeKzlVVkhZMUmRdZwPyWV_GZ_qf-Logip7ASz_MiDyROkmThU5f2X9nd4sjysig8GTieY1hWVDhB-mkHt8vj_2s_X0fa3b8KManpS0-7sXrp4zIn96e_xM9lL3X-DHVc5Sl9yes0j1_GOqXdi8QwP5_bf3H-Z-ynZ_kXQRKf6LIiMyyQZSAD6VN7G96z8-dxLOmf08tCtT17Ye-CyrgeQpeJTWNc6-UYmWX2fi7f8_o9K99p_UsTt7cT-evb7_VmWi76aeEFbYuXkEGMKxKrzTw_CiPglHQZsL5hoI2vge2-vSWGsnGXxbyx9HnDpBbGrbn1y2uK25tX2g-vUkBqlksPZysX6ywqjDrRhw6bAK6x4xGmeCS1KkBscIQZYHxxGhfjBd27kAa2EJjlLTIyG1VG6-tKGDOlBU23PVQzCgJwQuwAyT5aJboCfX1gUeC4fnBmAlMRowpPcZFVpNpwe18H6zAzkwo62MJwg9NbojsVDjWUBm2GcbQK9pnmVm4WBekMmbTYVK25CSLgFWCFgshBrOP7tRFjAxcIE9YN3cFne0Bwm7nmkG3qlKFBe9vqQHMLcKWFLOBSYUPOniIrAq4BR2IdAKyULrk4PQr6e7xPEVlGh5BV2ic4S6t5xIYxwxLbPmus42AOUkMVNoHRxQwsUjOyyb4VIHDuuFQf1PeeeXlJC9ySymZCjiCDVbQtVjJiCjkKnZIsNQ9ibVwjICbAiMzc0aDl3rf7CFHDYeAyO5GqmA811uPAOQT6rMFCWfrFMG0tqH2e--70lVENYUBbMWjVV2WRPKjmi6loTAy_Xslw2qtI_RFIsigBoIiyLHG_kKYpcvrXtz8gXYUL64jUjY5sX39bnD17FnXt4wdVX7ypqfPcOyiicNceYWFVPHe1TVV7xJ2KHo9Vykvc1mD6vA6QSeuwHSKXHy9eGTAfPyzxmye7FkPu55Rjst7ymPs2OZ5Y1qkuk6G6zSZX2MN-PCeFpv5rHz8cj4iSsaOvyIe7N9Wtoinm7DVwBdJfhz2TebBqlkWZLGzyfOmcBdWdbFddAavXMJp70IU3-TB2XewLIu1R5XfLA73I7aEVzJ5gDh0lerZnFuN-nUyzu_j4wbWXbwLHvZHqNR-AhpxLePPPKIHnRRiv1-IunEUhI2PNmQZEG_M0LSzey47RvPVb1CTSbCPS8WFQKQch2_OvZNYfSJiExNqHKOpHlBi5u3JNbL1KrWjwUJMTvGuu14oKSv6A9JEfF13igMtusfb9wdgb1rw6ODfVo7LWGZ2l3KsJjkZ0UEKpPbO9m222saLuqhUnuadLarJNk1jXZsVTzYqfN8kO9ZQOQW3Ty_meemyzktgTOg77xomV3TmrtUnYcnm8ctx6IP5mtY9KB-qHZXJHSQH0rTz9A6jb9-4",
+          "title": "The Derma Co 2% Salicylic Acid Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.3,
+           "votes_count": 1700,
+           "rating_max": 5
+          },
+          "price": 213,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/0jEajnicDclJDoIwAADAF7GlB1MSYwQEZTNFBfFiaIuUBEqxDcun_I-_0bnO98OUEtI2jJqT9ypUTTWFuaU3UlWqJToZekOyQYiWN7tx-z97n1IYkGuFDngEU3fehPM4RGuYwDJjRXvUwP0h8jw707jg3AlNa_Ya8Ebw_iwPlBTQZQEM_Mid4uuroxzcpAxAccE9Qrnn-qTEp4gRCPFwsfIZmWmSaM7i0HWRPweNPVs"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "oA9_apnbIrep0PEPn--zoQY",
+            "product_id": "2715587086629731351",
+            "catalog_id": "4031854231016164204",
+            "gpcid": "2486527134302269357",
+            "headline_offer_docid": "169732989379846210",
+            "image_docid": "5663927444641737785",
+            "rds": "PC_2486527134302269357|PROD_PC_2486527134302269357",
+            "query": "acne+serum+salicylic+acid+niacinamide+india+under+700",
+            "mid": "576462898021881817",
+            "pvt": "hg",
+            "uule": "w+CAIQICIPUmFqYXN0aGFuLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "2995688910614226149",
+          "merchants": "Myntra + others",
+          "id_to_token_map": "KfEc43icbZS3ruNGFIaNfQIXLlxu5-JCAHPwxS1IMUskxRwagWFEUhxGkVSAn-ZuANbl2oA7v8du4Wcx1253isEA_8GH_4Q5__zw4yuo_uo49pgsWCksILqm9WExg6Ww1E_92OVzNlX5nyjOsgyJ0xiNYxiJYixJUJ-yZEpgV1T5HxjLkhTDsChCoQSGrRf7uQRJDqsWmKcTGIUuW8MYBkEw_D8QRSIsscb-XjVJAf6X2ZWMMjhL0hRB0gTC4ui7Mb98wQ7b48pkMGJl0wTOoixFk8xvB9sUjt_XPgwzGO9ffkkeACZV9pSs_KcLGOdmfbbgqWrzKnma2xyMTzSCfCj6bwa-A3rXVPnnb4YojKbXpBGCZBiGetcv02tZvJ9nCP6-Pm051VK36sFrpCEKDSSRpXkvwjmWYflawNeqfS3hK2g_dkm_nLKvb34Su6uwvVy3ltf3vmAjrsze07AjDcWm_LNfB3VJeGF8S8MeBTUKIywn07qfPGjv_AY2CXK5xpiB2A07xw2qhnhPmK7mGvJ0TTwy9ms_yAVoZmf_kmLkKQoYzJB0whNRwq2NKasQ0hCgEggQAp8fnXMe2qgNM7THvDZ7hIhd64jmBzVUIsi6xkMlbJwnU0-6WbitZS3Es0f2cNvintaTmJylypNYJ8b5s9HE0HZ5PhVh5yKx5WO9ZuG9HCLkyZSvV12OoY7zri_Xj_xRRpk8de4jnvQwF5O6dyMvP_lhqUYNGjuusXqDuOcZka1A2RfiMWr93mmmNqrLMgnIMMRzylorAVqDcMM48jARMeQblvmGsF_95hC6mSiRHoYaOmI4ricluUcuptefgyaHFtqrQcuvvHx2AxQP2nzrnI3Or-1RR6QqEGNn70EUuP7Zk6w7OPuG3mSOhLG86bNlftY6W4lhEK5DhfKYi-ZYjEqaXGm8rRh3M4hdQ_Qe-7BADKnsHYytfd-AASxtH-3LwEEvoJba97fLePqCcBI5OSY1F7weKI4j7HqbZ_RaQXB1KIwNV1m_ojRD0eg6oQxB4x-zrqsr8PXNz8ejA7J5BBvHtQ8v3NqHa4JXU6sjJ64JwHDvFv9yU4l9keFn1vIu-oBoUxIP_G6OFQP4x8Gq8kfltfmpKC-zEsWMtLmJ91w7ypKKZCxyETM8zQFh7fAH9_zWETl7qxwdThcd1RVftuvauFEi__yWE7cvXK75YrJA-fwguyMottcNuAaKZZsgoYZZq9VuBk3G0RPtuXvxrtRoa_RGy0Lx-a3gv0RUscOaAFH4bLgoFnI30-MJw3pEICSOH8-5l4UHSyt73uPW8_zWUIUXEsdfnEfvHK7dLQ6wbWBGwV0UC_S2jFwVEliVKw0hmmrL7Db9pT54PmVjra0NuOuUG3rriDgCOk5S8spGmeQMlJJT5bjbZ6Wipfvt_mronRy2dLb30buWjYG1bG_LYFv0kUnjxzKleUiH47oA4DDTVMe2Y7zX7e6QLmkaWKHcGsqiCOKQbe5Jd08O-skDzIE0yZlLd8X-JvVcRnGjhhKEZgz-0Np31UTWX6dvxBPWDbFHU-zNtv1lPp-UY-pAmK6d2JUWvW-1bXw8SqDBaSGRpuEyV9G_j9f1ww",
+          "title": "Hyphen Acne Defence Daily Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 192,
+           "rating_max": 5
+          },
+          "price": 610,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/0M6GSHicDcnbDoIgAADQLzJdFmZba1JLulGpS_OtFPNSCIIt-Kj-p7-p83q-n1JKJqamSWjWKSZJbsgbtQd3Ia-yygZZ-zRF2TJW0fucz_439XDu-tkJdAayA27kxsrqgpg0CO0mDHDMVxvoHkixro4p2TtL1cMGqZajEDxCSPyxdfBuUF-EqnP9OstRq8u3tBedOIptj4tE08jiyTC1MC0iF2JQh46KR_QF4A_7Aj3x"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "oA9_av2hDveYwbkPvOWvgQI",
+            "product_id": "13998537273225129546",
+            "catalog_id": "2995688910614226149",
+            "gpcid": "2618244227439196758",
+            "headline_offer_docid": "8800239853765094142",
+            "image_docid": "9251183957645740931",
+            "rds": "PC_2618244227439196758|PROD_PC_2618244227439196758",
+            "query": "azelaic+acid+serum+acne+india+under+700",
+            "mid": "576462775460458886",
+            "pvt": "hg",
+            "uule": "w+CAIQICIPUmFqYXN0aGFuLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "14523880823984427695",
+          "merchants": "Purplle.com - Beauty Online + others",
+          "id_to_token_map": "jgZdH3icdVO5juNGFDT8BQ4cOdp8MEA3b3oxASnxECVSJJt3IvDoESme4iFShL9mdm1gHa4NOPN_rAN_i7Vwaj_g4QVVqEKh8P7-5rs3XPzRCvwp7ppk1-MOmJLZPD-vrRV-6vo2m9KxyH7jSZanKALQLEfwJElBmvqUxmNcteci-x1SNEFyHOAIkuceNJbh6c85jrOqaPDx9RX32zZ9qECKJZgHj-RYSHA0oBn4a1HHZ_wvzPEPAoAk-9CjAIAAsh_6bPhCmZsTBBTPAUjzFGC-unMAUD-Z9nF7-h_w5-uE-_sXOk4b_DTgfqqfhrgq0vtjn-KH3VNTPE4T10WGn4omK-Knqclw_8QC8PO5S7_m-g_dDw_-Z5plKIagH2lJAAgaUuBDdxvf8vPHaarwn_PTRthZu83OdGv5GgYGiBV5OkjVFClV_nau3ormLa_ecPNLG3e31_Svb7-X2nm7GeaN5Xadt7UBKvMOyWJngTE4OJ4aqe0SEtnRKyGhS51rNLJir5GS1JqNypAOS55yHc-OFO-KpaUNvWyM68rxEBgd2TZ9l5rdkqKwmvuoXmbdjwa_EVuk5EdvmyuRNJMOWFRcdYRxsafwDg8ZmSN9jVZnNUi35ElXGS-eG91wk4-OYtcWjMw4MEzLy_OjlDNRZV_90tAztRxdhRedUpMCUiujEnaJD71Etmav0QYddE5CGDfLj3wcuPdU6RbDz5HtjqtftrQDsuboLrXulCAiuylzxyEFJXDrck2CjvA9DfolTdhyOUcFVBypW-OmukWVSIS-HTnQI71LdkC-FntypDo-f0OqZ9ouv3U9TUKKe9dr7eqrZ1r3M82oNCIMcoAKSKMyu8bbyER1Jvq-d8BKbiJJrvRGh64r9zGMtslWXF13MfWLKKbyjkQXY2fXKZIJXjx6fJ4qdIECrUq3omV74nRAkEmgHCmFJtqqcT_6ke3UcNCbvMwAHDygubG02MgdY7u0O1zxhgds--My9K9fgCDTIzoybic885tkxaLDZIw8A-qw5-zZF5DwI2Q5hoWQf3wXS_6Stm1Z4L--_QFJgr1RT0jQJbRzpJfN2dotjCS-fydImxch0zwpHnmGvotrUKo1RV53iiCucS-gdd1nFEseZTAUjYsU3ATdGBnUdLEqF7x_t_VeLM5QQXo_ZyTIB9UC92NyeiUIrb7MsmC0esE_2pjOSSkKX-f9u9MJ4XTq8TNybPNFMOpojsndARp0OlxHH-SWXbfbsko2uxRkakHA-p4e931p189BtAywD25cOPV97NAMHlDt9NsQX7gu7GhlSD0SnVh83i2E5w2HZF6Mzft3xm77QpPkS1o_FyMUkXYJbs4ZJfZ5E8SHA2MGC0Pn6dSQimwjXXmdNypl5adoOTodahN22aG0pwK35kM696nndJFWRM90ovoBioYJJXJh7A3FU5_ZjpEpW-QSz2yv1xrTfLHaeC1Omz7R4MXcHBxnlH1ZXfahdhMszIm93Kv8vZ7tSY5CPmC7MzEYuX6MecGs9yRrvF4yhWjbRL22ewqLavzoJA-bORvdZocv53tmEe2eJV7RafRbLebNc96IM30ki3ivGc2YOvrejyrNlsJtckdJCaUjN_8DRN77cg",
+          "title": "Minimalist Niacinamide Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 4500,
+           "rating_max": 5
+          },
+          "price": 212,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/_OwMSHicDclvD0JAHADgT3RM7PzZWjOVTsgiq1emHx0Jd7k0PlVfp29Tz9vn-6mEYIMly2UHz4mJskDi2ikSHUQuapCgb-Wh6hmrO7riy_9ZdliYLiQEXbMFVcYdTn1DEOqVLscNXAAxeKaOqm434z0ZtBM_xQi7UbH3grkBhvSsrfxjnD9ukcpC1d6lG24YYtv22qF3GqJEL0xyjtd6SsEz2XSu3kF0695kDj36A0wFPes"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "oA9_apnbIrep0PEPn--zoQY",
+            "product_id": "9379442057829334154",
+            "catalog_id": "14523880823984427695",
+            "gpcid": "10498015940641548004",
+            "headline_offer_docid": "1472688038712850561",
+            "image_docid": "8914701371454001017",
+            "rds": "PC_10498015940641548004|PROD_PC_10498015940641548004",
+            "query": "acne+serum+salicylic+acid+niacinamide+india+under+700",
+            "mid": "576462539830025140",
+            "pvt": "hg",
+            "uule": "w+CAIQICIPUmFqYXN0aGFuLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n**🥇 Best overall: The Derma Co Sali-Cinamide** — **2% salicylic acid + 5% niacinamide**. This is my pick if you have **active acne + oily skin + acne marks**. Current listings are around ₹314–₹527 depending on seller. [www.tirabeauty.com](https://www.tirabeauty.com/collection/serum-for-oily-skin?super-ingredients=Niacinamide&utm_source=chatgpt.com)[www.1mg.com](https://www.1mg.com/otc/932964?utm_source=chatgpt.com)\n\n**🥈 Best if you mainly have clogged pores/blackheads:** **The Derma Co 2% Salicylic Acid**. A simpler formula, currently around ₹213 in the product results.  \n\n**🥉 Best gentler daily option:** **Hyphen Acne Defence Daily Serum** at about ₹610. I'd choose this if your skin gets irritated easily.\n\n**For mostly acne marks rather than active acne:** a **niacinamide/azelaic-acid** serum makes more sense than repeatedly exfoliating. Azelaic acid can be particularly useful for post-acne discoloration and inflammation. [www.marieclaire.com](https://www.marieclaire.com/beauty/skincare/azelaic-acid-vs-niacinamide/?utm_source=chatgpt.com)\n\n### What I'd buy\nIf you told me nothing else about your skin, I'd buy **The Derma Co Sali-Cinamide**. It gives you both **2% salicylic acid for breakouts/clogged pores and 5% niacinamide for oil control and marks**, while staying comfortably below ₹700. [www.tirabeauty.com](https://www.tirabeauty.com/collection/serum-for-oily-skin?super-ingredients=Niacinamide&utm_source=chatgpt.com)[www.1mg.com](https://www.1mg.com/otc/932964?utm_source=chatgpt.com)\n\n**How to start:** use 2–3 nights/week initially, then increase if your skin tolerates it. Don't combine it initially with retinol, strong AHA/BHA exfoliants, or other irritating actives. Wear sunscreen every morning.\n\nIf you tell me whether your skin is **oily, dry, combination, or sensitive** and whether your main issue is **pimples, blackheads, or acne marks**, I can narrow it down to **one serum**.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Serum For Oily Skin Online at Best Prices in India on Tira Website & App",
+          "snippet": null,
+          "domain": "www.tirabeauty.com",
+          "url": "https://www.tirabeauty.com/collection/serum-for-oily-skin?super-ingredients=Niacinamide&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Tira",
+          "publication_date": "2026-07-28 00:00:00 +00:00",
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "The Derma Co 2% Sali-Cinamide Anti-Acne Serum: Buy bottle of 30.0 ml Serum at best price in India | 1mg",
+          "snippet": null,
+          "domain": "www.1mg.com",
+          "url": "https://www.1mg.com/otc/932964?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "1mg",
+          "publication_date": "2026-07-15 00:00:00 +00:00",
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Azelaic Acid vs. Niacinamide: Which Is Better for Dark Spots?",
+          "snippet": "This article compares azelaic acid and niacinamide as treatments for dark spots, breaking down how each works, what kinds of discoloration they best target, and whether they can be used together. Both ingredients help reduce pigmentation but via different mechanisms: azelaic acid inhibits melanin production early on and reduces inflammation—ideal for post-acne marks and melasma—while niacinamide interrupts pigment transfer and strengthens the skin barrier, making it gentler and suitable for sensitive skin. \n\nAzelaic acid is more suited for discoloration linked to inflammation, and is available in both prescription and OTC formulations. Niacinamide, or vitamin B3, is a milder option beneficial for generally uneven tone and for routines involving multiple active ingredients. Although neither ingredient is considered ideal for sun spots, they can complement each other when used together. Results typically appear in 4–12 weeks with consistent use, and sunscreen is crucial to prevent further pigmentation. Potential side effects include initial irritation, mainly with azelaic acid. Proper product layering and choosing well-formulated treatments with barrier-supporting ingredients enhance outcomes. Dermatologists also recommended specific products tailored for different skin needs.",
+          "domain": "www.marieclaire.com",
+          "url": "https://www.marieclaire.com/beauty/skincare/azelaic-acid-vs-niacinamide/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Marie Claire",
+          "publication_date": "2026-08-12 14:19:04 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

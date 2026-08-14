@@ -1,0 +1,255 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S03",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 5,
+  "promptText": "Which vitamin C serum should I buy for dark spots and dull skin in India?",
+  "cellId": "S03_en_gemini_r5",
+  "startedAt": "2026-08-14T12:44:45.129Z",
+  "finishedAt": "2026-08-14T12:45:04.578Z",
+  "durationMs": 19448,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Choosing a Vitamin C serum to tackle dark spots and dull skin in India's climate involves looking for a stable formula (ideally using derivatives like **3-O-Ethyl Ascorbic Acid**, which handles humidity and heat better than pure L-ascorbic acid) at a beginner-friendly concentration of **10% to 15%**.[discoverpilgrim.com](https://discoverpilgrim.com/blogs/discover-beauty-secrets/best-vitamin-c-serum-in-india-dermatologist-guide#:~:text=Around%2010%25%20is%20best%20for,strength%20L-ascorbic%20acid%20serum.)\n\nHere are some popular, dermatologist-recommended options available in India categorized by skin needs:\n\n---\n\n### Top Vitamin C Serums in India\n\n| Brand & Product | Key Ingredients | Best Suited For | Why It Works |\n| :--- | :--- | :--- | :--- |\n| **Minimalist 10% Vitamin C Serum** | 10% Ethyl Ascorbic Acid + Pycnogenol | Beginners & Sensitive Skin | Highly stable, gentle on the skin barrier, and absorbs quickly without feeling sticky in humid weather. |\n| **Deconstruct 10% Vitamin C Serum** | 10% Liposomal Vitamin C + 0.5% Ferulic Acid | Dull, tired-looking skin | Uses liposomal technology for deeper penetration, while ferulic acid boosts antioxidant protection against pollution. |\n| **The Derma Co 10% Vitamin C Serum** | 10% Vitamin C + Niacinamide + Hyaluronic Acid | Oily & Combination Skin | Combines brightening with oil-control and hydration, making it great for post-acne marks. |\n| **Pilgrim 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid + Ferulic Acid + Vitamin E | Stubborn dark spots | A slightly higher concentration paired with classic stabilizers to target tougher pigmentation. |\n\n---\n\n### Quick Tips for Best Results in Indian Weather\n\n* **Check the Packaging:** Vitamin C oxidizes (turns yellow or brown) quickly when exposed to light and air.[discoverpilgrim.com](https://discoverpilgrim.com/blogs/discover-beauty-secrets/best-vitamin-c-serum-in-india-dermatologist-guide#:~:text=How%20to%20Choose%20the%20Right,dies%20in%20light%20and%20air.) Always look for **opaque, dark glass, or airless pump bottles**, never clear droppers.[www.drsheths.com](https://www.drsheths.com/blogs/skin-care/best-vitamin-c-serum-for-indian-skin-what-actually-works#:~:text=So%20the%20real%20deciders%20are,%29%2C%20and%20the%20supporting%20cast.)\n* **Storage:** Keep your serum in a cool, dry place away from direct sunlight (some prefer storing it in a refrigerator to prolong its shelf-life).\n* **The Non-Negotiable Step:** Always layer a **broad-spectrum sunscreen** over your Vitamin C serum in the morning. Sun exposure creates new dark spots faster than any serum can fade them, and it protects your skin from UV degradation.\n* **Patch Test First:** Apply a tiny drop on your inner arm or jawline and wait 24 hours to ensure your skin doesn't react negatively before applying it to your whole face.\n\nWhat is your skin type (e.g., oily, dry, combination, or sensitive)?",
+  "citations": [
+   {
+    "url": "https://discoverpilgrim.com/blogs/discover-beauty-secrets/best-vitamin-c-serum-in-india-dermatologist-guide#:~:text=Around%2010%25%20is%20best%20for,strength%20L-ascorbic%20acid%20serum.",
+    "source_name": null,
+    "position": 1
+   },
+   {
+    "url": "https://discoverpilgrim.com/blogs/discover-beauty-secrets/best-vitamin-c-serum-in-india-dermatologist-guide#:~:text=How%20to%20Choose%20the%20Right,dies%20in%20light%20and%20air.",
+    "source_name": null,
+    "position": 2
+   },
+   {
+    "url": "https://www.drsheths.com/blogs/skin-care/best-vitamin-c-serum-for-indian-skin-what-actually-works#:~:text=So%20the%20real%20deciders%20are,)%2C%20and%20the%20supporting%20cast.",
+    "source_name": null,
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "19.2265 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141244-2163-0629-0000-b772489eeff8",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "19.0988 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Which vitamin C serum should I buy for dark spots and dull skin in India?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which vitamin C serum should I buy for dark spots and dull skin in India?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:45:04 +00:00",
+      "markdown": "Choosing a Vitamin C serum to tackle dark spots and dull skin in India's climate involves looking for a stable formula (ideally using derivatives like **3-O-Ethyl Ascorbic Acid**, which handles humidity and heat better than pure L-ascorbic acid) at a beginner-friendly concentration of **10% to 15%**.[discoverpilgrim.com](https://discoverpilgrim.com/blogs/discover-beauty-secrets/best-vitamin-c-serum-in-india-dermatologist-guide#:~:text=Around%2010%25%20is%20best%20for,strength%20L-ascorbic%20acid%20serum.)\n\nHere are some popular, dermatologist-recommended options available in India categorized by skin needs:\n\n---\n\n### Top Vitamin C Serums in India\n\n| Brand & Product | Key Ingredients | Best Suited For | Why It Works |\n| :--- | :--- | :--- | :--- |\n| **Minimalist 10% Vitamin C Serum** | 10% Ethyl Ascorbic Acid + Pycnogenol | Beginners & Sensitive Skin | Highly stable, gentle on the skin barrier, and absorbs quickly without feeling sticky in humid weather. |\n| **Deconstruct 10% Vitamin C Serum** | 10% Liposomal Vitamin C + 0.5% Ferulic Acid | Dull, tired-looking skin | Uses liposomal technology for deeper penetration, while ferulic acid boosts antioxidant protection against pollution. |\n| **The Derma Co 10% Vitamin C Serum** | 10% Vitamin C + Niacinamide + Hyaluronic Acid | Oily & Combination Skin | Combines brightening with oil-control and hydration, making it great for post-acne marks. |\n| **Pilgrim 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid + Ferulic Acid + Vitamin E | Stubborn dark spots | A slightly higher concentration paired with classic stabilizers to target tougher pigmentation. |\n\n---\n\n### Quick Tips for Best Results in Indian Weather\n\n* **Check the Packaging:** Vitamin C oxidizes (turns yellow or brown) quickly when exposed to light and air.[discoverpilgrim.com](https://discoverpilgrim.com/blogs/discover-beauty-secrets/best-vitamin-c-serum-in-india-dermatologist-guide#:~:text=How%20to%20Choose%20the%20Right,dies%20in%20light%20and%20air.) Always look for **opaque, dark glass, or airless pump bottles**, never clear droppers.[www.drsheths.com](https://www.drsheths.com/blogs/skin-care/best-vitamin-c-serum-for-indian-skin-what-actually-works#:~:text=So%20the%20real%20deciders%20are,%29%2C%20and%20the%20supporting%20cast.)\n* **Storage:** Keep your serum in a cool, dry place away from direct sunlight (some prefer storing it in a refrigerator to prolong its shelf-life).\n* **The Non-Negotiable Step:** Always layer a **broad-spectrum sunscreen** over your Vitamin C serum in the morning. Sun exposure creates new dark spots faster than any serum can fade them, and it protects your skin from UV degradation.\n* **Patch Test First:** Apply a tiny drop on your inner arm or jawline and wait 24 hours to ensure your skin doesn't react negatively before applying it to your whole face.\n\nWhat is your skin type (e.g., oily, dry, combination, or sensitive)?",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Best Vitamin C Serum in India: A Dermatologist's 2026 Guide",
+        "snippet": "Around 10% is best for beginners, ideally as a stable derivative such as \n3-O-ethyl ascorbic acid, which delivers visible brightening with much less \nrisk of ...",
+        "domain": "discoverpilgrim.com",
+        "url": "https://discoverpilgrim.com/blogs/discover-beauty-secrets/best-vitamin-c-serum-in-india-dermatologist-guide#:~:text=Around%2010%25%20is%20best%20for,strength%20L-ascorbic%20acid%20serum.",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTMwIxwxDd4N-Vx4ryQlOafgwpmvOm-jHmfh1gvZfVRlSNdlOXi1JNLzJQRr8eypADVUdISONUjwa8gyOqv8WRZtDAy6N6uf-pBdnqKAA",
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "Choosing a Vitamin C serum to tackle dark spots and dull skin in India's climate involves looking for a stable formula (ideally using derivatives like **3-O-Ethyl Ascorbic Acid**, which handles humidity and heat better than pure L-ascorbic acid) at a beginner-friendly concentration of **10% to 15%**."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Best Vitamin C Serum in India: A Dermatologist's 2026 Guide",
+        "snippet": "How to Choose the Right Vitamin C Serum. Match the form to your skin. \nResilient skin that wants maximum data behind it can use L-ascorbic acid; \nsensitive, ...",
+        "domain": "discoverpilgrim.com",
+        "url": "https://discoverpilgrim.com/blogs/discover-beauty-secrets/best-vitamin-c-serum-in-india-dermatologist-guide#:~:text=How%20to%20Choose%20the%20Right,dies%20in%20light%20and%20air.",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTMwIxwxDd4N-Vx4ryQlOafgwpmvOm-jHmfh1gvZfVRlSNdlOXi1JNLzJQRr8eypADVUdISONUjwa8gyOqv8WRZtDAy6N6uf-pBdnqKAA",
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "* Vitamin C oxidizes (turns yellow or brown) quickly when exposed to light and air."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Best Vitamin C Serum for Indian Skin: What Actually Works - Dr Sheth's",
+        "snippet": "So the real deciders are the form (stable derivatives like ethyl ascorbic \nacid survive Indian heat better than raw L-ascorbic acid), the packaging \n(opaque or ...",
+        "domain": "www.drsheths.com",
+        "url": "https://www.drsheths.com/blogs/skin-care/best-vitamin-c-serum-for-indian-skin-what-actually-works#:~:text=So%20the%20real%20deciders%20are,)%2C%20and%20the%20supporting%20cast.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQhIcRPgWDm384f0iSZDKPttwYnOQivo8vlLsKz7B2J06ibo9TuvuKQJTDKUS6oDvM_e4A9uR1-c8cwFMMQTKAw_fFe34q3K7L4zg",
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "Always look for **opaque, dark glass, or airless pump bottles**, never clear droppers."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Choosing a Vitamin C serum to tackle dark spots and dull skin in India's climate involves looking for a stable formula (ideally using derivatives like **3-O-Ethyl Ascorbic Acid**, which handles humidity and heat better than pure L-ascorbic acid) at a beginner-friendly concentration of **10% to 15%**.[discoverpilgrim.com](https://discoverpilgrim.com/blogs/discover-beauty-secrets/best-vitamin-c-serum-in-india-dermatologist-guide#:~:text=Around%2010%25%20is%20best%20for,strength%20L-ascorbic%20acid%20serum.)",
+        "original_text": "Choosing a Vitamin C serum to tackle dark spots and dull skin in India's climate involves looking for a stable formula (ideally using derivatives like 3-O-Ethyl Ascorbic Acid, which handles humidity and heat better than pure L-ascorbic acid) at a beginner-friendly concentration of 10% to 15%.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Best Vitamin C Serum in India: A Dermatologist's 2026 Guide",
+          "snippet": "Around 10% is best for beginners, ideally as a stable derivative such as \n3-O-ethyl ascorbic acid, which delivers visible brightening with much less \nrisk of ...",
+          "domain": "discoverpilgrim.com",
+          "url": "https://discoverpilgrim.com/blogs/discover-beauty-secrets/best-vitamin-c-serum-in-india-dermatologist-guide#:~:text=Around%2010%25%20is%20best%20for,strength%20L-ascorbic%20acid%20serum.",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTMwIxwxDd4N-Vx4ryQlOafgwpmvOm-jHmfh1gvZfVRlSNdlOXi1JNLzJQRr8eypADVUdISONUjwa8gyOqv8WRZtDAy6N6uf-pBdnqKAA",
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "Choosing a Vitamin C serum to tackle dark spots and dull skin in India's climate involves looking for a stable formula (ideally using derivatives like **3-O-Ethyl Ascorbic Acid**, which handles humidity and heat better than pure L-ascorbic acid) at a beginner-friendly concentration of **10% to 15%**."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Here are some popular, dermatologist-recommended options available in India categorized by skin needs:",
+        "original_text": "Here are some popular, dermatologist-recommended options available in India categorized by skin needs:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### Top Vitamin C Serums in India",
+        "original_text": "Top Vitamin C Serums in India",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "markdown": "| Brand & Product | Key Ingredients | Best Suited For | Why It Works |\n| :--- | :--- | :--- | :--- |\n| **Minimalist 10% Vitamin C Serum** | 10% Ethyl Ascorbic Acid + Pycnogenol | Beginners & Sensitive Skin | Highly stable, gentle on the skin barrier, and absorbs quickly without feeling sticky in humid weather. |\n| **Deconstruct 10% Vitamin C Serum** | 10% Liposomal Vitamin C + 0.5% Ferulic Acid | Dull, tired-looking skin | Uses liposomal technology for deeper penetration, while ferulic acid boosts antioxidant protection against pollution. |\n| **The Derma Co 10% Vitamin C Serum** | 10% Vitamin C + Niacinamide + Hyaluronic Acid | Oily & Combination Skin | Combines brightening with oil-control and hydration, making it great for post-acne marks. |\n| **Pilgrim 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid + Ferulic Acid + Vitamin E | Stubborn dark spots | A slightly higher concentration paired with classic stabilizers to target tougher pigmentation. |",
+        "original_text": "Brand & Product\tKey Ingredients\tBest Suited For\tWhy It Works\nMinimalist 10% Vitamin C Serum\t10% Ethyl Ascorbic Acid + Pycnogenol\tBeginners & Sensitive Skin\tHighly stable, gentle on the skin barrier, and absorbs quickly without feeling sticky in humid weather.\nDeconstruct 10% Vitamin C Serum\t10% Liposomal Vitamin C + 0.5% Ferulic Acid\tDull, tired-looking skin\tUses liposomal technology for deeper penetration, while ferulic acid boosts antioxidant protection against pollution.\nThe Derma Co 10% Vitamin C Serum\t10% Vitamin C + Niacinamide + Hyaluronic Acid\tOily & Combination Skin\tCombines brightening with oil-control and hydration, making it great for post-acne marks.\nPilgrim 15% Vitamin C Face Serum\t15% Ethyl Ascorbic Acid + Ferulic Acid + Vitamin E\tStubborn dark spots\tA slightly higher concentration paired with classic stabilizers to target tougher pigmentation.",
+        "table": {
+         "table_header": [
+          "Brand & Product",
+          "Key Ingredients",
+          "Best Suited For",
+          "Why It Works"
+         ],
+         "table_content": [
+          [
+           "Minimalist 10% Vitamin C Serum",
+           "10% Ethyl Ascorbic Acid + Pycnogenol",
+           "Beginners & Sensitive Skin",
+           "Highly stable, gentle on the skin barrier, and absorbs quickly without feeling sticky in humid weather."
+          ],
+          [
+           "Deconstruct 10% Vitamin C Serum",
+           "10% Liposomal Vitamin C + 0.5% Ferulic Acid",
+           "Dull, tired-looking skin",
+           "Uses liposomal technology for deeper penetration, while ferulic acid boosts antioxidant protection against pollution."
+          ],
+          [
+           "The Derma Co 10% Vitamin C Serum",
+           "10% Vitamin C + Niacinamide + Hyaluronic Acid",
+           "Oily & Combination Skin",
+           "Combines brightening with oil-control and hydration, making it great for post-acne marks."
+          ],
+          [
+           "Pilgrim 15% Vitamin C Face Serum",
+           "15% Ethyl Ascorbic Acid + Ferulic Acid + Vitamin E",
+           "Stubborn dark spots",
+           "A slightly higher concentration paired with classic stabilizers to target tougher pigmentation."
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "markdown": "### Quick Tips for Best Results in Indian Weather",
+        "original_text": "Quick Tips for Best Results in Indian Weather",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "markdown": "* **Check the Packaging:** Vitamin C oxidizes (turns yellow or brown) quickly when exposed to light and air.[discoverpilgrim.com](https://discoverpilgrim.com/blogs/discover-beauty-secrets/best-vitamin-c-serum-in-india-dermatologist-guide#:~:text=How%20to%20Choose%20the%20Right,dies%20in%20light%20and%20air.) Always look for **opaque, dark glass, or airless pump bottles**, never clear droppers.[www.drsheths.com](https://www.drsheths.com/blogs/skin-care/best-vitamin-c-serum-for-indian-skin-what-actually-works#:~:text=So%20the%20real%20deciders%20are,%29%2C%20and%20the%20supporting%20cast.)\n* **Storage:** Keep your serum in a cool, dry place away from direct sunlight (some prefer storing it in a refrigerator to prolong its shelf-life).\n* **The Non-Negotiable Step:** Always layer a **broad-spectrum sunscreen** over your Vitamin C serum in the morning. Sun exposure creates new dark spots faster than any serum can fade them, and it protects your skin from UV degradation.\n* **Patch Test First:** Apply a tiny drop on your inner arm or jawline and wait 24 hours to ensure your skin doesn't react negatively before applying it to your whole face.",
+        "original_text": "Check the Packaging: Vitamin C oxidizes (turns yellow or brown) quickly when exposed to light and air. Always look for opaque, dark glass, or airless pump bottles, never clear droppers.\nStorage: Keep your serum in a cool, dry place away from direct sunlight (some prefer storing it in a refrigerator to prolong its shelf-life).\nThe Non-Negotiable Step: Always layer a broad-spectrum sunscreen over your Vitamin C serum in the morning. Sun exposure creates new dark spots faster than any serum can fade them, and it protects your skin from UV degradation.\nPatch Test First: Apply a tiny drop on your inner arm or jawline and wait 24 hours to ensure your skin doesn't react negatively before applying it to your whole face.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Best Vitamin C Serum in India: A Dermatologist's 2026 Guide",
+          "snippet": "How to Choose the Right Vitamin C Serum. Match the form to your skin. \nResilient skin that wants maximum data behind it can use L-ascorbic acid; \nsensitive, ...",
+          "domain": "discoverpilgrim.com",
+          "url": "https://discoverpilgrim.com/blogs/discover-beauty-secrets/best-vitamin-c-serum-in-india-dermatologist-guide#:~:text=How%20to%20Choose%20the%20Right,dies%20in%20light%20and%20air.",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTMwIxwxDd4N-Vx4ryQlOafgwpmvOm-jHmfh1gvZfVRlSNdlOXi1JNLzJQRr8eypADVUdISONUjwa8gyOqv8WRZtDAy6N6uf-pBdnqKAA",
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "* Vitamin C oxidizes (turns yellow or brown) quickly when exposed to light and air."
+         },
+         {
+          "type": "gemini_source",
+          "title": "Best Vitamin C Serum for Indian Skin: What Actually Works - Dr Sheth's",
+          "snippet": "So the real deciders are the form (stable derivatives like ethyl ascorbic \nacid survive Indian heat better than raw L-ascorbic acid), the packaging \n(opaque or ...",
+          "domain": "www.drsheths.com",
+          "url": "https://www.drsheths.com/blogs/skin-care/best-vitamin-c-serum-for-indian-skin-what-actually-works#:~:text=So%20the%20real%20deciders%20are,)%2C%20and%20the%20supporting%20cast.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQhIcRPgWDm384f0iSZDKPttwYnOQivo8vlLsKz7B2J06ibo9TuvuKQJTDKUS6oDvM_e4A9uR1-c8cwFMMQTKAw_fFe34q3K7L4zg",
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "Always look for **opaque, dark glass, or airless pump bottles**, never clear droppers."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "markdown": "What is your skin type (e.g., oily, dry, combination, or sensitive)?",
+        "original_text": "What is your skin type (e.g., oily, dry, combination, or sensitive)?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

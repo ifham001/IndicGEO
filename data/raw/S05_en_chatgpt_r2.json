@@ -1,0 +1,389 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S05",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 2,
+  "promptText": "Which serum should I buy for acne-prone skin in India under ₹700?",
+  "cellId": "S05_en_chatgpt_r2",
+  "startedAt": "2026-08-14T12:42:51.058Z",
+  "finishedAt": "2026-08-14T12:43:06.803Z",
+  "durationMs": 15745,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "If your main concern is **active acne + clogged pores**, I’d buy:\n\n### [The Derma Co Sali-Cinamide Anti-Acne Face Serum]()\n*₹313*\n\n**Why:** it combines **2% salicylic acid** (helps unclog pores and treat breakouts) with **5% niacinamide** (helps oil control and post-acne marks). Current listings put it around **₹313–₹536**, comfortably under your ₹700 budget. [sskin.care](https://sskin.care/ingredients/salicylic-acid-products/?utm_source=chatgpt.com)\n\n### Other good choices\n\n| If you have… | Pick | Approx. price |\n|---|---|---:|\n| **Active acne, blackheads, oily skin** | **The Derma Co Sali-Cinamide** | ₹313+ |\n| **Acne + dark marks/redness** | **Foxtale 12% Niacinamide + Azelaic Acid** | ₹532 |\n| **Sensitive skin + acne marks** | **Azelaic acid 10%** | ₹299–₹500 |\n| **More comprehensive acne formula** | **Hyphen Acne Defence Daily Serum** | ~₹617 |\n\n\n### [Foxtale 12% Niacinamide Face Serum with Azelaic Acid]()\n*₹532*\n\nFoxtale is particularly interesting if **marks are as much of a problem as active pimples**; its official listing says it targets oil, active acne and dark spots. [foxtale.in](https://foxtale.in/products/niacinamide-clarifying-serum?utm_source=chatgpt.com)\n\n**My pick:** **The Derma Co Sali-Cinamide** if you currently have pimples/blackheads; **Foxtale** if the pimples are occasional but you're left with lots of marks.\n\nStart an acne-active serum **2–3 nights/week**, moisturize afterward, and use **SPF 30–50 every morning**. Don't start several acids at once.\n\nIf you tell me whether your skin is **oily, dry, combination, or sensitive** and whether you mainly have **pimples, blackheads, or acne marks**, I can narrow it down to **one serum under ₹700**.",
+  "citations": [
+   {
+    "url": "https://sskin.care/ingredients/salicylic-acid-products/?utm_source=chatgpt.com",
+    "source_name": "sskin.care",
+    "position": 1
+   },
+   {
+    "url": "https://foxtale.in/products/niacinamide-clarifying-serum?utm_source=chatgpt.com",
+    "source_name": "Foxtale",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "15.4301 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141242-2163-0629-0000-d2a479e82995",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "15.2711 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Which serum should I buy for acne-prone skin in India under ₹700?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which serum should I buy for acne-prone skin in India under ₹700?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20serum%20should%20I%20buy%20for%20acne-prone%20skin%20in%20India%20under%20%E2%82%B9700%3F&hints=search",
+      "datetime": "2026-08-14 12:43:06 +00:00",
+      "markdown": "If your main concern is **active acne + clogged pores**, I’d buy:\n\n### [The Derma Co Sali-Cinamide Anti-Acne Face Serum]()\n*₹313*\n\n**Why:** it combines **2% salicylic acid** (helps unclog pores and treat breakouts) with **5% niacinamide** (helps oil control and post-acne marks). Current listings put it around **₹313–₹536**, comfortably under your ₹700 budget. [sskin.care](https://sskin.care/ingredients/salicylic-acid-products/?utm_source=chatgpt.com)\n\n### Other good choices\n\n| If you have… | Pick | Approx. price |\n|---|---|---:|\n| **Active acne, blackheads, oily skin** | **The Derma Co Sali-Cinamide** | ₹313+ |\n| **Acne + dark marks/redness** | **Foxtale 12% Niacinamide + Azelaic Acid** | ₹532 |\n| **Sensitive skin + acne marks** | **Azelaic acid 10%** | ₹299–₹500 |\n| **More comprehensive acne formula** | **Hyphen Acne Defence Daily Serum** | ~₹617 |\n\n\n### [Foxtale 12% Niacinamide Face Serum with Azelaic Acid]()\n*₹532*\n\nFoxtale is particularly interesting if **marks are as much of a problem as active pimples**; its official listing says it targets oil, active acne and dark spots. [foxtale.in](https://foxtale.in/products/niacinamide-clarifying-serum?utm_source=chatgpt.com)\n\n**My pick:** **The Derma Co Sali-Cinamide** if you currently have pimples/blackheads; **Foxtale** if the pimples are occasional but you're left with lots of marks.\n\nStart an acne-active serum **2–3 nights/week**, moisturize afterward, and use **SPF 30–50 every morning**. Don't start several acids at once.\n\nIf you tell me whether your skin is **oily, dry, combination, or sensitive** and whether you mainly have **pimples, blackheads, or acne marks**, I can narrow it down to **one serum under ₹700**.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.nykaa.com/dp/serum-for-open-pores?utm_source=chatgpt.com",
+        "domain": "www.nykaa.com",
+        "title": "Buy Serum For Open Pores Online At Discounted Prices From Top Brands",
+        "description": "BUY SERUM FOR OPEN PORES ONLINE  (100)   The Derma Co Pore Minimizing Face Serum With 4% Niacinamide,...₹599₹52712% Off Regular price ₹599. Discounted price ₹527. 12% Off.Enjoy Complimentary Gift( 52...",
+        "breadcrumb": "nykaa.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://blog.flash.co/serum/top-10-salicylic-acid-serums/?utm_source=chatgpt.com",
+        "domain": "blog.flash.co",
+        "title": "Best Salicylic Acid Serums in India (2026) | Flash AI",
+        "description": "Salicylic Acid Serums. Flash AI analysed 10 products from 9045+ verified reviews across multiple platforms. The top pick is Foxtale 12% Niacinamide Clarifying Serum with an AI Score of 92/100, availab...",
+        "breadcrumb": "flash.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://blog.flash.co/serum/top-10-acne-fighting-serums/?utm_source=chatgpt.com",
+        "domain": "blog.flash.co",
+        "title": "Best Acne-Fighting Serums in India (2026) | Flash AI",
+        "description": "Acne-Fighting Serums. Flash AI analysed 10 products from 6924+ verified reviews across multiple platforms. The top pick is Foxtale 12% Niacinamide Clarifying Serum with an AI Score of 92/100, availabl...",
+        "breadcrumb": "flash.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://blog.flash.co/serum/top-10-niacinamide-serums/?utm_source=chatgpt.com",
+        "domain": "blog.flash.co",
+        "title": "Best Niacinamide Serums in India (2026) | Flash AI",
+        "description": "Niacinamide Serums. Flash AI analysed 10 products from 23078+ verified reviews across multiple platforms. The top pick is Foxtale 12% Niacinamide Clarifying Serum with an AI Score of 92/100, available...",
+        "breadcrumb": "flash.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://foxtale.in/products/niacinamide-clarifying-serum?variant=FXN-DINS30%5C&utm_source=chatgpt.com",
+        "domain": "foxtale.in",
+        "title": "12% Niacinamide Face Serum with Azelaic Acid (30ml) – Foxtale",
+        "description": "12% NIACINAMIDE CLARIFYING SERUM  Controls oil, reduces acne, and fades dark spots in 14 days | 30 ml  ₹ 645  MRP 645 inclusive of all taxes  10 ml 10 ml  30 ml 30 ml  Best Value  Product Details  He...",
+        "breadcrumb": "foxtale.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.netmeds.com/product/fixderma-2-salicylic-acid-serum-for-anti-acne-treatment-with-5-azelaic-acid-and-4-mandelic-30-gm-lx8tjc-8463591?utm_source=chatgpt.com",
+        "domain": "www.netmeds.com",
+        "title": "Buy Fixderma 2% Salicylic Acid Serum for Anti Acne Treatment with 5% Azelaic Acid and 4% Mandelic 30 gm Online at Discounted Price | Netmeds",
+        "description": "Fixderma  FIXDERMA 2% SALICYLIC ACID SERUM FOR ANTI ACNE TREATMENT WITH 5% AZELAIC ACID AND 4% MANDELIC 30 GM  Face Serum  MRP ₹599.00 (Inclusive of all taxes)  Deliver to  Image  NETMEDS FIRST MEMBE...",
+        "breadcrumb": "netmeds.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.tirabeauty.com/collection/skin-serums-and-essences?category=serums-essence&concern=Acne&preference=Sulphate+Free&utm_source=chatgpt.com",
+        "domain": "www.tirabeauty.com",
+        "title": "Buy Serums & Essence Products Online at Best Price in India on Tira Website & App",
+        "description": "Discover  Glow-boosting serums  Explore effective serums and essences, made for hydration, repair and glow  * [Button: 1] * [Button: 2] * [Button: 3] * [Button: 4]   Add to Wishlist Foxtale 3.8|914 F...",
+        "breadcrumb": "tirabeauty.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.purplle.com/collections/salicylic-acid-serum-serum-and-essence?utm_source=chatgpt.com",
+        "domain": "www.purplle.com",
+        "title": "Salicylic Acid Face Serums: Buy Salicylic Acid Face Serum Online at Best Prices in India | Purplle",
+        "description": "SALICYLIC ACID FACE SERUM  Showing 34 Products  SHOP ALL PRODUCTS  DERMDOC 2% Salicylic Acid Face Serum (15 ml) | For Blackheads & Whiteheads | Targets Active Acne | Calms Irritation & Unclogs Pores...",
+        "breadcrumb": "purplle.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicdrop.in/drops/acne-treatment-products?utm_source=chatgpt.com",
+        "domain": "magicdrop.in",
+        "title": "Best Acne Treatment Products India 2026 | Magicdrop.in",
+        "description": "beauty By Arjun · 19 June 2026  BEST ACNE TREATMENT PRODUCTS IN INDIA 2026 — PRICE, DEALS & COMPARISON  📢 Affiliate links — we may earn a commission at no extra cost to you. Read our affiliate disclo...",
+        "breadcrumb": "magicdrop.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.1mg.com/otc/the-derma-co-2-sali-cinamide-anti-acne-serum-otc932964?utm_source=chatgpt.com",
+        "domain": "www.1mg.com",
+        "title": "The Derma Co 2% Sali-Cinamide Anti-Acne Serum: Buy bottle of 30.0 ml Serum at best price in India | 1mg",
+        "description": "THE DERMA CO 2% SALI-CINAMIDE ANTI-ACNE SERUM  ₹545  ₹599  9% off  Get for  ₹491  Image: right chevron icon  on orders above ₹1200  Use Code 1MGNEWPLUS  Get for  ₹501  Image: right chevron icon  0  B...",
+        "breadcrumb": "1mg.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Every Salicylic Acid Product in India: All Options Compared (2026) — sskin.care/",
+        "snippet": null,
+        "domain": "sskin.care",
+        "url": "https://sskin.care/ingredients/salicylic-acid-products/?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "sskin.care",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "12% Niacinamide Face Serum with Azelaic Acid (30ml) – Foxtale",
+        "snippet": null,
+        "domain": "foxtale.in",
+        "url": "https://foxtale.in/products/niacinamide-clarifying-serum?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Foxtale",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best acne serums India salicylic acid niacinamide azelaic acid under 700 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products",
+       "chat_gpt_table"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "If your main concern is **active acne + clogged pores**, I’d buy:\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "17903418534338511782",
+          "merchants": "Amazon.in + others",
+          "id_to_token_map": "zfo-SXicbVTLjqNWEI3mC7LIIsvezKplicubtDoSb_wCw4WLzcaCy7V5Ghpjg618Tc9DmiwnI-Vbehb5lpBsk5JKJdWpOvWQqv764cdXkv8ZDGAfv8TaarYJOLvZ5LOtfJb1L23XpBfc5-k3IDICL4kSECmG4wUKsCL_Bcd9XDXHf2BBohgWiBzDMozIASCI9NeMxGmVn4hzOJBOa3Ce_kFT0hTC8hQvChIjcYARf8_r-Ej-hb8BVqIlkRFpgRJEaqICNPuhS89v1EbdM_Tkmph5emJgOIHhftt4jrb_X-jTy4V0t7dfY3wij2fSXerHc1zl-DbpYzzVejzlkznFdZ6Sx_yU5vHj5ZSS7vG9Tr8X6feKJFDUp2M7hX79L_2HKe0rJ_AsT4u8yE5tSiLPsB_aa_-aHT9eLhV5exgeVXnuztW5i0yjj8Ph6NdGmcJxkdReu3Nfj9VrfnrNqldy-tzE7fWAv7_7SW8GTT0Pqhu0LdI8CoY2Hxap6yHPR1Z6hsYOBFXbuWF0tfUF69VgtK107hfeIqh3dIwqZk33NgqyKgjbyg6NDBbGfH1fXLER8TAce9_aDbges9DsyzSsLFh7ZqpXjqOzwN2WYwIUNq6bHmuK5hjtck1FMDYQG2sRCjXjnpZAI3V2IcirvCK6BjRSoR6N2JCHXZDdkZk5tqb0uLRfIiRxUemtUw3pttl3SZkGuzLKINWPuOYGWKV2qkuc5-9Gu7bruKh6guzYpSIrCVoKARuSMK13haJgAwUEtdzUl5Ew2YvtG7xncg2-LwI7qAZUROc4RIuk8G5IH0NSSS9Ei-44XPde7XIQgmVyX5y9MNO2wFvjgLrtKAp4YZ9F4bEPDYN2mXLEKsVhw6Z9yuUic1HYhj34d-USTfNBPa0gqg5xlYLYqpYx8jS3wsBnvNG96zQ0d9AAiFkjKcOhofsqcJGPnGmn7QplCqYMw8wXimfZNyeMvJjq86iOdM_sC7iNtMCsdh49Mi4TjaHJhf7JZj6O5-7wRskG10OHDeELyXEZrCjrwN7nfm0jahA3LmiPv0yHxwtgOiuKEqnPuGnKnHx_9zPUZU-19lBe63Du68_q0Z2PvK48Pci6-iynC6THfdAn28IvqkpZXJRc7d0BR80e6xd7eyPRCrUbcqstgYkKpTGV0LrpF_z0oKFn91ZuZ7ODdzgHV33NpjAa6_E2xuelqMt2BymoJvv9DHCu_I88Pez3kOBLR2bQ9zbPsl1HQwwKnozKGNes6SmrMrKWmm86sxO32ZNtps5G2zhtJYDV4W7Nd5heajyFFmR3bU88iFjf2ZYkH44rBFz2ngUSd9guzWRjnADvPj3Yc-2ZY5jnZRLwOs7DtTaItezHVtpAZ0mgJ6xOq2PYXFteGLI742xKTO94WeiuResT1jeEPea2RQLrZlNjv9gke9Vp9O6w34DIkVbHFytBRFht9SV7BEVxsLTIJfdbtwS3JplFTCXLdR-txIsj5mrRCXTphEO10dR6fczsmxhvrpS3KLNjEY5-Jk2f0vTZmuFsQqewtQ-KVM9FIw6vTGnttxKp0vXsLrYavxWvWxSMmYGw7JSM782yTXcEdpJeFzsriTtxBEVSMulUelfml_VLlUGTvRQa7_4Nm6L8dg",
+          "title": "The Derma Co Sali-Cinamide Anti-Acne Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 230,
+           "rating_max": 5
+          },
+          "price": 313,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/q6J7zXicDcnbEoFAAADQLyKFNTVjTGFTUkhN48XYrdVlaze75fJR_sffcF7P95NLyYWhKFmD7y8us3QgUTMa3oS8ygIPMasVkTPOi-a2aOf_M0w_1W0cglwf20sYST8BXePATkypgyqHFIx4-85tUXJ5qDGByMPlTKVrct7kVYDdcdbxMKDC2VcnDaAwQhT2xz6yVKJtYPB--owk7GVVxUTnYNceD6m5BbSM1VX9AzvkPlg"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "Uw1_aqaDL-PU5NoPi-XAsAE",
+            "product_id": "18376989180356701486",
+            "catalog_id": "17903418534338511782",
+            "gpcid": "328041176234435735",
+            "headline_offer_docid": "2095344606879395138",
+            "image_docid": "14929838270780433124",
+            "rds": "PC_328041176234435735|PROD_PC_328041176234435735",
+            "query": "acne+serum+salicylic+acid+niacinamide+india+under+%E2%82%B9700",
+            "mid": "576462868412498634",
+            "pvt": "hg",
+            "uule": "w+CAIQICIQVGFtaWwgTmFkdSxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n**Why:** it combines **2% salicylic acid** (helps unclog pores and treat breakouts) with **5% niacinamide** (helps oil control and post-acne marks). Current listings put it around **₹313–₹536**, comfortably under your ₹700 budget. [sskin.care](https://sskin.care/ingredients/salicylic-acid-products/?utm_source=chatgpt.com)\n\n### Other good choices\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Every Salicylic Acid Product in India: All Options Compared (2026) — sskin.care/",
+          "snippet": null,
+          "domain": "sskin.care",
+          "url": "https://sskin.care/ingredients/salicylic-acid-products/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "sskin.care",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_table",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "text": null,
+        "markdown": "| If you have… | Pick | Approx. price |\n|---|---|---:|\n| **Active acne, blackheads, oily skin** | **The Derma Co Sali-Cinamide** | ₹313+ |\n| **Acne + dark marks/redness** | **Foxtale 12% Niacinamide + Azelaic Acid** | ₹532 |\n| **Sensitive skin + acne marks** | **Azelaic acid 10%** | ₹299–₹500 |\n| **More comprehensive acne formula** | **Hyphen Acne Defence Daily Serum** | ~₹617 |\n\n",
+        "table": {
+         "table_header": [
+          "If you have…",
+          "Pick",
+          "Approx. price"
+         ],
+         "table_content": [
+          [
+           "**Active acne, blackheads, oily skin**",
+           "**The Derma Co Sali-Cinamide**",
+           "₹313+"
+          ],
+          [
+           "**Acne + dark marks/redness**",
+           "**Foxtale 12% Niacinamide + Azelaic Acid**",
+           "₹532"
+          ],
+          [
+           "**Sensitive skin + acne marks**",
+           "**Azelaic acid 10%**",
+           "₹299–₹500"
+          ],
+          [
+           "**More comprehensive acne formula**",
+           "**Hyphen Acne Defence Daily Serum**",
+           "~₹617"
+          ]
+         ]
+        },
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 6,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "11440804828264981463",
+          "merchants": "Nykaa + others",
+          "id_to_token_map": "Y8Ab-nicbVPLjqNWEE3yBdlm15tZtSxxLxhDWr3gdTHYgLm8DBsLuDRgHsYYP0D5mKjnIU2WyUj5lp5FviPLeLKe2p7SqTpV5_zzw8-vWfm3L4BdfJJTOSk316Ta0LvG5ez0c9cfyDkdSvLXYg7nLA0Zll-wLAupxZz5nMZDXB_yknwBgGEojmI4yEGW4TnAsPSfRRaTumwz6-Ul6-VDemdhGI6C3IIHgJvzFGTurX-UTZxn_8NfAEcBasHOFxSYUzygeJ6i3_fk9AY30g5SHISQoWkeMvd5_J3mtw225N33sY_Hc9aPb4_xlNVxmT7G9wGPp6w_N49lS8r48dySrH98p8B3HHwn8guK-ph335b8Dtn7piS_v-8uw2uRfzif6-zt4fooCZqtSZrtq2iIg2vuNqgizk1PGtyF9mtev5bta1G_Zu2nQ9xdXtKvP_6rXFJJ6lPJ9rrOlzHluDnEVXT0XKyFFIBk0l0TiZdYAaFPE4l4JkOaW5W6IjI8YhOIaeyiLqJRR-RiciGhjDYSjak-uagCNt2pQRvCBOGzHQyWpZKDr9SNs6ztdaAvTdRNOOCmwE3HrPEAgfOVX3V-Kvs2qWvJbdGe-F3tUQVtl4D197hJJKB6LlmFragm6vVqTAganl-YgT0GDTlhtZZMF4vOpMdbOAz-VrTMphoyZb7Eqm6FTTVP3GrCW6IaDdpHqjI6QJvcSZjbWzx3am7KlM61lhgQLwTJVKt42S1dB-i2pzd2g29Bja10H1IE5ZNT3e56dMdUEPAofYXbIvZK4IQUvjrKNz2mYe4LhkBSeYhcSOOv060HTVCECaqjRMa0F3ROgPw2VQfLD3g6bE7Agdj0gtuLAw0HgftNfb5IKby_a-i85d0yQJi2EHgWQnu11EW8NEcriDzDM1UTdEdPRVEgGzShulPUmkywr0-YNjvX48UPt1P_8kYJaD441gLshQqvdymHpzG63g0-MxClR1y_zn8FC45dAEDf07SYf0oPh6rMvv70i6MIWFruHMFQHM1VnqXc1m6sIj49CIr0LBDdV-KBZPpRR-5Si5amQzPJTvamQGpVdmBt67ZWytiqVrvUYL3LrCiEGcsxwtOD7D-HNwgjU5-swt7nwoFQ4m7ZGasK9YoiiMcmXXWdWYebe5CEez097HZOlp77bOa4ePMsmE10jWk1vcGwrZpzt-w1itssCDwf3BmZBH3irut1AK34-NJsWENuZYn2dX4MtI1j5Wfk2NJ-HBQgKDITIdo-3v_GIYVZCRDFgmM_PZia_Dyn6ec6zFMXWDVBHDmepLqvPWXbXAsm1hKRMRZF20W11ipnrTHG3X7Hu-O6C7z6ZCULeqOnZtZleiAkWU6QeQ9Kg4LUMKWiV7l2l4x7VZcLgd8esJlHMHIu4jlXloJBxVXunU8QjKlqTeLY6MSJtruqGc6nnlrvlyjVRXEKonJcHjJpdJJ5iAg6AbWm6cFzp1360m9n-MaMaVK0h_Ymd5IRmiyIg5lUb1RNYeLNIZwuY-6f1TGiezjh8BTtBTKzJaCtNoOyn13CccCBAvu62mq3SI3D_wDi1uky",
+          "title": "Foxtale 12% Niacinamide Face Serum with Azelaic Acid",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 570,
+           "rating_max": 5
+          },
+          "price": 532,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/pb9rZnicDclJDoIwAADAF1VERJbEGBKVGC0oRQQvhlakIJSlJSyv8jv-Ruc63w8VouamJCWMtGMtkicQmCmzlItYZGRGqlLitKrrjKWbZv0_03Kehk0u2xA6EeeQno23e1j6Du96f3ohW2575YZosQMKQEMUlrG_1-QWH6ewsHI1712YMwyWr0Cfs_Y-wqrkq-bddVkBdXxCHgJZ8PDodYSh1vgLkh8GGG35QrUm3P8Axws_bQ"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "VA1_asDcDbiPwbkP3_mT8Qc",
+            "product_id": "7525632469766620754",
+            "catalog_id": "11440804828264981463",
+            "gpcid": "2082224339241149879",
+            "headline_offer_docid": "4480287911859024498",
+            "image_docid": "18010765701509109903",
+            "rds": "PC_2082224339241149879|PROD_PC_2082224339241149879",
+            "query": "azelaic+acid+serum+india+under+%E2%82%B9700",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIQVGFtaWwgTmFkdSxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "markdown": "\n\nFoxtale is particularly interesting if **marks are as much of a problem as active pimples**; its official listing says it targets oil, active acne and dark spots. [foxtale.in](https://foxtale.in/products/niacinamide-clarifying-serum?utm_source=chatgpt.com)\n\n**My pick:** **The Derma Co Sali-Cinamide** if you currently have pimples/blackheads; **Foxtale** if the pimples are occasional but you're left with lots of marks.\n\nStart an acne-active serum **2–3 nights/week**, moisturize afterward, and use **SPF 30–50 every morning**. Don't start several acids at once.\n\nIf you tell me whether your skin is **oily, dry, combination, or sensitive** and whether you mainly have **pimples, blackheads, or acne marks**, I can narrow it down to **one serum under ₹700**.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "12% Niacinamide Face Serum with Azelaic Acid (30ml) – Foxtale",
+          "snippet": null,
+          "domain": "foxtale.in",
+          "url": "https://foxtale.in/products/niacinamide-clarifying-serum?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Foxtale",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

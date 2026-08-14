@@ -1,0 +1,152 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F04",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 8,
+  "promptText": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+  "cellId": "F04_hg_gemini_r8",
+  "startedAt": "2026-08-14T13:01:58.228Z",
+  "finishedAt": "2026-08-14T13:02:22.128Z",
+  "durationMs": 23900,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein men ke liye formal shirts ke liye kai behtareen brands available hain, jo apni quality, fit aur fabric ke liye jaane jaate hain. Aapki zaroorat aur budget ke hisaab se yeh rahi top brands ki list:\n\n---\n\n### 1. Premium & Luxury Brands (Corporate & Special Occasions ke liye)\n\n* **Van Heusen:** India ke sabse popular formalwear brands mein se ek. Inki shirts ka fabric, fit aur finish professional look ke liye bilkul perfect hoti hai.\n* **Louis Philippe:** Agar aapko ekdum premium, rich aur sophisticated look chahiye, toh Louis Philippe best choice hai. Inka fabric bahut durable aur comfortable hota hai.\n* **Allen Solly:** Agar aap thoda modern aur smart-casual/formal mix look pasand karte hain, toh Allen Solly ke slim-fit aur vibrant colors wale options bahut acche hain.\n\n### 2. Best Value for Money (Mid-Range & Office Wear)\n\n* **Arrow:** Classic corporate look ke liye Arrow ek lajawab brand hai. Inki shirts wrinkle-resistant (anti-wrinkle) aur long-lasting hoti hain, jo daily office use ke liye best hain.\n* **Peter England:** Budget-friendly range mein yeh India ka sabse trusted brand hai. Agar aapko kam daam mein acchi quality aur professional fit chahiye, toh Peter England sabse aage hai.\n* **Raymond:** Quality ke mamle mein Raymond ka koi mukabla nahi hai. Inke fabrics (jaise cotton aur linen blends) bahut premium hote hain aur yeh tailor-made fit ke liye bhi jaane jaate hain.\n\n### 3. Contemporary & Slim Fit Brands\n\n* **blackberrys:** Modern corporate youth ke beech blackberrys kaafi popular hai. Inki shirts ki stitching aur sharp cuts body par bahut acche lagte hain.\n* **Park Avenue:** Raymond group ka hi brand hai. Yeh traditional aur contemporary formal wear ka ek shandar combination offer karta hai.\n\n---\n\n### Khareedte waqt in baaton ka dhyan rakhein:\n\n* **Fabric:** Garmi ke mausam aur lambe ghante office mein bitane ke liye **100% Cotton** ya cotton-blend shirts chunein taaki paseena na aaye.\n* **Fit:** Agar aapki body slim hai toh **Slim Fit** lein, aur agar aap relaxed fit pasand karte hain toh **Regular Fit** ya **Tailored Fit** behtar rahega.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "23.5392 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141301-2163-0629-0000-a6568275c706",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "21.6900 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:02:21 +00:00",
+      "markdown": "India mein men ke liye formal shirts ke liye kai behtareen brands available hain, jo apni quality, fit aur fabric ke liye jaane jaate hain. Aapki zaroorat aur budget ke hisaab se yeh rahi top brands ki list:\n\n---\n\n### 1. Premium & Luxury Brands (Corporate & Special Occasions ke liye)\n\n* **Van Heusen:** India ke sabse popular formalwear brands mein se ek. Inki shirts ka fabric, fit aur finish professional look ke liye bilkul perfect hoti hai.\n* **Louis Philippe:** Agar aapko ekdum premium, rich aur sophisticated look chahiye, toh Louis Philippe best choice hai. Inka fabric bahut durable aur comfortable hota hai.\n* **Allen Solly:** Agar aap thoda modern aur smart-casual/formal mix look pasand karte hain, toh Allen Solly ke slim-fit aur vibrant colors wale options bahut acche hain.\n\n### 2. Best Value for Money (Mid-Range & Office Wear)\n\n* **Arrow:** Classic corporate look ke liye Arrow ek lajawab brand hai. Inki shirts wrinkle-resistant (anti-wrinkle) aur long-lasting hoti hain, jo daily office use ke liye best hain.\n* **Peter England:** Budget-friendly range mein yeh India ka sabse trusted brand hai. Agar aapko kam daam mein acchi quality aur professional fit chahiye, toh Peter England sabse aage hai.\n* **Raymond:** Quality ke mamle mein Raymond ka koi mukabla nahi hai. Inke fabrics (jaise cotton aur linen blends) bahut premium hote hain aur yeh tailor-made fit ke liye bhi jaane jaate hain.\n\n### 3. Contemporary & Slim Fit Brands\n\n* **blackberrys:** Modern corporate youth ke beech blackberrys kaafi popular hai. Inki shirts ki stitching aur sharp cuts body par bahut acche lagte hain.\n* **Park Avenue:** Raymond group ka hi brand hai. Yeh traditional aur contemporary formal wear ka ek shandar combination offer karta hai.\n\n---\n\n### Khareedte waqt in baaton ka dhyan rakhein:\n\n* **Fabric:** Garmi ke mausam aur lambe ghante office mein bitane ke liye **100% Cotton** ya cotton-blend shirts chunein taaki paseena na aaye.\n* **Fit:** Agar aapki body slim hai toh **Slim Fit** lein, aur agar aap relaxed fit pasand karte hain toh **Regular Fit** ya **Tailored Fit** behtar rahega.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 9,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein men ke liye formal shirts ke liye kai behtareen brands available hain, jo apni quality, fit aur fabric ke liye jaane jaate hain. Aapki zaroorat aur budget ke hisaab se yeh rahi top brands ki list:",
+        "original_text": "India mein men ke liye formal shirts ke liye kai behtareen brands available hain, jo apni quality, fit aur fabric ke liye jaane jaate hain. Aapki zaroorat aur budget ke hisaab se yeh rahi top brands ki list:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### 1. Premium & Luxury Brands (Corporate & Special Occasions ke liye)",
+        "original_text": "1. Premium & Luxury Brands (Corporate & Special Occasions ke liye)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Van Heusen:** India ke sabse popular formalwear brands mein se ek. Inki shirts ka fabric, fit aur finish professional look ke liye bilkul perfect hoti hai.\n* **Louis Philippe:** Agar aapko ekdum premium, rich aur sophisticated look chahiye, toh Louis Philippe best choice hai. Inka fabric bahut durable aur comfortable hota hai.\n* **Allen Solly:** Agar aap thoda modern aur smart-casual/formal mix look pasand karte hain, toh Allen Solly ke slim-fit aur vibrant colors wale options bahut acche hain.",
+        "original_text": "Van Heusen: India ke sabse popular formalwear brands mein se ek. Inki shirts ka fabric, fit aur finish professional look ke liye bilkul perfect hoti hai.\nLouis Philippe: Agar aapko ekdum premium, rich aur sophisticated look chahiye, toh Louis Philippe best choice hai. Inka fabric bahut durable aur comfortable hota hai.\nAllen Solly: Agar aap thoda modern aur smart-casual/formal mix look pasand karte hain, toh Allen Solly ke slim-fit aur vibrant colors wale options bahut acche hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### 2. Best Value for Money (Mid-Range & Office Wear)",
+        "original_text": "2. Best Value for Money (Mid-Range & Office Wear)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "* **Arrow:** Classic corporate look ke liye Arrow ek lajawab brand hai. Inki shirts wrinkle-resistant (anti-wrinkle) aur long-lasting hoti hain, jo daily office use ke liye best hain.\n* **Peter England:** Budget-friendly range mein yeh India ka sabse trusted brand hai. Agar aapko kam daam mein acchi quality aur professional fit chahiye, toh Peter England sabse aage hai.\n* **Raymond:** Quality ke mamle mein Raymond ka koi mukabla nahi hai. Inke fabrics (jaise cotton aur linen blends) bahut premium hote hain aur yeh tailor-made fit ke liye bhi jaane jaate hain.",
+        "original_text": "Arrow: Classic corporate look ke liye Arrow ek lajawab brand hai. Inki shirts wrinkle-resistant (anti-wrinkle) aur long-lasting hoti hain, jo daily office use ke liye best hain.\nPeter England: Budget-friendly range mein yeh India ka sabse trusted brand hai. Agar aapko kam daam mein acchi quality aur professional fit chahiye, toh Peter England sabse aage hai.\nRaymond: Quality ke mamle mein Raymond ka koi mukabla nahi hai. Inke fabrics (jaise cotton aur linen blends) bahut premium hote hain aur yeh tailor-made fit ke liye bhi jaane jaate hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "### 3. Contemporary & Slim Fit Brands",
+        "original_text": "3. Contemporary & Slim Fit Brands",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **blackberrys:** Modern corporate youth ke beech blackberrys kaafi popular hai. Inki shirts ki stitching aur sharp cuts body par bahut acche lagte hain.\n* **Park Avenue:** Raymond group ka hi brand hai. Yeh traditional aur contemporary formal wear ka ek shandar combination offer karta hai.",
+        "original_text": "blackberrys: Modern corporate youth ke beech blackberrys kaafi popular hai. Inki shirts ki stitching aur sharp cuts body par bahut acche lagte hain.\nPark Avenue: Raymond group ka hi brand hai. Yeh traditional aur contemporary formal wear ka ek shandar combination offer karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### Khareedte waqt in baaton ka dhyan rakhein:",
+        "original_text": "Khareedte waqt in baaton ka dhyan rakhein:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "* **Fabric:** Garmi ke mausam aur lambe ghante office mein bitane ke liye **100% Cotton** ya cotton-blend shirts chunein taaki paseena na aaye.\n* **Fit:** Agar aapki body slim hai toh **Slim Fit** lein, aur agar aap relaxed fit pasand karte hain toh **Regular Fit** ya **Tailored Fit** behtar rahega.",
+        "original_text": "Fabric: Garmi ke mausam aur lambe ghante office mein bitane ke liye 100% Cotton ya cotton-blend shirts chunein taaki paseena na aaye.\nFit: Agar aapki body slim hai toh Slim Fit lein, aur agar aap relaxed fit pasand karte hain toh Regular Fit ya Tailored Fit behtar rahega.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,306 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "perplexity",
+  "rep": 4,
+  "promptText": "Which brand's jeans should I buy for men in India under ₹2000?",
+  "cellId": "F01_en_perplexity_r4",
+  "startedAt": "2026-08-14T12:58:32.938Z",
+  "finishedAt": "2026-08-14T12:58:39.244Z",
+  "durationMs": 6306,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "If you want a **safe, best-overall pick**, buy **Levi’s** if you can find a pair on sale under ₹2,000; it is repeatedly cited as a strong brand choice for men’s jeans in India. If Levi’s is not available in budget, **Wrangler**, **Pepe Jeans**, **Spykar**, and **Numero Uno** are the next most commonly recommended brands under this price range.[2][3][13]\n\nA practical shortlist for **under ₹2,000** would be:\n\n- **Levi’s** — best if discounted; strongest all-round brand reputation.[2][3]\n- **Wrangler** — reliable everyday denim and commonly available in this budget.[7][9][13][20]\n- **Spykar** — good value when on sale; often mentioned in budget lists.[3][13]\n- **Pepe Jeans** — frequently included among recommended budget options.[3][6][13]\n- **Numero Uno** — explicitly offers men’s jeans under ₹2,000.[3][5]\n\nIf you want the **single brand recommendation**, choose **Wrangler** for the best balance of brand reliability, fit options, and likelihood of finding something genuinely under ₹2,000.[7][9][13][20]\n\nIf you want, I can also narrow this down by **fit** — slim, straight, relaxed, or baggy — and suggest the best brand for each.",
+  "citations": [
+   {
+    "url": "https://www.youtube.com/watch?v=MrlohYQYPn4",
+    "position": 1
+   },
+   {
+    "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000",
+    "position": 2
+   },
+   {
+    "url": "https://economictimes.com/top-trending-products/lifestyle/6-best-jeans-for-men-under-2000-in-india-to-look-effortlessly-stylish/articleshow/101220271.cms",
+    "position": 3
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=RsMyKN0tQtw",
+    "position": 4
+   },
+   {
+    "url": "https://www.numerounojeanswear.com/collections/men-jeans-under-2000",
+    "position": 5
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=3uY-tAiCFYY",
+    "position": 6
+   },
+   {
+    "url": "https://etadviser.com/lifestyle/best-jeans-for-men-under-2000-premium-materials-and-comfort/articleshow/111264189.cms",
+    "position": 7
+   },
+   {
+    "url": "https://celio.in/collections/jeans-under-2000-for-men",
+    "position": 8
+   },
+   {
+    "url": "https://www.wrangler.in/men/jeans?min=0&max=2000",
+    "position": 9
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=79Dt3J61HY0",
+    "position": 10
+   },
+   {
+    "url": "https://www.mensxp.com/fashion/style-trends/31178-7-budget-brands-you-can-totally-depend-on-while-buying-a-pair-of-jeans.html",
+    "position": 11
+   },
+   {
+    "url": "https://levi.in/collections/men-jeans",
+    "position": 12
+   },
+   {
+    "url": "https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men",
+    "position": 13
+   },
+   {
+    "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/1bcqdj0/what_are_the_best_jeans_brands_in_india_under_2k/",
+    "position": 14
+   },
+   {
+    "url": "https://www.urbanofashion.com/blogs/jeans/top-10-best-baggy-jeans-men-under-2000-india-2025",
+    "position": 15
+   },
+   {
+    "url": "https://www.flipkart.com/mens-jeans/pr?sid=clo,vua,k58,i51",
+    "position": 16
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=gTChmZIhjHk",
+    "position": 17
+   },
+   {
+    "url": "https://www.amazon.in/Mens-Jeans-%E2%82%B92-000-%E2%82%B93-Clothing/s?rh=n:1968076031,p_36:200000-300000",
+    "position": 18
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=-akKiV1agz0",
+    "position": 19
+   },
+   {
+    "url": "https://www.ajio.com/men-jeans/c/830216001",
+    "position": 20
+   }
+  ],
+  "costUsd": 0.005337
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "5.8335 sec.",
+  "cost": 0.005937,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141258-2163-0612-0000-ebf4081c1dca",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "5.7765 sec.",
+    "cost": 0.005937,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "Which brand's jeans should I buy for men in India under ₹2000?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 23,
+      "output_tokens": 314,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005337,
+      "datetime": "2026-08-14 12:58:37 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "If you want a **safe, best-overall pick**, buy **Levi’s** if you can find a pair on sale under ₹2,000; it is repeatedly cited as a strong brand choice for men’s jeans in India. If Levi’s is not available in budget, **Wrangler**, **Pepe Jeans**, **Spykar**, and **Numero Uno** are the next most commonly recommended brands under this price range.[2][3][13]\n\nA practical shortlist for **under ₹2,000** would be:\n\n- **Levi’s** — best if discounted; strongest all-round brand reputation.[2][3]\n- **Wrangler** — reliable everyday denim and commonly available in this budget.[7][9][13][20]\n- **Spykar** — good value when on sale; often mentioned in budget lists.[3][13]\n- **Pepe Jeans** — frequently included among recommended budget options.[3][6][13]\n- **Numero Uno** — explicitly offers men’s jeans under ₹2,000.[3][5]\n\nIf you want the **single brand recommendation**, choose **Wrangler** for the best balance of brand reliability, fit options, and likelihood of finding something genuinely under ₹2,000.[7][9][13][20]\n\nIf you want, I can also narrow this down by **fit** — slim, straight, relaxed, or baggy — and suggest the best brand for each.",
+          "annotations": [
+           {
+            "title": "Top 5 Jeans Brands for Men Under ₹2000: Fit Review",
+            "url": "https://www.youtube.com/watch?v=MrlohYQYPn4",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men ...",
+            "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "6 Best Jeans for Men Under 2000 in India to Look Effortlessly Stylish",
+            "url": "https://economictimes.com/top-trending-products/lifestyle/6-best-jeans-for-men-under-2000-in-india-to-look-effortlessly-stylish/articleshow/101220271.cms",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 5 Jeans Brand for men Under ₹2000: Fit & Comfort Review",
+            "url": "https://www.youtube.com/watch?v=RsMyKN0tQtw",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Branded Men's Jeans Under 2000 Online - Numero Uno",
+            "url": "https://www.numerounojeanswear.com/collections/men-jeans-under-2000",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "10 Best Jeans for Men Under ₹2000 on Flipkart Levis ... - YouTube",
+            "url": "https://www.youtube.com/watch?v=3uY-tAiCFYY",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Jeans for Men Under 2000: Premium Materials and Great ...",
+            "url": "https://etadviser.com/lifestyle/best-jeans-for-men-under-2000-premium-materials-and-comfort/articleshow/111264189.cms",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Jeans Under 2000 For Men For Men – Affordable Style | Celio",
+            "url": "https://celio.in/collections/jeans-under-2000-for-men",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Men's Jeans under RS.2000",
+            "url": "https://www.wrangler.in/men/jeans?min=0&max=2000",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Jeans From Top Brands Under Rs. 2000 I Tried Them .. | Be Ghent",
+            "url": "https://www.youtube.com/watch?v=79Dt3J61HY0",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Jeans Brand for Men in india - MensXP",
+            "url": "https://www.mensxp.com/fashion/style-trends/31178-7-budget-brands-you-can-totally-depend-on-while-buying-a-pair-of-jeans.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Jeans for Men Online at Best Price - Levi's",
+            "url": "https://levi.in/collections/men-jeans",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 14 Jeans Brands for Men in India (August 2026) - magicpin",
+            "url": "https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "What are the best jeans brands in India under 2k? - Reddit",
+            "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/1bcqdj0/what_are_the_best_jeans_brands_in_india_under_2k/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 10 Best Baggy Jeans for Men Under ₹2000 in India",
+            "url": "https://www.urbanofashion.com/blogs/jeans/top-10-best-baggy-jeans-men-under-2000-india-2025",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Jeans for Men - Buy Stylish Men's Jeans Online at Low prices",
+            "url": "https://www.flipkart.com/mens-jeans/pr?sid=clo,vua,k58,i51",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "*TOP* 10 BEST JEANS BRANDS UNDER ₹1500| J&J vs Levis vs AE vs PE",
+            "url": "https://www.youtube.com/watch?v=gTChmZIhjHk",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "2000 - ₹3000 - Men's Jeans / Men's Clothing - Amazon.in",
+            "url": "https://www.amazon.in/Mens-Jeans-%E2%82%B92-000-%E2%82%B93-Clothing/s?rh=n:1968076031,p_36:200000-300000",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "BEST JEANS FOR MEN UNDER 2000 | Best amazon Black Friday deals in India 2024",
+            "url": "https://www.youtube.com/watch?v=-akKiV1agz0",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Men's Jeans - Low Price Offer on Western Jeans for Men Online | AJIO",
+            "url": "https://www.ajio.com/men-jeans/c/830216001",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

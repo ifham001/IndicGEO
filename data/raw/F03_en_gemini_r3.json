@@ -1,0 +1,316 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F03",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 3,
+  "promptText": "Which brand's kurta sets should I buy for women online in India?",
+  "cellId": "F03_en_gemini_r3",
+  "startedAt": "2026-08-14T12:39:17.281Z",
+  "finishedAt": "2026-08-14T12:39:28.683Z",
+  "durationMs": 11402,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "When shopping for women's kurta sets online in India, the best brand depends heavily on your budget, style preference, and the occasion.\n\nPopular brands are categorized below by what they do best to help you choose:\n\n### 1. Best for Office Wear & Daily Use\n\n* **W for Woman:** Known for modern, structured silhouettes, contemporary prints, and corporate-friendly ethnic wear that requires minimal styling.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Different%20brands%20work%20better%20for,easy%20to%20style%20for%20workdays.)\n* **Libas:** Offers a massive variety ranging from budget-friendly cotton daily wear to stylish festive sets.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=It%20is%20a%20good%20option%20for%20women%20who%20prefer%20cotton,without%20switching%20across%20multiple%20brands.) Great if you want a lot of options without breaking the bank.\n* **IndiSangam:** Excellent for breathable cotton, muslin, and modal everyday sets, casual co-ord sets, and lightweight workwear.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=IndiSangam%20is%20a%20good%20option,everyday%20wear%20and%20lighter%20occasions.)\n\n### 2. Best for Festive Occasions & Family Functions\n\n* **Biba:** A household name in Indian ethnic wear, famous for classic, dependable festive styles, traditional prints, and rich color palettes.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Best%20for%3A%20Festive%20classics%20and,festive%20and%20traditional%20kurta%20sets.)\n* **SOCH:** Perfect if you want something a bit dressier, featuring richer detailing, heavier fabrics, and sophisticated styles for celebrations and events.\n\n### 3. Best for Contemporary & Premium Styles\n\n* **trueBrowns:** Great for structured, modern silhouettes, earthy tones, and fusion-style sets that transition easily from day to night.\n* **Gajra Gang (via Nykaa Fashion):** Ideal for trendy, statement-making festive and party-wear kurta sets.\n\n---\n\n### Where to Shop Online\n\nIf you want to compare multiple brands in one place, check out major Indian fashion aggregators:\n\n* **Myntra & Nykaa Fashion:** Excellent for filters (by size, fabric, price) and frequent sales.[www.nykaafashion.com](https://www.nykaafashion.com/women/indianwear/kurtis-kurtas-and-tunics/c/662#:~:text=Have%20an%20enjoyable%20shopping%20experience,eye-catching%20deals%20and%20discounts.)\n* **AJIO & Tata Cliq:** Great for authentic brand selections and reliable delivery.\n\nWhat kind of occasion (daily wear, office, or a festive event) are you shopping for, and do you have a preferred fabric like cotton or silk?",
+  "citations": [
+   {
+    "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Different%20brands%20work%20better%20for,easy%20to%20style%20for%20workdays.",
+    "source_name": null,
+    "position": 1
+   },
+   {
+    "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=It%20is%20a%20good%20option%20for%20women%20who%20prefer%20cotton,without%20switching%20across%20multiple%20brands.",
+    "source_name": null,
+    "position": 2
+   },
+   {
+    "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=IndiSangam%20is%20a%20good%20option,everyday%20wear%20and%20lighter%20occasions.",
+    "source_name": null,
+    "position": 3
+   },
+   {
+    "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Best%20for%3A%20Festive%20classics%20and,festive%20and%20traditional%20kurta%20sets.",
+    "source_name": null,
+    "position": 4
+   },
+   {
+    "url": "https://www.nykaafashion.com/women/indianwear/kurtis-kurtas-and-tunics/c/662#:~:text=Have%20an%20enjoyable%20shopping%20experience,eye-catching%20deals%20and%20discounts.",
+    "source_name": null,
+    "position": 5
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "11.1568 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141239-2163-0629-0000-afef9883cb51",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "11.1412 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Which brand's kurta sets should I buy for women online in India?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which brand's kurta sets should I buy for women online in India?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:39:28 +00:00",
+      "markdown": "When shopping for women's kurta sets online in India, the best brand depends heavily on your budget, style preference, and the occasion.\n\nPopular brands are categorized below by what they do best to help you choose:\n\n### 1. Best for Office Wear & Daily Use\n\n* **W for Woman:** Known for modern, structured silhouettes, contemporary prints, and corporate-friendly ethnic wear that requires minimal styling.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Different%20brands%20work%20better%20for,easy%20to%20style%20for%20workdays.)\n* **Libas:** Offers a massive variety ranging from budget-friendly cotton daily wear to stylish festive sets.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=It%20is%20a%20good%20option%20for%20women%20who%20prefer%20cotton,without%20switching%20across%20multiple%20brands.) Great if you want a lot of options without breaking the bank.\n* **IndiSangam:** Excellent for breathable cotton, muslin, and modal everyday sets, casual co-ord sets, and lightweight workwear.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=IndiSangam%20is%20a%20good%20option,everyday%20wear%20and%20lighter%20occasions.)\n\n### 2. Best for Festive Occasions & Family Functions\n\n* **Biba:** A household name in Indian ethnic wear, famous for classic, dependable festive styles, traditional prints, and rich color palettes.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Best%20for%3A%20Festive%20classics%20and,festive%20and%20traditional%20kurta%20sets.)\n* **SOCH:** Perfect if you want something a bit dressier, featuring richer detailing, heavier fabrics, and sophisticated styles for celebrations and events.\n\n### 3. Best for Contemporary & Premium Styles\n\n* **trueBrowns:** Great for structured, modern silhouettes, earthy tones, and fusion-style sets that transition easily from day to night.\n* **Gajra Gang (via Nykaa Fashion):** Ideal for trendy, statement-making festive and party-wear kurta sets.\n\n---\n\n### Where to Shop Online\n\nIf you want to compare multiple brands in one place, check out major Indian fashion aggregators:\n\n* **Myntra & Nykaa Fashion:** Excellent for filters (by size, fabric, price) and frequent sales.[www.nykaafashion.com](https://www.nykaafashion.com/women/indianwear/kurtis-kurtas-and-tunics/c/662#:~:text=Have%20an%20enjoyable%20shopping%20experience,eye-catching%20deals%20and%20discounts.)\n* **AJIO & Tata Cliq:** Great for authentic brand selections and reliable delivery.\n\nWhat kind of occasion (daily wear, office, or a festive event) are you shopping for, and do you have a preferred fabric like cotton or silk?",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "10 Best Kurta Set Brands for Women in India (2026) - IndiSangam",
+        "snippet": "Different brands work better for different needs, from everyday cotton \nstyles to festive and premium ethnic wear. 4. Which kurta brand is best for \noffice wear? ...",
+        "domain": "www.indisangam.com",
+        "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Different%20brands%20work%20better%20for,easy%20to%20style%20for%20workdays.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSe5FvQnXxoMJnBvz36YaTOWa-1jMiQhZqgKZLutrvGRRN_7K-rOyGtgv7q6SsYb_rMyWdWKbsXnb4WDbOxCBpzaJwEcN5gNigpLnuo",
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "* **W for Woman:** Known for modern, structured silhouettes, contemporary prints, and corporate-friendly ethnic wear that requires minimal styling."
+       },
+       {
+        "type": "gemini_source",
+        "title": "10 Best Kurta Set Brands for Women in India (2026) - IndiSangam",
+        "snippet": "It is a good option for women who prefer cotton styles and lighter festive \nwear. Libas: Libas is a good choice when you want more options in one \nplace. It ...",
+        "domain": "www.indisangam.com",
+        "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=It%20is%20a%20good%20option%20for%20women%20who%20prefer%20cotton,without%20switching%20across%20multiple%20brands.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSe5FvQnXxoMJnBvz36YaTOWa-1jMiQhZqgKZLutrvGRRN_7K-rOyGtgv7q6SsYb_rMyWdWKbsXnb4WDbOxCBpzaJwEcN5gNigpLnuo",
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "* **Libas:** Offers a massive variety ranging from budget-friendly cotton daily wear to stylish festive sets."
+       },
+       {
+        "type": "gemini_source",
+        "title": "10 Best Kurta Set Brands for Women in India (2026) - IndiSangam",
+        "snippet": "IndiSangam is a good option for women who want kurta sets that are easy to \nwear across daily use, work, and small occasions. Its collection includes \nkurta ...",
+        "domain": "www.indisangam.com",
+        "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=IndiSangam%20is%20a%20good%20option,everyday%20wear%20and%20lighter%20occasions.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSe5FvQnXxoMJnBvz36YaTOWa-1jMiQhZqgKZLutrvGRRN_7K-rOyGtgv7q6SsYb_rMyWdWKbsXnb4WDbOxCBpzaJwEcN5gNigpLnuo",
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "* **IndiSangam:** Excellent for breathable cotton, muslin, and modal everyday sets, casual co-ord sets, and lightweight workwear."
+       },
+       {
+        "type": "gemini_source",
+        "title": "10 Best Kurta Set Brands for Women in India (2026) - IndiSangam",
+        "snippet": "Best for: Festive classics and family function outfits. Price range: \nMid-range. Buy from here when: You want tried-and-tested ethnic wear for \ncelebrations and ...",
+        "domain": "www.indisangam.com",
+        "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Best%20for%3A%20Festive%20classics%20and,festive%20and%20traditional%20kurta%20sets.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSe5FvQnXxoMJnBvz36YaTOWa-1jMiQhZqgKZLutrvGRRN_7K-rOyGtgv7q6SsYb_rMyWdWKbsXnb4WDbOxCBpzaJwEcN5gNigpLnuo",
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "* **Biba:** A household name in Indian ethnic wear, famous for classic, dependable festive styles, traditional prints, and rich color palettes."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Shop Kurtis Kurtas And Tunics Online - Nykaa Fashion",
+        "snippet": "Have an enjoyable shopping experience with intuitive filters, shortlisting \noptions, prompt delivery and easy-to-return policies. Within just a few \nclicks, you ...",
+        "domain": "www.nykaafashion.com",
+        "url": "https://www.nykaafashion.com/women/indianwear/kurtis-kurtas-and-tunics/c/662#:~:text=Have%20an%20enjoyable%20shopping%20experience,eye-catching%20deals%20and%20discounts.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQFQZdN_I0bciQbRXWh9HkQrRJvZ9vWOMBlszMOe7iMxoT_4pQwGuLChWElGccMC8OKIyGAMn5bXnKGh30nXGpcNfundXgn6UW199t5b_w",
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "* **Myntra & Nykaa Fashion:** Excellent for filters (by size, fabric, price) and frequent sales."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 12,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "When shopping for women's kurta sets online in India, the best brand depends heavily on your budget, style preference, and the occasion.",
+        "original_text": "When shopping for women's kurta sets online in India, the best brand depends heavily on your budget, style preference, and the occasion.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Popular brands are categorized below by what they do best to help you choose:",
+        "original_text": "Popular brands are categorized below by what they do best to help you choose:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### 1. Best for Office Wear & Daily Use",
+        "original_text": "1. Best for Office Wear & Daily Use",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **W for Woman:** Known for modern, structured silhouettes, contemporary prints, and corporate-friendly ethnic wear that requires minimal styling.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Different%20brands%20work%20better%20for,easy%20to%20style%20for%20workdays.)\n* **Libas:** Offers a massive variety ranging from budget-friendly cotton daily wear to stylish festive sets.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=It%20is%20a%20good%20option%20for%20women%20who%20prefer%20cotton,without%20switching%20across%20multiple%20brands.) Great if you want a lot of options without breaking the bank.\n* **IndiSangam:** Excellent for breathable cotton, muslin, and modal everyday sets, casual co-ord sets, and lightweight workwear.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=IndiSangam%20is%20a%20good%20option,everyday%20wear%20and%20lighter%20occasions.)",
+        "original_text": "W for Woman: Known for modern, structured silhouettes, contemporary prints, and corporate-friendly ethnic wear that requires minimal styling.\nLibas: Offers a massive variety ranging from budget-friendly cotton daily wear to stylish festive sets. Great if you want a lot of options without breaking the bank.\nIndiSangam: Excellent for breathable cotton, muslin, and modal everyday sets, casual co-ord sets, and lightweight workwear.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "10 Best Kurta Set Brands for Women in India (2026) - IndiSangam",
+          "snippet": "Different brands work better for different needs, from everyday cotton \nstyles to festive and premium ethnic wear. 4. Which kurta brand is best for \noffice wear? ...",
+          "domain": "www.indisangam.com",
+          "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Different%20brands%20work%20better%20for,easy%20to%20style%20for%20workdays.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSe5FvQnXxoMJnBvz36YaTOWa-1jMiQhZqgKZLutrvGRRN_7K-rOyGtgv7q6SsYb_rMyWdWKbsXnb4WDbOxCBpzaJwEcN5gNigpLnuo",
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "* **W for Woman:** Known for modern, structured silhouettes, contemporary prints, and corporate-friendly ethnic wear that requires minimal styling."
+         },
+         {
+          "type": "gemini_source",
+          "title": "10 Best Kurta Set Brands for Women in India (2026) - IndiSangam",
+          "snippet": "It is a good option for women who prefer cotton styles and lighter festive \nwear. Libas: Libas is a good choice when you want more options in one \nplace. It ...",
+          "domain": "www.indisangam.com",
+          "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=It%20is%20a%20good%20option%20for%20women%20who%20prefer%20cotton,without%20switching%20across%20multiple%20brands.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSe5FvQnXxoMJnBvz36YaTOWa-1jMiQhZqgKZLutrvGRRN_7K-rOyGtgv7q6SsYb_rMyWdWKbsXnb4WDbOxCBpzaJwEcN5gNigpLnuo",
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "* **Libas:** Offers a massive variety ranging from budget-friendly cotton daily wear to stylish festive sets."
+         },
+         {
+          "type": "gemini_source",
+          "title": "10 Best Kurta Set Brands for Women in India (2026) - IndiSangam",
+          "snippet": "IndiSangam is a good option for women who want kurta sets that are easy to \nwear across daily use, work, and small occasions. Its collection includes \nkurta ...",
+          "domain": "www.indisangam.com",
+          "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=IndiSangam%20is%20a%20good%20option,everyday%20wear%20and%20lighter%20occasions.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSe5FvQnXxoMJnBvz36YaTOWa-1jMiQhZqgKZLutrvGRRN_7K-rOyGtgv7q6SsYb_rMyWdWKbsXnb4WDbOxCBpzaJwEcN5gNigpLnuo",
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "* **IndiSangam:** Excellent for breathable cotton, muslin, and modal everyday sets, casual co-ord sets, and lightweight workwear."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. Best for Festive Occasions & Family Functions",
+        "original_text": "2. Best for Festive Occasions & Family Functions",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Biba:** A household name in Indian ethnic wear, famous for classic, dependable festive styles, traditional prints, and rich color palettes.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Best%20for%3A%20Festive%20classics%20and,festive%20and%20traditional%20kurta%20sets.)\n* **SOCH:** Perfect if you want something a bit dressier, featuring richer detailing, heavier fabrics, and sophisticated styles for celebrations and events.",
+        "original_text": "Biba: A household name in Indian ethnic wear, famous for classic, dependable festive styles, traditional prints, and rich color palettes.\nSOCH: Perfect if you want something a bit dressier, featuring richer detailing, heavier fabrics, and sophisticated styles for celebrations and events.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "10 Best Kurta Set Brands for Women in India (2026) - IndiSangam",
+          "snippet": "Best for: Festive classics and family function outfits. Price range: \nMid-range. Buy from here when: You want tried-and-tested ethnic wear for \ncelebrations and ...",
+          "domain": "www.indisangam.com",
+          "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Best%20for%3A%20Festive%20classics%20and,festive%20and%20traditional%20kurta%20sets.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSe5FvQnXxoMJnBvz36YaTOWa-1jMiQhZqgKZLutrvGRRN_7K-rOyGtgv7q6SsYb_rMyWdWKbsXnb4WDbOxCBpzaJwEcN5gNigpLnuo",
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "* **Biba:** A household name in Indian ethnic wear, famous for classic, dependable festive styles, traditional prints, and rich color palettes."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "### 3. Best for Contemporary & Premium Styles",
+        "original_text": "3. Best for Contemporary & Premium Styles",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **trueBrowns:** Great for structured, modern silhouettes, earthy tones, and fusion-style sets that transition easily from day to night.\n* **Gajra Gang (via Nykaa Fashion):** Ideal for trendy, statement-making festive and party-wear kurta sets.",
+        "original_text": "trueBrowns: Great for structured, modern silhouettes, earthy tones, and fusion-style sets that transition easily from day to night.\nGajra Gang (via Nykaa Fashion): Ideal for trendy, statement-making festive and party-wear kurta sets.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### Where to Shop Online",
+        "original_text": "Where to Shop Online",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "If you want to compare multiple brands in one place, check out major Indian fashion aggregators:",
+        "original_text": "If you want to compare multiple brands in one place, check out major Indian fashion aggregators:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "* **Myntra & Nykaa Fashion:** Excellent for filters (by size, fabric, price) and frequent sales.[www.nykaafashion.com](https://www.nykaafashion.com/women/indianwear/kurtis-kurtas-and-tunics/c/662#:~:text=Have%20an%20enjoyable%20shopping%20experience,eye-catching%20deals%20and%20discounts.)\n* **AJIO & Tata Cliq:** Great for authentic brand selections and reliable delivery.",
+        "original_text": "Myntra & Nykaa Fashion: Excellent for filters (by size, fabric, price) and frequent sales.\nAJIO & Tata Cliq: Great for authentic brand selections and reliable delivery.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Shop Kurtis Kurtas And Tunics Online - Nykaa Fashion",
+          "snippet": "Have an enjoyable shopping experience with intuitive filters, shortlisting \noptions, prompt delivery and easy-to-return policies. Within just a few \nclicks, you ...",
+          "domain": "www.nykaafashion.com",
+          "url": "https://www.nykaafashion.com/women/indianwear/kurtis-kurtas-and-tunics/c/662#:~:text=Have%20an%20enjoyable%20shopping%20experience,eye-catching%20deals%20and%20discounts.",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQFQZdN_I0bciQbRXWh9HkQrRJvZ9vWOMBlszMOe7iMxoT_4pQwGuLChWElGccMC8OKIyGAMn5bXnKGh30nXGpcNfundXgn6UW199t5b_w",
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "* **Myntra & Nykaa Fashion:** Excellent for filters (by size, fabric, price) and frequent sales."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "What kind of occasion (daily wear, office, or a festive event) are you shopping for, and do you have a preferred fabric like cotton or silk?",
+        "original_text": "What kind of occasion (daily wear, office, or a festive event) are you shopping for, and do you have a preferred fabric like cotton or silk?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

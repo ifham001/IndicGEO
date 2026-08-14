@@ -1,0 +1,284 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "perplexity",
+  "rep": 6,
+  "promptText": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+  "cellId": "F02_en_perplexity_r6",
+  "startedAt": "2026-08-14T13:06:18.896Z",
+  "finishedAt": "2026-08-14T13:06:22.758Z",
+  "durationMs": 3862,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "If you want **one safest pick overall**, get the **Nike Run Defy** at around ₹2,796; it is the top overall choice in the provided results and is described as light, cushioned, and suitable for daily training.[1][6]\n\nIf you want the best choice by use case, I’d shortlist these:\n\n- **Nike Run Defy** — best overall / daily trainer, lightest in the list at 281g and priced under ₹3,000.[1][6]\n- **Puma Voltaic Evo** — best if you care more about *running performance* than just general use.[6]\n- **Reebok Zig Titanica Lite** — best if you want *softer cushioning*.[6]\n- **Campus First** — best budget option if you want to spend much less than ₹3,000.[6]\n- **ASICS Patriot 10** or **ASICS Nitrofuze 2** — good alternatives if you prefer ASICS and can find them discounted in your budget.[3][9]\n\nA practical way to choose:\n\n- Buy **Nike Run Defy** if you want a balanced shoe for walking + running + gym.[1][6]\n- Buy **Puma Voltaic Evo** if you mainly run and want a more performance-focused feel.[6]\n- Buy **Reebok Zig Titanica Lite** if you have heel strike or want more softness underfoot.[6]\n- Buy **ASICS** options if you find a strong discount and the fit suits your foot shape.[3][9]\n\nIf you want, I can also give you a **top 3 list for men**, **top 3 for women**, or **recommendations based on your running distance and foot type**.",
+  "citations": [
+   {
+    "url": "https://www.someinfo.in/picks/best-running-shoes-under-3000-india",
+    "position": 1
+   },
+   {
+    "url": "https://reviehub.in/best-running-shoes-under-%E2%82%B93000-india-2026-top-5-tested/",
+    "position": 2
+   },
+   {
+    "url": "https://runnyday.in/best-running-shoes-under-3000/",
+    "position": 3
+   },
+   {
+    "url": "https://pakkapick.in/fitness/best-running-shoes-india",
+    "position": 4
+   },
+   {
+    "url": "https://www.sportskeeda.com/running/top-10-running-shoes-to-buy-under-rs-3000-in-india",
+    "position": 5
+   },
+   {
+    "url": "https://sportsdribble.com/sports-shoes-for-men-under-3000/",
+    "position": 6
+   },
+   {
+    "url": "https://reviehub.in/best-running-shoes-under-%E2%82%B93000-india-2026/",
+    "position": 7
+   },
+   {
+    "url": "https://www.adidas.co.in/shoes_under_3000",
+    "position": 8
+   },
+   {
+    "url": "https://www.reddit.com/r/indianrunners/comments/1q84c77/need_running_shoe_recommendations_under_3000_510/",
+    "position": 9
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Id7tq3dPF6o",
+    "position": 10
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=HUdkFa1RHVs",
+    "position": 11
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=BhQfZBp2k-s",
+    "position": 12
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=p6V-5TRGxUs",
+    "position": 13
+   },
+   {
+    "url": "https://www.myntra.com/sports-shoes-under-3000",
+    "position": 14
+   },
+   {
+    "url": "https://www.reddit.com/r/SneakersIndia/comments/1m6nawr/running_shoes_under_3k_decathlon_or_any_other/",
+    "position": 15
+   },
+   {
+    "url": "https://impakto.in/pages/running-mens",
+    "position": 16
+   },
+   {
+    "url": "https://in.puma.com/in/en/shop/shoes-under-3000",
+    "position": 17
+   },
+   {
+    "url": "https://www.instagram.com/reel/DVn4X5vEW6r/",
+    "position": 18
+   }
+  ],
+  "costUsd": 0.005406
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.6155 sec.",
+  "cost": 0.006006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141306-2163-0612-0000-6a4c791d30c3",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.6078 sec.",
+    "cost": 0.006006,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 26,
+      "output_tokens": 380,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005406,
+      "datetime": "2026-08-14 13:06:22 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "If you want **one safest pick overall**, get the **Nike Run Defy** at around ₹2,796; it is the top overall choice in the provided results and is described as light, cushioned, and suitable for daily training.[1][6]\n\nIf you want the best choice by use case, I’d shortlist these:\n\n- **Nike Run Defy** — best overall / daily trainer, lightest in the list at 281g and priced under ₹3,000.[1][6]\n- **Puma Voltaic Evo** — best if you care more about *running performance* than just general use.[6]\n- **Reebok Zig Titanica Lite** — best if you want *softer cushioning*.[6]\n- **Campus First** — best budget option if you want to spend much less than ₹3,000.[6]\n- **ASICS Patriot 10** or **ASICS Nitrofuze 2** — good alternatives if you prefer ASICS and can find them discounted in your budget.[3][9]\n\nA practical way to choose:\n\n- Buy **Nike Run Defy** if you want a balanced shoe for walking + running + gym.[1][6]\n- Buy **Puma Voltaic Evo** if you mainly run and want a more performance-focused feel.[6]\n- Buy **Reebok Zig Titanica Lite** if you have heel strike or want more softness underfoot.[6]\n- Buy **ASICS** options if you find a strong discount and the fit suits your foot shape.[3][9]\n\nIf you want, I can also give you a **top 3 list for men**, **top 3 for women**, or **recommendations based on your running distance and foot type**.",
+          "annotations": [
+           {
+            "title": "5 Best Running Shoes for Men Under ₹3,000 in India (2026 ...",
+            "url": "https://www.someinfo.in/picks/best-running-shoes-under-3000-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Running Shoes Under ₹3000 India 2026 | Top 5 Tested",
+            "url": "https://reviehub.in/best-running-shoes-under-%E2%82%B93000-india-2026-top-5-tested/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "The Best Running Shoes Under 3000 Rs. in India",
+            "url": "https://runnyday.in/best-running-shoes-under-3000/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Running Shoes in India 2026: Under ₹3,000",
+            "url": "https://pakkapick.in/fitness/best-running-shoes-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 10 running shoes to buy under Rs 3000 in India",
+            "url": "https://www.sportskeeda.com/running/top-10-running-shoes-to-buy-under-rs-3000-in-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "9 Best Running Sports Shoes for Men Under 3000 in India (2026) | SPORTS DRIBBLE",
+            "url": "https://sportsdribble.com/sports-shoes-for-men-under-3000/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Running Shoes Under ₹3000 India 2026 – RevieHub India",
+            "url": "https://reviehub.in/best-running-shoes-under-%E2%82%B93000-india-2026/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shop Sports Shoes Collection Under ₹3000 - adidas India",
+            "url": "https://www.adidas.co.in/shoes_under_3000",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Need running shoe recommendations under ₹3000 (5–10 km daily)",
+            "url": "https://www.reddit.com/r/indianrunners/comments/1q84c77/need_running_shoe_recommendations_under_3000_510/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 5 Best Running Shoes Under 3000 from Amazon! Puma, Adidas ...",
+            "url": "https://www.youtube.com/watch?v=Id7tq3dPF6o",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 5 Best Casual/Running Shoes Under ₹3000🔥 Adidas, Puma, Asics Shoes Haul 2025 | Best Running shoe",
+            "url": "https://www.youtube.com/watch?v=HUdkFa1RHVs",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "BEST BUDGET RUNNING SHOES (1000-3000Rs) Hindi... - YouTube",
+            "url": "https://www.youtube.com/watch?v=BhQfZBp2k-s",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "5 Best Running Shoes/Sneakers under ₹3000 For Men 2025🔥🔥 | Nike, Adidas, Puma, Asics Shoe for Men🔥🔥",
+            "url": "https://www.youtube.com/watch?v=p6V-5TRGxUs",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Sports Shoes Under 3000 - Myntra",
+            "url": "https://www.myntra.com/sports-shoes-under-3000",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Running shoes under 3k ? Decathlon or any other ?",
+            "url": "https://www.reddit.com/r/SneakersIndia/comments/1m6nawr/running_shoes_under_3k_decathlon_or_any_other/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Running Shoes for Men Under ₹3000 | Impakto",
+            "url": "https://impakto.in/pages/running-mens",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Shoes Under 3000 & Get Upto 50% Off Online | PUMA India",
+            "url": "https://in.puma.com/in/en/shop/shoes-under-3000",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "best running shoes under 3000 - Instagram",
+            "url": "https://www.instagram.com/reel/DVn4X5vEW6r/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,168 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S05",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 8,
+  "promptText": "Which serum should I buy for acne-prone skin in India under ₹700?",
+  "cellId": "S05_en_gemini_r8",
+  "startedAt": "2026-08-14T13:15:15.871Z",
+  "finishedAt": "2026-08-14T13:15:41.494Z",
+  "durationMs": 25623,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "When shopping for acne-prone skin in India on a budget under ₹700, the best choice depends on your primary skin concern (active breakouts, oil control, or fading leftover marks).\n\nHere are the top-recommended, budget-friendly face serums available in India that fit your criteria:\n\n---\n\n### 1. For Active Pimples & Clogged Pores (Salicylic Acid Serums)\n\n*If you deal with active breakouts, blackheads, or whiteheads, you need a **BHA (Salicylic Acid)** serum to penetrate pores and clear out trapped oil and dirt.*\n\n* **Minimalist 2% Salicylic Acid Face Serum**\n  *   * **Approx. Price:** ~₹549 for 30ml (smaller sizes available around ₹224)\n  * **Why it works:** Combines salicylic acid with Centella Water to fight acne without overly drying out your skin.\n* **Pilgrim Salicylic Acid Face Serum**\n  *   * **Approx. Price:** ~₹600 for 30ml\n  * **Why it works:** Great for clearing clogged pores and controlling excess oil production.\n\n### 2. For Oil Control & Fading Acne Marks (Niacinamide Serums)\n\n*If your main struggle is excess shine, enlarged pores, and post-acne dark spots, **Niacinamide (Vitamin B3)** is your best option.*\n\n* **Minimalist 10% Niacinamide Face Serum**\n  *   * **Approx. Price:** ~₹599 for 30ml\n  * **Why it works:** One of the most popular cult-favorite barrier-repair and oil-balancing serums in India. It also contains 1% Zinc, which helps manage sebum production.\n* **The Derma Co 10% Niacinamide Face Serum**\n  *   * **Approx. Price:** ~₹600 for 30ml (frequently found on discount)\n  * **Why it works:** Excellent for fading acne scars and regulating daily facial oil.\n* **Plum 10% Niacinamide Face Serum (with Rice Water)**\n  *   * **Approx. Price:** ~₹645 for 50ml\n  * **Why it works:** Offers a larger quantity for the price, soothing skin while targeting uneven skin tone and blemishes.\n\n---\n\n### Quick Tips for Teen Skincare\n\n* **Patch Test First:** Always apply a tiny drop of the serum on your inner elbow or jawline for 24 hours to check for any allergic reaction or irritation.\n* **Start Slow:** If you choose a Salicylic Acid serum, use it only 2–3 times a week initially so your skin can build tolerance.\n* **Don't Skip Sunscreen:** Active ingredients like salicylic acid can make your skin sensitive to the sun. Always follow up with a broad-spectrum sunscreen during the day.\n\nWhich specific skin concern (like active pimples or dark spots) are you hoping to target first?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "25.2495 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141315-2163-0629-0000-d39cbfc920e3",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "24.2858 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Which serum should I buy for acne-prone skin in India under ₹700?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which serum should I buy for acne-prone skin in India under ₹700?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:15:40 +00:00",
+      "markdown": "When shopping for acne-prone skin in India on a budget under ₹700, the best choice depends on your primary skin concern (active breakouts, oil control, or fading leftover marks).\n\nHere are the top-recommended, budget-friendly face serums available in India that fit your criteria:\n\n---\n\n### 1. For Active Pimples & Clogged Pores (Salicylic Acid Serums)\n\n*If you deal with active breakouts, blackheads, or whiteheads, you need a **BHA (Salicylic Acid)** serum to penetrate pores and clear out trapped oil and dirt.*\n\n* **Minimalist 2% Salicylic Acid Face Serum**\n  *   * **Approx. Price:** ~₹549 for 30ml (smaller sizes available around ₹224)\n  * **Why it works:** Combines salicylic acid with Centella Water to fight acne without overly drying out your skin.\n* **Pilgrim Salicylic Acid Face Serum**\n  *   * **Approx. Price:** ~₹600 for 30ml\n  * **Why it works:** Great for clearing clogged pores and controlling excess oil production.\n\n### 2. For Oil Control & Fading Acne Marks (Niacinamide Serums)\n\n*If your main struggle is excess shine, enlarged pores, and post-acne dark spots, **Niacinamide (Vitamin B3)** is your best option.*\n\n* **Minimalist 10% Niacinamide Face Serum**\n  *   * **Approx. Price:** ~₹599 for 30ml\n  * **Why it works:** One of the most popular cult-favorite barrier-repair and oil-balancing serums in India. It also contains 1% Zinc, which helps manage sebum production.\n* **The Derma Co 10% Niacinamide Face Serum**\n  *   * **Approx. Price:** ~₹600 for 30ml (frequently found on discount)\n  * **Why it works:** Excellent for fading acne scars and regulating daily facial oil.\n* **Plum 10% Niacinamide Face Serum (with Rice Water)**\n  *   * **Approx. Price:** ~₹645 for 50ml\n  * **Why it works:** Offers a larger quantity for the price, soothing skin while targeting uneven skin tone and blemishes.\n\n---\n\n### Quick Tips for Teen Skincare\n\n* **Patch Test First:** Always apply a tiny drop of the serum on your inner elbow or jawline for 24 hours to check for any allergic reaction or irritation.\n* **Start Slow:** If you choose a Salicylic Acid serum, use it only 2–3 times a week initially so your skin can build tolerance.\n* **Don't Skip Sunscreen:** Active ingredients like salicylic acid can make your skin sensitive to the sun. Always follow up with a broad-spectrum sunscreen during the day.\n\nWhich specific skin concern (like active pimples or dark spots) are you hoping to target first?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 11,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "When shopping for acne-prone skin in India on a budget under ₹700, the best choice depends on your primary skin concern (active breakouts, oil control, or fading leftover marks).",
+        "original_text": "When shopping for acne-prone skin in India on a budget under ₹700, the best choice depends on your primary skin concern (active breakouts, oil control, or fading leftover marks).",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Here are the top-recommended, budget-friendly face serums available in India that fit your criteria:",
+        "original_text": "Here are the top-recommended, budget-friendly face serums available in India that fit your criteria:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### 1. For Active Pimples & Clogged Pores (Salicylic Acid Serums)",
+        "original_text": "1. For Active Pimples & Clogged Pores (Salicylic Acid Serums)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "*If you deal with active breakouts, blackheads, or whiteheads, you need a **BHA (Salicylic Acid)** serum to penetrate pores and clear out trapped oil and dirt.*",
+        "original_text": "If you deal with active breakouts, blackheads, or whiteheads, you need a BHA (Salicylic Acid) serum to penetrate pores and clear out trapped oil and dirt.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "* **Minimalist 2% Salicylic Acid Face Serum**\n  *   * **Approx. Price:** ~₹549 for 30ml (smaller sizes available around ₹224)\n  * **Why it works:** Combines salicylic acid with Centella Water to fight acne without overly drying out your skin.\n* **Pilgrim Salicylic Acid Face Serum**\n  *   * **Approx. Price:** ~₹600 for 30ml\n  * **Why it works:** Great for clearing clogged pores and controlling excess oil production.",
+        "original_text": "Minimalist 2% Salicylic Acid Face Serum\nApprox. Price: ~₹549 for 30ml (smaller sizes available around ₹224)\nWhy it works: Combines salicylic acid with Centella Water to fight acne without overly drying out your skin.\nPilgrim Salicylic Acid Face Serum\nApprox. Price: ~₹600 for 30ml\nWhy it works: Great for clearing clogged pores and controlling excess oil production.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "### 2. For Oil Control & Fading Acne Marks (Niacinamide Serums)",
+        "original_text": "2. For Oil Control & Fading Acne Marks (Niacinamide Serums)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "*If your main struggle is excess shine, enlarged pores, and post-acne dark spots, **Niacinamide (Vitamin B3)** is your best option.*",
+        "original_text": "If your main struggle is excess shine, enlarged pores, and post-acne dark spots, Niacinamide (Vitamin B3) is your best option.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Minimalist 10% Niacinamide Face Serum**\n  *   * **Approx. Price:** ~₹599 for 30ml\n  * **Why it works:** One of the most popular cult-favorite barrier-repair and oil-balancing serums in India. It also contains 1% Zinc, which helps manage sebum production.\n* **The Derma Co 10% Niacinamide Face Serum**\n  *   * **Approx. Price:** ~₹600 for 30ml (frequently found on discount)\n  * **Why it works:** Excellent for fading acne scars and regulating daily facial oil.\n* **Plum 10% Niacinamide Face Serum (with Rice Water)**\n  *   * **Approx. Price:** ~₹645 for 50ml\n  * **Why it works:** Offers a larger quantity for the price, soothing skin while targeting uneven skin tone and blemishes.",
+        "original_text": "Minimalist 10% Niacinamide Face Serum\nApprox. Price: ~₹599 for 30ml\nWhy it works: One of the most popular cult-favorite barrier-repair and oil-balancing serums in India. It also contains 1% Zinc, which helps manage sebum production.\nThe Derma Co 10% Niacinamide Face Serum\nApprox. Price: ~₹600 for 30ml (frequently found on discount)\nWhy it works: Excellent for fading acne scars and regulating daily facial oil.\nPlum 10% Niacinamide Face Serum (with Rice Water)\nApprox. Price: ~₹645 for 50ml\nWhy it works: Offers a larger quantity for the price, soothing skin while targeting uneven skin tone and blemishes.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### Quick Tips for Teen Skincare",
+        "original_text": "Quick Tips for Teen Skincare",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "* **Patch Test First:** Always apply a tiny drop of the serum on your inner elbow or jawline for 24 hours to check for any allergic reaction or irritation.\n* **Start Slow:** If you choose a Salicylic Acid serum, use it only 2–3 times a week initially so your skin can build tolerance.\n* **Don't Skip Sunscreen:** Active ingredients like salicylic acid can make your skin sensitive to the sun. Always follow up with a broad-spectrum sunscreen during the day.",
+        "original_text": "Patch Test First: Always apply a tiny drop of the serum on your inner elbow or jawline for 24 hours to check for any allergic reaction or irritation.\nStart Slow: If you choose a Salicylic Acid serum, use it only 2–3 times a week initially so your skin can build tolerance.\nDon't Skip Sunscreen: Active ingredients like salicylic acid can make your skin sensitive to the sun. Always follow up with a broad-spectrum sunscreen during the day.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "Which specific skin concern (like active pimples or dark spots) are you hoping to target first?",
+        "original_text": "Which specific skin concern (like active pimples or dark spots) are you hoping to target first?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

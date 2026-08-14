@@ -1,0 +1,182 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 4,
+  "promptText": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+  "cellId": "F02_hg_gemini_r4",
+  "startedAt": "2026-08-14T12:45:37.650Z",
+  "finishedAt": "2026-08-14T12:45:49.451Z",
+  "durationMs": 11801,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-08-14T12:45:07.940Z",
+    "error": "empty/short answer (28 chars)"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein 3,000 rupees ke budget mein running shoes ke liye kayi behtareen options available hain. Is price range mein aapko comfort, cushioning aur durability achi mil jayegi, jo beginner ya regular runners ke liye perfect hain.\n\nNeeche kuch top-rated aur reliable running shoes ki list di gayi hai:\n\n## Top Running Shoes Under ₹3,000\n\n| Brand & Model | Price Range (Approx.) | Key Features | Best For |\n| :--- | :--- | :--- | :--- |\n| **Campus OXYFIT / FIRST** | ₹1,200 - ₹1,800 | Lightweight, breathable mesh upper, good cushioning | Daily jogging, walking, and casual wear |\n| **Sparx Men's Running Shoes** | ₹1,000 - ₹1,600 | Durable outsole, firm grip, value for money | Rough use and budget-friendly running |\n| **Red Tape Running Shoes** | ₹1,500 - ₹2,500 | Stylish design, good arch support, comfortable sole | Gym workouts and short-distance running |\n| **asianite (Asian) Wonder-13** | ₹800 - ₹1,300 | Extremely affordable, memory foam insole | Beginners on a tight budget |\n| **Puma Resolve / Anzarun (Discounted)** | ₹2,200 - ₹3,000 | Branded quality, superior cushioning, stylish look | Regular running and sports |\n\n---\n\n### Key Recommendations Based on Your Needs:\n\n* **Agar aapko Branded & Long-lasting chahiye:** Sale ya discounts ke dauran **Puma** ya **Reebok** ke entry-level running shoes aapko easily 2,500 se 3,000 ke andar mil jayenge. Inki build quality aur cushioning kaafi behtareen hoti hai.\n* **Best Value for Money (Indian Brands):** **Campus** aur **Sparx** is segment ke sabse trusted brands hain. Inke shoes daily use aur running dono ke liye kaafi durable hote hain.\n* **Comfort on a Budget:** **Asian** shoes India mein apne comfort aur extremely low price ke liye jaane jaate hain, khaas kar agar aapka budget 1,500 se kam hai.\n\n> **Tip:** Agar possible ho, toh kharidne se pehle shoe ka size apne pair ke hisab se zaroor check kar lein, kyunki running shoes mein aam taur par 1 size bada (or half size up) lena comfortable rehta hai taaki toe ko space mile.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "11.0293 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141245-2163-0629-0000-8b537488ed24",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "11.0181 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:45:49 +00:00",
+      "markdown": "India mein 3,000 rupees ke budget mein running shoes ke liye kayi behtareen options available hain. Is price range mein aapko comfort, cushioning aur durability achi mil jayegi, jo beginner ya regular runners ke liye perfect hain.\n\nNeeche kuch top-rated aur reliable running shoes ki list di gayi hai:\n\n## Top Running Shoes Under ₹3,000\n\n| Brand & Model | Price Range (Approx.) | Key Features | Best For |\n| :--- | :--- | :--- | :--- |\n| **Campus OXYFIT / FIRST** | ₹1,200 - ₹1,800 | Lightweight, breathable mesh upper, good cushioning | Daily jogging, walking, and casual wear |\n| **Sparx Men's Running Shoes** | ₹1,000 - ₹1,600 | Durable outsole, firm grip, value for money | Rough use and budget-friendly running |\n| **Red Tape Running Shoes** | ₹1,500 - ₹2,500 | Stylish design, good arch support, comfortable sole | Gym workouts and short-distance running |\n| **asianite (Asian) Wonder-13** | ₹800 - ₹1,300 | Extremely affordable, memory foam insole | Beginners on a tight budget |\n| **Puma Resolve / Anzarun (Discounted)** | ₹2,200 - ₹3,000 | Branded quality, superior cushioning, stylish look | Regular running and sports |\n\n---\n\n### Key Recommendations Based on Your Needs:\n\n* **Agar aapko Branded & Long-lasting chahiye:** Sale ya discounts ke dauran **Puma** ya **Reebok** ke entry-level running shoes aapko easily 2,500 se 3,000 ke andar mil jayenge. Inki build quality aur cushioning kaafi behtareen hoti hai.\n* **Best Value for Money (Indian Brands):** **Campus** aur **Sparx** is segment ke sabse trusted brands hain. Inke shoes daily use aur running dono ke liye kaafi durable hote hain.\n* **Comfort on a Budget:** **Asian** shoes India mein apne comfort aur extremely low price ke liye jaane jaate hain, khaas kar agar aapka budget 1,500 se kam hai.\n\n> **Tip:** Agar possible ho, toh kharidne se pehle shoe ka size apne pair ke hisab se zaroor check kar lein, kyunki running shoes mein aam taur par 1 size bada (or half size up) lena comfortable rehta hai taaki toe ko space mile.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein 3,000 rupees ke budget mein running shoes ke liye kayi behtareen options available hain. Is price range mein aapko comfort, cushioning aur durability achi mil jayegi, jo beginner ya regular runners ke liye perfect hain.",
+        "original_text": "India mein 3,000 rupees ke budget mein running shoes ke liye kayi behtareen options available hain. Is price range mein aapko comfort, cushioning aur durability achi mil jayegi, jo beginner ya regular runners ke liye perfect hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Neeche kuch top-rated aur reliable running shoes ki list di gayi hai:",
+        "original_text": "Neeche kuch top-rated aur reliable running shoes ki list di gayi hai:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "## Top Running Shoes Under ₹3,000",
+        "original_text": "Top Running Shoes Under ₹3,000",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "markdown": "| Brand & Model | Price Range (Approx.) | Key Features | Best For |\n| :--- | :--- | :--- | :--- |\n| **Campus OXYFIT / FIRST** | ₹1,200 - ₹1,800 | Lightweight, breathable mesh upper, good cushioning | Daily jogging, walking, and casual wear |\n| **Sparx Men's Running Shoes** | ₹1,000 - ₹1,600 | Durable outsole, firm grip, value for money | Rough use and budget-friendly running |\n| **Red Tape Running Shoes** | ₹1,500 - ₹2,500 | Stylish design, good arch support, comfortable sole | Gym workouts and short-distance running |\n| **asianite (Asian) Wonder-13** | ₹800 - ₹1,300 | Extremely affordable, memory foam insole | Beginners on a tight budget |\n| **Puma Resolve / Anzarun (Discounted)** | ₹2,200 - ₹3,000 | Branded quality, superior cushioning, stylish look | Regular running and sports |",
+        "original_text": "Brand & Model\tPrice Range (Approx.)\tKey Features\tBest For\nCampus OXYFIT / FIRST\t₹1,200 - ₹1,800\tLightweight, breathable mesh upper, good cushioning\tDaily jogging, walking, and casual wear\nSparx Men's Running Shoes\t₹1,000 - ₹1,600\tDurable outsole, firm grip, value for money\tRough use and budget-friendly running\nRed Tape Running Shoes\t₹1,500 - ₹2,500\tStylish design, good arch support, comfortable sole\tGym workouts and short-distance running\nasianite (Asian) Wonder-13\t₹800 - ₹1,300\tExtremely affordable, memory foam insole\tBeginners on a tight budget\nPuma Resolve / Anzarun (Discounted)\t₹2,200 - ₹3,000\tBranded quality, superior cushioning, stylish look\tRegular running and sports",
+        "table": {
+         "table_header": [
+          "Brand & Model",
+          "Price Range (Approx.)",
+          "Key Features",
+          "Best For"
+         ],
+         "table_content": [
+          [
+           "Campus OXYFIT / FIRST",
+           "₹1,200 - ₹1,800",
+           "Lightweight, breathable mesh upper, good cushioning",
+           "Daily jogging, walking, and casual wear"
+          ],
+          [
+           "Sparx Men's Running Shoes",
+           "₹1,000 - ₹1,600",
+           "Durable outsole, firm grip, value for money",
+           "Rough use and budget-friendly running"
+          ],
+          [
+           "Red Tape Running Shoes",
+           "₹1,500 - ₹2,500",
+           "Stylish design, good arch support, comfortable sole",
+           "Gym workouts and short-distance running"
+          ],
+          [
+           "asianite (Asian) Wonder-13",
+           "₹800 - ₹1,300",
+           "Extremely affordable, memory foam insole",
+           "Beginners on a tight budget"
+          ],
+          [
+           "Puma Resolve / Anzarun (Discounted)",
+           "₹2,200 - ₹3,000",
+           "Branded quality, superior cushioning, stylish look",
+           "Regular running and sports"
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "markdown": "### Key Recommendations Based on Your Needs:",
+        "original_text": "Key Recommendations Based on Your Needs:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "markdown": "* **Agar aapko Branded & Long-lasting chahiye:** Sale ya discounts ke dauran **Puma** ya **Reebok** ke entry-level running shoes aapko easily 2,500 se 3,000 ke andar mil jayenge. Inki build quality aur cushioning kaafi behtareen hoti hai.\n* **Best Value for Money (Indian Brands):** **Campus** aur **Sparx** is segment ke sabse trusted brands hain. Inke shoes daily use aur running dono ke liye kaafi durable hote hain.\n* **Comfort on a Budget:** **Asian** shoes India mein apne comfort aur extremely low price ke liye jaane jaate hain, khaas kar agar aapka budget 1,500 se kam hai.",
+        "original_text": "Agar aapko Branded & Long-lasting chahiye: Sale ya discounts ke dauran Puma ya Reebok ke entry-level running shoes aapko easily 2,500 se 3,000 ke andar mil jayenge. Inki build quality aur cushioning kaafi behtareen hoti hai.\nBest Value for Money (Indian Brands): Campus aur Sparx is segment ke sabse trusted brands hain. Inke shoes daily use aur running dono ke liye kaafi durable hote hain.\nComfort on a Budget: Asian shoes India mein apne comfort aur extremely low price ke liye jaane jaate hain, khaas kar agar aapka budget 1,500 se kam hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "markdown": "> **Tip:** Agar possible ho, toh kharidne se pehle shoe ka size apne pair ke hisab se zaroor check kar lein, kyunki running shoes mein aam taur par 1 size bada (or half size up) lena comfortable rehta hai taaki toe ko space mile.",
+        "original_text": "Tip: Agar possible ho, toh kharidne se pehle shoe ka size apne pair ke hisab se zaroor check kar lein, kyunki running shoes mein aam taur par 1 size bada (or half size up) lena comfortable rehta hai taaki toe ko space mile.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

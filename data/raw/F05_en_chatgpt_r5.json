@@ -1,0 +1,529 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 5,
+  "promptText": "Which sarees should I buy online in India for a wedding on a budget?",
+  "cellId": "F05_en_chatgpt_r5",
+  "startedAt": "2026-08-14T12:52:55.645Z",
+  "finishedAt": "2026-08-14T12:53:51.865Z",
+  "durationMs": 56220,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "If you want a **wedding-worthy saree without spending a lot**, I’d focus on **organza, Chanderi silk-cotton, soft silk/art silk, or Banarasi-look sarees** rather than trying to get “pure silk” at ₹1,000–₹2,000. Genuine silk Banarasi at very low prices is often misleadingly labelled; one 2026 price guide puts genuine certified lightweight Banarasi more realistically around ₹5,000+. [thepanaya.com](https://thepanaya.com/blogs/the-panaya/best-banarasi-sarees-under-rs-5000?utm_source=chatgpt.com)\n\n### My picks by budget\n\n**Under ₹1,000 — best for a wedding guest**\n- **Organza with embroidery/sequins:** looks expensive in photos and works especially well for receptions.\n- **Kanjivaram-style art/soft silk:** choose a rich colour with a contrasting zari border.\n- **Chanderi-look saree:** lighter and elegant for daytime weddings.\n\n### [SADALA CULTURE Embroidered Organza Saree]()\n*₹949*\n\n### [Yashika Chanderi Floral Saree]()\n*₹699*\n\n### [Jogal Banarasi Kanjivaram Art Silk Saree]()\n*₹699*\n\n### [Flosive Shimmer Organza Embroidery Saree]()\n*₹846.09*\n\n**₹1,000–₹2,500 — my sweet spot**\n- **Chanderi silk-cotton:** classy, comfortable and less “cheap-looking” than many synthetic sarees.\n- **Raw/soft silk:** excellent if you want a traditional South Indian wedding look.\n- **Good-quality organza:** ideal for a reception or engagement.\n\nFor example, the current listings include a Chanderi silk-cotton option around ₹1,300 and Koskii raw-silk options around ₹1,500–₹1,800.  \n\n### [Chanderi Silk Cotton Saree]()\n*₹1,300*\n\n### [Koskii Navy Blue Soft Raw Silk Gold Saree]()\n*₹1,494*\n\n### [Koskii Turquoise Blue Soft Raw Silk Gold Saree]()\n*₹1,794*\n\n### [Tarangini Chanderi Saree]()\n*₹1,755*\n\n**₹2,500–₹5,000 — best if you want it to look genuinely premium**\nI'd look for **handloom Chanderi, silk-cotton, lightweight Banarasi, or better-quality tissue/organza**. At this level you can get something much more convincing than the ₹500–₹1,000 marketplace “pure silk” listings.\n\n### Colours I'd choose for a wedding\n- **Deep green + gold** — traditional and very flattering\n- **Wine/maroon + antique gold** — rich evening look\n- **Royal blue + gold** — especially good for receptions\n- **Rani pink/magenta + gold** — festive and youthful\n- **Mustard + pink/green** — beautiful for a daytime wedding\n- **Ivory/cream + gold** — elegant, but check whether the wedding has colour restrictions\n\n### One important online-shopping tip\nDon't automatically trust labels such as **“pure Kanjivaram,” “pure Banarasi silk,” or “pure silk” at ₹500–₹1,000**. Current market guidance specifically warns that extremely cheap “pure silk Banarasi” listings are often polyester/art-silk imitations. [thepanaya.com](https://thepanaya.com/blogs/the-panaya/best-banarasi-sarees-under-rs-5000?utm_source=chatgpt.com)\n\n**If you tell me your budget (e.g. ₹1,000 / ₹2,000 / ₹3,000 / ₹5,000), whether you're the bride or a guest, and your preferred colour, I can shortlist 5–10 specific sarees currently available online in India.**",
+  "citations": [
+   {
+    "url": "https://thepanaya.com/blogs/the-panaya/best-banarasi-sarees-under-rs-5000?utm_source=chatgpt.com",
+    "source_name": "The Panaya",
+    "position": 1
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "55.9565 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141252-2163-0629-0000-fc03b871f147",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "55.9103 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20sarees%20should%20I%20buy%20online%20in%20India%20for%20a%20wedding%20on%20a%20budget%3F&hints=search",
+      "datetime": "2026-08-14 12:53:51 +00:00",
+      "markdown": "If you want a **wedding-worthy saree without spending a lot**, I’d focus on **organza, Chanderi silk-cotton, soft silk/art silk, or Banarasi-look sarees** rather than trying to get “pure silk” at ₹1,000–₹2,000. Genuine silk Banarasi at very low prices is often misleadingly labelled; one 2026 price guide puts genuine certified lightweight Banarasi more realistically around ₹5,000+. [thepanaya.com](https://thepanaya.com/blogs/the-panaya/best-banarasi-sarees-under-rs-5000?utm_source=chatgpt.com)\n\n### My picks by budget\n\n**Under ₹1,000 — best for a wedding guest**\n- **Organza with embroidery/sequins:** looks expensive in photos and works especially well for receptions.\n- **Kanjivaram-style art/soft silk:** choose a rich colour with a contrasting zari border.\n- **Chanderi-look saree:** lighter and elegant for daytime weddings.\n\n### [SADALA CULTURE Embroidered Organza Saree]()\n*₹949*\n\n### [Yashika Chanderi Floral Saree]()\n*₹699*\n\n### [Jogal Banarasi Kanjivaram Art Silk Saree]()\n*₹699*\n\n### [Flosive Shimmer Organza Embroidery Saree]()\n*₹846.09*\n\n**₹1,000–₹2,500 — my sweet spot**\n- **Chanderi silk-cotton:** classy, comfortable and less “cheap-looking” than many synthetic sarees.\n- **Raw/soft silk:** excellent if you want a traditional South Indian wedding look.\n- **Good-quality organza:** ideal for a reception or engagement.\n\nFor example, the current listings include a Chanderi silk-cotton option around ₹1,300 and Koskii raw-silk options around ₹1,500–₹1,800.  \n\n### [Chanderi Silk Cotton Saree]()\n*₹1,300*\n\n### [Koskii Navy Blue Soft Raw Silk Gold Saree]()\n*₹1,494*\n\n### [Koskii Turquoise Blue Soft Raw Silk Gold Saree]()\n*₹1,794*\n\n### [Tarangini Chanderi Saree]()\n*₹1,755*\n\n**₹2,500–₹5,000 — best if you want it to look genuinely premium**\nI'd look for **handloom Chanderi, silk-cotton, lightweight Banarasi, or better-quality tissue/organza**. At this level you can get something much more convincing than the ₹500–₹1,000 marketplace “pure silk” listings.\n\n### Colours I'd choose for a wedding\n- **Deep green + gold** — traditional and very flattering\n- **Wine/maroon + antique gold** — rich evening look\n- **Royal blue + gold** — especially good for receptions\n- **Rani pink/magenta + gold** — festive and youthful\n- **Mustard + pink/green** — beautiful for a daytime wedding\n- **Ivory/cream + gold** — elegant, but check whether the wedding has colour restrictions\n\n### One important online-shopping tip\nDon't automatically trust labels such as **“pure Kanjivaram,” “pure Banarasi silk,” or “pure silk” at ₹500–₹1,000**. Current market guidance specifically warns that extremely cheap “pure silk Banarasi” listings are often polyester/art-silk imitations. [thepanaya.com](https://thepanaya.com/blogs/the-panaya/best-banarasi-sarees-under-rs-5000?utm_source=chatgpt.com)\n\n**If you tell me your budget (e.g. ₹1,000 / ₹2,000 / ₹3,000 / ₹5,000), whether you're the bride or a guest, and your preferred colour, I can shortlist 5–10 specific sarees currently available online in India.**",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://thepanaya.com/blogs/the-panaya/best-banarasi-sarees-under-rs-10000?utm_source=chatgpt.com",
+        "domain": "thepanaya.com",
+        "title": "Best Banarasi Sarees Under Rs. 10000 — Worth Every Rupee | The Panaya",
+        "description": "Image: Best Banarasi Sarees Under Rs. 10000 — Worth Every Rupee  29 June 2026  Virendra Agrawal  BEST BANARASI SAREES UNDER RS. 10000 — WORTH EVERY RUPEE  Rs. 10,000 is a real budget. And in the Bana...",
+        "breadcrumb": "thepanaya.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://thepanaya.com/blogs/the-panaya/banarasi-saree-price-guide-all-budgets?utm_source=chatgpt.com",
+        "domain": "thepanaya.com",
+        "title": "Banarasi Saree Price Guide for All Budgets | The Panaya",
+        "description": "25 June 2026  Virendra Agrawal  BANARASI SAREE PRICE GUIDE — ALL BUDGETS  One of the most common questions people ask before buying a Banarasi saree is simple: how much should it cost?  The honest an...",
+        "breadcrumb": "thepanaya.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://currentindia.com/lifestyle/fashion/fasion-india/complete-guide-to-indian-bridal-sarees-types-fabrics-regional-styles-buying-tips-2026/?utm_source=chatgpt.com",
+        "domain": "currentindia.com",
+        "title": "Complete Guide To Indian Bridal Sarees: Types, Fabrics, Regional Styles & Buying Tips (2026) | CurrentIndia.com",
+        "description": "What You’ll Learn in This Guide?  * Popular Indian bridal saree types * Different saree fabrics * Regional saree traditions * Bridal saree buying guide * Fabric comparison * Styling tips * Saree care...",
+        "breadcrumb": "currentindia.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://barkhaboutique.com/guides/best-organza-saree-brands?utm_source=chatgpt.com",
+        "domain": "barkhaboutique.com",
+        "title": "Best Organza Saree Brands in India: From Affordable to Designer | Barkha Boutique",
+        "description": "BEST ORGANZA SAREE BRANDS IN INDIA: FROM AFFORDABLE TO DESIGNER  Published 11 April 2026 · 6 min read  Satrani is the best affordable organza saree brand in India, offering printed and embellished or...",
+        "breadcrumb": "barkhaboutique.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://barkhaboutique.com/guides/best-saree-brands-india?utm_source=chatgpt.com",
+        "domain": "barkhaboutique.com",
+        "title": "Best Saree Brands in India: From Daily Wear to Bridal, All Price Points | Barkha Boutique",
+        "description": "BEST SAREE BRANDS IN INDIA: FROM DAILY WEAR TO BRIDAL, ALL PRICE POINTS  Published 9 April 2026 · 3 min read  QUICK ANSWER  India's saree market spans Rs 300 cotton weaves to Rs 5,00,000 Benarasi sil...",
+        "breadcrumb": "barkhaboutique.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://blog.indianweddingsaree.com/complete-guide-to-indian-bridal-sarees-types-fabrics-regional-styles-buying-tips-2026?utm_source=chatgpt.com",
+        "domain": "blog.indianweddingsaree.com",
+        "title": "Complete Guide To Indian Bridal Sarees: Types, Fabrics & Buying Tips",
+        "description": "* Saree care guide * Budget recommendations  Table of Contents  Toggle  * Quick Comparison of Popular Bridal Sarees * Types of Indian Bridal Sarees * Explore our detailed guides: * Bridal Saree Fabric...",
+        "breadcrumb": "indianweddingsaree.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.varnavi.com/collections/sarees-under-7000?utm_source=chatgpt.com",
+        "domain": "www.varnavi.com",
+        "title": "Buy Sarees under 7000",
+        "description": "SAREE UNDER 7000 FOR WEDDING-READY ELEGANCE  You've probably noticed this already - once your budget reaches ₹7000, the options suddenly look richer, more detailed, more bridal-inspired. A thoughtfull...",
+        "breadcrumb": "varnavi.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.varnavi.com/collections/saree-under-6000?utm_source=chatgpt.com",
+        "domain": "www.varnavi.com",
+        "title": "Buy Saree Under 6000 Online",
+        "description": "SAREE UNDER 6000 THAT FEELS TRULY GRAND  You don't need to cross five digits to look unforgettable. A beautifully chosen saree under 6000 can hold its own at weddings, receptions, festive poojas, and...",
+        "breadcrumb": "varnavi.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://mysilklove.com/blogs/all-for-silk-love/kanjivaram-vs-banarasi-which-silk-saree-should-you-actually-buy?utm_source=chatgpt.com",
+        "domain": "mysilklove.com",
+        "title": "Kanjivaram vs Banarasi: Which Silk Saree Should You Actually Buy? - MySilkLove",
+        "description": "Article: Kanjivaram vs Banarasi: Which Silk Saree Should You Actually Buy?  PrevNext  Image: Kanjivaram vs Banarasi: Which Silk Saree Should You Actually Buy?  Jun 5, 2026kanjivaram vs banarasi  KANJ...",
+        "breadcrumb": "mysilklove.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.houseofvardha.in/blogs/weaves-of-india/complete-saree-buying-guide-2026-fabric-occasion-budget-house-of-vardha?utm_source=chatgpt.com",
+        "domain": "www.houseofvardha.in",
+        "title": "Complete Saree Buying Guide 2026 - Fabric, Occasion & Budget | House of Vardha",
+        "description": "KANJIVARAM SILK - THE HEIRLOOM STANDARD  Kanjivaram (also spelled Kanchipuram) silk is the benchmark of traditional Indian silk sarees. Known for its vibrant colour, wide contrast zari borders, and ex...",
+        "breadcrumb": "houseofvardha.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://greenways.co/blogs/banarasi-sarees/sarees-for-wedding-the-complete-fabric-style-guide-2026?utm_source=chatgpt.com",
+        "domain": "greenways.co",
+        "title": "Sarees for Wedding: The Complete Fabric & Style Guide (2026)– Greenways.co",
+        "description": "SAREES FOR WEDDING: THE COMPLETE FABRIC & STYLE GUIDE (2026)  April 9, 2026  A bride at a Delhi wedding this March packed four sarees for four functions and wore the wrong one on day one — a stiff Ka...",
+        "breadcrumb": "greenways.co"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Best Banarasi Sarees Under Rs 5000 | The Panaya Varanasi",
+        "snippet": null,
+        "domain": "thepanaya.com",
+        "url": "https://thepanaya.com/blogs/the-panaya/best-banarasi-sarees-under-rs-5000?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "The Panaya",
+        "publication_date": "2026-06-27 00:00:00 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best affordable wedding sarees India Banarasi organza Chanderi Kanjivaram budget"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 5,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "If you want a **wedding-worthy saree without spending a lot**, I’d focus on **organza, Chanderi silk-cotton, soft silk/art silk, or Banarasi-look sarees** rather than trying to get “pure silk” at ₹1,000–₹2,000. Genuine silk Banarasi at very low prices is often misleadingly labelled; one 2026 price guide puts genuine certified lightweight Banarasi more realistically around ₹5,000+. [thepanaya.com](https://thepanaya.com/blogs/the-panaya/best-banarasi-sarees-under-rs-5000?utm_source=chatgpt.com)\n\n### My picks by budget\n\n**Under ₹1,000 — best for a wedding guest**\n- **Organza with embroidery/sequins:** looks expensive in photos and works especially well for receptions.\n- **Kanjivaram-style art/soft silk:** choose a rich colour with a contrasting zari border.\n- **Chanderi-look saree:** lighter and elegant for daytime weddings.\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Banarasi Sarees Under Rs 5000 | The Panaya Varanasi",
+          "snippet": null,
+          "domain": "thepanaya.com",
+          "url": "https://thepanaya.com/blogs/the-panaya/best-banarasi-sarees-under-rs-5000?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "The Panaya",
+          "publication_date": "2026-06-27 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "8306206143283629965",
+          "merchants": "Amazon.in",
+          "id_to_token_map": "IozvF3icJZPJjqNWFIaTPEGWWda-VBLcy2VIqxaMBlwMZjRsrGsuBorBGBuDeYG8Rqd6kDrLziJS3qR7kWeJo_yLcxbn1yf90n_--eHnt7z6iy6EHR6XUmad6XQ5u-g4Vuxm-tIPRzJml4p8BRQHaY7nKcAJAktzDPMlwxfcHIuK_MlDigUUSzMQ8JAFdwP6WuaYNFWXO4dDPijH7G5DNOAggoinWMQi_i70R9XiIv__TAs8RJQAOY4WIMPTkEcfBnJ-_-k05sPt28NxKHC34MczHvL8ccoJqbricexIPjwCRFGfiv6Oef-h_W_018vv-OM4Nvnf06MsGhtDNiwfRLcknssXtRnTVVO-Fc1b1b2VzVvefT7i_nrIvv_4m3oyZHk0pE3Y95HiUT7QsNUI-n4ltLauQZsyljAkUxqigYByjuMGp5pmBot58wN7YwcesGtby5XoFtdl5DUmFS2eHXdRGgKhiQMJYTotN9tSIa_ihDXzFKiXIFhsJdn2rU03naf17V7zjvetWgC9OKu0dHRiBlTaWktaEk1DIUjRXu0v-y1xM1DWSXhhA5AeCPToAEYz1jzJDqTJjwp0Tz547XzOQMRkNDFsxZTzMIEbIKReo3VOlHqE1qwsMjV7Nc8WMK_7VTPY98RBaMAwJjTRsinXJRZvTS9o7KtFJcsWmBLuGiadja0VZ2gLNDpvS8WuBZhtvSVUoiuJaxBuM2zUmppBA6WN2dlglskiVVaLlHBRUQiJ-xJ6XaSkbloLGIfqx_k8HL5RooYuvsO04ySfHR5FDMxl9xWqRhsaqrZoZPPrvZcsRwMKAIT4z9nxWFf5959-2e38PBuH_MkPPPdZtNt0wjQ1jKwTZhajnwBHILOfbgJ9DdHFSJ6mwNnzoRiTxNm5YRifaGFZLD6sUK-vBxfXU560kIvLYp_quiyKG14T13F-_xf5uC_ePfiq6Mn6zhct1TcC9VkuNsbMqtK7B1GVn0ViRioeMxI4bWal68hdMRxkul6eRuEk6Nq6SUhFBJ92e1c6-ZvZ7mdEFCC-e1Ci55p9mQ0usI9VcsfiGPu6715ExaspTdQGxbWg52uYuvdWvOvdg20ozwgyz2vxdFhst6xCR6qkNh3oWx2spKe-9GPnZbilamBvk7W3824za-EnJTSCWkku13M7VEUv7xpzWGvrQ3nM1JYpD7AEnJ7P1PSKmWxn1OJUrlCK-p6aL93hxFPnp6rQ4bajNJRFFA73plzniaVEczyskpPUm2d5uzntAbtGiXQpEc-u2rG-FbfqNZIOl5Dbvub-inOvmV3GV3vuiwMtgG3BbQ6QEldDRm5nWGB18jhLe60721uuhd60XOvqjegdXb5IBt4RFMCIIJfK_Z6p9gI8UM5yx_0LGNOpeA",
+          "title": "SADALA CULTURE Embroidered Organza Saree",
+          "rating": null,
+          "price": 949,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/1gt_l3icDclRCoIwAADQE5mYOEqIWJqWVEpp5X7ETVMR3eamy0t1n25T7_d9P7WUTNi6XvZkmJksC03i3lhUQuayIQtCO13UlLGmr7Z88z8bXoq1T24vGjyzvbm6-kOO4mtF1xh77YsiAXlljRk3jwnyJseA5BG4R7UjzW10kAZUGCElXUtr-QTzMDE0w7-Y2cAOJzAPPk4VBiqpoxOy0ujewH4JupE7IvbO7x8hRD3a"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "1g9_auzhC6OwqtsP5oui6Qw",
+            "product_id": "207317880279961744",
+            "catalog_id": "8306206143283629965",
+            "gpcid": null,
+            "headline_offer_docid": "5127353580656588885",
+            "image_docid": "1983509377193481385",
+            "rds": null,
+            "query": "organza+saree+wedding+under+2500",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIMS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "16456866836993342380",
+          "merchants": "Amazon.in",
+          "id_to_token_map": "a3BB8XicdVPLrqNGFEzyBVllffdXlngZQ67uAhsw2NA2b8PGapo2D7cB87a_ZubOQ5osR5EiZZH_yCzyLfFkn1qcxSnV0ZGq6p8ffn7D-R_0KB5hjfUldzAGE-2bcLDOkvmlbqqkR12e_E7z3JwXeF5geVFkWY5hBeoLgh0kVZon775mGCYkL_HudMKNXKH_kfyWX2CK_-O_MjzHMDQl8AtRmPOMSFMfmqR99-na4-b2F8pgmeAmf25zcn5uYYPxc_9988zMKepTWj9OvPtw-T7qoXsPP_Y9wX-OzytJt_SVbjqMfwuDKTMU0kdrkr2l5C0v3zLyhsvPFayHE_r2Y6FU42rVjkvLq2tftinnRkP3PHKGC_zwDuaI6gqLXY5YVlUciLInp_MDJdKhD5bQA2VE1WNcSowvJ5Qr-yMI6LXJ1EXE2ndPtk0cEDU-z4fQPbN-kG3NA1nGzHxu-UD2mXrn-aoSrScIz5syov0-oSY_LohmlokbH_xtsFaNsNyMiFV9rKpGHAAfatEaXUTP9DrT9zjaUzIAma59_EqZFG1GBYCeFhko6Errku2dQ7RM2M0ADj4LtKzyDlEVXBDnBWIdKRwXEZ_zCju3S0JcipiWl6yUDE3JnZzCw5I4nk4FysS4AbAQIYwXdEvXrnLLs--oIBfP24CkUA2siENwtq--n2wdeknv1p2LqGznBiT3rI9T25z-piR13jm7RTljU6KbC_poJ7tzY0FBu0qgYBRx_JVePCJBMxTDsiL9GVXVOcfffvrFUSR7pR0dyVQc3VVeV6mlT7yyfHmSlNWrlGx8BXZb25fbgs-ZKa5xK9kqCBNdTGY5r8YmLFLtWuVIg_cpEoPDfK8xKKtenmT_taKr8jLr85ZF1SifD_p5j1c4btfnVpVAw1M1vRF245iNivTAy9Px6GDUN3jmuPb-VQKXaHyY4O6p9azM56Ei1SzghtXNT4sjj7o9DdUuqYzVRQeg6l1iAAI4YuL0HgvOtJnWkqwaRBNRsZCnLbKPCgtWtdAbcCj0Y7q41y9PQJdf5yz7qtwTWCnaRtpe910ttLUo3DNJabtL3iZT6NpjdZ2leIFm3H6tGQHnxBmdJ33Oa3aNBymwxfEMnSjds6M3MLFhSny7RDeNtgdOjcMNL-nGDpkJbafUAajkAkxuKryTeyjC0IU3KbUnJrPKpb3fgI3wMLE2eEuf3_oyiDfWUervkrO8wn43Gbc6uxtdzPB8r2Etsk-HXaEvnEZPj0K-aFaiNrj2dAspLBSP3vjlcZFzZHujj4g7hZVK9fcbq50W_GjG7p6hwpMn-gRVcOgeIfkXBwaeLQ",
+          "title": "Yashika Chanderi Floral Saree",
+          "rating": null,
+          "price": 699,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/Heh36HicDcltEkJAAADQEyFCmGmalVIrNSbK9I_1sQa7q101HKr7dJt6f9_3g4Vg3FGUkqDnxERZSCInmlxzkYkGyYj2CseUsYbUm2H9PwecC9tH8fsuwUWMcYQBoPAG2INp0zS3fng42Wpi1ZNZbgOStiKHLDb8oDKwB8cZwL210jPUu8fW4-m1G0PbjKIX9Ybg7KZBoaqmvpMSTnrsMw6Quuxm26MXfWiqH_2rPS0"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "1w9_apeIB4XLvMcPrYvQkAM",
+            "product_id": "16456866836993342380",
+            "catalog_id": null,
+            "gpcid": null,
+            "headline_offer_docid": "16456866836993342380",
+            "image_docid": "264221086798562910",
+            "rds": null,
+            "query": "chanderi+silk+saree+under+2500",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIMS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "18267029978560907762",
+          "merchants": "Amazon.in",
+          "id_to_token_map": "zHW0oXicHVTJjptYFO3uL-ht72pfsvQe-DF0qRZgwAwGF8N7YDYWBgwYDJjB09d0VyWRkmUSqaX-k2TR39IkV7qrOx2de-7975ffX9PiH5jx26hjBsUsMmQ1L-NpJpd2-bHtmmSMhyL5CgFiEQO5yQEHAYSIYz_G0RBVTfYjzFEMCyieZ6cMwAOWZajPeRolVVGn6_0-7aQmLpIv9JynWI7m4XzKohl-KvtUHKMs_Rn-CimaZyDiIcdzND3nwDTzrUv6v96fxrS7fXsoo_pQnKMuOj72RVU-9lGXpo9jnaTdIw0AeJ-1P_tMjSYI3A-YHMvSEDL827FIPiOWmTMUx6M5mkPAQop5a8_D39G7cazSfy-PC0GztYVmuhS5bfxrvpKrMVxW-WtWvRb1a169pvWHJmrP-_j7r29yFy8W51i0cdsSyQFu3VzSIAxMPJ_bAN-sOtFDWre9mlwIqDy7silPRkwImjuhyNzzLNmhqxumWilRnEu43FAb4oAED5ZX8SQMHOQEmyE6ovWGGkYCWsOpsyGEvOQqSmnW2S2mc0IOerDzHISXxCBLR1yRCoVKOM0ciFlmyFPEfO3P7wGdeK5P5EhGvXNPTr7kuGE5RLsSLdZK4u_uInZhG8V0YpjYMlNF3Dtyq8eVUjhQOeAgVMmRd1d-qIcgR4liHUycRIQa5NhzCgfkciQJg--Hg3fII1-uzJ1_odw7MTxPCUyqknbHygv9RLXxsLBgDIjfal5JTpaa25aoBaYfo4BSJu6cpedXtYXRGavkusKkw34faaUix7SGwkoJPVpnbDzxKFckhvLNXOqjWYueTULLUkM1xfK7a9_tvwFBQYO7nnc5ikKUucOxyjOvw2oZpLEUVTvd_hOyHDMJAlAUM6c-xE1TFun33_7Ybt00Hrt05nrOy7NgHcNLRFeqBXGuHc3a5wE2N2TcGAouOogj-HK5JN794F4PhFnQUtLKIbPCktCmN_HkLiGTswMwZ8Y2lUUTG6nmm0ofAbutMlbXJSA_Pbiy4CzUrSuYsqt58vMis7UrI4tPD4K8eBYSfVrhoB-N2UrsUyhuRU5t7EXPnpkNtUua_sQ4vB3VtoJijVuGjXCtT4N7vjw9SOQZoxkt3o1VDoWmV21wW--2ewogHQNFUE7mpvXaxOpkw9kIkz09WJr0jGj6WRdOfmGcSBX40apMxmZSmarNfSP3ZpaeWtJezl2wCDrL3udFXN89K71uJaQZ2-3tKPU8CsBVua7p5oVTxtmmsWF-1XR_w6QvfK-bbqC8qIde3aHETeiesDndnlU8Kt21AONa864zx_DcnLpfoRtETFGeLuM92griTtzQ0x1QyiJm1lvFdbOcOjX7Q1_lgYy33f1uBnmFhtUtaA_ntVfsxd2FHneux7kLe1xea6tyeN_MsL83Zg21K6cfV9DK0th0oQtViqYhb2d97awlzPG62GIN_A9FILvp",
+          "title": "Jogal Banarasi Kanjivaram Art Silk Saree",
+          "rating": null,
+          "price": 699,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/zzSNFXicDcndCoIwGADQJ1LzI4IJERJYzRAm_d-Im-JWuB_3idh1L9nb1Lk9349EtD6JolaLYbbYNgFyvQg7jzUqEQrTR14aa5XuNm79vyQtGrITjBfMd8N5vO_7OLieLpDJVHmbujfTL0OlWxLI6xvkfOYgHdCq9CNMJSUH3BKj4EGyZ1wdV2z6ARb8L38"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "1g9_ar6tFMig5NoPuq-EkQk",
+            "product_id": "10575618561081011587",
+            "catalog_id": "18267029978560907762",
+            "gpcid": "11237768115887731169",
+            "headline_offer_docid": "3492783914609369826",
+            "image_docid": "12396159189833480756",
+            "rds": null,
+            "query": "kanjivaram+silk+saree+under+3000",
+            "mid": "576462895454107126",
+            "pvt": "a",
+            "uule": "w+CAIQICIMS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "7652802879965611535",
+          "merchants": "Amazon.in",
+          "id_to_token_map": "sQacAnicLZPLjqNWFEWTfEGGGda8VBLcy-WRVg144wdg3o-Jdc3FgAGDMTa2vyap6m6pM-xEipQ_6QzyLSFSznAfaWmfo73_-e7Ht7z6ky6ELb48Spm1p9N43qDuUrHO9KUfOnLJxor8QfM04CALAWIAzXAURwnclwyPuOmKivzOsQjwFOA5QWARS9MIoq9ljklTHXN7v88Hpcv-oyCWg5TA8IDmeJrhoYDY36oWF_n_e8jxDA0FCBjIAh5AxIH3gZx_-XS65MP921M3FPj4wM9nPOT585QTUh2L58uR5MMzQBT1qehnzleAZqM0K1CI5RErMBTz3s4y4lhmxrJIEBhuljnhvb-Ov-KPl0uT_zU9y-LCWcgL0wPhPYlu5VptLqnelG9F81Yd38rmLT9-7nB_3Wd_f_-uDpksXzPJCfo-VFzKe5CTp0iD_yB3WxduTjCBoEadRVkarss9OZho7ZeIAILcRtCIHh7CR7MKtXTv0Q6Va6ESKOTgxmRID8HdU0LfjC0jOTZTCJeG2QraTr8NLsWjlKKpvNUibBDFqlPs0lqzawPoRCh1GnUKg4nOAgR2qnu2gsU9MMqHqzeOd9RgciDdDlpuWFsDhr3k66Ufw2LEYaolRw1gUKa5OiqmPvpEacpQPd_zmrbymEA7IicrdlMvcpm1HyKn1pRAFR5h01e2THdZa5l-gJbr0HLskKxdvwRWK2zI7NdSwyBphDj3pTPWrc7zXYCVst_Fkmyq1jK9LWIzylAMNDpvy_kuAWax-wiU8EqiGgRxhhe1pmZwgdLGTdex1cz_k9x4iew4TMMHkV2opQklmJGW2gGtfrydh_03StTQ6Nlsag3UyTFSdVuNvAq2V-uiHJi0v7fOz3MeWY4GFABzfD9nXVdX-d8__LTdenl2GfKX2ezmVbTadMI0NVxYO8hMxjgBjkBmN90F-hqgcZG8TL694wMxIom93QRBdKKFx8Pkgwr1xmrY4HrKkxZyUVnsUsOQRdHhNXEV5XPn5G5XfHjyVNGVja0nmqq38NVXuXAWN1aVPjyJqvwqkmWo4ktGfLvNzHQVbnSGg8yxl6eLcBIMbdUkpCKCR2_6jXTynJvV3xBRgPjhSQlfa3Z9W3C-1VXJjMUR9gxvM4qKW1OaqA3KxoSup2FqzrQ4z4cna6G8Isi8rsTT_mFtyiqwpUpq04G-174uvfSlF9nr4Z6qvhUnK3fr3m-siV-UYOHXSjJez-1QFb28bZbDSlvtyy5TW6bcwxJwRn6jpgNmsu2iFqdSRynqe-o2Hvcnnjq_VIUB4yOloSykcLBbynWemEp4iwY9OUn98izHzmkH2BVKpLFEPKu3l_pe3KtDKO3HgIsPuadzm2tmldHVuvXFnhZAXHDOHlKiPmTkfoYFVieXM7VDfbTcx7UwmpZrN0Yjut2GL5KBtwUFMCLIpXK3Y6qdAPeU_Zhx_wJu6bwo",
+          "title": "Flosive Shimmer Organza Embroidery Saree",
+          "rating": null,
+          "price": 846.09,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/STW_HXicDcndEkJAGADQJ0ISYqZpItMQ-tNQN4bFqjY-dlXbU_U6vU2d2_P91IwBNSWpbFDPgZWFwPJmJGLKMnZBImrvEq1bgEuD593sf-YiLIwVik4Ljcm4ojuLT_Jr0sedp1dEdm-ZmvPXXRGeqkdtIP6YJC4ZnBjUCIJY51tjc0Y2sZ39ER9sNRAeedVPNVCo9-ZsCKwSGWsu-O46ei99op2mcThKU2h2Q9_hH61LPvQ"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "1g9_auzhC6OwqtsP5oui6Qw",
+            "product_id": "18127363254214707097",
+            "catalog_id": "7652802879965611535",
+            "gpcid": "253251690568569404",
+            "headline_offer_docid": "15673094821781483956",
+            "image_docid": "13784139324362823572",
+            "rds": null,
+            "query": "organza+saree+wedding+under+2500",
+            "mid": "576462865994769479",
+            "pvt": "a",
+            "uule": "w+CAIQICIMS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n**₹1,000–₹2,500 — my sweet spot**\n- **Chanderi silk-cotton:** classy, comfortable and less “cheap-looking” than many synthetic sarees.\n- **Raw/soft silk:** excellent if you want a traditional South Indian wedding look.\n- **Good-quality organza:** ideal for a reception or engagement.\n\nFor example, the current listings include a Chanderi silk-cotton option around ₹1,300 and Koskii raw-silk options around ₹1,500–₹1,800.  \n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "11863995592739791735",
+          "merchants": "Temple the Designer Studio",
+          "id_to_token_map": "LFgFNXicJZLLjqNGGIWTPEFWWfe-1RIU97R6gW3K4DZlU9wMGwtTmFsZMBeD_QLzGpOeizRZJpEiZZH3yCzyLPEo__Kco6Nf-s6_3_34luR_sqOyj5rEmPG79cWMt21wsUrV_NK0NRniPie_8wLHA44XFYaVOIUFCgBf4qiPaJ3m5A-WlUVOUQRBAXdXUu4Z4bcsiQjNq2RzPCbtoo7vLQoj8aIsSTIHFJ5lWFkCv-anKE3-t2UeyN9kUREYWeQ5RuA-tKR7_-k8JO317ziLKpK0-WOX0_Kxi9okeRy-KY9AYJhPafOtQxQZjhUYIPCCACTAySz_4ZST9x-aS_9L9HEYaPLX-DhXDcuYG6YNvGvgT9lao0O4pNlbSt_y6i2jb0n1uY6ayzH--v077WzM54Mxs9ym8RaYcbS-syEqEEdb87ai1g6OqEQD1lBtL2YdgmR0IIGu7kW720qzTxp3gCiwKpxvvAa4lF48T6FEU3TL9-rNEp6SUzNzNVxYpcYTBmO7zDbJcqI-DG-m10BXWzXh0ppQKQwRY3KYRT5mZUD0GbSX5egCxCI3c8Mys12mrx0dIcQ2NCxUnnDETRyIDi7qfPdO1MeF7VuTX5qMcxIKmyVRXIXzRJ8FJgwD351YBD3NhgbjQzILKZwhB8KYXTmhi8wdQCKuSEcqLLqMNx5OqxD7CmO6fRhXhAl98mphY2fuYmEH4Bi6dI5gZpKSLVx9FRIKW8tlIqOEWswZQkjx6BcEbLwYOCWlJvV2ARte3PufIbWuno5q7Mcfp649_sOoUOjtjVQ9cSk1TIndY7IpWyuS9bOKCqAp48-sJIsSCxjA3bf6Oa7rMk--_vCTral4ru9t1dRsw9Fe5qllTKI2e35QtfmLSlaeFvWv2Ft0hZiD6dAknYrv3IihkKdchAczKlL9XOexHt2mUPF3wlYHcVY_Pyy8l5qtq9PTkHdcXI-LcmeU22SeHLpl2UEVtSLTsCt5M47ZqKn3e37Y7-0kHtrkyXbw9kVFp3CMQO9smeVTlQuBpjYc4i_zq5cWezHut2wEe1Kv5ycDoXpw6BpRxFMzSW8H2Z5W01JdwDXVlbiQFtNrjPcah-aNPKyjS2HsU-nWPD8gY_EicNyLdiNRrekr9fW87Ru5axT5lqla15_yjkyBg8f6_JQmUvzEb5f62uftQ8bmZMhFHTfJRfWxMpaRHaZbbnQv4LA2VbGbxVedxRceHoKVqBrrTWwSFqfMDkF6QiY_Fe7R2RVB4ERXNcUTyKxqhrcrtJLvEJu1aBnCdaj8w8raq8NNtWfnaNhM62uT3db9AYjioCd6iI-7TWFIdmukezmX2rmiXxw8XQMmkYsi5LxqL-U8fb2y-5g_BjVkhtuV04-SOJoHZwuY4OgqHo3r6NLfR_IfH3uvpw",
+          "title": "Chanderi Silk Cotton Saree",
+          "rating": null,
+          "price": 1300,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/K-85GXicDclRCoIwAADQE6lMjJgQYYJOMxHNgv3pnDqjbba1tNt0rG5T7_d9P6PWUvmOQzl5rFLTztItB_agdKMZsYm4O2oUUjI-7Ofd__wg72BMyqKjU5Km9FAyOWXVUWJr6s9QLyGkoQjNcKpLJrYLDBHfPD3dmr5xC5O77iKjCl6zuWlHZDACmxiDqL4J0DLeBKL3LJ4ipJL3ZcXF6wcnfjnh"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "1w9_apeIB4XLvMcPrYvQkAM",
+            "product_id": "4534234690173912922",
+            "catalog_id": "11863995592739791735",
+            "gpcid": "6603150254552723814",
+            "headline_offer_docid": "9074687783294101872",
+            "image_docid": "8428410169508643053",
+            "rds": null,
+            "query": "chanderi+silk+saree+under+2500",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIMS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10415573012457680243",
+          "merchants": "Koskii",
+          "id_to_token_map": "M4X-MXicLZRLjqNWGIWTrCA7SM1LSPfyJqUaYBswmId5XQMT6_IwxlwwxtjGbCDb6FQ_pM4wiRQpO-keZC1xWvkHZ_JJn86Z_P989-NbUf0Fb9IW944mJy2h--P6FuPi4oafu_6YX7Khyv-EtMiLUGQFjhV4jgMCBPBzhgdMjuV_GLCQ4wQGQJrlBF4ENMv8vi9wTqq2cHa7ol8cs28aXqAhJwoi4AWJYXmeh79VDS6Lb_wPTmRpIDASoAVW4kVG4pn3fX5-9_F0Kfr7Fym95GUxPN-KPK_a8vmM-6J4rtq8ws8pbnGPz9XzuSL1_-TS5kX_zAAAPpbdw__uffNfdNfhV_zhciHF37fnuay7-ly3fBrd4824NxVySTSyfyvJW9W-7clb0X464u66y75-_4ty0ufziz5zw65DCw_4E6mzBbr7RDrHNdqFS6OykXT1a_aW0glKoj0fN9zaXxq9RZMkh2ixIWSTakPrtzbwGDLk0L5lU0bHcEYHh2Tjq54a0cnVQbmHW_WQgXETQa916VEJwo6xauOcaBKDkJEgzbAtjbh4chkUknV-SIYQ7Ue73sOA5FWgGtjd5FZcwxA1qElpMm6W9tWeysFZJipuRha1xtxCxgw3YErV_aMhwmHkBRYzu3sHQ_UJugbtbIcBDDCThL5aM3mU8HiJKn-DLG8xU51wbDyQPRaTQ0qMdbow4iBMzOQQ3kJPj6wo4yJavQcgn20a7my1xjVc5km8QY9iIdZrVckYnUuINyaT-vAND5WHi6jrQ82FAUxcpGSj34xmDpQP47nffQGyyg2-w_Yt-0DQ8EF047hWDzQlmZ0kaczkn6Eg8gKkAc1wgP6UHY91VXz94Sdfkb35cuvLluLrgfI6L1195JXZy5OszF_l3EAKvhYXK19g09TWZKiaGR49QSI-dYfmOqvRPTStXGwKe2lTdtOzejwNQ_bytECvIRVlRge3qHBPQLurALNqx_EOW99U2eiiSZdWV8gSW_52L0_brV9kl76g_MBbv8p2k9wwZAtQyqw_lXLPj0XbiybbB8b-zBrRgrGvOgXtNedWVWcOK_VKGDCBnI-5FJ_ohWAu-LVBHXSLS1e2NgY7fzwu2RRjtBKBRVEvT7a-eOUY5nVG-U7CW2Sph7NxCllGd43Yq0fENGEZmAtjbwvmWsh2ClwqB-oiqPp5gfO7rhnbCZpbKFjpeCj6rFKuHr1lYylMrhMrZlkJ1Wwhzre3sOfZuI6d-0kbtbnnOBPv8OHQdZcab27OPO3OWIWytffGte-f12QyT4f57vGM7OZu0aMn7bXtKjmQnZP3B2gL3tV16rJs42DFRPwOSUChlvNtyWBXXnu6VtuCtNmzc6c8dOxKS21zp0ScC7Isym4ozcvWFlf7emaA3cVXKIEyqQ11to8p6NNsPA7_Aoa0tXo",
+          "title": "Koskii Navy Blue Soft Raw Silk Gold Saree",
+          "rating": null,
+          "price": 1494,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/ut1rYXicDcnbEkJAAADQL0KRXGaaJlNpZAiFvJi1u5aU67r1Uf1Pf1Pn9Xw_GaV1p3IcLmE71xQjhialwJKOAppDFlYvrsuqus5Lsm02_1N3FlJ06C6RCaLU8_wknRPGLKbnwZJ1Ccu6d7KZEBcimUek24HGl-sQKOiCJ4PE15vb9_b7cc-ddGEE8UhAH-byxDM2FBWe9I4xDiOIpEI7Rz4W9qvh2rRpNhyNIMx-Lx0-ig"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "1w9_arOGAZnl2roPwYaeuQU",
+            "product_id": "12868184754765507101",
+            "catalog_id": "10415573012457680243",
+            "gpcid": null,
+            "headline_offer_docid": "12672158780679346661",
+            "image_docid": "5842073902749683963",
+            "rds": null,
+            "query": "budget+wedding+saree+india+banarasi+silk+saree+under+3000",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIMS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "16517745033203602788",
+          "merchants": "Koskii",
+          "id_to_token_map": "Au8Nk3icLVRJrqNWAExygtwgf28hvcdMvv7CNoPBDGY0sLEePCbzjDE2NvYFco3O70HqLJNIkXKT7kXOkt9RalGbKlUtSqp_vvvxtWj-gjdphwZHm6cdoYfj5pagYnTDz_1wxGN-afAfrACBxElQ5BhIs4IkAe5zji6IHKsG_wl5DgoCywGGoQHDA1oQxd_rAmHSdIVTlsUgH_NvPsCykBVFkRZ4DtASyzL8b80BVcX_Osvxb1kM5Hkg8bQIgCS9H_D53cfTWAz3L1I24qq4zG4Fxk1Xzc5oKIpZ0-EGzTLUoQGdm9m5Ie3_ytjhYpgxAICPVf9W8O794Rv118uv6MM4kuLv22w51119qVs-Hd2T7VSbChlTjdSvFXltuteavBbdpyPqr2X-9ftflJO-XI76wg37PpI94EPPjJlUQ4FCJ13kprJ68BmLc6KIt5dQx8S9Bfu03irk7rcWDNrp4hEPZts-iII6wXtiII0kQSg1OMpZL7yM6GGBPHAvqRzZFpSsXF30-d7QQlWEKRHvVmf3xR47jkJ6N-5vMe2xmI68NF7IaBsxVoubXFZv_oPEOZ3CVE7PMWNArPRxRhulGS8GvKpXtmoYqIWOvSdW2tltAnDst6TzlJSxfFhbmmE7akoSMJFMjRrr4PVv3VYe4YMbH-kkJncU40ex9WikcIotE30bGqy_ispAdrm0jRLURlzo6bEV51xMq_cA4MX2wJ2tzriGK5wm2wiGUYj0VlVyRudSYjwKVb2hkJRbop4y0pOQpAgdei7Q2ultId1WlA_TeSi_gLnKXXyHC8pryVttNVjxyh1K_izrmlurqT5VP0NB5AVIA5rhAPspPx7bpvj6w0--MveWq50_txRfD5SXZeXqE68snp_myvJljo1IQdditLCMTFPbkEtzWKDJEyTiU3dobvI2uoemhcVDYa9syj4MrJ48Lpf8-UmOXkIqzo0e7qLCPQHtrgLEqj3HO2x7U-dGHz90aX2FLLHn_-H5abfzi3wcCsoPvM3L3D6kNwTZAlRz1n9U84Gfim4QTXYIjPrMGrHM2FedgvaGc5umNy9r9UoY8ACYT7gMnWhZMGV-Y1B73eKyta1NQelPxxWbIRStRWBR1POTrcsvHMO8LCjfSXmLrPRwMT1CltFdI_HaKWIOYRWYslHbgrkR8lKBK2VPjYKqn2WE77pm7B7Q3EHByqZ9MeSNcvXoHZtIYXp9sGKeV1DNZXG5u4UDzyZt4txP2qQtPcd58A4fXvp-bNH25iyz_oxUOLdqb9r4_nlDHuZpvyzfzsg-3C168qRa263TPSkdPOyhLXhX12mrqkuCNRPzZSQBhVotdxWD3PnG07XWFqRtzS6dat-zay2zzVKJORfkeZzfogxXnS2u63ZhgHL0FUqgTGpLne1jBoYsn46XfwEt4bXs",
+          "title": "Koskii Turquoise Blue Soft Raw Silk Gold Saree",
+          "rating": null,
+          "price": 1794,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/FWPrtXicDclJDoIwFADQEyEIkcHEGFEjIlBxiMqGQGk6GFuEHxBP5XW8jb7t-34YQN1OdZ1I3Aw1kEqDUloj2kIBHI-weugtU3XNJZ0_Z_-bLpLK2-B0fwoOLHtz6pOdQTsBThFw_DK1DGm5aYmh89M0TaJL4qrzjSTnBdpZhe0hcZFx1IzzsDnQ8HUvB8-247XRl4grpLBkYqDB0p20fG9bxFwZEDJH-NetA0fe_wCL_z4k"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "1w9_arOGAZnl2roPwYaeuQU",
+            "product_id": "4710959185312479905",
+            "catalog_id": "16517745033203602788",
+            "gpcid": null,
+            "headline_offer_docid": "10441488827650294436",
+            "image_docid": "14561653166096280099",
+            "rds": null,
+            "query": "budget+wedding+saree+india+banarasi+silk+saree+under+3000",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIMS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "2870824492054205952",
+          "merchants": "Myntra",
+          "id_to_token_map": "JAZ5jHicLVTJjqNWAEzyBTnl3PdWSzx20uoDxqxtns1jMXCxngGzPZbGYLC_ZtI9M9LkmESKlEP-I3PIt6RHSkl1qVKpLqX697sfX7PyTzBLB9xn5ooNNxc72Q3Rxall-0s_dOmUjGX6Ow04jpEERuBFQRQpiuP4LwkeMenyb64oUCLNshJNcew7JY7-rchwSso2255O2bDukjL9A9AcDwBgaIqWGFoUaZ4Hv5YNzrP_fYHiOcCzHEeJFGB5ihWFtyE9f_j0MmXD9e-kwG2aDeX9uST1_RkPWXY_fVPuaY6iPuX9_yWABZLIMCzHUDwv8hL31pTph7f-Mv6CP04Tyf6a7xXZdEzFtF06uEb7pdioZIp1Urzm5LVsXwvymrWfO9xfTsnX79_UIVGUS7Jy_L4P1ohyQ61GRjS7xKpslWyD_agfVdh4jU1jrW_jwCrSIBicGq62-qgGnjomwKbT0NJctfAwo-HYDyyvKtQQ9A1ketVv4IzCnLLrokh8sE_p0fKopQsZxCa0ptltzTr7ced5hEsNUkQNiWFQzCmBMN4TNqQJnTUkQjfCYAXsjzryEEElCvsOqiy7b7WXWLWqgF6ubotc7KU1DlMSGBGALXFdlavtsL8k-ti4-uIEQJrdxmpcFVHZfgmztdX4fkFhnZtgoPV2m573hqZsPc2C62Lr6hCkfkLvA83wb6hBmsa7XnyCnoWOCmigka58xroGjYXslRnaYcKFtDbHPlGgVthpDSrfsOKUaIPjU9isNTVhTC4mFvZU4GxDy0mafHQanwp0jsR-bLhhEUL3PeerH5fzcPqHkjVudLf86eo8P7SSECrOdJtAxejaCJdI77HzMxBEXgDvI2QYifmcdF1dZl9_-MlVZaQYB1e2Vdf01Ccld8yFV1ePd7KqPMmpFah4fEbB-lzxJb0c--wsIw1GqSmlDyWvHW1c5cZLVyYGvi2xtA-5nUEnRfd4tw6eOtC1zcNUnpmkm9d1aNa7TMmOZ70-azIceKoHlrid52JW5Xc83h0ObpZMQ_bgemj3JMMmnjE9ejtKf2hLLlLlnoHsRbkGeXXgk3EHsDam3UZpTAi7ySMbSCBL7Cy_HUV3sRZdXmsbYkhJJayX5wQdVAYqvTht8KUyD7lw6x_voLl-4hjmSb2luFMNS35-2Y29eO4l8VbI6nlsynO6RB6au5eHPBOSB3anG5s96x4LUKZTyRuozy7yHklzjd043zGzf6GPG1vmz6vkagB0YbVjZPGyudkmdgpQToVQIw202aXyT15YRZGHr3KOFrpw2hXaWdASDyjtN7xjctep3R8t5yBPN9ldveBpu2yufXHbjMf3M5mMzIjRKdxWpuAOZn4QS2FQJOPioeUaUZlYVTETtAehZMnzFRwS9hR1GjXdroxxEvjZPno7mopOvhSQpMOX8X0k_wGudrpi",
+          "title": "Tarangini Chanderi Saree",
+          "rating": null,
+          "price": 1755,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/jx7lv3icDcnbCoIwAADQL0pluXBChJWpJIrOyp5Ep2x2ceqWlz6q_-lv6rye74dJ2QpTVauG9HMrq3Ihi2apUCFzWROF8KcqGG_buqGbbv0_0wpK5BCs2WjLQeyAyODZkM-wsGKc3FCBe-EecHR6gxC4-jhcdPfNbAY94HfwpU093595QQZ010mZTVRfQY-FQ2ZhL0eaMLLY7xyYSLozrtMxCR7Mdlg50XSM0h_U5D1m"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "1w9_apeIB4XLvMcPrYvQkAM",
+            "product_id": "2155397376878800556",
+            "catalog_id": "2870824492054205952",
+            "gpcid": "12514198334530668695",
+            "headline_offer_docid": "12561113202932882661",
+            "image_docid": "17065164550801460487",
+            "rds": null,
+            "query": "chanderi+silk+saree+under+2500",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIMS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\n**₹2,500–₹5,000 — best if you want it to look genuinely premium**\nI'd look for **handloom Chanderi, silk-cotton, lightweight Banarasi, or better-quality tissue/organza**. At this level you can get something much more convincing than the ₹500–₹1,000 marketplace “pure silk” listings.\n\n### Colours I'd choose for a wedding\n- **Deep green + gold** — traditional and very flattering\n- **Wine/maroon + antique gold** — rich evening look\n- **Royal blue + gold** — especially good for receptions\n- **Rani pink/magenta + gold** — festive and youthful\n- **Mustard + pink/green** — beautiful for a daytime wedding\n- **Ivory/cream + gold** — elegant, but check whether the wedding has colour restrictions\n\n### One important online-shopping tip\nDon't automatically trust labels such as **“pure Kanjivaram,” “pure Banarasi silk,” or “pure silk” at ₹500–₹1,000**. Current market guidance specifically warns that extremely cheap “pure silk Banarasi” listings are often polyester/art-silk imitations. [thepanaya.com](https://thepanaya.com/blogs/the-panaya/best-banarasi-sarees-under-rs-5000?utm_source=chatgpt.com)\n\n**If you tell me your budget (e.g. ₹1,000 / ₹2,000 / ₹3,000 / ₹5,000), whether you're the bride or a guest, and your preferred colour, I can shortlist 5–10 specific sarees currently available online in India.**",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Banarasi Sarees Under Rs 5000 | The Panaya Varanasi",
+          "snippet": null,
+          "domain": "thepanaya.com",
+          "url": "https://thepanaya.com/blogs/the-panaya/best-banarasi-sarees-under-rs-5000?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "The Panaya",
+          "publication_date": "2026-06-27 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

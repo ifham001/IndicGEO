@@ -1,0 +1,488 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F04",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 7,
+  "promptText": "Which brand's formal shirts should I buy for men in India?",
+  "cellId": "F04_en_chatgpt_r7",
+  "startedAt": "2026-08-14T13:18:53.251Z",
+  "finishedAt": "2026-08-14T13:19:19.833Z",
+  "durationMs": 26582,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "If you want **men’s formal shirts in India**, I’d shortlist these brands rather than buying purely by price:\n\n| Brand | Best for | Typical sweet spot |\n|---|---|---:|\n| **Van Heusen** | ⭐ Best overall / everyday office | ₹1,000–₹2,500 |\n| **Louis Philippe** | Premium, polished corporate look | ₹1,500–₹3,000 |\n| **Arrow** | Crisp, classic formal styling | ₹1,200–₹2,500 |\n| **Raymond** | Classic quality & comfortable fabrics | ₹1,000–₹2,500 |\n| **Park Avenue** | Good value for regular office wear | ₹900–₹2,000 |\n| **Peter England** | Budget-friendly rotation | ₹700–₹1,500 |\n| **Blackberrys** | Modern, sharper fits | ₹1,200–₹2,500 |\n\n\nRecent 2026 comparisons consistently put Van Heusen, Arrow, Louis Philippe, Raymond and Park Avenue among the stronger Indian formalwear options. [midvey.com](https://midvey.com/blogs/news/top-10-best-formal-shirt-brands-in-india-for-2026?utm_source=chatgpt.com)[dressingschool.com](https://dressingschool.com/picks/formal-shirts/?utm_source=chatgpt.com)\n\n### My recommendation\n\n**🥇 Van Heusen** — If you're buying 5–7 shirts for regular office use, this would be my first choice. It has a particularly good balance of fit, fabric, availability and price. Current listings also show solid formal shirts around ₹1,000–₹1,300 during discounts. [barkhaboutique.com](https://barkhaboutique.com/compare/marks-spencer-vs-van-heusen-vs-arrow-formal?utm_source=chatgpt.com)\n\n### [Van Heusen Men Solid Slim Fit Formal Shirt]()\n*₹1,029*\n\n**🥈 Louis Philippe** — Spend a little more if you want the shirt to look noticeably more premium, especially for client meetings, presentations and senior/corporate environments.\n\n### [Louis Philippe Men Formal Shirt]()\n*₹1,469*\n\n**🥉 Raymond** — Excellent choice if you prefer a more traditional, understated formal appearance.\n\n### [Raymond Men's Slim Fit Solid Formal Shirt]()\n*₹986*\n\n### If I were building your wardrobe\n\nI'd buy:\n- **2 white** shirts\n- **2 light blue** shirts\n- **1 light grey**\n- **1 subtle blue/white stripe**\n- **1 pale pink or lavender**, if your workplace allows it\n\nPrefer **100% cotton or cotton-rich fabric** for comfort in India; wrinkle-resistant blends can be useful if you travel frequently. Fit matters more than the brand—shoulder seams should sit at your shoulder edge, and the shirt shouldn't pull across the chest. [dressingschool.com](https://dressingschool.com/picks/formal-shirts/?utm_source=chatgpt.com)\n\n**If you tell me your budget per shirt (e.g. ₹1,000 / ₹1,500 / ₹2,500 / ₹4,000) and whether you want slim, regular, or relaxed fit, I can pick the 5 best shirts to buy right now.**",
+  "citations": [
+   {
+    "url": "https://midvey.com/blogs/news/top-10-best-formal-shirt-brands-in-india-for-2026?utm_source=chatgpt.com",
+    "source_name": "Midvey",
+    "position": 1
+   },
+   {
+    "url": "https://dressingschool.com/picks/formal-shirts/?utm_source=chatgpt.com",
+    "source_name": "Dressing School",
+    "position": 2
+   },
+   {
+    "url": "https://barkhaboutique.com/compare/marks-spencer-vs-van-heusen-vs-arrow-formal?utm_source=chatgpt.com",
+    "source_name": "बरखा बुटीक",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "26.3698 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141318-2163-0629-0000-71b8bc7a6870",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "26.3325 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Which brand's formal shirts should I buy for men in India?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which brand's formal shirts should I buy for men in India?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20brand%27s%20formal%20shirts%20should%20I%20buy%20for%20men%20in%20India%3F&hints=search",
+      "datetime": "2026-08-14 13:19:19 +00:00",
+      "markdown": "If you want **men’s formal shirts in India**, I’d shortlist these brands rather than buying purely by price:\n\n| Brand | Best for | Typical sweet spot |\n|---|---|---:|\n| **Van Heusen** | ⭐ Best overall / everyday office | ₹1,000–₹2,500 |\n| **Louis Philippe** | Premium, polished corporate look | ₹1,500–₹3,000 |\n| **Arrow** | Crisp, classic formal styling | ₹1,200–₹2,500 |\n| **Raymond** | Classic quality & comfortable fabrics | ₹1,000–₹2,500 |\n| **Park Avenue** | Good value for regular office wear | ₹900–₹2,000 |\n| **Peter England** | Budget-friendly rotation | ₹700–₹1,500 |\n| **Blackberrys** | Modern, sharper fits | ₹1,200–₹2,500 |\n\n\nRecent 2026 comparisons consistently put Van Heusen, Arrow, Louis Philippe, Raymond and Park Avenue among the stronger Indian formalwear options. [midvey.com](https://midvey.com/blogs/news/top-10-best-formal-shirt-brands-in-india-for-2026?utm_source=chatgpt.com)[dressingschool.com](https://dressingschool.com/picks/formal-shirts/?utm_source=chatgpt.com)\n\n### My recommendation\n\n**🥇 Van Heusen** — If you're buying 5–7 shirts for regular office use, this would be my first choice. It has a particularly good balance of fit, fabric, availability and price. Current listings also show solid formal shirts around ₹1,000–₹1,300 during discounts. [barkhaboutique.com](https://barkhaboutique.com/compare/marks-spencer-vs-van-heusen-vs-arrow-formal?utm_source=chatgpt.com)\n\n### [Van Heusen Men Solid Slim Fit Formal Shirt]()\n*₹1,029*\n\n**🥈 Louis Philippe** — Spend a little more if you want the shirt to look noticeably more premium, especially for client meetings, presentations and senior/corporate environments.\n\n### [Louis Philippe Men Formal Shirt]()\n*₹1,469*\n\n**🥉 Raymond** — Excellent choice if you prefer a more traditional, understated formal appearance.\n\n### [Raymond Men's Slim Fit Solid Formal Shirt]()\n*₹986*\n\n### If I were building your wardrobe\n\nI'd buy:\n- **2 white** shirts\n- **2 light blue** shirts\n- **1 light grey**\n- **1 subtle blue/white stripe**\n- **1 pale pink or lavender**, if your workplace allows it\n\nPrefer **100% cotton or cotton-rich fabric** for comfort in India; wrinkle-resistant blends can be useful if you travel frequently. Fit matters more than the brand—shoulder seams should sit at your shoulder edge, and the shirt shouldn't pull across the chest. [dressingschool.com](https://dressingschool.com/picks/formal-shirts/?utm_source=chatgpt.com)\n\n**If you tell me your budget per shirt (e.g. ₹1,000 / ₹1,500 / ₹2,500 / ₹4,000) and whether you want slim, regular, or relaxed fit, I can pick the 5 best shirts to buy right now.**",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.paisawapas.com/blog/top-10-best-formal-shirt-brands-in-india/?utm_source=chatgpt.com",
+        "domain": "www.paisawapas.com",
+        "title": "Top 10 Best Formal Shirt Brands In India 2026 | Price",
+        "description": "TOP 10 BEST FORMAL SHIRT BRANDS IN INDIA 2026  August 16, 2024  8 Min Read  Image: best formal shirts brands in india  Formal Shirts for Men Brands: We are glad to present you with our exclusive list...",
+        "breadcrumb": "paisawapas.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.globeandwisdom.com/2026/04/top-shirt-and-jeans-brands-for-men.html?utm_source=chatgpt.com",
+        "domain": "www.globeandwisdom.com",
+        "title": "Top Shirt and Jeans Brands for Men: A Complete Style Guide | Globe and Wisdom",
+        "description": "TOP SHIRT AND JEANS BRANDS FOR MEN: A COMPLETE STYLE GUIDE  Choosing the right clothing brand is not just about fashion—it reflects your personality, confidence, and lifestyle. Whether you’re dressin...",
+        "breadcrumb": "globeandwisdom.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://cashkaro.com/blog/6-formal-wear-brands-to-choose-from-this-aw16?utm_source=chatgpt.com",
+        "domain": "cashkaro.com",
+        "title": "12 Best Formal Wear Brands for Men in India 2026 » CashKaro",
+        "description": "12 BEST MEN’S FORMAL WEAR BRANDS IN INDIA  Mourbi Dutta  October 3, 2024  When you are heading for a boardroom meeting or out for a party, you know you cannot rely on a pair of jeans and the red-chec...",
+        "breadcrumb": "cashkaro.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://demandeals.com/blog/best-formal-shirts-for-men?utm_source=chatgpt.com",
+        "domain": "demandeals.com",
+        "title": "10 Best Formal Shirts for Men in 2026 | Demandeals",
+        "description": "10 BEST FORMAL SHIRTS FOR MEN IN 2026 (BUDGET TO PREMIUM)  July 23, 2026  Image: best formal shirts for men  We sometimes buy a shirt that looks nice and crisp on the store hanger. But by 11 AM at yo...",
+        "breadcrumb": "demandeals.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://zoutons.com/news/best-formal-shirts-on-myntra-under-2000?utm_source=chatgpt.com",
+        "domain": "zoutons.com",
+        "title": "Best Formal Shirts on Myntra Under ₹2,000 | Top 12 Picks (2026) – Zoutons",
+        "description": "BEST FORMAL SHIRTS ON MYNTRA UNDER ₹2,000 | TOP 12 PICKS (2026) – ZOUTONS  🔍 12 shirts curated & verified ✅ All under ₹2,000 🛍️ Available on Myntra 📅 Updated May 2026  Finding a genuinely good formal...",
+        "breadcrumb": "zoutons.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.grabon.in/indulge/shopping-tips/best-t-shirt-brands-in-india-for-men/?utm_source=chatgpt.com",
+        "domain": "www.grabon.in",
+        "title": "16 Best T-Shirt Brands in India for Men",
+        "description": "16 BEST T-SHIRT BRANDS IN INDIA FOR MEN 2026  Jul 8, 2026  Shaoni Saha  Picking a t-shirt sounds simple until you are staring at 200 options across ten apps. Fabric quality varies wildly, fits are in...",
+        "breadcrumb": "grabon.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://couponlap.in/blog/top-shirt-brands-for-men-in-india?utm_source=chatgpt.com",
+        "domain": "couponlap.in",
+        "title": "Top 10 Shirt Brands for Men in India",
+        "description": "TOP 10 SHIRT BRANDS FOR MEN IN INDIA  Rajasekhar Reddy Jan 29, 2026  * * *  Whether it’s for office wear, casual days, parties, or travel, a good shirt makes all the difference. India’s apparel marke...",
+        "breadcrumb": "couponlap.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://in.my-best.com/9636?utm_source=chatgpt.com",
+        "domain": "in.my-best.com",
+        "title": "10 Best Men’s Formal Shirts in India 2021 (Arrow, Raymond, and more) | mybest",
+        "description": "10 BEST MEN’S FORMAL SHIRTS IN INDIA 2021 (ARROW, RAYMOND, AND MORE)  Buying a formal shirt doesn't have to be a difficult task. Yes, there are several factors like fabric type, color, collar type, e...",
+        "breadcrumb": "my-best.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.flickonclick.com/best-formal-trouser-brands/?utm_source=chatgpt.com",
+        "domain": "www.flickonclick.com",
+        "title": "14 Best Formal Trouser Brands In India Every Professional",
+        "description": "TOP 14 BEST FORMAL TROUSER BRANDS IN INDIA  Discover the best formal trouser brands in India including Raymond, Louis Philippe, Van Heusen, and Arrow with expert buying tips.  By Mohan NasreMarch 6,...",
+        "breadcrumb": "flickonclick.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Top 10 Best Formal Shirt Brands in India for 2026 – Midvey",
+        "snippet": null,
+        "domain": "midvey.com",
+        "url": "https://midvey.com/blogs/news/top-10-best-formal-shirt-brands-in-india-for-2026?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Midvey",
+        "publication_date": "2026-06-06 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Best Formal Shirts Under ₹1,500 for Indian Men · 2026",
+        "snippet": null,
+        "domain": "dressingschool.com",
+        "url": "https://dressingschool.com/picks/formal-shirts/?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Dressing School",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Marks & Spencer vs Van Heusen vs Arrow: Best Formal Wear Brands in India | Barkha Boutique",
+        "snippet": null,
+        "domain": "barkhaboutique.com",
+        "url": "https://barkhaboutique.com/compare/marks-spencer-vs-van-heusen-vs-arrow-formal?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "बरखा बुटीक",
+        "publication_date": "2026-04-09 00:00:00 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best men's formal shirt brands India Van Heusen Louis Philippe Arrow Raymond Park Avenue 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_table",
+       "chat_gpt_products"
+      ],
+      "items_count": 9,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "If you want **men’s formal shirts in India**, I’d shortlist these brands rather than buying purely by price:\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_table",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "text": null,
+        "markdown": "| Brand | Best for | Typical sweet spot |\n|---|---|---:|\n| **Van Heusen** | ⭐ Best overall / everyday office | ₹1,000–₹2,500 |\n| **Louis Philippe** | Premium, polished corporate look | ₹1,500–₹3,000 |\n| **Arrow** | Crisp, classic formal styling | ₹1,200–₹2,500 |\n| **Raymond** | Classic quality & comfortable fabrics | ₹1,000–₹2,500 |\n| **Park Avenue** | Good value for regular office wear | ₹900–₹2,000 |\n| **Peter England** | Budget-friendly rotation | ₹700–₹1,500 |\n| **Blackberrys** | Modern, sharper fits | ₹1,200–₹2,500 |\n\n",
+        "table": {
+         "table_header": [
+          "Brand",
+          "Best for",
+          "Typical sweet spot"
+         ],
+         "table_content": [
+          [
+           "**Van Heusen**",
+           "⭐ Best overall / everyday office",
+           "₹1,000–₹2,500"
+          ],
+          [
+           "**Louis Philippe**",
+           "Premium, polished corporate look",
+           "₹1,500–₹3,000"
+          ],
+          [
+           "**Arrow**",
+           "Crisp, classic formal styling",
+           "₹1,200–₹2,500"
+          ],
+          [
+           "**Raymond**",
+           "Classic quality & comfortable fabrics",
+           "₹1,000–₹2,500"
+          ],
+          [
+           "**Park Avenue**",
+           "Good value for regular office wear",
+           "₹900–₹2,000"
+          ],
+          [
+           "**Peter England**",
+           "Budget-friendly rotation",
+           "₹700–₹1,500"
+          ],
+          [
+           "**Blackberrys**",
+           "Modern, sharper fits",
+           "₹1,200–₹2,500"
+          ]
+         ]
+        },
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\nRecent 2026 comparisons consistently put Van Heusen, Arrow, Louis Philippe, Raymond and Park Avenue among the stronger Indian formalwear options. [midvey.com](https://midvey.com/blogs/news/top-10-best-formal-shirt-brands-in-india-for-2026?utm_source=chatgpt.com)[dressingschool.com](https://dressingschool.com/picks/formal-shirts/?utm_source=chatgpt.com)\n\n### My recommendation\n\n**🥇 Van Heusen** — If you're buying 5–7 shirts for regular office use, this would be my first choice. It has a particularly good balance of fit, fabric, availability and price. Current listings also show solid formal shirts around ₹1,000–₹1,300 during discounts. [barkhaboutique.com](https://barkhaboutique.com/compare/marks-spencer-vs-van-heusen-vs-arrow-formal?utm_source=chatgpt.com)\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Top 10 Best Formal Shirt Brands in India for 2026 – Midvey",
+          "snippet": null,
+          "domain": "midvey.com",
+          "url": "https://midvey.com/blogs/news/top-10-best-formal-shirt-brands-in-india-for-2026?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Midvey",
+          "publication_date": "2026-06-06 00:00:00 +00:00",
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Formal Shirts Under ₹1,500 for Indian Men · 2026",
+          "snippet": null,
+          "domain": "dressingschool.com",
+          "url": "https://dressingschool.com/picks/formal-shirts/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Dressing School",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Marks & Spencer vs Van Heusen vs Arrow: Best Formal Wear Brands in India | Barkha Boutique",
+          "snippet": null,
+          "domain": "barkhaboutique.com",
+          "url": "https://barkhaboutique.com/compare/marks-spencer-vs-van-heusen-vs-arrow-formal?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "बरखा बुटीक",
+          "publication_date": "2026-04-09 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10298566350722622500",
+          "merchants": "Amazon.in",
+          "id_to_token_map": "YgIJenicbVPLjqNGFI3mC7LIB3QWkSK1LEEVz7R6AZiysZvCvAqoTasM2GAXBj-wsZWfSc9DmiwnkbLMd0wW-ZZYyjK5d3eP7vOc-_c3376V9R-3iryy40ayXspwyLWFKve0MYTP3aEt-vxUF7_JkqqpOlQF-e6qBCUgfM7ZifF2XRe_iwLQNVlR4B0DQAFAFoQvVckKXu9Kb7UqD-M2v1cBElQVFUBFE2VF1RUNgF_rhq3Lf2FNgaIoQqhpii4JAGpAfH8ojl-FhfWqqzoQRBHogqABRVBU8edF4I1f_xf6uO_Lw_XPM9s9VmV_LHePTbn7AajHx1V7aBh_PFb14fRx3d27fvlv-vvmHpZVRVKApsuSrGmarAvy--58-oV96Htefv3x8mgZju9YThJPSU_DAWdJVeUNurFpcM3CYbZsgi7z39b8rd69Vfyt3H1qWXde5X-9-85uL2PreLH8uOvIOBBCbjJvzDcu4PIyoqkvzng44ZKbVGhJupeQzw456SjeoEW5LbpUXJ-WvGiiSRWyyFyVXFcoCShBNCwgwlg4irTh5yiquMu3IEHOCV_FOYuHazlFTQr4Nd9S6CIs05Rui10mERDw-yxHOibIJWabJKdVMQ5QJPJFDP2BitqFToqB8SBmdtAETXUoG5SUE7xyEYFZOlslCb4F4uwWc15hEfMsppDuZkFh0ybc4J4ScqMCDaJ0C9wdNT17sMiEhC7QrSx2IYkzKRWDWcmzW9gIoEAmXMboWm5mohcR05sGHp7yxk3IJIt5W9zvwhJ5gyPuLSeVHW67LkCodiE9EiAP3n0PHFcHHyKEwcz2QnGTTOQ-4hVijXzx0wq4pEjZlCjBBifLu7qLCJlFg7rgZtbErqolMZ1l5J9KQmeRjZxsi_ZENEIEu5ZwvcpBK_jCwGNYbTxkQJwStozty6SemcEUX72ERqFQvYQ2gmRMt0tUtUS0hWU6kzzkyBhuBTImuw_D8bD6KhhIPoWepBfb0Xzkeg41pmtuGnRYHf1ranj88pOoaneVQlkWFBF-ytt2W5d_vfs-tI3Amr6GhmuHTmQ_W2vfGRTbfHowbOvZKGbEZmd5_3JaN1o9xkUfXTFMdDTNNkuBgXQhs5c5ks5yo0X69IjdcqnA-7dmTw9j8mzoOrul6UJYHBvJTG-tPj-TCz-9usbEQPsbipmKukEp17Fxt6eH19ewzPtDOQqjYPFs4IZeGMx60BhdWNjyaDPMC7h3wa0DoLiy-HYWxOKyAEK3eWmWK_-EuvOwgmXovvCtu4jZ6mwwp24jaKcZwWqT-ZCle78hcr-wJnCtPT1gZ_wsQ_hMXdkyu_BOX5HfJnNcNNkUqhZcnHeTgm4EXSnqbc7xShltcK52JczU8enKp_nKmlrD7qSIhaMd-0rr0L1mJ0WuUl6cxQzsi8N5vw4FfZMnqT7FMcNjh9l1r5lCbvnzUd3X7qXbGSqo8Hxva7FJi_2O3jStWZ-NBCwVczHVQbS3j6aXZPJNuvBw1OLUbX13xxgwoGCXnGd0P1qJegPWl4kbv1RZbW8XvrmvSOv3chr7kgTuRLY4Oorhea5LaOIeehTwvunLsd6LO8dZj-i4GsR6e2duUlz-AeoL860",
+          "title": "Van Heusen Men Solid Slim Fit Formal Shirt",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 98,
+           "rating_max": 5
+          },
+          "price": 1029,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/T4sJh3icDcnbDoIgAADQL8pLNdS21sxuumSFRdabgJo5CRXF-qj-p7-p83q-n7uUop3pespp8xIyZSNJuKnlrUxkQTX6rPT2_hSi4Pminv9v5kLmbOmxYyANwySC_bC0d2RVd1bGPP-AQVTjc5VBEvdxnCM7oOsH5jG7NZtBmXsGkPKtEcXBNTwFKvDQeAqc5XGYQMiVe4HljmCTVn1RvUVbesg4R468GRgp6v4ALfg99A"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "zhV_asj4CLeSxc8P75uZmA0",
+            "product_id": "5478793705050743420",
+            "catalog_id": "10298566350722622500",
+            "gpcid": "979201129008260671",
+            "headline_offer_docid": "2437672368156796822",
+            "image_docid": "8631113388694023821",
+            "rds": "PC_979201129008260671|PROD_PC_979201129008260671",
+            "query": "van+heusen+men%27s+formal+shirt",
+            "mid": "576462895458885905",
+            "pvt": "a",
+            "uule": "w+CAIQICIWUHVuZSxNYWhhcmFzaHRyYSxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\n**🥈 Louis Philippe** — Spend a little more if you want the shirt to look noticeably more premium, especially for client meetings, presentations and senior/corporate environments.\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 6,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "16324656825784200768",
+          "merchants": "Myntra - MNow + others",
+          "id_to_token_map": "zPn4M3icdVPLrqxEFDV-gQMTpzcxJiYnJ6GqeHpzBtA8mu4DDRQFDZMOUDRFAw39pJv4M557NdGhmvgt14HfYutY92zvlay19trZf332xVtZ_zEF0Sa75htdgt6YN54glRtRtX8ejj29FOea_g4AVBTACQAKsgKAIiEAfy6yc9b21T-wiCAvCqIMBUnmIcdJovwrKzPa1vtytd2WR70vavobLyBB4WSAJEWUuQcLj36pu6wq_4V_BxyHJA4qCAKARMCLQBE_HOnpE-_NNuCf7iGBeJFHygN-DL73gpW--R_wx8OlPN4_fd32l_r0NLC6rYehfOrK_TdQOj1t-2OXtU8nVh_PP1bDv_r_wfKhq-mvgiTyIpSBBBHiBRFw6MNwPf-Qfbxc2vLTt-PTTLV9e2bHZB5dUnxzk5ixojOnbB7cE3xb5F0wJP5b1b7V-zfWvpX7n_psuG6LPz__0uhHfXYaZz4ZhkgPONwqfEZuVhynNjWVOp6BbcYtwpQ7z6M2zbKOHQrjjMqoFXOLxRFHedKyQ264NbGCLg41LzBupxy6EyUMERKtSReMxEgtAhmIdgs_Nk5nxwp4CgU3NxfYtYIDhTSmTTTDXBtgyx1I3N7duRn5IHrFxoIVU3FzH8cpLQrXqL0mGPQ-l7oB55qUo3EQumscMbNoAHLhWcPEDPPuBgjXHghKibMzYUgKFCBqhW0F8_mCSy3u7hNzWyB6IrsU5c3D4xTsisjnCqKwsLEn9-GRGkofTuk8jMwpJJGVRsosg-O9tCIjiYcVIc6YWS5IJ43RKXrkYFruvH1YMMbQqHiit27cNAATsHW4gYtD5xatB1ZAs86M8zXS_SmJ3R3twK5YszrnhppC1iUoaIoaiAVsMW7bVzdeWEFDkyg0vWJvXlx40zKDYBMNOGoVRrvFNtCLO5nTOgMqcGG0dRtzYdULLZi791Wc4ihmok8UjEOTj7qGxzW4rowgox09lfMI4YlpH2-n4_YTp5rCGa_48U5XPiINP8izHauOPn8tctVBOK2-A5IsSgAJvCJK4k9F3zd1-efnX202uCwux_IZh4H3orpdOmbcFDTPlp9YY6G62Ku9WFakTN1KpO_9DvC5wmu23ML7-rhPVs_qeYuE2juXc1ld2d7pVdBGvKqc5yqAtqOAzSXuoju8baqdXoS39--woQaz-QarjoHt0HiZVb59Ew3t_TvVmL2odBEZ2XWHpCOn-cJuUBzuGq8Nz9aWzaFKdON5N-GtD9octkEit8s5terqsb79_p0evRhw4WvjBmazYuB0zSsmjM0YPn7BtlStT-NDZmLvrO5GR33U-3eurb8ICL2Qa2-P0ml4pHdSpWqRDEs6WeHZWF3b_abWLKYuWMzo0j1upFNyl2f75pAnfoqKht2eg5CNe2WtiAibrrOwXlnSzTqG1sssC6jMRBqnB4sbdzcqaqsmmfrmdTSjbu9UI0ZGQrXAq1xd12JHbw_z9cj3yqsK6FWyBAq9HOTX9nnhNU60X68tW87T48HsL0KQOxq-K7XIgo0oOcZWDmISHpck5ey1OR_6QxZflvYr2i3jlDsy7bnT227kzmx9GOR4TkZdle7LjZYMYJXfZmlKmPs3VJv0Fg",
+          "title": "Louis Philippe Men Formal Shirt",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.3,
+           "votes_count": 552,
+           "rating_max": 5
+          },
+          "price": 1469,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/Cysf_3icu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDgkL9s8JCwqND0nJLHcud8kL8awwTy8y8fOLCndPTiw3yXJN9QoJiAoNDPRzynA3SvULSfJyDorMjHTNyEkySg1LMvJxycoOqgwAALQTLw8"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "zRV_avb_D72PwbkP57e_6AI",
+            "product_id": "11299105125891197312",
+            "catalog_id": "16324656825784200768",
+            "gpcid": "16196568346439361161",
+            "headline_offer_docid": "4535908137968097343",
+            "image_docid": "10037029321136146196",
+            "rds": "PC_16196568346439361161|PROD_PC_16196568346439361161",
+            "query": "louis+philippe+men%27s+formal+shirt",
+            "mid": "576462817233456103",
+            "pvt": "a",
+            "uule": "w+CAIQICIWUHVuZSxNYWhhcmFzaHRyYSxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "markdown": "\n\n**🥉 Raymond** — Excellent choice if you prefer a more traditional, understated formal appearance.\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 3,
+        "rank_absolute": 8,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "17143354274884486638",
+          "merchants": "Myraymond",
+          "id_to_token_map": "NFiwaXicdZPLzqvIFYWjfoIMepbJmURqyfqlKoprjv6BuRsbMBQUlwwQBmwwV4PxBeVl8p_ulrqHnZbyLKcHeZa4e5zs6beltdfaWv_5058_iurfy4Mk6eC1m75gLtdp35hvbe3wPw1jn8_Ztcp_hSwDaEizHAAsz3EcYjn-pyy9pk1_-h1zkEaIoSmO5nma5lkW8b-URZo3VVfYx2Mxyn1W5f9CvMCyAELIcxSNACVA9ueqTU_FH_hXCCiepVhAA4ZG7EsIMsyXMZ--0nspgQxkKQbSHIMQhWggUFD4x9615eT_wB8uczE-v_69Lbq_Uty0OvZjmzarqazG67SqurxKV7e0W5XFPBXdqunnaloNZdVUw1CsxvTZ9l2-GtKxXqW3opuLVdo0r8Wpb5rnKh3H_v7Dafjj7v-h_qWt8l8YjqVZiud5QaABEgSe-zLcrv9Mv5_npvj63X0lrTfORtoEvk7mGD-sKCjLrFWXVHefEX4Yh9YdIufj1HxU3UfZfBTdj3063I7Zb998q_R3WZrukuMPA5FdgOvrYLUDyWtyMcPmXCgQRYh4RUNmrMUtDmrqEOb6ARh91hFke43qh4brdENZBDCwNCHMG2vvg3qJdTdMVffiNYQ4gYqjIKbNtkZ5ayIf5p6tWkG4mIyvCSTvROog1yD3GzkC9D0OS9VpCe2q5fbQMjgF0eK1qkQogjMtj7NQ1SNKue88a-8u6s6W45unKovvW5EFjRTL6pC_XHhIZP1GAJGnPgOlmQMtB6lcTp4c46JuWh8YQ6E20A_NxQpKL4SuH6ikJG2Pdr4bxzUzuLVx9FtCmb56t5ayxGoN8-DRWy0hZIlo2yfQ9E6vnHLz4BEXK8Peg0IUUVfgnUUrDUiN2_LsaUJnthHCmhsXnnGLoBgWuipHVKNGUKizhTx3RNy5yN1aan4x_aHzdWtDoLAJUaPmek7is7GPdWty6sY-KDVjkhNW0UCTRigz1b3iQGisUAUZFCcPw2sKFVqrDNHVracdxK7VifOhhYoZNJesfWWmMEaq5rYditeX78mCsfv9YxqPX8FaZa7YZi8gahSGP2yFOAvwkrUBYlUd2ag9_Q1yPMtBxDAUgOyPWd_XVfHbN3_BytqV9ASvTQVvPOVdOjmbB6uInz-tFel9nRtESWftLm3Zda_UFyQE-T4m4-12ORdEFE9ULTjCVcAzezh6xqsNSi1JoxQrnz_J5D3jN9acHbBWnm6KSec4frSP57J1zbW2tkYMsHRIkjcYO-vf5_OnJMFFNo_FG_bc_fvaauN7ChrnZJSWHl04Z5cA7TIm8iwdsYi6ntuvR1QTEBJBe857_CgebyPtJd0uFmE330rNpU6jU91ugbi5MW-MNrX3tuL9h-3TVXzZXz9_sjby-6vI79o6c209UUdooZusAyENGXp9TBz9dKqPp93kL9JZWabNm0JZYS3sZEdGGb_t5FK6PQPOArRQoXZL4W2ubRn1wgpKxzKvP6RT7B9q1dn4tG0cmP1-B6yzbqqXVn3V8MrmgVtBcUgMs6Tb_sF5tVveBHYXMf4bcLZSIu_oaDqfGy_lg7k4T9ueaSYY4jIFsRz5Thp6h7m-ZLSELsnmcEeu0hVcfDfCh-0NRJHeFjO-npK7KRciZgxh_YhBoHGzvtg0T0v5dl4TOzuiIsams2yVkiv9_wJiWwmg",
+          "title": "Raymond Men's Slim Fit Solid Formal Shirt",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 18,
+           "rating_max": 5
+          },
+          "price": 986,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/9WA4EHicDcndCoIwGADQJ1IzjfyECOnH0hTFjOgm5jT_cJtuOO2pep3eps7t-X4qIRi3Na0geJiZKHJFZMRQSy6QqLGKaafxijJWk3Lbb_5nO2EOLo5jrCCSxroH91DRoTLG07Vdrkt0aDLfEPUF-TBZJvXhlT08OI88NAKF5q-xb5rwjSbZ7Oodt6YkGAgkujRdWC-YGR2L0aWs3UPnpCSeZZDtWfG8oUi286r8AVdKPqE"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "zxV_apTmIoe5qtsPlM-mkQ8",
+            "product_id": "16504146700687773678",
+            "catalog_id": "17143354274884486638",
+            "gpcid": "15162514753323409219",
+            "headline_offer_docid": "3896601118724302916",
+            "image_docid": "10286260405436687155",
+            "rds": "PC_15162514753323409219|PROD_PC_15162514753323409219",
+            "query": "men%27s+formal+shirts+india+van+heusen+louis+philippe+raymond+park+avenue+allen+solly+arrow",
+            "mid": "576462888994039987",
+            "pvt": "a",
+            "uule": "w+CAIQICIWUHVuZSxNYWhhcmFzaHRyYSxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 5,
+        "rank_absolute": 9,
+        "markdown": "\n\n### If I were building your wardrobe\n\nI'd buy:\n- **2 white** shirts\n- **2 light blue** shirts\n- **1 light grey**\n- **1 subtle blue/white stripe**\n- **1 pale pink or lavender**, if your workplace allows it\n\nPrefer **100% cotton or cotton-rich fabric** for comfort in India; wrinkle-resistant blends can be useful if you travel frequently. Fit matters more than the brand—shoulder seams should sit at your shoulder edge, and the shirt shouldn't pull across the chest. [dressingschool.com](https://dressingschool.com/picks/formal-shirts/?utm_source=chatgpt.com)\n\n**If you tell me your budget per shirt (e.g. ₹1,000 / ₹1,500 / ₹2,500 / ₹4,000) and whether you want slim, regular, or relaxed fit, I can pick the 5 best shirts to buy right now.**",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Formal Shirts Under ₹1,500 for Indian Men · 2026",
+          "snippet": null,
+          "domain": "dressingschool.com",
+          "url": "https://dressingschool.com/picks/formal-shirts/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Dressing School",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

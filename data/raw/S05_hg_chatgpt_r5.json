@@ -1,0 +1,405 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S05",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 5,
+  "promptText": "India mein acne wali skin ke liye 700 rupees ke andar konsa serum kharidun?",
+  "cellId": "S05_hg_chatgpt_r5",
+  "startedAt": "2026-08-14T12:31:48.729Z",
+  "finishedAt": "2026-08-14T12:32:46.438Z",
+  "durationMs": 57709,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Haan 👍 ₹700 ke andar acne-prone skin ke liye **salicylic acid** serum sabse practical choice rahega—especially agar pimples, blackheads ya clogged pores hain.\n\n### Meri top picks\n\n### [Minimalist Salicylic Acid Face Serum]()\n*₹224*\n\n### [The Derma Co Sali-Cinamide Anti-Acne Face Serum]()\n*₹515*\n\n### [The Derma Co 2% Salicylic Acid Face Serum]()\n*₹237*\n\n### [Deconstruct Anti-Acne Clearing Serum]()\n*₹524*\n\n**🥇 Minimalist 2% Salicylic Acid** — meri first choice. Current listings mein ~₹500–550 ke aas-paas hai, aur 2% salicylic acid acne/blackheads/oil control ke liye targeted hai. [www.nykaa.com](https://www.nykaa.com/dp/serum-for-open-pores?utm_source=chatgpt.com)\n\n**🥈 The Derma Co Sali-Cinamide** — agar acne ke saath **acne marks + oily skin** bhi hai, ye interesting option hai: **2% salicylic acid + 5% niacinamide**, around ₹527 on Tira. [www.tirabeauty.com](https://www.tirabeauty.com/collection/serum-for-oily-skin?super-ingredients=Niacinamide&utm_source=chatgpt.com)\n\n**🥉 Deconstruct Anti-Acne Clearing Serum** — agar skin thodi sensitive hai aur aap relatively gentler acne-focused option dekh rahe ho, consider kar sakte ho.\n\n### Kaise use karna hai\n- Raat mein **2–3 drops**, initially **week mein 2–3 baar**.\n- Uske baad moisturizer.\n- Din mein **SPF 30+ sunscreen**.\n- Ek hi routine mein salicylic acid ke saath retinol/AHA-BHA peel jaise strong actives mat milao.\n- Irritation, burning ya excessive dryness ho to stop/reduce frequency.\n\n**Agar tum mujhe bata do ki tumhari skin oily, dry ya combination hai aur acne kis type ka hai (chhote pimples / pus wale / blackheads / acne marks), toh main ₹700 ke andar ekdum exact serum choose karke bata dunga.**",
+  "citations": [
+   {
+    "url": "https://www.nykaa.com/dp/serum-for-open-pores?utm_source=chatgpt.com",
+    "source_name": "Nykaa",
+    "position": 1
+   },
+   {
+    "url": "https://www.tirabeauty.com/collection/serum-for-oily-skin?super-ingredients=Niacinamide&utm_source=chatgpt.com",
+    "source_name": "Tira",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "57.4714 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141231-2163-0629-0000-01089d34d522",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "57.4525 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "India mein acne wali skin ke liye 700 rupees ke andar konsa serum kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein acne wali skin ke liye 700 rupees ke andar konsa serum kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=India%20mein%20acne%20wali%20skin%20ke%20liye%20700%20rupees%20ke%20andar%20konsa%20serum%20kharidun%3F&hints=search",
+      "datetime": "2026-08-14 12:32:45 +00:00",
+      "markdown": "Haan 👍 ₹700 ke andar acne-prone skin ke liye **salicylic acid** serum sabse practical choice rahega—especially agar pimples, blackheads ya clogged pores hain.\n\n### Meri top picks\n\n### [Minimalist Salicylic Acid Face Serum]()\n*₹224*\n\n### [The Derma Co Sali-Cinamide Anti-Acne Face Serum]()\n*₹515*\n\n### [The Derma Co 2% Salicylic Acid Face Serum]()\n*₹237*\n\n### [Deconstruct Anti-Acne Clearing Serum]()\n*₹524*\n\n**🥇 Minimalist 2% Salicylic Acid** — meri first choice. Current listings mein ~₹500–550 ke aas-paas hai, aur 2% salicylic acid acne/blackheads/oil control ke liye targeted hai. [www.nykaa.com](https://www.nykaa.com/dp/serum-for-open-pores?utm_source=chatgpt.com)\n\n**🥈 The Derma Co Sali-Cinamide** — agar acne ke saath **acne marks + oily skin** bhi hai, ye interesting option hai: **2% salicylic acid + 5% niacinamide**, around ₹527 on Tira. [www.tirabeauty.com](https://www.tirabeauty.com/collection/serum-for-oily-skin?super-ingredients=Niacinamide&utm_source=chatgpt.com)\n\n**🥉 Deconstruct Anti-Acne Clearing Serum** — agar skin thodi sensitive hai aur aap relatively gentler acne-focused option dekh rahe ho, consider kar sakte ho.\n\n### Kaise use karna hai\n- Raat mein **2–3 drops**, initially **week mein 2–3 baar**.\n- Uske baad moisturizer.\n- Din mein **SPF 30+ sunscreen**.\n- Ek hi routine mein salicylic acid ke saath retinol/AHA-BHA peel jaise strong actives mat milao.\n- Irritation, burning ya excessive dryness ho to stop/reduce frequency.\n\n**Agar tum mujhe bata do ki tumhari skin oily, dry ya combination hai aur acne kis type ka hai (chhote pimples / pus wale / blackheads / acne marks), toh main ₹700 ke andar ekdum exact serum choose karke bata dunga.**",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://biomlogy.com/products/dynamic-anti-acne-serum?utm_source=chatgpt.com",
+        "domain": "biomlogy.com",
+        "title": "Biomlogy Anti Acne Serum for Acne Marks - 30ml – BIOM:LOGY",
+        "description": "DYNAMIC SOOTHING SERUM 30 ML  Dynamic Soothing Serum 30 ml  7% Niacinamide 2% Salicylic Acid 2% Ceramide Acne Clearing Serum | For Active Acne & Oil Control | Reduces Blemish & Acne Marks | Soothes |...",
+        "breadcrumb": "biomlogy.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicdrop.in/drops/acne-treatment-products?utm_source=chatgpt.com",
+        "domain": "magicdrop.in",
+        "title": "Best Acne Treatment Products India 2026 | Magicdrop.in",
+        "description": "beauty By Arjun · 19 June 2026  BEST ACNE TREATMENT PRODUCTS IN INDIA 2026 — PRICE, DEALS & COMPARISON  📢 Affiliate links — we may earn a commission at no extra cost to you. Read our affiliate disclo...",
+        "breadcrumb": "magicdrop.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicdrop.in/drops/best-salicylic-acid-serum?utm_source=chatgpt.com",
+        "domain": "magicdrop.in",
+        "title": "Best Salicylic Acid Serum India 2026 | Magicdrop.in",
+        "description": "beauty By Arjun · 29 June 2026  BEST SALICYLIC ACID SERUM IN INDIA 2026 — PRICE, DEALS & COMPARISON  📢 Affiliate links — we may earn a commission at no extra cost to you. Read our affiliate disclosur...",
+        "breadcrumb": "magicdrop.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.1mg.com/categories/skin-care/face-serums-4432?utm_source=chatgpt.com",
+        "domain": "www.1mg.com",
+        "title": "Online Pharmacy India | Buy Medicines from India's Trusted Medicine Store: 1mg.com",
+        "description": "Minimalist Salicylic Acid 2% Face Serum | Reduces Oil, Acne & Blackheads | Face Care Product for Acne-Prone Skin 30 ml Serum 4.2 105 ratings Get in 60 mins₹549₹494 order for₹1200 ADD  The Derma Co 10%...",
+        "breadcrumb": "1mg.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://hotdeals360.com/beauty/best-niacinamide-serums-under-rs-600-top-5-budget-picks-for-acne-marks-oily-skin-brightening-11737276/amp?utm_source=chatgpt.com",
+        "domain": "hotdeals360.com",
+        "title": "Best Niacinamide Serums Under Rs 600: Top 5 Budget Picks for Acne Marks, Oily Skin & Brightening | HotDeals360",
+        "description": "BEST NIACINAMIDE SERUMS UNDER RS.600: TOP 5 BUDGET PICKS FOR ACNE MARKS, OILY SKIN & BRIGHTENING  Looking for best niacinamide serum under Rs.600? Explore 5 budget-friendly picks in India for oily sk...",
+        "breadcrumb": "hotdeals360.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://skinfinds.com/blog/salicylic-acid-vs-niacinamide?utm_source=chatgpt.com",
+        "domain": "skinfinds.com",
+        "title": "Salicylic Acid vs Niacinamide — Which One Is Right for Your Skin? | SkinFinds",
+        "description": "BEST PRODUCTS IN INDIA (2026)  Here are our recommended picks available on Amazon India, chosen for formulation quality, clinical concentrations, and value for money:  BEST SALICYLIC ACID PRODUCTS→  *...",
+        "breadcrumb": "skinfinds.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://sskin.care/ingredients/salicylic-acid-products/?utm_source=chatgpt.com",
+        "domain": "sskin.care",
+        "title": "Every Salicylic Acid Product in India: All Options Compared (2026) — sskin.care/",
+        "description": "Derma Co  | Sali-Cinamide Anti-Acne Serum with 2% Salicylic Acid & 5% Niacinamide - 30ml  | Serum  | ₹599  | 2%  | View → Derma Co  | 30% AHA + 2% BHA Peeling Solution - 30ml  | Serum  | ₹599  | -  |...",
+        "breadcrumb": "sskin.care"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://skincaresaga.com/best-niacinamide-serum-india/?utm_source=chatgpt.com",
+        "domain": "skincaresaga.com",
+        "title": "7 Best Niacinamide Serums in India (2026) - Tested & Reviewed | SkincareSaga",
+        "description": "7 BEST NIACINAMIDE SERUMS IN INDIA FOR GLOWING SKIN (2026)  By Ananya Verma / April 14, 2026  If there’s one skincare ingredient that lives up to its hype, it’s niacinamide. Also known as vitamin B3,...",
+        "breadcrumb": "skincaresaga.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://blog.flash.co/serum/top-10-salicylic-acid-serums/?utm_source=chatgpt.com",
+        "domain": "blog.flash.co",
+        "title": "Best Salicylic Acid Serums in India (2026) | Flash AI",
+        "description": "Salicylic Acid Serums. Flash AI analysed 10 products from 9045+ verified reviews across multiple platforms. The top pick is Foxtale 12% Niacinamide Clarifying Serum with an AI Score of 92/100, availab...",
+        "breadcrumb": "flash.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://thedermaco.com/products/sali-cinamide-anti-acne-serum-with-2-salicylic-acid-5-niacinamide-30ml?utm_source=chatgpt.com",
+        "domain": "thedermaco.com",
+        "title": "Sali-Cinamide Anti-Acne Serum -30ml | The Derma Co",
+        "description": "Serum  For All Skin types  SALI-CINAMIDE ANTI-ACNE SERUM WITH 2% SALICYLIC ACID & 5% NIACINAMIDE - 30ML  Clears Acne, Fades Acne Marks & Unclogs Pores  243 reviews  Net content: 30ml (USP: ₹14.97/ml)...",
+        "breadcrumb": "thedermaco.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Serum For Open Pores Online At Discounted Prices From Top Brands",
+        "snippet": null,
+        "domain": "www.nykaa.com",
+        "url": "https://www.nykaa.com/dp/serum-for-open-pores?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Nykaa",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Serum For Oily Skin Online at Best Prices in India on Tira Website & App",
+        "snippet": null,
+        "domain": "www.tirabeauty.com",
+        "url": "https://www.tirabeauty.com/collection/serum-for-oily-skin?super-ingredients=Niacinamide&utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Tira",
+        "publication_date": "2026-07-28 00:00:00 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best acne serum India under 700 niacinamide salicylic acid 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Haan 👍 ₹700 ke andar acne-prone skin ke liye **salicylic acid** serum sabse practical choice rahega—especially agar pimples, blackheads ya clogged pores hain.\n\n### Meri top picks\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "1900532667665884872",
+          "merchants": "Purplle.com - Beauty Online + others",
+          "id_to_token_map": "WoVGG3icdZLLrqtWEoZbeYIeZJDhUSsZbVlaa8FaQB_tAcaAb4ANi8VlYnEzYK4Gs9m28jT7JJGSYbqlfpaTQT9LWxmnSyqpSn_p_0qq-u_f_v6Rlf_BeX-Kxsyw0n0Ix-MBEC-_y8mv_dClU3Ir038hicccFnlMJChKWCCY-zWJblHd5U8VSgBgDhEiEIJFkRcF9HuRRWldtpl1PmfDqkueY7wIAJKQJAAIESIAceC3sony7E_531AAkiRhCUiCwBHISxDiL0M6fuUPyglyiCMixuTJRgA_fTD348G2Vqf_I_58nbLh_vX7pmyfjLocby_oB4Rfxmed3J_5Ej2hL2M2TM3Pef_nAn9h86Up09-fPU-QSAjAEhRECOGX_u32UeQ_TVOdff3H_KLIm-NG2ThHVHSBb4PIN9vA33Z7tZ5CvS4-8vqjbD-K-iNrf-mi_u2c_PHNt2o3r5RxVo5u37OVDRxw85hfDLGOHbvZ1i5X8RTclolb33xOg3ZrW5lfW2kJQEBzmHhsiCt7YJW2jde9ZlY1Sqpbm7nbK6sLPtU3IPO0dVxtidnKOHVt5OjwLas27y4tsIO2voEYoZewirQexWttnawCPla7h4tq1_M14HCs8h-panmwy7z0zth2Mrl0ikFqGVX-iD1spayu9qzvs0pSGRIxfSwbm9XU9UM9dm9h5qaT3bI3S4Vh6oYHp2FRrGlORAvVWIdvRuU-maHl6Fjf-zl_dLXJ1Zlie6Gb6Zrj1GZjcHYQAcAneg9jYM4Bl-7ZuqhDsL1TBU4GDfUEpssIFmXQsF0EXZ42-BG3y4ECuM38gqYNRmwVPkLdNEwkDdGlpnRt31O67FMaOkHLHNqaNuPqc9r2lqu_rxwv4A2A26juNcPVrLh5J6GXAqZrNl1tHO3B2kSTigQxkyLb8C7aw2XybNbp8w7aRS-3S3tt3i3v6U81K_VZ71S3gXFpk7gdsHV4CdXtPmHJTDWt_el9HM5fgazhm2MR61FVAz9jZTv7qodyH9HpIJ8bTp3_-fxEIkAgYAkh4Zek66oy--Ob704nJ0umIVs41D68ymYTzhFQabHQer2eVhETyN6bOtWpJa4ZZ2JJsNpubuAK9nAdC8v1yHX-ze92I8m5YJdn9Z0MCMkbuaR1JW77-3vhNmIeimWrAEf-_MlRZVtZnxzZUJ0NVV-V_Lh5J-ry8ydZVV7ldMvUaARWeNJScTXJ5GErvCE99pH8Hp-PD_4-v9ENpzqHK3Xm1U5dGuq95L3586cVew0Wu4jsF8Zdm_txfQR3Kz6dEcKjHaiydjWCnvapOajkKMrP-PzJ3KxeMce9Bnvx0j9816iUWRXi6_pC1DcyqdNoaNXZ4NBu1IdLuc6Rvd0MXrfsSCwEfTpiSBuxXwi7BZBhO8idftESO71OLhfc10qkIjYQfASGDv0Cim0m51RNr5zpZDdKk3N5vbYirXS3XISKN-1cJlb-CC7842R6aN7jTdrUmgLX1RJlnqj5wkp4XDW0Mo1AJu6qujk-Wh4GCC5kMJd5a2Q2t3STBTyeR4NvnZ0jICsvllAYN1e2nCkdzj5futDMRh-fvHfO8cnYHYByyMLLQrxs4DGB_wPjsu_3",
+          "title": "Minimalist Salicylic Acid Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.3,
+           "votes_count": 5700,
+           "rating_max": 5
+          },
+          "price": 224,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/RoGLUnicDcndEoFAGADQJyJqTDFjTGTXT7KVargxtdl2DduyX9RLeR9vw7k93w8HUHpiGBdJn52CS9mDQlr9SkMOgvZpfTc0r5USspo9pv-buEE5xjR-yvp1JSH3wGXeui2siNgj0mCvo-y1xbc3Ms0hH5SoCdwRnJYCK-g2bC98namQV7bHZTOeU-KXAYlzCSgSUSatVfWoU4lMZorFMSniwz1xWHrWymn93Q9gyj7k"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "5gp_aseMOdLZ1sQP06WgyAc",
+            "product_id": "2945358456918957653",
+            "catalog_id": "1900532667665884872",
+            "gpcid": "13236855657620502953",
+            "headline_offer_docid": "4800292970112260230",
+            "image_docid": "17099959097736149115",
+            "rds": "PC_13236855657620502953|PROD_PC_13236855657620502953",
+            "query": "minimalist+2%25+salicylic+acid+serum",
+            "mid": "576462866059178111",
+            "pvt": "hg",
+            "uule": "w+CAIQICISQ2hoYXR0aXNnYXJoLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10978270300704153057",
+          "merchants": "The Derma Co + others",
+          "id_to_token_map": "RNRD-HicbZDLrqvGEoajPEEGGWW0daSTyZKlprmZbK0B2FyXAUNDc5kgTGPAXA3YxtZ5mrWTSMkwiZRn2RnkWeJEZ5iSSqrS9-v_VfXnF1-959XvrDgk6VgdZBtdbod63-2DpXL6n4axJ5dsrshvFKB4WqA5gWIYTmA4SAn8T1k6p01f_IMFfg15QAPAA4ZiacDyv5R5Spqqy-3jMR-3ffa3DkL-CRmOgzzFAUABmv25atMi_z-nWZbiKADhUwkYWoC88Gkk02e43yQUJ6xpgeK5NctzkBVYmvrf3rW3yb-zH86XfLx__nYu8xeSj236kvUv8L-QfZnSpsruz35Jn6EvUz5e2h-K4Tn_-i8-n9qK_PLcnkevBQqyNEuvKch9Gq7ze1l8f7k0-ef_3F42ou7oGx05sOyj0AVpaHVRaPQ7ubnEalO-F8171b2XzXve_dinw_WY_fHl13J_226m28bxhwFvXYDg-mGFLnLhcslOloOhgUhndJZfzxGNuViLbQSNgagTzD3nhh_xEkFsIlry8kawEC47DxuNK2fwoC6mt7UeJljUgyrEllaOaYArP3A5Ig-1GeI46owUyeUGbSgTeXHoy0sU1fM1giyLHpJLQit--mxRIy62ZllBKIOsNWmrxXamkjqWm3vuz1IGLOwiinVV9hI1uLPkmbM0Y8rAAOJ2wWbgL26I736wbKOTNcctZjDd7E3KWvyuuGeBznoaiVOV0oNAoZ263PtNGZqP-B6FzdFUCY48fTFlQzoEZDyAxvPBcnKxfvcbS_aDeg466Zxp0t4LLS1tS43UEX2gBjaqY0A8GSBsLKhtUAZqgDSRDSkS460Vu5405r5iOv4EccC6mUxuuT8tO-ymkY-bGLClHTYxDppNBjGLfJ2xVWrvPlzJoTKkPLCUKUKZtU3l-oJHQlKllHTxFcKkWLmqlSG5mnW3g_j5YQk7YHHdFstuZ5VRi-sglIYgKJbsIb0RxaK_X6bx-BmICjsjm-n8HO42Y24G4JwxKznaQW5QEKMMzncUv-Z4CvAsx9LMj1nf11X-x5ffIFl0N1qCRFNGuie_bgpHXzhZ-vhBlDevIjGwnF6PnhXfjFCqIkcaF3IJtkY5lrRSX1Q_6dwCUONqRMd1-zjAuLiGUqKKHz8kCcqzy5ivkOfuX0WrjW8p1Mm6TuMtOeFaYPEpNm4A6zziTt1ui9D1uBPy7QocEaUUu4vMSA3Z0sxwDQ6pGx3XpXszh6jYsNlFETr_WMWyKmgBac6cl7Dlxw9b_MokfYSnvmmZfp40B9ztQ3KEFCsshSwqPUPu7tKW8PEm-uKzPn6w9O0rS9OvOt9y03HOsbHXZRSEO_d6i1hy9ali5-IThJ5w5aOIePPNXjcggAIwRlecI3m74qSUnPWa1kwhxoDD4iEUypyv6ZNiXSNjPjt3W8reOnuYenOKde9tiTdodVcsps4bcmjkO51Fb2V8zKe28Ji9Kj2IMwpr1qXchLWLLo3OK1BMOHvIkV_0auXQtT2w-xledwfnGMWe2sPbNeBhcq442Jorcyoearj2q-SsKPLIn5DdIVRkfBjAZd36vrSrrIstJt0jSbRNOL1pszWstBpLQ3tY_wUHKfZh",
+          "title": "The Derma Co Sali-Cinamide Anti-Acne Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 184,
+           "rating_max": 5
+          },
+          "price": 515,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/4KcnI3icDcndCoIwGADQJ5oG9uOECCl_QpBqleZN6LRpMd32Tcseqvfpbercnu-n1lqAY5pVS9UodFUiXbSWwUDnuqEG7bgJdSdE07KVXP7PceMSB5RYgrhPnITpIYGhv5B3PyCIeVRkJToWsztRs0x5B91fjpQD829zX_jhRuXjFPNXItM5brq93WY2P2sIo2C4rkNyeuxoFLwTawIeFEiO-RYz1443C1VJdP4Bee4-uA"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "5Ap_aribEOSuwbkPnPWxiQo",
+            "product_id": "10173936914469462197",
+            "catalog_id": "10978270300704153057",
+            "gpcid": "1698391768576259531",
+            "headline_offer_docid": "12275304662716001035",
+            "image_docid": "13551610221220439279",
+            "rds": "PC_1698391768576259531|PROD_PC_1698391768576259531",
+            "query": "the+derma+co+2%25+salicylic+acid+serum",
+            "mid": "576462891253538126",
+            "pvt": "hg",
+            "uule": "w+CAIQICISQ2hoYXR0aXNnYXJoLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "4031854231016164204",
+          "merchants": "Nykaa Now + others",
+          "id_to_token_map": "7J5tkXicbVPLjqNWEI3mC7LIKqtWpGTTssS9vNPqhcG83AbM-7FBwMWAeRqwsa18Tc9DmixnIuVbehb5lpCsp6Ta1Kmqc6pK9c8PP75m5d_kuo_ioUwE3TrPSbVv9961NLrP_dChczqV6CukAUkyNMZQFGRpHOAk-JzGU1x3-YISGA4YkoA4wAAFKAJixJcii1Fdtpl-OGTDpktL9BcgSAqHSwoFAYYRJI0T1J9lE-fZ__hXGgMMQwMMMhRGYQxLY9j7AY1vcM9HkGAoclGBEzgGIcXiJP3H3tQ30fexj6dzNtzefpuK7BFlQxM_pt0j_BWSj2Ncl-lt8cd44Xwcs-HcfMz7__i_0-d9U6IvJE0RFGRYBoOLQMAA-n1_mV6L_MP5XGdvv8yP_FoxFF6xDFh0gW9isa-1gb_tdkJ9DqW6eM3r17J9LerXrP3Uxf3lkH5795PQzRt-nHnD6Xt3Y2KWz81ZM9Wp6zoO6B3UmpbqunIqiWVWsxCJCo5qVnZLoKdS0QbHYtIatknw_uq5YuxJLrbzQj70tqR91HpTIAX7iHhPGm9LbNz5KEya685sWMtwNEm168L1Jj12gJxiSDAa8rjUXGO5xuN6yxsNqyCgmUgwgelzvoEVc-wWquqZh8BGnVnVRQhSkDTFlIkCbjfmxcXAEB9zgNwtF2LbJpNyoAvbY-r1ctiI5yWXy6RpSLyaQ3eOTNrQT6QQc6A5WaIya43re62oogbpYaVdVA_d0za8Z7IwuV5h2q4ILKm-ZQIzh0eFiCvyZHnsLoVmrG40MnCEWXfCreWZpOdNZ92rTyoPXhxHIAzf3ac3cFeP4dYRxBe3mjQDr7l4g07aPcRjWSzU1r3ptllaPqoTB21dxxyX_eMGQKracrMqCjfHYWV9U-ue5Fji3eVSkS3Spi5Nh7WRj8oYcGdHRETsihep3HKmrN10L3SQrGLBnROSartTq761BW107mFryVoTSjNhg5D7cB2Hwxu2FsnJ0onWyeCOHzLVw04psRKCHaR60SLE3vgd0Ay1PAtNUiROfEq7riqzb-9-toS1ycuRtVYFS7GFZz43lCslcE8Pa4F_Xi8TCfHlYGvhvPW5MjC44YrO3mZbDAUuVmfJiVozX464GqwD09wTGOYXn4uk9dNDFFlZeh6ylWWb--f1InqOoYKYKg436OhWLOkum50xV6Et6tjuNpZ1OezYbLPCDhYQ891ZILgabXCiv3hJbAYHpjBntQ9ynkzPIts6hzIUJFb2UH2i7Igsnh427jMRdYE7dnVDdNMoG9hNT6IDBCR7zYW12BHoZl6bAt5f1s56sacHTdk8kzj-rNANNR6mzN3uFcHy_J15mQMSXRyQ70z3CKHNXuggQPY060yNeZDFtoO5ngJhs6K4GJ2UCpdVNnQxyl0nPltkdIUfRe0SbKeTcdO59KXV-7FTx1CxX64hb61uokZUWY2SWrjhafBShIdsbHKb2EvcHRkDy5DLL0WknrdxcFph-eimdyFw8k4qDbzSe3I_wcsuMQ5BaEsdnC8eDaNTScFGXaljfpd8ximjkygKA3209Nay8pT2PXhlGsfhdqV21tdRe48imffHF3nS-pVcuVzfJMy_IHr2oA",
+          "title": "The Derma Co 2% Salicylic Acid Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.3,
+           "votes_count": 1700,
+           "rating_max": 5
+          },
+          "price": 237,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/EYAyT3icDclJDoIwAADAFyFuIJoYA6ikskjViHghUEppCmWrIr7K7_gbnet8P7kQdbeSZcxRO9QCp5JI-HhEOhELikaoKuUur-qacrJp1v9b6V66tNCpzdBNnfdcsR4XIz3GwNXIHQXbs2vuDQxmhKpaQSWzKdi88ZMhYIXjATFVJjdoRNbhGjqpgv2dfcZPaGdwQYAJ7kte7mGL46BIIAufkUL1V5m_e_Z-hdlMNPAHd5k_HA"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "5Ap_aribEOSuwbkPnPWxiQo",
+            "product_id": "2715587086629731351",
+            "catalog_id": "4031854231016164204",
+            "gpcid": "2486527134302269357",
+            "headline_offer_docid": "14563201662100457346",
+            "image_docid": "7018871028606089700",
+            "rds": "PC_2486527134302269357|PROD_PC_2486527134302269357",
+            "query": "the+derma+co+2%25+salicylic+acid+serum",
+            "mid": "576462898021881817",
+            "pvt": "hg",
+            "uule": "w+CAIQICISQ2hoYXR0aXNnYXJoLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "14920460929447083626",
+          "merchants": "The Deconstruct + others",
+          "id_to_token_map": "m50MqXicdZPLrqtWEoaTPEFeINJRSxltWWIBC0yO9oD7xTZ4cTVMLLwW5uJlw8aAbZSHifZJIqWH6Uj9LCeDfo4M42ScLqlGv1RffVLV_774-r2o_wvlbp8PR10TFzfotlvBmZkrSn_p-paMeKjJbwBCbskKIgOXkGMEyPAQ_oLzIadt-VfMSyzDC4zESjwvMktOYIVfqyIntL4U3vFY9FqLa_KfJbdcQpEXIWQZwPEss-T_XZ_zsvg7_lXkGB7wDCuKLIRLwEL2U0-un_mtugcCgBJ8InjICkvIA07ivt_6nrb_P-FPb2PRPz5_SwrcXq5D__R4Yb9l4cs1pzV-PPslfzJfrkU_nn8qO_yXxj_M-XSuyQ-fuml4r8ofx5EWn_91e1FlG9mqHSC2atOdz-Q795LunHat0zEzafVe0vf68l7R9-Lyc5t30xH__uUf-oRVtccqirou1nwmAC2DT_dtYmUwo8YtM7M0N1qYhLQmHIlRYzNhLClk9vswuZ8Dy6lS6qQukOfClLIN69S5iSBmyZCZ8drluksUkSDT3Dyl9pyEGLjnKk4jG653FdhYThok1I44507MynhurMUJEDazMW4SqScXesWaDWMdTG68AQezQqFGKtLo98RSmHT2lVCHLqI2W5w3bGHI_IE5DQfOX-GY0NwoZy-i9cEkT0YLi0tV58ChiX53Q0MCIYcgmSumsPy38ARuhKO6e4ZHFBphaCFQUAR9zlhFyf3umbHmAmUuEsmP4hgVF9LhBoPw0tVopreDlj4yQ-JCwwmJ1TX5yZ82sQJ8w7XWIX2LElqHDXqgpmo3s5JjkxpBNCACKi0NDYYYMlPorrY5AS-zyMa3jN2BUuTrUWDMsYINqSJmZvgaHsgcewcgs8GlvWFgZGbtKL7lPrwkC0NKqyx2VhFzt6Ow5DAlfXbqgH-yYUKrXXpylR_v1_74mZENOASeMClmI03rwffLYHUTdulc8aDXHRTI3wFxKYiAEaHAL9mfcdue6uL3r74JdNlXrX0gb_TADvVXtUT2XdCVjx9kXX2ViRPr-SQlj_U8LgLHOhHMwrVy6I8Wu5kqgLOMGR76nA0nj-NAWzrTaK3sDbh-_KDFr-2e3z5Ktelmu7l6fNWpq8k7np3zPdVlpW907tLxwDEWJZKf9fGDa2uvkONe8bwbE3X21HZA5V2bml198FbbclqR3L-UQSW1bPwWyVII6nmBPLbdaWuERbMsu0ULFFQkIsiR54p7DO5XghVBnDxW3G5qlCtzI5obUdEty2ut2PZasj7BvQHTJnPO1NZJbIDLuE_Q3d3zt_AcYepraAn2TsNtVn2t7YedBvZi-XysVSMNPrHn7XpM-25XmQsK9UWU3jo67Y9qeC6P5XZdquNBZQ0fXuZFINVzmMHlfXVolDb1SYg1bbe4Ko65UycSNc7zaOTpZB_7t3M7jxdmCETVUz9-2O-DAo99sQhCf_squ-fslnNoIbsNsSYcNALZbhGWO309CvpTxAY3bbQd_XTPIrxzgrkMH4W-PbJXrPqnvkzmjrP73QF156MwmqLIBYFUiJF75DkvhehPyZPqdA",
+          "title": "Deconstruct Anti-Acne Clearing Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 595,
+           "rating_max": 5
+          },
+          "price": 524,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/PVmiXnicDclLDoIwFADAEwmKkV9iDNRIUAKiAmspUIvYB20l0FN5HW-js53v5yFlL1xdrxnmcy_raiFLttSIkHdJsYbhpYsH9D1lZDds_-d6ceUE-DZ3LU9Hfn4V11U1wNPwfZsuTsgx945zyhAqbN-gG5BgHw5BDUQRwKRJi5Rn0UYlOCZ8qtP5iN7CzIeQ2QkEloq6sZvmcrBUEofrXEUtu99KdZF5A4Ii7wfBdkAh"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "5Ap_atfED7-w5NoP6Jz0sQY",
+            "product_id": "15538267058530650455",
+            "catalog_id": "14920460929447083626",
+            "gpcid": "16159546045268541393",
+            "headline_offer_docid": "8388574755201342084",
+            "image_docid": "730414027725581252",
+            "rds": "PC_16159546045268541393|PROD_PC_16159546045268541393",
+            "query": "deconstruct+2%25+salicylic+acid+serum",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICISQ2hoYXR0aXNnYXJoLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n**🥇 Minimalist 2% Salicylic Acid** — meri first choice. Current listings mein ~₹500–550 ke aas-paas hai, aur 2% salicylic acid acne/blackheads/oil control ke liye targeted hai. [www.nykaa.com](https://www.nykaa.com/dp/serum-for-open-pores?utm_source=chatgpt.com)\n\n**🥈 The Derma Co Sali-Cinamide** — agar acne ke saath **acne marks + oily skin** bhi hai, ye interesting option hai: **2% salicylic acid + 5% niacinamide**, around ₹527 on Tira. [www.tirabeauty.com](https://www.tirabeauty.com/collection/serum-for-oily-skin?super-ingredients=Niacinamide&utm_source=chatgpt.com)\n\n**🥉 Deconstruct Anti-Acne Clearing Serum** — agar skin thodi sensitive hai aur aap relatively gentler acne-focused option dekh rahe ho, consider kar sakte ho.\n\n### Kaise use karna hai\n- Raat mein **2–3 drops**, initially **week mein 2–3 baar**.\n- Uske baad moisturizer.\n- Din mein **SPF 30+ sunscreen**.\n- Ek hi routine mein salicylic acid ke saath retinol/AHA-BHA peel jaise strong actives mat milao.\n- Irritation, burning ya excessive dryness ho to stop/reduce frequency.\n\n**Agar tum mujhe bata do ki tumhari skin oily, dry ya combination hai aur acne kis type ka hai (chhote pimples / pus wale / blackheads / acne marks), toh main ₹700 ke andar ekdum exact serum choose karke bata dunga.**",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Serum For Open Pores Online At Discounted Prices From Top Brands",
+          "snippet": null,
+          "domain": "www.nykaa.com",
+          "url": "https://www.nykaa.com/dp/serum-for-open-pores?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Nykaa",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Serum For Oily Skin Online at Best Prices in India on Tira Website & App",
+          "snippet": null,
+          "domain": "www.tirabeauty.com",
+          "url": "https://www.tirabeauty.com/collection/serum-for-oily-skin?super-ingredients=Niacinamide&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Tira",
+          "publication_date": "2026-07-28 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

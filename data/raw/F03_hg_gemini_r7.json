@@ -1,0 +1,168 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F03",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 7,
+  "promptText": "India mein women ke liye online konse brand ke kurta sets kharidun?",
+  "cellId": "F03_hg_gemini_r7",
+  "startedAt": "2026-08-14T13:06:52.541Z",
+  "finishedAt": "2026-08-14T13:07:12.743Z",
+  "durationMs": 20202,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein women ke liye online kurta sets kharidne ke liye bohot saare great brands available hain, jo alag-alag budgets aur styles (daily wear, office wear, aur festive wear) ke hisaab se best hain.\n\nYahan top online brands ki list di gayi hai:\n\n---\n\n### 1. Daily Wear & Office Wear (Comfortable & Affordable)\n\n* **Libas:** Everyday wear ke liye yeh sabse popular brands mein se ek hai. Inke paas cotton kurtas, straight sets, aur fusion wear ka bohot accha collection milta hai. (Aap inki apni website, Myntra, aur Ajio par check kar sakte hain).\n* **Aurelia:** Elegant aur contemporary designs ke liye known hai. Yeh office aur college wear ke liye perfect hain, jo cotton aur lightweight fabrics mein aate hain.\n* **W for Woman:** Ek premium everyday brand hai jo modern cuts aur traditional prints ko mix karke stylish kurta sets banata hai.\n* **Rangriti:** Agar aapko vibrant colors aur budget-friendly options chahiye, toh Rangriti ek acha choice hai.\n\n---\n\n### 2. Festive & Wedding Wear (Ethnic & Premium)\n\n* **Biba:** Traditional aur festive occasions ke liye Biba sabse trusted brands mein se ek hai. Inke anarkalis aur embroidered kurta sets weddings ya festivals ke liye perfect hote hain.\n* **Global Desi:** Agar aapko Indo-western ya bohemian style pasand hai, toh yeh brand vibrant prints aur unique designs offer karta hai.\n* **Indya:** Modern, trendy, aur fusion festive wear ke liye Indya ek great option hai, jo young girls ke beech kafi popular hai.\n\n---\n\n### 3. D2C & Artisan Brands (Handcrafted & Unique)\n\n* **Jaypore:** Agar aapko handloom, block prints, ya traditional Indian crafts (jaise Chikankari ya Ajrakh) pasand hain, toh Jaypore par unique collection milta hai.\n* **House of Chikankari:** Lucknowi Chikankari work ke liye yeh ek bohot hi acha aur trendy brand hai.\n\n---\n\n### Kahan se kharidein? (Best Shopping Apps/Sites)\n\nAap in brands ko in platforms par easily find kar sakte hain:\n\n* **Myntra & Ajio:** Best discounts aur huge variety ke liye.\n* **Amazon & Flipkart:** Fast delivery aur easy returns ke liye.\n* **Brand Apps (Libas, Biba, W):** Kai baar inki official apps par exclusive sales aur discounts milte hain.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "19.0872 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141306-2163-0629-0000-2ff6e6df8406",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "14.5466 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "India mein women ke liye online konse brand ke kurta sets kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein women ke liye online konse brand ke kurta sets kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:07:09 +00:00",
+      "markdown": "India mein women ke liye online kurta sets kharidne ke liye bohot saare great brands available hain, jo alag-alag budgets aur styles (daily wear, office wear, aur festive wear) ke hisaab se best hain.\n\nYahan top online brands ki list di gayi hai:\n\n---\n\n### 1. Daily Wear & Office Wear (Comfortable & Affordable)\n\n* **Libas:** Everyday wear ke liye yeh sabse popular brands mein se ek hai. Inke paas cotton kurtas, straight sets, aur fusion wear ka bohot accha collection milta hai. (Aap inki apni website, Myntra, aur Ajio par check kar sakte hain).\n* **Aurelia:** Elegant aur contemporary designs ke liye known hai. Yeh office aur college wear ke liye perfect hain, jo cotton aur lightweight fabrics mein aate hain.\n* **W for Woman:** Ek premium everyday brand hai jo modern cuts aur traditional prints ko mix karke stylish kurta sets banata hai.\n* **Rangriti:** Agar aapko vibrant colors aur budget-friendly options chahiye, toh Rangriti ek acha choice hai.\n\n---\n\n### 2. Festive & Wedding Wear (Ethnic & Premium)\n\n* **Biba:** Traditional aur festive occasions ke liye Biba sabse trusted brands mein se ek hai. Inke anarkalis aur embroidered kurta sets weddings ya festivals ke liye perfect hote hain.\n* **Global Desi:** Agar aapko Indo-western ya bohemian style pasand hai, toh yeh brand vibrant prints aur unique designs offer karta hai.\n* **Indya:** Modern, trendy, aur fusion festive wear ke liye Indya ek great option hai, jo young girls ke beech kafi popular hai.\n\n---\n\n### 3. D2C & Artisan Brands (Handcrafted & Unique)\n\n* **Jaypore:** Agar aapko handloom, block prints, ya traditional Indian crafts (jaise Chikankari ya Ajrakh) pasand hain, toh Jaypore par unique collection milta hai.\n* **House of Chikankari:** Lucknowi Chikankari work ke liye yeh ek bohot hi acha aur trendy brand hai.\n\n---\n\n### Kahan se kharidein? (Best Shopping Apps/Sites)\n\nAap in brands ko in platforms par easily find kar sakte hain:\n\n* **Myntra & Ajio:** Best discounts aur huge variety ke liye.\n* **Amazon & Flipkart:** Fast delivery aur easy returns ke liye.\n* **Brand Apps (Libas, Biba, W):** Kai baar inki official apps par exclusive sales aur discounts milte hain.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 11,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein women ke liye online kurta sets kharidne ke liye bohot saare great brands available hain, jo alag-alag budgets aur styles (daily wear, office wear, aur festive wear) ke hisaab se best hain.",
+        "original_text": "India mein women ke liye online kurta sets kharidne ke liye bohot saare great brands available hain, jo alag-alag budgets aur styles (daily wear, office wear, aur festive wear) ke hisaab se best hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Yahan top online brands ki list di gayi hai:",
+        "original_text": "Yahan top online brands ki list di gayi hai:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### 1. Daily Wear & Office Wear (Comfortable & Affordable)",
+        "original_text": "1. Daily Wear & Office Wear (Comfortable & Affordable)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Libas:** Everyday wear ke liye yeh sabse popular brands mein se ek hai. Inke paas cotton kurtas, straight sets, aur fusion wear ka bohot accha collection milta hai. (Aap inki apni website, Myntra, aur Ajio par check kar sakte hain).\n* **Aurelia:** Elegant aur contemporary designs ke liye known hai. Yeh office aur college wear ke liye perfect hain, jo cotton aur lightweight fabrics mein aate hain.\n* **W for Woman:** Ek premium everyday brand hai jo modern cuts aur traditional prints ko mix karke stylish kurta sets banata hai.\n* **Rangriti:** Agar aapko vibrant colors aur budget-friendly options chahiye, toh Rangriti ek acha choice hai.",
+        "original_text": "Libas: Everyday wear ke liye yeh sabse popular brands mein se ek hai. Inke paas cotton kurtas, straight sets, aur fusion wear ka bohot accha collection milta hai. (Aap inki apni website, Myntra, aur Ajio par check kar sakte hain).\nAurelia: Elegant aur contemporary designs ke liye known hai. Yeh office aur college wear ke liye perfect hain, jo cotton aur lightweight fabrics mein aate hain.\nW for Woman: Ek premium everyday brand hai jo modern cuts aur traditional prints ko mix karke stylish kurta sets banata hai.\nRangriti: Agar aapko vibrant colors aur budget-friendly options chahiye, toh Rangriti ek acha choice hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. Festive & Wedding Wear (Ethnic & Premium)",
+        "original_text": "2. Festive & Wedding Wear (Ethnic & Premium)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Biba:** Traditional aur festive occasions ke liye Biba sabse trusted brands mein se ek hai. Inke anarkalis aur embroidered kurta sets weddings ya festivals ke liye perfect hote hain.\n* **Global Desi:** Agar aapko Indo-western ya bohemian style pasand hai, toh yeh brand vibrant prints aur unique designs offer karta hai.\n* **Indya:** Modern, trendy, aur fusion festive wear ke liye Indya ek great option hai, jo young girls ke beech kafi popular hai.",
+        "original_text": "Biba: Traditional aur festive occasions ke liye Biba sabse trusted brands mein se ek hai. Inke anarkalis aur embroidered kurta sets weddings ya festivals ke liye perfect hote hain.\nGlobal Desi: Agar aapko Indo-western ya bohemian style pasand hai, toh yeh brand vibrant prints aur unique designs offer karta hai.\nIndya: Modern, trendy, aur fusion festive wear ke liye Indya ek great option hai, jo young girls ke beech kafi popular hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "### 3. D2C & Artisan Brands (Handcrafted & Unique)",
+        "original_text": "3. D2C & Artisan Brands (Handcrafted & Unique)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Jaypore:** Agar aapko handloom, block prints, ya traditional Indian crafts (jaise Chikankari ya Ajrakh) pasand hain, toh Jaypore par unique collection milta hai.\n* **House of Chikankari:** Lucknowi Chikankari work ke liye yeh ek bohot hi acha aur trendy brand hai.",
+        "original_text": "Jaypore: Agar aapko handloom, block prints, ya traditional Indian crafts (jaise Chikankari ya Ajrakh) pasand hain, toh Jaypore par unique collection milta hai.\nHouse of Chikankari: Lucknowi Chikankari work ke liye yeh ek bohot hi acha aur trendy brand hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### Kahan se kharidein? (Best Shopping Apps/Sites)",
+        "original_text": "Kahan se kharidein? (Best Shopping Apps/Sites)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "Aap in brands ko in platforms par easily find kar sakte hain:",
+        "original_text": "Aap in brands ko in platforms par easily find kar sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "* **Myntra & Ajio:** Best discounts aur huge variety ke liye.\n* **Amazon & Flipkart:** Fast delivery aur easy returns ke liye.\n* **Brand Apps (Libas, Biba, W):** Kai baar inki official apps par exclusive sales aur discounts milte hain.",
+        "original_text": "Myntra & Ajio: Best discounts aur huge variety ke liye.\nAmazon & Flipkart: Fast delivery aur easy returns ke liye.\nBrand Apps (Libas, Biba, W): Kai baar inki official apps par exclusive sales aur discounts milte hain.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

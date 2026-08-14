@@ -1,0 +1,480 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 5,
+  "promptText": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+  "cellId": "S02_en_chatgpt_r5",
+  "startedAt": "2026-08-14T12:42:50.614Z",
+  "finishedAt": "2026-08-14T12:43:16.167Z",
+  "durationMs": 25553,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Yes — for Indian skin tones, I’d prioritize a **SPF 50+ / PA++++ sunscreen with modern chemical or tinted filters**, rather than a traditional mineral sunscreen, because it’s much less likely to look grey/ashy. [www.drsheths.com](https://www.drsheths.com/blogs/skin-care/sunscreens-that-dont-leave-a-white-cast-for-indian-skin?utm_source=chatgpt.com)\n\n### 🥇 My best overall pick: Re'equil Ultra Matte Dry Touch SPF 50\n\n### [Re'equil Sunscreen SPF 50 PA++++ Ultra Matte Dry Touch Gel]()\n*₹310.50*\n\n**Why I’d pick it:**  \n- Very good choice for **Indian heat and humidity**\n- Matte, non-greasy finish\n- Generally blends without an obvious white cast\n- Particularly good for **oily/combination skin** [www.nykaa.com](https://www.nykaa.com/beauty-blog/ultimate-guide-choosing-sunscreen-for-indian-skin?utm_source=chatgpt.com)\n\n### Other good choices\n\n### [Minimalist Light Fluid Face Sunscreen SPF 50]()\n*₹315*\n\n### [Dot & Key Watermelon Cooling Sunscreen SPF 50+ PA++++]()\n*₹400*\n\n### [The Derma Co 1% Hyaluronic Tinted Sunscreen Gel]()\n*₹496*\n\n### [Fixderma Shadow Tinted Sunscreen]()\n*₹297*\n\n- **Minimalist Light Fluid SPF 50** — best if you want a very lightweight, fluid texture.\n- **Dot & Key Watermelon SPF 50+** — better if you prefer a hydrating, dewy feel; the brand specifically describes it as zero-white-cast. [www.dotandkey.com](https://www.dotandkey.com/collections/sunscreen?utm_source=chatgpt.com)\n- **The Derma Co tinted sunscreen** — great if you're particularly worried about any visible cast because the tint helps it blend into skin.\n- **Fixderma Shadow Tinted** — another good tinted option.\n\n**If you tell me your skin type (oily/dry/combination) and roughly your skin tone (fair/medium/wheatish/deep), I can narrow it down to the single best one for you.**",
+  "citations": [
+   {
+    "url": "https://www.drsheths.com/blogs/skin-care/sunscreens-that-dont-leave-a-white-cast-for-indian-skin?utm_source=chatgpt.com",
+    "source_name": "Dr Sheth's",
+    "position": 1
+   },
+   {
+    "url": "https://www.nykaa.com/beauty-blog/ultimate-guide-choosing-sunscreen-for-indian-skin?utm_source=chatgpt.com",
+    "source_name": "Nykaa",
+    "position": 2
+   },
+   {
+    "url": "https://www.dotandkey.com/collections/sunscreen?utm_source=chatgpt.com",
+    "source_name": "Dot & Key",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "25.3019 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141242-2163-0629-0000-4ccd8a583ef7",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "25.2064 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=I%20want%20to%20buy%20a%20sunscreen%20that%20doesn%27t%20leave%20a%20white%20cast%20on%20Indian%20skin.%20Which%20one%20is%20best%3F&hints=search",
+      "datetime": "2026-08-14 12:43:15 +00:00",
+      "markdown": "Yes — for Indian skin tones, I’d prioritize a **SPF 50+ / PA++++ sunscreen with modern chemical or tinted filters**, rather than a traditional mineral sunscreen, because it’s much less likely to look grey/ashy. [www.drsheths.com](https://www.drsheths.com/blogs/skin-care/sunscreens-that-dont-leave-a-white-cast-for-indian-skin?utm_source=chatgpt.com)\n\n### 🥇 My best overall pick: Re'equil Ultra Matte Dry Touch SPF 50\n\n### [Re'equil Sunscreen SPF 50 PA++++ Ultra Matte Dry Touch Gel]()\n*₹310.50*\n\n**Why I’d pick it:**  \n- Very good choice for **Indian heat and humidity**\n- Matte, non-greasy finish\n- Generally blends without an obvious white cast\n- Particularly good for **oily/combination skin** [www.nykaa.com](https://www.nykaa.com/beauty-blog/ultimate-guide-choosing-sunscreen-for-indian-skin?utm_source=chatgpt.com)\n\n### Other good choices\n\n### [Minimalist Light Fluid Face Sunscreen SPF 50]()\n*₹315*\n\n### [Dot & Key Watermelon Cooling Sunscreen SPF 50+ PA++++]()\n*₹400*\n\n### [The Derma Co 1% Hyaluronic Tinted Sunscreen Gel]()\n*₹496*\n\n### [Fixderma Shadow Tinted Sunscreen]()\n*₹297*\n\n- **Minimalist Light Fluid SPF 50** — best if you want a very lightweight, fluid texture.\n- **Dot & Key Watermelon SPF 50+** — better if you prefer a hydrating, dewy feel; the brand specifically describes it as zero-white-cast. [www.dotandkey.com](https://www.dotandkey.com/collections/sunscreen?utm_source=chatgpt.com)\n- **The Derma Co tinted sunscreen** — great if you're particularly worried about any visible cast because the tint helps it blend into skin.\n- **Fixderma Shadow Tinted** — another good tinted option.\n\n**If you tell me your skin type (oily/dry/combination) and roughly your skin tone (fair/medium/wheatish/deep), I can narrow it down to the single best one for you.**",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-sunscreens-in-india?utm_source=chatgpt.com",
+        "domain": "www.dotandkey.com",
+        "title": "Dermatologist-Recommended Sunscreens in India (2026)",
+        "description": "TOP DERMATOLOGIST-RECOMMENDED SUNSCREENS IN INDIA  When we cross-reference the latest dermatological guidelines with the formulations available in the Indian market, products that score highest on all...",
+        "breadcrumb": "dotandkey.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html/?utm_source=chatgpt.com",
+        "domain": "www.hindustantimes.com",
+        "title": "These 7 sunscreens without white cast work for Indian skin and summers | Fashion Trends",
+        "description": "THESE 7 SUNSCREENS WITHOUT WHITE CAST WORK FOR INDIAN SKIN AND SUMMERS  By Shweta Pandey  Published on: Jul 10, 2026 09:00 am IST  Read this news in brief form  [Input]  Share Via  Copy Link  IF YOU...",
+        "breadcrumb": "hindustantimes.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://glowdekho.com/blog-best-sunscreen-no-white-cast.html?utm_source=chatgpt.com",
+        "domain": "glowdekho.com",
+        "title": "Best Sunscreen for Indian Skin — No White Cast Under ₹500 (2026) | GlowDekho",
+        "description": "BEST SUNSCREEN FOR INDIAN SKIN — No White Cast, Under ₹500  📅 April 2026⏱ 6 min read🎯 Tested for Indian skin tones  The white cast problem is real — but it's also completely solved. Old-generation mi...",
+        "breadcrumb": "glowdekho.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.reequil.com/products/oxybenzone-free-sunscreen-spf-50-for-oily-acne-prone-skin?utm_source=chatgpt.com",
+        "domain": "www.reequil.com",
+        "title": "Buy Re'equil Oxybenzone Free Sunscreen SPF 50 for Oily Skin",
+        "description": "OXYBENZONE & OMC FREE SUNSCREEN  Oxybenzone & OMC Free Sunscreen  4.5   1817 Reviews  * No harmful filters * Lightweight, lotion texture * For oily, acne prone skin  ₹355.50  ₹355.50 ~~ ₹395.00 ~~  (...",
+        "breadcrumb": "reequil.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.reequil.com/collections/skin-care/products/oxybenzone-free-sunscreen-spf-50-for-oily-acne-prone-skin?utm_source=chatgpt.com",
+        "domain": "www.reequil.com",
+        "title": "Buy Re'equil Oxybenzone Free Sunscreen SPF 50 for Oily Skin",
+        "description": "OXYBENZONE & OMC FREE SUNSCREEN  * No harmful filters * Lightweight, lotion texture * For oily, acne prone skin  OXYBENZONE & OMC FREE SUNSCREEN  * No harmful filters * Lightweight, lotion texture *...",
+        "breadcrumb": "reequil.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ndtvshopping.com/beauty-and-grooming/best-spfs-that-wont-leave-a-white-cast-or-feel-sticky-in-humidity-11679621?utm_source=chatgpt.com",
+        "domain": "www.ndtvshopping.com",
+        "title": "Best SPFs That Will Not Leave A White Cast Or Feel Sticky In Humidity - NDTV Shopping",
+        "description": "5 BEST SPFS UNDER ₹500 THAT WON'T LEAVE A WHITE CAST OR FEEL STICKY IN HUMIDITY  LOOKING FOR A SUNSCREEN THAT FEELS WEIGHTLESS IN HUMID WEATHER? THESE SPFS OFFER BROAD-SPECTRUM PROTECTION WITHOUT LEA...",
+        "breadcrumb": "ndtvshopping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://sahipick.com/skincare/best-sunscreens-india-2026/?utm_source=chatgpt.com",
+        "domain": "sahipick.com",
+        "title": "Best sunscreens in India (no white cast) 2026 · SahiPick",
+        "description": "BEST SUNSCREENS IN INDIA (NO WHITE CAST) 2026  Updated 31 July 2026 · 5 picks · India-focused  * ✓CDSCO-licensed brands * ✓Active % verified * ✓Patch-test guidance * ✓Pregnancy-safe filters INCLUDES...",
+        "breadcrumb": "sahipick.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://sskin.care/blog/reequil-sunscreen-decoded?utm_source=chatgpt.com",
+        "domain": "sskin.care",
+        "title": "Re'equil Ultra Matte Sunscreen: The UV Filter System Nobody Talks About — sskin.care/",
+        "description": "RE'EQUIL ULTRA MATTE SUNSCREEN: THE UV FILTER SYSTEM NOBODY TALKS ABOUT  6 UV filters. The broadest spectrum coverage of any Indian sunscreen under ₹600. We decoded every filter, compared it to Minim...",
+        "breadcrumb": "sskin.care"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://sskin.care/blog/dot-and-key-sunscreen-honest-review/?utm_source=chatgpt.com",
+        "domain": "sskin.care",
+        "title": "Dot & Key Sunscreen Review: We Tested All 3 Variants So You Don't Have To — sskin.care/",
+        "description": "DOT & KEY SUNSCREEN REVIEW: WE TESTED ALL 3 VARIANTS SO YOU DON'T HAVE TO  Dot & Key has 5 different sunscreens. Which one should you actually buy? We tested three of them, decoded the UV filters, an...",
+        "breadcrumb": "sskin.care"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Sunscreens That Don't Leave a White Cast for Indian Skin – Dr Sheth's",
+        "snippet": null,
+        "domain": "www.drsheths.com",
+        "url": "https://www.drsheths.com/blogs/skin-care/sunscreens-that-dont-leave-a-white-cast-for-indian-skin?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Dr Sheth's",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "The Ultimate Sunscreen Guide for Every Indian Skin Type (2026 Edition) | Nykaa's Beauty Book",
+        "snippet": null,
+        "domain": "www.nykaa.com",
+        "url": "https://www.nykaa.com/beauty-blog/ultimate-guide-choosing-sunscreen-for-indian-skin?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Nykaa",
+        "publication_date": "2026-05-05 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Best Sunscreen for Face Online in August 2026",
+        "snippet": null,
+        "domain": "www.dotandkey.com",
+        "url": "https://www.dotandkey.com/collections/sunscreen?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Dot & Key",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best sunscreen no white cast Indian skin Re'equil Minimalist Dot & Key 2026 India"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 5,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Yes — for Indian skin tones, I’d prioritize a **SPF 50+ / PA++++ sunscreen with modern chemical or tinted filters**, rather than a traditional mineral sunscreen, because it’s much less likely to look grey/ashy. [www.drsheths.com](https://www.drsheths.com/blogs/skin-care/sunscreens-that-dont-leave-a-white-cast-for-indian-skin?utm_source=chatgpt.com)\n\n### 🥇 My best overall pick: Re'equil Ultra Matte Dry Touch SPF 50\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Sunscreens That Don't Leave a White Cast for Indian Skin – Dr Sheth's",
+          "snippet": null,
+          "domain": "www.drsheths.com",
+          "url": "https://www.drsheths.com/blogs/skin-care/sunscreens-that-dont-leave-a-white-cast-for-indian-skin?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Dr Sheth's",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "17555507136503342576",
+          "merchants": "Re'equil + others",
+          "id_to_token_map": "57HdWnicbVLLrqtWEo3yBRn0pGd3kEz6yBJ78zK5OgPMwxgbMK8N7ImFeRjM5mEMx4D6a85NIqWH97bU33IzyLe0k2lSkyXVKlWtWlW_f_Pde1b-D9ngFI9Woq4OEWu2x_nGvd3sx69d36ZjMpTpF5qhKI5iAcdTgAFPgOyvSTzEpL2U6X8Bzz6D4gHNsRRNM5Dluc9FFqekbDIrz7NebpM_6ih-vYY0JzzbPYEXGIb5T1nHl-xP_osg8NRaYCieZzgOcNya5z_16f0rdZROUFhDCHme4xnArzlqzfz76Fjy6W-pn29j1s9f_9VnP0A-u40leRnJ0McvdTwM2Uvazy9DOybFy31s7kmfZc3Pl-6p4PNfW32qn-nnPgwHnx5ATuDBUx7zqXsb3ovLT-NIsq_fP14kcWfvpJ2HQoeKwt3F1_QCb9ESS5N-rp0ust8v5L1s3gvynjW_tHH3lie_ffsPpX3I0v0h2X7XIdmh3CsGTrWb3cUHKe28ebLJYpVA08OOi0zkXyvW3HYYN87B0VTXCje63egwuRLKDYnl1hHzzEVZaMOIThUbOANCyuArA0ay2sYzqNztRGeNY3kBdv2tAxKf0PbVqbLGBmg7zKnPanjrDyYUuBgWXVKlHa67GyZoNGtyMzTiZGoXWYpzNBZcI4mi0VXHBizMlCauSQ17VJkaJtEjDjf2GRSRN4PFpJB71tTrc6ZshIXrL2lswo42F1WOSpAfwhb4dMqdZUL7yOFCiCekIMrcYjqoDCqtAYdAWsSBAqytYzolYM6NwURhQQINNSHASyCTCSvDkgUFtpHCptqmSeUEJnTqm-plCLa4cJHjecpUurR5xbJzNWZw90C6x1XL2CVozMCckyvSTJlUjloYZ9AFPnmeMNyMrmrKgWLuMpTSOCA99iNXBdgxkFCkvnB9ajICD1lnsGETD8MEqfS21DeOZs7W0-8YgsqHhPJUAQfVZBse8U2CaztAbaDaM1pU56fp3udfKVFlB9fin5YY-ztsKv-e82vYHMJ5NcCsnUXxxz9-lAeAXgNWEH5J2rYqs9--_aeriI6knVzRUNydp7xKF3s3ccrm4wdRkV7FVEdKPCKbH1iFSW4H7XGEaBUWQh5co9LRqyLf18sZTlKs41wttK2kSJP6sO4fP8jo1Z53eqydc96PurtmU7N1PuUQ4PueUUS1ZdLZmeoCLjfREJ_x8cPp5GbJ2Gcr13OOr6JZ40dMO34_m4KcQ_WxKt_44m131gl_2dyX2006pwFXSovRGL19n0mL7rW5CnWpDQuekUSCLmrnXTVxb9n6NZw4JkESEPcbSSf3xv74wdzJryxNv6JTuANSAo9hN01GdKLk0yQuNx_gfuAHTavJUqs0WaJEy5Usgh1lNfsL3dCWnuR6nTCam3GhP0Z3f3USH1oYtbUpaSsFr_1rT_LysAwt50eMsDfE7BEd9xJxYL_X-EbOSmHkmuIh6AkAnRcEbVNMcqILSr09CJKVk80iC1F4So9YX12izSG-tgkNAWpKlrLSiiMD96aMwTyJRxGBbbCSSnE13aEtRjuq8sa96S9X_1z1lZe_bVzlcNnH28kNbmM45ZfRBtIBDg7LXFiYytZynJv_A-Ly9pI",
+          "title": "Re'equil Sunscreen SPF 50 PA++++ Ultra Matte Dry Touch Gel",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 410,
+           "rating_max": 5
+          },
+          "price": 310.5,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/HhhXdnicDclJDoIwAADAFwESgyCJMQhSBFsS8aBeCC1YUJYWyvobn-VvdK7z_eRCsM5UlKwm7cxElkoC16pMO5GIgsikqZQubxgrarrnu_-ZFkq3gETEDV00a9AbIgChevWt6e2FfJn6AOcx00oHjKvS6BwbFVOLyYHmGzyfT-sau_FIUQUaGFy44P1Ntx_qK9Q9axAwlZokW0AQ-0-aHfnd-AE0cjpl"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "VQ1_auOcF-LY5NoPyq6vqQw",
+            "product_id": "3400605167014116725",
+            "catalog_id": "17555507136503342576",
+            "gpcid": "298222776741786084",
+            "headline_offer_docid": "10788236934023679444",
+            "image_docid": "9970894077466166877",
+            "rds": "PC_298222776741786084|PROD_PC_298222776741786084",
+            "query": "re%27equil+ultra+matte+dry+touch+sunscreen",
+            "mid": "576462400269717744",
+            "pvt": "hg",
+            "uule": "w+CAIQICITVXR0YXIgUHJhZGVzaCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n**Why I’d pick it:**  \n- Very good choice for **Indian heat and humidity**\n- Matte, non-greasy finish\n- Generally blends without an obvious white cast\n- Particularly good for **oily/combination skin** [www.nykaa.com](https://www.nykaa.com/beauty-blog/ultimate-guide-choosing-sunscreen-for-indian-skin?utm_source=chatgpt.com)\n\n### Other good choices\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "The Ultimate Sunscreen Guide for Every Indian Skin Type (2026 Edition) | Nykaa's Beauty Book",
+          "snippet": null,
+          "domain": "www.nykaa.com",
+          "url": "https://www.nykaa.com/beauty-blog/ultimate-guide-choosing-sunscreen-for-indian-skin?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Nykaa",
+          "publication_date": "2026-05-05 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10913482140093209701",
+          "merchants": "Minimalist + others",
+          "id_to_token_map": "zKT6r3icbVPJrqNGFE3yBVln1Yvsnloqisnk6S0wpowHwEBRDBsLKMxUxhjjUfmY6PUgdZZJpKzyId2LfEeWIcq27-rqnnvP0Z3-_ub717z6kzjcNul6dX4O6_3a2QDLYHf19KnrD_ScDRX9XeZFSeZEUYZAlDlFGp1PWTIk7FBU9A8OKBwvTCAnAKDwECgy4H4r84Syqs3t3S7vZ4dsZIFA5nluMlEUaSLwsiwq8q_VPiny_2FZ4KUJgAKEYEwS4ajyrqenz3CjbUd1hecBnEBpAgVBGVN-3rj2bPt17MPxnPf3v_ZVO_Kz6jQ8saooh6cdO1f06dTtnkTwoej-U_1K9bt9RX95112G17J4fz6z_POP1ydNXTgLbYFJ6IIoXBS-sSzjOXkk2m2Z7t0ucl4L9lq1ryV7zduPh6S77LIv3_6jXzJN6zPN8buOzFzgQUVLg5sf-wdxjVmV4jh0UdfkBpp54bT0mdtZfCPGiCwwuMFEFw8JEHkcRnyMyj6rGcwe8SHh3CFFhMTNsPGxOhDoAwKVpcNPAw_eREsvp1lNmTlzTXNGhsCwjAypgmcQEDQWy_24N8nyHAeoTholCgIxSVFsUBDP8GyKMs5tXaOz_ba850a5x3O2TPYkiEMrIQ99SODAIlDuCUMnG6Nr0JY9fiAY-e7VN8Y-4OFOAxQ5zAc-mUpZs2T5fCFgzCCG5cqfU2GcA8TEDR1m7aLQnabI2vhAsVJf2RBdvGIQ12QeweRBics6EJCGjx_IjutpEj6YQwOiEUR5j5HYhVYSPayjp98iCi175DnnLcWxEfcBm9ytkDZm465THXnUZ4NNGi436NWC3RID3UNc7JpEKTNjOXV5EiV7zvSJesVNecp99JhXY9yw7nYQ-6MG9ILScjH18tAf51nendCC6-AEstAXSBi372-nfvcZqEgcPFvaxtpKKgpj2BfWcqowJxqoAatxzc5PnDwZj5DjJ5wkg4_Z4dBU-ZfvfthuvTw79_lbD7ubF9Xax9cEmlkLjti_LAJ9eux4e3VMGitzB081bSciHqdpg0HKoyAv7z5mp2OO_DpLcZkY5gIHFVquQZeeYL2wqRenDiTr28JfiIuV3vrPbzxddTVjO7Lp3gLrL1rhLG6SPn1-o-rai0qXRE-G2Rkbhx0Y1uNv1cEE11KJytK3me69dXbwrt-36-KuLt2zVUnqFRTB9fnNjLz497ITJY8K_ORyMhxwt9PtDvKimeq6io5m1OGOWr0uubo62vMbazF7EXn-hdBqPJWcl9dhIT0uZzKNDia8Hfd1rzA6SWbM4CRy1a81WlZNcVH6s54--qHmTr591jcCcbCC1MC7ML1a0YNSrKx0taq6aJ0uL6V1tdyhfTtjphXfVxOMs1rAbrsjsWJepkGDrn0tl7SkZrir8v2UBJ139R8KWsl9PGWCdmzM1ol79TDXZuK14w8kNTYSc43WHbRYdB-P6iQZrtwmF3nHqGQX1dU8z3gOGUhJJrPprmchQODOgbxuFq2gnNs-Pa3Mw8r01yliSk8RRvWD6nBlO_d_ARMe55Y",
+          "title": "Minimalist Light Fluid Face Sunscreen SPF 50",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 358,
+           "rating_max": 5
+          },
+          "price": 315,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/SiYWmnicDcnxDoFAHADgJzqRUG1m6WhxK5Fl_WO5Wpf06-oO1VN5HW_D9-_3_TApuTAVJQPa9lxmKZI3mIxyIRNZ0BGtK0WwmvMC8lWz_J9peanh0NDdIaHZJ4ZwWqmv6LYhDcyuvdMccai6YZwcSBwZ_LLN9mJNFuV6gInuaNSuvKoVxMcxUPWJtTkInRk5mhG_Zu_mXjxwENhzwEE67vRzVtZJWMJwtLr27k7zH12RPls"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "VQ1_aprAGuXjmLQP0NHlyAs",
+            "product_id": "7356715572057196572",
+            "catalog_id": "10913482140093209701",
+            "gpcid": "6719330282682449201",
+            "headline_offer_docid": "2073318899684377597",
+            "image_docid": "7436802422018852657",
+            "rds": "PC_6719330282682449201|PROD_PC_6719330282682449201",
+            "query": "minimalist+light+fluid+spf+50",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICITVXR0YXIgUHJhZGVzaCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "15959756051708670486",
+          "merchants": "Fabb6",
+          "id_to_token_map": "4S1j0HicdZLJjutUEIaBJ2DNqhcgFq2Wjn1y7JhWLxyPcWI7no6HTeQpseMxHhLH4mGu-g7SZQlIPEtfIZ6FwP7WolTSryrV9-v_55vvX9P8L3wk9mHPR3qwyU_MYgeVqKiM4-e2a5IxHvLkTwIxiKERBRBBgyVFg8WS-hyHQ1g2xzx593uWhkmZ16l-OKQd38RfWfktr8Jj-r_-ByIAAwlIAUhDgiQRsaDed0n_tthxe4KANLkgGAjuFxAiFxSkft2ZOr__ivjxPKbd7e3npBkefyKpxyK9PV7DIe2qtGzqx36s-7hL0_vUHh4R-Hhs7y-8e1_919rL8JodP4xjmb79eH3k2LWx5tY29kzge-ujIytZIOE55CYlqszWN16P5Wtev2bla1p_asL2coi_fPu3MK457rzmDKdtMW8Cq3Jg6qCTJiW56SVSWkxNJIoXA2au7SJsyxjGWAndYiq3dmYHdTbbrjDHhMjbfAkjdznrrphbtaYFQJhcMblg54hUQalVrIgGqTn4lOBQYtpwDrB_EntVYHpsi741l4MNkpOBGcWAJhUKJWE4AWl54k7lDWSD6eJYhG44wzmWepRWWh6fzLMjZoFji3JUKdi9s1pAU93SIGJY3ILSJC0xO6WnRA9ddOcLfM1FVVT1EyZEQecTX-cz3wTJKqgSG8u4wABlW0-U3UKz4lrrTD5wdLk1dEFRzKLU3arcuJJSWyRD6QKyNdFBmBc1u8ouqSTugrm8uJgdDDuRVSDeiUxszFp55-99fOfCiYrJwY7cAJtzhu6eLAI5tkQiuHvEZDEwc5tot6HbIE1kZ6tSugiLtZQrK1PWbrobOJajHcJSEUxnIm23v6WFAFSxXFiSAv3yeNVms_4w9d3hDbAiGiydHjok-sxlJSzIA5EBfmcxY-0AidCuvxD0Per3hC4hCZef4qYp8vTLdz_s91Yaj136ZNnm7oXVquAaQlIQF06pLrRZ3nndRbGrfr2zDWswcm7D2v20ibgmlqUjyA5KSzaprlI-d37K6HCOatlLRxfxG9IiVnPRloOFLXKTwULpl3XXPj9YAmty8t5iVcFa28ILdzTWEyWsnh9YgXthEwUL4SjBJbXXbiH0vDGXCy70vR3F54bU1nGl9YIg0ksmy2a1ZtFsBf2Tuls_P_D4pSAZUNGk56RO3csGuOnR_kASwXKzENhVd0qc2NsZSqasfPZezw_amn9BEL6sLjnlbgs5Hnymq7UrGn36Up-hYkfns807W5PkoXIe_BQrROWYHFCsJtQ960oPybCGkSOZbdR0IIdCMpMHDpVLH0p9qVMtsVD9fQ5O-WzmUaGkbaM1MU_ksaQB02BPfG7lW36m_PyML9eEPlHcQV-1PLNc9ZtKe9pNzo1FQ18JW6Kr9wDoHUNxktdntUSPhiIxMQfPdB5EjZ6xztUzZyVf5v7akyYzG821xJAJm85iybSbk7rxN7dpxHZNFdzNq6sOb-XD05a2oBQa42Gasq36L7vM11k",
+          "title": "Dot & Key Watermelon Cooling Sunscreen SPF 50+ PA++++",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 3800,
+           "rating_max": 5
+          },
+          "price": 400,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/McT_tHicDcndEkJAGADQJ4osTcNM0ygVpuS_4cbYxTLCar-Sl-p9eps6t-f7qQEY10Sx7MljZlAWC8A9EiiHHBoikKETeT0w1vR0O27-p-lOoZ5I2D7bkHGbuN4eWBVH6O3nU4dqs5R8PTHXKIiNhXSPFDxRBxlyPmEP07HM_GoV25bjpbBKoiW1boFnQy_PhwOJQjc5ujw2M3X3OstzquCxZbx6w0Vn1_SR_QAuNT5Y"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "Vg1_asDbOZKij94P3JbkmQg",
+            "product_id": "15959756051708670486",
+            "catalog_id": null,
+            "gpcid": null,
+            "headline_offer_docid": "15959756051708670486",
+            "image_docid": "5109313603731225146",
+            "rds": "PC_11372419309755524636|PROD_PC_11372419309755524636",
+            "query": "dot+%26+key+watermelon+sunscreen+spf+50",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICITVXR0YXIgUHJhZGVzaCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "8431652824665670443",
+          "merchants": "Nykaa + others",
+          "id_to_token_map": "0wBVW3icbZC5jqNYGIVH_QQTTDZJB5NZJXHZmVIFmNW4APsClyVBYDBgXxazFDaap6lepJ6wJ5hnqQ7mWcatTvsEf_Kd_-jo_PfLr6959S8qQJy0p8po_b6flF1Hn7hJNL90fZtNh7HK_mEEhgIsLXACKRAky_AM8eWQjAluizvl6TtkSJ6kWZZhOYKmqa9lnmS4anL7eMx7uT3cbSRzF8cB_u4RBIqjCO7vqk6K_AdmaIEFBEsBjiEFQWBJgfvQZ8MbuZNimmAFkiIYkqJJhgScAJi_dtCW45-zT5cp729vj8PUDIc-z5tV067mshrz1SEZxlXVZFXSrIZzdT_dccUQqyLHq7Fqxjz7QT8V3fdSPwn_UFfZV4ZjaZZkWACAQPOAIYQP3cv4WhYfpwnnb3_MK0nc7DfSxkUBJMJgU3i6UUYaWhLpaqQ17ML9a4Ffq-a1xK9587lNupfj4du735R2lqVhlvZe1yEZEs4Ze3mwGfdnGFgnTCVKuVg-qq3GWiMXtUhFjiMjJqwB4akdCghLzSpg2B68WTgbvKarMm3U0hPS0bkLIwUp5gIxdI0qUbMZKuoJnY3Oce-p5w6aPkaJbNQe2e0giUP3tKYcVdiZdelFJDKDZd0d3Kh3VRW4alTlMk6iIFoyf0wcIEhQN_TEDZmUyuj7Hw31COeqQu9da2PrRuJhw4UkASzUlb5S9q6nRiGFdTcwF5OwfB9bFdT40SJGKQBYshbcIpCtM8VqPRzevHNUQwInbn0FpoZOjupdXQ0xvtIRmY9Ii1JpS2FsqNDARcpo6VYTkQrj1JGTENjLANKTIIqQ3j2bOlRd0qTywLslqlWlBE3d977ZDvBM3I6JjKtMLjW3FjYRoe5dciS98_XogntvJbv4XrazZWsH5bJLFSZJTurkkryjgqgxkVCmZNc5tRAcGgNAtJ4traUyT7W0ylhD3brZfuSgMxz2lHfLGnVvBuU6IDtgovUQYqGDquFYdUd9vA798Y0QVWZ0bNqiOfYS5QV_2dYSe7Zn3y1wqDv8JP4JOJ7lAKB4iiCoz4e2PVf5t3e_O4oIJT12RFNxNq7yJBX7zZVV1o_vRUV6EjMDKcnkM8GL6S4vD1ZtLpy31uhFd3s2EIeCDW8HLMbswQyGSZipSdaqJj6J8-N7GT2duUmSIVdTaH8ZbLrspO2LfWwYMhUVcd2fFKrpaGCoD4X4XY_vrY38xFDU05a2ez5jmuteA4rmgRD49hyH27DYAZLXtXDKT_bzsr2ncif_qKfrxWAOt2QWOpfzOCcrYxiTL8baWNJTv9suTdsORhMR2loFgphOPC7SaH8tCPdg1eoz9qbYwTIcxBtL3kr30piq6Zye5Srbv9gYVERhlWO69S_0TB_BDZvnYdqgwlkn-mWzqx8su0MY-oUsmQo5weTBczuFcGJuu9jRoJdRqC2EXQdDSxOp8Owda97h1HJ7DUKg-sE-vHBxw1Ex9C-poRGbPOj2WeWk9rSBxWw_vo9jJz9Mff7guHD3JFp1NCeAldRz0JATL7UxQwxLbjKYktJ8d37mTkdcX-yWTHa3LdT9Y44miRaCRS5z91yHi9Mv4tWblU1rbOxZEl9OxvW5idiBlV17glH1P2CY_aU",
+          "title": "The Derma Co 1% Hyaluronic Tinted Sunscreen Gel",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 1200,
+           "rating_max": 5
+          },
+          "price": 496,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/Zn6oR3icDclJDoIwFADQEyEQiBESY1w0DDLVKcqGQIuAwQ-0HwVP5XW8jb7t-35qxF7aqloCE3OPJVewAH1RScyxYQvWPVRZd33fQLUZ1v-ztxG3HEZnI36K5N6QgERw9Qr-ziiXpDzCFKAr_IuzbH3Xkflt8nJflMwIa6ROYeqEImB4LMz2eQqGg5YwbVR0SM3zTrEyD0CGHcopnUcxEB4zz0ro2Fb78-q-ff0ABRRALg"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "Vg1_aojiJoWrruEPp4j7uAM",
+            "product_id": "5953164979290265850",
+            "catalog_id": "8431652824665670443",
+            "gpcid": "4069230523425217915",
+            "headline_offer_docid": "2555577185679937307",
+            "image_docid": "5496106317529996297",
+            "rds": "PC_4069230523425217915|PROD_PC_4069230523425217915",
+            "query": "sunscreen+no+white+cast+indian+skin+spf+50+gel+tinted+india",
+            "mid": "576462561119481509",
+            "pvt": "hg",
+            "uule": "w+CAIQICITVXR0YXIgUHJhZGVzaCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10985976139422720717",
+          "merchants": "Fixderma + others",
+          "id_to_token_map": "ao9QOnicbVO5ruNWEjX8BQ6cOenAmfCAy52chxdQXERSj6R4ycstES4XcV8kiqJE-Gtetw3YoWeA-ZZ2MN8yasyErqCCc04d1Cmg_vPdDx959W-_II54qCtjCC6XWTmMdM3Novn7eBmyOb1W2b8IhmZomiUEVmAJhiUBD7jfU3zF7VB8o4HAMwLHEpRAkyRHAo7g_ixznLVVn9unU36Rh_SbjmJ5lmQIkuN4liJpIDDkH1WHi_z_PKC5J8bxALAESQv8U_P5kk1fyYN0ZAHNPOdp9ok-DQiK4n85QFs-_j3363nOL4-vr9PcT-klz_tNP2yWsrrmmxRP103VZxXuN1NTPdt42jBgU-Tt5lr11zz7H_trMT63-uffmH_uquxPhmNpluR5XhAo_nkUhvo83q4fZfFlntv868_LRhJ1R5d0zw8hiEK9QJpRxjt_xdLdSDo4Rs5H0X5U_UfZfuT9bwMeb6f0r-9_VIZFlqZFctA4-jIEbpDFSDbmJIDY6cshBgSOOuHmAEvKOmbCHgIoVLHX6AwkRxgjGKdE2-cIMKai1kHfRk7TehhdPezFLKrA3ZRjKVViE5ER6VHRgvstxohoUpJRkawSXmCSuC5npKkO1jIJarHhrM0Vr-rVV2jCbxwmaUXCXy05Q5ZuaVA2A-hFiPGt2rJc0ifiPjNw7XfYM94TyvexEj3gDi6YLA-otoKkM7qkh9egG9fch3OmQiKoW9UPo3vSG41HlqoDdNoOfC3bGa1PjUuqWEyOBGCCZo1Ra8U7wXBaw8wI6-Ijo8r87RgHowSpWHkPGjJRhTteLQk1pY6DbEWdf_DqsrUUY5_6ggJrtTQVP4xJv8G1YTh9tse1dc9AVkWBwHhKGaOgjVxNARaCz1wtiAmDyr1nNt9gfdICedPakGzudqCvDlIWDBZXfaY3faFMyHF0OyFMe4OA_naxdgOVIdXaVcYWatbDDmLX1YyHSVlU3goqImHohWoZA0YzCUi6yGARee-_3KfL6SsQVebq2rRFc-w5zgv-vO8ktrGXwCvaSHP5WfwH8XwujiAongKA-i0dhqbK__r-J1cRoaQdXdFUXN1T3qTC0e-ssn39JCrSm5gZvoLngAlvprfeXqzOXDm03dGr5l3YUJwKNnqkrXhkUzOcZmGhZnlX9cdaXF4_yf5bw82SDLmO8p3zZNPlKO1v9qlnyERUxO2lVqh-pAlDfSnEb_X6ydLlN4ai3va0feEzpr87O0LZISIiAns5RvuoOBAkr-2iOa_t93X_dOXq4KQl29Vg0gdehNHjEOdm5REeyZuxNdakvhz2az8Mk9HHYLdVCUFMZr4tkti5F8BLrU59b9F8dFsZTuKDJR-ld-5N1XTrd7nKnJvdEhUorPKa7IMzvdAn4tGazTTrfuFusXbWD92LZY9-C4NClkyFnCF-Qd6oAPfI7Vc7nrQyjnYrsLtwGmiQCO_o1PEup5b7exgRahA60Zk79hx1hME5MXZAz8PRySo3sWcdFov9-ul4dPN0vuQvrgcPb6LVxQsmWEltwp6ceWk4MmBac5NpKSnJD807V5_a7mwPJD489lALTrk_S7QQrnKZe00Xre5lFe9oUfTB0O1FEm-1cX_vY3ZiZc-eYVz9F-kL_fk",
+          "title": "Fixderma Shadow Tinted Sunscreen",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.3,
+           "votes_count": 225,
+           "rating_max": 5
+          },
+          "price": 297,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/zkB4P3icDclJDoIwAADAFykGBdHEGMNSQFxQSpUbtMjSFAs0tn7K__gbnet8P7UQfFxrWtnh4c1FSSai6GbTahS5aPAUP5k21k_Om67a9pv_rXdHsgI4aY04CfuTJ5GVOcYr6NsFUTcGY4D2tQ4929Uhnck8IIN6R0t1hacoxsPCaJHprdKDTWpEz3JisfIS-uBVzTNKpVG41OEIUvcu1SGfexkze8BAVJhd6j9-Cyw9xg"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "Vg1_aojiJoWrruEPp4j7uAM",
+            "product_id": "15454461969615620807",
+            "catalog_id": "10985976139422720717",
+            "gpcid": "6045368468322771338",
+            "headline_offer_docid": "13686251277863240952",
+            "image_docid": "10470957800612498324",
+            "rds": "PC_6045368468322771338|PROD_PC_6045368468322771338",
+            "query": "sunscreen+no+white+cast+indian+skin+spf+50+gel+tinted+india",
+            "mid": "576462888993856253",
+            "pvt": "hg",
+            "uule": "w+CAIQICITVXR0YXIgUHJhZGVzaCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\n- **Minimalist Light Fluid SPF 50** — best if you want a very lightweight, fluid texture.\n- **Dot & Key Watermelon SPF 50+** — better if you prefer a hydrating, dewy feel; the brand specifically describes it as zero-white-cast. [www.dotandkey.com](https://www.dotandkey.com/collections/sunscreen?utm_source=chatgpt.com)\n- **The Derma Co tinted sunscreen** — great if you're particularly worried about any visible cast because the tint helps it blend into skin.\n- **Fixderma Shadow Tinted** — another good tinted option.\n\n**If you tell me your skin type (oily/dry/combination) and roughly your skin tone (fair/medium/wheatish/deep), I can narrow it down to the single best one for you.**",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Best Sunscreen for Face Online in August 2026",
+          "snippet": null,
+          "domain": "www.dotandkey.com",
+          "url": "https://www.dotandkey.com/collections/sunscreen?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Dot & Key",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

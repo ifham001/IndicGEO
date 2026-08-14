@@ -1,0 +1,306 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.0",
+  "promptId": "S04",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "perplexity",
+  "rep": 4,
+  "promptText": "Which moisturizer should I buy for dry skin in Indian winters?",
+  "cellId": "S04_en_perplexity_r4",
+  "startedAt": "2026-08-14T12:29:25.552Z",
+  "finishedAt": "2026-08-14T12:29:34.658Z",
+  "durationMs": 9106,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "For **dry skin in Indian winters**, the safest buy is a **rich cream** with **ceramides, glycerin, and hyaluronic acid** rather than a light lotion or gel.[1][2][12][13]\n\nIf you want one practical pick, **CeraVe Moisturizing Cream** is the strongest all-round recommendation in the results for **dry to very dry, sensitive skin** because it is described as **thick, fragrance-free, and barrier-repairing**.[1][6][11] If you prefer a slightly more budget-friendly option, **Plum E-Luminence / Vitamin E Moisturizer** is listed as a good choice for **dry, flaky skin** with a **rich cream** texture.[1]\n\nA simple way to choose:\n- **Very dry / flaky / tight skin:** **CeraVe Moisturizing Cream** or another barrier-repair cream with ceramides.[1][6][11]\n- **Dry but not extremely dry:** a **rich nourishing cream** with glycerin, hyaluronic acid, shea butter, or vitamin E.[2][4][12][16]\n- **Sensitive skin:** pick a **fragrance-free, gentle cream**.[1][4][16]\n\nIf you want the most useful single answer, buy **CeraVe Moisturizing Cream** for face and dry areas, especially if your skin gets **stretched, itchy, or flaky** in winter.[1][2]",
+  "citations": [
+   {
+    "url": "https://lavenderosy.com/2026/01/27/best-moisturizers-for-winter-in-india/",
+    "position": 1
+   },
+   {
+    "url": "https://www.mrmed.in/health-library/skin-care/best-moisturizers-for-winter-india",
+    "position": 2
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=64gz8QNtxfc",
+    "position": 3
+   },
+   {
+    "url": "https://luxebykan.com/blogs/kans-narrative/how-to-choose-the-best-moisturizer-for-dry-skin-in-winter-in-india",
+    "position": 4
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=A44ggLIDoy4",
+    "position": 5
+   },
+   {
+    "url": "https://www.zerodryness.com/blogs/news/best-moisturizer-for-dry-skin-in-india-2025",
+    "position": 6
+   },
+   {
+    "url": "https://plumgoodness.com/collections/winter-moisturizers-for-dry-skin",
+    "position": 7
+   },
+   {
+    "url": "https://www.livelyskinco.com/best-moisturizer-for-dry-skin-in-india/",
+    "position": 8
+   },
+   {
+    "url": "https://www.reddit.com/r/skincareaddictsindia/comments/1nobezk/best_moisturizers_for_winter/",
+    "position": 9
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=LjYH3CSyXE8",
+    "position": 10
+   },
+   {
+    "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/17bfno2/winter_moisturisers/",
+    "position": 11
+   },
+   {
+    "url": "https://www.dotandkey.com/collections/moisturizer-for-winter",
+    "position": 12
+   },
+   {
+    "url": "https://smytten.com/blogs/skincare/winter-skincare-india-ultimate-moisturiser-guide",
+    "position": 13
+   },
+   {
+    "url": "https://www.instagram.com/reel/DCWUD2cIURs/",
+    "position": 14
+   },
+   {
+    "url": "https://www.bebeautiful.in/all-things-skin/everyday/moisturizer-for-dry-skin-in-winter",
+    "position": 15
+   },
+   {
+    "url": "https://www.cetaphil.in/skincare-tips/skin-concern/top-body-moisturizers-for-dry-skin-relief-in-winters.html",
+    "position": 16
+   },
+   {
+    "url": "https://www.instagram.com/reel/DQvngRgkUuS/",
+    "position": 17
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=IDY_G9x_BQE",
+    "position": 18
+   },
+   {
+    "url": "https://www.amazon.in/best-winter-moisturizer-for-dry-skin/s?k=best+winter+moisturizer+for+dry+skin",
+    "position": 19
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=urzOFEAZ-2M",
+    "position": 20
+   }
+  ],
+  "costUsd": 0.005354
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "8.5634 sec.",
+  "cost": 0.005954,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141229-2163-0612-0000-5eac7756f943",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "8.5543 sec.",
+    "cost": 0.005954,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "Which moisturizer should I buy for dry skin in Indian winters?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 20,
+      "output_tokens": 334,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005354,
+      "datetime": "2026-08-14 12:29:33 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "For **dry skin in Indian winters**, the safest buy is a **rich cream** with **ceramides, glycerin, and hyaluronic acid** rather than a light lotion or gel.[1][2][12][13]\n\nIf you want one practical pick, **CeraVe Moisturizing Cream** is the strongest all-round recommendation in the results for **dry to very dry, sensitive skin** because it is described as **thick, fragrance-free, and barrier-repairing**.[1][6][11] If you prefer a slightly more budget-friendly option, **Plum E-Luminence / Vitamin E Moisturizer** is listed as a good choice for **dry, flaky skin** with a **rich cream** texture.[1]\n\nA simple way to choose:\n- **Very dry / flaky / tight skin:** **CeraVe Moisturizing Cream** or another barrier-repair cream with ceramides.[1][6][11]\n- **Dry but not extremely dry:** a **rich nourishing cream** with glycerin, hyaluronic acid, shea butter, or vitamin E.[2][4][12][16]\n- **Sensitive skin:** pick a **fragrance-free, gentle cream**.[1][4][16]\n\nIf you want the most useful single answer, buy **CeraVe Moisturizing Cream** for face and dry areas, especially if your skin gets **stretched, itchy, or flaky** in winter.[1][2]",
+          "annotations": [
+           {
+            "title": "Best Moisturizers for Winter in India (2026) - Lavenderosy",
+            "url": "https://lavenderosy.com/2026/01/27/best-moisturizers-for-winter-in-india/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Moisturizers for Winter in India | Guide by Skin Type and Climate",
+            "url": "https://www.mrmed.in/health-library/skin-care/best-moisturizers-for-winter-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Winter Moisturisers for Dry Skin | Top Hydrating Creams for Flaky, Dehydrated Skin (India 2025)",
+            "url": "https://www.youtube.com/watch?v=64gz8QNtxfc",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "How to Choose the Best Moisturizer for Dry Skin in Winter in India",
+            "url": "https://luxebykan.com/blogs/kans-narrative/how-to-choose-the-best-moisturizer-for-dry-skin-in-winter-in-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 5 Winter Moisturizers in India | SuperWowStyle Prachi",
+            "url": "https://www.youtube.com/watch?v=A44ggLIDoy4",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Moisturizer for Dry Skin in India (2026): Top 5 Dermatologist-Rec",
+            "url": "https://www.zerodryness.com/blogs/news/best-moisturizer-for-dry-skin-in-india-2025",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Winter Moisturizers for Dry Skin - Plum Goodness",
+            "url": "https://plumgoodness.com/collections/winter-moisturizers-for-dry-skin",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Biotique Morning Nectar...",
+            "url": "https://www.livelyskinco.com/best-moisturizer-for-dry-skin-in-india/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Moisturizers for Winter",
+            "url": "https://www.reddit.com/r/skincareaddictsindia/comments/1nobezk/best_moisturizers_for_winter/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "सर्दियों के लिए Best Moisturizers | Dry To Soft Glowing Skin (Not Sponsored) Winter Skincare💕",
+            "url": "https://www.youtube.com/watch?v=LjYH3CSyXE8",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Winter Moisturisers : r/IndianSkincareAddicts - Reddit",
+            "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/17bfno2/winter_moisturisers/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shop Moisturizer for Winter Season Online in India - Dot & Key",
+            "url": "https://www.dotandkey.com/collections/moisturizer-for-winter",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Winter Skincare India: Ultimate Moisturiser Guide - Smytten",
+            "url": "https://smytten.com/blogs/skincare/winter-skincare-india-ultimate-moisturiser-guide",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "My top 3 Winter Moisturisers for all Skin types! ⛄️🥶 Paid ...",
+            "url": "https://www.instagram.com/reel/DCWUD2cIURs/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Moisturizer for Dry Skin in Winter: Top Picks & Tips - BeBeautiful",
+            "url": "https://www.bebeautiful.in/all-things-skin/everyday/moisturizer-for-dry-skin-in-winter",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top Body Moisturizers for Dry Skin Relief in Winters | Cetaphil India",
+            "url": "https://www.cetaphil.in/skincare-tips/skin-concern/top-body-moisturizers-for-dry-skin-relief-in-winters.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Using moisturizer is crucial in winter to combat dryness ... - Instagram",
+            "url": "https://www.instagram.com/reel/DQvngRgkUuS/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "TOP 10 WINTER MOISTURIZERS! For ALL SKIN TYPES - YouTube",
+            "url": "https://www.youtube.com/watch?v=IDY_G9x_BQE",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Winter Moisturizer For Dry Skin - Amazon.in",
+            "url": "https://www.amazon.in/best-winter-moisturizer-for-dry-skin/s?k=best+winter+moisturizer+for+dry+skin",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Which is the Best Face Moisturiser in India? (in 2024)",
+            "url": "https://www.youtube.com/watch?v=urzOFEAZ-2M",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

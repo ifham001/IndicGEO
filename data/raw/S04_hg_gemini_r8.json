@@ -1,0 +1,176 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S04",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 8,
+  "promptText": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+  "cellId": "S04_hg_gemini_r8",
+  "startedAt": "2026-08-14T13:00:16.353Z",
+  "finishedAt": "2026-08-14T13:00:33.375Z",
+  "durationMs": 17022,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Indian winters mein thand aur dry hawa ki wajah se skin ka natural moisture khatam ho jata hai, isliye aisi cream ya moisturizer ki zaroorat hoti hai jo skin ko deep nourishment de aur barrier ko repair kare. Aapki skin ke type ke hisab se yeh kuch behtareen aur asardaar options hain:\n\n---\n\n### 1. Dry aur Flaky Skin ke liye (Best Deep Nourishment)\n\nAgar aapki skin bahut zyada dry hai ya papdi (flakes) utarti hai, toh aapko thick aur heavy creams chunni chahiye jinme ceramides, shea butter ya glycerin ho:\n\n* **Cetaphil Moisturising Cream:** Yeh dermatologists ki recommend ki hui cream hai. Isme almond oil aur powerful moisturizing agents hote hain jo sensitive aur dry skin ko 24-48 ghante tak hydration dete hain.\n* **Bioderma Atoderm Intensive Baume:** Agar skin aisi dry hai ki khujli ya irritation hoti hai, toh yeh baume skin barrier ko turant theek karta hai.\n* **Physiogel AI Cream:** Yeh skin ke natural lipids ko repair karti hai aur winter ki harsh conditions se bachaati hai.\n\n### 2. Normal se Combination Skin ke liye (Non-Sticky & Hydrating)\n\nAgar aapko heavy cream pasand nahi hai jo chip-chip kare, toh aap in lightweight lotions ko chun sakte hain jo andar se hydration dete hain:\n\n* **Ponds Super Light Gel:** Halanki yeh gel-based hai, par isme hyaluronic acid aur vitamin E hota hai jo winter mein bhi halki hydration ke liye kaafi accha hai (agar skin moderate dry ho).\n* **Neutrogena Hydro Boost Water Gel:** Isme hyaluronic acid hota hai jo skin mein moisture ko lock kar deta hai.\n* **Plum Hello Aloe Skin Hydrating Gel / Dot & Key Ceramide Moisturizer:** Yeh skin ko bina heavy kiye soft rakhte hain.\n\n### 3. Budget-Friendly Options (Ache aur Saste)\n\nAgar aap pocket-friendly option chahte hain jo sabhi general stores par mil jaye:\n\n* **Nivea Soft Cream:** Yeh light hoti hai aur face/body dono par lagayi ja sakti hai. Isme jojoba oil aur vitamin E hota hai.\n* **Vaseline Intensive Care Deep Moisture Body Lotion:** Agar body aur legs ke liye chahiye toh yeh sabse best aur affordable options mein se ek hai.\n* **Boroplus Doodh Kesar / Aloe Gel (Winter Edition):** Traditional aur heavy nourishment ke liye kaafi acchi maani jaati hai.\n\n---\n\n### 💡 Winters ke liye Kuch Zaroori Tips:\n\n1.  **Ceramides aur Hyaluronic Acid** waale products dhundhein, kyunki yeh winter dryness ko sabse acche se khatam karte hain.\n2.  Moisturizer hamesha **nahane ke turant baad** (jab skin halki geeli ho) lagayein, taaki moisture lock ho sake.\n3.  Agar aapki skin extremely dry hai, toh lotions ki jagah **creams ya body butters** ka use karein.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "16.2804 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141300-2163-0629-0000-cbcebed51028",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "16.2695 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:00:32 +00:00",
+      "markdown": "Indian winters mein thand aur dry hawa ki wajah se skin ka natural moisture khatam ho jata hai, isliye aisi cream ya moisturizer ki zaroorat hoti hai jo skin ko deep nourishment de aur barrier ko repair kare. Aapki skin ke type ke hisab se yeh kuch behtareen aur asardaar options hain:\n\n---\n\n### 1. Dry aur Flaky Skin ke liye (Best Deep Nourishment)\n\nAgar aapki skin bahut zyada dry hai ya papdi (flakes) utarti hai, toh aapko thick aur heavy creams chunni chahiye jinme ceramides, shea butter ya glycerin ho:\n\n* **Cetaphil Moisturising Cream:** Yeh dermatologists ki recommend ki hui cream hai. Isme almond oil aur powerful moisturizing agents hote hain jo sensitive aur dry skin ko 24-48 ghante tak hydration dete hain.\n* **Bioderma Atoderm Intensive Baume:** Agar skin aisi dry hai ki khujli ya irritation hoti hai, toh yeh baume skin barrier ko turant theek karta hai.\n* **Physiogel AI Cream:** Yeh skin ke natural lipids ko repair karti hai aur winter ki harsh conditions se bachaati hai.\n\n### 2. Normal se Combination Skin ke liye (Non-Sticky & Hydrating)\n\nAgar aapko heavy cream pasand nahi hai jo chip-chip kare, toh aap in lightweight lotions ko chun sakte hain jo andar se hydration dete hain:\n\n* **Ponds Super Light Gel:** Halanki yeh gel-based hai, par isme hyaluronic acid aur vitamin E hota hai jo winter mein bhi halki hydration ke liye kaafi accha hai (agar skin moderate dry ho).\n* **Neutrogena Hydro Boost Water Gel:** Isme hyaluronic acid hota hai jo skin mein moisture ko lock kar deta hai.\n* **Plum Hello Aloe Skin Hydrating Gel / Dot & Key Ceramide Moisturizer:** Yeh skin ko bina heavy kiye soft rakhte hain.\n\n### 3. Budget-Friendly Options (Ache aur Saste)\n\nAgar aap pocket-friendly option chahte hain jo sabhi general stores par mil jaye:\n\n* **Nivea Soft Cream:** Yeh light hoti hai aur face/body dono par lagayi ja sakti hai. Isme jojoba oil aur vitamin E hota hai.\n* **Vaseline Intensive Care Deep Moisture Body Lotion:** Agar body aur legs ke liye chahiye toh yeh sabse best aur affordable options mein se ek hai.\n* **Boroplus Doodh Kesar / Aloe Gel (Winter Edition):** Traditional aur heavy nourishment ke liye kaafi acchi maani jaati hai.\n\n---\n\n### 💡 Winters ke liye Kuch Zaroori Tips:\n\n1.  **Ceramides aur Hyaluronic Acid** waale products dhundhein, kyunki yeh winter dryness ko sabse acche se khatam karte hain.\n2.  Moisturizer hamesha **nahane ke turant baad** (jab skin halki geeli ho) lagayein, taaki moisture lock ho sake.\n3.  Agar aapki skin extremely dry hai, toh lotions ki jagah **creams ya body butters** ka use karein.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 12,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Indian winters mein thand aur dry hawa ki wajah se skin ka natural moisture khatam ho jata hai, isliye aisi cream ya moisturizer ki zaroorat hoti hai jo skin ko deep nourishment de aur barrier ko repair kare. Aapki skin ke type ke hisab se yeh kuch behtareen aur asardaar options hain:",
+        "original_text": "Indian winters mein thand aur dry hawa ki wajah se skin ka natural moisture khatam ho jata hai, isliye aisi cream ya moisturizer ki zaroorat hoti hai jo skin ko deep nourishment de aur barrier ko repair kare. Aapki skin ke type ke hisab se yeh kuch behtareen aur asardaar options hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### 1. Dry aur Flaky Skin ke liye (Best Deep Nourishment)",
+        "original_text": "1. Dry aur Flaky Skin ke liye (Best Deep Nourishment)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "Agar aapki skin bahut zyada dry hai ya papdi (flakes) utarti hai, toh aapko thick aur heavy creams chunni chahiye jinme ceramides, shea butter ya glycerin ho:",
+        "original_text": "Agar aapki skin bahut zyada dry hai ya papdi (flakes) utarti hai, toh aapko thick aur heavy creams chunni chahiye jinme ceramides, shea butter ya glycerin ho:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Cetaphil Moisturising Cream:** Yeh dermatologists ki recommend ki hui cream hai. Isme almond oil aur powerful moisturizing agents hote hain jo sensitive aur dry skin ko 24-48 ghante tak hydration dete hain.\n* **Bioderma Atoderm Intensive Baume:** Agar skin aisi dry hai ki khujli ya irritation hoti hai, toh yeh baume skin barrier ko turant theek karta hai.\n* **Physiogel AI Cream:** Yeh skin ke natural lipids ko repair karti hai aur winter ki harsh conditions se bachaati hai.",
+        "original_text": "Cetaphil Moisturising Cream: Yeh dermatologists ki recommend ki hui cream hai. Isme almond oil aur powerful moisturizing agents hote hain jo sensitive aur dry skin ko 24-48 ghante tak hydration dete hain.\nBioderma Atoderm Intensive Baume: Agar skin aisi dry hai ki khujli ya irritation hoti hai, toh yeh baume skin barrier ko turant theek karta hai.\nPhysiogel AI Cream: Yeh skin ke natural lipids ko repair karti hai aur winter ki harsh conditions se bachaati hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. Normal se Combination Skin ke liye (Non-Sticky & Hydrating)",
+        "original_text": "2. Normal se Combination Skin ke liye (Non-Sticky & Hydrating)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "Agar aapko heavy cream pasand nahi hai jo chip-chip kare, toh aap in lightweight lotions ko chun sakte hain jo andar se hydration dete hain:",
+        "original_text": "Agar aapko heavy cream pasand nahi hai jo chip-chip kare, toh aap in lightweight lotions ko chun sakte hain jo andar se hydration dete hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **Ponds Super Light Gel:** Halanki yeh gel-based hai, par isme hyaluronic acid aur vitamin E hota hai jo winter mein bhi halki hydration ke liye kaafi accha hai (agar skin moderate dry ho).\n* **Neutrogena Hydro Boost Water Gel:** Isme hyaluronic acid hota hai jo skin mein moisture ko lock kar deta hai.\n* **Plum Hello Aloe Skin Hydrating Gel / Dot & Key Ceramide Moisturizer:** Yeh skin ko bina heavy kiye soft rakhte hain.",
+        "original_text": "Ponds Super Light Gel: Halanki yeh gel-based hai, par isme hyaluronic acid aur vitamin E hota hai jo winter mein bhi halki hydration ke liye kaafi accha hai (agar skin moderate dry ho).\nNeutrogena Hydro Boost Water Gel: Isme hyaluronic acid hota hai jo skin mein moisture ko lock kar deta hai.\nPlum Hello Aloe Skin Hydrating Gel / Dot & Key Ceramide Moisturizer: Yeh skin ko bina heavy kiye soft rakhte hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### 3. Budget-Friendly Options (Ache aur Saste)",
+        "original_text": "3. Budget-Friendly Options (Ache aur Saste)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "Agar aap pocket-friendly option chahte hain jo sabhi general stores par mil jaye:",
+        "original_text": "Agar aap pocket-friendly option chahte hain jo sabhi general stores par mil jaye:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "* **Nivea Soft Cream:** Yeh light hoti hai aur face/body dono par lagayi ja sakti hai. Isme jojoba oil aur vitamin E hota hai.\n* **Vaseline Intensive Care Deep Moisture Body Lotion:** Agar body aur legs ke liye chahiye toh yeh sabse best aur affordable options mein se ek hai.\n* **Boroplus Doodh Kesar / Aloe Gel (Winter Edition):** Traditional aur heavy nourishment ke liye kaafi acchi maani jaati hai.",
+        "original_text": "Nivea Soft Cream: Yeh light hoti hai aur face/body dono par lagayi ja sakti hai. Isme jojoba oil aur vitamin E hota hai.\nVaseline Intensive Care Deep Moisture Body Lotion: Agar body aur legs ke liye chahiye toh yeh sabse best aur affordable options mein se ek hai.\nBoroplus Doodh Kesar / Aloe Gel (Winter Edition): Traditional aur heavy nourishment ke liye kaafi acchi maani jaati hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "### 💡 Winters ke liye Kuch Zaroori Tips:",
+        "original_text": "💡 Winters ke liye Kuch Zaroori Tips:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "1.  **Ceramides aur Hyaluronic Acid** waale products dhundhein, kyunki yeh winter dryness ko sabse acche se khatam karte hain.\n2.  Moisturizer hamesha **nahane ke turant baad** (jab skin halki geeli ho) lagayein, taaki moisture lock ho sake.\n3.  Agar aapki skin extremely dry hai, toh lotions ki jagah **creams ya body butters** ka use karein.",
+        "original_text": "Ceramides aur Hyaluronic Acid waale products dhundhein, kyunki yeh winter dryness ko sabse acche se khatam karte hain.\nMoisturizer hamesha nahane ke turant baad (jab skin halki geeli ho) lagayein, taaki moisture lock ho sake.\nAgar aapki skin extremely dry hai, toh lotions ki jagah creams ya body butters ka use karein.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

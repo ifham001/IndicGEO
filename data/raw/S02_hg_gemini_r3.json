@@ -1,0 +1,160 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 3,
+  "promptText": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+  "cellId": "S02_hg_gemini_r3",
+  "startedAt": "2026-08-14T12:36:40.485Z",
+  "finishedAt": "2026-08-14T12:36:52.868Z",
+  "durationMs": 12383,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Bharat ki skin tones aur climate ko dekhte hue, aise sunscreens chunna bahut zaroori hai jo lightweight hon aur bilkul bhi **white cast** na chhodein.\n\nAapke liye kuch best aur highly-rated sunscreens ki list yeh rahi, jo Indian skin par bina white cast ke achhi tarah blend ho jaate hain:\n\n---\n\n### ## 1. Budget-Friendly & Best for Daily Use\n\n* **Derma Co. 1% Hyaluronic Sunscreen Aqua Gel (SPF 50 PA++++)**\n  *   * **Khasiyat:** Yeh gel-based sunscreen hai jo skin mein ekdum paani ki tarah ghul jata hai. Isme hyaluronic acid hai jo skin ko hydrate rakhta hai aur yeh bilkul white cast nahi chhodta.\n  * **Skin Type:** Normal se Dry skin ke liye best.\n* **Aqualogica Glow+ Dewy Sunscreen (SPF 50+ PA++++)**\n  *   * **Khasiyat:** Water-light texture hai, lagane ke baad skin par ek natural dew/glow aata hai aur heavy bilkul nahi lagta.\n  * **Skin Type:** Sabhi skin types ke liye, khaaskar dull skin ke liye.\n\n---\n\n### ## 2. Best for Oily & Acne-Prone Skin\n\n* **Minimalist Sunscreen SPF 50 PA++++**\n  *   * **Khasiyat:** Yeh ek clinical formulation hai jo matte finish deti hai. Yeh sweat-resistant hai aur isme koi white cast nahi hoti. Fragrance-free bhi hai.\n  * **Skin Type:** Oily aur Sensitive skin ke liye behtareen.\n* **Fixderma Shadow SPF 50+ Gel**\n  *   * **Khasiyat:** Dermatologists dwara kafi recommend kiya jata hai. Non-greasy gel formula hai jo turant skin mein absorb ho jata hai.\n  * **Skin Type:** Oily aur Acne-prone skin.\n\n---\n\n### ## 3. Premium & Invisible Finish Options\n\n* **ISNTREE Hyaluronic Acid Watery Sun Gel SPF 50+ PA++++ (K-Beauty)**\n  *   * **Khasiyat:** Agar budget thoda zyada hai, toh yeh K-beauty sunscreen sabse best mana jata hai. Yeh skin par bilkul invisible rehta hai aur moisturizer ki tarah kaam karta hai.\n  * **Skin Type:** Sabhi skin types (Dry se Combination).\n* **Foxtale Matte Finish Sunscreen SPF 50 PA++++**\n  *   * **Khasiyat:** Velvet matte finish deta hai, pore-blurring effect hai aur sun protection ke sath skin ko soft banata hai.\n\n---\n\n> **Tip:** Sunscreen hamesha ghar se nikalne ya dhoop mein jaane se **15–20 minutes pehle** lagayein, aur agar aap bahar hain toh har **3 se 4 ghante baad** ise re-apply zaroor karein.\n\nAapki skin type (jaise oily, dry, ya sensitive) kya hai, uske hisaab se aap inme se koi bhi chun sakte hain.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "12.1576 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141236-2163-0629-0000-b1a156068814",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "12.1387 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:36:52 +00:00",
+      "markdown": "Bharat ki skin tones aur climate ko dekhte hue, aise sunscreens chunna bahut zaroori hai jo lightweight hon aur bilkul bhi **white cast** na chhodein.\n\nAapke liye kuch best aur highly-rated sunscreens ki list yeh rahi, jo Indian skin par bina white cast ke achhi tarah blend ho jaate hain:\n\n---\n\n### ## 1. Budget-Friendly & Best for Daily Use\n\n* **Derma Co. 1% Hyaluronic Sunscreen Aqua Gel (SPF 50 PA++++)**\n  *   * **Khasiyat:** Yeh gel-based sunscreen hai jo skin mein ekdum paani ki tarah ghul jata hai. Isme hyaluronic acid hai jo skin ko hydrate rakhta hai aur yeh bilkul white cast nahi chhodta.\n  * **Skin Type:** Normal se Dry skin ke liye best.\n* **Aqualogica Glow+ Dewy Sunscreen (SPF 50+ PA++++)**\n  *   * **Khasiyat:** Water-light texture hai, lagane ke baad skin par ek natural dew/glow aata hai aur heavy bilkul nahi lagta.\n  * **Skin Type:** Sabhi skin types ke liye, khaaskar dull skin ke liye.\n\n---\n\n### ## 2. Best for Oily & Acne-Prone Skin\n\n* **Minimalist Sunscreen SPF 50 PA++++**\n  *   * **Khasiyat:** Yeh ek clinical formulation hai jo matte finish deti hai. Yeh sweat-resistant hai aur isme koi white cast nahi hoti. Fragrance-free bhi hai.\n  * **Skin Type:** Oily aur Sensitive skin ke liye behtareen.\n* **Fixderma Shadow SPF 50+ Gel**\n  *   * **Khasiyat:** Dermatologists dwara kafi recommend kiya jata hai. Non-greasy gel formula hai jo turant skin mein absorb ho jata hai.\n  * **Skin Type:** Oily aur Acne-prone skin.\n\n---\n\n### ## 3. Premium & Invisible Finish Options\n\n* **ISNTREE Hyaluronic Acid Watery Sun Gel SPF 50+ PA++++ (K-Beauty)**\n  *   * **Khasiyat:** Agar budget thoda zyada hai, toh yeh K-beauty sunscreen sabse best mana jata hai. Yeh skin par bilkul invisible rehta hai aur moisturizer ki tarah kaam karta hai.\n  * **Skin Type:** Sabhi skin types (Dry se Combination).\n* **Foxtale Matte Finish Sunscreen SPF 50 PA++++**\n  *   * **Khasiyat:** Velvet matte finish deta hai, pore-blurring effect hai aur sun protection ke sath skin ko soft banata hai.\n\n---\n\n> **Tip:** Sunscreen hamesha ghar se nikalne ya dhoop mein jaane se **15–20 minutes pehle** lagayein, aur agar aap bahar hain toh har **3 se 4 ghante baad** ise re-apply zaroor karein.\n\nAapki skin type (jaise oily, dry, ya sensitive) kya hai, uske hisaab se aap inme se koi bhi chun sakte hain.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 10,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Bharat ki skin tones aur climate ko dekhte hue, aise sunscreens chunna bahut zaroori hai jo lightweight hon aur bilkul bhi **white cast** na chhodein.",
+        "original_text": "Bharat ki skin tones aur climate ko dekhte hue, aise sunscreens chunna bahut zaroori hai jo lightweight hon aur bilkul bhi white cast na chhodein.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Aapke liye kuch best aur highly-rated sunscreens ki list yeh rahi, jo Indian skin par bina white cast ke achhi tarah blend ho jaate hain:",
+        "original_text": "Aapke liye kuch best aur highly-rated sunscreens ki list yeh rahi, jo Indian skin par bina white cast ke achhi tarah blend ho jaate hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### ## 1. Budget-Friendly & Best for Daily Use",
+        "original_text": "## 1. Budget-Friendly & Best for Daily Use",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Derma Co. 1% Hyaluronic Sunscreen Aqua Gel (SPF 50 PA++++)**\n  *   * **Khasiyat:** Yeh gel-based sunscreen hai jo skin mein ekdum paani ki tarah ghul jata hai. Isme hyaluronic acid hai jo skin ko hydrate rakhta hai aur yeh bilkul white cast nahi chhodta.\n  * **Skin Type:** Normal se Dry skin ke liye best.\n* **Aqualogica Glow+ Dewy Sunscreen (SPF 50+ PA++++)**\n  *   * **Khasiyat:** Water-light texture hai, lagane ke baad skin par ek natural dew/glow aata hai aur heavy bilkul nahi lagta.\n  * **Skin Type:** Sabhi skin types ke liye, khaaskar dull skin ke liye.",
+        "original_text": "Derma Co. 1% Hyaluronic Sunscreen Aqua Gel (SPF 50 PA++++)\nKhasiyat: Yeh gel-based sunscreen hai jo skin mein ekdum paani ki tarah ghul jata hai. Isme hyaluronic acid hai jo skin ko hydrate rakhta hai aur yeh bilkul white cast nahi chhodta.\nSkin Type: Normal se Dry skin ke liye best.\nAqualogica Glow+ Dewy Sunscreen (SPF 50+ PA++++)\nKhasiyat: Water-light texture hai, lagane ke baad skin par ek natural dew/glow aata hai aur heavy bilkul nahi lagta.\nSkin Type: Sabhi skin types ke liye, khaaskar dull skin ke liye.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### ## 2. Best for Oily & Acne-Prone Skin",
+        "original_text": "## 2. Best for Oily & Acne-Prone Skin",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Minimalist Sunscreen SPF 50 PA++++**\n  *   * **Khasiyat:** Yeh ek clinical formulation hai jo matte finish deti hai. Yeh sweat-resistant hai aur isme koi white cast nahi hoti. Fragrance-free bhi hai.\n  * **Skin Type:** Oily aur Sensitive skin ke liye behtareen.\n* **Fixderma Shadow SPF 50+ Gel**\n  *   * **Khasiyat:** Dermatologists dwara kafi recommend kiya jata hai. Non-greasy gel formula hai jo turant skin mein absorb ho jata hai.\n  * **Skin Type:** Oily aur Acne-prone skin.",
+        "original_text": "Minimalist Sunscreen SPF 50 PA++++\nKhasiyat: Yeh ek clinical formulation hai jo matte finish deti hai. Yeh sweat-resistant hai aur isme koi white cast nahi hoti. Fragrance-free bhi hai.\nSkin Type: Oily aur Sensitive skin ke liye behtareen.\nFixderma Shadow SPF 50+ Gel\nKhasiyat: Dermatologists dwara kafi recommend kiya jata hai. Non-greasy gel formula hai jo turant skin mein absorb ho jata hai.\nSkin Type: Oily aur Acne-prone skin.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "### ## 3. Premium & Invisible Finish Options",
+        "original_text": "## 3. Premium & Invisible Finish Options",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **ISNTREE Hyaluronic Acid Watery Sun Gel SPF 50+ PA++++ (K-Beauty)**\n  *   * **Khasiyat:** Agar budget thoda zyada hai, toh yeh K-beauty sunscreen sabse best mana jata hai. Yeh skin par bilkul invisible rehta hai aur moisturizer ki tarah kaam karta hai.\n  * **Skin Type:** Sabhi skin types (Dry se Combination).\n* **Foxtale Matte Finish Sunscreen SPF 50 PA++++**\n  *   * **Khasiyat:** Velvet matte finish deta hai, pore-blurring effect hai aur sun protection ke sath skin ko soft banata hai.",
+        "original_text": "ISNTREE Hyaluronic Acid Watery Sun Gel SPF 50+ PA++++ (K-Beauty)\nKhasiyat: Agar budget thoda zyada hai, toh yeh K-beauty sunscreen sabse best mana jata hai. Yeh skin par bilkul invisible rehta hai aur moisturizer ki tarah kaam karta hai.\nSkin Type: Sabhi skin types (Dry se Combination).\nFoxtale Matte Finish Sunscreen SPF 50 PA++++\nKhasiyat: Velvet matte finish deta hai, pore-blurring effect hai aur sun protection ke sath skin ko soft banata hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "> **Tip:** Sunscreen hamesha ghar se nikalne ya dhoop mein jaane se **15–20 minutes pehle** lagayein, aur agar aap bahar hain toh har **3 se 4 ghante baad** ise re-apply zaroor karein.",
+        "original_text": "Tip: Sunscreen hamesha ghar se nikalne ya dhoop mein jaane se 15–20 minutes pehle lagayein, aur agar aap bahar hain toh har 3 se 4 ghante baad ise re-apply zaroor karein.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "Aapki skin type (jaise oily, dry, ya sensitive) kya hai, uske hisaab se aap inme se koi bhi chun sakte hain.",
+        "original_text": "Aapki skin type (jaise oily, dry, ya sensitive) kya hai, uske hisaab se aap inme se koi bhi chun sakte hain.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

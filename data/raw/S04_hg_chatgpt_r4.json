@@ -1,0 +1,412 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S04",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 4,
+  "promptText": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+  "cellId": "S04_hg_chatgpt_r4",
+  "startedAt": "2026-08-14T12:32:22.561Z",
+  "finishedAt": "2026-08-14T12:33:46.506Z",
+  "durationMs": 83945,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Haan — **Indian winters mein dry skin ke liye cream-based, barrier-repairing moisturizer** best rahega. Ceramides + hyaluronic acid/glycerin jaise ingredients useful hote hain, aur winter mein gel se richer cream generally better hoti hai. [etadviser.com](https://etadviser.com/beauty/body-care/best-winter-moisturisers-recommended-by-dermatologists-for-smooth-nourished-skin/articleshow/125545009.cms?utm_source=chatgpt.com)\n\n### 🧴 Face ke liye\n\n### [CeraVe Moisturising Cream]()\n*₹422*\n\n### [Re'equil Ceramide & Hyaluronic Acid Moisturiser]()\n*₹265*\n\n### [Plum CeraSense Moisturizing Cream]()\n*₹299*\n\n### [The Derma Co Ceramide + HA Intense Daily Face Moisturizer]()\n*₹314*\n\n**Meri first choice:** **CeraVe Moisturising Cream** — especially agar skin *bahut dry, tight ya flaky* hoti hai. Ismein 3 ceramides + hyaluronic acid hain aur fragrance-free formulation hai. [etadviser.com](https://etadviser.com/beauty/body-care/best-winter-moisturisers-recommended-by-dermatologists-for-smooth-nourished-skin/articleshow/125545009.cms?utm_source=chatgpt.com)\n\n**Budget-friendly:** Re'equil Ceramide & HA ya Plum CeraSense.\n\n### Agar skin sensitive bhi hai\nFragrance-free moisturizer choose karo aur bahut hot water se face wash mat karo. Moisturizer **face wash ke turant baad slightly damp skin par** lagana helpful hota hai. [sunshineskinclinic.com](https://sunshineskinclinic.com/best-moisturizer-for-dry-skin-india/?utm_source=chatgpt.com)\n\nAgar tum mujhe bata do **skin type (dry / oily / combination) + budget (₹300, ₹500, ₹1000)**, main tumhare liye **1 exact moisturizer** choose kar dunga.",
+  "citations": [
+   {
+    "url": "https://etadviser.com/beauty/body-care/best-winter-moisturisers-recommended-by-dermatologists-for-smooth-nourished-skin/articleshow/125545009.cms?utm_source=chatgpt.com",
+    "source_name": "The Economic Times",
+    "position": 1
+   },
+   {
+    "url": "https://sunshineskinclinic.com/best-moisturizer-for-dry-skin-india/?utm_source=chatgpt.com",
+    "source_name": "Sunshine Skin Clinic",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "83.6280 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141232-2163-0629-0000-0fe6c3fc2cc9",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "83.5923 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Indian%20winters%20mein%20dry%20skin%20ke%20liye%20konsa%20moisturizer%20kharidna%20chahiye%3F&hints=search",
+      "datetime": "2026-08-14 12:33:45 +00:00",
+      "markdown": "Haan — **Indian winters mein dry skin ke liye cream-based, barrier-repairing moisturizer** best rahega. Ceramides + hyaluronic acid/glycerin jaise ingredients useful hote hain, aur winter mein gel se richer cream generally better hoti hai. [etadviser.com](https://etadviser.com/beauty/body-care/best-winter-moisturisers-recommended-by-dermatologists-for-smooth-nourished-skin/articleshow/125545009.cms?utm_source=chatgpt.com)\n\n### 🧴 Face ke liye\n\n### [CeraVe Moisturising Cream]()\n*₹422*\n\n### [Re'equil Ceramide & Hyaluronic Acid Moisturiser]()\n*₹265*\n\n### [Plum CeraSense Moisturizing Cream]()\n*₹299*\n\n### [The Derma Co Ceramide + HA Intense Daily Face Moisturizer]()\n*₹314*\n\n**Meri first choice:** **CeraVe Moisturising Cream** — especially agar skin *bahut dry, tight ya flaky* hoti hai. Ismein 3 ceramides + hyaluronic acid hain aur fragrance-free formulation hai. [etadviser.com](https://etadviser.com/beauty/body-care/best-winter-moisturisers-recommended-by-dermatologists-for-smooth-nourished-skin/articleshow/125545009.cms?utm_source=chatgpt.com)\n\n**Budget-friendly:** Re'equil Ceramide & HA ya Plum CeraSense.\n\n### Agar skin sensitive bhi hai\nFragrance-free moisturizer choose karo aur bahut hot water se face wash mat karo. Moisturizer **face wash ke turant baad slightly damp skin par** lagana helpful hota hai. [sunshineskinclinic.com](https://sunshineskinclinic.com/best-moisturizer-for-dry-skin-india/?utm_source=chatgpt.com)\n\nAgar tum mujhe bata do **skin type (dry / oily / combination) + budget (₹300, ₹500, ₹1000)**, main tumhare liye **1 exact moisturizer** choose kar dunga.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ndtvshopping.com/beauty-and-grooming/10-best-barrier-repair-creams-for-indian-winters-that-truly-heal-dry-skin-10792239?utm_source=chatgpt.com",
+        "domain": "www.ndtvshopping.com",
+        "title": "10 Best Barrier-Repair Creams for Indian Winters That Truly Heal Dry, Damaged Skin - NDTV Shopping",
+        "description": "10 BEST BARRIER-REPAIR CREAMS FOR INDIAN WINTERS THAT TRULY HEAL DRY, DAMAGED SKIN  STRUGGLING WITH WINTER DRYNESS? THESE BARRIER-REPAIR CREAMS DEEPLY HYDRATE AND RESTORE DAMAGED SKIN IN INDIAN WINTE...",
+        "breadcrumb": "ndtvshopping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.pingmedoc.com/pharmacy/buying-guides/best-moisturizer-dry-skin?utm_source=chatgpt.com",
+        "domain": "www.pingmedoc.com",
+        "title": "Best Moisturizer for Dry Skin in India 2026 — Cetaphil, CeraVe",
+        "description": "BEST MOISTURIZER FOR DRY SKIN IN INDIA  Dry skin is a barrier problem: the outer layer loses water faster than it should. A good moisturiser supplies water-binding humectants, barrier lipids like cer...",
+        "breadcrumb": "pingmedoc.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.drsheths.com/blogs/news/best-affordable-ceramide-moisturizers-in-india?utm_source=chatgpt.com",
+        "domain": "www.drsheths.com",
+        "title": "Affordable Ceramide Moisturizers for Every Skin Type – Dr Sheth's",
+        "description": "USE-CASE COMPARISON: MATCHING THE MOISTURIZER TO YOUR SKIN TYPE  Your Skin Type  | Best-Suited Texture  | Less Suitable Choice --- | --- | --- Dry, sensitive skin  | Rich cream with ceramides and urea...",
+        "breadcrumb": "drsheths.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://etadviser.com/beauty/body-care/best-winter-moisturizing-creams-and-lotions-for-dry-skin/articleshow/125521596.cms?utm_source=chatgpt.com",
+        "domain": "etadviser.com",
+        "title": "10 Best Winter Moisturizing Creams and Lotions for Dry Skin (2025) - ET Adviser",
+        "description": "1. CETAPHIL MOISTURISING CREAM FOR FACE & BODY  The Cetaphil Moisturising Cream for Face and Body is a dermatologist-recommended essential for those seeking deep, long-lasting hydration during harsh w...",
+        "breadcrumb": "etadviser.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.nykaa.com/beauty-blog/best-ceramide-moisturisers?utm_source=chatgpt.com",
+        "domain": "www.nykaa.com",
+        "title": "10 Best Ceramide Moisturisers To Restore Skin's Barrier & Hydration | Nykaa's Beauty Book",
+        "description": "10 BEST CERAMIDE MOISTURISERS: A SKINVESTMENT YOU WON’T REGRET  Now that you know all about ceramides, let’s explore the best ceramide moisturisers in India, their key specifications, as well as pros...",
+        "breadcrumb": "nykaa.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.nykaa.com/beauty-blog/top-10-moisturizer-in-india-2026?utm_source=chatgpt.com",
+        "domain": "www.nykaa.com",
+        "title": "Top 10 Moisturisers in India 2026 for Skin Longevity: Dermatologist-Backed Picks | Nykaa's Beauty Book",
+        "description": "Home / Skin / Skin Types & Care / Top 10 Moisturisers in India 2026 for Skin Longevity: Dermatologist-Backed Picks  Skin  Top 10 Moisturisers in India 2026 for Skin Longevity: Dermatologist-Backed Pi...",
+        "breadcrumb": "nykaa.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.nykaa.com/beauty-blog/nykaas-edit-of-the-best-dermat-tested-moisturizers?utm_source=chatgpt.com",
+        "domain": "www.nykaa.com",
+        "title": "Top 15 Dermatologist-Recommended Moisturisers For All Skin Types | Nykaa's Beauty Book",
+        "description": "15 Best Dermatologist-Recommended Moisturisers  by Lakshmi Nayar  236K views | 0 shares  July 23, 2020  If you’re not one who blindly follows beauty fads or trends that lack scientific backing, here...",
+        "breadcrumb": "nykaa.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://ndmeds.com/blogs/skin/barrier-repair-moisturisers-that-actually-work-a-dermatologists?utm_source=chatgpt.com",
+        "domain": "ndmeds.com",
+        "title": "Best Barrier Repair Moisturisers for Healthy Skin Barrier – Ndmeds",
+        "description": "BARRIER REPAIR MOISTURISERS: THAT ACTUALLY WORK A DERMATOLOGIST'S HONEST GUIDE  Jul 22, 2026 Nandini dadu  YouTube video player  Winter has a way of exposing whatever your skin barrier has been quiet...",
+        "breadcrumb": "ndmeds.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-moisturizers-in-india?utm_source=chatgpt.com",
+        "domain": "www.dotandkey.com",
+        "title": "Dermatologist-Recommended Moisturizers in India (2026)",
+        "description": "DERMATOLOGIST-RECOMMENDED MOISTURIZERS IN INDIA (2026)  Sanchari | Last Updated On 11 Jul 2026  8 mins read  Table of Contents  Image: Dermatologist-Recommended Moisturizers in India (2026)  For deca...",
+        "breadcrumb": "dotandkey.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://drkothiwalaskineva.com/blog/top-10-dermatologist-approved-face-moisturizers-for-dry-skin/?utm_source=chatgpt.com",
+        "domain": "drkothiwalaskineva.com",
+        "title": "Top 10 Dermatologist Approved Face Moisturizers for Dry Skin -",
+        "description": "TOP 10 DERMATOLOGIST APPROVED FACE MOISTURIZERS FOR DRY SKIN  Posted on March 12, 2026 |  Dry skin is more than just a cosmetic concern. It can cause tightness, flakiness, itching, redness, and even...",
+        "breadcrumb": "drkothiwalaskineva.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Best Moisturisers for Winter: Best winter moisturisers recommended by dermatologists for smooth, nourished skin - ET Adviser",
+        "snippet": null,
+        "domain": "etadviser.com",
+        "url": "https://etadviser.com/beauty/body-care/best-winter-moisturisers-recommended-by-dermatologists-for-smooth-nourished-skin/articleshow/125545009.cms?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "The Economic Times",
+        "publication_date": "2025-11-24 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Best Moisturizer for Dry Skin : Dermatologist-Recommended",
+        "snippet": null,
+        "domain": "sunshineskinclinic.com",
+        "url": "https://sunshineskinclinic.com/best-moisturizer-for-dry-skin-india/?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Sunshine Skin Clinic",
+        "publication_date": "2026-01-22 00:00:00 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best moisturizer dry skin winter India ceramides fragrance free dermatologist"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Haan — **Indian winters mein dry skin ke liye cream-based, barrier-repairing moisturizer** best rahega. Ceramides + hyaluronic acid/glycerin jaise ingredients useful hote hain, aur winter mein gel se richer cream generally better hoti hai. [etadviser.com](https://etadviser.com/beauty/body-care/best-winter-moisturisers-recommended-by-dermatologists-for-smooth-nourished-skin/articleshow/125545009.cms?utm_source=chatgpt.com)\n\n### 🧴 Face ke liye\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Moisturisers for Winter: Best winter moisturisers recommended by dermatologists for smooth, nourished skin - ET Adviser",
+          "snippet": null,
+          "domain": "etadviser.com",
+          "url": "https://etadviser.com/beauty/body-care/best-winter-moisturisers-recommended-by-dermatologists-for-smooth-nourished-skin/articleshow/125545009.cms?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "The Economic Times",
+          "publication_date": "2025-11-24 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "17867313227970282146",
+          "merchants": "Nykaa + others",
+          "id_to_token_map": "-c2kwnicdVM5ruNWELR9AseOJjU-BDzycZ3BD7hK5Je4PS4iE4KbRIr7JkqED2P8WYBxaBvwWWYCn8Oh5cndUQPdXV1Vjf77ux9fs-IvlZvCqJsNUa1v88AYZaifS5P43A1tOidTkf4BGcgQDE6RgKQZGiNJnPqcRFNUteci_ROjGYqGGMRxmqUBzuAYQf2eZ1FaFU2mn07ZILbJfygUgeEspCmGoSEJGYrFfyvq6Jx9Kz9gcBwncYZmWIrGGMDiOHw_pOMXwhBCjMIJEhAAUoClWJohKJr6xbB0Mfyf4sd-zob7l7dFkxbRUzrcn8ayaJ6Wopmy4alui3Gah2J95Ek2RHWRZk_5ParmoW2K5Cl6EPp47r6xZrGHcIxhGAAAw-IPCe8f7b--767Ta37-MM9V9uXn5UngFFMRlKPp5VPgWblfy-VeSrGolu_-0RyRR5aRJ72eq9eiec2r16z51Ebd9ZR8_f4f6ZoIwpAIptN1rmgB5HUwLpVFk0YsqdzZgdrJEl0laNwTksjeErVbJE1mimlBcMe2R0zeZnW6ehKArmvVDqbtTNBC00ltdMd28U6VrG26Jp7V-6uKHDuYnWNyO1RBewSqbVX5NatdIzhWalKxY-CwRiwGhtbIw8EJioOzLH5jUVnVRQgBqNv5YiGsjYBlB9JNSdd0tncqdfBud217Xg-73LbrfJtt2Uu8tYjIdhatkjvkWvfYy4nsot3dAqtsyC0mSHNPwmBaV6pWT4NVaWuAV_sIT8kYHxcHKGtQV4oPtBEJYInlznaBdciqcrFsF7lHOfK9QEHO1O6dXHK22GrJPDS9domd_HZwxtUrLfjYKSMv13W5UjwxOLnbm2jXVhABhTh4U32AnWk65Og0gY08rUIea7hNYDpAwoJLIDglQDLo-FRm82TnmpbUTdnOvesyPxwB20SYBLaFyls77a57gWNL7MMqtkuOlRiX6ZhtS8wEj_s-tEQVX7jO1Hy4jcPpC-BkckI6sQA3t6--xxU6HsOV2Bryir-kpdOf3357MgwwOKAw-lPStmWRff3hpzBEWTIP2QbZlvHMaXWwRJBQzzkrmz614Dd-hS_CMTyMYSl0TL8pq3BVZqxOUp5PYkPGrcJTrASxPmaW-2B3qcr-cs487jp4ww5Ns70YnEyBMDgoPLJ48d0bJHGWsAsRd5CQYkvPwtlUbpTEv3vDScIzl6quFI038tT6qnjgER6kezRw_ErDBj8T_Vbb2_3GJgg10JkS6qZf0j4HW-7dG9F9PtOe2xDA4uHhDETeSFaEZA_kp8KXOL4NvD6SkTFxl0XiHvHujaaIzyQkntGs4rMs-36NB9edd72GlzncS2ufJQ1qN1Ozzo8ZlV9r2nyJBxvs8ljcy8akhuIlRNcJQbeIM442Ar5bsy7aVtbmCMbQ4JJQM4T2QrPKxJq6nunE2JO81W500Hs9r8dGC6tu8AgFai_qee-6QrL2a-w30VHgVX6fCyAbJSwBW5LHJkBseHIpJQPam3r2hN6bloJjSenFWY3MeFixX1PXIEzPIBLm1kTKCxhvvRLV-bG91Zv-5bTXxEtTHd0ZrroFCsPMAkImCuc6-CeA6exCgn8BQSf2KQ",
+          "title": "CeraVe Moisturising Cream",
+          "rating": null,
+          "price": 422,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/3CgmFnicDclJDoIwFADQEwGmBAwkxghGhKIGZJDupJ8wCJRCHfBQ3sfb6Nu-76cSYphMRSl6Os6DKEASea_K5SSuoqYyZZ0yVWwY6r5c89X_zM0RDIeei8g9hf1oZewVJ7UnhSjVsrmKPILaQyNhF3ZR4oNqbInaYiAtyknjBPHz6UJXWt0eUnF7SF2RJtqbh3nsIWIx29FtvtQx17gXtpCS-6zhYMGCwJ8RXH4UwT2u"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "JAt_apuPDJmxur8Pk_OgkQ4",
+            "product_id": "3838482650578715526",
+            "catalog_id": "17867313227970282146",
+            "gpcid": "3912651888000892129",
+            "headline_offer_docid": "3641293768873538692",
+            "image_docid": "17222528789671809223",
+            "rds": "PC_16245040360969784676|PROD_PC_16245040360969784676",
+            "query": "india+dry+skin+winter+moisturizer+ceramide+hyaluronic+acid",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIXQWhtZWRhYmFkLEd1amFyYXQsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "18086017904198434339",
+          "merchants": "Amazon.in + others",
+          "id_to_token_map": "zT5bhXicbVC5juNWELT9BY4dbWoMBDyeIncwAU-JlMSbj0dCUHxPIsWbInUQ_hhj9gDWoW3A3zIb-DscWobT7agbVV1V3X9_9-MrLv7ShTFJu8mS9fo2DZxVJuaxtOkv3dCiKRsL9AfPEACQPEmwBGAZmn3MX7J0TKv2WKA_CQ5wLCCWPKAJnqMpmqL433OcoqposHk44EFus4cKxfNLkqA5ngYEy9IkxTG_FXV6xP_DPEHSD3GeY1hAUgTHAO7DgM5vpCUlHA0owJL0kmUBWDLsw-IXyzHl5NvYp37Cw_3tfdGgIn1Cw_3pXBbN07VoRjw81W1xHqehmB99hoe0LhB-yu9pNQ1tU2RP6SPNp2P3X6ZvaH940H_90F3G1_z4cZoq_Pbz9UkSNFuTtNAO8jEOnDyq1XKrICKt1XsU2mc3YMo0UF6P1WvRvObVK24-t2l3OWRfv_9HuWSSNGSS7XcdlB3gNujmBsTK90s6ViojU7rA8FQD-Z3nQLgzICJ9X29MqNp2ledpoNHuyfC9RiOjRhv9QA9R7dxxWE1RiYa4QiWUc8u4g_te7byMRCscjHY6xw-3WwEBNPaUmHqrSserbN7VhBMRaBMR_hx5hmecUJlBvQpOleYFzgWHHWsTHUhVJ0cz1L06vu9kyOxUgfZqCLy1Hrl-vMkUdReC8ZRWGeNX4ipbi-ddcJt2suHvHrf6njqbge5ug44KfGTuC-Lqho4MV_Qc-ZX3yF7vyYrEijLv5YzBNdFmUGSMWrX2qu74QNdNqJNmmJ_jFXNHqiHGJTpDuVIhRLU7Qzsrq9YMuxsi9Qb5_CWcDRVSMWX4_OBDvvIao0upvDYKwg_neItU6HtlRyBZFY1V3Kfr3IQhsuOac1XQiUjl82wNbUfpRryGd1MVhxDwTUooYFXoorM27mYQ-3it3HE9Vl7QVRk0XLuslJjISbuu4DZg9IiIm4-383B4A4LKjK5JXwHMvUsUCIVJ7qmZXlnqTG5Q6ffH98SSY5cE4EjAEsvPWduWBf76w09J4uJsGvDC9RzrRTDq-JpStH7MedWO2Ct5E2dqI4XJ7pyUUsf1i7JKZm0i6gyJYra3VNIpAs3JXD4i7HIbr09V2Z-OOBAuQzCs3XHyrpagsiCJd5roOqL8_M5VBEdaJ66wU1zNU16ko63dWEV8fico0ouAdKik5xtzaCNd3okuGaOtOwjivKQa8kj3K2Pr9QuPpvXY5ErKtKNyGQlUKzy_k-HLcRnAhgaOSO2OQBatbHZdNQD5oYgUQWzjoE9V1xqF01URHvX8ztDkF4aiX9xJJydVjaKajC_r4HJJTlOyVeYeZ43bLsZmnh47ujjXS3uzHzywzvfyVrVGPZFPiXsZXQoWeywsrVjsZtylq8pZhOCcWEKWGJbUnpa8NvK2aWKTPveM6LQLE_RBL5p7q6WqbghojTI2-nELoZTN_byPmjSURF3c5hLAZ4XIwIoRiRHQC5G5lopFeYt6CqQ-GK-FwDPKxp8tbD1esZ0RtGg7sOiMuzWptgHnW6-ldR62t3rRbw5bQz41VQgnajYdUFg2jmmVLvzLEB0AYfJXBvwLykP1Jg",
+          "title": "Re'equil Ceramide & Hyaluronic Acid Moisturiser",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 1300,
+           "rating_max": 5
+          },
+          "price": 265,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/mM4QY3icDcltCoIwAADQE6URphZElKQxlqYmjf6IzuVXzalzbZ2q63Sben_f91Nxzsa1rhOKB8U4KWY8p3OtHHnGa6zh7qmPVcdYTcttv_nfeucXKw-HUZvEhFJ7aifHuF7g269SsURxyAJn56Na9aZ13Lvl4byAs-h9ezQN5IO9Tx1sJb0UwngoEdSxC0Aq4KJUDUSFJ8WJgERiOV2GgEgqqha_cmCCoKOZge7hD_h1QMw"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "JAt_apuPDJmxur8Pk_OgkQ4",
+            "product_id": "9510029216106546951",
+            "catalog_id": "18086017904198434339",
+            "gpcid": "8403062476600756433",
+            "headline_offer_docid": "3997214894016642385",
+            "image_docid": "9124654985602318508",
+            "rds": "PC_8403062476600756433|PROD_PC_8403062476600756433",
+            "query": "india+dry+skin+winter+moisturizer+ceramide+hyaluronic+acid",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIXQWhtZWRhYmFkLEd1amFyYXQsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "6274891279372766082",
+          "merchants": "Plum + others",
+          "id_to_token_map": "HGC5L3icdZLJjqxWEoZbfoJe9Mqru7VKKR1m8FUtGDOhkukAh2GTYkogmUlIslA_TV3bkr20W-pnuV74WYy8tmMTofgifkWE4o9__fsjr_6v8fMlHhZL0trnMrFWfTGL2iZ_HqY-W9K5yn4jSQAIggAkzeIUhbEUDX5O4zlu-mKnNM6QLIfhDEcwOEPTgMV_LfM4a6ouN6_XfJL6dC_jSIpmOQ7nAIVTLLvLML9UbVzkf-H_YTRGEDsmMZreKY4Dkv0yZfevpCVeMMDS1J6naIbiKIbAcAD-a0FTuvwD_HFc8un96_dVl1XxSza9v9zrqntZq27Op5e2r-7zMlXbHqf5FLdVlr-U73GzTH1XpS_xPtCPxfDXWH8j_mWv_5ViaJLGWQbDOQoHBE5TX4bH_FEWPyxLk3_9bn0RedVWRTWw_XKOfFiGrVKf5QyLW-U9DOy741N17MsfRfNRdR9l85F3P_Xx8Limv3_zH7lfJfG-irY3DEiCwJVKMzlBENeDmgbQ8E9Zn7gocrrIQJ68QSmTkdwscV08PWBseqNEXsvOumt02dFevVM5ZY2O6W3Zxa4ReEGx6p63xseIMo7GTffLW-whLZObd1TPTQDme9w0qtFmU7g1oYcUIQKzCVvFc30YZKAnQ0Jrw2AQE4DVDqauqNUweCqrtIaCv-uFqBwhZlimP8Coi2S7hjY6Gk3iUUK8qURcwyX1DSmV5C0BkRl3BWUE6J4hTnJcBbi4QtlBeQ035EceJyUeonw_Ipy2tNNbdDZdrfeUwYQeppmIM_VOWI0j5kSBZiVSszh-CXS8AGffMN0jhelyhDwJ0jqRkknQQNTphHH0MNdTIFSg6p2QaJyUaxYIo3-Ck91SzhkJeIxFeiQJ7e7H0NOBfizlxKtn45aJads02ZHdoFyviEDk3u_BGmyhxzoKGIRM4cr0hGwoD3N-Qu-mIkwB4LoYk8Gx0gR4Mt7NfTvdi5Sstbe8RbLpFWuicO96EwV-S70lLlzjDgk_PO_T9SvgFWp2THIFqHQfoc9XJp4QG3m0lA1_y2pvLL7HGJZm9tfFAY0xP6V9X1f57998e7k4ebpM-cFxofXKG220xgSpFSWn2CG94k9hI97E4KLfL7U4sOOhbi6bumBtmglCmlgKDitfhanDhZhdn6PTranHW5H7_GPyp5MzL-5q8QoNLpGuCg4UpM-fHJmH4uni8LrsqK78Kha2-qRl4fMnXhZf-UxDcnx_Utc-1CRdcPAoOzsTL2wM0eEFOR6NszseXJLUIpOtCdMOaybkiZ7__ElCrwXjo44EUCD0AkiClW6Oo_igvFahzAt95I-x4lgzf1tlfrfPnwxVeqUI8tVZNHxRlDBs8ehx8h-Py225nOVtzNPO6Q9zty17jyZsLWO_JZMLTmUinRVr1i7S7eI8ZodAVZLzjBUJw5YP8bGBhwDcLxafXgxL7G8Mp86cbZq5Sd5HSoD9wQSjPwpmYvVEM0w-qRLGm1acERLTbdySsIsDUdCEcymC_C5jKThSAjYD8iBQay1bhHtoF18c_XmteI6S37zNyq39FOctQxZp-xaZss8uVt_A_TmqcVsG_bM9jG_XsyHduiZAC7GZEFSWnUekQlbeYwqvADO5lQJ_Aq_xADg",
+          "title": "Plum CeraSense Moisturizing Cream",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 230,
+           "rating_max": 5
+          },
+          "price": 299,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/x4k_E3icDcndCoIwGADQJ8qfoLIgokI0HaZbaXUTa-oq0E2_odOn6nV6mzq35_t5KiVhZZpFzdpBqiKfqEdtGRwUVS9mMFGZ8BRSvmq-adb_W22jfOkxTEKwRFS8iXcLUqGtXZ-5EOvRpzLUNy-jUEGHxXVbjdpOi-NAIUDnzLkfnCTmfmsnab3I9zMSYqlcenJ5ixLbYxI10RE39qVzrlr2iJUzEqdTF5Uw14T_AAmSP9Y"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "JAt_apuPDJmxur8Pk_OgkQ4",
+            "product_id": "4400333046825518560",
+            "catalog_id": "6274891279372766082",
+            "gpcid": "10865668567595731200",
+            "headline_offer_docid": "9456899290525885187",
+            "image_docid": "16133992416688522048",
+            "rds": "PC_10865668567595731200|PROD_PC_10865668567595731200",
+            "query": "india+dry+skin+winter+moisturizer+ceramide+hyaluronic+acid",
+            "mid": "576462871295203265",
+            "pvt": "hg",
+            "uule": "w+CAIQICIXQWhtZWRhYmFkLEd1amFyYXQsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "6803182781847443160",
+          "merchants": "The Derma Co + others",
+          "id_to_token_map": "C53noXicbVPJrqNWEE3yBVln9baRZekyGeint2C6NtjMcBk2CAM2mBmDB5SPiV4PUmeZjpRveb3Id2QZd9Zdq1KdU6eOjlT__PDza1b8rXBjFHeTISr1bRoYo4z0Y2mSn7uhTadkLNIvFMWQOLuimRVO4hhNgxX9OYnHuGqPD3TFAAJjcJrBGJImSQJbgT_zLE6rosn0wyEbxDYp0r8wjMIwhmIJnCYYlqbYFYv9UdTxMfsf_4IzgHpQKHrFUiucYXGCfD-k5zfcECKKZsHjLk2yDEusKGrFkL8Zli5G38c-9lM23N_eFU1axIt0uC_OZdEsrkUzZsOibovzOA3F_OiTbIjrIs0W-T2upqFtimQRP9x8PHbfPH1H-_2D_vv77jK-5scP01Rlb79eFwInm7Ig-6aXj6Fn5UENy52UYnEN74Fvnm2PKmNPej1Wr0XzmlevWfOpjbvLIfn647_SJRGEIRFMt-uQaAFnI99DR7MsjC11X8EyB-kaoTWJyzYq4r1M6oAuKQcdQeCWEuauFTIukW0W2MWV1NmD4SGUlNYRFQsRKVKBgkxHudsOdJMGxskchtoans25KhAYCfuEtNTVhuQUimiTtmapGZnExj5-C5Im9Jw61VUb8zKYEgkBp5iwDvt1pzkOrFR87K06hd5aIxKRu6rrtFd96-ZI1aj5yAirfKu7XRUixXbX2MUuU96tIe42aFQJqLgl7CzRJAIXk02XrfcbRUbeyDsnaKkV9E1HG1Cj-c7Jstx1Ne9nzUFVe1MlLTSxknTK0EY-X6Ye0nUJwm9ewzV1TzxMDvx0DKVcUEX-bJ4ec1QNZi2DzBsty9NsdFKmEOaYKsGVVsl3tK74fVWd1HI87zGrQo501zZIizehi-rEhqDjU8jmyQaZltSN2QbddcgPPmCbGJPAulB4a6PddS-09rU1BA2vaB7WhBV6SD0iIOAJ4R3voHyjOgrx4XYeDm-Ag9Ro6-QVoNy5BB5X6PiemMm1AWd8m5Zuf3yHPT6PxgCDgxVGf0ratiyyrz_9EkV2lkxDtrQdy3jhtDq8xgSpHHMWmsHqit_4mdgKfqSeo1LomH5ZVtEsT1idpDyf7A2IW4UnW4nNBphZ7sLNqSr70zHzuMvgDRt7nJyrwcEViEJV5m2LF5-fbImzhE1kc6pky470IhxN-baS-OcnThJeuFRBUny-UYc2UESVt_Ew3dkDx8800eBHsl9rO6dfOiSphDpTEroZlHTAES33_CSilyPtoYYEFk-oRyDyRjLbNvRAfigCiePb0OtjaBsjd7pK3KOenzRZfKEI8sWeFHyCMAhqPLxsvMslOk3RTpr7LGnsdjk28_TYUfi5ps3tfnDAJt-LO2iMSiSeIvsy2gQq9hlHGyHfzVkXrytr6YNzZHBJpBlCe6JZeWRNXc908txTvNUuddB7Pa_vjZaousEjZULbKscdQkIy9_M-aGJf4BV-lwsgO0tYAtYUj42AXPLUtZQMwlnWkyf03ngtOJaStu5sZMYjit2cIoM0PYNMmFsTy1twvvVyXOd-e6uX_faw08RTU_loImbdAoVhZiEJycK9DMEBYDp7pcB_kgTzXQ",
+          "title": "The Derma Co Ceramide + HA Intense Daily Face Moisturizer",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 297,
+           "rating_max": 5
+          },
+          "price": 314,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/Em5F4XicDclJDoIwAADAFwGGLWJijKC4bwgtnoi0FVBbWlsUfJT_8Tc61_l-SqW4HBgGYejRcUWwpnJm6oVUZ1UhHdXUkGXNecWKkRj-bzDeYm-Gjp1sLwDQl9qIIC1mpI5oFOL9qdxcLJG1Emo0dBnGCbnd12bLbdfxSH8Or9AOS0cGwH9Xzc2zBBQgd5ueHT8TlCFteq9if8LS2DHhdR3QVf481N0yTndiEfwAjyM-0w"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "JAt_apuPDJmxur8Pk_OgkQ4",
+            "product_id": "5584296786242177067",
+            "catalog_id": "6803182781847443160",
+            "gpcid": "5790177749893655684",
+            "headline_offer_docid": "11511859327389759691",
+            "image_docid": "2805151576956289234",
+            "rds": "PC_5790177749893655684|PROD_PC_5790177749893655684",
+            "query": "india+dry+skin+winter+moisturizer+ceramide+hyaluronic+acid",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIXQWhtZWRhYmFkLEd1amFyYXQsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n**Meri first choice:** **CeraVe Moisturising Cream** — especially agar skin *bahut dry, tight ya flaky* hoti hai. Ismein 3 ceramides + hyaluronic acid hain aur fragrance-free formulation hai. [etadviser.com](https://etadviser.com/beauty/body-care/best-winter-moisturisers-recommended-by-dermatologists-for-smooth-nourished-skin/articleshow/125545009.cms?utm_source=chatgpt.com)\n\n**Budget-friendly:** Re'equil Ceramide & HA ya Plum CeraSense.\n\n### Agar skin sensitive bhi hai\nFragrance-free moisturizer choose karo aur bahut hot water se face wash mat karo. Moisturizer **face wash ke turant baad slightly damp skin par** lagana helpful hota hai. [sunshineskinclinic.com](https://sunshineskinclinic.com/best-moisturizer-for-dry-skin-india/?utm_source=chatgpt.com)\n\nAgar tum mujhe bata do **skin type (dry / oily / combination) + budget (₹300, ₹500, ₹1000)**, main tumhare liye **1 exact moisturizer** choose kar dunga.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Moisturisers for Winter: Best winter moisturisers recommended by dermatologists for smooth, nourished skin - ET Adviser",
+          "snippet": null,
+          "domain": "etadviser.com",
+          "url": "https://etadviser.com/beauty/body-care/best-winter-moisturisers-recommended-by-dermatologists-for-smooth-nourished-skin/articleshow/125545009.cms?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "The Economic Times",
+          "publication_date": "2025-11-24 00:00:00 +00:00",
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Moisturizer for Dry Skin : Dermatologist-Recommended",
+          "snippet": null,
+          "domain": "sunshineskinclinic.com",
+          "url": "https://sunshineskinclinic.com/best-moisturizer-for-dry-skin-india/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Sunshine Skin Clinic",
+          "publication_date": "2026-01-22 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

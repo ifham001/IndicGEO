@@ -1,0 +1,448 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S03",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 7,
+  "promptText": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+  "cellId": "S03_hg_chatgpt_r7",
+  "startedAt": "2026-08-14T13:06:43.144Z",
+  "finishedAt": "2026-08-14T13:07:01.366Z",
+  "durationMs": 18222,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Haan — **dark spots + dull skin** ke liye main beginner ke liye **10% Vitamin C** se start karunga. India mein meri shortlist:\n\n### [Minimalist 16% Vitamin C + E + Ferulic Acid]()\n*₹569.10*\n\n### [Deconstruct Vitamin C Serum]()\n*₹457*\n\n### [Dot & Key Vitamin C + E + Niacinamide Serum]()\n*₹278*\n\n### [Plum 15% Vitamin C Serum]()\n*₹457*\n\n**Meri pick:** 🥇 **Deconstruct 10% Vitamin C** — agar aap pehli baar Vitamin C use kar rahe ho. Isme 10% liposomal Vitamin C + 0.5% ferulic acid hai aur formula relatively beginner-friendly hai. [thedeconstruct.in](https://thedeconstruct.in/collections/shop/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com)\n\n**Agar dark spots zyada prominent hain:** Dot & Key ka **10% Vitamin C + 5% Niacinamide** bhi achha option hai; brand specifically pigmentation/dark spots aur dullness ko target karta hai. [www.dotandkey.com](https://www.dotandkey.com/collections/vitamin-c-skin-care/products/dot-key-10-vitamin-c-e-5-niacinamide-serum-for-glowing-skin-beginner-friendly?utm_source=chatgpt.com)\n\n**Use kaise karein:** subah cleanser → 2–3 drops serum → moisturizer → **SPF 50 sunscreen**. Pehle 2–3 din/week start karke tolerance ke hisaab se daily kar sakte ho. Sunscreen bahut important hai—warna dark spots wapas/darker ho sakte hain. [thedeconstruct.in](https://thedeconstruct.in/products/15-vitamin-c-serum-with-liposomal-technology?utm_source=chatgpt.com)\n\nAgar aap mujhe **apni skin type (oily/dry/combination/sensitive) + budget (₹300/₹500/₹1000)** bata do, main **ek exact serum** choose kar dunga.",
+  "citations": [
+   {
+    "url": "https://thedeconstruct.in/collections/shop/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com",
+    "source_name": "thedeconstruct",
+    "position": 1
+   },
+   {
+    "url": "https://www.dotandkey.com/collections/vitamin-c-skin-care/products/dot-key-10-vitamin-c-e-5-niacinamide-serum-for-glowing-skin-beginner-friendly?utm_source=chatgpt.com",
+    "source_name": "Dot & Key",
+    "position": 2
+   },
+   {
+    "url": "https://thedeconstruct.in/products/15-vitamin-c-serum-with-liposomal-technology?utm_source=chatgpt.com",
+    "source_name": "thedeconstruct",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "17.9374 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141306-2163-0629-0000-30871536fc4c",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "17.2888 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Dark%20spots%20aur%20dull%20skin%20ke%20liye%20India%20mein%20konsa%20vitamin%20C%20serum%20kharidun%3F&hints=search",
+      "datetime": "2026-08-14 13:07:00 +00:00",
+      "markdown": "Haan — **dark spots + dull skin** ke liye main beginner ke liye **10% Vitamin C** se start karunga. India mein meri shortlist:\n\n### [Minimalist 16% Vitamin C + E + Ferulic Acid]()\n*₹569.10*\n\n### [Deconstruct Vitamin C Serum]()\n*₹457*\n\n### [Dot & Key Vitamin C + E + Niacinamide Serum]()\n*₹278*\n\n### [Plum 15% Vitamin C Serum]()\n*₹457*\n\n**Meri pick:** 🥇 **Deconstruct 10% Vitamin C** — agar aap pehli baar Vitamin C use kar rahe ho. Isme 10% liposomal Vitamin C + 0.5% ferulic acid hai aur formula relatively beginner-friendly hai. [thedeconstruct.in](https://thedeconstruct.in/collections/shop/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com)\n\n**Agar dark spots zyada prominent hain:** Dot & Key ka **10% Vitamin C + 5% Niacinamide** bhi achha option hai; brand specifically pigmentation/dark spots aur dullness ko target karta hai. [www.dotandkey.com](https://www.dotandkey.com/collections/vitamin-c-skin-care/products/dot-key-10-vitamin-c-e-5-niacinamide-serum-for-glowing-skin-beginner-friendly?utm_source=chatgpt.com)\n\n**Use kaise karein:** subah cleanser → 2–3 drops serum → moisturizer → **SPF 50 sunscreen**. Pehle 2–3 din/week start karke tolerance ke hisaab se daily kar sakte ho. Sunscreen bahut important hai—warna dark spots wapas/darker ho sakte hain. [thedeconstruct.in](https://thedeconstruct.in/products/15-vitamin-c-serum-with-liposomal-technology?utm_source=chatgpt.com)\n\nAgar aap mujhe **apni skin type (oily/dry/combination/sensitive) + budget (₹300/₹500/₹1000)** bata do, main **ek exact serum** choose kar dunga.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-face-serums-in-india?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.dotandkey.com",
+        "title": "Dermatologist-Recommended Face Serums in India (2026)",
+        "description": "DERMATOLOGIST-RECOMMENDED SERUM FOR INDIAN SKIN  Here is how dermatological guidelines translate into real-world formulations that actually work for Indian skin in 2026.  1. THE GLOW BOOSTER (FOR DULL...",
+        "breadcrumb": "dotandkey.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.dotandkey.com/collections/dullness-hyperpigmentation?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.dotandkey.com",
+        "title": "Dullness & Hyperpigmentation by Dot & Key",
+        "description": "DULLNESS & HYPERPIGMENTATION  NO PRODUCTS FOUND Use fewer filters or remove all  BESTSELLER All Skin Types Vitamin C + E Sunscreen SPF 50+ PA++++ With New-Age UV Filters  Image: Full Star Image: Full...",
+        "breadcrumb": "dotandkey.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.dotandkey.com/collections/vitamin-c-skin-care/products/dot-key-10-vitamin-c-e-5-niacinamide-serum-for-glowing-skin-beginner-friendly?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.dotandkey.com",
+        "title": "10% Vitamin C + E Face Serum with 5% Niacinamide",
+        "description": "10% VITAMIN C + E FACE SERUM WITH 5% NIACINAMIDE  Loved by 865+customers  Suitable for: All Skin Types  Reduces:  Image: 10% Vitamin C + E Face Serum with 5% Niacinamide  Dark Spots  Image: 10% Vitam...",
+        "breadcrumb": "dotandkey.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.dotandkey.com/products/dot-key-10-vitamin-c-e-5-niacinamide-serum-for-glowing-skin-beginner-friendly?irclid=RPlPJgD6W87c&utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.dotandkey.com",
+        "title": "10% Vitamin C + E Face Serum with 5% Niacinamide",
+        "description": "Images Details Ingredients Benefits More From Potent Serums Reviews  10% VITAMIN C + E FACE SERUM WITH 5% NIACINAMIDE  Loved by +customers  Suitable for: All Skin Types  Reduces:  Image: 10% Vitamin...",
+        "breadcrumb": "dotandkey.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://thedeconstruct.in/products/15-vitamin-c-serum-with-liposomal-technology?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "thedeconstruct.in",
+        "title": "15% Liposomal Vitamin C Serum for Glowing Skin & Dark Spots | Deconstruct",
+        "description": "DECONSTRUCT BRIGHT + GLOW 15% VITAMIN C SERUM WITH LIPOSOMAL TECHNOLOGY  Reduce  Dark Spots  Dullness  31 reviews  Net Quantity :  [Input] 20 ml  Product variants  [Select]  15% Liposomal Vitamin C D...",
+        "breadcrumb": "thedeconstruct.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://thedeconstruct.in/collections/shop/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "thedeconstruct.in",
+        "title": "Buy 10% Vitamin C Serum For Face Online at Deconstruct",
+        "description": "10% VITAMIN C SERUM FOR GLOWING SKIN WITH LIPOSOMAL TECHNOLOGY | CLINICALLY TESTED  Reduces:  Uneven Skin Tone  Dullness  936 reviews  Net quantity :  [Input] 30ml [Input] 10ml  Product variants  [Se...",
+        "breadcrumb": "thedeconstruct.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://thedeconstruct.in/blogs/skin-information/which-vitamin-c-serum-is-best-for-face-in-india-top-picks?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "thedeconstruct.in",
+        "title": "Best Vitamin C Serum for Face in India | Clinically Tested & Gentle",
+        "description": "WHICH VITAMIN C SERUM IS BEST FOR FACE IN INDIA? TOP PICKS FOR OILY & DRY SKIN  Yogesh Khute Last updated: February 06, 2026  IN THIS ARTICLE  Indian skin is exposed to intense sunlight, high UV radi...",
+        "breadcrumb": "thedeconstruct.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://thedeconstruct.in/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "thedeconstruct.in",
+        "title": "Buy 10% Vitamin C Serum For Face Online at Deconstruct",
+        "description": "10% VITAMIN C SERUM FOR GLOWING SKIN WITH LIPOSOMAL TECHNOLOGY | CLINICALLY TESTED  Reduces:  Uneven Skin Tone  Dullness  1063 reviews  Net quantity :  [Input] 30ml [Input] 10ml  Product variants  [S...",
+        "breadcrumb": "thedeconstruct.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://thedeconstruct.in/collections/face/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "thedeconstruct.in",
+        "title": "Buy 10% Vitamin C Serum For Face Online at Deconstruct",
+        "description": "10% VITAMIN C SERUM FOR GLOWING SKIN WITH LIPOSOMAL TECHNOLOGY | CLINICALLY TESTED  Reduces:  Uneven Skin Tone  Dullness  797 reviews  Net quantity :  [Input] 30ml [Input] 10ml  Product variants  [Se...",
+        "breadcrumb": "thedeconstruct.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://thedeconstruct.in/collections/serums/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "thedeconstruct.in",
+        "title": "Buy 10% Vitamin C Serum For Face Online at Deconstruct",
+        "description": "10% VITAMIN C SERUM FOR GLOWING SKIN WITH LIPOSOMAL TECHNOLOGY | CLINICALLY TESTED  Reduces:  Uneven Skin Tone  Dullness  1047 reviews  Net quantity :  [Input] 30ml [Input] 10ml  Product variants  [S...",
+        "breadcrumb": "thedeconstruct.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ndtvshopping.com/beauty-and-grooming/vitamin-c-serums-that-work-great-for-dark-spots-10929856?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.ndtvshopping.com",
+        "title": "Vitamin C Serums That Work Great For Dark Spots From Minimalist, The Derma Co, Plum To Foxtale - NDTV Shopping",
+        "description": "VITAMIN C SERUMS THAT HELP REDUCE DARK SPOTS AND RESTORE SKIN GLOW  IF YOU ARE LOOKING FOR VITAMIN C SERUMS THAT TARGET DARK SPOTS, FROM MINIMALIST, THE DERMA CO, PLUM TO FOXTALE, EXPLORE OUR CURATED...",
+        "breadcrumb": "ndtvshopping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.mrpuku.com/2026/02/Vitamin-C-Serum.html?m=1&utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.mrpuku.com",
+        "title": "Best Vitamin C Serum for Dull Skin & Dark Spots in India (2026 Honest Review)",
+        "description": "BEST VITAMIN C SERUM FOR DULL SKIN & DARK SPOTS IN INDIA (2026 HONEST REVIEW)  Honest review of Minimalist 10% Vitamin C Serum for dull skin, dark spots & uneven tone. Compare with Mamaearth, Plum &...",
+        "breadcrumb": "mrpuku.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy 10% Vitamin C Serum For Face Online at Deconstruct",
+        "snippet": null,
+        "domain": "thedeconstruct.in",
+        "url": "https://thedeconstruct.in/collections/shop/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "thedeconstruct",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "10% Vitamin C + E Face Serum with 5% Niacinamide",
+        "snippet": null,
+        "domain": "www.dotandkey.com",
+        "url": "https://www.dotandkey.com/collections/vitamin-c-skin-care/products/dot-key-10-vitamin-c-e-5-niacinamide-serum-for-glowing-skin-beginner-friendly?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Dot & Key",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "15% Liposomal Vitamin C Serum for Glowing Skin & Dark Spots | Deconstruct",
+        "snippet": null,
+        "domain": "thedeconstruct.in",
+        "url": "https://thedeconstruct.in/products/15-vitamin-c-serum-with-liposomal-technology?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "thedeconstruct",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "vitamin C serum India dark spots dull skin Minimalist Deconstruct Dot & Key 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Haan — **dark spots + dull skin** ke liye main beginner ke liye **10% Vitamin C** se start karunga. India mein meri shortlist:\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "1685475892778763542",
+          "merchants": "Apollo247",
+          "id_to_token_map": "r240tXicbZDLrqNGFEXTf5BP6PlVSxRvunUHGBfYXAPmVWWYIKAwxi5eNjYY5WNatx9SRxklkaLkT7oV5Vtyk3FPztHRPltLe__zw4_PRfWHtDCTtMeL9d5YTbm8FVppWaryl-7ckms-VOQ3IMoCLwmywkqSLImcwLNf8nRIaVtW5P2vhyIltGoKZ78vzss2_77j56pOy-J_-XfAyJIiAkGRZYmTGZZjBf7DmVy-slstkRSZB4LEAEFUJEYSJZb5aes5y-T72qf-Wpzvf9VV8wKg1WV4uFVD-nI-5A-X4nytP5XdC_P9h_q_0d2G50P58XqlxZ_jg6au3bW23ngGuqTG6eJj4ZRi-FzS56p5PtDnovncpt1tn3979Te8rjWtX2tu2HVo6TGB4WG8PATh0QZ57e2jUBbSnQ6s5eKc0c4OQbdNgQlcdjiSnW6Qo3kLuY7B1DPsO3AcYxS846JFuNuHDaHIIGvSHHr7iJx8jnWygyBE3oRpxKDaZAJo3SNmcLxVbNnYAvYKaYih2AovfLY6hCFnAhTaorVzGbzUL149mTuOMPms13EtbAKgdBmrs0Vtum4Yj1k99DajTNlJofkKDiREC1SXnI9iMw9Nxt6Z2w1uxxB7QQSUPaLUDrDOpjUV4qN3Rz7Qs5O-yCm1SAhwDAgXcRZv-aDDGC1SpNzjBi0x9l4y6w5iaW0bcevNpUBYm02BXmc1vdhh7LuM7ruBzftNt85myEeIVj5UxKIhN3JcnDfI4uwjFOLGQxGAvj4TzafKIUcvG8crf3U4OroKspnAmIG8UZkLb2XfHRx7eU1ARBUrNA6jG5iOxY4vX-6UIgpTqMz4aHMfp8t5_5VRdWHwHdGKI6ou73fs9qx7jsvRPcrym0SObupbIMmiBFgZsAojfM7b9lQV3179kiR-kV_PxRs_8LaPql3HY8oFmVnLzJRLQrNYsQP_RAhVRjmK6mWfSeNLjVfpEuo7fvOk7fQkhOZZvCl8uomsU-ltuV1faDg_FoNkbjbzPoKiYMwNjZ1xfPfah6qnrRJftaC_DuCjVrrrSYSLd69VqD2qxEQwvfLuEzAWYMb6ZeLoza_hIgvz1WDHUoStS6XOx76JT0c1kW0Y45NVTvy71_Z6-Shw_CPdMnA_7HPn7EB6SmRzv0qSq3OQKYmq2dqo0zwme3XTtipzTUOnLGETZrAn6xJ1y8Y_AN16ctptq_f1uGXCPPZsNWE3bca1WuMmt7CNanDzn8gtWDJKv8O13GmMZwg9qvNceSMjLxp139rW4mI0qBkAlmeuiamO4nSOV7EJfEXgJxxNcWD0QtujcLOWBoq32dO1WhlRfr9hSGY2LE9be3cL_D0Ro38BpBqreA",
+          "title": "Minimalist 16% Vitamin C + E + Ferulic Acid",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.3,
+           "votes_count": 1700,
+           "rating_max": 5
+          },
+          "price": 569.1,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/y0yTU3icDclRCoIwAADQE5kmJBlEGJs2tMhqUv4MnaZb5Zabph2q-3Sber_v-6m1lmphmmVD21HqsjB03tiTSulMMzqh4mGqWkjJmmr1XP5v4e0KN6DHKZghfLV6AvgrWrud8SRkZsjytS3UOWAQRs5BJfDed7cWVAHCvhUQMCfTi2_RFLmOJzOM1lsVDjHEaSd0hHYOj7ntwuGQDIOBkrxv3lk4bsT7NGf7h81_5BU9nw"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "7BJ_aqWBIfGHxc8P5o7DgA8",
+            "product_id": "1685475892778763542",
+            "catalog_id": null,
+            "gpcid": null,
+            "headline_offer_docid": "1685475892778763542",
+            "image_docid": "10879615988738023254",
+            "rds": "PC_7984157015697076720|PROD_PC_7984157015697076720",
+            "query": "minimalist+vitamin+c+serum",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICILRGVsaGksSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "16445706017506305309",
+          "merchants": "Tira + others",
+          "id_to_token_map": "oySz5nicdVHLjqNWEI3mC7KIsu79qCXej7R6wRtjczFvzMa6XDDXBgxtwNgoX9PzkCbLSaQoypfMLPItYZJllFqUqnTqHNWp-uu771-L4--8Z-1hGyir7lTx-3DLbmmKcqdP3aXNRzQc899IUqA4miMYesmsSAssSX1CcIB1W36DOYZheYIjSJ4lOJpgaUL8jAuY18dz4RwOxUVt0bc5liJJiuQEnmQIQWCYhfLLsYFl8Q_-Ky3yizrBLHxeIBiSJah3l7z_wmyV_dKwAsnzJM-IIisyHMPRP289R93_D_jhZSwu9z_zArXnfrgsRt5ejwNsjue36G1fXMbmQ9n9u9V_ye-aY_6Z5ZeSEkSKJhfPBEFT77rr8IrL9-NYF39MbxVp5a6U1cYzoh4aVe_HbAVj7bWsX4_nV1y_FuePLeyuB_T1zQ9aO6lKPylu2HWR6hGBat2dINd2kYyRlt_jc3ewG32Ap_ziz7Kfkd6iFdJF5M32Kb3mJJDtpJx8jV2HpHhClcjFCZj8JFf9KGWLGs9-01l-4vVhbeFIr6mMAmuosU5GkABRXpeG-OhX3pDpUQdDROWktYFJPjkBIBKKdZddJlCtptywgoTIcRoSVBTmadzgzjHlE6jlNk3kSxSlFmhSKtXBsTAjNaHRvIlE4Os6SFW8DbSKhlGXZia-phS-2mccIF1iM126xU3nORozFQpxy0I0wxM2shozWei1u6jbuOecylScoDOGoLKprBruWVBXhWoPu7gnQdXFwexZdpLSIEwPUZXqnlGbuwqDqLEiv9LTkBJNj9BBEd4I-wRAXC93rbAOqzq1Q2EIG9IJzfwUVZ7vx5GeaxNZNCLhEQIZ6_WuWDx6VGTZJ3yC84rwK2zEMfL1Off9WsTLb1Q_kV_gnB-iSCJD1b7btU4bR0v2THB34tSHSarl4eI_iDxYaSRScwUFngZqUU41HSLa897f-svhCyHp7OA7fLkbWRLcoK4xVHi314_bcJ4z1L6Q008kL3A8SQkkLbLkR9S21bH4-ubH_d4v0HgpHv3A2z5Ly08mSPl7uGpAH4NVIwTqNoZhVMeMzQB_kpvVZFiuuhezYn9RRrHd6ytlTbScVp8mOTme7fE2pi7gxGBqSt02cw2jW9O4c-icpbW1eXrwNclTzL0v2Zq_CrRnpXRXN06Tnx4kTXmWcivS4Jijx96Wh2mMHE_CYTe6qIlij9MVkEZAAhaxFmQ2sc2j0G87LY2H6elBjZ5LkYFBkHAHv6x60yXuTrY_UIT1OBGGJF9OeYiSrWvhVBKkJZ4ewEp9Zmn6OcXj477RtwpdXR0tFU5pb3PXw6RpGyN4JAoJMX55krjZZfP7dnueqcGYJq7d7IvplrLYhYlhvMz-fN2WxQDi3rrxPS4R4jk3UdZbsj00QjZD8ba-lmZ0X3EbZtNSBqb8OTYKtFprIDqrO3CQ6xicXUxhmGUoLU2Yv9yqJFVenGlj2cWARiAciipmN8ywuwuJ8KL1njUYfX1049R01heoW5d91_bI5LNDa-yczR1gVN-zOGjr4XbiZcNQd2OZwT5JwEq7q4-m7NNMwl4caOvZ32g68kA",
+          "title": "Deconstruct Vitamin C Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 1200,
+           "rating_max": 5
+          },
+          "price": 457,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/n5UP2HicDclLDoIwFADAEwFSiFoSY1ABP8DGD4YNwUcphVCwbUA8lPfxNjrb-X4qpXrpGAbhIKZekUJTD450KlWuGOjQtYasur5nnK6fq_85blzgAM7j7hSTPExeZi2Wy4GKfSZQ7Y4pdAnFCFVhybY2CfEQJDvhIw_O-8lfxHYTDcOhvrxu9ycDjCWcWivc-FBoUZ54MuDelT0q7WiZs8m3MovGZJyXvG2yd_oDIXw9zA"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "7RJ_aoTCIpjk7_UP5P322Qw",
+            "product_id": "11826360436365938512",
+            "catalog_id": "16445706017506305309",
+            "gpcid": "15058177174995946463",
+            "headline_offer_docid": "15211216871408844060",
+            "image_docid": "3976590453078041502",
+            "rds": "PC_15058177174995946463|PROD_PC_15058177174995946463",
+            "query": "deconstruct+vitamin+c+serum",
+            "mid": "576462892315930032",
+            "pvt": "hg",
+            "uule": "w+CAIQICILRGVsaGksSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10367078656437006279",
+          "merchants": "Amazon.in + others",
+          "id_to_token_map": "1XaF3HicdZTJrqNWEIajPEEWUda9yerKEofDmKu7wIweODYHOAwbCwO2mTFgY6w8ze1B6iw7kaIoT9K9yLPEHWWZ1PL_q1RVn0r11zffvabZ7_x8uYvO53jJrP3iam2FaMMyVvCx7ZrkEg9Z8iukASdAwEIoUjwjULwAPsbREJXNMUt-AxTk-IfGsRwDeYriaF78dEqjpMzqdHM4pJ3SxF_zeJHhGIphaUizLAsYTuB-yaromP7rA8BAyHA0oFnIM6LICtTbLuk_M1t5BzhIAZFnRR6wPMNDjhXYn7d4o-z-x3x_vqTd9GfSDE8_0txTkU5P12yIqqx-ip_6tLtU74_tP23_o_htlSWfWJ57DCMID4kTucd-1Nv2Oryeju8ulzL9Y3ySpYW1kBdrrJM-0ove9tgi8tTXY_ma1a-n8jWtPzRRez3EX779Xm1GRe5H2XLbliiYsl2t2xing0Xjs1Pji0Nrc7di6Lier2JKu9sZ8JGOa0cV1cgjJvKTPoT4bDlhh40wsImGTdqcLE-jkNZMto-qxA1XG2M-YV2TXQ-dkgKPSZ5g0ymBRUracbBhli2HK1JGFLo6Rtvs86XqUAFNSMvEUMujO9IRmLO2KwKblJwJhDH22NxWTtDxT32kUoPlz-_YY7cWLBXXSfzYwFzgL9E-X9wSNx7dGuvYJabnmjfkLtfIx5VrhNCnxvuaiI1VEBKR5Lr2wtVe78GevjF7XdSR37AhnXAOIX5AkvueIvdYBVqkD6u4KNu1HxoYYoL1Edpecw8ezEIKm2melK6PDj6c39F9iYiDrogKjdRYrpC6uKdGSBN3kPf6SIeados9XGBVdIPqtLE8PLd9Qpu1xO5h2zpaidKCdATOh9S7DVadwNBAJVIsW7snsl2Kp9jXcjvHpqcPtEskJnAFgDQt1LPlHBto2nghtqvTIXmgSrUGRPRNW3sMQyBBKZEm11laqQ3gu1vfHT5TksYO9oazZjkghM4VV-paSyy3xXTR-eYyU6yfwOP8eEALgBZp8CFumiJLv3z7w25np_GlS2e2g7cvEqrCMQIFA-Nsxh5XqM-bB7GzdqlRdmuktOzpqrdXpOOMY2raRIi8DTuHrSl6JBim2o8m59RwPaUy6ymdOB_QlNtdMBP2kVdyg7-ln9_YqoRlY2dLpmovHPVFPlqLG6fOn99IqvwiJUuiRtcb5VarWS6pZi0YMy4LD7vZxtFbOeWd0eQpF2p80-38XbhE4tUAcX58fqOQF5NqR9ax3AAtGmsReZFt2NtBUSSJ0SWtU7YmxLYWUTdL-hrPb9BCeXn8pReZvbXp-qpu3M2gZxpYhfw04-2s2SJHDotAaJFZWjOrB9d4VtxOw-pcQLaf5DgDpzKt5x7jGIrhn1cP-qNZBW6_cBFzO4D6SjVuMu4FzQoOAeDOiy2lun6Zp_V1yNfjPm7Qdbs57jWOh6NuaHY8ufpOV4pqX1U-AC6t50Y0CiqcGaxSJVZoCvImtHkNJe7U3PqCmjnRJUhijcoPhhccWeasrZeIYsaEqKW9ypo4ZJm5yi4XWSHAtdDnGGb9Uc67ZZyWyFpcmwO7L-fG5ZyI1d9XOOhk",
+          "title": "Dot & Key Vitamin C + E + Niacinamide Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 1600,
+           "rating_max": 5
+          },
+          "price": 278,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/wfDJ63icDclJDoIwFADQE5VBQowkxjBYJQQEFYLsoGWSqdCvwK28jrfRt33fTwXAuCaKeU-mlUFOEWS9JJQcUqiJQIZO5NXAWN2Xh3H_P0336O5E7hWikt0Y3hjN1cskYM36E62t4hiLu1kvLQaZk8UyB_dxdvSQjlPhxxzHEnkb3ZzAMVQCGSUTDsfWvHdRG-IsuJa45jQtvMa2b4mPOzVSkMpsGcURYvnWKH_LWD58"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "7BJ_aqqcJ4LXkvQP8aO54QY",
+            "product_id": "3216831533907480781",
+            "catalog_id": "10367078656437006279",
+            "gpcid": "16301975971574736585",
+            "headline_offer_docid": "17946404523255514686",
+            "image_docid": "11143346212537499580",
+            "rds": "PC_16301975971574736585|PROD_PC_16301975971574736585",
+            "query": "dot+%26+key+vitamin+c+serum",
+            "mid": "576462887366967860",
+            "pvt": "hg",
+            "uule": "w+CAIQICILRGVsaGksSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10026276995609489373",
+          "merchants": "Nykaa Man + others",
+          "id_to_token_map": "FLaBuXicdVPLrqNGEI3yBZGyyHY2WVmW6OadyV2AaTDYBps3bCygMe-HARvbytfcmUSaLCdRpHzKzCLfEk-yTWpRqtIpVanO0fnrq29e0-IP1tSO0aW36xEeuOxI3c-lKM4f-qHDl2Qq8EeOY0iCJiiOgSTJEwTPf0iiKaq7rMC_A4KADGQZnqcZgqc4nmTJj3ka4bpoU-N0SgepSwr8Gw0AwxAszbMUSz8HASR-LZooS_-FeRqwkKBokoIQAppkIXg34PETtV8dAUtDACiW4jiOZxmKghz8aW8a0vF_wJ_Pl3S4f_rxWkxRU7SLZDGmw6VZFC0uogUgvof0AtBfMvynxtFQLca-m8YFvtT1YqyK9uesT7689x_r3zVPUuhnw0Ca4TmaYCjAUvBdf51e8-z95VKnf86LlaAe1JW6NRV3jJRqtDy6ijz0mtWvRfua169p-0sX9ddT8vnrb1E3SqtxXh2cvnclk7BqXrLcvk_b-uTaeumu66tZhoHtPjVBOZ2WoRe0mhY39DpqwgNWeiciuMlrapi42LHQjbZs7Hhy6IeSeNCrfjIrYKSuOBwq17IlV8M2djHQW4vMp7iq7VAJRwsCpCN-dFoxCglEY9lVDrBWTL-vdIRHDOVIX2fA9TUQ1fwl9tFsSqake-HZJPUotDFlePU-IEbSJrU-8LV9YufIcs3KBb0cexg6kD4ZCBs26N3ASUAsiaXZhlpSagNWdnQEcyddh3u91BXLlw2zzR8WmvTIoTun6evUwycTOTCsdCe0zW0oi7MOTdcFshOQ4t5A6oRrU3eIXItb1zWR2Rl-2AR2QukguFlIlrADoFtVN1yKxMGVA7cNxbCWHzFZWzvkBrpCN3EzEwEEFm6F-QCnJpRruPVd12lqTyc1N5bqxoK3Uof67kA6llxi66lbjn3Ride7u2Pnrf8w6cTrV4c2idRKRgmp0mFtGk_zPJlXwVO3bVq6atigR6okN7vCawPpw65N3t_G4fSJEGR6sgx6r6LQuBfbXTIulfWSXvUNhamMqY7ZD4DlGBZADpAkw_ySdF1VpJ-__s5CgrlaHy1hhyzVRi-r7KDeGCS-fSOg1YuANRdFF7KKOYM8t2xyumtRhGODECzUk7cWYQfnWy-eEhtlG4NfnxoOnUrKFN6-kdyXA7VTi6Ugs5pTZUKHCfG47ncqcchmRRDPTbLpe70O9ptsFp7x9s3xaKXJZUiXlm3uXwS9CeeIFJeXTWgErOcKworSunNqKWN-KDiuYS1NcCrLu2tCnu1onUV5rd20VaTJjZzutfLa2hu_O5dhxly7nN3PK5-7U3NaPLlfN8-Luiq90CT50ir84FjNxDS2WvWqaK_Syr0SR52ljrdo8_SNkBmp7TEsw5SPdjpN2_LI0ZfRD4DmkfKjAr21JFa7s_SALQ_lrXilNuRlWEvDRW9kWomdurt6c8xepTt69Jy4Y8Mw1XZ-6aOki-uMuFXeNN_jLkjMm3MDp71foTtkN5Uc9Kdsb84eDAOfZwvLYyxtGkapLfkVYynivLsc056MYnU2hV6bpW53w3lwniK9Zgp2TR33iAdKNDTKYyhYLYh3-xB0sSzPD2KZUIg9ar2wdPzbuiLXTfY3mc72_w",
+          "title": "Plum 15% Vitamin C Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 5700,
+           "rating_max": 5
+          },
+          "price": 457,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/VcDS33icDcnbDkMwAADQLypbYpdKloW5bIJhEtMXoUURWlVL9lP7n_3Ndl7P90Ol5IuuqvWExZvLmgBZTVulXWQpO6xgNqoLZZx3U3ueT__TjZBAFyfooEUV8IGz9-KjGQl-GZCF7CrKCKYeNB-lQZbbCrVr7-_yMchdVo4djYHfVAiibDBqyHAx86Z0DKezJhenY2rjYBZ3MPS5ZRdJONOXA8zhCUS9WmLj_gDFRz1B"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "7RJ_aupTls2Q8g_4yqjBBw",
+            "product_id": "886305048623390099",
+            "catalog_id": "10026276995609489373",
+            "gpcid": "17521147488897644282",
+            "headline_offer_docid": "5116607597475094120",
+            "image_docid": "9517204534222153721",
+            "rds": "PC_17521147488897644282|PROD_PC_17521147488897644282",
+            "query": "vitamin+c+serum+india+10%25+15%25+20%25+dark+spots+dull+skin",
+            "mid": "576462569850641742",
+            "pvt": "hg",
+            "uule": "w+CAIQICILRGVsaGksSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n**Meri pick:** 🥇 **Deconstruct 10% Vitamin C** — agar aap pehli baar Vitamin C use kar rahe ho. Isme 10% liposomal Vitamin C + 0.5% ferulic acid hai aur formula relatively beginner-friendly hai. [thedeconstruct.in](https://thedeconstruct.in/collections/shop/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com)\n\n**Agar dark spots zyada prominent hain:** Dot & Key ka **10% Vitamin C + 5% Niacinamide** bhi achha option hai; brand specifically pigmentation/dark spots aur dullness ko target karta hai. [www.dotandkey.com](https://www.dotandkey.com/collections/vitamin-c-skin-care/products/dot-key-10-vitamin-c-e-5-niacinamide-serum-for-glowing-skin-beginner-friendly?utm_source=chatgpt.com)\n\n**Use kaise karein:** subah cleanser → 2–3 drops serum → moisturizer → **SPF 50 sunscreen**. Pehle 2–3 din/week start karke tolerance ke hisaab se daily kar sakte ho. Sunscreen bahut important hai—warna dark spots wapas/darker ho sakte hain. [thedeconstruct.in](https://thedeconstruct.in/products/15-vitamin-c-serum-with-liposomal-technology?utm_source=chatgpt.com)\n\nAgar aap mujhe **apni skin type (oily/dry/combination/sensitive) + budget (₹300/₹500/₹1000)** bata do, main **ek exact serum** choose kar dunga.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy 10% Vitamin C Serum For Face Online at Deconstruct",
+          "snippet": null,
+          "domain": "thedeconstruct.in",
+          "url": "https://thedeconstruct.in/collections/shop/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "thedeconstruct",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "10% Vitamin C + E Face Serum with 5% Niacinamide",
+          "snippet": null,
+          "domain": "www.dotandkey.com",
+          "url": "https://www.dotandkey.com/collections/vitamin-c-skin-care/products/dot-key-10-vitamin-c-e-5-niacinamide-serum-for-glowing-skin-beginner-friendly?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Dot & Key",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "15% Liposomal Vitamin C Serum for Glowing Skin & Dark Spots | Deconstruct",
+          "snippet": null,
+          "domain": "thedeconstruct.in",
+          "url": "https://thedeconstruct.in/products/15-vitamin-c-serum-with-liposomal-technology?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "thedeconstruct",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

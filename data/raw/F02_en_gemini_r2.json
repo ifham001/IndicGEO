@@ -1,0 +1,269 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 2,
+  "promptText": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+  "cellId": "F02_en_gemini_r2",
+  "startedAt": "2026-08-14T12:32:00.961Z",
+  "finishedAt": "2026-08-14T12:32:22.559Z",
+  "durationMs": 21598,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Finding a great pair of running shoes under ₹3,000 in India requires balancing durability, comfort, and proper cushioning. While entry-level shoes from premium brands often go on deep discount during online sales, specialized budget brands also offer stellar value.\n\nThe top-recommended running shoes under ₹3,000 include:\n\n### 1. Decathlon Jogflow Series (Jogflow 100.1 / Jogflow 190.1)\n\n* **Price Range:** ₹1,599 – ₹2,499[www.decathlon.in](https://www.decathlon.in/c/running-shoes-25400#:~:text=Kalenji%20Women%20Running%20Shoes%20Lightweight%2C%20Cushioned%2C%20Upto,Yard%20-%20Black.%203.9k.%20%E2%82%B91%2C599.%20MRP%20%E2%82%B92%2C499.)\n* **Best For:** Beginners, daily jogging, and casual gym use (up to 10–20 km/week).[www.decathlon.in](https://www.decathlon.in/c/running-shoes-25400#:~:text=Search%20for%20%22Rain%20Co%22%7C%20%7C%20Shoes.%20Running,and%20Trail%20Shoes-Black%2FPink.%203.6k.%20%E2%82%B93%2C299.%20MRP%20%E2%82%B94%2C049.)\n* **Why buy:** Decathlon’s Kalenji and Jogflow lines are legendary for value. The Jogflow 190.1 features enhanced cushioning and a comfortable mesh upper, making it arguably the most reliable and long-lasting pure running shoe at this price point.\n\n### 2. Adidas Entry Performance Range (e.g., Duramo SL variants on sale, Clear Factor, or Zapid)\n\n* **Price Range:** ₹2,000 – ₹3,000 (frequently discounted on the official Adidas India website or Myntra)[www.adidas.co.in](https://www.adidas.co.in/shoes_under_3000#:~:text=Extra%2015%25%20off%20above%204999.%20Sale%20price%E2%82%B92,Men%20Performance.%203%20colours.%20Sale%20price%E2%82%B92%20999.50.)\n* **Best For:** Road running, daily trainers, and brand preference.\n* **Why buy:** When sales hit, you can often grab marked-down Adidas performance running shoes. They offer great heel support, breathable uppers, and dependable rubber outsoles that outperform local fashion-brand sneakers.\n\n### 3. Puma Entry Performance (e.g., Puma Conduct Pro or Galaxis Pro variants)\n\n* **Price Range:** ₹2,200 – ₹3,000 (via Myntra, Flipkart, or Puma sales)\n* **Best For:** Gym training, short-distance running, and style-conscious buyers.\n* **Why buy:** Puma provides soft cushioning and trendy aesthetics. Models like the Conduct Pro offer decent shock absorption for light road running and treadmill sessions.\n\n### 4. ASICS Jolt Series (Jolt 4 or entry-level variants when discounted)\n\n* **Price Range:** Close to ₹2,500 – ₹3,000 during e-commerce sales (Flipkart/Amazon/Myntra)\n* **Best For:** Neutral runners and walkers needing orthotic-friendly support.\n* **Why buy:** If you catch a sale, ASICS entry shoes deliver incredible arch support and durability that easily outlasts competitors in the budget category.\n\n---\n\n### Quick Buying Tips:\n\n* **Check the Sole:** Look for rubber pods on the outsole rather than pure foam bottoms; pure foam wears out within a few months of outdoor asphalt running.\n* **Size Up:** Running feet swell slightly. It is usually wise to buy half a size or one full size up from your formal shoe size.\n\nAre you looking for shoes primarily for outdoor running on asphalt, treadmill use, or general gym training?",
+  "citations": [
+   {
+    "url": "https://www.decathlon.in/c/running-shoes-25400#:~:text=Kalenji%20Women%20Running%20Shoes%20Lightweight%2C%20Cushioned%2C%20Upto,Yard%20-%20Black.%203.9k.%20%E2%82%B91%2C599.%20MRP%20%E2%82%B92%2C499.",
+    "source_name": "Decathlon",
+    "position": 1
+   },
+   {
+    "url": "https://www.decathlon.in/c/running-shoes-25400#:~:text=Search%20for%20%22Rain%20Co%22%7C%20%7C%20Shoes.%20Running,and%20Trail%20Shoes-Black%2FPink.%203.6k.%20%E2%82%B93%2C299.%20MRP%20%E2%82%B94%2C049.",
+    "source_name": "Decathlon",
+    "position": 2
+   },
+   {
+    "url": "https://www.adidas.co.in/shoes_under_3000#:~:text=Extra%2015%25%20off%20above%204999.%20Sale%20price%E2%82%B92,Men%20Performance.%203%20colours.%20Sale%20price%E2%82%B92%20999.50.",
+    "source_name": "adidas India",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "21.3830 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141232-2163-0629-0000-b6ea84e2e039",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "21.3692 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:32:21 +00:00",
+      "markdown": "Finding a great pair of running shoes under ₹3,000 in India requires balancing durability, comfort, and proper cushioning. While entry-level shoes from premium brands often go on deep discount during online sales, specialized budget brands also offer stellar value.\n\nThe top-recommended running shoes under ₹3,000 include:\n\n### 1. Decathlon Jogflow Series (Jogflow 100.1 / Jogflow 190.1)\n\n* **Price Range:** ₹1,599 – ₹2,499[www.decathlon.in](https://www.decathlon.in/c/running-shoes-25400#:~:text=Kalenji%20Women%20Running%20Shoes%20Lightweight%2C%20Cushioned%2C%20Upto,Yard%20-%20Black.%203.9k.%20%E2%82%B91%2C599.%20MRP%20%E2%82%B92%2C499.)\n* **Best For:** Beginners, daily jogging, and casual gym use (up to 10–20 km/week).[www.decathlon.in](https://www.decathlon.in/c/running-shoes-25400#:~:text=Search%20for%20%22Rain%20Co%22%7C%20%7C%20Shoes.%20Running,and%20Trail%20Shoes-Black%2FPink.%203.6k.%20%E2%82%B93%2C299.%20MRP%20%E2%82%B94%2C049.)\n* **Why buy:** Decathlon’s Kalenji and Jogflow lines are legendary for value. The Jogflow 190.1 features enhanced cushioning and a comfortable mesh upper, making it arguably the most reliable and long-lasting pure running shoe at this price point.\n\n### 2. Adidas Entry Performance Range (e.g., Duramo SL variants on sale, Clear Factor, or Zapid)\n\n* **Price Range:** ₹2,000 – ₹3,000 (frequently discounted on the official Adidas India website or Myntra)[www.adidas.co.in](https://www.adidas.co.in/shoes_under_3000#:~:text=Extra%2015%25%20off%20above%204999.%20Sale%20price%E2%82%B92,Men%20Performance.%203%20colours.%20Sale%20price%E2%82%B92%20999.50.)\n* **Best For:** Road running, daily trainers, and brand preference.\n* **Why buy:** When sales hit, you can often grab marked-down Adidas performance running shoes. They offer great heel support, breathable uppers, and dependable rubber outsoles that outperform local fashion-brand sneakers.\n\n### 3. Puma Entry Performance (e.g., Puma Conduct Pro or Galaxis Pro variants)\n\n* **Price Range:** ₹2,200 – ₹3,000 (via Myntra, Flipkart, or Puma sales)\n* **Best For:** Gym training, short-distance running, and style-conscious buyers.\n* **Why buy:** Puma provides soft cushioning and trendy aesthetics. Models like the Conduct Pro offer decent shock absorption for light road running and treadmill sessions.\n\n### 4. ASICS Jolt Series (Jolt 4 or entry-level variants when discounted)\n\n* **Price Range:** Close to ₹2,500 – ₹3,000 during e-commerce sales (Flipkart/Amazon/Myntra)\n* **Best For:** Neutral runners and walkers needing orthotic-friendly support.\n* **Why buy:** If you catch a sale, ASICS entry shoes deliver incredible arch support and durability that easily outlasts competitors in the budget category.\n\n---\n\n### Quick Buying Tips:\n\n* **Check the Sole:** Look for rubber pods on the outsole rather than pure foam bottoms; pure foam wears out within a few months of outdoor asphalt running.\n* **Size Up:** Running feet swell slightly. It is usually wise to buy half a size or one full size up from your formal shoe size.\n\nAre you looking for shoes primarily for outdoor running on asphalt, treadmill use, or general gym training?",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Running Shoes Online Decathlon",
+        "snippet": "Kalenji Women Running Shoes Lightweight, Cushioned, Upto 10km/week, Jogflow \n100.1- Black. 5.0k. +8. ₹1,599. MRP ₹2,499. Kalenji Men's running shoes \nwith Carbon ...",
+        "domain": "www.decathlon.in",
+        "url": "https://www.decathlon.in/c/running-shoes-25400#:~:text=Kalenji%20Women%20Running%20Shoes%20Lightweight%2C%20Cushioned%2C%20Upto,Yard%20-%20Black.%203.9k.%20%E2%82%B91%2C599.%20MRP%20%E2%82%B92%2C499.",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ4DKY_gsmLfGGV9Q7mFTqRKDqVVAMA0NUqMPWuFGhSUoniQ_EHirCIltX1eSkpAteB4LKpIBZlrfHKeAMzac2Icv7MCN8XgFrfJOQ",
+        "source_name": "Decathlon",
+        "publication_date": null,
+        "markdown": "₹1,599 – ₹2,499"
+       },
+       {
+        "type": "gemini_source",
+        "title": "Running Shoes Online Decathlon",
+        "snippet": "Search for \"Rain Co\"| | Shoes. Running Shoes. Kalenji Men Running Shoes \nSuperior Grip Cushioned Upto 10km/week, Jogflow100 - Black. 16.3k. +7. \n₹1,599. MRP ₹2,99...",
+        "domain": "www.decathlon.in",
+        "url": "https://www.decathlon.in/c/running-shoes-25400#:~:text=Search%20for%20%22Rain%20Co%22%7C%20%7C%20Shoes.%20Running,and%20Trail%20Shoes-Black%2FPink.%203.6k.%20%E2%82%B93%2C299.%20MRP%20%E2%82%B94%2C049.",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ4DKY_gsmLfGGV9Q7mFTqRKDqVVAMA0NUqMPWuFGhSUoniQ_EHirCIltX1eSkpAteB4LKpIBZlrfHKeAMzac2Icv7MCN8XgFrfJOQ",
+        "source_name": "Decathlon",
+        "publication_date": null,
+        "markdown": "Beginners, daily jogging, and casual gym use (up to 10–20 km/week)."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Shop Sports Shoes Collection Under ₹3000 - adidas India",
+        "snippet": "Extra 15% off above 4999. Sale price₹2 759.50. ₹4 599.00 Original \nprice-40%Discount. ADI RUDH SHOES. Men Performance. Extra 15% off above \n4999. Sale price₹2 999...",
+        "domain": "www.adidas.co.in",
+        "url": "https://www.adidas.co.in/shoes_under_3000#:~:text=Extra%2015%25%20off%20above%204999.%20Sale%20price%E2%82%B92,Men%20Performance.%203%20colours.%20Sale%20price%E2%82%B92%20999.50.",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRFCpSLXYgmE4YY_Bw4r0ZJ5ZLFld_8rRyCAUSf9OUXji4x8mp17W81Na6D9gaz6V2Zxfjs0i86NCTDxkiMw1xM1Vy8PjiRbq8uCUE",
+        "source_name": "adidas India",
+        "publication_date": null,
+        "markdown": "₹2,000 – ₹3,000 (frequently discounted on the official Adidas India website or Myntra)"
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 13,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Finding a great pair of running shoes under ₹3,000 in India requires balancing durability, comfort, and proper cushioning. While entry-level shoes from premium brands often go on deep discount during online sales, specialized budget brands also offer stellar value.",
+        "original_text": "Finding a great pair of running shoes under ₹3,000 in India requires balancing durability, comfort, and proper cushioning. While entry-level shoes from premium brands often go on deep discount during online sales, specialized budget brands also offer stellar value.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "The top-recommended running shoes under ₹3,000 include:",
+        "original_text": "The top-recommended running shoes under ₹3,000 include:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### 1. Decathlon Jogflow Series (Jogflow 100.1 / Jogflow 190.1)",
+        "original_text": "1. Decathlon Jogflow Series (Jogflow 100.1 / Jogflow 190.1)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Price Range:** ₹1,599 – ₹2,499[www.decathlon.in](https://www.decathlon.in/c/running-shoes-25400#:~:text=Kalenji%20Women%20Running%20Shoes%20Lightweight%2C%20Cushioned%2C%20Upto,Yard%20-%20Black.%203.9k.%20%E2%82%B91%2C599.%20MRP%20%E2%82%B92%2C499.)\n* **Best For:** Beginners, daily jogging, and casual gym use (up to 10–20 km/week).[www.decathlon.in](https://www.decathlon.in/c/running-shoes-25400#:~:text=Search%20for%20%22Rain%20Co%22%7C%20%7C%20Shoes.%20Running,and%20Trail%20Shoes-Black%2FPink.%203.6k.%20%E2%82%B93%2C299.%20MRP%20%E2%82%B94%2C049.)\n* **Why buy:** Decathlon’s Kalenji and Jogflow lines are legendary for value. The Jogflow 190.1 features enhanced cushioning and a comfortable mesh upper, making it arguably the most reliable and long-lasting pure running shoe at this price point.",
+        "original_text": "Price Range: ₹1,599 – ₹2,499\nBest For: Beginners, daily jogging, and casual gym use (up to 10–20 km/week).\nWhy buy: Decathlon’s Kalenji and Jogflow lines are legendary for value. The Jogflow 190.1 features enhanced cushioning and a comfortable mesh upper, making it arguably the most reliable and long-lasting pure running shoe at this price point.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Running Shoes Online Decathlon",
+          "snippet": "Kalenji Women Running Shoes Lightweight, Cushioned, Upto 10km/week, Jogflow \n100.1- Black. 5.0k. +8. ₹1,599. MRP ₹2,499. Kalenji Men's running shoes \nwith Carbon ...",
+          "domain": "www.decathlon.in",
+          "url": "https://www.decathlon.in/c/running-shoes-25400#:~:text=Kalenji%20Women%20Running%20Shoes%20Lightweight%2C%20Cushioned%2C%20Upto,Yard%20-%20Black.%203.9k.%20%E2%82%B91%2C599.%20MRP%20%E2%82%B92%2C499.",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ4DKY_gsmLfGGV9Q7mFTqRKDqVVAMA0NUqMPWuFGhSUoniQ_EHirCIltX1eSkpAteB4LKpIBZlrfHKeAMzac2Icv7MCN8XgFrfJOQ",
+          "source_name": "Decathlon",
+          "publication_date": null,
+          "markdown": "₹1,599 – ₹2,499"
+         },
+         {
+          "type": "gemini_source",
+          "title": "Running Shoes Online Decathlon",
+          "snippet": "Search for \"Rain Co\"| | Shoes. Running Shoes. Kalenji Men Running Shoes \nSuperior Grip Cushioned Upto 10km/week, Jogflow100 - Black. 16.3k. +7. \n₹1,599. MRP ₹2,99...",
+          "domain": "www.decathlon.in",
+          "url": "https://www.decathlon.in/c/running-shoes-25400#:~:text=Search%20for%20%22Rain%20Co%22%7C%20%7C%20Shoes.%20Running,and%20Trail%20Shoes-Black%2FPink.%203.6k.%20%E2%82%B93%2C299.%20MRP%20%E2%82%B94%2C049.",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ4DKY_gsmLfGGV9Q7mFTqRKDqVVAMA0NUqMPWuFGhSUoniQ_EHirCIltX1eSkpAteB4LKpIBZlrfHKeAMzac2Icv7MCN8XgFrfJOQ",
+          "source_name": "Decathlon",
+          "publication_date": null,
+          "markdown": "Beginners, daily jogging, and casual gym use (up to 10–20 km/week)."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. Adidas Entry Performance Range (e.g., Duramo SL variants on sale, Clear Factor, or Zapid)",
+        "original_text": "2. Adidas Entry Performance Range (e.g., Duramo SL variants on sale, Clear Factor, or Zapid)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Price Range:** ₹2,000 – ₹3,000 (frequently discounted on the official Adidas India website or Myntra)[www.adidas.co.in](https://www.adidas.co.in/shoes_under_3000#:~:text=Extra%2015%25%20off%20above%204999.%20Sale%20price%E2%82%B92,Men%20Performance.%203%20colours.%20Sale%20price%E2%82%B92%20999.50.)\n* **Best For:** Road running, daily trainers, and brand preference.\n* **Why buy:** When sales hit, you can often grab marked-down Adidas performance running shoes. They offer great heel support, breathable uppers, and dependable rubber outsoles that outperform local fashion-brand sneakers.",
+        "original_text": "Price Range: ₹2,000 – ₹3,000 (frequently discounted on the official Adidas India website or Myntra)\nBest For: Road running, daily trainers, and brand preference.\nWhy buy: When sales hit, you can often grab marked-down Adidas performance running shoes. They offer great heel support, breathable uppers, and dependable rubber outsoles that outperform local fashion-brand sneakers.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Shop Sports Shoes Collection Under ₹3000 - adidas India",
+          "snippet": "Extra 15% off above 4999. Sale price₹2 759.50. ₹4 599.00 Original \nprice-40%Discount. ADI RUDH SHOES. Men Performance. Extra 15% off above \n4999. Sale price₹2 999...",
+          "domain": "www.adidas.co.in",
+          "url": "https://www.adidas.co.in/shoes_under_3000#:~:text=Extra%2015%25%20off%20above%204999.%20Sale%20price%E2%82%B92,Men%20Performance.%203%20colours.%20Sale%20price%E2%82%B92%20999.50.",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRFCpSLXYgmE4YY_Bw4r0ZJ5ZLFld_8rRyCAUSf9OUXji4x8mp17W81Na6D9gaz6V2Zxfjs0i86NCTDxkiMw1xM1Vy8PjiRbq8uCUE",
+          "source_name": "adidas India",
+          "publication_date": null,
+          "markdown": "₹2,000 – ₹3,000 (frequently discounted on the official Adidas India website or Myntra)"
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "### 3. Puma Entry Performance (e.g., Puma Conduct Pro or Galaxis Pro variants)",
+        "original_text": "3. Puma Entry Performance (e.g., Puma Conduct Pro or Galaxis Pro variants)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Price Range:** ₹2,200 – ₹3,000 (via Myntra, Flipkart, or Puma sales)\n* **Best For:** Gym training, short-distance running, and style-conscious buyers.\n* **Why buy:** Puma provides soft cushioning and trendy aesthetics. Models like the Conduct Pro offer decent shock absorption for light road running and treadmill sessions.",
+        "original_text": "Price Range: ₹2,200 – ₹3,000 (via Myntra, Flipkart, or Puma sales)\nBest For: Gym training, short-distance running, and style-conscious buyers.\nWhy buy: Puma provides soft cushioning and trendy aesthetics. Models like the Conduct Pro offer decent shock absorption for light road running and treadmill sessions.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### 4. ASICS Jolt Series (Jolt 4 or entry-level variants when discounted)",
+        "original_text": "4. ASICS Jolt Series (Jolt 4 or entry-level variants when discounted)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "* **Price Range:** Close to ₹2,500 – ₹3,000 during e-commerce sales (Flipkart/Amazon/Myntra)\n* **Best For:** Neutral runners and walkers needing orthotic-friendly support.\n* **Why buy:** If you catch a sale, ASICS entry shoes deliver incredible arch support and durability that easily outlasts competitors in the budget category.",
+        "original_text": "Price Range: Close to ₹2,500 – ₹3,000 during e-commerce sales (Flipkart/Amazon/Myntra)\nBest For: Neutral runners and walkers needing orthotic-friendly support.\nWhy buy: If you catch a sale, ASICS entry shoes deliver incredible arch support and durability that easily outlasts competitors in the budget category.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "### Quick Buying Tips:",
+        "original_text": "Quick Buying Tips:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "* **Check the Sole:** Look for rubber pods on the outsole rather than pure foam bottoms; pure foam wears out within a few months of outdoor asphalt running.\n* **Size Up:** Running feet swell slightly. It is usually wise to buy half a size or one full size up from your formal shoe size.",
+        "original_text": "Check the Sole: Look for rubber pods on the outsole rather than pure foam bottoms; pure foam wears out within a few months of outdoor asphalt running.\nSize Up: Running feet swell slightly. It is usually wise to buy half a size or one full size up from your formal shoe size.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "markdown": "Are you looking for shoes primarily for outdoor running on asphalt, treadmill use, or general gym training?",
+        "original_text": "Are you looking for shoes primarily for outdoor running on asphalt, treadmill use, or general gym training?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

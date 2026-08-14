@@ -1,0 +1,362 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 3,
+  "promptText": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+  "cellId": "S02_hg_chatgpt_r3",
+  "startedAt": "2026-08-14T12:37:14.783Z",
+  "finishedAt": "2026-08-14T12:37:33.905Z",
+  "durationMs": 19122,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Bilkul. **Indian skin tones par white cast avoid karna hai**, toh main generally lightweight chemical/hybrid sunscreen choose karunga.\n\n### 🥇 Meri top pick: Minimalist SPF 50 PA++++\n### [Minimalist SPF 50 PA++++ Sunscreen]()\n*₹379.10*\n\n- **SPF 50 PA++++**\n- White cast ke bina blend hone ke liye popular\n- Daily use aur makeup ke neeche achha option\n- Approx. **₹350–₹400** range mein mil raha hai. [www.buyrn.in](https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com)\n\n### Agar skin oily hai\n### [Dot & Key Watermelon Cooling Sunscreen]()\n*₹387*\n\nWater-light gel texture, non-greasy finish aur **zero-white-cast** claim; humid Indian weather mein particularly convenient. [www.dotandkey.com](https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-sunscreens-in-india?utm_source=chatgpt.com)\n\n### Agar dry/normal skin hai\n**Dot & Key Vitamin C + E SPF 50+ PA++++** — lightweight/dewy finish aur no-white-cast finish. Iska SPF independently in-vivo tested bhi reported hai. [www.dotandkey.com](https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com)\n\n**Short answer:** Agar tum mujhe bina aur details ke ek hi sunscreen choose karne bolo, toh **Minimalist SPF 50 PA++++** lunga.\n\nAgar tum mujhe bata do **tumhari skin oily, dry ya combination hai + budget (₹300/₹500/₹1000)**, toh main tumhare liye **2–3 exact best options** compare karke bata deta hoon.",
+  "citations": [
+   {
+    "url": "https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com",
+    "source_name": "Buyrn",
+    "position": 1
+   },
+   {
+    "url": "https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-sunscreens-in-india?utm_source=chatgpt.com",
+    "source_name": "Dot & Key",
+    "position": 2
+   },
+   {
+    "url": "https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com",
+    "source_name": "Dot & Key",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "18.8942 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141237-2163-0629-0000-5b90723d1379",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "18.8357 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Mujhe%20aisa%20sunscreen%20kharidna%20hai%20jo%20Indian%20skin%20par%20white%20cast%20na%20chhode.%20Konsa%20best%20hai%3F&hints=search",
+      "datetime": "2026-08-14 12:37:33 +00:00",
+      "markdown": "Bilkul. **Indian skin tones par white cast avoid karna hai**, toh main generally lightweight chemical/hybrid sunscreen choose karunga.\n\n### 🥇 Meri top pick: Minimalist SPF 50 PA++++\n### [Minimalist SPF 50 PA++++ Sunscreen]()\n*₹379.10*\n\n- **SPF 50 PA++++**\n- White cast ke bina blend hone ke liye popular\n- Daily use aur makeup ke neeche achha option\n- Approx. **₹350–₹400** range mein mil raha hai. [www.buyrn.in](https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com)\n\n### Agar skin oily hai\n### [Dot & Key Watermelon Cooling Sunscreen]()\n*₹387*\n\nWater-light gel texture, non-greasy finish aur **zero-white-cast** claim; humid Indian weather mein particularly convenient. [www.dotandkey.com](https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-sunscreens-in-india?utm_source=chatgpt.com)\n\n### Agar dry/normal skin hai\n**Dot & Key Vitamin C + E SPF 50+ PA++++** — lightweight/dewy finish aur no-white-cast finish. Iska SPF independently in-vivo tested bhi reported hai. [www.dotandkey.com](https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com)\n\n**Short answer:** Agar tum mujhe bina aur details ke ek hi sunscreen choose karne bolo, toh **Minimalist SPF 50 PA++++** lunga.\n\nAgar tum mujhe bata do **tumhari skin oily, dry ya combination hai + budget (₹300/₹500/₹1000)**, toh main tumhare liye **2–3 exact best options** compare karke bata deta hoon.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.dotandkey.com/products/vitamin-c-e-mineral-sunscreen?utm_source=chatgpt.com",
+        "domain": "www.dotandkey.com",
+        "title": "Vitamin C + E 100% Mineral Sunscreen IN-VIVO tested SPF 50+, PA++++",
+        "description": "VITAMIN C + E 100% MINERAL SUNSCREEN IN-VIVO TESTED SPF 50+, PA++++  Loved by +customers  Suitable for: Pregnant Women, Kids & Sensitive Skin  Reduces:  Image: Vitamin C + E 100% Mineral Sunscreen IN...",
+        "breadcrumb": "dotandkey.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?irclid=L0O3hxiz254K&utm_source=chatgpt.com",
+        "domain": "www.dotandkey.com",
+        "title": "Vitamin C + E Sunscreen SPF 50+ PA++++ With New-Age UV Filters",
+        "description": "VITAMIN C + E SUNSCREEN SPF 50+ PA++++ WITH NEW-AGE UV FILTERS  Suitable for: All Skin Types  Reduces:  Image: Vitamin C + E Sunscreen SPF 50+ PA++++ With New-Age UV Filters  Dullness  Image: Vitamin...",
+        "breadcrumb": "dotandkey.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp?utm_source=chatgpt.com",
+        "domain": "www.femina.in",
+        "title": "7 Best Sunscreens That Do Not Leave a White Cast on Indian Skin",
+        "description": "By Purva Joshi  7 BEST SUNSCREENS THAT DO NOT LEAVE A WHITE CAST ON INDIAN SKIN  May 6, 2025  1. LA SHIELD FISICO MATTE SUNSCREEN GEL SPF 50  Formulated for sensitive skin, this mineral sunscreen blen...",
+        "breadcrumb": "femina.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.beautytipoffs.com/best-sunscreens-for-indian-skin/?utm_source=chatgpt.com",
+        "domain": "www.beautytipoffs.com",
+        "title": "Best Sunscreens for Indian Skin - Beauty tipoffs",
+        "description": "Image: Best Sunscreens for Indian Skin  Skin  BEST SUNSCREENS FOR INDIAN SKIN  by Authorupdated on July 10, 2026May 16, 2025Leave a Comment  🟦 BEST SUNSCREENS FOR INDIAN SKIN IN 2026 — MEGA GUIDE  If...",
+        "breadcrumb": "beautytipoffs.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://chokchok.app/selections/indian-sunscreen-starter-kit?utm_source=chatgpt.com",
+        "domain": "chokchok.app",
+        "title": "Best Indian Sunscreens 2026 — Minimalist, Re'equil, Aqualogica, Dot & Key, Deconstruct, Plum SPF Ranked | ChokChok",
+        "description": "THE INDIAN SUNSCREEN STARTER KIT  Ten Indian sunscreens from eight brands — Minimalist, Re'equil, Aqualogica, Dot & Key, Deconstruct, Plum, Earth Rhythm, FoxTale. India's SPF revolution, from matte m...",
+        "breadcrumb": "chokchok.app"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.oilyskinfix.in/2026/03/requeil-spf-50-review-oily-skin-india.html?utm_source=chatgpt.com",
+        "domain": "www.oilyskinfix.in",
+        "title": "Oily Skin Fix India: Re'equil SPF 50 Review — 4-Week Test for Oily Skin India",
+        "description": "Disclosure: This post contains affiliate links. If you buy through our Amazon links, we may earn a small commission at no extra cost to you. All recommendations are editorially independent and based...",
+        "breadcrumb": "oilyskinfix.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://glowdekho.com/blog-best-sunscreen-no-white-cast.html?utm_source=chatgpt.com",
+        "domain": "glowdekho.com",
+        "title": "Best Sunscreen for Indian Skin — No White Cast Under ₹500 (2026) | GlowDekho",
+        "description": "BEST SUNSCREEN FOR INDIAN SKIN — No White Cast, Under ₹500  📅 April 2026⏱ 6 min read🎯 Tested for Indian skin tones  The white cast problem is real — but it's also completely solved. Old-generation mi...",
+        "breadcrumb": "glowdekho.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.justalibrary.com/best-sunscreen-india/?utm_source=chatgpt.com",
+        "domain": "www.justalibrary.com",
+        "title": "Best Sunscreens in India 2026: 9 Tested, 5 Winners",
+        "description": "BEST SUNSCREEN IN INDIA 2026: I TESTED 9, THESE 5 WON’T RUIN YOUR FACE  By Ceeliya  July 2, 2026  Let me start with an uncomfortable truth: if you are spending money on serums, moisturizers, and fanc...",
+        "breadcrumb": "justalibrary.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://salugaishop.com/best-sunscreen-face-india-2026-review/?utm_source=chatgpt.com",
+        "domain": "salugaishop.com",
+        "title": "Best Sunscreen India 2026: No White Cast, SPF 50 Compared",
+        "description": "BEST SUNSCREEN FOR FACE IN INDIA (2026) — 3 HONEST PICKS  * July 10, 2026July 10, 2026  Roughly two-thirds of people in India still skip sunscreen as part of their daily routine, often because early...",
+        "breadcrumb": "salugaishop.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Best Sunscreen for Indian Skin: SPF 50 Picks | Buyrn",
+        "snippet": null,
+        "domain": "www.buyrn.in",
+        "url": "https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Buyrn",
+        "publication_date": "2026-04-28 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Dermatologist-Recommended Sunscreens in India (2026)",
+        "snippet": null,
+        "domain": "www.dotandkey.com",
+        "url": "https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-sunscreens-in-india?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Dot & Key",
+        "publication_date": "2026-07-02 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Vitamin C + E Sunscreen SPF 50+ PA++++ With New-Age UV Filters",
+        "snippet": null,
+        "domain": "www.dotandkey.com",
+        "url": "https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Dot & Key",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best sunscreen no white cast Indian skin SPF 50 PA++++ Minimalist Re'equil Dot Key India"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 5,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Bilkul. **Indian skin tones par white cast avoid karna hai**, toh main generally lightweight chemical/hybrid sunscreen choose karunga.\n\n### 🥇 Meri top pick: Minimalist SPF 50 PA++++\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "9725525444449696084",
+          "merchants": "Apollo247",
+          "id_to_token_map": "xBnEL3icbZLLjqNGFIYzb5BHmE1WVkdQRWGTUS8wN2M3hbkVmI2FoWwwV4MBG-VhRj0XabJMIuVZehTlWdKjSFnN0dHZfP-RvsX_zw8_PtPsr-V420ctYNeYP1-u3bY2Bq8Xxy9NWyd9fM2SP4Q5QAgg7tsIvMAzC-5LHF2joj5lyfvfUxolRVZR83ikrVzH3__4LSujE_0PwzkLOITmECAo8ICfc_BDm3QvYCvtEccIAmQQvwCMACHDLbhft7Yp77_PPl162t5fYNdXXdxSWs2qejam2ZXO4qi7zrIqyaJZ1xxniJk10U9g-f9-OjWvMu8_lN9OM1yf09PHvi_oy8_jTBJ1S5f0g7si5wigIbnfSLKy0zhbWnGp5mGA6yel6EOtSJ9PxXNWPafFM60-11EzHOOvb_5Wel2SLrpkeU1DZJtxptPkvaZ3TFqFhX01iV3iKmZtWLMBgyrDQzIJYjYCODOCAlFNAW5-M70iTE1lDYiy7rwANxZIo4PmcUQTiEuwhSFRDkXa0Wq9wiy2Q4hZeo5RMHmMr904ByhMzCRnZ-WhUKsnzBa1VxbYXqm6raboiZBg56M-LNLM8wU-dBPP9BouDBKY-Gy-gzFHy3XrQhztwDV3i2Zpqo1MisS0cxaFEstSTcWGbIdEFrkdPCGshsskSDnDU0fDvw6-umAJaHYJbKaIYNXzEuwo9jYCaosButpn1TswqAgDEbps4VM1zKlM0oNSLE3_2hhBomIvCXYAaRFjs0mZZES7FRa0kOemzA6Qu-uHN1NLBtMNGYcRQsMnT3GuqlGhOCqzhlQV0vis35ycA1GlMjG7HNwgJImnQi1bL-0Vvpt-6MQadnY-QbRUI8u3p6goRj97lcrT-lDVk-8l8OOta48vjKiiq2Py-4etbGmxEZ13bRV5_L1fFWO1kQ5A_IWdL_g5y742lWG4z3Fd5xn9-uZPRxFtabV3RENxdFd5lE6WfuOV5bu3oiI9ismaKFGnTw9FKtPTXh95JlnDvrncLLanVgKFM0TNXl1zCt30bZoHg1Gcxt569xbr8iOC8PFYQS08p9y9a5FUbiUp0m-dmASr1iCrudkup6eFOEaQUednZ5vMXT2-5AM-nB_cDNkeAU4I5_Y4YN0dRPlpHFqmBXbFbsrdZu_mk2RKHYZA1H1yvhTIxtaUyScwItu0KO6WEemsc8faLlw-pZbBh6bQ0Tsx-lyarLk7hZjlzMV6owR1CQ7t-sSZU8Z7lDTbBb2cN6tK1RvJ21Y7shl34rrmuGHD4WgudBwc373d7x0a9y19cFx7-yjiMhwjkPtiXdHlcr_NFTa_PTSOpR0r91gEbkkU7GRDMEgDgyb5kuvypDJCncf3NdPcgHlfmJATjGgoXX4QfOnV6VrasnKpJ843txX4F4huu4Q",
+          "title": "Minimalist SPF 50 PA++++ Sunscreen",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 5700,
+           "rating_max": 5
+          },
+          "price": 379.1,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/QM0JW3icu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnrJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDiwPMyjxygotdXSKTAotMzRJM_OsSnZz98oJds6uSPStdHPVLU8sMvc3zzPyT092rzJwtrDw8fFPckwtccvzDcuM9PIrzy_xNSkAAKByLsk"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "Bwx_ar21JN6jqtsPoMvUuAw",
+            "product_id": "9725525444449696084",
+            "catalog_id": null,
+            "gpcid": null,
+            "headline_offer_docid": "9725525444449696084",
+            "image_docid": "3712455732539626743",
+            "rds": "PC_5409930568209330484|PROD_PC_5409930568209330484",
+            "query": "sunscreen+no+white+cast+india+spf+50+pa%2B%2B%2B%2B",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIbTHVja25vdyxVdHRhciBQcmFkZXNoLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n- **SPF 50 PA++++**\n- White cast ke bina blend hone ke liye popular\n- Daily use aur makeup ke neeche achha option\n- Approx. **₹350–₹400** range mein mil raha hai. [www.buyrn.in](https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com)\n\n### Agar skin oily hai\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Sunscreen for Indian Skin: SPF 50 Picks | Buyrn",
+          "snippet": null,
+          "domain": "www.buyrn.in",
+          "url": "https://www.buyrn.in/article/best-sunscreen-india-spf-50?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Buyrn",
+          "publication_date": "2026-04-28 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "1753682438920416124",
+          "merchants": "Purplle.com - Beauty Online + others",
+          "id_to_token_map": "s75PMHicdVPLrqNGEE3yBVnkA2aTlXWjbppnRneBedhgA-bV2GwsTGPzBoMN2JqvufOQJsvJSPmWO4t8S6xEyiaKqjalUzqqOlXnz-9-fEmyP-bjtI86Cuomm58v_aYxBv8qjp_briHX-JKRrxByAqRZihd4insUiKfh5zi6RGVzysjvkGMQy1M04gUK0JCFFP0lTSJSZnViHY9JJzfxow0xiGdYSFMUxwmAARzN_5ZV0Sn5B2YF8GABAo-oB4MgsCz_viP9K72R9hAijqKhgIDAMQxD0Sxi320cS97_D_jxfE262yvqr3Ufd0lSz-pmNqbZJZnFUX-ZZTXJolnfHmcMmLXRz9T83_x4auO_d_4v6_sqI18Yjn1IQXMU-wjAMoB93w6Xl_T04Xotk9dfxpkkarYmaQdvifOIYgZymzBZOmmcze24UotwazZrpbyGizJ9OZUvWf2Sli9J_amJ2uEYf_vhJ6UZZakfJdtvWyw7wK1NFstpEPqmsisU2oUiE8kKRXDoe5WwIFuF8cp2c_BpKirUVVQJ2MwLaOFUixA5h1tc29B0fcV0g4qRXT9drf3UM0t17QK8iuB8SEoyt-_O5G7T9oBLbEBBNSinPOQ4dIrUNrC-cH09PaDU98sWO8s0I0BQE2-uJBW2klqvTdnUwqK_YOyEHtZ1z9Me84SBE1yAAy65CXUm2qoQK-HiUOvIrXUvqvDkqzgwC7wJFcz6QFjtAhWbvjqEHlkGBcaGfLp4EPdEDc8u5axxkd7MrePgXF861TiSajrucgVhbBqmijsDQM2r2rVxJ05QxfewEqx4qddhhdfWwsF-1Y-ur0oHF9wiYNC7KpwnMg5JiaWomOidp0_eMjT9Ghtb6sR4yKncxXTzC43GyNkkgeDGlY_I4oKCXLnsYMFgqpXcgKyI56zifOeqQEeJKqRxrk1u8bhLrYL4obO3DTHxVbTI9LmzNG9WEHqHuryF-Q4GVQFjj0C7bG1SxYxRY9P2d2PgT_WHqe-Or0BUmYtrsSAUdxVXSRJn3J5QSznCRanVKwC8-CvkePZhU0DzAKBPcdMUWfLt-6-uIjrScu-KhuJqnvIsnWxtYpX52zeiIj2LRMdK1Gv3pzKVk9NeG1lAdHRtz5MNr4lNkJAjpt2rOq0kq2uXFtvBKE_j1X77xtTkZwah52ONFmGe0re-Y6RqI0mRNvUi2S47Ay85q5vf17w4RgioXO5uCOdp8bkYzEP-5GWM42PKDRHnjIOpeYMor8ehAx3l1HBV7VZ7r7hLltSbiBK1AOfnknFM-57JJ2pkHMtOzH4e4d7Oe-h4aL5-PCwbWkKf3LBxLaS7zXn30IS0xesrZdtU1KHTT7R1z1g_we2GT875almrWiv5m3qHV-NO1BuaHla0GXFCT6Px7Zv93k3ia5c8uZ6zeRbNKhwjqgjEpk7m8_2mUGAxPbWuvTjW3rHcehV--C0btoM0AOYunwtNvqtAaIr4poN2oqwbbyFaMKKh8thBCKTHTJfKkZVzc6cDa1NTfwHBXdur",
+          "title": "Dot & Key Watermelon Cooling Sunscreen",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 3800,
+           "rating_max": 5
+          },
+          "price": 387,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/3I_SLHicDcnNDoIgAADgJ1LEg4pba7Gll2isRjkvjcD8S0Chhtfesrep7_p9P51zxuYANEosq3GNDNxdRWFrHXe9CIWegO20Mb1qt_Pmf_nuKFEpTjdGK0HZ68EnXEesUD42ix75Sgpu5WXwtMT93MC4qrP9W18xmeBoU3QmVCTJYUA-yAaYsucPyiEu7g"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "Bwx_ar21JN6jqtsPoMvUuAw",
+            "product_id": "11791462898271173841",
+            "catalog_id": "1753682438920416124",
+            "gpcid": "11372419309755524636",
+            "headline_offer_docid": "3538561422779050748",
+            "image_docid": "6903680983261299668",
+            "rds": "PC_11372419309755524636|PROD_PC_11372419309755524636",
+            "query": "sunscreen+no+white+cast+india+spf+50+pa%2B%2B%2B%2B",
+            "mid": "576462472626206506",
+            "pvt": "hg",
+            "uule": "w+CAIQICIbTHVja25vdyxVdHRhciBQcmFkZXNoLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\nWater-light gel texture, non-greasy finish aur **zero-white-cast** claim; humid Indian weather mein particularly convenient. [www.dotandkey.com](https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-sunscreens-in-india?utm_source=chatgpt.com)\n\n### Agar dry/normal skin hai\n**Dot & Key Vitamin C + E SPF 50+ PA++++** — lightweight/dewy finish aur no-white-cast finish. Iska SPF independently in-vivo tested bhi reported hai. [www.dotandkey.com](https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com)\n\n**Short answer:** Agar tum mujhe bina aur details ke ek hi sunscreen choose karne bolo, toh **Minimalist SPF 50 PA++++** lunga.\n\nAgar tum mujhe bata do **tumhari skin oily, dry ya combination hai + budget (₹300/₹500/₹1000)**, toh main tumhare liye **2–3 exact best options** compare karke bata deta hoon.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Dermatologist-Recommended Sunscreens in India (2026)",
+          "snippet": null,
+          "domain": "www.dotandkey.com",
+          "url": "https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-sunscreens-in-india?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Dot & Key",
+          "publication_date": "2026-07-02 00:00:00 +00:00",
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Vitamin C + E Sunscreen SPF 50+ PA++++ With New-Age UV Filters",
+          "snippet": null,
+          "domain": "www.dotandkey.com",
+          "url": "https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Dot & Key",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,455 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S05",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 8,
+  "promptText": "Which serum should I buy for acne-prone skin in India under ₹700?",
+  "cellId": "S05_en_chatgpt_r8",
+  "startedAt": "2026-08-14T13:12:13.454Z",
+  "finishedAt": "2026-08-14T13:13:19.826Z",
+  "durationMs": 66372,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "If your main concern is **active pimples, blackheads, or clogged pores**, I’d buy a **2% salicylic-acid serum** rather than a generic brightening serum. Current Indian listings put several good options well below ₹700. [www.nykaa.com](https://www.nykaa.com/dp/serum-for-open-pores?utm_source=chatgpt.com)\n\n### My picks\n\n### [Minimalist Salicylic Acid Face Serum]()\n*₹494*\n\n**Best overall: Minimalist 2% Salicylic Acid** — around ₹494 currently. Good choice for oily/acne-prone skin, particularly blackheads and clogged pores. [www.1mg.com](https://www.1mg.com/categories/skin-care/face-serums-4432?utm_source=chatgpt.com)\n\n### [The Derma Co Sali-Cinamide Anti-Acne Serum]()\n*₹527*\n\n### [Chemist At Play 2% Salicylic Acid Face Serum]()\n*₹255*\n\n### [Foxtale 12% Niacinamide + Azelaic Acid Serum]()\n*₹187*\n\n### [Minimalist Niacinamide Face Serum]()\n*₹212*\n\n- **For active acne:** The Derma Co Sali-Cinamide — 2% salicylic acid + 5% niacinamide.\n- **For a cheaper salicylic option:** Chemist At Play 2% Salicylic Acid.\n- **For acne + leftover dark marks:** Foxtale's niacinamide + azelaic-acid formula.\n- **For sensitive skin/oil control rather than frequent breakouts:** a lower-strength niacinamide serum may be gentler.\n\n**How I'd use it:** start the salicylic serum **2–3 nights per week**, then increase if your skin tolerates it. Don't stack it initially with retinol, other exfoliating acids, or harsh scrubs. Use sunscreen every morning.\n\nIf you tell me whether your skin is **oily, dry, combination, or sensitive** and whether you have **active pimples vs acne marks**, I can narrow it down to one.",
+  "citations": [
+   {
+    "url": "https://www.nykaa.com/dp/serum-for-open-pores?utm_source=chatgpt.com",
+    "source_name": "Nykaa",
+    "position": 1
+   },
+   {
+    "url": "https://www.1mg.com/categories/skin-care/face-serums-4432?utm_source=chatgpt.com",
+    "source_name": "1mg",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "66.1390 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141312-2163-0629-0000-e8005932be1b",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "66.0362 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Which serum should I buy for acne-prone skin in India under ₹700?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which serum should I buy for acne-prone skin in India under ₹700?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20serum%20should%20I%20buy%20for%20acne-prone%20skin%20in%20India%20under%20%E2%82%B9700%3F&hints=search",
+      "datetime": "2026-08-14 13:13:18 +00:00",
+      "markdown": "If your main concern is **active pimples, blackheads, or clogged pores**, I’d buy a **2% salicylic-acid serum** rather than a generic brightening serum. Current Indian listings put several good options well below ₹700. [www.nykaa.com](https://www.nykaa.com/dp/serum-for-open-pores?utm_source=chatgpt.com)\n\n### My picks\n\n### [Minimalist Salicylic Acid Face Serum]()\n*₹494*\n\n**Best overall: Minimalist 2% Salicylic Acid** — around ₹494 currently. Good choice for oily/acne-prone skin, particularly blackheads and clogged pores. [www.1mg.com](https://www.1mg.com/categories/skin-care/face-serums-4432?utm_source=chatgpt.com)\n\n### [The Derma Co Sali-Cinamide Anti-Acne Serum]()\n*₹527*\n\n### [Chemist At Play 2% Salicylic Acid Face Serum]()\n*₹255*\n\n### [Foxtale 12% Niacinamide + Azelaic Acid Serum]()\n*₹187*\n\n### [Minimalist Niacinamide Face Serum]()\n*₹212*\n\n- **For active acne:** The Derma Co Sali-Cinamide — 2% salicylic acid + 5% niacinamide.\n- **For a cheaper salicylic option:** Chemist At Play 2% Salicylic Acid.\n- **For acne + leftover dark marks:** Foxtale's niacinamide + azelaic-acid formula.\n- **For sensitive skin/oil control rather than frequent breakouts:** a lower-strength niacinamide serum may be gentler.\n\n**How I'd use it:** start the salicylic serum **2–3 nights per week**, then increase if your skin tolerates it. Don't stack it initially with retinol, other exfoliating acids, or harsh scrubs. Use sunscreen every morning.\n\nIf you tell me whether your skin is **oily, dry, combination, or sensitive** and whether you have **active pimples vs acne marks**, I can narrow it down to one.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicdrop.in/drops/acne-treatment-products?utm_source=chatgpt.com",
+        "domain": "magicdrop.in",
+        "title": "Best Acne Treatment Products India 2026 | Magicdrop.in",
+        "description": "beauty By Arjun · 19 June 2026  BEST ACNE TREATMENT PRODUCTS IN INDIA 2026 — PRICE, DEALS & COMPARISON  📢 Affiliate links — we may earn a commission at no extra cost to you. Read our affiliate disclo...",
+        "breadcrumb": "magicdrop.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicdrop.in/drops/best-salicylic-acid-serum?utm_source=chatgpt.com",
+        "domain": "magicdrop.in",
+        "title": "Best Salicylic Acid Serum India 2026 | Magicdrop.in",
+        "description": "beauty By Arjun · 29 June 2026  BEST SALICYLIC ACID SERUM IN INDIA 2026 — PRICE, DEALS & COMPARISON  📢 Affiliate links — we may earn a commission at no extra cost to you. Read our affiliate disclosur...",
+        "breadcrumb": "magicdrop.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicdrop.in/drops/acne-serum?utm_source=chatgpt.com",
+        "domain": "magicdrop.in",
+        "title": "Best Acne Serum India 2026 | Magicdrop.in",
+        "description": "BEST ACNE SERUM IN INDIA 2026 — PRICE, DEALS & COMPARISON  📢 Affiliate links — we may earn a commission at no extra cost to you. Read our affiliate disclosure details  The best acne serum in India 20...",
+        "breadcrumb": "magicdrop.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicdrop.in/drops/best-serum-for-open-pores?utm_source=chatgpt.com",
+        "domain": "magicdrop.in",
+        "title": "Best Serum for Open Pores India 2026 | Magicdrop.in | MagicDrop",
+        "description": "beauty By Arjun · 29 June 2026  BEST SERUM FOR OPEN PORES IN INDIA 2026 — PRICE, DEALS & COMPARISON  📢 Affiliate links — we may earn a commission at no extra cost to you. Read our affiliate disclosur...",
+        "breadcrumb": "magicdrop.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://skincaresaga.com/best-niacinamide-serum-india/?utm_source=chatgpt.com",
+        "domain": "skincaresaga.com",
+        "title": "7 Best Niacinamide Serums in India (2026) - Tested & Reviewed | SkincareSaga",
+        "description": "7 BEST NIACINAMIDE SERUMS IN INDIA FOR GLOWING SKIN (2026)  By Ananya Verma / April 14, 2026  If there’s one skincare ingredient that lives up to its hype, it’s niacinamide. Also known as vitamin B3,...",
+        "breadcrumb": "skincaresaga.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.1mg.com/categories/summer-essentials/face-serum-oil-513?utm_source=chatgpt.com",
+        "domain": "www.1mg.com",
+        "title": "Online Pharmacy India | Buy Medicines from India's Trusted Medicine Store: 1mg.com",
+        "description": "Face Serum & oil  Minimalist 10% Niacinamide Face Serum | Reduces Oil and Acne Spots | Face Care Product for All Skin Types 30 ml Serum 4.2 117 ratings Get in 60 mins₹599₹539 order for₹1200 ADD  Ad T...",
+        "breadcrumb": "1mg.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://blog.flash.co/serum/top-10-salicylic-acid-serums/?utm_source=chatgpt.com",
+        "domain": "blog.flash.co",
+        "title": "Best Salicylic Acid Serums in India (2026) | Flash AI",
+        "description": "Salicylic Acid Serums. Flash AI analysed 10 products from 9045+ verified reviews across multiple platforms. The top pick is Foxtale 12% Niacinamide Clarifying Serum with an AI Score of 92/100, availab...",
+        "breadcrumb": "flash.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://blog.flash.co/serum/top-10-acne-fighting-serums/?utm_source=chatgpt.com",
+        "domain": "blog.flash.co",
+        "title": "Best Acne-Fighting Serums in India (2026) | Flash AI",
+        "description": "Acne-Fighting Serums. Flash AI analysed 10 products from 6924+ verified reviews across multiple platforms. The top pick is Foxtale 12% Niacinamide Clarifying Serum with an AI Score of 92/100, availabl...",
+        "breadcrumb": "flash.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.purplle.com/collections/serum-essence-salicylic-acid?utm_source=chatgpt.com",
+        "domain": "www.purplle.com",
+        "title": "Salicylic Acid Serums: Buy Salicylic Acid Serum Online at Best Prices in India | Purplle",
+        "description": "SALICYLIC ACID SERUM  Showing 3301 Products  SHOP ALL PRODUCTS  DERMDOC 2% Salicylic Acid Face Serum (15 ml) | For Blackheads & Whiteheads | Targets Active Acne | Calms Irritation & Unclogs Pores ₹22...",
+        "breadcrumb": "purplle.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.purplle.com/collections/salicylic-acid-serum?utm_source=chatgpt.com",
+        "domain": "www.purplle.com",
+        "title": "Salicylic Acid Face Serumss: Buy Salicylic Acid Face Serums Online at Best Prices in India | Purplle",
+        "description": "SALICYLIC ACID FACE SERUMS  Showing 34 Products  SHOP ALL PRODUCTS  DERMDOC 2% Salicylic Acid Face Serum (15 ml) | For Blackheads & Whiteheads | Targets Active Acne | Calms Irritation & Unclogs Pores...",
+        "breadcrumb": "purplle.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Serum For Open Pores Online At Discounted Prices From Top Brands",
+        "snippet": null,
+        "domain": "www.nykaa.com",
+        "url": "https://www.nykaa.com/dp/serum-for-open-pores?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Nykaa",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Online Pharmacy India | Buy Medicines from India's Trusted Medicine Store: 1mg.com",
+        "snippet": null,
+        "domain": "www.1mg.com",
+        "url": "https://www.1mg.com/categories/skin-care/face-serums-4432?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "1mg",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best acne serum India niacinamide salicylic acid prices 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 5,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "If your main concern is **active pimples, blackheads, or clogged pores**, I’d buy a **2% salicylic-acid serum** rather than a generic brightening serum. Current Indian listings put several good options well below ₹700. [www.nykaa.com](https://www.nykaa.com/dp/serum-for-open-pores?utm_source=chatgpt.com)\n\n### My picks\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Serum For Open Pores Online At Discounted Prices From Top Brands",
+          "snippet": null,
+          "domain": "www.nykaa.com",
+          "url": "https://www.nykaa.com/dp/serum-for-open-pores?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Nykaa",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "1900532667665884872",
+          "merchants": "Nykaa + others",
+          "id_to_token_map": "eckHb3icdZLJrqNWEIaTPEEWeYDe9OrqSuccBkNaN5IZDReDGQ5gNtYxBxtspmsz2ChPc3uQOstOpOzyHp1FniVE2SaLkqrqK9WvGv765vvXrPidSN6OXCNXbR2z7dxNPjCrlyX-3F4a2qddQX9FIssxnMByvAgFkVvwHPM5JR0pm-NMoQgAxyCeX_A8JwissEBf8ozQsqgz53DILkqT_tMECguRWQhzLQsAuwAM-0tRkWP2LxYQXCBGmCG3gEBEC1Z4f6HXr-xG3kEGMbzAcfwsjQAHkMgxP288R9n9D_z40meX-9efSFpnD9fs0lcPdUHSoiZVQecMKYv0PtvDnKMPfU2zy8NbFb0V0FtJXADwUNS0IB-P7Yx_-y-B93OfL3PM8kjgecCJcCFACN-3Q_eaHz_0fZn9MT7IS8M1ZGODK-1lG9uA6FpvqWWf6GX-eixfi_o1L1-z-lND2uGQ_vndD2ozKvJ1lF3ctqHiAf8sMOkZTttYuuzL_NnW85GCkiGllth6Eu2x2NqaBvcr-mxrbZ9qxhjpNvI1UaMYT0Sx2zUuC--soQC2jHfSgig6TvvIZS08TlbgsZkP61TVVh6kfbbK82jlwlQG9wDlhoO9wa1N3o61SwLaA63LPlW0e1J6qhPBIlK0Jorsch2WZxqEio-0PkFdROLZB3BNQG6nKmQIk8Q0dm9-mW89FY9uZd7Cc2knMw9A6wdB-BwiL9pOYR_DsrJLScEne_BAou-rhAlhHuLKZWxwO2yr4x3Hx2kLzYQgeLBwpyRVYkQRvM07qcPKM9JaGhOQHCKdWhiJW8pIVjqFRRBIcRjmnh2bZjKZyAPzlsP8nFVQxuoIKD53WcTNf2PnGNudd1rfk7iMMUq8_WQGVL_JSXSd1oi6mSJZ0bnl7cnLs5PnxAyNgsnwNaTJuBTzFFLPi6WNX0sAh1JDT7aRYi3UC1PyVvbdiRIcozD0NVPfn2mCzw1HNBHvq-4lLbVzUuExQJ334Xa9HL6CpcZ1vsNyxnizioVZrizrYm-cx_UEG3PaNMP44_yE_AIyUETcQviUNs25yP789ouvLj15tfOXa9U3AvVJPrrGjVeld2-Wqvy0pGaokoFLM_1aZV2meKXb4qZIpiG3RQEOo0RSmPU7Bb4M9YG0FAVOasLn5bs3tqE8cQzzFMTHrTOOvvkIEgy6l6kYt3hv6qZPnM3g3EKN3fnzYZ0R7W7NRpfAdLSrM_fY3KxdoKR738-H9HjWFJon7lnRlyDRoLzmFrHobaLKiYzkIgR8_2zk_uo5T1cmBpAdn4_dnRsGAaR71tiM8R1E-s1aYdMgtpajPulrQE-8sWyOzmltmlbVUSTcV-Y8jJeGSBbR7nDQrJfCxYGsm-sOCLp3R9Dd-o963dNTQt692e38LO0v2aMfeJunpV0lI2HWpcgQt5U5t3ikS7VoikV1TdEO8QCv0Dgwa855dEkrLW3WGdWLlR5COJDTlr8G8cZesbIdEMsToTwhIl0G53FFL4nP7SuC3b8BVf7ZeA",
+          "title": "Minimalist Salicylic Acid Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.3,
+           "votes_count": 5700,
+           "rating_max": 5
+          },
+          "price": 494,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/tYGSk3icDcndEoFAGADQJ-qHKWTGmNCsFpFCuWnYspuyu9U3oafyOt6Gc3u-HwYgm7GmZZzUbwlZqsCV6ypt4AI5UYl4aA0TUuacTqvJ_8a2l1qIBKhyuV4470rR2wLtCUljfwux4YwUz2xZgxP3Nh8qHYmGM4m7sIAkOFpnVLK7DDF1IwJluFp31u3JXgG2_Ut_TZdlwvONYD1q-lSAIcQO9U9yMUBt_Tg8S2z_ALrJP3k"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "aBR_asWQEpOJptQPhv3HqAU",
+            "product_id": "2945358456918957653",
+            "catalog_id": "1900532667665884872",
+            "gpcid": "13236855657620502953",
+            "headline_offer_docid": "2187937805340047034",
+            "image_docid": "8217238534571092748",
+            "rds": "PC_13236855657620502953|PROD_PC_13236855657620502953",
+            "query": "acne+serum+niacinamide+salicylic+acid+under+%E2%82%B9700+india",
+            "mid": "576462866059178111",
+            "pvt": "hg",
+            "uule": "w+CAIQICIPUmFqYXN0aGFuLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n**Best overall: Minimalist 2% Salicylic Acid** — around ₹494 currently. Good choice for oily/acne-prone skin, particularly blackheads and clogged pores. [www.1mg.com](https://www.1mg.com/categories/skin-care/face-serums-4432?utm_source=chatgpt.com)\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Online Pharmacy India | Buy Medicines from India's Trusted Medicine Store: 1mg.com",
+          "snippet": null,
+          "domain": "www.1mg.com",
+          "url": "https://www.1mg.com/categories/skin-care/face-serums-4432?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "1mg",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "1846484293723546978",
+          "merchants": "1mg + others",
+          "id_to_token_map": "dQbhrnicJZPLrqNGEIYzb5BHmM2sjix1N_eMTiRjgwGbxlwaMBur3WCDDZiDDcZ-muicmZEmy0mk7PIeM4s8S4iyqFr8VfpKf6nqn59-fs2Kv6jqbeklcrXGsZqru857zniZkq9Ne047di3SPyGHBF5QEOCgoMi8IEEAvzJ6peX5UKR_QJkXeZlHCichTuBFRZK_5RlNy6LOnP0-a-dnNrYhSeA5yClQlIACRCSK3O9FRQ_Z_2V5ZHCiDAUZiUjhFR6Kb216-e3zS5e19--_UlZnT5es7aqnuqCsqGlVpKNCy4Ldx3gatfSpq9OsffqgoQ8y-qAqEgBPRZ0W9POhYf85kZEgjJMEHiAkjBMhB99GzjdBEnlxVDgOjAkqEnxr-utrfvjUdWX29-1pNjVdc2auSaW_bGIM6ELvVlrZJYsyfz2Ur0X9mpevWf3lTJt-z368e9NaNpv1THVJ04RzD_hIe2xCvMKG2qwirGZaOicgH2iVtskxj90g4V1kqfbiSv1FoofQSuw4jzEkiEGVhvOyTbQSjYz1BjY-jvPlLtQHRpI1C0PXf-DQIdbFBh72gb5PAUNu3BwJudKwALz7SKMdbEwKYL4rFZxUBEQRz5FQg3Ydlrt5qWICLS9M5jHwYq9McjtIUESGDtc5DlDqEC29BwXkN2QYWJUvE9gUWRC65ESQp1mbKEqXth5yNLZMpg39LsBHN7DhBiRr75jTTRhCHOA7NdIT1vUbrvEmPZVFqutiCEb_gW4H2siqQ0JOVu4Qfe-GpRmRq0oHM94Qy4-R_gihrjNNWTLD88giR_a4Rzck1DzpGuNMISmxmMxVcxcmFY6Sa2JoYGfgVRLnIo2sO4ma1g21T8Ol3X8HU124-g4vmLdhVUhWaaxWLV47E_sBz9Zjfe5vv0BJFqXxWBQkSPIXdj6fiuzHu2--NvVmxtaf2ppvBtrz7OCag6ipH99PtdnzNLVCjfYCyxaXKrtmc690G3IukkefY0WG_U2lDGbddg5f-npPmxQFDrPgcvrxPTbnzwLHPQfxYePcbr41AQkB15dHcduQnbWwfOqse2cIdX7rdzF0bmg7nNcLFTwOuDoJk_Ow2gZztvP9vGeHkz5P88Q9zRdTkOhwZgtSrHjrqHIiM2nlQOyWZu4by5wZFgGQvy0P17vQ9zJgO95c3-I7iBbDyiCWSbGeoy7papAeRXN6PjhH27JW1TVF8t2wRjMeC9FMQdv9Xl-9FC4JZgvLvgJ54d0RdDf-ZFF36TGhH99vt37Gujab-IG3fp7iKrlRzi4VjrrNTHCLSTrVinMhVReGtkgExEC3nrMFZ-LSRp1i3rlp7YrtQ9jT40a8BPEaG_wMB3TlKXD2QFRte2dijB_mC7uKEvdfNN-kiw",
+          "title": "The Derma Co Sali-Cinamide Anti-Acne Serum",
+          "rating": null,
+          "price": 527,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/3OnE_XicDcnbCoIwAADQLzJXqZQQIeS6YKGJt15kbk6znNPN1D6q_-lv6rye76eUkgtTVXOGu4nLnCgyY2BWCInkHc9wU6uibDi_s2Lbbv5nWhey3mOf-vZwUrJCS1gYcztALXg5K1gbpaX1lTegIIjAnCSRIRYpbSeEh54u37o2HmMK07YC18WTjcJ7VAdKz_EYkxDmLnzd-vNBST0r1N1yt6qPyHGTbhk1CDraD0cFPkw"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "aBR_asWQEpOJptQPhv3HqAU",
+            "product_id": "13254592031598457101",
+            "catalog_id": "1846484293723546978",
+            "gpcid": "18255864540225648131",
+            "headline_offer_docid": "2754313916709062663",
+            "image_docid": "8648368158262949416",
+            "rds": null,
+            "query": "acne+serum+niacinamide+salicylic+acid+under+%E2%82%B9700+india",
+            "mid": "576462563305631971",
+            "pvt": "hg",
+            "uule": "w+CAIQICIPUmFqYXN0aGFuLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "426926222593813104",
+          "merchants": "Nykaa Man + others",
+          "id_to_token_map": "EXhk8XicbVPLrqNGEE3yBVnkA2YzK-tK3c3DkNGNxBtjA-ZpYGO1aQzYgLENxlj5mntnRposbyJll_-YWeRbwiK7ZFGbc-qcqiNV_f3djy9Z-ScW3S2-bhyltY22c9bFjdLPQvClvZxIn3Yl-Z2nEEezFACQpxHFQoaGX1Lc4eqUl-SNRiyPWIQQw1McpCCg34oMk6psMnu_zy7yKS3JHxDNKYrnmPmcQSxF0QDN6d_KGufZvzwzGQOe5rg54gHPshTHvl7I9StYS9tJx_M8TVNzZlJCyMJf164tb_-X-nTus8v49RecNtnsml36etaUOC0bXJdkQnBVpuNUswkjs74h2WX2XkHvOfRe5OcAzMqGlPhT3k7023_tXyeXN2bO0iziEGTnc8CykIev7a17KfKPfV9lfw0zSVg4C2mxDmr1HEcWwJrar5SqT7SqeMmrl7J5KaqXrPl8wu1tn3774SflNMjSdZCcoG1D2QW-bFCrKFRIFUA3KDpct4z1UJfxQTw4sDomvqFZAJ7dqrIzVRycEi5NOb67jxiaU9-mLi5e49zDoG1s_whNVDURJCDRRTHTKtmsRCVVkscuasEOFCtMhWeHEsdESzrzWJy8SIH4mDywBK9xU9G76ki5lOGGNcNkVWXuDmHs6gltPqzBrKtNphFm2ra0NUJHgCl3oDLTKLyTxgGZBmjPL8pNzbc7SPRQJ8BWXQNraZfU5ugemQehqmUSFc5GTkQTqUoYGUl2HIa4IqNT8VSmMdjb3JNNmHdB4yCzcftAVkGMSGiH5OqBLgqjfEoIzVAVzztZuBNQFX5EmhANII6Ue6IVgRkWl-xgMd4jHZOaBHZYaBi0ZRjcr55iopiqdOcQspOODSS4xgdVcqmcMYEVpZFVmUrhJ5FL-YrhYq3dB407emEy5VA8FalSUPFFConrRuLaa0QQhOKJHKxFGqihVhqiq1ujvUn8kEpASlmdg5i7vSkWdlTQu6Nrxkgdd34huXJIfbxfL_uvQFCZzrPp1lE2K3i-lbgTHYWLNmOBtwo97oX8Zzjn2Pn0fPz0hezn9HQ6ltm37988RXAlfesJpuItfOVZyp3FnVXED-8ERXoWiBEq-MakmXatsy6T3cppg1OZPG6FxXPwNog4hVm_laepzR63BPl2asCl8OGdtZCfGYp69qM8tofBM55AEoDu_CiHONgZmuFhe32z76FKb70-gvaAtvfTWhPBI7fqI_N0uq-2vpzuPK-4pflRlUmROEdZE0CiQslk5hHvrje1vVkkF85n--Wi8PRlkepGACA9LPNuZG43DqQ7erEeohFstPtKD4wFttQC9UnfAHJgF8Iptw-mYazqjiBu1I0pjJuGSOLRdr9XV-fSCXxJM8wOcJo7IujE3pPW9OSQ4A_vtlsvS_tL9uT57vpZsOpkwJQ5XSN2WolxyiciKOWpnNfXFG0RCwIdDTfKZOwnB7eiYNH2oFxW6T6EN3yI2asfrS2dliwfr1weSg-ExcvNftLJJfGYXY0D5x8OtNcm",
+          "title": "Chemist At Play 2% Salicylic Acid Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 481,
+           "rating_max": 5
+          },
+          "price": 255,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/uCBPc3icDcndEoFAGADQJ9oKTcqMMQr5mS2LwpXR9t_YdttP1FN5HW_DuT3fTw7A5URVE0abjkMSI4jYUMkk3KGgCq0fqsxrzguWzcT0f5O5F1suJWG1MK62LVa-OS460Xhv7VEF0RtCUm61mzDTFzssz26FL0aPL7zXnP5mpTl01mjQri3dTwLHrVAwNBMHY7mnRo7a5gTuFZ7dcSsKFoWlqXu6RNjekEws62ZHfrVTPs0"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "aBR_asWQEpOJptQPhv3HqAU",
+            "product_id": "9328463001942361541",
+            "catalog_id": "426926222593813104",
+            "gpcid": "985999443753401161",
+            "headline_offer_docid": "12733985775263340274",
+            "image_docid": "15361094887290966386",
+            "rds": "PC_985999443753401161|PROD_PC_985999443753401161",
+            "query": "acne+serum+niacinamide+salicylic+acid+under+%E2%82%B9700+india",
+            "mid": "576462821677066191",
+            "pvt": "hg",
+            "uule": "w+CAIQICIPUmFqYXN0aGFuLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "9482430974451428403",
+          "merchants": "Amazon.in + others",
+          "id_to_token_map": "w6ZhEHicbZK5ruRUEIaBJyAnmWSiqyv5HG9trm7Qbi9tt_fluO3E8m63j5d2b26Lh0F3BqQhZJDIeI8h4DkIaSRCKirVX6qvqvT_9dW3b0Xze8I7cXLcH3emd2L1lYVDd8XYyqdxGvJLdm7y3wABKAICElA0QwCOZVkOfsqSc4KHqsk_c9QKUiTBsRRFAwquKIL8tS6SHDd9YZZlMQlD9u8UsGI4hmYosOJoimMAZNlfmi6piv90FrCQJiH3IACSBJBiwYcpP32B1iZ-8CHB0hzHAcAyFMEQxA-WYwrx_2s_HS_FdP9CJEuBkyZ7Sh6Ap1MxXbpH2hdPlz4vpqf3Iny_gu95jiWIp6bPm-Snanx0fobECsLHTSQHKQAobsVyH7om__HDeD2_1dXHywUXf9yeNmvFVjaK5XfSMdwbRCJLF03El0jG9VuF35r-rcZvRf_zkIzXMvvz67_Fa7bZTNnG9scRCQ7hdsjKOlDbgCttDzuJLzl5LyENRTD1ozYMJBQBtdMFI0QgsrP9eEx7kYwW_hhCOkjacXT2WNBRew4XQ9SBaumdEzkwuiXwtGTS6OgAXdK-9rOD1PrwbBZyTUcYXR2RVk0JqwHOl6BVZdSOO09CJ2OpzQzZVCSOJ12eLYeIxhzSbtbNdiADmO-zO5IkR0P49Kg3jx2TwgdkJLRL1kaXaEFD3ouEva-VQKxuxd4I3G48-Rifit7Y6-3sRz2--h22onasH3_w0oAGed8CvR3NsJcsA_FO2kpOGqyg7vm014-h7uHBFQH0FxFmfp6E_nh2SXRO74Aptippio5lyj6IJGkIce6FsHa8nucTQdLMgJhdl1j0BQNDrI-F6Himh-QQo71HjLsI5q6-R9cM4cEArStBaeNjrs5QPbsE52dLbpgSfwqQThlYUuVG5Z2tcTeDyA-ReAvE1WLI6G74yLEJwKdbBxkH1Yv6aIdg5HycT1P5hVhL9Nk12X6rYZEp95qre5e-WFumYrlwdbaV9feAXTEP-wMOchD8nA1D2xR_fvOdK66dzTZ217roKp74uqlsZWZE_uXdWty8rnMVicl1b2WHMfHSXlFzA9U0sW-0CkUeupan49Hx-6FoBHOgcVXMDFML5ZArL-8E9OqzsKJH7RzxYifqVO5GczffbzsZnuS1MbmEu0nj-Bmo9vrfeHkXx26RXabi2fUc63VtdA-7kdSOuj_LkyUY_SlYzgm7uc--lPLTGDTMWQuWIStza9fZsXbplV2hPpcZjem0LcOQdI2gSvp0yCLhKjqsB0bEtyn2-iuxL55T4uWdoQivNEm-ynNedoFW3Xsft828TmlJV6B55e3ZnRlj2ceNTjlOll5cW3xe29paG6UUHQxvUq5TMOvFwbjxWwFOx7q-leUEdjnv6cYSOgVlrZAxVlU8DeqZtbN-3rquqV6bs6xe95F0D2O_PU_ktpyMnUjuNpo4rDqOu9s07Q6eZOU3Qz70F7f0D1YYZFaaiUgQDkSiRDUiSoVlbklYmXGq1xWkuooJnLIpY3bC8zrM_QM5TCbUU1N4xrxcn7mOl7dxyMbaJp20Nt1c1HnV6BgdbycNQa-W490_WCPupQ",
+          "title": "Foxtale 12% Niacinamide + Azelaic Acid Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 587,
+           "rating_max": 5
+          },
+          "price": 187,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/kPVEknicDclRDoIgAADQE6E2V6hba83SxDKr2dKfRiiKgZBSy1t1nW5T7_d9P43WavBMs-pIPypdlUDfOtuoB401IwaRwhwaqRTr6sVj_j9vmZRuSE62zzqH9bQFCCZrVA35FUeAXYNN2twp3I1U9mOwdWbcZa7doHObv8g-WUmsAck4T8VBvNcCWtgO4-lF-CiXwCI7nET9c7INi4wjXhwZhnGtLrSEYtUew-UPlL4-WQ"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "aBR_aqXqKOTs7M8PlYS86QI",
+            "product_id": "10140213145601977792",
+            "catalog_id": "9482430974451428403",
+            "gpcid": "2082224339241149879",
+            "headline_offer_docid": "11869656418954961277",
+            "image_docid": "17172532919713312471",
+            "rds": "PC_4022075999117640600|PROD_PC_4022075999117640600",
+            "query": "azelaic+acid+serum+acne+under+%E2%82%B9700+india",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIPUmFqYXN0aGFuLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "14523880823984427695",
+          "merchants": "Purplle.com - Beauty Online + others",
+          "id_to_token_map": "1vnb2nicdVPLrqNGFEzyBVnkA2YzqytL3Q3YkNGNZDBguKZ5NQ-zsZqHDeZ5bTC2la-5d2akyXISKbv8x8wi3xJG2SaLs6kqValKOn9_9-NLVvxJRWdHz4Etd6be9baVX5j189L71J3adEj6Iv1dYBYCyyLALXgkMAwLOfZTQntatYci_QOyHGJ4HvCIEfhJtpgL3Oc8o2lVNJm532enVZtMLpBdoPmkY_gFRDwHuDn8rajpIfuX5oVJACCzmPxYACCAi9dTev7CWtIOAlbgAeQEFsy_pfMAsL9ajrna_Q_54XnITrcvv9CkyR7O2WmoH5qCJkVD6yKdEFoVyW26hwlLH4YmzU4Pb2X0lkdvRWEBwEPRpAX9cOiSbwX_I-B18vnMLebsHHFTbQYAxEEWvHaX_iU_vB-GKvtrfJCWmq1JmuXVyvM2xICqyrCRqyFSq_zlUL0UzUtevWTNx5Z2l33y9Yef5HZcSedRsr2u81cOcFGFjAbDCGKVqILhej2J16lIKqOPGg84d3xM5L41wJlz77nmqjbrAMHAyNnQ0LcCWUZ2zV9JaTPOPbcIAGNc-k8ek2JSpeGWwdtIvpKoztWo6nqndKz4qESG74207jhDdjRyV5zIr45x3QUJUZxUlkHEVCQoIHYVUTY8ljHWylMW5M-xOunU3ksJJjjUI-Lhp7hp71jtChtF88jruy26atsqurlEFxPZYAjicCxDF8vCPG460Q1zLivZu-njjRsaMA5yaAPBCgKc-yqsCMzvgRdRZ6WQ5JjeTCKGG1_pDaiIBtOpFKV6DHMSHcXB9ztlC1PHDRycKL5nkhQkgLtuq1yM6wpNm54SrzpFVY5xI6pOiC1DNWDIlMAo7bsrwZKWBvTLfhUrYh2V56tdJYxfTtkK1gzA7VNFsSjjjwbUj4EMXAUpklcJeTLlOqFouY0IPF9s0yPWEk_x1UIXnTW-mUHkTXtdM9kJklrw0yoP_ZUu0kCxSZi3pEzPcaWL76_n0_4LWCpc75osp43XTbHQq_Vmc8KWOTPusNXvVnsZf4YLfr6ADBTQ9Kofk7Yti-zr959deelI6527NGRXI_KjdLC161wW371ZytLjMtV9mV64JFPPddZnK6eyO68tovslxwIPL6NIE5gNuxV8vjR72qWImIkOn5bv3mBt9cgxzCMJD1tzHF19BiIP9M_3Ytx6sa7qLjWti3n1FXbnDiE0R7S7tpYqgvsB1yU3a6-bHVklsevml-RQKqs0j-xypS5BpEDJ4Bah4FhBbQZadOLJfHjScnf9lCdr3QOQHZ8O_Y27XHiQxKxmjeENBOp1s_Z0jWIlR0M0NCA9zrVlezCPhq5v6j5F_G2tT2WcxEeSgHb7vbJ5LmyPSKpu9IBXnRuC9tadqc2QHiP67s1u52bJcMpmLnGsxyWuo5EyRiUw1O4kzi5m6VIu2mJRnxO0Q3PgrdF4YQzOnNm0E5eYNUf5tEn2PrzQ43Z-JqGF16yECd04ApTuiIqnizlbp6fI5eKaevY_VKrWRg",
+          "title": "Minimalist Niacinamide Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 4500,
+           "rating_max": 5
+          },
+          "price": 212,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/_OwMSHicDclvD0JAHADgT3RM7PzZWjOVTsgiq1emHx0Jd7k0PlVfp29Tz9vn-6mEYIMly2UHz4mJskDi2ikSHUQuapCgb-Wh6hmrO7riy_9ZdliYLiQEXbMFVcYdTn1DEOqVLscNXAAxeKaOqm434z0ZtBM_xQi7UbH3grkBhvSsrfxjnD9ukcpC1d6lG24YYtv22qF3GqJEL0xyjtd6SsEz2XSu3kF0695kDj36A0wFPes"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "aBR_asWQEpOJptQPhv3HqAU",
+            "product_id": "9379442057829334154",
+            "catalog_id": "14523880823984427695",
+            "gpcid": "10498015940641548004",
+            "headline_offer_docid": "1472688038712850561",
+            "image_docid": "8914701371454001017",
+            "rds": "PC_10498015940641548004|PROD_PC_10498015940641548004",
+            "query": "acne+serum+niacinamide+salicylic+acid+under+%E2%82%B9700+india",
+            "mid": "576462539830025140",
+            "pvt": "hg",
+            "uule": "w+CAIQICIPUmFqYXN0aGFuLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\n- **For active acne:** The Derma Co Sali-Cinamide — 2% salicylic acid + 5% niacinamide.\n- **For a cheaper salicylic option:** Chemist At Play 2% Salicylic Acid.\n- **For acne + leftover dark marks:** Foxtale's niacinamide + azelaic-acid formula.\n- **For sensitive skin/oil control rather than frequent breakouts:** a lower-strength niacinamide serum may be gentler.\n\n**How I'd use it:** start the salicylic serum **2–3 nights per week**, then increase if your skin tolerates it. Don't stack it initially with retinol, other exfoliating acids, or harsh scrubs. Use sunscreen every morning.\n\nIf you tell me whether your skin is **oily, dry, combination, or sensitive** and whether you have **active pimples vs acne marks**, I can narrow it down to one.",
+        "sources": null,
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

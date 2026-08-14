@@ -1,0 +1,458 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 2,
+  "promptText": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+  "cellId": "F01_hg_chatgpt_r2",
+  "startedAt": "2026-08-14T12:39:22.101Z",
+  "finishedAt": "2026-08-14T12:39:46.205Z",
+  "durationMs": 24104,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Haan, **₹2,000 ke andar** men’s jeans ke liye main ye brands prefer karunga:\n\n### [Levi's Men's 511 Slim Fit Jeans]()\n*₹1,279*\n\n### [Pepe Jeans Men Straight Fit Blue Jeans]()\n*₹1,631.15*\n\n### [Flying Machine Men's Slim Fit Jeans]()\n*₹999*\n\n### [Pepe Jeans Men's Holborne Mid Rise Straight Jeans]()\n*₹1,359.15*\n\n### [Roadster Men's Loose Fit Jeans]()\n*₹1,080*\n\n### Meri ranking 👖\n\n1. **Levi’s — Best overall** ⭐  \n   Sale mein ₹1,300–₹2,000 ke aas-paas mil jaye to **Levi’s sabse achha pick** hai. Official store par abhi 513 aur 512 jaise models ₹1,679 ke around listed hain. [levi.in](https://levi.in/collections/men-jeans?filter.v.availability=1&utm_source=chatgpt.com)\n\n2. **Pepe Jeans — Best value**  \n   ₹1,400–₹2,000 mein kaafi achhe **straight/slim fits** mil rahe hain. Pepe ki official site par multiple jeans ₹1,499–₹1,999 ke range mein hain. [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)\n\n3. **Flying Machine — Budget + daily wear**  \n   ₹900–₹1,500 mein achhi choice. Agar ₹2,000 poore spend nahi karne hain, ye strong option hai. [magicpin.in](https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com)\n\n4. **Roadster — Cheapest decent option**  \n   Generally ₹600–₹1,500 ke aas-paas; casual/college wear ke liye theek. [magicpin.in](https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com)\n\n5. **Spykar — Stretch/comfort ke liye**  \n   Sale mein ₹1,500–₹2,000 ke andar mil sakti hai; daily use ke liye comfortable option. [magicpin.in](https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com)\n\n**Agar mujhe ₹2,000 mein sirf 1 leni ho:**  \n👉 **Levi’s 511/513** — sale price ≤₹2,000 mile to.  \n👉 Nahi mile, to **Pepe Jeans straight fit** lo.\n\nAgar tum mujhe **apni age, height, weight aur waist size (jaise 32)** bata do, main tumhare body type ke hisaab se **exact fit (slim/straight/relaxed) aur 3–5 best jeans** ₹2,000 ke andar choose kar sakta hoon.",
+  "citations": [
+   {
+    "url": "https://levi.in/collections/men-jeans?filter.v.availability=1&utm_source=chatgpt.com",
+    "source_name": "Levis India Store",
+    "position": 1
+   },
+   {
+    "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+    "source_name": "Pepe Jeans",
+    "position": 2
+   },
+   {
+    "url": "https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com",
+    "source_name": "magicpin",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "23.8789 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141239-2163-0629-0000-af73b77db7e7",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "23.8691 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=India%20mein%202000%20rupees%20ke%20andar%20men%20ke%20liye%20konse%20brand%20ki%20jeans%20kharidni%20chahiye%3F&hints=search",
+      "datetime": "2026-08-14 12:39:45 +00:00",
+      "markdown": "Haan, **₹2,000 ke andar** men’s jeans ke liye main ye brands prefer karunga:\n\n### [Levi's Men's 511 Slim Fit Jeans]()\n*₹1,279*\n\n### [Pepe Jeans Men Straight Fit Blue Jeans]()\n*₹1,631.15*\n\n### [Flying Machine Men's Slim Fit Jeans]()\n*₹999*\n\n### [Pepe Jeans Men's Holborne Mid Rise Straight Jeans]()\n*₹1,359.15*\n\n### [Roadster Men's Loose Fit Jeans]()\n*₹1,080*\n\n### Meri ranking 👖\n\n1. **Levi’s — Best overall** ⭐  \n   Sale mein ₹1,300–₹2,000 ke aas-paas mil jaye to **Levi’s sabse achha pick** hai. Official store par abhi 513 aur 512 jaise models ₹1,679 ke around listed hain. [levi.in](https://levi.in/collections/men-jeans?filter.v.availability=1&utm_source=chatgpt.com)\n\n2. **Pepe Jeans — Best value**  \n   ₹1,400–₹2,000 mein kaafi achhe **straight/slim fits** mil rahe hain. Pepe ki official site par multiple jeans ₹1,499–₹1,999 ke range mein hain. [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)\n\n3. **Flying Machine — Budget + daily wear**  \n   ₹900–₹1,500 mein achhi choice. Agar ₹2,000 poore spend nahi karne hain, ye strong option hai. [magicpin.in](https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com)\n\n4. **Roadster — Cheapest decent option**  \n   Generally ₹600–₹1,500 ke aas-paas; casual/college wear ke liye theek. [magicpin.in](https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com)\n\n5. **Spykar — Stretch/comfort ke liye**  \n   Sale mein ₹1,500–₹2,000 ke andar mil sakti hai; daily use ke liye comfortable option. [magicpin.in](https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com)\n\n**Agar mujhe ₹2,000 mein sirf 1 leni ho:**  \n👉 **Levi’s 511/513** — sale price ≤₹2,000 mile to.  \n👉 Nahi mile, to **Pepe Jeans straight fit** lo.\n\nAgar tum mujhe **apni age, height, weight aur waist size (jaise 32)** bata do, main tumhare body type ke hisaab se **exact fit (slim/straight/relaxed) aur 3–5 best jeans** ₹2,000 ke andar choose kar sakta hoon.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.fashioncronical.com/top-10-jeans-brands-for-men-in-india/?utm_source=chatgpt.com",
+        "domain": "www.fashioncronical.com",
+        "title": "Top 10 Jeans Brands for Men in India",
+        "description": "TOP 10 JEANS BRANDS FOR MEN IN INDIA (2026) – BEST STYLISH & AFFORDABLE PICKS  * Krishna Verma * March 25, 2026  Jeans are no longer just a basic wardrobe essential—they’ve become a style statement f...",
+        "breadcrumb": "fashioncronical.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://zoutons.com/news/best-branded-jeans-ajio-under-1500?utm_source=chatgpt.com",
+        "domain": "zoutons.com",
+        "title": "10 Best Branded Jeans on AJIO Under Rs. 1,500 for Men & Women (2026)",
+        "description": "10 BEST BRANDED JEANS ON AJIO UNDER RS. 1,500 FOR MEN & WOMEN (2026)  Image By Sonal Singh - Shopping and Deal Expert 24 Jun 2026  10 Best Branded Jeans on AJIO Under Rs. 1,500 for Men & Women (2026)...",
+        "breadcrumb": "zoutons.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.pepejeans.in/s/MIRAI/men/jeans?utm_source=chatgpt.com",
+        "domain": "www.pepejeans.in",
+        "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+        "description": "JEANS FOR MEN  (1211 products)   4.3  Quick View  sale deal of day  Men Blue Mid Rise Straight Fit Jeans  ~~ Price reduced from ₹3,199 to ~~ ₹1,499  (53% off)  Best price : ₹1,449  Quick View  sale d...",
+        "breadcrumb": "pepejeans.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.pepejeans.in/new-arrivals/men/jeans?utm_source=chatgpt.com",
+        "domain": "www.pepejeans.in",
+        "title": "Trending Jeans for Mens – Shop Latest New Jeans Online at Pepe Jeans India",
+        "description": "TRENDING JEANS FOR MEN  (198 products)   4.2  Quick View  Men Black Mid Rise Straight Fit Jeans  ~~ Price reduced from ₹2,299 to ~~ ₹1,499  (35% off)  Best price : ₹1,449  4.0  Quick View  deal of da...",
+        "breadcrumb": "pepejeans.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.pepejeans.in/denims-under-1699?utm_source=chatgpt.com",
+        "domain": "www.pepejeans.in",
+        "title": "Denims Under 1699",
+        "description": "DENIMS UNDER 1699  (80 products)   4.1  Quick View  Men Blue Mid Rise Straight Fit Jeans  ~~ Price reduced from ₹2,299 to ~~ ₹1,499  (35% off)  Best price : ₹1,449  3.7  Quick View  Men Light Blue Mi...",
+        "breadcrumb": "pepejeans.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://etadviser.com/lifestyle/6-best-jeans-for-men-under-2000-in-india-to-look-effortlessly-stylish/articleshow/101220271.cms?utm_source=chatgpt.com",
+        "domain": "etadviser.com",
+        "title": "Jeans for Men Under 2000: 6 Best Jeans for Men Under 2000 in India to Look Effortlessly Stylish - ET Adviser",
+        "description": "Luckily, you can get stylish jeans for men for as low as 2000 rupees and make a style statement. A pair of men's jeans under 2k can easily be dressed up as everyday wear, an Indo-Western look, or a bu...",
+        "breadcrumb": "etadviser.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.lifestylestores.com/in/en/c/men-bottoms-jeans/?utm_source=chatgpt.com",
+        "domain": "www.lifestylestores.com",
+        "title": "Jeans for Men: Buy Men Jeans Online | Lifestyle Stores",
+        "description": "1. Home 2.   3. Men 4.   5. Bottomwear 6.   7. Jeans  New  ₹  1,299  DENIMIZE Washed Regular Straight Jeans  New Buy 1 Get 1 30% OFF  ₹  2,659  ₹4,199  LEVI'S Solid Mid-Rise Regular Straight Jeans  N...",
+        "breadcrumb": "lifestylestores.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ndtvshopping.com/fashion/top-levis-jeans-for-men-under-2000-9201855?utm_source=chatgpt.com",
+        "domain": "www.ndtvshopping.com",
+        "title": "Top 5 Levis Jeans for Men Under 2000 - NDTV Shopping",
+        "description": "PREMIUM STYLE, SMART PRICE: GRAB LEVIS JEANS FOR MEN UNDER ₹2,000 BEFORE BIG BILLION DAYS  DISCOVER THE BEST LEVI'S JEANS FOR MEN UNDER ₹2,000. FROM SLIM TO TAPERED FITS, SHOP PREMIUM DENIM AT GREAT...",
+        "breadcrumb": "ndtvshopping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://levi.in/collections/mens-jeans-sale?utm_source=chatgpt.com",
+        "domain": "levi.in",
+        "title": "MEN'S JEANS UNDER 1699 – Levis India Store",
+        "description": "MEN'S JEANS UNDER 1699  [Input] SORT BY: Featured  [Button: Featured ][Button: Most relevant ][Button: Best selling ][Button: Alphabetically, A-Z ][Button: Alphabetically, Z-A ][Button: Price, low to...",
+        "breadcrumb": "levi.in"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Jeans for Men Online at Best Price – Levis India Store",
+        "snippet": null,
+        "domain": "levi.in",
+        "url": "https://levi.in/collections/men-jeans?filter.v.availability=1&utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Levis India Store",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+        "snippet": null,
+        "domain": "www.pepejeans.in",
+        "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Pepe Jeans",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Top 14 Jeans Brands for Men in India (July 2026): Levi's, Wrangler, Pepe & More | magicpin blog",
+        "snippet": null,
+        "domain": "magicpin.in",
+        "url": "https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "magicpin",
+        "publication_date": "2026-07-01 00:00:00 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best men's jeans brands under 2000 India Levi's Pepe Jeans Flying Machine Roadster Wrangler 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Haan, **₹2,000 ke andar** men’s jeans ke liye main ye brands prefer karunga:\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "16885476745277560505",
+          "merchants": "Levi Strauss India",
+          "id_to_token_map": "SLebb3icbZO7rutUEIaBJ6ChPw0Fira01vI1HO0ivsV24uX4smzHTbR8SezYsR3HiZ2Ih4F9AAlKQOJZDgXPQUlAlEw10j8z3z8azZ-ffP6Wl78fxmlHuxtU8mvJ4XZzvK39s8P-1PVtdk2HMvsVsTxiEIs4wDACQAxk4E8pHWjdHsrsN8iLIscKvMBySBA4HnCA-6XIaVaXTW7v93mvtOk_dQDwiONYkRcQx_BIZAH7c3mih_xf_VeGZRESGV6YC5BlIBJY8UOfXT6ijbwTBDRnBcgI3Fx49rIiRN9sXFvZ_b_2w_ma9_eP9ilvZsecNpfZtcnyfoYAALOyyUo6q_Nb-SUSLrMu7_L_ivb1vWwOsxNNi6f1Wd_S7DI828aeNoc67384dP8uwvIi93TPP5M5DwHPM8yHU5l9-6G7Dd_R76_XOv_41TiTF4ZjyEYULLV7UkpkG5lFUk5OFnLnbWhcvJCraKi-Heq3snkr6re8-bF9XmKf_vHpX-otleU-lR3SdYHiAi8srDiQgA9dNkPpFC4PjIeMyWnqknpg8phu8quu9O9QWYcuxI2FnmBKfMnONKy6p7mb1Z1OQQuDY43x0vVsDcuWIgVbEkAXxRxutJo86oEqRZjC2KcQjx7hVKxpowNM6Z_5ERj05Gg2ZLkFOZk83BRyUhUXq5bsuMrGDJDRWkIrjoIpAAPED4nx9WDl6zFLloNBK44JogCuSSfRClYYDVZCaosg9xxUrp8dXXt7Sh-5Vg00DAoHzj2rdjFucBws6y4GE3VItrLDLCRkIvHRPKZ-ICWRS2kwP-EodhJV05PahJ6KccK0CPuuTyrt7qpaEzwsmIBBc6t0oqfhycjaiFHHODIDLxQfcVR4ll5fiWr2VriFtnZAHhrCRJsHT3aYHF1jewrWPoxNUhFPQxmTa_Mi1beTuwwg9QM7gdI5qyaSBipYlqbk6vhuh7Fr-9WY1CIbhiLrBVmJYdfGDYZeaPKxmj6C0JW-ny79_iNYaNzg2Xxw7mS4ZHrH3o-NtW4IW1z3XNL0mfM1FJ6fBCEUICfOf0zbtirzPz77wlMXrqzvvIWleoavvsoHx5h4VXr_bqHKr4vMDFR641YwVfSiZS8qKwjW5gUMQl4x4VHwSy5v98Xm7MAn1eyVLL11y2TTtO_fKcErYFbOEdfougPni-6Au53s9ojhkqhVF9rZ2nZ-l-Fepa6xeMb7d7udl6fXPn_xfHfzusCneKRIy6IurCVn2wwska6mf1-fcBvxR2mopbNYLtjmcItFd5PkK3LBG5hRu536a2MmeoEfPHUXS-OA77dB2ev-pXixFJRfegOcn0RsKK8cw7y2fSlM4DQ-dgAuD8bkPrBh7PL25XIaTLBmOZZBR8SLc6Or5u6W4bs1L6xXqX3v9ozkawqvJqQTleUVjXJqt04hv9Qrt6vthnRXfZAE4SFLpodkaA9cXWfWobvPi1KygpBdXtXtqJuAF_N8ZJr7ZYUXrW5bCohfyIZKeaWML4jF-15246vePv91sSH1un90exRa7FK8bUgxvoBk7dG5IvIR9LwioM251gfoGpVjb1dsEm3FaCzTY07S-eVWkjtKszOd2wU_UI29iRFpKnt_K_8GDLf3zQ",
+          "title": "Levi's Men's 511 Slim Fit Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.3,
+           "votes_count": 20000,
+           "rating_max": 5
+          },
+          "price": 1279,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/D-BYPnicDclLDoIwFADAE_HZKEpiTBFtwIYACSpLaGupaPsqbwN7D-ltdLbz_QyIMMVBIA1_z4BSeNib0FcTdqi5z-0rmAYLoI3au93_YlKILeWVKtjybFfX1sr6XivwouRheyecEkd9SKqGd-SGM8sd5K1YaBqdIWGWrMNxUw52ZCXJLpRnJyKaH1wlMDg"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "gwx_apv1Deui5NoPjvLTqQ4",
+            "product_id": "2462324250337023131",
+            "catalog_id": "16885476745277560505",
+            "gpcid": "14685840614696106633",
+            "headline_offer_docid": "10062554867253628404",
+            "image_docid": "3442283679714312748",
+            "rds": "PC_7729471375975364812|PROD_PC_7729471375975364812",
+            "query": "men+jeans+under+2000+india+levi%27s+pepe+jeans+flying+machine+roadster+wrangler",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIXVGFybiBUYXJhbixQdW5qYWIsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "11066595184573245320",
+          "merchants": "Pepe Jeans + others",
+          "id_to_token_map": "nQeAT3icLZPLrqNGEIaTPEE22c8mi8g6UtNNc8noLMCADTZgLo0xGwtD22C3AQM2tp8mOWdmpMlyEinPMrPIs8QnSm3_v-qrKlX9892PL7T8ezdc12lz4TR6LrFTL_aXeXjy-M9NW-fnrC_zvzgRyAADhDheQoAXeYjQ5yztU1bv3mQOCAKWMSfxWESQxwiCLwVNc1ZW1N1uaavV2ZuPx5KMBYR5IL0VEiEQ_iiP6Y7-p__JiaIoIAHJkHsQRfhgvrZ599vH05m2t6_ukVajPU2rbnSuctqOIABgVFZ5mY4YvZQ_Q7EbNbSh_5u27FZWu9ExzYpHH6O2TvOuf6QNbVrtGG0_7po3qsgBEQNRAoIEsICBjODrscy_YFHgBYgRgJLIIyxx_Gtz6X9PP5zPjH79ZRiNFdMzx2YcTYzbplTJKraKTXn18iU-rZZmFyzxIV3qLzv2UlYvBXuh1af6seht9u37V73NxuNLpnqkaSLNB8E-GUewb0LiF3ZMOHK8Dl6oRnPC3dOJwZy9s3Q1Bzqhc7L1Aueh0dOQHeJ7YUcA2znwDzZolitowRTyw0ZnkxVjE9coGN2zLoMR9jh176Gk3dwAju_WxYO54YCoTQ05JSgaEuT7OZGtRLeCnPirJDL5iFnLYMr6KGKazflj-yi7Ecn9jCWE7IswvzthEKkk2idhuDRKclduVC8KGuVcDHSwnCq8E5H7Mk4cO7IWc3JFc4Jnm9Ca-cec5MhPHFbACDitfWh6j0uQo6lbGtr3gDleCuTOOWAtIAT6sKmTyp_4e8vNo8OQTnbIRpaxIg30fDNOUM7H0BjyvaEncdQ4BF_IpIGh4V9J6KXmwdAzZOKEOdoKyFoQPSYh0ZYwf-oc8iCDNibIGDuH-m4z_cO1a7dfgWLgPnAF2UHrpGQ1tzsej9x1UShjcScozL8pv3KiJIjc42g5LEmfsro-lPTbDz8FuuKPp-tAsfXADPXn8c4zr4Kuvn-n6ONnJbciPb3gGZdp06LmO50XRXvxBHqRHtByL4YlpvW2WJw8rvVcq9Xy7NJMNouqfv9Oi54Bmnl7h8HzGpy6qQdu7ma9hQhv4lpXjJO9asImd1o99U3lEe_frdcBzc4tfQpCf_GsOMdkSKGRx82Sqd6q6nminq3wNj86dSzs1Z6pJ6lU-Gp3SSR_saEz0jkLLk_d-tqeK2szLZy7kPrKxNw5t0uvbadhVzzZGqRda4LTg-iY2jNG6LluS_EKjsN9DbjJzrz6d8c017R-6o69BeY85hHcQ0GSzeYg-yskNHNBnM8y99ZskRoamqBvSCNpkzMcxplbe8X4ic38hrkVac7TXhXF-1i1Ajjm3B4zltu75iYXpWpHS35y1lfD1Hq8N6UDqm7dzFHqqWtrIHkii1SlB214gryzbcd-cp7WnFMpC8Lm7b3ZwqXNT6TLghTDE9jMg1TWJCHmgqCI0urEpj3nmwfPXc34TbyS4qHM9pRkcncpyQ1m-SmV3ULoU4O_SDGpDu72Uv4LFjrQXA",
+          "title": "Pepe Jeans Men Straight Fit Blue Jeans",
+          "rating": null,
+          "price": 1631.15,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/PZF1KHicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDgwNDEn19zLMt4gM9fTOSQyPcHE2MqlySw4L9w5KNzQJCfIwNDDxLfYrCkyLMs608PY28zPwMrescrHwznb2SfUzS68KDNFNNyoDAFq6LNA"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "gwx_apv1Deui5NoPjvLTqQ4",
+            "product_id": "17090503314830474233",
+            "catalog_id": "11066595184573245320",
+            "gpcid": "7107507806805650932",
+            "headline_offer_docid": "14589563540848307206",
+            "image_docid": "1777636392117072905",
+            "rds": null,
+            "query": "men+jeans+under+2000+india+levi%27s+pepe+jeans+flying+machine+roadster+wrangler",
+            "mid": "576462530287435814",
+            "pvt": "a",
+            "uule": "w+CAIQICIXVGFybiBUYXJhbixQdW5qYWIsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "3823522429421497231",
+          "merchants": "Amazon.in",
+          "id_to_token_map": "8lF9tXicbVTLrqvYEU3yBZlkficZRNaR9t68--oMzMuADZg3ZmJh9jZgMGAetkH5mOTc7pY6w-6W-ltuD_o7MoxbyTBrWqtWrapS1W9_-PMHKX_JH89j2t2hTKaSsdr95b7zbw79Q9e3eMrGEv8MKYFnAAcRx1MvcCxg-R-ydEzrNi_xTxSPKAYhGgk0grTAIQr-WJAU12VD7POZ9HKb_U6DkOIpgWYEiCiKFyDP_Ku8pjn5bxgKALEMeKnTiAcQChz40uPhK9pLR0hzNAQIAU6gIEVzFER_37u2fPz_se9uE-nnr_aVNKsLSZthNTWY9CsEAFiVDS7TVU3u5V8RN6w60pH_kc71XDb56ppmxcv5qm9TPIyvtEefNnlN-u_yLvt9GsyrTY7lEU_xNAsZQLP8l2uJ__Glu4__TL-dppp8_dtjJa11R5f0ONyo86kUg0NsFKfy6eCIuR0iffAipkoj5SOvP8rmo6g_SPN9-1rEOfv1j_9W7pkk9ZnkBF0Xyi7wwDDiSy3HQC0OS526Wku5iiWbgVGdgMoQRdUCiLVDIMiprCBT67Z-LEoZUMbgYqFd5Ab4asleYEWZBHUzxt7LBOVD8WlRJnQai3XlfHaAMPrIAGnsKlEdykmkIq-uL0lsDHagLFizkszPZyvOxyzsdFvr5rBSZ2_Bg4Ugm10Tx6yswopqCVdgDjeW5C6FfwDO6C44yYKWxrU4YD-ZzKB6-oqLAhXPWDaGNGBcvzHGLBbjUA4epl_LSQl3pHqgrObn5Pp8pkrnm7IYYz_s3E1tpItxc6JuE8Jiec3BP8nJYG54xt4kU3gtaFsxes8XKdK420O9fmRhDn3VNewg9BLQQk-u1XBT-P4SFt5LEgP8MBX-pSVsI60-JE1RYZiwiRpCXylc91pvSTRQUaCPVlV5KsIUUYUi0w5P9-Ui9UP7BMUbrp5BFipgUxqiq1mzHSVudinKDCSptVRLGNS9s1gMiS3xdHUlX0s6M-6ob59Df_4K1iozejZnmSZ1GsgkHiPuugz5RqxtJsMkydffQI5nOQghBxme_T5r26okv_7pL56ydiXt6K1NxdN95V3KHf3JKuLnT2tFel9jI1TSO7OFmawVLT0oNMeZ-zcwcqSiogvnlwxpz8X-5sDesY1extm925z2Tfv5kxy-A2rrXKwaTUdwGzQHzPbpeH5d_ylulbV6Mw-d32GrV1JXX7_w-dPx6JFs6smb57v797V1TR4pUnHcRbXoHJqRDsTJ8Ofd1Wpj9iKOtXjjyzXd5PeEd_cnsg0Gaw9xarfPfmqMk1ZYC5u6642eW_N9lM-aPxRvpozI0Ovg9qpo6fI7Q1HvbV9yT3B9LEcAN7n-dBdL14-kfRuuowF2NENT6IJYXtC7SnAPFNvtWG63zey5O1Oir8qscgo6Xt5M6CFldusU0lu9dbvaboJu0kaR4xZJNDwkQXtk6hqbeTcLRSmaYURvJuXw0IzXnyTkQTXzsLXWrWabMkjegn0qkkp-vCHaOveSm0xaC61mvQ_qXb90ZxSZ9Ia_74Pi8QZOOy8VZJ6NoecVYdrcam2Erl459mFLn-IDHz_K7EKCTBjuZTCjDN9SwS7YMVXpOx8HTWWf7-V_ALwQ-Js",
+          "title": "Flying Machine Men's Slim Fit Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.1,
+           "votes_count": 108,
+           "rating_max": 5
+          },
+          "price": 999,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/hteyJXicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnpJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDkz0iDfw8jawDC1w1I2vSDcs9skISsrMy_fSdSsIKzU1DSgLivIN9s528jRMDXYtdMsLsnRNzksKKPZPDSs2ikiuCowIcPYxc3UGAIj1Ljw"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "gwx_apv1Deui5NoPjvLTqQ4",
+            "product_id": "13985071278333376068",
+            "catalog_id": "3823522429421497231",
+            "gpcid": "15421768283846150468",
+            "headline_offer_docid": "3113839459123389185",
+            "image_docid": "1902650376428011970",
+            "rds": "PC_1474102207931347312|PROD_PC_1474102207931347312",
+            "query": "men+jeans+under+2000+india+levi%27s+pepe+jeans+flying+machine+roadster+wrangler",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIXVGFybiBUYXJhbixQdW5qYWIsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "7051352881652744258",
+          "merchants": "Pepe Jeans + others",
+          "id_to_token_map": "JyPqq3icdVPLrqvIFY36CzLozO8kg5Z1pKoyz1ydgTFgwAbsMu-JVVBlA8aAARvbys_k3O6WuoedSPmW24N8S7hKhsmW9mSvVfux9q5__eGPH6z452l8HEh7hyq7FbzTbMv7xrvuuF_arqG3bCjo3-cSB9Dkggw4Hki8LPG_ZGQgVXOaUBHwcM4jSYICj0SOQ7z0W84IrYqauccj69Qmm2gQ8dxkIieIQPhGk-GvxYWc2H_gKTRBPJrCogQEDonil472X7nt8jClh5woCRISJVmc8guc_NctdtXD_wF_ut5Y9_zqXlg9Kxmp-9mtpqybIQDArKhpQWYVuxd_RmI_a1nL_ks6Vs-iPs0uJMun3mddQ2g_TM_GjtSninU_ndqp1X_8r4pfLgX9jRcFTpiEkJEIBYQ4SfrS3oe_kR9vt4p9_WGcLRfmzlyaUbDSn2mh-HFk5Wnx2NGQv8ah2e9D_kxC7eNUfRT1R159sPrnZtrNMfv9u--1ZlSX_bjc-W0bqBh4ajUk6KHFIIHJ3IT0zC-ZkXQ4yteOF_juKi_T8vz0VB2nULZsbwFs0G6TIEcR1HHo6XlWYzVAzohLa8yADjdhu8RaoGOUoKAMnnaJHyyEawopoQblJ_ZtEyZKHOSrRLM0gujDNZJjHDq7TLfWthoPTHdIXDltqgd312jXKapW2Vl2A5WarE78CIzPPWqjxMCCU7eDp7UkAjzw6xOXlXiLw6TNvMDGRnsjgTTgi5WT0io8LeFDL0gSqDS7l3Lda3CNK91hNTa9M4xCIz-7YT_sQr4IAK3pygQ2gq6vPUga0DkB4MUu_IpolZ-USuSU-hjNFYVWiuGhwCRnDdpl9iAXRycXut5P2iTIfO6rDMSBPTqRsgn19ox9Wibg4dlnubHLKvBeyirVmzH4Nn8oIRrlyiStQStdT15ByPxv81c4C5q9juic6XKeGfEDrwJIvMBNoXKl54efBRpYFZaCDefphgkOotbIQmjuSsWyDcV1jCBwNY3DryD2QHtNEFZ-fPTd8StY6Pywd3mtu9xh_KIkzq53r7OW9Aw21yyW-_Ev068SRAihCHmZ-zlrmnPBfv_uT3ttgZfGYb-wtb3pae_L0858CJry-dNCW74vqBVo5M6vYaYaecP1GieK9vYNDCI7z8NS9AqeNcd8e93BbudanUqze7tKt3Xz-ZMavIP5elc6FbodwLU3duDppocjmvNp1GgL_WrHrddSp9MINheTff50OOxZduvY297D2_eFc0lGgnQatWGl7OJ64HzlZnnPzcVpIqFUhkq5SsWCq0_3RMLblK393tlOt-o2j-5WW6mROy-B4MXKPDnP-6AeDa_P32wVsb4zwXWq6JjqOz-fvzddIT7AZXwdAFydzAd-OaZ5YM1bfxkssOF4bo5KJEiy2Z5lHM-FdiOIm3XmPtvjfNq3Kmip30rq6obGZeY2u3z5Vq1xW7m1396MQRHF11Kx9mgJ3YGvKmqf2qecF4odhNzqpsWjYQFBYmyc189-7Swaw7VVkLz5W6Kwszq-Ic45dkuc3IwGOvVi61eb7tUeUWhzK-m-9fPxDaSbPZFVSYjgfp8HpL5WxgCxed658ZpLo1iKxiIrmZ_J_b3wnyijVyK7uTAQnbtLkV-f3eO9-Dd-nwQ1",
+          "title": "Pepe Jeans Men's Holborne Mid Rise Straight Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 160,
+           "rating_max": 5
+          },
+          "price": 1359.15,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/a_FYJnicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDjIzTCpKd8wKCUsvMw61MHXzcDFJz0rOCHM1DMv2LCiIcA4N9c81KDM384kPTgzxDTQMSfR3T7TMyi02KfH3ci0MLPbJdHTyTQoAAIJjLiM"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "gwx_apv1Deui5NoPjvLTqQ4",
+            "product_id": "3840284069045085985",
+            "catalog_id": "7051352881652744258",
+            "gpcid": "13514786827897258649",
+            "headline_offer_docid": "1254444746706744291",
+            "image_docid": "6747465229178064277",
+            "rds": "PC_13514786827897258649|PROD_PC_13514786827897258649",
+            "query": "men+jeans+under+2000+india+levi%27s+pepe+jeans+flying+machine+roadster+wrangler",
+            "mid": "576462889271622488",
+            "pvt": "a",
+            "uule": "w+CAIQICIXVGFybiBUYXJhbixQdW5qYWIsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10476825738093566150",
+          "merchants": "Myntra - MNow",
+          "id_to_token_map": "gvNzeXicdVPJzptWGK3yBF1U6jbbKrJ0L5Oh0b_AjMYGzHQZNojJTBeMscHY6sv0zyClyzRSnyVZ9Fn6V-2u6rc7OsOnszh_fvf9c1H_Ud6WOLmoUEzjgDZOh_K8Tlve-zSMp3zKrnX-OwcAAck1YEiCokgKMATxKUuuCT6Vdf4FAmrNsAS9JlnAkTTDQBp8rookx3VfmMdjMYqn7G8dZFlAU5DiAAsIhqVJGvxWd0lZ_MszJEUykCQAy7HMmlxTLPduzC9fqYMQQ4YGHAMI7iUerBmKZVjml4NtivH_kB_OUzHev3RF_6Ypkv7yZurzYnxDAAA-lMM___7retfV-Wf6BTAE_dKW46gXPQffDfP11-T9NOHi60-3NwK_tbbCNkCKfE_rjRcGWpXWi5X79Dn0txfHp9vEl55L_Fz3zxV-LvqPp2SYj9m3Vz9Ip5soXG6C5Q0DEm3guMbggpLIFO0WkPLOCGQR4Y1pY9vMwBKm7uasIyOxETcZariEPm2ZKN9bDcZ6F51MD7c2kTtFlzMZ4K4Z0NpMKYHtoV3WySj37J3jwLZA2HdhBYsmd3Q_131_eyt8QBb90HjII1KfA76yYFNBlQWWXleGba7QKAAenQYV9Egj3Hu0lnjXyWsHIvTtZO8NTgYj4iWbsh_akj5QUgSDZ8iDkuJNk0rLUXdxiAij8aTTEjbtDSmG57tRm3nLZNfwmMONHMEQmigkddlWnRa5Vov3xqO65GKe2Gp089VIcsSqdVVsIwFc0zZSLKxZpo8Eg8RUCltoE5yq9zlhENygwwwUYo5TLGuFinHSLZoDOHfv57vEW6oi0ExD1aHR4qvTy0EAozpyczNCWmB1iNAlWTEkFLqBUZuSvIk8TTAUbOftcExR68hEThYyV2WgXGxFO_oiMlO46TM3rxMgI6XWNrZq3E0_cl112CUdPWR4o6QSZ7lNhCNFO9h3OKYNNlLV7t8vl_H4FfAyfXXM9X5HT3G-v-Hgeh7j40gqVTmPcD4Z_M9w_TINCOEa0hzxMTud2rr49urHOHaKbBqLlePahyfe6KJbQsbzQRCbJfa6fFfE8lkkiu4krjqzKrwx5i23BJJLal68CkkcprWj2fO0T3U-32Nw9OZ9PEWXdLrXIiD669ZrrfnIzONFibSAe_vakXhbUGOH1yVn60pPQmltF0bavH3NS8ITn2tISi5cxtS9Wcwbwr-WZTrfWG8QWfUwpNn1nErl8UQ4j8ZRu7lTD8CBSFb4t69F9NSy0W31QI8AluNFtcDdTOMjQUYqeZF4-ayHgzvkxijt7Ix_ubevja34RJPkk94IrUDtpinT7qo1-UKoITAoTKZFgdqrgs1OADlYf5nfzoCHU8ral3pu7tUj2Ff4oZu32yhhHSZ30mPVflhda4IlA5OqtdU6cdKz40hk47M6tnA-Sfts0fh6VqUk3RgZJqtWntDsoT0gnJWwItokahcYUH0idWtZWR5UGIxsKTcpQ43OvYqMBFnxdbB3t2ZQ7xyphozPP0ZsVykZ9dloWOt7eFrxKXrU3MXwLFfv9-f2yBbNo3scila4MnPTHdWt2Gmkwq7j4_ww68TeHNi_ACZ59Dg",
+          "title": "Roadster Men's Loose Fit Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 3.9,
+           "votes_count": 419,
+           "rating_max": 5
+          },
+          "price": 1080,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/fW1VtXicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDsyNDHFKD_cIzk4r9TQwyXJxTMzzN_ZNqwr3y_SNN85PdfYuyC8ucatM80_0zXHMLw6OdCuu8DD39cnO8giw8Ah2dc_09c2riMoCALrJL5M"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "gwx_asH1Db_X5NoPgq7bkAU",
+            "product_id": "9002137063244340622",
+            "catalog_id": "10476825738093566150",
+            "gpcid": "16509602966107648686",
+            "headline_offer_docid": "11880541490802685350",
+            "image_docid": "16343613208986737489",
+            "rds": "PC_16509602966107648686|PROD_PC_16509602966107648686",
+            "query": "men+jeans+under+2000",
+            "mid": "576462563299400091",
+            "pvt": "a",
+            "uule": "w+CAIQICIXVGFybiBUYXJhbixQdW5qYWIsSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n### Meri ranking 👖\n\n1. **Levi’s — Best overall** ⭐  \n   Sale mein ₹1,300–₹2,000 ke aas-paas mil jaye to **Levi’s sabse achha pick** hai. Official store par abhi 513 aur 512 jaise models ₹1,679 ke around listed hain. [levi.in](https://levi.in/collections/men-jeans?filter.v.availability=1&utm_source=chatgpt.com)\n\n2. **Pepe Jeans — Best value**  \n   ₹1,400–₹2,000 mein kaafi achhe **straight/slim fits** mil rahe hain. Pepe ki official site par multiple jeans ₹1,499–₹1,999 ke range mein hain. [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)\n\n3. **Flying Machine — Budget + daily wear**  \n   ₹900–₹1,500 mein achhi choice. Agar ₹2,000 poore spend nahi karne hain, ye strong option hai. [magicpin.in](https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com)\n\n4. **Roadster — Cheapest decent option**  \n   Generally ₹600–₹1,500 ke aas-paas; casual/college wear ke liye theek. [magicpin.in](https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com)\n\n5. **Spykar — Stretch/comfort ke liye**  \n   Sale mein ₹1,500–₹2,000 ke andar mil sakti hai; daily use ke liye comfortable option. [magicpin.in](https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com)\n\n**Agar mujhe ₹2,000 mein sirf 1 leni ho:**  \n👉 **Levi’s 511/513** — sale price ≤₹2,000 mile to.  \n👉 Nahi mile, to **Pepe Jeans straight fit** lo.\n\nAgar tum mujhe **apni age, height, weight aur waist size (jaise 32)** bata do, main tumhare body type ke hisaab se **exact fit (slim/straight/relaxed) aur 3–5 best jeans** ₹2,000 ke andar choose kar sakta hoon.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Jeans for Men Online at Best Price – Levis India Store",
+          "snippet": null,
+          "domain": "levi.in",
+          "url": "https://levi.in/collections/men-jeans?filter.v.availability=1&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Levis India Store",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+          "snippet": null,
+          "domain": "www.pepejeans.in",
+          "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Pepe Jeans",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Top 14 Jeans Brands for Men in India (July 2026): Levi's, Wrangler, Pepe & More | magicpin blog",
+          "snippet": null,
+          "domain": "magicpin.in",
+          "url": "https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "magicpin",
+          "publication_date": "2026-07-01 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

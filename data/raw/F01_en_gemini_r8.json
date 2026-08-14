@@ -1,0 +1,168 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 8,
+  "promptText": "Which brand's jeans should I buy for men in India under ₹2000?",
+  "cellId": "F01_en_gemini_r8",
+  "startedAt": "2026-08-14T13:10:22.555Z",
+  "finishedAt": "2026-08-14T13:10:40.462Z",
+  "durationMs": 17907,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Buying quality men's jeans in India under ₹2,000 is quite easy, especially if you look out for online sales (on Myntra, Ajio, Amazon, or brand websites) where mid-tier brands frequently drop their prices.\n\nThe top branded options that fit comfortably within a ₹2,000 budget, along with what they do best, include:\n\n---\n\n### Top Brand Recommendations\n\n| Brand | Price Range (On Discount/Sale) | Best Known For | Fit Recommendation |\n| :--- | :--- | :--- | :--- |\n| **Spykar** | ₹1,200 – ₹1,999 | Stretchy daily-wear denim, high-stretch fabrics, and modern youth-centric styling. | Runs slightly smaller; **size up** if you are between sizes. |\n| **Numero Uno** | ₹1,000 – ₹1,999 | Durable, classic cotton-rich fabrics with good color retention and a variety of fits. | True to size; great for standard slim and straight cuts. |\n| **Killer Jeans** | ₹1,100 – ₹1,800 | Trend-forward distressed washes, heavy whiskering, and party/college looks. | Tighter cuts (slim/skinny); check the size chart carefully. |\n| **Levi’s (Entry/Sales)** | ₹1,500 – ₹2,000 | Classic heritage branding and long-lasting stitching (look for entry lines or older stock on sale). | Reliable standard fits (like 505 or standard slim). |\n| **Roadster** (Myntra Private Label) | ₹800 – ₹1,500 | Excellent value for money, massive variety of fits (including trendy wide-leg and relaxed styles). | Varies by style—read user reviews for stretch factor. |\n\n---\n\n### Tips for Buying Jeans Under ₹2000 in India\n\n* **Check the Fabric Composition:** Look for a blend of **98% cotton and 2% elastane/spandex**. This gives you the authentic look and feel of denim while offering enough stretch for the hot and humid Indian climate.\n* **Shop Online E-Commerce Sales:** Brands like *Spykar*, *Numero Uno*, and *Lee/Wrangler (entry lines)* retail above ₹2,500 normally, but platforms like **Myntra, Ajio, and Amazon** run frequent seasonal and clearance sales where you can easily grab them below ₹2,000.\n* **Watch Out for Fit Terminology:** If you want everyday comfort for commuting or sitting long hours, opt for **Slim Tapered** or **Comfort Stretch** variants rather than rigid skinny fits.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "17.6576 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141310-2163-0629-0000-71c4affe9f0a",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "17.6426 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Which brand's jeans should I buy for men in India under ₹2000?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which brand's jeans should I buy for men in India under ₹2000?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:10:40 +00:00",
+      "markdown": "Buying quality men's jeans in India under ₹2,000 is quite easy, especially if you look out for online sales (on Myntra, Ajio, Amazon, or brand websites) where mid-tier brands frequently drop their prices.\n\nThe top branded options that fit comfortably within a ₹2,000 budget, along with what they do best, include:\n\n---\n\n### Top Brand Recommendations\n\n| Brand | Price Range (On Discount/Sale) | Best Known For | Fit Recommendation |\n| :--- | :--- | :--- | :--- |\n| **Spykar** | ₹1,200 – ₹1,999 | Stretchy daily-wear denim, high-stretch fabrics, and modern youth-centric styling. | Runs slightly smaller; **size up** if you are between sizes. |\n| **Numero Uno** | ₹1,000 – ₹1,999 | Durable, classic cotton-rich fabrics with good color retention and a variety of fits. | True to size; great for standard slim and straight cuts. |\n| **Killer Jeans** | ₹1,100 – ₹1,800 | Trend-forward distressed washes, heavy whiskering, and party/college looks. | Tighter cuts (slim/skinny); check the size chart carefully. |\n| **Levi’s (Entry/Sales)** | ₹1,500 – ₹2,000 | Classic heritage branding and long-lasting stitching (look for entry lines or older stock on sale). | Reliable standard fits (like 505 or standard slim). |\n| **Roadster** (Myntra Private Label) | ₹800 – ₹1,500 | Excellent value for money, massive variety of fits (including trendy wide-leg and relaxed styles). | Varies by style—read user reviews for stretch factor. |\n\n---\n\n### Tips for Buying Jeans Under ₹2000 in India\n\n* **Check the Fabric Composition:** Look for a blend of **98% cotton and 2% elastane/spandex**. This gives you the authentic look and feel of denim while offering enough stretch for the hot and humid Indian climate.\n* **Shop Online E-Commerce Sales:** Brands like *Spykar*, *Numero Uno*, and *Lee/Wrangler (entry lines)* retail above ₹2,500 normally, but platforms like **Myntra, Ajio, and Amazon** run frequent seasonal and clearance sales where you can easily grab them below ₹2,000.\n* **Watch Out for Fit Terminology:** If you want everyday comfort for commuting or sitting long hours, opt for **Slim Tapered** or **Comfort Stretch** variants rather than rigid skinny fits.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 6,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Buying quality men's jeans in India under ₹2,000 is quite easy, especially if you look out for online sales (on Myntra, Ajio, Amazon, or brand websites) where mid-tier brands frequently drop their prices.",
+        "original_text": "Buying quality men's jeans in India under ₹2,000 is quite easy, especially if you look out for online sales (on Myntra, Ajio, Amazon, or brand websites) where mid-tier brands frequently drop their prices.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "The top branded options that fit comfortably within a ₹2,000 budget, along with what they do best, include:",
+        "original_text": "The top branded options that fit comfortably within a ₹2,000 budget, along with what they do best, include:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### Top Brand Recommendations",
+        "original_text": "Top Brand Recommendations",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "markdown": "| Brand | Price Range (On Discount/Sale) | Best Known For | Fit Recommendation |\n| :--- | :--- | :--- | :--- |\n| **Spykar** | ₹1,200 – ₹1,999 | Stretchy daily-wear denim, high-stretch fabrics, and modern youth-centric styling. | Runs slightly smaller; **size up** if you are between sizes. |\n| **Numero Uno** | ₹1,000 – ₹1,999 | Durable, classic cotton-rich fabrics with good color retention and a variety of fits. | True to size; great for standard slim and straight cuts. |\n| **Killer Jeans** | ₹1,100 – ₹1,800 | Trend-forward distressed washes, heavy whiskering, and party/college looks. | Tighter cuts (slim/skinny); check the size chart carefully. |\n| **Levi’s (Entry/Sales)** | ₹1,500 – ₹2,000 | Classic heritage branding and long-lasting stitching (look for entry lines or older stock on sale). | Reliable standard fits (like 505 or standard slim). |\n| **Roadster** (Myntra Private Label) | ₹800 – ₹1,500 | Excellent value for money, massive variety of fits (including trendy wide-leg and relaxed styles). | Varies by style—read user reviews for stretch factor. |",
+        "original_text": "Brand\tPrice Range (On Discount/Sale)\tBest Known For\tFit Recommendation\nSpykar\t₹1,200 – ₹1,999\tStretchy daily-wear denim, high-stretch fabrics, and modern youth-centric styling.\tRuns slightly smaller; size up if you are between sizes.\nNumero Uno\t₹1,000 – ₹1,999\tDurable, classic cotton-rich fabrics with good color retention and a variety of fits.\tTrue to size; great for standard slim and straight cuts.\nKiller Jeans\t₹1,100 – ₹1,800\tTrend-forward distressed washes, heavy whiskering, and party/college looks.\tTighter cuts (slim/skinny); check the size chart carefully.\nLevi’s (Entry/Sales)\t₹1,500 – ₹2,000\tClassic heritage branding and long-lasting stitching (look for entry lines or older stock on sale).\tReliable standard fits (like 505 or standard slim).\nRoadster (Myntra Private Label)\t₹800 – ₹1,500\tExcellent value for money, massive variety of fits (including trendy wide-leg and relaxed styles).\tVaries by style—read user reviews for stretch factor.",
+        "table": {
+         "table_header": [
+          "Brand",
+          "Price Range (On Discount/Sale)",
+          "Best Known For",
+          "Fit Recommendation"
+         ],
+         "table_content": [
+          [
+           "Spykar",
+           "₹1,200 – ₹1,999",
+           "Stretchy daily-wear denim, high-stretch fabrics, and modern youth-centric styling.",
+           "Runs slightly smaller; size up if you are between sizes."
+          ],
+          [
+           "Numero Uno",
+           "₹1,000 – ₹1,999",
+           "Durable, classic cotton-rich fabrics with good color retention and a variety of fits.",
+           "True to size; great for standard slim and straight cuts."
+          ],
+          [
+           "Killer Jeans",
+           "₹1,100 – ₹1,800",
+           "Trend-forward distressed washes, heavy whiskering, and party/college looks.",
+           "Tighter cuts (slim/skinny); check the size chart carefully."
+          ],
+          [
+           "Levi’s (Entry/Sales)",
+           "₹1,500 – ₹2,000",
+           "Classic heritage branding and long-lasting stitching (look for entry lines or older stock on sale).",
+           "Reliable standard fits (like 505 or standard slim)."
+          ],
+          [
+           "Roadster (Myntra Private Label)",
+           "₹800 – ₹1,500",
+           "Excellent value for money, massive variety of fits (including trendy wide-leg and relaxed styles).",
+           "Varies by style—read user reviews for stretch factor."
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "markdown": "### Tips for Buying Jeans Under ₹2000 in India",
+        "original_text": "Tips for Buying Jeans Under ₹2000 in India",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "markdown": "* **Check the Fabric Composition:** Look for a blend of **98% cotton and 2% elastane/spandex**. This gives you the authentic look and feel of denim while offering enough stretch for the hot and humid Indian climate.\n* **Shop Online E-Commerce Sales:** Brands like *Spykar*, *Numero Uno*, and *Lee/Wrangler (entry lines)* retail above ₹2,500 normally, but platforms like **Myntra, Ajio, and Amazon** run frequent seasonal and clearance sales where you can easily grab them below ₹2,000.\n* **Watch Out for Fit Terminology:** If you want everyday comfort for commuting or sitting long hours, opt for **Slim Tapered** or **Comfort Stretch** variants rather than rigid skinny fits.",
+        "original_text": "Check the Fabric Composition: Look for a blend of 98% cotton and 2% elastane/spandex. This gives you the authentic look and feel of denim while offering enough stretch for the hot and humid Indian climate.\nShop Online E-Commerce Sales: Brands like Spykar, Numero Uno, and Lee/Wrangler (entry lines) retail above ₹2,500 normally, but platforms like Myntra, Ajio, and Amazon run frequent seasonal and clearance sales where you can easily grab them below ₹2,000.\nWatch Out for Fit Terminology: If you want everyday comfort for commuting or sitting long hours, opt for Slim Tapered or Comfort Stretch variants rather than rigid skinny fits.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

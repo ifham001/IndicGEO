@@ -1,0 +1,332 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.0",
+  "promptId": "S01",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 1,
+  "promptText": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+  "cellId": "S01_hg_chatgpt_r1",
+  "startedAt": "2026-08-14T12:26:00.399Z",
+  "finishedAt": "2026-08-14T12:26:15.727Z",
+  "durationMs": 15328,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Haan 👍 **₹500 ke andar oily skin ke liye meri first choice Minimalist 2% Salicylic Acid Face Wash** rahegi. Current listings mein ye around ₹299 mil raha hai, aur salicylic acid excess oil aur clogged pores ko target karta hai. [www.ndtvshopping.com](https://www.ndtvshopping.com/beauty-and-grooming/best-salicylic-acid-face-washes-for-acne-prone-skin-in-monsoon-11662605?utm_source=chatgpt.com)\n\n### [Minimalist Salicylic Acid LHA Cleanser]()\n*₹299*\n\n### Mere top picks\n\n| Face wash | Approx. price | Kis ke liye |\n|---|---:|---|\n| **Minimalist 2% Salicylic Acid** | ₹299 | Oily + pimples/blackheads — **best overall** |\n| **Fixderma Salyzap** | ₹266 | Oily + clogged pores |\n| **The Derma Co 2% Sali-Cinamide** | ₹232 | Oily + acne |\n| **Deconstruct Salicylic Acid Oil Control** | ₹263 | Oily but dryness bhi hoti ho |\n| **Simple Refreshing Facial Wash** | ₹114–204 | Oily + sensitive skin |\n\n\nCurrent shopping results bhi Fixderma, The Derma Co aur Deconstruct ko ₹500 ke kaafi neeche dikha rahe hain. [www.ndtvshopping.com](https://www.ndtvshopping.com/beauty-and-grooming/best-salicylic-acid-face-washes-for-acne-prone-skin-in-monsoon-11662605?utm_source=chatgpt.com)\n\n**Agar sirf ek lena hai:** 👉 **Minimalist 2% Salicylic Acid Face Wash.**\n\nAgar tumhari skin **bahut oily hai, pimples hain, ya sirf oily hai but acne nahi hai**, bata do—main tumhare liye **exact 1 best face wash + moisturizer + sunscreen ₹1000 ke andar** suggest kar dunga.",
+  "citations": [
+   {
+    "url": "https://www.ndtvshopping.com/beauty-and-grooming/best-salicylic-acid-face-washes-for-acne-prone-skin-in-monsoon-11662605?utm_source=chatgpt.com",
+    "source_name": "NDTV Shopping",
+    "position": 1
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "15.1174 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141226-2163-0629-0000-603131d7b711",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "15.1077 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=India%20mein%20oily%20skin%20ke%20liye%20500%20rupees%20ke%20andar%20konsa%20face%20wash%20kharidna%20chahiye%3F&hints=search",
+      "datetime": "2026-08-14 12:26:14 +00:00",
+      "markdown": "Haan 👍 **₹500 ke andar oily skin ke liye meri first choice Minimalist 2% Salicylic Acid Face Wash** rahegi. Current listings mein ye around ₹299 mil raha hai, aur salicylic acid excess oil aur clogged pores ko target karta hai. [www.ndtvshopping.com](https://www.ndtvshopping.com/beauty-and-grooming/best-salicylic-acid-face-washes-for-acne-prone-skin-in-monsoon-11662605?utm_source=chatgpt.com)\n\n### [Minimalist Salicylic Acid LHA Cleanser]()\n*₹299*\n\n### Mere top picks\n\n| Face wash | Approx. price | Kis ke liye |\n|---|---:|---|\n| **Minimalist 2% Salicylic Acid** | ₹299 | Oily + pimples/blackheads — **best overall** |\n| **Fixderma Salyzap** | ₹266 | Oily + clogged pores |\n| **The Derma Co 2% Sali-Cinamide** | ₹232 | Oily + acne |\n| **Deconstruct Salicylic Acid Oil Control** | ₹263 | Oily but dryness bhi hoti ho |\n| **Simple Refreshing Facial Wash** | ₹114–204 | Oily + sensitive skin |\n\n\nCurrent shopping results bhi Fixderma, The Derma Co aur Deconstruct ko ₹500 ke kaafi neeche dikha rahe hain. [www.ndtvshopping.com](https://www.ndtvshopping.com/beauty-and-grooming/best-salicylic-acid-face-washes-for-acne-prone-skin-in-monsoon-11662605?utm_source=chatgpt.com)\n\n**Agar sirf ek lena hai:** 👉 **Minimalist 2% Salicylic Acid Face Wash.**\n\nAgar tumhari skin **bahut oily hai, pimples hain, ya sirf oily hai but acne nahi hai**, bata do—main tumhare liye **exact 1 best face wash + moisturizer + sunscreen ₹1000 ke andar** suggest kar dunga.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ndtvshopping.com/beauty-and-grooming/face-wash-under-500-for-daily-cleansing-from-cetaphil-minimalist-to-mamaearth-10914029?utm_source=chatgpt.com",
+        "domain": "www.ndtvshopping.com",
+        "title": "6 Best Face Washes Under ₹500 in 2026 for Daily Cleansing From Cetaphil, Minimalist to Mamaearth - NDTV Shopping",
+        "description": "6 BEST FACE WASHES UNDER ₹500 THAT FIT REAL ROUTINES, NOT JUST SKINCARE TRENDS  WE LIST HERE THE 6 BEST FACE WASHES UNDER ₹500 IN 2026 FROM CETAPHIL, MINIMALIST TO MAMAEARTH THAT CLEANSE GENTLY, PROT...",
+        "breadcrumb": "ndtvshopping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ndtvshopping.com/beauty-and-grooming/salicylic-acid-face-washes-in-india-and-how-to-use-them-10790327?utm_source=chatgpt.com",
+        "domain": "www.ndtvshopping.com",
+        "title": "The Clear-Skin Edit: Top 5 Salicylic Acid Face Washes In India And How To Use Them - NDTV Shopping",
+        "description": "THE CLEAR-SKIN EDIT: TOP 5 SALICYLIC ACID FACE WASHES IN INDIA AND HOW TO USE THEM  DISCOVER THE BEST SALICYLIC ACID FACE WASHES IN INDIA, KEY BENEFITS AND HOW TO USE THEM FOR CLEARER, SMOOTHER SKIN....",
+        "breadcrumb": "ndtvshopping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://shopperluxe.com/blog/best-face-wash-for-oily-skin-india-2026?utm_source=chatgpt.com",
+        "domain": "shopperluxe.com",
+        "title": "Best Face Wash for Oily Skin in India April 2026 — Tested | ShopperLuxe",
+        "description": "BEST FACE WASH FOR OILY SKIN IN INDIA APRIL 2026 — TESTED  We tried 10 face washes for oily skin over 3 weeks. These 7 from Minimalist, Plum, Himalaya, and Neutrogena actually control oil without dry...",
+        "breadcrumb": "shopperluxe.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.oilyskinfix.in/2026/04/best-face-wash-oily-skin-under-400-india-2026.html?utm_source=chatgpt.com",
+        "domain": "www.oilyskinfix.in",
+        "title": "Oily Skin Fix India: Best Face Wash for Oily Skin India Under ₹400 (2026): 5 Tested, One Wins Every Time",
+        "description": "📅 April 2026 👤 Oily Skin Fix India 🕐 8 min read Face Wash Budget Skincare Under ₹400  📅 Tested April 2026 · Oily Skin Fix India  📢 Disclosure: This post contains Amazon affiliate links. If you buy th...",
+        "breadcrumb": "oilyskinfix.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.oilyskinfix.in/2026/03/best-face-wash-oily-skin-india-under-300.html?utm_source=chatgpt.com",
+        "domain": "www.oilyskinfix.in",
+        "title": "Oily Skin Fix India: Best Face Wash for Oily Skin Under ₹300 in India (2026): Budget Picks That Actually Work",
+        "description": "Best Face Wash for Oily Skin India Under ₹300 — 2026 Guide  Disclosure: This post contains affiliate links. If you buy through our links we may earn a small commission at no extra cost to you. We onl...",
+        "breadcrumb": "oilyskinfix.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.vogue.in/content/best-cleansers-for-oily-acne-prone-skin-you-can-buy-for-under-rs-500?utm_source=chatgpt.com",
+        "domain": "www.vogue.in",
+        "title": "Best Cleansers For Acne Prone Skin Under Rs 500 | Budget Skin Care | Vogue India | Vogue India",
+        "description": "Scroll ahead for our edit of the best cleansers for oily, acne-prone skin that currently cost less than Rs 500*.  Plum Green Tea Pore Cleansing Face Wash  ~~₹275~~ ₹239 Plum Goodness  Neutrogena Deep...",
+        "breadcrumb": "vogue.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://blog.flash.co/face-wash/top-10-face-washes-with-salicylic-acid/?utm_source=chatgpt.com",
+        "domain": "blog.flash.co",
+        "title": "Best Salicylic Acid Face Washes in India (2026) | Flash AI",
+        "description": "Face Washes with Salicylic Acid. Flash AI analysed 10 products from 4214+ verified reviews across multiple platforms. The top pick is Pilgrim Tea Tree Purifying Foaming Face Wash with an AI Score of 9...",
+        "breadcrumb": "flash.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://pakkapick.in/personal-care/best-face-wash-for-oily-skin-under-400?utm_source=chatgpt.com",
+        "domain": "pakkapick.in",
+        "title": "Best Face Wash for Oily Skin Under ₹400 India 2026",
+        "description": "BEST FACE WASH FOR OILY SKIN UNDER ₹400 IN INDIA (MAY 2026)  By Bikram Nath · Updated 2026-07-04 · How we pick · Affiliate disclosure: links earn a small commission  Q  What's the best face wash to b...",
+        "breadcrumb": "pakkapick.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.zotezo.com/in/top/best-face-washes-for-oily-skin-in-india/?utm_source=chatgpt.com",
+        "domain": "www.zotezo.com",
+        "title": "9 Best Oily Skin Face Washes of 2026 in India, According To Experts",
+        "description": "THE 9 BEST FACE WASHES FOR OILY SKIN OF 2026 AVAILABLE IN INDIA: COMPLETE REVIEW AND BUYER’S GUIDE    Image: avatar  Written by Aritri Bhattacharyya, Beauty & Personal Care Editor | Updated on June 2...",
+        "breadcrumb": "zotezo.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.purplle.com/collections/salicylic-acid-face-wash-for-oily-skin?utm_source=chatgpt.com",
+        "domain": "www.purplle.com",
+        "title": "Buy Salicylic Acid Face Wash for oily skin Online at Best Prices in India | Purplle",
+        "description": "SALICYLIC ACID FACE WASH FOR OILY SKIN  Showing 2362 Products  SHOP ALL PRODUCTS  DERMDOC 2% Salicylic Acid Face Wash (120 ml) | Oily, Sensitive & Acne Prone Skin Friendly | Clears Pimples, Dark Spot...",
+        "breadcrumb": "purplle.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://skinfinds.com/blog/salicylic-acid-face-wash-comparison-india?utm_source=chatgpt.com",
+        "domain": "skinfinds.com",
+        "title": "Salicylic Acid Face Wash Showdown: Which One Actually Clears Acne? | SkinFinds",
+        "description": "Salicylic acid face washes dominate Indian skincare shelves in 2026 — every brand from Minimalist to Derma Co to Plum has one. But concentration, formulation, pH, and supporting ingredients vary enor...",
+        "breadcrumb": "skinfinds.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Top 5 Salicylic Acid Face Washes For Acne-Prone Skin In Monsoon Under ₹500 - NDTV Shopping",
+        "snippet": null,
+        "domain": "www.ndtvshopping.com",
+        "url": "https://www.ndtvshopping.com/beauty-and-grooming/best-salicylic-acid-face-washes-for-acne-prone-skin-in-monsoon-11662605?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "NDTV Shopping",
+        "publication_date": "2026-07-02 00:00:00 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best face wash oily skin under 500 India salicylic acid 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products",
+       "chat_gpt_table"
+      ],
+      "items_count": 5,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Haan 👍 **₹500 ke andar oily skin ke liye meri first choice Minimalist 2% Salicylic Acid Face Wash** rahegi. Current listings mein ye around ₹299 mil raha hai, aur salicylic acid excess oil aur clogged pores ko target karta hai. [www.ndtvshopping.com](https://www.ndtvshopping.com/beauty-and-grooming/best-salicylic-acid-face-washes-for-acne-prone-skin-in-monsoon-11662605?utm_source=chatgpt.com)\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Top 5 Salicylic Acid Face Washes For Acne-Prone Skin In Monsoon Under ₹500 - NDTV Shopping",
+          "snippet": null,
+          "domain": "www.ndtvshopping.com",
+          "url": "https://www.ndtvshopping.com/beauty-and-grooming/best-salicylic-acid-face-washes-for-acne-prone-skin-in-monsoon-11662605?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "NDTV Shopping",
+          "publication_date": "2026-07-02 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "10691927097742205472",
+          "merchants": "Janak The Beauty Shop + others",
+          "id_to_token_map": "ZRcdoHicdVTLrqtWEo3yBRlk0MM76ollabNh88jVGWAMGIzh8No2TCwMGDBP8zAP5WvOTSIlw3RL-ZabQb6liXraXaWaVJWW1qpS1V_ffPcRZ394fHENXntB0O4l0ut3ul5mms9_bdo6GsI-i_4FIUtAyDAsy0IAWJKiiV_DoA-KOsmifxOA5ggOMoBjGApCgCgG_p7GQVRkVWzc73G7r8O_URhEQxZy3NrOUKsz4LesDJL4v2UCUCRENMchQNArGEHBL23UfaXehStB0jREHMuQJEmxBGA4Gv74bhn76_8p_vwc4nb-CuusmDddnlWbexDGmzHo0k1WRVmwGaoobjcIgE0XFFk4r7EJVh4_J034t6j_AfqlzKLfEUNTqwwO0StfepVEf2le_Uea_DQMRfz1n-NG4BVTERTslNLTO_uVd1FrTbSKm5w2mlgMvlykH0nxkVUfafERV7_UQfO6h39--71Yj3uhGwXTbRq8t4Cdj6NVNlNUNqaNFXCSVNctikzPVdqWJcF67F63jPBOiwpjiUstqJpm2Ty9Eu2dPEKmq8qB2LcXUup0R_ctnPZxVbx0JyVdnEJbks76Ia3tsulP5aRb5TS7hX6JsEm4oA98KfUx9olQ5DpcUqR1SDV3iRTP7XX3kZ6CXGqC3NIsOaJ8WXo463rNokYBiZWIMJEtcudzOaWGEz3xI-pCMB1siGpbioIIoNaSARUfdooO_SrCO9IFOWmLDR2eU9NdUk3D6Q4THHnC0bvvJgg70su4FGN0xmT0WHMAXwKXOxpnP19nYwZy451zdWcCPJ8LXDuOh2yXWAI5J05QRU7BvfxDcTGhjgOI8DlHgkPquwhynn2wlMjl2sgldAezMMY88kBvnkQ8h1jfG3uJinBz1HFzx2WqeLCQz24-W27qRdCXblXhhRDYElHsbusuotzam2Aqbw42bgQPb2SD9Fxq5UzdWQd9Xjm7uuTPN6J4GA6-n0pdMtfr8h7FOVqK2nN2gw306qepa-9fAS-h3jbotJh646LS3AL01uj2mu3aXK-S6pz8QDAszRCApFkKsb-EdZ1n8Z_f_uN6teNwaOOt7Vjvb7xe-mNA3jgLkJFwcYrurGnOMs4NbEB54IdVq5KixIu7g0oVqS3cq0F1l2kUW-16PB48NjBO7dB2dnvduaqZxLR-3V1HTTF5JDOW-fmTLfKWcLja_Em0FUd8ExJTmWhx9_kTLwpvfKRiMXjZ9tbSVQUCZu6yvKCeOe0uhoKFOWbNBzZ8xdkJ-zapVKZ8b9XHMvGfP-3xG0UbfdWdnYzzmu5ggtm4Xe_r0_GYfM_rTUpfL2pYbhN5SvjVPn_Slf0bIsm3mDM7zdk6Pbz7sdI9HGwCYXka-qJSoe9p9kVuR7Obikg4brXUuEWAtEapeu4KNzklCJKy-jjX-Jae49Fa5GU7Lhe_61C-LOnh2ekyOT9dmCY9DKqBOcBEnv17d33eqemoscpcSJrIPpmLe83vHKEgd0YDuFy4sfXFqQ5V5l5NZCpuc5HmK-KGXvG5xMhCi0yC65bgwpjlxqNvHekEZuIwKk7UWX5oWEv5BOpAv55HbUvyl_Sdy1id7beMNeREr-SjWwRkNV1LQRsIPBJ2INrD6z_ZE_sH",
+          "title": "Minimalist Salicylic Acid LHA Cleanser",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 3000,
+           "rating_max": 5
+          },
+          "price": 299,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/2kbS1nicDcltDoIgAADQE5VSW2Zba31g2dSJI83-CRpaKQSY2qm6Trep9_d9P6XWQi0Mo2ioHIQu8pEmzWTMlM50RceU14YquRBVw1bP5f8W6yC39xRBmXsDCYEZwdush_HOS7AspaPnBQgSJMOEY1qDq-jaULLIjen7PuwJ6aw36_kDWiiL2QFjntkp9G2wSbf2enfeYr8KXm5zxU6fTjNkpeLonty2VmalLhH6AdvyP1w"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "YAl_avDCCLfm5NoP6ozy6Ak",
+            "product_id": "2281227788820083461",
+            "catalog_id": "10691927097742205472",
+            "gpcid": "13662598733348107962",
+            "headline_offer_docid": "2756282996917474770",
+            "image_docid": "1043256995016709142",
+            "rds": "PC_13662598733348107962|PROD_PC_13662598733348107962",
+            "query": "oily+skin+face+wash+india+under+500+salicylic+acid",
+            "mid": "576462895604367566",
+            "pvt": "hg",
+            "uule": "w+CAIQICIVTmFqYWZnYXJoLERlbGhpLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n### Mere top picks\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_table",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "text": null,
+        "markdown": "| Face wash | Approx. price | Kis ke liye |\n|---|---:|---|\n| **Minimalist 2% Salicylic Acid** | ₹299 | Oily + pimples/blackheads — **best overall** |\n| **Fixderma Salyzap** | ₹266 | Oily + clogged pores |\n| **The Derma Co 2% Sali-Cinamide** | ₹232 | Oily + acne |\n| **Deconstruct Salicylic Acid Oil Control** | ₹263 | Oily but dryness bhi hoti ho |\n| **Simple Refreshing Facial Wash** | ₹114–204 | Oily + sensitive skin |\n\n",
+        "table": {
+         "table_header": [
+          "Face wash",
+          "Approx. price",
+          "Kis ke liye"
+         ],
+         "table_content": [
+          [
+           "**Minimalist 2% Salicylic Acid**",
+           "₹299",
+           "Oily + pimples/blackheads — **best overall**"
+          ],
+          [
+           "**Fixderma Salyzap**",
+           "₹266",
+           "Oily + clogged pores"
+          ],
+          [
+           "**The Derma Co 2% Sali-Cinamide**",
+           "₹232",
+           "Oily + acne"
+          ],
+          [
+           "**Deconstruct Salicylic Acid Oil Control**",
+           "₹263",
+           "Oily but dryness bhi hoti ho"
+          ],
+          [
+           "**Simple Refreshing Facial Wash**",
+           "₹114–204",
+           "Oily + sensitive skin"
+          ]
+         ]
+        },
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\nCurrent shopping results bhi Fixderma, The Derma Co aur Deconstruct ko ₹500 ke kaafi neeche dikha rahe hain. [www.ndtvshopping.com](https://www.ndtvshopping.com/beauty-and-grooming/best-salicylic-acid-face-washes-for-acne-prone-skin-in-monsoon-11662605?utm_source=chatgpt.com)\n\n**Agar sirf ek lena hai:** 👉 **Minimalist 2% Salicylic Acid Face Wash.**\n\nAgar tumhari skin **bahut oily hai, pimples hain, ya sirf oily hai but acne nahi hai**, bata do—main tumhare liye **exact 1 best face wash + moisturizer + sunscreen ₹1000 ke andar** suggest kar dunga.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Top 5 Salicylic Acid Face Washes For Acne-Prone Skin In Monsoon Under ₹500 - NDTV Shopping",
+          "snippet": null,
+          "domain": "www.ndtvshopping.com",
+          "url": "https://www.ndtvshopping.com/beauty-and-grooming/best-salicylic-acid-face-washes-for-acne-prone-skin-in-monsoon-11662605?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "NDTV Shopping",
+          "publication_date": "2026-07-02 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

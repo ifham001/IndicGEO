@@ -1,0 +1,221 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 3,
+  "promptText": "Which brand's jeans should I buy for men in India under ₹2000?",
+  "cellId": "F01_en_gemini_r3",
+  "startedAt": "2026-08-14T12:54:13.877Z",
+  "finishedAt": "2026-08-14T12:54:24.557Z",
+  "durationMs": 10680,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Finding a great pair of men's jeans under ₹2,000 in India is very doable, especially if you shop during online sales on platforms like Myntra, Ajio, Flipkart, or Amazon.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Their%20innovative%20designs%20and%20modern,all%20priced%20under%20INR%202%2C000.) Several well-known denim and lifestyle brands frequently offer high-quality options within this budget.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Their%20innovative%20designs%20and%20modern,all%20priced%20under%20INR%202%2C000.)\n\n---\n\n### Top Denim Brands Under ₹2,000\n\n| Brand | What to Expect | Best For |\n| :--- | :--- | :--- |\n| **Levi's** | Entry-level lines and online sales frequently drop entry fits (like slim or straight styles) right around the ₹1,500 – ₹2,000 mark. | Classic styling and long-lasting durability |\n| **Flying Machine** | Youth-friendly, trendy washes, and comfortable stretch fabrics, usually priced comfortably between ₹1,000 and ₹1,800. | Modern, trendy streetwear fits |\n| **Pepe Jeans** | Great mix of distressed, faded, and clean-cut everyday jeans with reliable comfort. | Casual college or everyday wear |\n| **Wrangler** | Rugged, heavy-duty fabrics that hold up well to daily wear and tear. | Sturdy, durable build quality |\n| **Jack & Jones** | Contemporary cuts, clean aesthetics, and modern silhouettes that regularly hit budget discounts. | Sleek and contemporary looks |\n| **Numero Uno** | A classic Indian denim brand known for durable fabrics and consistent fits well under ₹2,000. | Reliable, everyday classic fits |\n| **Roadster / Mast & Harbour** | In-house Myntra brands that offer incredible value, usually priced between ₹700 and ₹1,400 with a massive variety of fits. | Budget-conscious trend shopping |\n\n---\n\n### Tips for Buying Jeans Online on a Budget\n\n* **Look Out for Sales:** Major e-commerce platforms (Myntra's End of Reason Sale, Ajio's Sale, Amazon/Flipkart festival sales) can slash premium brand prices by 50% or more, letting you grab a ₹3,500 pair of Levi's or Wrangler for under ₹2,000.\n* **Check the Fabric Composition:** Look for a **cotton-elastane blend** (around 98% cotton and 2% spandex/elastane) if you prefer stretch and all-day comfort. Opt for **100% rigid cotton** if you want a classic, structured look that softens over time.\n* **Know Your Fit:** Measure an old pair of jeans that fits you well and compare it with the brand's size chart online to avoid the hassle of returns.",
+  "citations": [
+   {
+    "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Their%20innovative%20designs%20and%20modern,all%20priced%20under%20INR%202%2C000.",
+    "source_name": null,
+    "position": 1
+   },
+   {
+    "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Their%20innovative%20designs%20and%20modern,all%20priced%20under%20INR%202%2C000.",
+    "source_name": null,
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "10.4719 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141254-2163-0629-0000-3aa164b631e1",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "10.4381 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Which brand's jeans should I buy for men in India under ₹2000?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which brand's jeans should I buy for men in India under ₹2000?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:54:23 +00:00",
+      "markdown": "Finding a great pair of men's jeans under ₹2,000 in India is very doable, especially if you shop during online sales on platforms like Myntra, Ajio, Flipkart, or Amazon.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Their%20innovative%20designs%20and%20modern,all%20priced%20under%20INR%202%2C000.) Several well-known denim and lifestyle brands frequently offer high-quality options within this budget.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Their%20innovative%20designs%20and%20modern,all%20priced%20under%20INR%202%2C000.)\n\n---\n\n### Top Denim Brands Under ₹2,000\n\n| Brand | What to Expect | Best For |\n| :--- | :--- | :--- |\n| **Levi's** | Entry-level lines and online sales frequently drop entry fits (like slim or straight styles) right around the ₹1,500 – ₹2,000 mark. | Classic styling and long-lasting durability |\n| **Flying Machine** | Youth-friendly, trendy washes, and comfortable stretch fabrics, usually priced comfortably between ₹1,000 and ₹1,800. | Modern, trendy streetwear fits |\n| **Pepe Jeans** | Great mix of distressed, faded, and clean-cut everyday jeans with reliable comfort. | Casual college or everyday wear |\n| **Wrangler** | Rugged, heavy-duty fabrics that hold up well to daily wear and tear. | Sturdy, durable build quality |\n| **Jack & Jones** | Contemporary cuts, clean aesthetics, and modern silhouettes that regularly hit budget discounts. | Sleek and contemporary looks |\n| **Numero Uno** | A classic Indian denim brand known for durable fabrics and consistent fits well under ₹2,000. | Reliable, everyday classic fits |\n| **Roadster / Mast & Harbour** | In-house Myntra brands that offer incredible value, usually priced between ₹700 and ₹1,400 with a massive variety of fits. | Budget-conscious trend shopping |\n\n---\n\n### Tips for Buying Jeans Online on a Budget\n\n* **Look Out for Sales:** Major e-commerce platforms (Myntra's End of Reason Sale, Ajio's Sale, Amazon/Flipkart festival sales) can slash premium brand prices by 50% or more, letting you grab a ₹3,500 pair of Levi's or Wrangler for under ₹2,000.\n* **Check the Fabric Composition:** Look for a **cotton-elastane blend** (around 98% cotton and 2% spandex/elastane) if you prefer stretch and all-day comfort. Opt for **100% rigid cotton** if you want a classic, structured look that softens over time.\n* **Know Your Fit:** Measure an old pair of jeans that fits you well and compare it with the brand's size chart online to avoid the hassle of returns.",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men Under INR \n2000",
+        "snippet": "Their innovative designs and modern cuts give you a sleek look without \nexceeding your budget. From classic blue to bold black, find your perfect \npair. Price: ...",
+        "domain": "magicpin.in",
+        "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Their%20innovative%20designs%20and%20modern,all%20priced%20under%20INR%202%2C000.",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSJGUwm2nTFze_wo94bR9Su-dp5ApBZsN9DSsqwCBYvC_tufD82mnyk66Y_4b1-PaCsMIy8YeM3Qy84pTDGlCuJTOSioE8",
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "Finding a great pair of men's jeans under ₹2,000 in India is very doable, especially if you shop during online sales on platforms like Myntra, Ajio, Flipkart, or Amazon."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men Under INR \n2000",
+        "snippet": "Their innovative designs and modern cuts give you a sleek look without \nexceeding your budget. From classic blue to bold black, find your perfect \npair. Price: ...",
+        "domain": "magicpin.in",
+        "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Their%20innovative%20designs%20and%20modern,all%20priced%20under%20INR%202%2C000.",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSJGUwm2nTFze_wo94bR9Su-dp5ApBZsN9DSsqwCBYvC_tufD82mnyk66Y_4b1-PaCsMIy8YeM3Qy84pTDGlCuJTOSioE8",
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "Several well-known denim and lifestyle brands frequently offer high-quality options within this budget."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 5,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Finding a great pair of men's jeans under ₹2,000 in India is very doable, especially if you shop during online sales on platforms like Myntra, Ajio, Flipkart, or Amazon.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Their%20innovative%20designs%20and%20modern,all%20priced%20under%20INR%202%2C000.) Several well-known denim and lifestyle brands frequently offer high-quality options within this budget.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Their%20innovative%20designs%20and%20modern,all%20priced%20under%20INR%202%2C000.)",
+        "original_text": "Finding a great pair of men's jeans under ₹2,000 in India is very doable, especially if you shop during online sales on platforms like Myntra, Ajio, Flipkart, or Amazon. Several well-known denim and lifestyle brands frequently offer high-quality options within this budget.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men Under INR \n2000",
+          "snippet": "Their innovative designs and modern cuts give you a sleek look without \nexceeding your budget. From classic blue to bold black, find your perfect \npair. Price: ...",
+          "domain": "magicpin.in",
+          "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Their%20innovative%20designs%20and%20modern,all%20priced%20under%20INR%202%2C000.",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSJGUwm2nTFze_wo94bR9Su-dp5ApBZsN9DSsqwCBYvC_tufD82mnyk66Y_4b1-PaCsMIy8YeM3Qy84pTDGlCuJTOSioE8",
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "Finding a great pair of men's jeans under ₹2,000 in India is very doable, especially if you shop during online sales on platforms like Myntra, Ajio, Flipkart, or Amazon."
+         },
+         {
+          "type": "gemini_source",
+          "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men Under INR \n2000",
+          "snippet": "Their innovative designs and modern cuts give you a sleek look without \nexceeding your budget. From classic blue to bold black, find your perfect \npair. Price: ...",
+          "domain": "magicpin.in",
+          "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Their%20innovative%20designs%20and%20modern,all%20priced%20under%20INR%202%2C000.",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSJGUwm2nTFze_wo94bR9Su-dp5ApBZsN9DSsqwCBYvC_tufD82mnyk66Y_4b1-PaCsMIy8YeM3Qy84pTDGlCuJTOSioE8",
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "Several well-known denim and lifestyle brands frequently offer high-quality options within this budget."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### Top Denim Brands Under ₹2,000",
+        "original_text": "Top Denim Brands Under ₹2,000",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "markdown": "| Brand | What to Expect | Best For |\n| :--- | :--- | :--- |\n| **Levi's** | Entry-level lines and online sales frequently drop entry fits (like slim or straight styles) right around the ₹1,500 – ₹2,000 mark. | Classic styling and long-lasting durability |\n| **Flying Machine** | Youth-friendly, trendy washes, and comfortable stretch fabrics, usually priced comfortably between ₹1,000 and ₹1,800. | Modern, trendy streetwear fits |\n| **Pepe Jeans** | Great mix of distressed, faded, and clean-cut everyday jeans with reliable comfort. | Casual college or everyday wear |\n| **Wrangler** | Rugged, heavy-duty fabrics that hold up well to daily wear and tear. | Sturdy, durable build quality |\n| **Jack & Jones** | Contemporary cuts, clean aesthetics, and modern silhouettes that regularly hit budget discounts. | Sleek and contemporary looks |\n| **Numero Uno** | A classic Indian denim brand known for durable fabrics and consistent fits well under ₹2,000. | Reliable, everyday classic fits |\n| **Roadster / Mast & Harbour** | In-house Myntra brands that offer incredible value, usually priced between ₹700 and ₹1,400 with a massive variety of fits. | Budget-conscious trend shopping |",
+        "original_text": "Brand\tWhat to Expect\tBest For\nLevi's\tEntry-level lines and online sales frequently drop entry fits (like slim or straight styles) right around the ₹1,500 – ₹2,000 mark.\tClassic styling and long-lasting durability\nFlying Machine\tYouth-friendly, trendy washes, and comfortable stretch fabrics, usually priced comfortably between ₹1,000 and ₹1,800.\tModern, trendy streetwear fits\nPepe Jeans\tGreat mix of distressed, faded, and clean-cut everyday jeans with reliable comfort.\tCasual college or everyday wear\nWrangler\tRugged, heavy-duty fabrics that hold up well to daily wear and tear.\tSturdy, durable build quality\nJack & Jones\tContemporary cuts, clean aesthetics, and modern silhouettes that regularly hit budget discounts.\tSleek and contemporary looks\nNumero Uno\tA classic Indian denim brand known for durable fabrics and consistent fits well under ₹2,000.\tReliable, everyday classic fits\nRoadster / Mast & Harbour\tIn-house Myntra brands that offer incredible value, usually priced between ₹700 and ₹1,400 with a massive variety of fits.\tBudget-conscious trend shopping",
+        "table": {
+         "table_header": [
+          "Brand",
+          "What to Expect",
+          "Best For"
+         ],
+         "table_content": [
+          [
+           "Levi's",
+           "Entry-level lines and online sales frequently drop entry fits (like slim or straight styles) right around the ₹1,500 – ₹2,000 mark.",
+           "Classic styling and long-lasting durability"
+          ],
+          [
+           "Flying Machine",
+           "Youth-friendly, trendy washes, and comfortable stretch fabrics, usually priced comfortably between ₹1,000 and ₹1,800.",
+           "Modern, trendy streetwear fits"
+          ],
+          [
+           "Pepe Jeans",
+           "Great mix of distressed, faded, and clean-cut everyday jeans with reliable comfort.",
+           "Casual college or everyday wear"
+          ],
+          [
+           "Wrangler",
+           "Rugged, heavy-duty fabrics that hold up well to daily wear and tear.",
+           "Sturdy, durable build quality"
+          ],
+          [
+           "Jack & Jones",
+           "Contemporary cuts, clean aesthetics, and modern silhouettes that regularly hit budget discounts.",
+           "Sleek and contemporary looks"
+          ],
+          [
+           "Numero Uno",
+           "A classic Indian denim brand known for durable fabrics and consistent fits well under ₹2,000.",
+           "Reliable, everyday classic fits"
+          ],
+          [
+           "Roadster / Mast & Harbour",
+           "In-house Myntra brands that offer incredible value, usually priced between ₹700 and ₹1,400 with a massive variety of fits.",
+           "Budget-conscious trend shopping"
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "markdown": "### Tips for Buying Jeans Online on a Budget",
+        "original_text": "Tips for Buying Jeans Online on a Budget",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "markdown": "* **Look Out for Sales:** Major e-commerce platforms (Myntra's End of Reason Sale, Ajio's Sale, Amazon/Flipkart festival sales) can slash premium brand prices by 50% or more, letting you grab a ₹3,500 pair of Levi's or Wrangler for under ₹2,000.\n* **Check the Fabric Composition:** Look for a **cotton-elastane blend** (around 98% cotton and 2% spandex/elastane) if you prefer stretch and all-day comfort. Opt for **100% rigid cotton** if you want a classic, structured look that softens over time.\n* **Know Your Fit:** Measure an old pair of jeans that fits you well and compare it with the brand's size chart online to avoid the hassle of returns.",
+        "original_text": "Look Out for Sales: Major e-commerce platforms (Myntra's End of Reason Sale, Ajio's Sale, Amazon/Flipkart festival sales) can slash premium brand prices by 50% or more, letting you grab a ₹3,500 pair of Levi's or Wrangler for under ₹2,000.\nCheck the Fabric Composition: Look for a cotton-elastane blend (around 98% cotton and 2% spandex/elastane) if you prefer stretch and all-day comfort. Opt for 100% rigid cotton if you want a classic, structured look that softens over time.\nKnow Your Fit: Measure an old pair of jeans that fits you well and compare it with the brand's size chart online to avoid the hassle of returns.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

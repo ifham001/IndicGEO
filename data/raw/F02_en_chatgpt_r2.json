@@ -1,0 +1,448 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 2,
+  "promptText": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+  "cellId": "F02_en_chatgpt_r2",
+  "startedAt": "2026-08-14T12:35:55.096Z",
+  "finishedAt": "2026-08-14T12:36:14.669Z",
+  "durationMs": 19573,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Yes — **₹2,000–₹3,000 is enough for a decent beginner/daily running shoe**, especially if you're doing 3–10 km runs rather than serious marathon training. Current budget options include several sale-priced Adidas models, while independent 2026 guides also point to ASICS/Puma as good value when discounted. [www.adidas.co.in](https://www.adidas.co.in/shoes_under_3000-running-trainers?utm_source=chatgpt.com)\n\n### My picks\n\n### [Decathlon Jogflow 190.1]()\n*₹2,499*\n\n### [Reebok Energy Runner 3.0 M]()\n*₹1,273*\n\n### [Campus North Plus]()\n*₹999*\n\n### [Power Men's Training Outdoor Running Shoes]()\n*₹2,399*\n\n### [Campus Strut Running Shoes]()\n*₹1,199*\n\n**1. 🥇 Decathlon Jogflow 190.1 — ₹2,499**  \nMy **best overall pick** under ₹3,000. It has a 4.6/5 rating from ~1,900 reviews in the current shopping results, and it's specifically a cushioned running shoe. Good choice if you're going to run regularly.\n\n**2. 🥈 Reebok Energy Runner 3.0 — ₹1,273**  \nExcellent value if you find your size at this price. I'd choose this over very cheap generic shoes for regular road running.\n\n**3. 💰 Campus North Plus — ₹999**  \nBest if you want to spend as little as possible. Fine for beginner jogging, walking and occasional 3–5 km runs, but I'd spend more if you're running frequently.\n\n**4. Power Training Outdoor — ₹2,399**  \nA reasonable option if you prefer a sturdier shoe and want something that can handle running + general training.\n\n**5. Campus Strut — ₹1,199**  \nAnother inexpensive beginner option; current listing has a 4.8/5 rating, though based on only 77 reviews.\n\n### What I'd buy\n\n- **Running 3–5 days/week:** **Decathlon Jogflow 190.1**\n- **Running occasionally + gym/walking:** **Reebok Energy Runner 3.0**\n- **Budget is the priority:** **Campus North Plus**\n- **You can stretch to ₹3,000:** Look for a **Puma, ASICS, Adidas Duramo, Nike Revolution/Downshifter** sale. Models such as ASICS Jolt/Patriot, Adidas Duramo and Nike Revolution/Downshifter can fall into the ₹2,000–₹3,000 range during sales. [www.youtube.com](https://www.youtube.com/watch?v=q2n7z2Aodjo&utm_source=chatgpt.com)\n\nOne important point: **don't choose purely by brand** at this budget. Fit, cushioning and heel security matter more. If you tell me **your gender, usual running distance (e.g. 3/5/10 km), foot type (wide/normal), and whether you run on road/treadmill**, I can narrow it down to the **best 2–3 pairs for you**.",
+  "citations": [
+   {
+    "url": "https://www.adidas.co.in/shoes_under_3000-running-trainers?utm_source=chatgpt.com",
+    "source_name": "adidas",
+    "position": 1
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=q2n7z2Aodjo&utm_source=chatgpt.com",
+    "source_name": "YouTube",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "19.1153 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141235-2163-0629-0000-c9af78c3797e",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "19.0893 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=I%20want%20to%20buy%20running%20shoes%20under%20%E2%82%B93000%20in%20India.%20Which%20ones%20should%20I%20get%3F&hints=search",
+      "datetime": "2026-08-14 12:36:14 +00:00",
+      "markdown": "Yes — **₹2,000–₹3,000 is enough for a decent beginner/daily running shoe**, especially if you're doing 3–10 km runs rather than serious marathon training. Current budget options include several sale-priced Adidas models, while independent 2026 guides also point to ASICS/Puma as good value when discounted. [www.adidas.co.in](https://www.adidas.co.in/shoes_under_3000-running-trainers?utm_source=chatgpt.com)\n\n### My picks\n\n### [Decathlon Jogflow 190.1]()\n*₹2,499*\n\n### [Reebok Energy Runner 3.0 M]()\n*₹1,273*\n\n### [Campus North Plus]()\n*₹999*\n\n### [Power Men's Training Outdoor Running Shoes]()\n*₹2,399*\n\n### [Campus Strut Running Shoes]()\n*₹1,199*\n\n**1. 🥇 Decathlon Jogflow 190.1 — ₹2,499**  \nMy **best overall pick** under ₹3,000. It has a 4.6/5 rating from ~1,900 reviews in the current shopping results, and it's specifically a cushioned running shoe. Good choice if you're going to run regularly.\n\n**2. 🥈 Reebok Energy Runner 3.0 — ₹1,273**  \nExcellent value if you find your size at this price. I'd choose this over very cheap generic shoes for regular road running.\n\n**3. 💰 Campus North Plus — ₹999**  \nBest if you want to spend as little as possible. Fine for beginner jogging, walking and occasional 3–5 km runs, but I'd spend more if you're running frequently.\n\n**4. Power Training Outdoor — ₹2,399**  \nA reasonable option if you prefer a sturdier shoe and want something that can handle running + general training.\n\n**5. Campus Strut — ₹1,199**  \nAnother inexpensive beginner option; current listing has a 4.8/5 rating, though based on only 77 reviews.\n\n### What I'd buy\n\n- **Running 3–5 days/week:** **Decathlon Jogflow 190.1**\n- **Running occasionally + gym/walking:** **Reebok Energy Runner 3.0**\n- **Budget is the priority:** **Campus North Plus**\n- **You can stretch to ₹3,000:** Look for a **Puma, ASICS, Adidas Duramo, Nike Revolution/Downshifter** sale. Models such as ASICS Jolt/Patriot, Adidas Duramo and Nike Revolution/Downshifter can fall into the ₹2,000–₹3,000 range during sales. [www.youtube.com](https://www.youtube.com/watch?v=q2n7z2Aodjo&utm_source=chatgpt.com)\n\nOne important point: **don't choose purely by brand** at this budget. Fit, cushioning and heel security matter more. If you tell me **your gender, usual running distance (e.g. 3/5/10 km), foot type (wide/normal), and whether you run on road/treadmill**, I can narrow it down to the **best 2–3 pairs for you**.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://urbanstylefootwear.com/best-running-shoes-under-3000-india/?utm_source=chatgpt.com",
+        "domain": "urbanstylefootwear.com",
+        "title": "Best Running Shoes Under ₹3000 India 2026 (5 Tested Picks)",
+        "description": "ImageBy Abdul / May 7, 2026  5 BEST RUNNING SHOES UNDER ₹3000 IN INDIA 2026 (TESTED ON INDIAN ROADS)  Image: best running shoes under 3000 rupees in India 2026 mid range picks comparison puma asics r...",
+        "breadcrumb": "urbanstylefootwear.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://urbanstylefootwear.com/best-running-shoes-india/?utm_source=chatgpt.com",
+        "domain": "urbanstylefootwear.com",
+        "title": "Best Running Shoes India 2026: 9 Top Picks Expert Tested",
+        "description": "* 🏆  Best Overall: ASICS Gel-Venture 9 (₹3,779) — ASICSGRIP outsole, 500g, best traction on Indian roads above 5 km daily  * 💰  Best Budget (Under ₹1,000): SPARX SM-171 (₹999) — rubber sole, 8,684 re...",
+        "breadcrumb": "urbanstylefootwear.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://urbanstylefootwear.com/best-sports-shoes-india/?utm_source=chatgpt.com",
+        "domain": "urbanstylefootwear.com",
+        "title": "Best Sports Shoes India 2026 – Top Athletic Shoes Reviewed by Shop Owner",
+        "description": "ImageBy Abdul / April 27, 2026  BEST SPORTS SHOES IN INDIA 2026 (TESTED & REVIEWED BY A REAL SHOP OWNER)  Image  Last Updated: April 2026  30-SECOND SUMMARY  ⚡ 30-SECOND SUMMARY TL;DR  No time to rea...",
+        "breadcrumb": "urbanstylefootwear.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://buyrn.in/article/best-running-shoes-under-3000-india?utm_source=chatgpt.com",
+        "domain": "buyrn.in",
+        "title": "Best Running Shoes Under ₹3,000 in India (2026) | Buyrn",
+        "description": "BEST RUNNING SHOES UNDER ₹3,000 IN INDIA (2026)  footwear· 15 Jan 2024· Updated 11 Jul 2026· 7 min read  By the Buyrn Editorial Team·Independently researched from manufacturer specs & public user rev...",
+        "breadcrumb": "buyrn.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.aish4aish.in/blog/best-running-shoes-india-2026?utm_source=chatgpt.com",
+        "domain": "www.aish4aish.in",
+        "title": "Best Running Shoes India 2026 — Nike, Adidas, Puma | Aish4Aish",
+        "description": "BEST RUNNING SHOES IN INDIA 2026 — COMPLETE BUYER'S GUIDE  P  Prerak Singh  ·May 17, 2026·  fitness shoes buyer-guide  Short answer: For most runners the best all-round pick is the ASICS Gel-Contend...",
+        "breadcrumb": "aish4aish.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://zoutons.com/news/adidas-eoss-running-shoes-under-3000-summer-marathons-2026?utm_source=chatgpt.com",
+        "domain": "zoutons.com",
+        "title": "Adidas End of Season Sale May 2026 — 14 Best Running Shoes Under ₹3,000 for Summer Marathons",
+        "description": "ADIDAS END OF SEASON SALE MAY 2026 — 14 BEST RUNNING SHOES UNDER ₹3,000 FOR SUMMER MARATHONS  ✍️ Researched by Zoutons editors 🕐 Updated: May 2026 🔗 Affiliate links included  Marathon season in India...",
+        "breadcrumb": "zoutons.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://zoutons.com/news/adidas-india-outlet-sale-top-shoes-under-3000-june-2026?utm_source=chatgpt.com",
+        "domain": "zoutons.com",
+        "title": "Adidas India Outlet Sale June 2026: Best Shoes Under ₹3000",
+        "description": "Prices and availability can change without notice during active sale events, so act fast. Use the Zoutons CODE button on any card to check for additional Adidas coupons on top of the outlet discount...",
+        "breadcrumb": "zoutons.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.adidas.co.in/shoes_under_3000-sport_shoes-running-trainers?utm_source=chatgpt.com",
+        "domain": "www.adidas.co.in",
+        "title": "Shop Shoes Under 3000 - Sport Shoes - Running - Trainers | adidas IN",
+        "description": "SHOES UNDER 3000 · DAILY ACTIVEWEAR SHOES · RUNNING · SNEAKERS  53 results  Filter & Sort 4  Filter & Sort Clear all close  Applied filters  Daily activewear shoes Running shoes under 3000 Sneakers...",
+        "breadcrumb": "adidas.co.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.adidas.co.in/men-shoes_under_3000-running-trainers?utm_source=chatgpt.com",
+        "domain": "www.adidas.co.in",
+        "title": "Shop Men - Shoes Under 3000 - Running - Trainers | adidas IN",
+        "description": "MEN · SHOES UNDER 3000 · RUNNING · SNEAKERS  85 results  Filter & Sort 4  Filter & Sort Clear all close  Applied filters  Men Running shoes under 3000 Sneakers  Sort by  * [Input]Price (low - high) *...",
+        "breadcrumb": "adidas.co.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicdrop.in/drops/best-running-shoes-under-3000?utm_source=chatgpt.com",
+        "domain": "magicdrop.in",
+        "title": "Best Running Shoes Under 3000 India 2026 | Magicdrop.in | MagicDrop",
+        "description": "BEST RUNNING SHOES UNDER 3000 IN INDIA 2026 — PRICE, DEALS & COMPARISON  📢 Affiliate links — we may earn a commission at no extra cost to you. Read our affiliate disclosure details  The best running...",
+        "breadcrumb": "magicdrop.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.rightsofemployees.com/amazon-prime-day-2026-best-running-shoes-under-rs-3000-from-puma-adidas-nike/?amp=1&utm_source=chatgpt.com",
+        "domain": "www.rightsofemployees.com",
+        "title": "Best Running Shoes Under Rs 3,000: Amazon Prime Day",
+        "description": "AMAZON PRIME DAY 2026: BEST RUNNING SHOES UNDER RS 3,000 FROM PUMA, ADIDAS & NIKE  By  Chandani  -  July 6, 2026  UPGRADE YOUR DAILY MILES WITHOUT BREAKING THE BANK. AMAZON PRIME DAY SERVES UP MASSIV...",
+        "breadcrumb": "rightsofemployees.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Shop Shoes Under 3000 - Running - Trainers | adidas IN",
+        "snippet": null,
+        "domain": "www.adidas.co.in",
+        "url": "https://www.adidas.co.in/shoes_under_3000-running-trainers?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "adidas",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Best Running Shoes Under ₹3000 | ASICS, Adidas, Nike, Puma, Skechers - YouTube",
+        "snippet": null,
+        "domain": "www.youtube.com",
+        "url": "https://www.youtube.com/watch?v=q2n7z2Aodjo&utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "YouTube",
+        "publication_date": "2026-01-26 00:00:00 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best running shoes under 3000 India 2026 Nike Adidas Puma Asics Decathlon"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Yes — **₹2,000–₹3,000 is enough for a decent beginner/daily running shoe**, especially if you're doing 3–10 km runs rather than serious marathon training. Current budget options include several sale-priced Adidas models, while independent 2026 guides also point to ASICS/Puma as good value when discounted. [www.adidas.co.in](https://www.adidas.co.in/shoes_under_3000-running-trainers?utm_source=chatgpt.com)\n\n### My picks\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Shop Shoes Under 3000 - Running - Trainers | adidas IN",
+          "snippet": null,
+          "domain": "www.adidas.co.in",
+          "url": "https://www.adidas.co.in/shoes_under_3000-running-trainers?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "adidas",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "16317936238524086368",
+          "merchants": "ajio.com + others",
+          "id_to_token_map": "N8xwL3icdVS5rttWFAzcpUuRD3BjIMCDgHu5XJIxXsF9sUiK26XERqBIivvyJFKkhPxMnhfA6eIECJA_sYt8S2TXySln5gxmgIPzz3c_PGflX6Mz7uMTCiUqWw0stVnG_aXm2Y_DqU-nZCzTP2iapEjAAZJCgGY5RJDoYxKPcdPnZfonRCRkOPKOsjRBARaRiP1UZHHalF1mH4_ZSeqTuwtiEAtJGrEkpBABWQqyv5VtnGff6N8RggTBcTSJEA0AQRNvT-n5M7UR95C6q-8JaIakSeJbAuaXjWtL-_8h3z9N2en6-afDlObZ-HCauq7s8odz0Wfnh1cy8YolXgkcCQB4KLu0jN_nQ_K1yH9YvW3L9BPNoHtiBnEcQIClaJp7O1zGX-N309Rkf88PIq87uqibgYanuFXKtdxMkdoUz3nzXHbPRfOcdR_6eLgcky8vfpT7WRLPs-gEw4AlF3g-LmJQ-JYIz_ZWME1Y1JbkEngrKK6WkBgMOoZ4SGGKrEYoD-F58eohsuq0tkAa4haSTlPccIV3UahYNjbhOsDHGKRlQiY3t8vJdGt5pub6oWZNqZbPzs0I45qdff_O1WmbqOPGFOESbZsNloTCbwvr0EQl9l2UlLDbbQc1CHF_kGnZIYrJ75zrroZuho0l69JtUhvwAOhiFwZX7BuOe1M0n0xtlxglU8Y3DwR0okZVBIVNGspLonDaDhuURRTCOqAd71b0Qfu1c0_vfAWEEvZTGCxhe55DZegjXwCePMRRYEFLMc6ZGslui8-WL1RpjSsTN1qgDDusAiKShDYl6LMTuJ2tmPd9zktkznU6Jc6qdDb9IsRqg1xi8LY3rIeBtbNarJowtQ6EUfmw0CNfqXadQXtV5NzxjdX20MLYCYNB3ELZU0jXTRWuSKpo60pus97ylKUI1B0jYiBTamkIrmZd7TAK_IDTwhqSQcUvJmFYcbujD75hB-oCgpaz3a4h3y3n0_Ez4BV69GyKuCjNNuBmh18dEX-epO2pL6cW6abzM2RYxEDAIZqm2Q9J39dl9uXF9_u9lyXTKVt5vrt55K02mmNSw_5e2dqVJLjLiiEpzASxXguDe7kirVUj3-sKg7wwXhYCr4uYlYhsnnGv7l60j5NmL_N6dZhHvO5tVGFhQkEy-VbHurjI89cvPZl3RW3v8abs6b78KOaOviBZeP2Sl8VHPjWwHJ8vvi03t30E7qeXmwfDy2RDTBT5LIToWq5mmD_5weqaenpLNul6bbD865cSfpxvoEqQnDM3c3L0OIw9zduMol8GvcwrJ2ljkq6nxEBw-K_z-qWlS4_3P_WoVFEr0Xp3V2zWg53P20syVwOKcGMxrZccl0C7FYu7udgOtUWcylw8S6TlN4satf2lXpvscKRmdb3JTA7V5-jAzKc3qyiMjkAwqlOzX-disRdnyBAumIQ30YlWs2LRrgf66SLdDqMerMhRSHeXyRHxWhPI8XDdW8Eldk7GWGz7FtYePmQl3SXyLaoxAXdyR90ywI2BE-MkFrk-DFyFtw9DN7_BOv00bTqtZRx8ZRavnFWGj27qCH1-I1mh6s_nNVgY3ZoCj_8XxMnpPQ",
+          "title": "Decathlon Jogflow 190.1",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 1900,
+           "rating_max": 5
+          },
+          "price": 2499,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/6fftOnicu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDvZx1DWpyMtxCq-Id3IM8vKNjNL1KjWvCKkIivTOzAj3TY7IMAn0yo8KMixxDw4u9vCN98zONEkzi8p1jcxPLzB0rDBNcXMpDQQAZ_8uXA"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "tQt_ar6WD4e-p84Pxt_vkA8",
+            "product_id": "5534309034605896236",
+            "catalog_id": "16317936238524086368",
+            "gpcid": "14218343573532058967",
+            "headline_offer_docid": "6768135683146218418",
+            "image_docid": "66122995366500252",
+            "rds": "PC_14218343573532058967|PROD_PC_14218343573532058967",
+            "query": "budget+running+shoes+%E2%82%B93000+india",
+            "mid": "576462769906084559",
+            "pvt": "a",
+            "uule": "w+CAIQICIMUHVuamFiLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "2997138454340806866",
+          "merchants": "Myntra",
+          "id_to_token_map": "r7JefXicbZPNjqNGEMejveWWQx5gLitFGlnq5pus5sBHY-OxwTR0g7lYmMaADZixwWArL5PZD2lz3I0UKW-ye8izZHbPW4c61K_q_6861H8__fKclf90XrdJTlJoCtmkVYTV2G0uB0352J6OrE-7kv0NRUUFUBEkTgAvWYWiyn9Mky6pjnnJPnOqKkNeEUSBf-FAUiTpU5ElrCqbzN3tspN5TL-pyACoCpR4wEOFhzKUBOGvsk7y7Dv_rEqCqoi8ykNB4b47yW9P7PyFWxkbDkIFqkCWOAXIHFAkIP2xwq65-TF7_9Rnp-uX37Y9y7Pu_tQ3Tdnk9-fimJ3vXyPutcK91lUeAHBfNqxM3ufttw1-oPS2LtknUZZebldUTlIEgZNFUXrbXro_k3d9X2X_DveGZnu2YS_JjPZJbZULVPXxtCqe8-q5bJ6L6jlrPhyT9rJLv776FR0H0zgPhkfalpoY-BGerSv1KWtYT_b0GgZVS6YWJdGSDyIdbZEClwYckmru0HrOh6gak30MvCsMtnV3DRsGA0ivQW01oeng5b6yfb6FcaPTYNoB6sMIHyoUQVYTpEpbYOGlifttNB-ZSY8M2NCpqzIGYswawuEDPrB9Dpa8g9a8La4rxK2pd4sP7BBx7JSQASSo4FO0HKkV9yQUkxQSkRFmZeZ63Eat5BKbWwM0JA19SiheYBTzKZzPWBP7IZrbXmgJHiysraXxrhWHZF_0SYT3_oySsGYnf-8U6zDllkHlJoeUo43z5HDOQM01F_Fr4FGrx0B8dE3WOFwKMzKi7c0acGBR3MQrAkSyBhalt2oaVIWPKysglX6JAOujK1ykoGhDxK4-jIM131I3RDA-DPzLLGRmVS9C60xqXK5rLJKGRcSqRjyrfCcq-LCxfYvHmFlqke7jCJu4WkSa4Fi68FLjEoCEaTnX8cy5umEceBXjGCeeXYI9fFhDgtqVY9I6C-PEo7kYIwu_G8-n3RegWWLnu4KlyGPCl-1yolR2eNvH8WYe5DxFqfY7lBVJhkCVRAkIH9Lj8VBmX1_9vNn4Wdqfsokf4NWD5tTxkPAzGmysyN2bOh4nMi9QmST2QW_x5SrN6mkc-E0x5y-yn4XAb2J5YkiuJuMr3hjurp-547CYbIeOLo6utKd6L5G0D5xGwbTI8zd3PtKwMdv42hL5doAejNyzRwnpb-40ZDxobE5Rcr4ELqpumxiEMydfbud-huZGaqGzHkrXcjLA_Ckgkyvz7Zqv2GIxV7Q3dyZ9GG5gn0ool2_L3rOTMPFn_qozgpIckWadzNWSx76VAN3TvsWbO8c2H0ReeLD2cW2KdvPSsVq0bj5El3TYt1JMK0eu_XQ3ktmtGPHq4npCJKlT-eI7hogex2lcHy-HxVJpd8IwXayypSodzvFWHk6PkziMd0Cf70_VZpEbxcYYoMxh0OuP8UmcZsU4u27Fp4t523Y2mfCdztaX3jPoYqbz3fa6ccgl8U7zroiONTz4dJuVYpOil6-iHFyjRrhlQO2Il9A0MdRjSLCludu2GR6pLT71q2ZWyx69yqNfDlNZi2_TDgbaynTCaTCcF2CUbacnvvY_bxDpEQ",
+          "title": "Reebok Energy Runner 3.0 M",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 21,
+           "rating_max": 5
+          },
+          "price": 1273,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/uZQzC3icu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnrJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDinJr8jLTA8zKMvMLtYNKAwtNC8qL8txyXQJy3YrcSrJjCry8fEMzYpIc_K00A03L4p3r_Ty8kkyKvUoznW3tCh38y4P9XRKcwQAvr0vcw"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "tQt_ar6WD4e-p84Pxt_vkA8",
+            "product_id": "15890184624084691593",
+            "catalog_id": "2997138454340806866",
+            "gpcid": "2118190762807208606",
+            "headline_offer_docid": "17009816303183171644",
+            "image_docid": "9649853931482240847",
+            "rds": "PC_2118190762807208606|PROD_PC_2118190762807208606",
+            "query": "budget+running+shoes+%E2%82%B93000+india",
+            "mid": "576462892684427556",
+            "pvt": "a",
+            "uule": "w+CAIQICIMUHVuamFiLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "6155930174821418187",
+          "merchants": "Amazon.in + others",
+          "id_to_token_map": "PEWoP3icdVLJruNEFEV8AQs27HrTq6cnlV0eYlpv4dlxYvt5Kg8by3HZjmcnjuMk4md43SDBEpCQ-JNmwbdgWEMtbt1b5w7n6tRfX3z1lle_T8slSa97VozF0-kyvbaYnBt--Gk8D3jOLhX-FXKA5Wia3LBwQ1IcA2jupyy9pO1QrihD0DQHAcFSG5KgiA2xYX855iluqz63iiI_S0NW4d8IlqRIsGEBsaaxJEcDkvu56tIy_xf_leQYioMURVMEy3KAZGn48Yynz9SrmBCQAiQByA0ELAAUCWmW-u7VsaTkf8AfTnN-vn8mznPfV335NB2HfHqae5yfn97L5PsN-V5YOQPwVPW4Sp-6vH9ahtX-UI7_kv2Pnh-7Cv9CswzFkOsq1GZ9Wm_4cbxevk8_zXOb_7E8ifzW3opbw9fQnHZKtZfbOVbb41vZvlX927F9y_sfh3S8FtmfX34tD4skToto--OIJAd4UizmoaliOYaZMuqRhwhDGYFLlMDszMVrjzu3Nh5WeLxjGTwcInqgUCdccvU7s_ZaxUKScksfbeXWputA4eqoN9JTOffw0A1XMu9ZEy-Wr09RgBaj4QwfjvDwEE4OHCu_bsiUdKKguRCoI4RYMuV9gGCgXiZXEvY-wlenQ4xB4qPd3JD5iDuvi2WTPJ5cDUmp1qK9r-yQhFtPQzcToBlpMeF1OEL-BvqSaWR1rHqk8_Dl2yVtaCurdRH37RIg_Wo3o-094jrrJhg39M5G-uwEYxATQuGobW3UK08U3zChdwfPOR0CXHtkucathzvFtwIFZcTxanf6zZW2DzNwChxMAEGh9rTyEYeKh0jj7vitdvCEfQZamCoo9AHXGS0iM6K1fc2U7EAPXRUHnoK8zL9ETj-eVj1UK8RRoMowXvWKCP3kh76rQBNihTviZoE2MUpZqICMEKZY0okUKFe10gVHM-9WELs4UNbZXBEB5GQq3WPYNj50mqAx5RDcWtTE_afbdC4-A16hL67FAuN8rfzGDV0OiEpqLlJOjZGaF4X9LcFuGJYAHAMZmv4xG4amyv_88htX5h1RS1zekN2tJ7-Ipb29MbLw4R0viy881pGcTnLOnm-4vE9VuX-0G5NQuULLuF19MktZZsYzzelNxWXh654W-Dlr2uXDOwm9lImFL9Q178E0TZoN7tYhKUioW34j88K5xv5aYutHXeD_OR_eJYmbZ_M5f3Y95_WFN7t4SeFcW85spTtLrrfBSbsXo9A-94hRMXcuaNSPoguMPLCWUDC4MEeOMuSAJicu7DIWwlBQnP1zfmeCKmJuRZhMqbupqqxUF5xoH96ZW-mFhvDFzupDGZHbitjB1k8JZ0Nu-S1zPKbcWLhnRg36Ijkoj9vzlesmtPZTqCt3qPcp1_cDtxWXQq_OfKfi6zZfJS53jybhdjd6YQ-jyKqvzHG3CQie9_AQOXkET_SCkljRno2rxj9MzRHWT-DujnCLCTcaap_BbLRhTMtS3MKKXvXyNojzAJI-VJ4Tm39WaL4Yd7uxDfN2Imm72t0zkqauDnVqu6QS0Dg_39PwQGtnnmpbyanumcnsWPHU8NtTvz11DoOvvmDgwBqWikkm1Ulg8Bi64yX7G9H-9kc",
+          "title": "Campus North Plus",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 1600,
+           "rating_max": 5
+          },
+          "price": 999,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/dnIX_Hicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDvY3yXaO8i839nY0KIlKTA_JKnbLMPW1NDBKrkxx83AyM61w94wvrygqCC5MTwtLji_zCfRONEqtSs30DQ22MAmN8EgrNyksjkwEAJjFLx0"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "swt_avL7CZCqqtsPld2ukAo",
+            "product_id": "3907955287382496059",
+            "catalog_id": "6155930174821418187",
+            "gpcid": "13402102830700423574",
+            "headline_offer_docid": "17242087018217295029",
+            "image_docid": "2964934454177902753",
+            "rds": "PC_13402102830700423574|PROD_PC_13402102830700423574",
+            "query": "running+shoes+under+%E2%82%B93000+india+men+women",
+            "mid": "576462724485747243",
+            "pvt": "a",
+            "uule": "w+CAIQICIMUHVuamFiLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "4657856557705405890",
+          "merchants": "Bata IN",
+          "id_to_token_map": "zPCYqXicJZLLjqNWFEWTzDLLJ9SkpZZKli5vSKkGvC5gG2xeF5uJxcuAfcEU5mW-Jqnqbqkz7ESKlD_pHuRb4lbO8OytfZaO9r8__PKalX93dneIWjZQ6GzR8PR26g7DWeQ_N-0l7ZOuTP8iGIHjCZ4QWMCzDA04iqc_J1EX4Utepn_SLMPxDMswHAfuKsML4EuRRSku62xzPGatcknuNorlWZKnARCIeyDBcjT3R1lFefa_THAcTwkMSwGCZgRWEHjw1qbX3z6-9Fl7-_o-7tM86x7bvq7LOn-8Fpfs-vhOJd_x5DtJoAAAj2WdltHHvEm-M5MCzwBWoEkesAAQLKDpt6pMvzAcS7Pk_Y5A8zRPkoB_a4bu9-hD3-Psn_FRFg3bkA3T11EfVbBcq7gPNVy85vi1rF8L_JrVny5RMxyTbz--qW0iy0Mi2X7TIMUBnmLBzCvcWA9RACU1AtYKwWK1p0QyAbB3K7z3tKViysRs4nRlEc7W9wXd941p70EDzbhAAW4z5UyF970HYO0oaRfPJhN7WAk86RIGHZ1WwtKkYJj4gHQV65xoE04qDO25gAjDMCaE644oqAzllAtSYAdFHwVEh5TU9E-FvN_BOQjQ5JDOKiYJ3zoVZuAjOjhPwPZh4ELJRLvlKqIgjqtiCgKhMVEyJWc47qiU8DRrY5-JXSITjI0w8GvERqgJ0rM1JcgxNig1Uyz4gVIgv5pwgNU5xaHjkTgITuHRJKTZO8E6xDxpV1fGgda4r80pnoxdCiHYkfBm4VS1NL9LlBz4egF2VNjaXh4ZZ6gmlMGEeFlmFUPvd6nkwxQ4NSR9ZM97oqGDiu9ChJ3UVz9M1_b4FYiQ6dwN425zlbmFepwqsXbcFy_aalktnawY8l8Jjmc5Agj3KrPUp-RyOZfZt59-PhzcLOnbbOF6zvZZtKpwjCgdeQe425wUyZkWHEUjzr-DSY0z3Fi90kLPrYslNXBuFgC3DrmFzG5Ezrk5B3lz7PXNNK4X8dih9WXDnpDUs37Se1bNO6jI86cHVxUdWT-4oqm6hqc-y7ltTKwqPT2IqvwspkukRtfB26h4PoQg0K3cjJdupi7lBKpXKWBv5WIk8hfPX9xS16gonK7XS158elDQ8ziDU8KqOTebvW1EQeTq7raTvdK_qCJsla1JOS6MgGSL3-fpwTKUZ4ain-EprBTGqO-O7brZ5ONuSMZTw94_bXGVmxwnX5-LydkOG5vesYLGDa4lM-pq0sLqMpzXJt8c6VFbbzNTYM_XMObGdrUIg_AIpOWpxYd1LhcHeSQ40gG9tApbRsuKSb_FzMugzHFn-Auqk9L90NsyWusS1cW3g-UPkd0uu2J3qYizi-KsZOpEncMzIom9WtNzBoTOtyOURLJwCXwHipu4qccVMpiXflvrFWejGze55ahxYjhrHeGJW8UKNG-8rsHEGVbvu-J_4eW5mg",
+          "title": "Power Men's Training Outdoor Running Shoes",
+          "rating": null,
+          "price": 2399,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/frrD13icu9maUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDrIISAs1y3fzTckId01KzHBOMSoLN3H1dE3XLQlKdTQ3rXAKzwgJyAk1cjQpdHKyiAr2Mcg1yc82zk0vKok3MS_zDyv1KwoJNTOoMIsEAAn-Luc"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "tQt_ar6WD4e-p84Pxt_vkA8",
+            "product_id": "15978181960865407384",
+            "catalog_id": "4657856557705405890",
+            "gpcid": "12985069428060016044",
+            "headline_offer_docid": "3686284009115916747",
+            "image_docid": "1778395630145969980",
+            "rds": null,
+            "query": "budget+running+shoes+%E2%82%B93000+india",
+            "mid": "576462563948482208",
+            "pvt": "a",
+            "uule": "w+CAIQICIMUHVuamFiLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "11535890701145009528",
+          "merchants": "Campus Shoes + others",
+          "id_to_token_map": "qxMhXnicbVTLrptWFK0y66yDfkAmkSpdWTq8odEd8DTm2mDOgYPNxAIO5o25GIyN-jO9eUjpMK1UqX-SDPotdTrOHq619tLWfv37w08vafH34A6HqOcDjU0Xnchur8PhUsnip64_kTEZCvKnQAOK40RWohmO4SQJ0OynJBqi-pQV5C-KuoOiBARAUSwHgMTR4uc8jUhdtKlzPKa9dkruLneRAHieo0ReoHma5yT6j6KJsvR_-m5DMyxLCbTI8ixgJA4I_LuenL_QW_VAcbwoSgLH8ZIksfdckf9tCx3t8H3uw_OY9rcvv8QjydLhoR_btmizh3N-Ss8Pb3T6jUi_USQGAPBQtKSIPmTdtwq_4_SuKchnTuBZnhZphhZ4ihdpXnzXXYbfo_fjWKf_TA-qvHJX6mrjm3iMGqNY6_UYLuv8JatfivYlr1_S9uMp6i7H5Ourn_XTpKnnSXX9rsMaBIjqDBwMc6iCaUMR3tnZ5kYfzraOFWIoIPS7IgmMU9hYQ2LAEwTEITMZCYPVNcYIzu5tXycsDPKtV2ZUvLNUz7BrGMAr8ZLZB3t27-szan3GpicaAunilzpDmLwPNIX1A6rzvbpJaEjvK64Kq0GzGYWOy_yMDNIklFESYAGodxufxnNshuekJSNqjDEGBLk-jFIvdwjInbga-h2FHb-0bqiux0gfKkLb3p7qsN_KwFtSJqlDmFb5s-flFKK5KsHKxgvyPaHq435HgsTvpn1VK-4ujGzNBY5O-nhZ235p22mdh25glYjCq7j2B5cGt6CilrjNz_taosLZNmKjXiNGiaLant3y3jeG7EIwwKghO0ezod_gwdehFd4nGhjyFOk5iEyrDip483Tibcr9gOnrMilzKmHscYNzzgd1E2LcxWVteT6LDAZCYkh5UoY7qMF6vZNZ21DYO0ZHQGeXhaVA0745QejtA6tDSzCg2pr2pa3fPShkQieew83aDy237eD767k_fgGywQ3IEfYGa_CF5mzzp1TahvqT1rt5asM5zn6lhPv5UEDi71vKfUxOp6pIv7768XBAaTL26QJ5cPso2004RYyJvYOxc0pNgdeFwLBY8KNVpXTwcuPNZhl6qM0t5iKgNACoDYWFyjuyAG_woDrH0XSu03oRTwNenxy-xMrI-8no2a0IcZ5lb18jXYaqeUDyRkcrT39UM3d15XXl7WtZVx9lYmE9Ol88R6_nQwgC0842sYVS3VITQz8rAX8rFhOVPXv-4kbQqmFqsl5bovz2tYYfpxmUCa9nwrwZ3VUURMhE20H1Cv-ky0avbTcMREYEFFf-Fm9f2yvtkWPYR6MMG41btXfFdt052bS7JFPZ8SGubaFByfHqm3N-hduL47I7XloKF2SrnP50XYbN6VKtN2J3ZKfleptuJL46h7Ew9U-LMAiPQLHKvj6sMzU_qNP9VUEwKk9hzy3T_GreYu75os3xsPIXzKCQ_WV0Vbw2FWaIbwfbv0Rubw357tRQFcJxWnBtos9hhWlqr7fsnAJp8N0IJ5EqnQIfGrITd-30hFfc87htzUZw8U24omJaCnI4LwfKk7eaHSy96bwGV2Fljz6S_wMhqeyW",
+          "title": "Campus Strut Running Shoes",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 77,
+           "rating_max": 5
+          },
+          "price": 1199,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/NjEV1nicDcndCoIwGADQJ0oXSJEQIYmzGfOiIuhGaltu2n7avsB12Vv2NnVuz_cjAVzI01QY5qMDwWdwMyjpA1xBsYRZnQZpnVOm3zzX_8sLyleYHeUhUkHosB_bcPYX461Y4BYe763qMk311CGKI7q_ABlOml3plxWepBZ1VTbZQDyP82KszekH4VAv7g"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "tQt_ar6WD4e-p84Pxt_vkA8",
+            "product_id": "7201558492353599024",
+            "catalog_id": "11535890701145009528",
+            "gpcid": "1568897556999426586",
+            "headline_offer_docid": "3587066518672626592",
+            "image_docid": "11234417284640395076",
+            "rds": "PC_1568897556999426586|PROD_PC_1568897556999426586",
+            "query": "budget+running+shoes+%E2%82%B93000+india",
+            "mid": "576462823276168268",
+            "pvt": "a",
+            "uule": "w+CAIQICIMUHVuamFiLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n**1. 🥇 Decathlon Jogflow 190.1 — ₹2,499**  \nMy **best overall pick** under ₹3,000. It has a 4.6/5 rating from ~1,900 reviews in the current shopping results, and it's specifically a cushioned running shoe. Good choice if you're going to run regularly.\n\n**2. 🥈 Reebok Energy Runner 3.0 — ₹1,273**  \nExcellent value if you find your size at this price. I'd choose this over very cheap generic shoes for regular road running.\n\n**3. 💰 Campus North Plus — ₹999**  \nBest if you want to spend as little as possible. Fine for beginner jogging, walking and occasional 3–5 km runs, but I'd spend more if you're running frequently.\n\n**4. Power Training Outdoor — ₹2,399**  \nA reasonable option if you prefer a sturdier shoe and want something that can handle running + general training.\n\n**5. Campus Strut — ₹1,199**  \nAnother inexpensive beginner option; current listing has a 4.8/5 rating, though based on only 77 reviews.\n\n### What I'd buy\n\n- **Running 3–5 days/week:** **Decathlon Jogflow 190.1**\n- **Running occasionally + gym/walking:** **Reebok Energy Runner 3.0**\n- **Budget is the priority:** **Campus North Plus**\n- **You can stretch to ₹3,000:** Look for a **Puma, ASICS, Adidas Duramo, Nike Revolution/Downshifter** sale. Models such as ASICS Jolt/Patriot, Adidas Duramo and Nike Revolution/Downshifter can fall into the ₹2,000–₹3,000 range during sales. [www.youtube.com](https://www.youtube.com/watch?v=q2n7z2Aodjo&utm_source=chatgpt.com)\n\nOne important point: **don't choose purely by brand** at this budget. Fit, cushioning and heel security matter more. If you tell me **your gender, usual running distance (e.g. 3/5/10 km), foot type (wide/normal), and whether you run on road/treadmill**, I can narrow it down to the **best 2–3 pairs for you**.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Running Shoes Under ₹3000 | ASICS, Adidas, Nike, Puma, Skechers - YouTube",
+          "snippet": null,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=q2n7z2Aodjo&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "YouTube",
+          "publication_date": "2026-01-26 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

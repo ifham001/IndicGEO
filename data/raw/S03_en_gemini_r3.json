@@ -1,0 +1,160 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S03",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 3,
+  "promptText": "Which vitamin C serum should I buy for dark spots and dull skin in India?",
+  "cellId": "S03_en_gemini_r3",
+  "startedAt": "2026-08-14T12:56:06.930Z",
+  "finishedAt": "2026-08-14T12:56:19.084Z",
+  "durationMs": 12154,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "When choosing a Vitamin C serum in India for dark spots, hyperpigmentation, and dull skin, the key is to look for a **stable formulation** (such as *3-O-Ethyl Ascorbic Acid* or *Liposomal Vitamin C*), which holds up well against warm and humid Indian weather without oxidizing quickly.\n\nPopular and effective options available in India tailored to different skin needs include:\n\n---\n\n### 1. Best for Beginners & Oily/Combination Skin\n\n* **The Derma Co 10% Vitamin C Face Serum** (with Niacinamide & Hyaluronic Acid)\n  *   * **Why it works:** A 10% concentration is the sweet spot for melanin-rich skin—enough to fade dark spots without causing excessive irritation. The added niacinamide helps control oil and target marks simultaneously, while hyaluronic acid prevents dryness.\n* **Pilgrim 10% Vitamin C Face Serum** (with Niacinamide & Korean CICA)\n  *   * **Why it works:** Uses a gentle, stable vitamin C derivative (Ethyl Ascorbic Acid) paired with Cica to soothe the skin barrier, making it ideal if your skin is prone to redness or sensitivity.\n\n---\n\n### 2. Best for Advanced Brightening & Stubborn Spots\n\n* **Deconstruct 10% Vitamin C Serum** (with Liposomal Technology & 0.5% Ferulic Acid)\n  *   * **Why it works:** Uses liposomal delivery for deeper skin penetration and enhanced stability. The added ferulic acid boosts antioxidant protection against pollution and UV stress.\n* **Pilgrim 15% Vitamin C Face Serum for Advanced Brightness**\n  *   * **Why it works:** Stepping up to 15% with ferulic acid and vitamin E, this is a great choice if your skin is already used to active ingredients and you want a faster lift for dullness and stubborn dark spots.\n\n---\n\n### 3. Best for Barrier Support & Hydration\n\n* **Dr. Sheth’s Ceramide & 10% Vitamin C Ampoule Serum**\n  *   * **Why it works:** Combines Vitamin C with ceramides to support and protect your moisture barrier while brightening, reducing the risk of the stinging sensation sometimes caused by raw high-strength formulas.\n\n---\n\n> **Important Tips for Best Results:**\n\nWhich skin type do you have (e.g., oily, dry, sensitive), so we can narrow down the best option for your routine?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "11.9369 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141256-2163-0629-0000-9f9a25fd1d1c",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "11.9302 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Which vitamin C serum should I buy for dark spots and dull skin in India?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which vitamin C serum should I buy for dark spots and dull skin in India?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:56:18 +00:00",
+      "markdown": "When choosing a Vitamin C serum in India for dark spots, hyperpigmentation, and dull skin, the key is to look for a **stable formulation** (such as *3-O-Ethyl Ascorbic Acid* or *Liposomal Vitamin C*), which holds up well against warm and humid Indian weather without oxidizing quickly.\n\nPopular and effective options available in India tailored to different skin needs include:\n\n---\n\n### 1. Best for Beginners & Oily/Combination Skin\n\n* **The Derma Co 10% Vitamin C Face Serum** (with Niacinamide & Hyaluronic Acid)\n  *   * **Why it works:** A 10% concentration is the sweet spot for melanin-rich skin—enough to fade dark spots without causing excessive irritation. The added niacinamide helps control oil and target marks simultaneously, while hyaluronic acid prevents dryness.\n* **Pilgrim 10% Vitamin C Face Serum** (with Niacinamide & Korean CICA)\n  *   * **Why it works:** Uses a gentle, stable vitamin C derivative (Ethyl Ascorbic Acid) paired with Cica to soothe the skin barrier, making it ideal if your skin is prone to redness or sensitivity.\n\n---\n\n### 2. Best for Advanced Brightening & Stubborn Spots\n\n* **Deconstruct 10% Vitamin C Serum** (with Liposomal Technology & 0.5% Ferulic Acid)\n  *   * **Why it works:** Uses liposomal delivery for deeper skin penetration and enhanced stability. The added ferulic acid boosts antioxidant protection against pollution and UV stress.\n* **Pilgrim 15% Vitamin C Face Serum for Advanced Brightness**\n  *   * **Why it works:** Stepping up to 15% with ferulic acid and vitamin E, this is a great choice if your skin is already used to active ingredients and you want a faster lift for dullness and stubborn dark spots.\n\n---\n\n### 3. Best for Barrier Support & Hydration\n\n* **Dr. Sheth’s Ceramide & 10% Vitamin C Ampoule Serum**\n  *   * **Why it works:** Combines Vitamin C with ceramides to support and protect your moisture barrier while brightening, reducing the risk of the stinging sensation sometimes caused by raw high-strength formulas.\n\n---\n\n> **Important Tips for Best Results:**\n\nWhich skin type do you have (e.g., oily, dry, sensitive), so we can narrow down the best option for your routine?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 10,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "When choosing a Vitamin C serum in India for dark spots, hyperpigmentation, and dull skin, the key is to look for a **stable formulation** (such as *3-O-Ethyl Ascorbic Acid* or *Liposomal Vitamin C*), which holds up well against warm and humid Indian weather without oxidizing quickly.",
+        "original_text": "When choosing a Vitamin C serum in India for dark spots, hyperpigmentation, and dull skin, the key is to look for a stable formulation (such as 3-O-Ethyl Ascorbic Acid or Liposomal Vitamin C), which holds up well against warm and humid Indian weather without oxidizing quickly.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Popular and effective options available in India tailored to different skin needs include:",
+        "original_text": "Popular and effective options available in India tailored to different skin needs include:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### 1. Best for Beginners & Oily/Combination Skin",
+        "original_text": "1. Best for Beginners & Oily/Combination Skin",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **The Derma Co 10% Vitamin C Face Serum** (with Niacinamide & Hyaluronic Acid)\n  *   * **Why it works:** A 10% concentration is the sweet spot for melanin-rich skin—enough to fade dark spots without causing excessive irritation. The added niacinamide helps control oil and target marks simultaneously, while hyaluronic acid prevents dryness.\n* **Pilgrim 10% Vitamin C Face Serum** (with Niacinamide & Korean CICA)\n  *   * **Why it works:** Uses a gentle, stable vitamin C derivative (Ethyl Ascorbic Acid) paired with Cica to soothe the skin barrier, making it ideal if your skin is prone to redness or sensitivity.",
+        "original_text": "The Derma Co 10% Vitamin C Face Serum (with Niacinamide & Hyaluronic Acid)\nWhy it works: A 10% concentration is the sweet spot for melanin-rich skin—enough to fade dark spots without causing excessive irritation. The added niacinamide helps control oil and target marks simultaneously, while hyaluronic acid prevents dryness.\nPilgrim 10% Vitamin C Face Serum (with Niacinamide & Korean CICA)\nWhy it works: Uses a gentle, stable vitamin C derivative (Ethyl Ascorbic Acid) paired with Cica to soothe the skin barrier, making it ideal if your skin is prone to redness or sensitivity.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. Best for Advanced Brightening & Stubborn Spots",
+        "original_text": "2. Best for Advanced Brightening & Stubborn Spots",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Deconstruct 10% Vitamin C Serum** (with Liposomal Technology & 0.5% Ferulic Acid)\n  *   * **Why it works:** Uses liposomal delivery for deeper skin penetration and enhanced stability. The added ferulic acid boosts antioxidant protection against pollution and UV stress.\n* **Pilgrim 15% Vitamin C Face Serum for Advanced Brightness**\n  *   * **Why it works:** Stepping up to 15% with ferulic acid and vitamin E, this is a great choice if your skin is already used to active ingredients and you want a faster lift for dullness and stubborn dark spots.",
+        "original_text": "Deconstruct 10% Vitamin C Serum (with Liposomal Technology & 0.5% Ferulic Acid)\nWhy it works: Uses liposomal delivery for deeper skin penetration and enhanced stability. The added ferulic acid boosts antioxidant protection against pollution and UV stress.\nPilgrim 15% Vitamin C Face Serum for Advanced Brightness\nWhy it works: Stepping up to 15% with ferulic acid and vitamin E, this is a great choice if your skin is already used to active ingredients and you want a faster lift for dullness and stubborn dark spots.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "### 3. Best for Barrier Support & Hydration",
+        "original_text": "3. Best for Barrier Support & Hydration",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Dr. Sheth’s Ceramide & 10% Vitamin C Ampoule Serum**\n  *   * **Why it works:** Combines Vitamin C with ceramides to support and protect your moisture barrier while brightening, reducing the risk of the stinging sensation sometimes caused by raw high-strength formulas.",
+        "original_text": "Dr. Sheth’s Ceramide & 10% Vitamin C Ampoule Serum\nWhy it works: Combines Vitamin C with ceramides to support and protect your moisture barrier while brightening, reducing the risk of the stinging sensation sometimes caused by raw high-strength formulas.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "> **Important Tips for Best Results:**",
+        "original_text": "Important Tips for Best Results:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "Which skin type do you have (e.g., oily, dry, sensitive), so we can narrow down the best option for your routine?",
+        "original_text": "Which skin type do you have (e.g., oily, dry, sensitive), so we can narrow down the best option for your routine?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,414 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 6,
+  "promptText": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+  "cellId": "F01_hg_chatgpt_r6",
+  "startedAt": "2026-08-14T13:14:48.120Z",
+  "finishedAt": "2026-08-14T13:15:29.985Z",
+  "durationMs": 41865,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Haan — **₹2,000 ke andar men’s jeans** ke liye main quality + fit + value ke hisaab se ye brands prefer karunga:\n\n1. **Pepe Jeans — Best overall** ⭐  \n   Sale mein ₹1,449–₹1,999 ke aas-paas achhi straight/slim jeans mil rahi hain. [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)  \n   **Meri first choice:** dark blue **straight fit**.\n\n2. **Spykar — Best value**  \n   Current sale mein ₹1,349–₹1,923 tak ke models mil rahe hain, including regular, slim aur skinny fits. [spykar.com](https://spykar.com/collections/men-jeans?utm_source=chatgpt.com)  \n   **Best:** daily wear ke liye regular/slim fit.\n\n### [SPYKAR Men Mid-Wash Slim Fit Jeans]()\n*₹1,710*\n\n3. **Jack & Jones — Best stylish option**  \n   Sale mein ₹1,499–₹1,799 ke models mil sakte hain; especially slim/washed styles. [www.jackjones.in](https://www.jackjones.in/products/150466901-light-grey-denim?utm_source=chatgpt.com)\n\n### [Jack & Jones Clark Regular Fit Jeans]()\n*₹1,679*\n\n4. **Levi's — Sale mein mile to definitely lo**  \n   ₹2,000 ke andar Levi's milna possible hai, lekin usually sale/deal hunt karni padegi. 511 Slim jaise classic fits is budget mein achhe options hain. [www.ndtvshopping.com](https://www.ndtvshopping.com/fashion/top-levis-jeans-for-men-under-2000-9201855?utm_source=chatgpt.com)\n\n5. **Wrangler — Strong alternative**  \n   Agar sale mein ₹1,500–₹2,000 ke andar genuine Wrangler mil jaye, to consider karna worth it hai.\n\n### 🏆 Meri ranking ₹2,000 budget mein\n**Pepe Jeans > Levi's (sale) > Spykar > Wrangler > Jack & Jones**\n\n**Ek important tip:** Brand se zyada **fit** matter karta hai. Agar ek hi jeans leni hai, to **dark blue, mid-rise, straight/regular fit, minimal fading** lo — sabse versatile rahegi.\n\nAgar tum **apni height, weight aur waist size (jaise 32/34)** bata do, main tumhare body type ke hisaab se **₹2,000 ke andar 5 exact jeans** choose karke de sakta hoon.",
+  "citations": [
+   {
+    "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+    "source_name": "Pepe Jeans",
+    "position": 1
+   },
+   {
+    "url": "https://spykar.com/collections/men-jeans?utm_source=chatgpt.com",
+    "source_name": "Spykar Lifestyles",
+    "position": 2
+   },
+   {
+    "url": "https://www.jackjones.in/products/150466901-light-grey-denim?utm_source=chatgpt.com",
+    "source_name": "Jack and Jones India",
+    "position": 3
+   },
+   {
+    "url": "https://www.ndtvshopping.com/fashion/top-levis-jeans-for-men-under-2000-9201855?utm_source=chatgpt.com",
+    "source_name": "NDTV Shopping",
+    "position": 4
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "41.6357 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141314-2163-0629-0000-a8a2d75a2bf7",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "41.6269 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=India%20mein%202000%20rupees%20ke%20andar%20men%20ke%20liye%20konse%20brand%20ki%20jeans%20kharidni%20chahiye%3F&hints=search",
+      "datetime": "2026-08-14 13:15:29 +00:00",
+      "markdown": "Haan — **₹2,000 ke andar men’s jeans** ke liye main quality + fit + value ke hisaab se ye brands prefer karunga:\n\n1. **Pepe Jeans — Best overall** ⭐  \n   Sale mein ₹1,449–₹1,999 ke aas-paas achhi straight/slim jeans mil rahi hain. [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)  \n   **Meri first choice:** dark blue **straight fit**.\n\n2. **Spykar — Best value**  \n   Current sale mein ₹1,349–₹1,923 tak ke models mil rahe hain, including regular, slim aur skinny fits. [spykar.com](https://spykar.com/collections/men-jeans?utm_source=chatgpt.com)  \n   **Best:** daily wear ke liye regular/slim fit.\n\n### [SPYKAR Men Mid-Wash Slim Fit Jeans]()\n*₹1,710*\n\n3. **Jack & Jones — Best stylish option**  \n   Sale mein ₹1,499–₹1,799 ke models mil sakte hain; especially slim/washed styles. [www.jackjones.in](https://www.jackjones.in/products/150466901-light-grey-denim?utm_source=chatgpt.com)\n\n### [Jack & Jones Clark Regular Fit Jeans]()\n*₹1,679*\n\n4. **Levi's — Sale mein mile to definitely lo**  \n   ₹2,000 ke andar Levi's milna possible hai, lekin usually sale/deal hunt karni padegi. 511 Slim jaise classic fits is budget mein achhe options hain. [www.ndtvshopping.com](https://www.ndtvshopping.com/fashion/top-levis-jeans-for-men-under-2000-9201855?utm_source=chatgpt.com)\n\n5. **Wrangler — Strong alternative**  \n   Agar sale mein ₹1,500–₹2,000 ke andar genuine Wrangler mil jaye, to consider karna worth it hai.\n\n### 🏆 Meri ranking ₹2,000 budget mein\n**Pepe Jeans > Levi's (sale) > Spykar > Wrangler > Jack & Jones**\n\n**Ek important tip:** Brand se zyada **fit** matter karta hai. Agar ek hi jeans leni hai, to **dark blue, mid-rise, straight/regular fit, minimal fading** lo — sabse versatile rahegi.\n\nAgar tum **apni height, weight aur waist size (jaise 32/34)** bata do, main tumhare body type ke hisaab se **₹2,000 ke andar 5 exact jeans** choose karke de sakta hoon.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "magicpin.in",
+        "title": "Top 14 Jeans Brands for Men in India (July 2026): Levi's, Wrangler, Pepe & More | magicpin blog",
+        "description": "TOP 14 JEANS BRANDS FOR MEN IN INDIA (JULY 2026): LEVI'S, WRANGLER, PEPE & MORE  BY ANIKET  UPDATED - JULY 1, 2026 16 MIN READ  Browse more in Fashion  Greetings, fashion-forward men! A great pair of...",
+        "breadcrumb": "magicpin.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicpin.com/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "magicpin.com",
+        "title": "Top 14 Jeans Brands for Men in India (July 2026): Levi's, Wrangler, Pepe & More | magicpin blog",
+        "description": "MID TIER (RS 2,000-RS 4,000): THE EVERYDAY WORKHORSES  6. WRANGLER  Image: Wrangler jeans for menWrangler jeans for men  Wrangler in May 2026 is in an interesting spot in India - heritage Western bran...",
+        "breadcrumb": "magicpin.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://spykar.com/collections/men-jeans?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "spykar.com",
+        "title": "Buy Jeans for Men Online at Spykar",
+        "description": "Flat 10% of on orders above 2499. Use Code SPYKAR10  Flat 15% off on orders above 3499. Use Code: SPYKAR15  Jeans  Menu  * * *  Jeans  Men's - Shop by Fit  Jeans   484 Product s  * Save 65%  5.0  MEN...",
+        "breadcrumb": "spykar.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://spykar.com/collections/men-jeans/rs-2000-rs-2999?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "spykar.com",
+        "title": "Buy Jeans for Men Online at Spykar – tagged \"Rs. 2000 - Rs. 2999\"",
+        "description": "Flat 10% of on orders above 2499. Use Code SPYKAR10  Flat 15% off on orders above 3499. Use Code: SPYKAR15  Need Help?  customercare@spykar.com  Free shipping on orders above ₹999  MY BAG  Your bag is...",
+        "breadcrumb": "spykar.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://spykar.com/collections/men?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "spykar.com",
+        "title": "Buy Casual Wear for Men Online at Best Prices from Spykar",
+        "description": "Flat 10% of on orders above 2499. Use Code SPYKAR10  Flat 15% off on orders above 3499. Use Code: SPYKAR15  New Arrivals  Men  Menu  * * *  Men   1808 Product s  * Save 65%  5.0  MEN JEANS REGULAR FIT...",
+        "breadcrumb": "spykar.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://spykar.com/collections/men-jeans/men?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "spykar.com",
+        "title": "Buy Jeans for Men Online at Spykar – tagged \"Men\"",
+        "description": "Flat 10% of on orders above 2499. Use Code SPYKAR10  Flat 15% off on orders above 3499. Use Code: SPYKAR15  484 Product s  * Save 65%  5.0  MEN JEANS REGULAR FIT BLUE MID RISE  ₹ 1,923 ~~ ₹ 5,499 ~~...",
+        "breadcrumb": "spykar.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.pepejeans.in",
+        "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+        "description": "JEANS FOR MEN  (738 products)   4.5  Quick View  sale deal of day  Men Dark Blue Mid Rise Straight Fit Strechable Jeans  ~~ Price reduced from ₹3,199 to ~~ ₹1,499  (53% off)  Best price : ₹1,449  4.2...",
+        "breadcrumb": "pepejeans.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.pepejeans.in/s/MIRAI/men/jeans?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.pepejeans.in",
+        "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+        "description": "JEANS FOR MEN  (1211 products)   4.3  Quick View  sale deal of day  Men Blue Mid Rise Straight Fit Jeans  ~~ Price reduced from ₹3,199 to ~~ ₹1,499  (53% off)  Best price : ₹1,449  Quick View  sale d...",
+        "breadcrumb": "pepejeans.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.lifestylestores.com/in/en/c/men-bottoms-jeans/?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.lifestylestores.com",
+        "title": "Jeans for Men: Buy Men Jeans Online | Lifestyle Stores",
+        "description": "1. Home 2.   3. Men 4.   5. Bottomwear 6.   7. Jeans  New  ₹  1,299  DENIMIZE Washed Regular Straight Jeans  New Buy 1 Get 1 30% OFF  ₹  2,659  ₹4,199  LEVI'S Solid Mid-Rise Regular Straight Jeans  N...",
+        "breadcrumb": "lifestylestores.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ndtvshopping.com/fashion/top-levis-jeans-for-men-under-2000-9201855?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.ndtvshopping.com",
+        "title": "Top 5 Levis Jeans for Men Under 2000 - NDTV Shopping",
+        "description": "PREMIUM STYLE, SMART PRICE: GRAB LEVIS JEANS FOR MEN UNDER ₹2,000 BEFORE BIG BILLION DAYS  DISCOVER THE BEST LEVI'S JEANS FOR MEN UNDER ₹2,000. FROM SLIM TO TAPERED FITS, SHOP PREMIUM DENIM AT GREAT...",
+        "breadcrumb": "ndtvshopping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.jackjones.in/products/150466901-light-grey-denim?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.jackjones.in",
+        "title": "PRODUKT by JACK&JONES Light Grey Mid Rise Distressed Slim Fit Jeans",
+        "description": "Zoom picture  Previous  Image: PRODUKT by JACK&JONES Light Grey Mid Rise Distressed Slim Fit Jeans  Image: PRODUKT by JACK&JONES Light Grey Mid Rise Distressed Slim Fit Jeans  Image: PRODUKT by JACK&...",
+        "breadcrumb": "jackjones.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.jackjones.in/products/150464601-light-grey-denim?utm_source=chatgpt.com&utm_campaign=marketplace",
+        "domain": "www.jackjones.in",
+        "title": "PRODUKT by JACK&JONES Light Grey Mid Rise Washed Slim Fit Jeans",
+        "description": "Zoom picture  Previous  Image: PRODUKT by JACK&JONES Light Grey Mid Rise Washed Slim Fit Jeans  Image: PRODUKT by JACK&JONES Light Grey Mid Rise Washed Slim Fit Jeans  Image: PRODUKT by JACK&JONES Li...",
+        "breadcrumb": "jackjones.in"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+        "snippet": null,
+        "domain": "www.pepejeans.in",
+        "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Pepe Jeans",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Jeans for Men Online at Spykar",
+        "snippet": null,
+        "domain": "spykar.com",
+        "url": "https://spykar.com/collections/men-jeans?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Spykar Lifestyles",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "PRODUKT by JACK&JONES Light Grey Mid Rise Distressed Slim Fit Jeans",
+        "snippet": null,
+        "domain": "www.jackjones.in",
+        "url": "https://www.jackjones.in/products/150466901-light-grey-denim?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Jack and Jones India",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Top 5 Levis Jeans for Men Under 2000 - NDTV Shopping",
+        "snippet": null,
+        "domain": "www.ndtvshopping.com",
+        "url": "https://www.ndtvshopping.com/fashion/top-levis-jeans-for-men-under-2000-9201855?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "NDTV Shopping",
+        "publication_date": "2025-08-31 00:00:00 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best men's jeans brands India under 2000 Levi's Pepe Jeans Spykar Jack & Jones"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 5,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Haan — **₹2,000 ke andar men’s jeans** ke liye main quality + fit + value ke hisaab se ye brands prefer karunga:\n\n1. **Pepe Jeans — Best overall** ⭐  \n   Sale mein ₹1,449–₹1,999 ke aas-paas achhi straight/slim jeans mil rahi hain. [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)  \n   **Meri first choice:** dark blue **straight fit**.\n\n2. **Spykar — Best value**  \n   Current sale mein ₹1,349–₹1,923 tak ke models mil rahe hain, including regular, slim aur skinny fits. [spykar.com](https://spykar.com/collections/men-jeans?utm_source=chatgpt.com)  \n   **Best:** daily wear ke liye regular/slim fit.\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+          "snippet": null,
+          "domain": "www.pepejeans.in",
+          "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Pepe Jeans",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Jeans for Men Online at Spykar",
+          "snippet": null,
+          "domain": "spykar.com",
+          "url": "https://spykar.com/collections/men-jeans?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Spykar Lifestyles",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "16038358872120728483",
+          "merchants": "AJIO.com",
+          "id_to_token_map": "P56NJ3icdVPJquNWEE3yBdlm9zZv9WjQ1ZUsOY-3kGRJlmzN0tWwMbIGy5oH2xrIx3ReD9BZhkDIp3QT8i1xoCGrrkXB4VTVORyof7778TU5_7mazEPY9UfBvzGFLum3HSWMBvap7Zv4Gl3O8R9ghUEakjRN4QDHKJwmaPgpCi9h2ZzO8dvfsySMy3OdaGma9Jsm-sbKb-cqPCVfeZwgsTUENEFCfAUIer0G7_p4-Ezo3AEQFCQIAFcQAyS5xkmMIn_RTW1z-Ab5obsm_fxZq5L6KU_Cenh65PFHGn9k14DEsP8Rjt1RmdzOjzg1PLVJm3ydH9q5CPunPIyKp0d89ZQ3dTJ8OLV3r2_fVf-19nb5NXx_vZbJX-MTx0iGxEl7U0RDKBaD5ZJF6PKvp_L1XL9m5WtSf2zC9pZGX77_m79KHNdJnOG0LdqYmOUKulOp0AHMdBRNzICZ55blxlrMVBMk6OQyMvGL5BYXTl0QjtyLizA58-1Ad13hbFeqijwElUpmrQ3SPIyfLSDnsY18v7hcw0JtnI1qGV7pGXmmBkKpBXw2JzlS40K1UUEudn4aFQsAEyLgIgULMYHzgUSaiz9qdgZUaICgQkRcZDelFnxkGyDiya0H1cXZlJ0rTjyqCCyo5RE5ZBvfb_tYMQZL5sSlMIeOQ_go4DVeXVSXno0qmOJcGCKAhrvHSwhiK0KxELiCYomACAHauHlZuZUsIBsZNp5JrleaGpKXY13uj5t48utWtzFkGXWwd-7hIAwoCJW9CczARtk9VxIPoCxaohp4ICaOYN15M7jFjnzXXXuJF1nCEhBOuc4iTz6bZYkb7sWwEItbSyzGgB_Fs8yaW3XW3MD0i3Kv4mtLWbLUdknZ4gPJRZlmLcao5sXFFTP4fhr69DPGCOTF0qgZympadOKBOmowM2upsC8cT6phcfoZUPSKAhDicEWsPkZNU5yTLz_8ZPGMyW0PFqPwlmTzL9zJkKYVzz4_MDz3wsQy4sOrftbDjvPYiB3ysaWZSmPVSEJvIj4FTKLdLM0J05uvh3NaCt06IFcp8fywQS_OiNZQd-cBV6oT08QYe9i2ioQNUiEybFdFu7ZVS19fnUbmXs8Ph4OVRNc-eWPZpv7CqFUwhpDJQCSt89t2kvCopexegVu9EgiAh5V0knZvUmZE531d3q59ocWYFubWWEQ8FISOqXbV1E6l5x5JRZlxbhsWcTU7QJL8hOSvu-cHVdq8kBC-CIKQklxyzLmgSTaSc1hOeS2N2_sXbNjuOKxR7iezR5ZUx_YzJnhREEax5KZeX7uNxW30Q8NT_JGO5U3R84RVp06ehbu975CIb_pl6gaRxzDr5LNw8sxecvJKWXUX_ig7a-JmbCkvNak9bQ4YVCJabxxBFBvfXrrmiDH8PO74a7pEG5GlD5k-CSZrUr3Qm9KY5A7ZKQWdddy-DMQJK5dzbSaz5LHUpIbB4k4Hbs_rt7mu1bynLxGRRDWMMQS9JNpxHT7u27WPNXiq1Zyq-7fxX4ta4E4",
+          "title": "SPYKAR Men Mid-Wash Slim Fit Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4,
+           "votes_count": 500,
+           "rating_max": 5
+          },
+          "price": 1710,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/Rszq-HicDcnRCoIwFADQL1KTiaYQUbCWBWZUiE8xN9lmbK7tUuhjf9nf1Hk9348EsL6Iot4wN1noeQCdQaHwQEGxkI068nK0Vhmxfq7-V2wqnhN2OZbLxLnsfrOoToYMH3Z8W2s6X7XG0xvqznNVxq8mt20sROAVGeS5PSm0f8xjFVC84CklJm1-pcsu6g"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "6xR_aqrbFYvAkPIPvK7FwQ0",
+            "product_id": "16038358872120728483",
+            "catalog_id": null,
+            "gpcid": null,
+            "headline_offer_docid": "16038358872120728483",
+            "image_docid": "12450931845326148991",
+            "rds": "PC_14734413630155925075|PROD_PC_14734413630155925075",
+            "query": "men+jeans+%E2%82%B91500+%E2%82%B92000+levi%27s+pepe+jeans+spykar+jack+%26+jones",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICILRGVsaGksSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n3. **Jack & Jones — Best stylish option**  \n   Sale mein ₹1,499–₹1,799 ke models mil sakte hain; especially slim/washed styles. [www.jackjones.in](https://www.jackjones.in/products/150466901-light-grey-denim?utm_source=chatgpt.com)\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "PRODUKT by JACK&JONES Light Grey Mid Rise Distressed Slim Fit Jeans",
+          "snippet": null,
+          "domain": "www.jackjones.in",
+          "url": "https://www.jackjones.in/products/150466901-light-grey-denim?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Jack and Jones India",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "704784876736139175",
+          "merchants": "Jack & Jones",
+          "id_to_token_map": "aoazw3icbVHLjqNWEE3yBdlm15tetUa6vCGtXgC-YGzz8MX3gtlYmIeNeYNtMMrHTHoe0mQ5WUT5lBlF-ZY4UaRsUouSjs6pOkdVf37z_WuS_caPaBe23V7bXuXcMZzrUtCGNfjUdHV8ic5Z_FkArCCyosALDE8xEiVwn6LwHBb1IYvffj4mYVxkVWKnadLN6uh_B37JyvCQ_MP-SvM0LQoiwwOO5ymBFwXuXRf3X2hH3dFAkkSJYkSeooAAKI4VfnKQPdv9P_ehvSTd7YtdJtXTKQmr_ukR0o8i_ahIFAfAf4gGd1Qk1-yRFvqnJmmSf_V9c8vD7ukURvnTI80_neoq6T8cmnvQt-_Kv1tzPf8cvr9ciuT34UmVjbWhGiukkz7U8971uDz04OuheM2q12PxmlQf67C5ptHXb_-AF0NVW0Nd46YhMwRcKl7tyaJzIVnZKlWtq-Aa4-J459ygQmu31OwQWwsMF5OJ0W1dkXVAk5WVx-bWG7WIUbwNjFlzXuh7uihMiHjXO1I25tC-RFvsSeoKW8QHxcnzyGwzV66xFtEJ1OCmMKl4bl2Ih1qUnzsvbyiX7tn7zqMPjtMKm2eTrs-4pMCGIUsfNNaaOQ6Bd-4sIrHeTPHsjclsdKrZAKmLqsbF82C9Bc0YzGNsa_f8IAIbME7Iu3sxRMETKkwvUBMtn5LCGPazeBHN4Bj6hUb0sQ5wEFq4AMhDFxuTY4BJTuCCWDoiG2jdwjxWXKpgAh-e0f0umynIXNqqwtwqt1TgBxgFgXeYMODgvihQpKHKmy_sNYhrkkvQpTkU-AsWe5GrTQGLC-kY-YsMFQW99s5rlyi0O8V6TMFBzxYKmls327ungHCMMFm4FVrui0bf6GCwGDK3TpjFtHT3tpj3Y9-lX4CscWfX5rADeVu3b4TyWg3qUjaI0zhkSz0__EgJIi9QDEMzPMt9jOo6z5Kv3_3gQhmp850rm9A1NvBFPayNkYfK84MM1Rc5XhAYXpzMCVvVVyKlPw2NKJe2YkUGeRPBlJIT--raOEyvWye8pYXWSgHHp-zzw4y84IFIjOPdetosD3IdA2U3b0wD9Eauy0pbRsumsYqtwx8G-V7PD7udm0SXLnnjbpDzIltlMISMfKQiQzpd56NBR42w6Uxm7pQaS9FhaRyM5ZtUHki2qorrpcvtGNjhyR3yCDKa1srlshybsfC9PWeaN1qd399Z3jBlGNuEg5fl84NlzF44hnnRNC3l1GR_UoM6mRl4Nx1OlTHMz6o1U9p9L5HTNrn5XCG0SncDmh8FYRQbXup3lVe76szZ1VCAezFezPIOsm6V4tMxXK62mCOw7qax7XUIgHvYKszoo87Ap9Lk2zPcL7DEXtdzwU-RsBJRDxgzEp0aa7pebzdTW--BDG_DEl7SKZrpirg7OqOGFCR0WoeMITlhrjVz8diqqyLQR1BMWYWSm-ErwmiFweSNO3UFneutqqxTJ54jNokqJgaE8ZNoqbb0sGqkLajp1K5Uy9leh78ACFbdUA",
+          "title": "Jack & Jones Clark Regular Fit Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 3,
+           "rating_max": 5
+          },
+          "price": 1679,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/sbcQkXicu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnrJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDkrPDDV1qdL18YjK8yw3KzWOMMn2do4KDDRIzg40Nnb0CYzy9nLNsAgxSHK3KPHzcIuvMPMsDw9JzjepCk4qyY4ySTH0042yKAcARP0tWw"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "6xR_aqrbFYvAkPIPvK7FwQ0",
+            "product_id": "704784876736139175",
+            "catalog_id": null,
+            "gpcid": null,
+            "headline_offer_docid": "704784876736139175",
+            "image_docid": "2622878360566176875",
+            "rds": "PC_2099891386110701547|PROD_PC_2099891386110701547",
+            "query": "men+jeans+%E2%82%B91500+%E2%82%B92000+levi%27s+pepe+jeans+spykar+jack+%26+jones",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICILRGVsaGksSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\n4. **Levi's — Sale mein mile to definitely lo**  \n   ₹2,000 ke andar Levi's milna possible hai, lekin usually sale/deal hunt karni padegi. 511 Slim jaise classic fits is budget mein achhe options hain. [www.ndtvshopping.com](https://www.ndtvshopping.com/fashion/top-levis-jeans-for-men-under-2000-9201855?utm_source=chatgpt.com)\n\n5. **Wrangler — Strong alternative**  \n   Agar sale mein ₹1,500–₹2,000 ke andar genuine Wrangler mil jaye, to consider karna worth it hai.\n\n### 🏆 Meri ranking ₹2,000 budget mein\n**Pepe Jeans > Levi's (sale) > Spykar > Wrangler > Jack & Jones**\n\n**Ek important tip:** Brand se zyada **fit** matter karta hai. Agar ek hi jeans leni hai, to **dark blue, mid-rise, straight/regular fit, minimal fading** lo — sabse versatile rahegi.\n\nAgar tum **apni height, weight aur waist size (jaise 32/34)** bata do, main tumhare body type ke hisaab se **₹2,000 ke andar 5 exact jeans** choose karke de sakta hoon.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Top 5 Levis Jeans for Men Under 2000 - NDTV Shopping",
+          "snippet": null,
+          "domain": "www.ndtvshopping.com",
+          "url": "https://www.ndtvshopping.com/fashion/top-levis-jeans-for-men-under-2000-9201855?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "NDTV Shopping",
+          "publication_date": "2025-08-31 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 4,
+  "promptText": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+  "cellId": "S02_hg_gemini_r4",
+  "startedAt": "2026-08-14T12:35:24.866Z",
+  "finishedAt": "2026-08-14T12:36:00.897Z",
+  "durationMs": 36031,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Agar aapko Indian skin tone ke liye aisa sunscreen chahiye jo bilkul **white cast na chhode**, skin mein easily absorb ho jaye, aur chipchipa (greasy) na lage, toh kuch behtareen options yeh rahe hain:\n\n---\n\n### Top Sunscreens (No White Cast)\n\n* **Derma Co 1% Hyaluronic Tinted Sunscreen / Ultra Matte Sunscreen**\n  *   * **SPF/PA Rating:** SPF 50 PA++++\n  * **Kyun kharidein:** Yeh skin par ekdum lightweight hai. Agar aapko halka sa tint chahiye jo skin tone ko even karde, toh tinted version best hai; nahi toh inka regular ultra-matte gel bhi bina white cast ke aaram se blend ho jata hai.\n* **Fixderma Shadow SPF 50+ Gel**\n  *   * **SPF/PA Rating:** SPF 50+ / PA+++\n  * **Kyun kharidein:** Yeh dermatologists dwara kafi recommend kiya jata hai. Iska water-based gel formula hai jo oily aur combination skin par bina kisi white cast ke turant absorb ho jata hai.\n* **Minimalist Light Fluid Sunscreen SPF 50**\n  *   * **SPF/PA Rating:** SPF 50 PA++++\n  * **Kyun kharidein:** Yeh ekdum paani jaisa patla (fluid) formula hai. Lagane ke baad bilkul pata nahi chalta ki kuch lagaya hai aur koi white cast nahi chhodta.\n* **Aqualogica Glow+ Dewy Sunscreen**\n  *   * **SPF/PA Rating:** SPF 50+ PA++++\n  * **Kyun kharidein:** Yeh dry aur normal skin ke liye bohot accha hai. Yeh chehre par ek natural dewy glow deta hai aur bina white cast ke blend ho jata hai.\n* **Re'equil Ultra Matte Dry Touch Sunscreen Gel**\n  *   * **SPF/PA Rating:** SPF 50 PA++++\n  * **Kyun kharidein:** Agar aapki skin oily hai aur aapko sweat-proof/water-resistant sunscreen chahiye, toh yeh sabse best hai. Yeh velvety matte finish deta hai aur white cast ka koi sawal hi nahi hai.\n\n---\n\n### Sahi Sunscreen Chunne ke Kuch Tips:\n\n1.  **Skin Type Dekhein:** Oily skin ke liye **gel-based** ya **matte** sunscreens chunen (jaise Re'equil ya Fixderma), aur dry skin ke liye **hydrating/dewy** formulas (jaise Aqualogica) behtar hain.\n2.  **Quantity:** Sunscreen hamesha 2 finger rule (apni index aur middle finger ki lambai tak) ke hisab se lagayein taaki poori protection mile.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "35.7689 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141235-2163-0629-0000-4e85725efe16",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "35.7547 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:35:45 +00:00",
+      "markdown": "Agar aapko Indian skin tone ke liye aisa sunscreen chahiye jo bilkul **white cast na chhode**, skin mein easily absorb ho jaye, aur chipchipa (greasy) na lage, toh kuch behtareen options yeh rahe hain:\n\n---\n\n### Top Sunscreens (No White Cast)\n\n* **Derma Co 1% Hyaluronic Tinted Sunscreen / Ultra Matte Sunscreen**\n  *   * **SPF/PA Rating:** SPF 50 PA++++\n  * **Kyun kharidein:** Yeh skin par ekdum lightweight hai. Agar aapko halka sa tint chahiye jo skin tone ko even karde, toh tinted version best hai; nahi toh inka regular ultra-matte gel bhi bina white cast ke aaram se blend ho jata hai.\n* **Fixderma Shadow SPF 50+ Gel**\n  *   * **SPF/PA Rating:** SPF 50+ / PA+++\n  * **Kyun kharidein:** Yeh dermatologists dwara kafi recommend kiya jata hai. Iska water-based gel formula hai jo oily aur combination skin par bina kisi white cast ke turant absorb ho jata hai.\n* **Minimalist Light Fluid Sunscreen SPF 50**\n  *   * **SPF/PA Rating:** SPF 50 PA++++\n  * **Kyun kharidein:** Yeh ekdum paani jaisa patla (fluid) formula hai. Lagane ke baad bilkul pata nahi chalta ki kuch lagaya hai aur koi white cast nahi chhodta.\n* **Aqualogica Glow+ Dewy Sunscreen**\n  *   * **SPF/PA Rating:** SPF 50+ PA++++\n  * **Kyun kharidein:** Yeh dry aur normal skin ke liye bohot accha hai. Yeh chehre par ek natural dewy glow deta hai aur bina white cast ke blend ho jata hai.\n* **Re'equil Ultra Matte Dry Touch Sunscreen Gel**\n  *   * **SPF/PA Rating:** SPF 50 PA++++\n  * **Kyun kharidein:** Agar aapki skin oily hai aur aapko sweat-proof/water-resistant sunscreen chahiye, toh yeh sabse best hai. Yeh velvety matte finish deta hai aur white cast ka koi sawal hi nahi hai.\n\n---\n\n### Sahi Sunscreen Chunne ke Kuch Tips:\n\n1.  **Skin Type Dekhein:** Oily skin ke liye **gel-based** ya **matte** sunscreens chunen (jaise Re'equil ya Fixderma), aur dry skin ke liye **hydrating/dewy** formulas (jaise Aqualogica) behtar hain.\n2.  **Quantity:** Sunscreen hamesha 2 finger rule (apni index aur middle finger ki lambai tak) ke hisab se lagayein taaki poori protection mile.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 5,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Agar aapko Indian skin tone ke liye aisa sunscreen chahiye jo bilkul **white cast na chhode**, skin mein easily absorb ho jaye, aur chipchipa (greasy) na lage, toh kuch behtareen options yeh rahe hain:",
+        "original_text": "Agar aapko Indian skin tone ke liye aisa sunscreen chahiye jo bilkul white cast na chhode, skin mein easily absorb ho jaye, aur chipchipa (greasy) na lage, toh kuch behtareen options yeh rahe hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### Top Sunscreens (No White Cast)",
+        "original_text": "Top Sunscreens (No White Cast)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Derma Co 1% Hyaluronic Tinted Sunscreen / Ultra Matte Sunscreen**\n  *   * **SPF/PA Rating:** SPF 50 PA++++\n  * **Kyun kharidein:** Yeh skin par ekdum lightweight hai. Agar aapko halka sa tint chahiye jo skin tone ko even karde, toh tinted version best hai; nahi toh inka regular ultra-matte gel bhi bina white cast ke aaram se blend ho jata hai.\n* **Fixderma Shadow SPF 50+ Gel**\n  *   * **SPF/PA Rating:** SPF 50+ / PA+++\n  * **Kyun kharidein:** Yeh dermatologists dwara kafi recommend kiya jata hai. Iska water-based gel formula hai jo oily aur combination skin par bina kisi white cast ke turant absorb ho jata hai.\n* **Minimalist Light Fluid Sunscreen SPF 50**\n  *   * **SPF/PA Rating:** SPF 50 PA++++\n  * **Kyun kharidein:** Yeh ekdum paani jaisa patla (fluid) formula hai. Lagane ke baad bilkul pata nahi chalta ki kuch lagaya hai aur koi white cast nahi chhodta.\n* **Aqualogica Glow+ Dewy Sunscreen**\n  *   * **SPF/PA Rating:** SPF 50+ PA++++\n  * **Kyun kharidein:** Yeh dry aur normal skin ke liye bohot accha hai. Yeh chehre par ek natural dewy glow deta hai aur bina white cast ke blend ho jata hai.\n* **Re'equil Ultra Matte Dry Touch Sunscreen Gel**\n  *   * **SPF/PA Rating:** SPF 50 PA++++\n  * **Kyun kharidein:** Agar aapki skin oily hai aur aapko sweat-proof/water-resistant sunscreen chahiye, toh yeh sabse best hai. Yeh velvety matte finish deta hai aur white cast ka koi sawal hi nahi hai.",
+        "original_text": "Derma Co 1% Hyaluronic Tinted Sunscreen / Ultra Matte Sunscreen\nSPF/PA Rating: SPF 50 PA++++\nKyun kharidein: Yeh skin par ekdum lightweight hai. Agar aapko halka sa tint chahiye jo skin tone ko even karde, toh tinted version best hai; nahi toh inka regular ultra-matte gel bhi bina white cast ke aaram se blend ho jata hai.\nFixderma Shadow SPF 50+ Gel\nSPF/PA Rating: SPF 50+ / PA+++\nKyun kharidein: Yeh dermatologists dwara kafi recommend kiya jata hai. Iska water-based gel formula hai jo oily aur combination skin par bina kisi white cast ke turant absorb ho jata hai.\nMinimalist Light Fluid Sunscreen SPF 50\nSPF/PA Rating: SPF 50 PA++++\nKyun kharidein: Yeh ekdum paani jaisa patla (fluid) formula hai. Lagane ke baad bilkul pata nahi chalta ki kuch lagaya hai aur koi white cast nahi chhodta.\nAqualogica Glow+ Dewy Sunscreen\nSPF/PA Rating: SPF 50+ PA++++\nKyun kharidein: Yeh dry aur normal skin ke liye bohot accha hai. Yeh chehre par ek natural dewy glow deta hai aur bina white cast ke blend ho jata hai.\nRe'equil Ultra Matte Dry Touch Sunscreen Gel\nSPF/PA Rating: SPF 50 PA++++\nKyun kharidein: Agar aapki skin oily hai aur aapko sweat-proof/water-resistant sunscreen chahiye, toh yeh sabse best hai. Yeh velvety matte finish deta hai aur white cast ka koi sawal hi nahi hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### Sahi Sunscreen Chunne ke Kuch Tips:",
+        "original_text": "Sahi Sunscreen Chunne ke Kuch Tips:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "1.  **Skin Type Dekhein:** Oily skin ke liye **gel-based** ya **matte** sunscreens chunen (jaise Re'equil ya Fixderma), aur dry skin ke liye **hydrating/dewy** formulas (jaise Aqualogica) behtar hain.\n2.  **Quantity:** Sunscreen hamesha 2 finger rule (apni index aur middle finger ki lambai tak) ke hisab se lagayein taaki poori protection mile.",
+        "original_text": "Skin Type Dekhein: Oily skin ke liye gel-based ya matte sunscreens chunen (jaise Re'equil ya Fixderma), aur dry skin ke liye hydrating/dewy formulas (jaise Aqualogica) behtar hain.\nQuantity: Sunscreen hamesha 2 finger rule (apni index aur middle finger ki lambai tak) ke hisab se lagayein taaki poori protection mile.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

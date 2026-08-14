@@ -1,0 +1,168 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S03",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 2,
+  "promptText": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+  "cellId": "S03_hg_gemini_r2",
+  "startedAt": "2026-08-14T12:51:54.006Z",
+  "finishedAt": "2026-08-14T12:52:11.989Z",
+  "durationMs": 17983,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Bharat mein dark spots aur dull skin ke liye kai acche aur effective Vitamin C serums available hain. Aap apni skin type aur budget ke hisaab se niche diye gaye options mein se chun sakte hain:\n\n---\n\n### 1. Best Overall & Dermatologist Recommended\n\n* **Kojic Acid & Vitamin C Serum (Minimalist 10% Vitamin C ya The Derma Co 10% Vitamin C)**\n  *   * **Fayde:** Yeh skin ko bright banate hain, pigmentation aur dark spots ko kam karte hain. Minimalist ka serum sensitive skin ke liye bhi accha hai kyunki isme Centella water hota hai jo skin ko calm rakhta hai.\n  * **Skin Type:** Sabhi skin types ke liye (sensitive ke liye patch test zaroor karein).\n\n### 2. Best for Beginners (Gentle Formula)\n\n* **Plum 15% Vitamin C Face Serum**\n  *   * **Fayde:** Isme Ethyl Ascorbic Acid hota hai jo stable hota hai aur jaldi oxidize nahi hota. Sath hi isme Kakadu plum aur Mandarin orange extract hain jo dull skin ko instant glow dete hain.\n  * **Skin Type:** Normal, dry, aur combination skin.\n\n### 3. Best Budget-Friendly Option\n\n* **Garnier Bright Complete 30% Vitamin C Booster Serum**\n  *   * **Fayde:** Yeh pocket-friendly hai aur dark spots ko fade karne mein kaafi tez asar dikhata hai. Isme Lemon Yuzu extracts hote hain.\n  * **Skin Type:** Oily aur Normal skin.\n\n### 4. Best for Advanced Pigmentation\n\n* **Deconstruct 10% Vitamin C + 0.5% Ferulic Acid**\n  *   * **Fayde:** Ferulic Acid Vitamin C ki power ko badha deta hai, jisse stubborn dark spots aur sun damage jaldi theek hote hain.\n\n---\n\n### Khareedte aur Lagate Waqt In Baaton Ka Dhyan Rakhein:\n\n* **Patch Test:** Naya serum use karne se pehle kohni (elbow) ya kaan ke piche thoda sa laga kar 24 ghante check kar lein ki koi allergy toh nahi ho rahi.\n* **Storage:** Vitamin C serums ko thandi aur andheri jagah par rakhein (kuch serums ko fridge mein bhi rakh sakte hain) taaki woh jaldi kharab (oxidize) na hon.\n* **Sunscreen:** Subah Vitamin C lagane ke baad **Sunscreen (SPF 30 ya usse zyada)** lagana bilkul na bhulein, warna dhoop se skin aur dark ho sakti hai.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "17.7594 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141251-2163-0629-0000-d90424d63373",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "17.5191 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 12:52:10 +00:00",
+      "markdown": "Bharat mein dark spots aur dull skin ke liye kai acche aur effective Vitamin C serums available hain. Aap apni skin type aur budget ke hisaab se niche diye gaye options mein se chun sakte hain:\n\n---\n\n### 1. Best Overall & Dermatologist Recommended\n\n* **Kojic Acid & Vitamin C Serum (Minimalist 10% Vitamin C ya The Derma Co 10% Vitamin C)**\n  *   * **Fayde:** Yeh skin ko bright banate hain, pigmentation aur dark spots ko kam karte hain. Minimalist ka serum sensitive skin ke liye bhi accha hai kyunki isme Centella water hota hai jo skin ko calm rakhta hai.\n  * **Skin Type:** Sabhi skin types ke liye (sensitive ke liye patch test zaroor karein).\n\n### 2. Best for Beginners (Gentle Formula)\n\n* **Plum 15% Vitamin C Face Serum**\n  *   * **Fayde:** Isme Ethyl Ascorbic Acid hota hai jo stable hota hai aur jaldi oxidize nahi hota. Sath hi isme Kakadu plum aur Mandarin orange extract hain jo dull skin ko instant glow dete hain.\n  * **Skin Type:** Normal, dry, aur combination skin.\n\n### 3. Best Budget-Friendly Option\n\n* **Garnier Bright Complete 30% Vitamin C Booster Serum**\n  *   * **Fayde:** Yeh pocket-friendly hai aur dark spots ko fade karne mein kaafi tez asar dikhata hai. Isme Lemon Yuzu extracts hote hain.\n  * **Skin Type:** Oily aur Normal skin.\n\n### 4. Best for Advanced Pigmentation\n\n* **Deconstruct 10% Vitamin C + 0.5% Ferulic Acid**\n  *   * **Fayde:** Ferulic Acid Vitamin C ki power ko badha deta hai, jisse stubborn dark spots aur sun damage jaldi theek hote hain.\n\n---\n\n### Khareedte aur Lagate Waqt In Baaton Ka Dhyan Rakhein:\n\n* **Patch Test:** Naya serum use karne se pehle kohni (elbow) ya kaan ke piche thoda sa laga kar 24 ghante check kar lein ki koi allergy toh nahi ho rahi.\n* **Storage:** Vitamin C serums ko thandi aur andheri jagah par rakhein (kuch serums ko fridge mein bhi rakh sakte hain) taaki woh jaldi kharab (oxidize) na hon.\n* **Sunscreen:** Subah Vitamin C lagane ke baad **Sunscreen (SPF 30 ya usse zyada)** lagana bilkul na bhulein, warna dhoop se skin aur dark ho sakti hai.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 11,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Bharat mein dark spots aur dull skin ke liye kai acche aur effective Vitamin C serums available hain. Aap apni skin type aur budget ke hisaab se niche diye gaye options mein se chun sakte hain:",
+        "original_text": "Bharat mein dark spots aur dull skin ke liye kai acche aur effective Vitamin C serums available hain. Aap apni skin type aur budget ke hisaab se niche diye gaye options mein se chun sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### 1. Best Overall & Dermatologist Recommended",
+        "original_text": "1. Best Overall & Dermatologist Recommended",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Kojic Acid & Vitamin C Serum (Minimalist 10% Vitamin C ya The Derma Co 10% Vitamin C)**\n  *   * **Fayde:** Yeh skin ko bright banate hain, pigmentation aur dark spots ko kam karte hain. Minimalist ka serum sensitive skin ke liye bhi accha hai kyunki isme Centella water hota hai jo skin ko calm rakhta hai.\n  * **Skin Type:** Sabhi skin types ke liye (sensitive ke liye patch test zaroor karein).",
+        "original_text": "Kojic Acid & Vitamin C Serum (Minimalist 10% Vitamin C ya The Derma Co 10% Vitamin C)\nFayde: Yeh skin ko bright banate hain, pigmentation aur dark spots ko kam karte hain. Minimalist ka serum sensitive skin ke liye bhi accha hai kyunki isme Centella water hota hai jo skin ko calm rakhta hai.\nSkin Type: Sabhi skin types ke liye (sensitive ke liye patch test zaroor karein).",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### 2. Best for Beginners (Gentle Formula)",
+        "original_text": "2. Best for Beginners (Gentle Formula)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "* **Plum 15% Vitamin C Face Serum**\n  *   * **Fayde:** Isme Ethyl Ascorbic Acid hota hai jo stable hota hai aur jaldi oxidize nahi hota. Sath hi isme Kakadu plum aur Mandarin orange extract hain jo dull skin ko instant glow dete hain.\n  * **Skin Type:** Normal, dry, aur combination skin.",
+        "original_text": "Plum 15% Vitamin C Face Serum\nFayde: Isme Ethyl Ascorbic Acid hota hai jo stable hota hai aur jaldi oxidize nahi hota. Sath hi isme Kakadu plum aur Mandarin orange extract hain jo dull skin ko instant glow dete hain.\nSkin Type: Normal, dry, aur combination skin.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "### 3. Best Budget-Friendly Option",
+        "original_text": "3. Best Budget-Friendly Option",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **Garnier Bright Complete 30% Vitamin C Booster Serum**\n  *   * **Fayde:** Yeh pocket-friendly hai aur dark spots ko fade karne mein kaafi tez asar dikhata hai. Isme Lemon Yuzu extracts hote hain.\n  * **Skin Type:** Oily aur Normal skin.",
+        "original_text": "Garnier Bright Complete 30% Vitamin C Booster Serum\nFayde: Yeh pocket-friendly hai aur dark spots ko fade karne mein kaafi tez asar dikhata hai. Isme Lemon Yuzu extracts hote hain.\nSkin Type: Oily aur Normal skin.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### 4. Best for Advanced Pigmentation",
+        "original_text": "4. Best for Advanced Pigmentation",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "* **Deconstruct 10% Vitamin C + 0.5% Ferulic Acid**\n  *   * **Fayde:** Ferulic Acid Vitamin C ki power ko badha deta hai, jisse stubborn dark spots aur sun damage jaldi theek hote hain.",
+        "original_text": "Deconstruct 10% Vitamin C + 0.5% Ferulic Acid\nFayde: Ferulic Acid Vitamin C ki power ko badha deta hai, jisse stubborn dark spots aur sun damage jaldi theek hote hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "### Khareedte aur Lagate Waqt In Baaton Ka Dhyan Rakhein:",
+        "original_text": "Khareedte aur Lagate Waqt In Baaton Ka Dhyan Rakhein:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "* **Patch Test:** Naya serum use karne se pehle kohni (elbow) ya kaan ke piche thoda sa laga kar 24 ghante check kar lein ki koi allergy toh nahi ho rahi.\n* **Storage:** Vitamin C serums ko thandi aur andheri jagah par rakhein (kuch serums ko fridge mein bhi rakh sakte hain) taaki woh jaldi kharab (oxidize) na hon.\n* **Sunscreen:** Subah Vitamin C lagane ke baad **Sunscreen (SPF 30 ya usse zyada)** lagana bilkul na bhulein, warna dhoop se skin aur dark ho sakti hai.",
+        "original_text": "Patch Test: Naya serum use karne se pehle kohni (elbow) ya kaan ke piche thoda sa laga kar 24 ghante check kar lein ki koi allergy toh nahi ho rahi.\nStorage: Vitamin C serums ko thandi aur andheri jagah par rakhein (kuch serums ko fridge mein bhi rakh sakte hain) taaki woh jaldi kharab (oxidize) na hon.\nSunscreen: Subah Vitamin C lagane ke baad Sunscreen (SPF 30 ya usse zyada) lagana bilkul na bhulein, warna dhoop se skin aur dark ho sakti hai.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

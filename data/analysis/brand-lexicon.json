@@ -1,0 +1,835 @@
+{
+ "version": "1.1",
+ "curation_rules": [
+  "1. PRODUCT BRANDS ONLY. Retailers/marketplaces (Amazon, Flipkart, Nykaa, Myntra, Ajio, Purplle, Meesho, Tata Cliq, Blinkit, Zepto, Decathlon-as-retailer) are excluded; they are tracked separately via citations. EXCEPTION: marketplace house brands that are product brands (Roadster, Sangria, Anouk, Mast & Harbour, HRX, Dressberry etc.) are included. Decathlon is included as a product brand for its own-brand shoes, canonical 'Decathlon' with aliases ['Kalenji', 'Jogflow', 'Decathlon Jogflow'].",
+  "2. Product lines are grouped under the parent brand ('Plum Green Tea Pore' -> Plum; 'Nike Run Defy' -> Nike; 'CeraVe Moisturising Cream' / 'CeraVe Moisturizing Cream' -> CeraVe). Aliases include every observed surface form and spelling variant of the brand name (Levi's / Levi / Levis; Dot & Key / Dot and Key; straight and curly apostrophe forms).",
+  "3. Generic, ingredient, and junk strings are excluded: ingredients ('Vitamin C', 'Ethyl Ascorbic Acid'), section headers ('Key Ingredients', 'Why it works', 'Best overall'), pronouns, Hinglish function words ('Meri', 'Kyun', 'Halanki'), fabric types ('Banarasi', 'Georgette', 'Chanderi', 'Organza', 'Kanjivaram'), and unattributable fragments ('Macs', 'Krooley', 'Kano Tapered', 'Skinn', 'Cinamide', 'Sali').",
+  "4. india_origin: true for brands founded/headquartered in India. Louis Philippe, Van Heusen, Allen Solly, Peter England are Indian-owned via ABFRL and marked india_origin true; Van Heusen carries note 'abfrl_licensed' because the name is internationally licensed (PVH) but operated by an Indian company, the others are ABFRL-owned outright. CeraVe, Cetaphil, Neutrogena, Nike, Puma, Adidas, Skechers, Levi's, Wrangler, Lee, Zara, H&M are NOT India-origin. Ambiguous origins were verified with web search and carry a 'verified_via' URL.",
+  "5. Alias safety: matching is case-insensitive word-boundary regex, so no alias may be a common English/Hindi word without a flag. 'W' is matched ONLY via aliases 'W for Woman' / 'W for Women', never bare 'W'. Other risky bare forms (Arrow, Plum, Simple, Soch, Lee, Libas, Minimalist, Pilgrim, Deconstruct, Hyphen, The Ordinary, Mufti, Killer, Zodiac, Numero Uno, Highlander, Roadster, Sangria, Campus, Asian, Bata, Red Tape, Snitch, Kalki, Banarasee) are kept but carry 'risky_alias': true so matches get spot-checked.",
+  "6. The ENTIRE candidates file was worked through, not just the top: every candidate with responses >= 2 that is a real product brand appears. Single-response-only candidates (Suta, Nivia, Venusia, Novology, Gabit, Cult.sport, New Balance, Bene Kleed, Glitchez, SIRIL, Sidhidata, MANNAT MAkers, Yashika, Tarangini, Trendia, Maybell, The Loom) were left out. Multi-brand retailers observed in answers (Jaypore, Pernia's Pop-Up Shop, Ensemble, Saree.com, Nykaa Fashion) are excluded per rule 1.",
+  "7. Every brand has category: 'skincare' | 'fashion' | 'both'.",
+  "v1.1 (verification-driven, see METHODOLOGY.md deviations log): entries may carry context_regex (brand match counts only if the context pattern appears within 80 characters) or exclude_following (negative lookahead after the brand name). Applied to Simple, Asian, Lee after the adversarial risky-alias audit."
+ ],
+ "brands": [
+  {
+   "canonical": "Minimalist",
+   "aliases": [
+    "Be Minimalist"
+   ],
+   "india_origin": true,
+   "category": "skincare",
+   "risky_alias": true
+  },
+  {
+   "canonical": "The Derma Co",
+   "aliases": [
+    "The Derma Co.",
+    "Derma Co"
+   ],
+   "india_origin": true,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Plum",
+   "aliases": [],
+   "india_origin": true,
+   "category": "skincare",
+   "risky_alias": true,
+   "note": "Common English word; also matches inside ingredient 'Kakadu Plum' - spot-check matches"
+  },
+  {
+   "canonical": "Dot & Key",
+   "aliases": [
+    "Dot and Key"
+   ],
+   "india_origin": true,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Pilgrim",
+   "aliases": [],
+   "india_origin": true,
+   "category": "skincare",
+   "risky_alias": true,
+   "verified_via": "https://tracxn.com/d/companies/pilgrim/__E07z1FauxS065CG7fvDMqwBjI6Bx_3KgKfoNYsWbn48",
+   "note": "Heavenly Secrets Pvt Ltd, Mumbai, founded 2019"
+  },
+  {
+   "canonical": "Foxtale",
+   "aliases": [],
+   "india_origin": true,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Deconstruct",
+   "aliases": [],
+   "india_origin": true,
+   "category": "skincare",
+   "risky_alias": true
+  },
+  {
+   "canonical": "Aqualogica",
+   "aliases": [],
+   "india_origin": true,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Fixderma",
+   "aliases": [],
+   "india_origin": true,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Re'equil",
+   "aliases": [
+    "Re’equil",
+    "Reequil"
+   ],
+   "india_origin": true,
+   "category": "skincare"
+  },
+  {
+   "canonical": "WishCare",
+   "aliases": [],
+   "india_origin": true,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Chemist At Play",
+   "aliases": [],
+   "india_origin": true,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Hyphen",
+   "aliases": [],
+   "india_origin": true,
+   "category": "skincare",
+   "risky_alias": true
+  },
+  {
+   "canonical": "Myupchar",
+   "aliases": [],
+   "india_origin": true,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Saslic",
+   "aliases": [],
+   "india_origin": true,
+   "category": "skincare",
+   "note": "Cipla pharma cleanser brand"
+  },
+  {
+   "canonical": "Biotique",
+   "aliases": [],
+   "india_origin": true,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Emolene",
+   "aliases": [],
+   "india_origin": true,
+   "category": "skincare",
+   "verified_via": "https://www.practo.com/health-products/emolene-cream-14621/p",
+   "note": "Fulford (India) Ltd pharma emollient brand"
+  },
+  {
+   "canonical": "Asaya",
+   "aliases": [],
+   "india_origin": true,
+   "category": "skincare",
+   "verified_via": "https://worldofasaya.com/",
+   "note": "Indian melanin-rich skincare brand founded 2023 (Neeraj Biyani et al.)"
+  },
+  {
+   "canonical": "CeraVe",
+   "aliases": [],
+   "india_origin": false,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Cetaphil",
+   "aliases": [],
+   "india_origin": false,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Neutrogena",
+   "aliases": [],
+   "india_origin": false,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Nivea",
+   "aliases": [],
+   "india_origin": false,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Pond's",
+   "aliases": [
+    "Ponds",
+    "Pond’s"
+   ],
+   "india_origin": false,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Vaseline",
+   "aliases": [],
+   "india_origin": false,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Garnier",
+   "aliases": [],
+   "india_origin": false,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Simple",
+   "aliases": [],
+   "india_origin": false,
+   "category": "skincare",
+   "risky_alias": true,
+   "context_regex": "(skin|cleanser|face|facial|kind|refreshing|micellar|moistur|wash)",
+   "note": "v1.1: context_regex added after verification audit found 35% false positives (generic adjective); brand counts only within 80 chars of a skincare product word."
+  },
+  {
+   "canonical": "Bioderma",
+   "aliases": [],
+   "india_origin": false,
+   "category": "skincare"
+  },
+  {
+   "canonical": "La Roche-Posay",
+   "aliases": [
+    "La Roche Posay",
+    "La Roche"
+   ],
+   "india_origin": false,
+   "category": "skincare"
+  },
+  {
+   "canonical": "The Ordinary",
+   "aliases": [],
+   "india_origin": false,
+   "category": "skincare",
+   "risky_alias": true
+  },
+  {
+   "canonical": "Supergoop",
+   "aliases": [
+    "Supergoop!"
+   ],
+   "india_origin": false,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Kiehl's",
+   "aliases": [
+    "Kiehls",
+    "Kiehl’s"
+   ],
+   "india_origin": false,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Aveeno",
+   "aliases": [],
+   "india_origin": false,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Physiogel",
+   "aliases": [],
+   "india_origin": false,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Isntree",
+   "aliases": [],
+   "india_origin": false,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Canmake",
+   "aliases": [],
+   "india_origin": false,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Beauty of Joseon",
+   "aliases": [
+    "Joseon"
+   ],
+   "india_origin": false,
+   "category": "skincare"
+  },
+  {
+   "canonical": "Libas",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "risky_alias": true,
+   "note": "'libas' is a Hindi/Urdu word for clothing - spot-check Hinglish matches"
+  },
+  {
+   "canonical": "BIBA",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Aurelia",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "TCNS Clothing brand, now ABFRL-owned"
+  },
+  {
+   "canonical": "W",
+   "aliases": [
+    "W for Woman",
+    "W for Women"
+   ],
+   "india_origin": true,
+   "category": "fashion",
+   "risky_alias": true,
+   "note": "Match aliases only; NEVER match bare 'W' (rule 5). TCNS brand, now ABFRL-owned"
+  },
+  {
+   "canonical": "Indya",
+   "aliases": [
+    "House of Indya"
+   ],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Global Desi",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "House of Anita Dongre brand"
+  },
+  {
+   "canonical": "Fabindia",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Soch",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "risky_alias": true,
+   "verified_via": "https://www.soch.com/in/about-us",
+   "note": "Soch Apparels, Bengaluru, founded 2005; 'soch' is a common Hindi word"
+  },
+  {
+   "canonical": "Koskii",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "verified_via": "https://www.koskii.com/pages/about-us",
+   "note": "Bengaluru occasion-wear brand, founded 2017"
+  },
+  {
+   "canonical": "Aachho",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "verified_via": "https://www.aachho.com/pages/about-us",
+   "note": "Jaipur ethnic wear brand, founded 2018"
+  },
+  {
+   "canonical": "Jaipur Kurti",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Janasya",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Anayna",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "verified_via": "https://anayna.com/",
+   "note": "H & S Studio LLP, Jaipur; women's ethnic label sold on Amazon"
+  },
+  {
+   "canonical": "Varanga",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Rangriti",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "BIBA Apparels sister brand"
+  },
+  {
+   "canonical": "Lakshita",
+   "aliases": [
+    "Nayam"
+   ],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "'Nayam' is Lakshita's sub-brand line"
+  },
+  {
+   "canonical": "Sangria",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "risky_alias": true,
+   "note": "Myntra house brand; 'sangria' is a common English word"
+  },
+  {
+   "canonical": "Anouk",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "Myntra house brand"
+  },
+  {
+   "canonical": "Mast & Harbour",
+   "aliases": [
+    "Mast and Harbour"
+   ],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "Myntra house brand"
+  },
+  {
+   "canonical": "Taneira",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "Titan (Tata) saree brand"
+  },
+  {
+   "canonical": "Nalli",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "Heritage saree house; sarees sold under own brand name"
+  },
+  {
+   "canonical": "Kankatala",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "Heritage saree house; sarees sold under own brand name"
+  },
+  {
+   "canonical": "Kalki Fashion",
+   "aliases": [
+    "Kalki"
+   ],
+   "india_origin": true,
+   "category": "fashion",
+   "risky_alias": true,
+   "note": "Bare 'Kalki' alias can false-positive (name/film) - spot-check"
+  },
+  {
+   "canonical": "Utsav Fashion",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "Own-label ethnic wear e-store; included as product brand"
+  },
+  {
+   "canonical": "Mohi Fashion",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Sudathi",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Vastranand",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "IndiSangam",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Amrut Fashion",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Karagiri",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "Low frequency; appeared only inside compound candidates - spot-check"
+  },
+  {
+   "canonical": "Ethnic Junction",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "KanchiVML",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "SWORNOF",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "Low frequency; appeared only inside product-name candidates - spot-check"
+  },
+  {
+   "canonical": "Banarasee",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "risky_alias": true,
+   "note": "Brand name is also a spelling variant of the fabric term 'Banarasi' - spot-check matches"
+  },
+  {
+   "canonical": "Manyavar",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "Vedant Fashions"
+  },
+  {
+   "canonical": "Mohey",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "Vedant Fashions women's line (sister brand of Manyavar)"
+  },
+  {
+   "canonical": "Louis Philippe",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "abfrl_owned"
+  },
+  {
+   "canonical": "Van Heusen",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "abfrl_licensed - name internationally licensed (PVH) but operated by Indian company ABFRL"
+  },
+  {
+   "canonical": "Allen Solly",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "abfrl_owned"
+  },
+  {
+   "canonical": "Peter England",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "abfrl_owned"
+  },
+  {
+   "canonical": "Raymond",
+   "aliases": [
+    "Raymonds"
+   ],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Park Avenue",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "Raymond Group brand"
+  },
+  {
+   "canonical": "Blackberrys",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Zodiac",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "risky_alias": true
+  },
+  {
+   "canonical": "Indian Terrain",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "The Formal Club",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "verified_via": "https://theformalclub.in/pages/our-story",
+   "note": "Homegrown Indian D2C formal wear brand"
+  },
+  {
+   "canonical": "Mufti",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "risky_alias": true,
+   "note": "'mufti' is a common English/Hindi word (civilian dress)"
+  },
+  {
+   "canonical": "Spykar",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Numero Uno",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "risky_alias": true,
+   "note": "'numero uno' is a common phrase in Indian English prose"
+  },
+  {
+   "canonical": "Flying Machine",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "Arvind brand"
+  },
+  {
+   "canonical": "Killer",
+   "aliases": [
+    "Killer Jeans"
+   ],
+   "india_origin": true,
+   "category": "fashion",
+   "risky_alias": true,
+   "note": "Kewal Kiran Clothing brand; bare 'killer' is a common word"
+  },
+  {
+   "canonical": "Highlander",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "risky_alias": true,
+   "verified_via": "https://www.linkedin.com/company/highlander-apparel-company-ltd",
+   "note": "Brand Studio Lifestyle Pvt Ltd (Bengaluru), sold mainly via Myntra; not a Myntra house brand"
+  },
+  {
+   "canonical": "Roadster",
+   "aliases": [
+    "The Roadster Life Co"
+   ],
+   "india_origin": true,
+   "category": "fashion",
+   "risky_alias": true,
+   "note": "Myntra house brand; 'roadster' is a common noun"
+  },
+  {
+   "canonical": "Urbano Fashion",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Snitch",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "risky_alias": true,
+   "verified_via": "https://tracxn.com/d/companies/snitch/__TbnI7R_gbKSAWiMi5rmBEYADmYRn73KScmjx-N0LNGU",
+   "note": "Bengaluru men's fast-fashion D2C brand; 'snitch' is a common word"
+  },
+  {
+   "canonical": "Levi's",
+   "aliases": [
+    "Levi",
+    "Levis",
+    "Levi’s"
+   ],
+   "india_origin": false,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Wrangler",
+   "aliases": [],
+   "india_origin": false,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Lee",
+   "aliases": [],
+   "india_origin": false,
+   "category": "fashion",
+   "risky_alias": true,
+   "note": "Common word/surname; also matches inside 'Lee Cooper' text - resolve longest-match first and spot-check v1.1: exclude_following added so Lee Cooper-only responses are not double-tagged as Lee.",
+   "exclude_following": "\\s+Cooper"
+  },
+  {
+   "canonical": "Lee Cooper",
+   "aliases": [],
+   "india_origin": false,
+   "category": "fashion",
+   "note": "Distinct brand from Lee; British origin, licensed in India"
+  },
+  {
+   "canonical": "Pepe Jeans",
+   "aliases": [
+    "Pepe"
+   ],
+   "india_origin": false,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Jack & Jones",
+   "aliases": [
+    "Jack and Jones"
+   ],
+   "india_origin": false,
+   "category": "fashion"
+  },
+  {
+   "canonical": "H&M",
+   "aliases": [
+    "H & M",
+    "H and M"
+   ],
+   "india_origin": false,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Celio",
+   "aliases": [],
+   "india_origin": false,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Arrow",
+   "aliases": [
+    "Arrow New York"
+   ],
+   "india_origin": false,
+   "category": "fashion",
+   "risky_alias": true,
+   "note": "US-origin brand licensed in India by Arvind Fashions; bare 'arrow' is a common word"
+  },
+  {
+   "canonical": "Nike",
+   "aliases": [],
+   "india_origin": false,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Puma",
+   "aliases": [],
+   "india_origin": false,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Adidas",
+   "aliases": [],
+   "india_origin": false,
+   "category": "fashion"
+  },
+  {
+   "canonical": "ASICS",
+   "aliases": [],
+   "india_origin": false,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Skechers",
+   "aliases": [],
+   "india_origin": false,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Reebok",
+   "aliases": [],
+   "india_origin": false,
+   "category": "fashion"
+  },
+  {
+   "canonical": "Campus",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "risky_alias": true,
+   "note": "Campus Activewear; 'campus' is a common word"
+  },
+  {
+   "canonical": "Sparx",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "note": "Relaxo brand"
+  },
+  {
+   "canonical": "Asian",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "risky_alias": true,
+   "note": "Asian Footwears; bare 'Asian' is a common word - spot-check all matches v1.1: context_regex added after verification audit found a phantom match in citation anchor text.",
+   "context_regex": "(shoe|sneaker|running|footwear|sports)"
+  },
+  {
+   "canonical": "Bata",
+   "aliases": [],
+   "india_origin": false,
+   "category": "fashion",
+   "risky_alias": true,
+   "note": "Czech-origin brand (Bata India is a listed Indian subsidiary); 'bata' is a common Hinglish word ('bata do') - spot-check all matches"
+  },
+  {
+   "canonical": "Red Tape",
+   "aliases": [],
+   "india_origin": true,
+   "category": "fashion",
+   "risky_alias": true,
+   "note": "Mirza International brand; 'red tape' is a common English phrase"
+  },
+  {
+   "canonical": "Decathlon",
+   "aliases": [
+    "Kalenji",
+    "Jogflow",
+    "Decathlon Jogflow",
+    "Kiprun"
+   ],
+   "india_origin": false,
+   "category": "fashion",
+   "note": "Included as product brand for own-brand shoes only (Kalenji/Jogflow/Kiprun); Decathlon-as-retailer tracked separately via citations"
+  }
+ ]
+}

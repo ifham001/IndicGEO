@@ -1,0 +1,306 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S05",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "perplexity",
+  "rep": 2,
+  "promptText": "Which serum should I buy for acne-prone skin in India under ₹700?",
+  "cellId": "S05_en_perplexity_r2",
+  "startedAt": "2026-08-14T12:55:23.956Z",
+  "finishedAt": "2026-08-14T12:55:27.506Z",
+  "durationMs": 3550,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "For **acne-prone skin in India under ₹700**, the safest single buy from your results is **Foxtale 12% Niacinamide Clarifying Serum**—it’s listed at **₹219**, ranked best overall in the provided acne-serum ranking, and is described as strong for **post-acne marks** and **oil control**.[1]\n\nIf your acne is more **active/pimple-prone** than mark-prone, a **salicylic acid** serum is often the better ingredient choice for oily acne-prone skin, while **niacinamide** is better for oil control and post-acne marks.[4][19] From the results you shared, other under-₹700 options that fit this category include **Plum Oil-Free Face Serum for Acne Marks** at **₹650** and **Dot & Key** acne-oriented serums, including a **10% Niacinamide + Cica** option and a **2% Salicylic Acid** option for oily/acne-prone skin.[10][13]\n\nIf you want the simplest recommendation:\n- **Best budget overall:** **Foxtale 12% Niacinamide Clarifying Serum**.[1]\n- **Best for active acne:** a **salicylic acid** serum.[13][19]\n- **Best for acne marks + oiliness:** a **niacinamide** serum.[1][4][20]\n\nIf you want, I can narrow this to the **best option for your skin type**—oily, sensitive, combination, or acne + marks.",
+  "citations": [
+   {
+    "url": "https://blog.flash.co/serum/top-10-acne-fighting-serums/",
+    "position": 1
+   },
+   {
+    "url": "https://www.nykaa.com/dp/acne-serum",
+    "position": 2
+   },
+   {
+    "url": "https://www.instagram.com/reel/DSH9gtfgTGB/",
+    "position": 3
+   },
+   {
+    "url": "https://www.belifindia.in/blogs/blog/niacinamide-serum-under-700-india",
+    "position": 4
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=f6LH1xTQklw",
+    "position": 5
+   },
+   {
+    "url": "https://thebeerbeauty.com/2025/06/27/best-budget-serums-for-men-under-700/",
+    "position": 6
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=o1uNgIt5QDU",
+    "position": 7
+   },
+   {
+    "url": "https://www.nykaa.com/beauty-blog/best-serums-for-acne-prone-skin",
+    "position": 8
+   },
+   {
+    "url": "https://www.dotandkey.com/collections/serums-oils",
+    "position": 9
+   },
+   {
+    "url": "https://www.bluenectar.co.in/products/vitamin-c-face-serum-for-oily-skin-acne-prone-skin",
+    "position": 10
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=9WPdlUFJSig",
+    "position": 11
+   },
+   {
+    "url": "https://www.amazon.in/Serums-Up-to-%E2%82%B9400-Creams-Moisturisers/s?rh=n:9530424031,p_36:-40000",
+    "position": 12
+   },
+   {
+    "url": "https://plumgoodness.com/collections/face-serums",
+    "position": 13
+   },
+   {
+    "url": "https://thebeautybinge.com/top-10-face-serum/",
+    "position": 14
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=qNvIoUf6lPE",
+    "position": 15
+   },
+   {
+    "url": "https://www.instagram.com/reel/DQsvvsukl2e/",
+    "position": 16
+   },
+   {
+    "url": "https://www.1mg.com/categories/health-conditions/acne-pimples-1186",
+    "position": 17
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=k-U5F_OvDS0",
+    "position": 18
+   },
+   {
+    "url": "https://smytten.com/blogs/skincare/7-best-acne-serums-in-india-for-clearer-skin",
+    "position": 19
+   },
+   {
+    "url": "https://smytten.com/blogs/skincare/7-best-affordable-brightening-serums-in-india",
+    "position": 20
+   }
+  ],
+  "costUsd": 0.005357
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.1874 sec.",
+  "cost": 0.005957,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141255-2163-0612-0000-23363b4de39d",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.1424 sec.",
+    "cost": 0.005957,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "Which serum should I buy for acne-prone skin in India under ₹700?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 23,
+      "output_tokens": 334,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005357,
+      "datetime": "2026-08-14 12:55:27 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "For **acne-prone skin in India under ₹700**, the safest single buy from your results is **Foxtale 12% Niacinamide Clarifying Serum**—it’s listed at **₹219**, ranked best overall in the provided acne-serum ranking, and is described as strong for **post-acne marks** and **oil control**.[1]\n\nIf your acne is more **active/pimple-prone** than mark-prone, a **salicylic acid** serum is often the better ingredient choice for oily acne-prone skin, while **niacinamide** is better for oil control and post-acne marks.[4][19] From the results you shared, other under-₹700 options that fit this category include **Plum Oil-Free Face Serum for Acne Marks** at **₹650** and **Dot & Key** acne-oriented serums, including a **10% Niacinamide + Cica** option and a **2% Salicylic Acid** option for oily/acne-prone skin.[10][13]\n\nIf you want the simplest recommendation:\n- **Best budget overall:** **Foxtale 12% Niacinamide Clarifying Serum**.[1]\n- **Best for active acne:** a **salicylic acid** serum.[13][19]\n- **Best for acne marks + oiliness:** a **niacinamide** serum.[1][4][20]\n\nIf you want, I can narrow this to the **best option for your skin type**—oily, sensitive, combination, or acne + marks.",
+          "annotations": [
+           {
+            "title": "Best Acne-Fighting Serums in India (2026) | Flash AI",
+            "url": "https://blog.flash.co/serum/top-10-acne-fighting-serums/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shop Acne Serum From Top Rated Brands At Upto 70% Off",
+            "url": "https://www.nykaa.com/dp/acne-serum",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "#unsponsored Comment link to get the links! Some of the best under ...",
+            "url": "https://www.instagram.com/reel/DSH9gtfgTGB/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "5 Best Niacinamide Serums Under ₹700 in India (2024)",
+            "url": "https://www.belifindia.in/blogs/blog/niacinamide-serum-under-700-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Affordable Face Serums for Dull Skin, Open Pores and Pigmentation",
+            "url": "https://www.youtube.com/watch?v=f6LH1xTQklw",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Budget Serums for Men Under ₹700 - THE BEER BEAUTY",
+            "url": "https://thebeerbeauty.com/2025/06/27/best-budget-serums-for-men-under-700/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "8 Underrated Skincare Products Under Rs 700 You Need To Know",
+            "url": "https://www.youtube.com/watch?v=o1uNgIt5QDU",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "12 Best Serums for Acne Prone Skin in India | Nykaa's Beauty Book",
+            "url": "https://www.nykaa.com/beauty-blog/best-serums-for-acne-prone-skin",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Best Face Serums Online in India by Dot & Key",
+            "url": "https://www.dotandkey.com/collections/serums-oils",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Plum Oil-Free Face Serum for Acne Marks (8 herbs, 30ml)",
+            "url": "https://www.bluenectar.co.in/products/vitamin-c-face-serum-for-oily-skin-acne-prone-skin",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "My Favourite Face Serums in India | Affordable Face Serums",
+            "url": "https://www.youtube.com/watch?v=9WPdlUFJSig",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "1-48 of over 4,000 results",
+            "url": "https://www.amazon.in/Serums-Up-to-%E2%82%B9400-Creams-Moisturisers/s?rh=n:9530424031,p_36:-40000",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Best Face Serums Online for All Skin Types in India",
+            "url": "https://plumgoodness.com/collections/face-serums",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 10 Face Serums in India: Which One Actually Works for ...",
+            "url": "https://thebeautybinge.com/top-10-face-serum/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 5 serums for face in india - YouTube",
+            "url": "https://www.youtube.com/watch?v=qNvIoUf6lPE",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "5 Dermatologist-Approved Acne Serums Under ₹800",
+            "url": "https://www.instagram.com/reel/DQsvvsukl2e/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Acne & Pimples - 1mg",
+            "url": "https://www.1mg.com/categories/health-conditions/acne-pimples-1186",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "MUST HAVE Products For Acne & Acne Prone Skin | Affordable Products For Acne Under Rs.1000",
+            "url": "https://www.youtube.com/watch?v=k-U5F_OvDS0",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "7 Best Acne Serums in India for Clearer Skin - smytten.com",
+            "url": "https://smytten.com/blogs/skincare/7-best-acne-serums-in-india-for-clearer-skin",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "7 Best Affordable Brightening Serums in India",
+            "url": "https://smytten.com/blogs/skincare/7-best-affordable-brightening-serums-in-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,458 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 3,
+  "promptText": "Which brand's jeans should I buy for men in India under ₹2000?",
+  "cellId": "F01_en_chatgpt_r3",
+  "startedAt": "2026-08-14T12:48:57.774Z",
+  "finishedAt": "2026-08-14T12:49:51.546Z",
+  "durationMs": 53772,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "If your budget is **₹2,000 max**, I’d prioritize these brands in India:\n\n### [Pepe Jeans Men Blue Mid Rise Straight Fit Jeans]()\n*₹1,401.65*\n\n### [Jack & Jones Clark Washed Regular Fit Jeans]()\n*₹1,749*\n\n### [Lee Men's Travis Slim Jeans]()\n*₹1,850*\n\n### [H&M Men's Denim Blue Relaxed Jeans]()\n*₹1,999*\n\n### [Wrangler Men's Slim Fit Low Rise Jeans]()\n*₹2,000*\n\n### My ranking\n\n1. **Pepe Jeans — best overall** ⭐  \n   Great choice if you want a branded pair with good styling and comfort. Pepe currently has several men's straight-fit jeans around **₹1,499–₹1,999** on its India site. [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)\n\n2. **Jack & Jones — best for stylish fits**  \n   Excellent if you prefer slim/regular/modern cuts. Their official India site currently has jeans under ₹1,999, including a Clark Regular Fit at ₹1,624. [www.jackjones.in](https://www.jackjones.in/collections/jj-jeans-under-1999?utm_source=chatgpt.com)\n\n3. **Lee — best for comfort**  \n   A good pick for everyday wear, particularly if you want some stretch. Current options include Lee jeans around ₹1,850–₹1,895.\n\n4. **Wrangler — best for durability**  \n   I'd choose Wrangler if you prefer classic, sturdy-looking denim. It's normally above ₹2,000, but sale pricing can bring some pairs to your budget.\n\n5. **H&M — best for relaxed/trendy styles**  \n   Good if fashion and a relaxed silhouette matter more than traditional denim durability.\n\n**If I were spending my own ₹2,000:** I'd get **Pepe Jeans straight-fit around ₹1,499**. It's probably the best balance of brand, fit, quality and price right now. [www.pepejeans.in](https://www.pepejeans.in/ss26-denims-73?utm_source=chatgpt.com)\n\nIf you tell me your **height, weight, waist size, and whether you prefer slim/straight/relaxed**, I can narrow it down to **3 specific jeans under ₹2,000**.",
+  "citations": [
+   {
+    "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+    "source_name": "Pepe Jeans",
+    "position": 1
+   },
+   {
+    "url": "https://www.jackjones.in/collections/jj-jeans-under-1999?utm_source=chatgpt.com",
+    "source_name": "Jack and Jones India",
+    "position": 2
+   },
+   {
+    "url": "https://www.pepejeans.in/ss26-denims-73?utm_source=chatgpt.com",
+    "source_name": "Pepe Jeans",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "53.5280 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141248-2163-0629-0000-dab9d1e29373",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "53.4996 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Which brand's jeans should I buy for men in India under ₹2000?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which brand's jeans should I buy for men in India under ₹2000?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20brand%27s%20jeans%20should%20I%20buy%20for%20men%20in%20India%20under%20%E2%82%B92000%3F&hints=search",
+      "datetime": "2026-08-14 12:49:50 +00:00",
+      "markdown": "If your budget is **₹2,000 max**, I’d prioritize these brands in India:\n\n### [Pepe Jeans Men Blue Mid Rise Straight Fit Jeans]()\n*₹1,401.65*\n\n### [Jack & Jones Clark Washed Regular Fit Jeans]()\n*₹1,749*\n\n### [Lee Men's Travis Slim Jeans]()\n*₹1,850*\n\n### [H&M Men's Denim Blue Relaxed Jeans]()\n*₹1,999*\n\n### [Wrangler Men's Slim Fit Low Rise Jeans]()\n*₹2,000*\n\n### My ranking\n\n1. **Pepe Jeans — best overall** ⭐  \n   Great choice if you want a branded pair with good styling and comfort. Pepe currently has several men's straight-fit jeans around **₹1,499–₹1,999** on its India site. [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)\n\n2. **Jack & Jones — best for stylish fits**  \n   Excellent if you prefer slim/regular/modern cuts. Their official India site currently has jeans under ₹1,999, including a Clark Regular Fit at ₹1,624. [www.jackjones.in](https://www.jackjones.in/collections/jj-jeans-under-1999?utm_source=chatgpt.com)\n\n3. **Lee — best for comfort**  \n   A good pick for everyday wear, particularly if you want some stretch. Current options include Lee jeans around ₹1,850–₹1,895.\n\n4. **Wrangler — best for durability**  \n   I'd choose Wrangler if you prefer classic, sturdy-looking denim. It's normally above ₹2,000, but sale pricing can bring some pairs to your budget.\n\n5. **H&M — best for relaxed/trendy styles**  \n   Good if fashion and a relaxed silhouette matter more than traditional denim durability.\n\n**If I were spending my own ₹2,000:** I'd get **Pepe Jeans straight-fit around ₹1,499**. It's probably the best balance of brand, fit, quality and price right now. [www.pepejeans.in](https://www.pepejeans.in/ss26-denims-73?utm_source=chatgpt.com)\n\nIf you tell me your **height, weight, waist size, and whether you prefer slim/straight/relaxed**, I can narrow it down to **3 specific jeans under ₹2,000**.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com",
+        "domain": "magicpin.in",
+        "title": "Top 14 Jeans Brands for Men in India (July 2026): Levi's, Wrangler, Pepe & More | magicpin blog",
+        "description": "TOP 14 JEANS BRANDS FOR MEN IN INDIA (JULY 2026): LEVI'S, WRANGLER, PEPE & MORE  BY ANIKET  UPDATED - JULY 1, 2026 16 MIN READ  Browse more in Fashion  Greetings, fashion-forward men! A great pair of...",
+        "breadcrumb": "magicpin.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.magicpin.in/blog/category/fashion/top-jeans-brands-in-india-men?utm_source=chatgpt.com",
+        "domain": "www.magicpin.in",
+        "title": "Top 14 Jeans Brands for Men in India (July 2026): Levi's, Wrangler, Pepe & More | magicpin blog",
+        "description": "MID TIER (RS 2,000-RS 4,000): THE EVERYDAY WORKHORSES  6. WRANGLER  Image: Wrangler jeans for menWrangler jeans for men  Wrangler in May 2026 is in an interesting spot in India - heritage Western bran...",
+        "breadcrumb": "magicpin.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.pepejeans.in/s/MIRAI/men/jeans?utm_source=chatgpt.com",
+        "domain": "www.pepejeans.in",
+        "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+        "description": "JEANS FOR MEN  (1211 products)   4.3  Quick View  sale deal of day  Men Blue Mid Rise Straight Fit Jeans  ~~ Price reduced from ₹3,199 to ~~ ₹1,499  (53% off)  Best price : ₹1,449  Quick View  sale d...",
+        "breadcrumb": "pepejeans.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.pepejeans.in/new-arrivals/men/jeans?utm_source=chatgpt.com",
+        "domain": "www.pepejeans.in",
+        "title": "Trending Jeans for Mens – Shop Latest New Jeans Online at Pepe Jeans India",
+        "description": "TRENDING JEANS FOR MEN  (198 products)   4.2  Quick View  Men Black Mid Rise Straight Fit Jeans  ~~ Price reduced from ₹2,299 to ~~ ₹1,499  (35% off)  Best price : ₹1,449  4.0  Quick View  deal of da...",
+        "breadcrumb": "pepejeans.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.pepejeans.in/denims-under-1699?utm_source=chatgpt.com",
+        "domain": "www.pepejeans.in",
+        "title": "Denims Under 1699",
+        "description": "DENIMS UNDER 1699  (80 products)   4.1  Quick View  Men Blue Mid Rise Straight Fit Jeans  ~~ Price reduced from ₹2,299 to ~~ ₹1,499  (35% off)  Best price : ₹1,449  3.7  Quick View  Men Light Blue Mi...",
+        "breadcrumb": "pepejeans.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.jackjones.in/products/150466901-light-grey-denim?utm_source=chatgpt.com",
+        "domain": "www.jackjones.in",
+        "title": "PRODUKT by JACK&JONES Light Grey Mid Rise Distressed Slim Fit Jeans",
+        "description": "Zoom picture  Previous  Image: PRODUKT by JACK&JONES Light Grey Mid Rise Distressed Slim Fit Jeans  Image: PRODUKT by JACK&JONES Light Grey Mid Rise Distressed Slim Fit Jeans  Image: PRODUKT by JACK&...",
+        "breadcrumb": "jackjones.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.jackjones.in/products/150464601-light-grey-denim?utm_source=chatgpt.com",
+        "domain": "www.jackjones.in",
+        "title": "PRODUKT by JACK&JONES Light Grey Mid Rise Washed Slim Fit Jeans",
+        "description": "Zoom picture  Previous  Image: PRODUKT by JACK&JONES Light Grey Mid Rise Washed Slim Fit Jeans  Image: PRODUKT by JACK&JONES Light Grey Mid Rise Washed Slim Fit Jeans  Image: PRODUKT by JACK&JONES Li...",
+        "breadcrumb": "jackjones.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.jackjones.in/collections/mens-jeans?order=desc&sort=discount&utm_source=chatgpt.com",
+        "domain": "www.jackjones.in",
+        "title": "Buy Mens Jeans Online In India at Best Price - JACK&JONES",
+        "description": "JEANS FOR MEN‎ ‎  (501 PRODUCTS)  JEANS FOR MEN‎ ‎  (501 PRODUCTS)  FILTER  SORT BY  Sort by  Featured Most relevant Best selling Price, low to high Price, high to low New Arrival  501 PRODUCTS  BEST...",
+        "breadcrumb": "jackjones.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://zoutons.com/news/nykaa-fashion-one-brand-many-badges-july-2026-zoutons-picks?utm_source=chatgpt.com",
+        "domain": "zoutons.com",
+        "title": "Nykaa Fashion July 2026: One Brand, Many Badges, 21 Picks",
+        "description": "JACK AND JONES: ONE BRAND, 25% TO 60%  Five picks from Rs. 600 to Rs. 2,000. The apparel sits at 60%, matching the flat-rate labels — and then the footwear drops to 35% and 25%, which is where a brand...",
+        "breadcrumb": "zoutons.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+        "snippet": null,
+        "domain": "www.pepejeans.in",
+        "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Pepe Jeans",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Jeans under 1999",
+        "snippet": null,
+        "domain": "www.jackjones.in",
+        "url": "https://www.jackjones.in/collections/jj-jeans-under-1999?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Jack and Jones India",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "SS26 Denims 73",
+        "snippet": null,
+        "domain": "www.pepejeans.in",
+        "url": "https://www.pepejeans.in/ss26-denims-73?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Pepe Jeans",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best men's jeans under ₹2000 India Levi's Pepe Jeans Lee Wrangler Jack & Jones 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "If your budget is **₹2,000 max**, I’d prioritize these brands in India:\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "838093028051302969",
+          "merchants": "Pepe Jeans",
+          "id_to_token_map": "1XpsrHicdVPLjqNWEE3yBfmCqDe9sizxMGDS6gXmYTANhgtcHhsLwzVgLnBtbLCtfMyk5yFNlqNI-ZaeRb4jyziPZVKLU4tTp3TqSPX7N9-_ouo3ruA26cAo1mkd0zvDaQxU8dL4mRy7_JydqvzLnJ1TIksxc4qj703kxc9ZekpxV1T5uy8lSnNctWi926Gj0mX_KfilatIC_c3-SlMcI1CcwDIzgZkzAsOK_Ptj3r_NHHlzn2dFURBYav7XDobjBeonB6yVzf-QHw9ndLy-hQ1qHxmhn-xR2vaTc5uj4-RRZR7nzONCZCiKmlRtXqUTjIbqn8E0qyePDD_Zdy3qJwQR9K94PKZtge96jNDHgtw9v3vf_AVkOP2cfjifMXp7HCeyZLiGbARuiPk4yvsXlSaoEa9xSPVeyNVpqL4W-LVqX0v8itpPXUqGXfb12z_UIZPlYya7ASFQAZQX5oMVaMo2Um8gBBfIlhUIYAf35THE5SqiCyrVEj1hwUsQrTovFCMrPDWunzf2TTplS7K2WOAGVD1LNNFPKS0BSu7YdcZaGu7D5WXnt9Ytoxc8uNIyasgtr0mIQjDaqktlNb6kDNcGLYlAGMzifUF5VHxJse3FFAkD32ZS6sTGTcHZSzFeh9B3g7zf7q1TjMFLzHAmWOIy120vqUGCdNuKA23M7t7iPXzJscWGGO4zxvbBMlGArpWwSWCuARO0cIDt6gBY--g1ZeBGi8gNyrOPyy7D2M1CG4Zhgn06J14A8P0uym8Be8_sZRuKdnClHaRj7GsrCraQZLR9ASq4WnqebFlYWnuNtnX7niEhqQo8dM8sD4tLDO9ObiWGUGKQRrR0r8UgpNeQhqttIC6tm-RpN9jaUCzz_Ur1I-CEvtZ4cHHyQkjsWmOX1WoBdPu6DhOwVXOAggS7UOwt36J9rbTQkovsPaADrIV-A9sPl_64e6MkjTt5a16cr87-mpn5vLncBaV__w3KHk-HfTX-SAtzXqDvyDK8-CnrurpCX7_7wVMlIOsbT7JUz_DVZ7lwjQuvLp4eJFV-lvIVVNOe9EyZ5oK6GaIja6ASJkJ2mub-0fVneZKo_vlcI2VzY3jFVOfANNTx6UGBz8V8OF9n1wTl4zAqU3tz8Ea-2zIJUDVpRaKbIZoDPcO2pEr3enrYbDyUnY9o6vnAeZbsJhlTFvk-0yv8C0umQs3ZpOXCbnSv2ZIPijbW4h7bLCCn4iptSqKZCjqkvCWTcN0J8-kOVMsh9XBixkLXVOqJH4h0yGumt8uYBPbTg20ozxzLPqfN9qWb5aekCy9B7Vwx3hK6wrZzu4yH85WThwMDTOLujrxSb-QyKMRk3C0788Zy3RjoyobLzqneKrXq7Er94PpXEKXleemw3BizCK-7nXuNFoaozGaHA1OuRXdq0I7Jl6reS_pGU4xCdmBKongwKTfgvRWlB0ktLJzMGeW96Y5Z6IPuJaBEfofiKTP0NFg0U-jK7lTKhUpZ7qqs7DQli0xdNIZ9ws7ZFVFtMNjd9sI7-4MRm6JWW26z8rbqXJ97G33txNtqZlpqIKriMBgQr_BuldzOlfInh_Lz0w",
+          "title": "Pepe Jeans Men Blue Mid Rise Straight Fit Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 58,
+           "rating_max": 5
+          },
+          "price": 1401.65,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/ryT-oHicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDjY1DvBzTjfNr3L0iEx09yv18vbMTAsxLi8zMc9OCnY0cQtxqkhMD8_2cQpMK6v0cYv3CDD0yyx1dE8q8U_KSs_XNTQzjixNDSkHAIouLpM"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "5g5_av2DMtOY1fIPmIei6Aw",
+            "product_id": "838093028051302969",
+            "catalog_id": null,
+            "gpcid": null,
+            "headline_offer_docid": "838093028051302969",
+            "image_docid": "10527057324728272396",
+            "rds": "PC_13039977308809325670|PROD_PC_13039977308809325670",
+            "query": "men%27s+jeans+under+%E2%82%B92000+india+levi%27s+jack+%26+jones+pepe+jeans+wrangler+lee",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIUQWl6YXdsLE1pem9yYW0sSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "14012820663705514230",
+          "merchants": "Jack & Jones + others",
+          "id_to_token_map": "tOJK6XicLVJLrqNWEE2ygqwg6skbWZbg8k_rDTBcDPiBzR_uxOJz-Rgw2NhgvIFso_P6I3WGnUhZS2eQtcSdpAY1qDqnzlFV_f3dj6-4-pMpmH08Atm4bCMy13athitWnD735y67ppcq-53iOQHwDCEAwPEA0ALHf07jS9x0RZX9QdIECXhAsCzFEQxD0oAivpQ4zprqiLd5js9yl36bIlAMTQgcIDlCoEiKBNRvVRsX-N_2l0eVJzmepjiWJSiOo8H7cza8-3i64vP8NWjx8Qlww-KA4-OwuB4zfF48QfDEg6eVAAiCWFTHrIoXDR6r_4BxWi-eALs4dEc8LHrc4__J0zk-Fs2D32D8sei_idMcQX_zR9ICQ5ME4Mn3bZW9e9-Pl1_jD9drg78-TQtJ1CxN0jwraNgozIYXSPa4FeYoIAYnYOo4gK9F81odX8vmFR8_dXE_5ulf3_8CT5okXbWV5fW9L9uEcy8tFDCRI5GTARhotKWTrBXLVW0V-33gkr5segzyfTuIDvZs1Nk9gbdh65tjIhfAWdsvto9C_w4Z11VIrDbIJ8zY9yaQ3dE9aSyQAKYL_FVvHJAdUinjA59Ig1sZE2iMQCMbpN86LYIhaVIG7EP7busegDfft4jME2qkCOuI6Oa4EVrLLajknoKsMVc4NLchMd1swN9R6yN0R6ssLEOXXFEoEOaEMg-p__BH6qpxWNFOq8xJwKxST78hTzllRJM7fgNxy89eqyu-vOq8mVwbQRbjBz6R7UNCrpBna6EZpGQIFGDUtplBARkB0r01qaOgBlaYxlqtwJTSGNRAAoXm4IR9b88EYXkl6UGditf62fAU9bFN0yHhh9twzr8SosJcnC3tWgq8LaXJyYtqFnTN29ZrbWndbor48-MRWY58ZAoQwqe06-oK__XDTw4UbUndO6IBHc2Fz1JhaTcWrt6-EaH0LGa6D-OhH0AZZxzcj-GZ0nDpIy69LDP3bLl0hhB0r9cay_s7YOUN5O2NBqe3b2T_ueDH60zPCGfTOMlLc39yJrZLALKhIup9eNeEzUjSjSlC8RFv3-z3Dk6vZ7x0XHv3LJotmmIKuy4YZPaF6pdczZj9kQm6yZrTNesVx0iJhsak7P5SzOK-7JWNjE8xa0h9sO04fpnb1XqMnQZtIq5rK3hhx148ZTUYzDLqPfPtG1OTnxmKeo7b5KWjswvqgptX7-amSXqyaszd_TadrjMjjSdgb3orP7NyvZdKrxDQlK-7zZ1iuslT5T2TXmP1KNdwl5fqyXJnO4zL63pHMVNE4Wbb5dYcrjRBpunTCZRbwVpq5G7DllAdRHWvyFoh7fy4D6Nx8zg46-iE6qGaW-3S3SQdNtaUBq7dvXiEwOY4WoJxIO1Vu_QtyVqKGVfJ67xKy06R03CjCtp4QBRP6T007dHskhu7O5y0aCMotWG1upNAXuWdvbrdRUlFbwzoCVAYR81v9CbX0f1ayf8ABwvDnw",
+          "title": "Jack & Jones Clark Washed Regular Fit Jeans",
+          "rating": null,
+          "price": 1749,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/7syizHicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnpJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDnJNDk73y7MwTCkM9y_JKnAPTs0LdSwMNzFxMgkINHQy9QqtDHfLMqmIyHdJszTx8zIty4zwdi4IKDUOdMvwich3DHMJjIwvyfIHAI8mLlQ"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "5g5_av2DMtOY1fIPmIei6Aw",
+            "product_id": "3879285092278224978",
+            "catalog_id": "14012820663705514230",
+            "gpcid": "470439351495410281",
+            "headline_offer_docid": "3935409721709313123",
+            "image_docid": "170817843766037742",
+            "rds": null,
+            "query": "men%27s+jeans+under+%E2%82%B92000+india+levi%27s+jack+%26+jones+pepe+jeans+wrangler+lee",
+            "mid": null,
+            "pvt": "a",
+            "uule": "w+CAIQICIUQWl6YXdsLE1pem9yYW0sSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "7688413416242022723",
+          "merchants": "LEE",
+          "id_to_token_map": "EuhZkHicbVPLrqNGFIzmC7LIOprNXVmWoHlndBe2eRh8waaBxrCx2tA2mOZhY4ON8jO5M4k0WU5GyrfMLPItYZIscxato646Ouqq6r---_6V5H8KR2GHO6Da13XEHsxNaZJcnPUfm0ud3pJrnn5mOUWQGJ4VAcNzkshLQOI-JviKaX3M0z8kUZZ5lvuG84ABQALcp4zglOYVWR8O5KLWyUgDoiAyHM-InMiDsWUZ8fe8xEfyD_yZZWVRVmQw3ssyKyi8yEnvL2n7BWwWO16WWEVgZEZgOcAoCpDlnzdwre7-H_v1fCOXx5ewJNUTkNrJieCqndyqlFwmTxp4ksHTXAEMw0zyKs3xhJIu_5eIk2LyBMTJqa5IO2lIQ_4b7i-4OtJxnhLy67H59qD_Wfy-zNNPwiiRCGRGUngOKNwoyvumu_6CP9xulHx56ieLmemaCzNwQypG27R90diGlMojCpnWC4UCh9rrkb7m1WtGX0n1W42b7pB8ffODVvfqou0XbtA0SIWMr8XIrpIH2iIB-qhKdZT5jLNJgHKPBuRig797KL6mJwt4zNUPC_tBQsFeI4fHYSF4p2wel7rg-c5tbcQXosIMGRn0ChinYQxtmgXESNV1mNJoC_WY0jzxXR4yihhvY9-t3KtTZVxa1iwxEN1TB_qGNfj6GCbkPAJUDPtqDuKBIp9V-KiEKwfc6y2bcaioGbJEXhhYQui7PaH0npRWFRgtk4Rplix10zOai19anYsQCAvWRwM1MHMFvnFFMVVyn9NzUtYgptktKgohDKi9P1EmKOUBD_Zga7BNWAXbjMnZesqjk8P4xRjpCp3CED7C0L4TzXnsNeUcj3pCf07dUHAxh3K8dHtnOz9AgOYJk-kuhdkeNC8-Ozf3FNL9CekIsBbmHM3TnZOzteJoiLmwmjf2EFdecO-Q4bKQtVoc6FXCWnccyJ4-oMpBSjZ6ovlbuAl9vfTQ_OqFqHEKnTNyaw6XzmM96v_iZ_YYkPtoFcYM5VCQrUfuKjyhIQoz0ylg9eHeXg5fmJkuXL21IMiHNkqNFU2dijn7RONF6FM5v1r9T6wkixI7nhxgmd-Sui5y8vXNj542g4vlzpvZmmf62vPi6Jp3UZu_ezvTFs-z1EIabpsWZDiVtF23vXAmyVAsJddp6l9cn0_jWPNvt4KouwGI6kqT4crU-ndvVfR8lLvbg3_EJO27Xp06u7PXi_UexFDTZ1azHUxl1bE8dWbabKx3b3c7jyS3C5l6Ptw8z5wy7jFHfB-0qvjCNVOpEJymEsK6dx-JIQbHKtKjljocbK7Hx2yXNfpKJWcs2osmXNeSPD3A3OiwR-NVJNVlrl3Frpmd0wK0ThY1gfPurWOqzwLHPeNy_1Lz6TWuw3tQbB6U7hs2p85muPfn20NYdGcAV417uIhqsVtkwVGJ-4NRrwZOqPtgqe6E5IaXlVpom0O2PLv-A25xdjM2nNBHHKHr-uA-tnNTUXn-fAbZWnGnJrtZiZm2bGfLna6ax8UG4WYbdSvGDUTPYpZBXEjzTbLpF6eV2yehD-uXYPyABxJNQdeycF5Okbtwp7NUylXjkCdZravJdrVUzO4UczJnNZoDO6fe38XN6WxGK0UvbLe0vL0mL2Vvt1xvon3Or2wtUDSl60xELXqw4uGWq38DfggIiQ",
+          "title": "Lee Men's Travis Slim Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 19,
+           "rating_max": 5
+          },
+          "price": 1850,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/Q-RjLXicu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDqzwircINAyNMKuKNEhNNfZL1S00Si-qiPA0yPOoLMkOSM3KjLeMdIpISk52TQwIjCr2czTyiTJONHbxdAkpTswqzi0r9ct1SgcAb_UuyQ"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "5g5_av2DMtOY1fIPmIei6Aw",
+            "product_id": "13957041620437647273",
+            "catalog_id": "7688413416242022723",
+            "gpcid": "4871950805132099288",
+            "headline_offer_docid": "2656034063642560106",
+            "image_docid": "11868982010881594637",
+            "rds": "PC_4871950805132099288|PROD_PC_4871950805132099288",
+            "query": "men%27s+jeans+under+%E2%82%B92000+india+levi%27s+jack+%26+jones+pepe+jeans+wrangler+lee",
+            "mid": "576462807943293242",
+            "pvt": "a",
+            "uule": "w+CAIQICIUQWl6YXdsLE1pem9yYW0sSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "11803935889301855591",
+          "merchants": "H&M + others",
+          "id_to_token_map": "LVH-Z3icddS5rttGFAbgwE-QIkBaN64uLjDD4RrjFtxGK0lxXxqB4lAixVUkJZJCXibXiQGndAKky3vYRZ4lcvpMcTDAD5zzneb88933r2n-Fysy-7hdbvTQkC5Dv0PxJp9N9VPbNeSaDDn5E7IUywEGsrxA0xCyAgTcpyQe4rI5fYshD5CAGJ4XEIA8wzAC_JylMSnzOjWOx7RTmiQnf7CQYWkOCTyiKZaiOYpHv-dVfEr_iz-zFM9wiOYYiBgIaMhzHzrSf6F38h4ingICLbACwwkcJzwg1M87y1D2_xP-drmm3fx3ldbvKK5_Oqdx3T9da5J2TxQA4CmvSR7_dmq_sWgEaZplOcTQ35pwCKAP1cPDcCz9MCGB5tnH7gwDPrS34Zf41-u1TL-8G59kcWWu5JVr-iUbBqTfqrBNK2EOfdDbPlPEvvp6Kl_z-jUrX9P6YxO3t2Py9c0PajMqcj_Kptu2nmIBu5ZwHDz-viVHOJuihbdISkzpWL_GbqsdbLi1wQrZNSl1HNHmDO6puzZ0FStpRXriM0ff8fLEUYG-wLFWWut0iRFB2TaBQh9WjO1j6-x40uRQ4Rx62XrrQslRMqAFJHJqbNhV1JGSeLFXalZpLQ8-RK5PBtPP_PScSQRntYmyxqzGKcVEjZbRRiuFIa4wlbpeaRVTbuMyD4OE0QqN1lww68pat6lh1hYhsBfW0Qki1vCia3yO-gMmQ7TA19CJaBu0suYKsecK9_CeTWFNQgIiP6mli4NNyrzjs0d5qr8YJL1YUwdfmG3PmtI6GwIA7g9bGKACaNAzY0-K7bsV6HdyjIIGHpRoZ4KpD6gCPZgLB5VDWEElpiaNUHjr4vXSdiQz9UnlVyqMlm0VL4SL5wm7yG9m082Q5auUW2FZo6zRCQgkXmHjeyTpnpAlarZ1ynJn1hgkULyH7tCmHsaLfC1ZS302_Mh1kaQ_HGeC1l3i4a2vZL0LCpCcs0kvSisty_rXqe-OX4CImcE2mPDmH2a1jbyu4Uign8wTo1DJuWwt8SfI8SwHH5VBPP0xaZoiT7---dFWRUte7m1RU-2Vo77IJ3M1sar0_q2oyi8iWXtq3I9GOouVYyxr99ltVlr4vOqP-jHcPtgLNg8ABGxx0ovsAJjjjuwBP75_q3gvIwsERMx8n7n9SWwIkPbLVlu7SrbConSpkk3b6mW4u5xo8fHev93v7TS5dumz7Vi7F1GvojGGxmKy1ro1PteW7m-fTd-YbSoeabIta1u06wnycSG4-4ysYUZtS8uNSvuipoBfgUJJunqQ62aiZe1gVUM6TfPUNq55Pw3qY6K-Ul4YhF4K_WzfpmxQ8y6IR02WOs1iJkbB6VgLgcA2tUqX6A6isO_bCq-zzEt6zT-5mm9tGVfZXUh9V079XjI6VuB12VrCqbsKINtvV0aH5tlA8sjqz6HwOFaVUh9Moxm8bG4552o565XVeEf23JyNpgwPTdINFFvP_GLajKoztpT_XF2lRLqu9_Q27HMvva0a1IzS3rGGxXjCwUY171RQeJvDYeEstfwc77xbpZTX83wrNv1NR9fuyDuDYirb_DKKaRZMy3zH7jpTFXAmRue9Xaxl6Zm9z-zpXx8_9jM",
+          "title": "H&M Men's Denim Blue Relaxed Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 152,
+           "rating_max": 5
+          },
+          "price": 1999,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/K3zG2nicDcltDoIgAADQE6lLKcKttaaJlpHlCu2foqUtgYI-T9V1uk3-fe_3bbSWyrWsmrPbW-q6MnTJHfOkdKFbZjLRWaoRUrb8NL1O-nNnpEKYpRi327RJQEriAj2W9UWEVIw-kIPCwzOdFZk9UvtzMybHCMLzQM9DYmQHP6aREdnL4T5cBf68gslrgXKHv8SdA--SR-Co6CYg6LYGuNtRNJRdybqV7DWG9fMPLJs9Dw"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "6A5_apHKNYOBqtsP3aKiyQE",
+            "product_id": "16267051689441169107",
+            "catalog_id": "11803935889301855591",
+            "gpcid": "4314466735449697303",
+            "headline_offer_docid": "6156473983426247283",
+            "image_docid": "628573475135104187",
+            "rds": "PC_13820949695797796892|PROD_PC_13820949695797796892",
+            "query": "men%27s+jeans+under+2000+india",
+            "mid": "576462839486516550",
+            "pvt": "a",
+            "uule": "w+CAIQICIUQWl6YXdsLE1pem9yYW0sSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         },
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "12614264623788552991",
+          "merchants": "Wrangler India",
+          "id_to_token_map": "VFhza3icbVQ5ruNWEDTmBA4MOJ3E0YcA7osHP-AqkeIiLu9xSQSKpESKq0hKXODL-M8CjMOxAWe-x0zgs5gfTqeCDrrQqC40qv_94ceXNP-b4shj1O72RmDyt6E_4NE-ny3pc9s1yT0e8uQvlERxhMRZmmJIAsEZhsbRz3E0RGVzeaUxCiUwiqAwnGYYksRYFv2SpVFS5nVqns9pJzZxnvxJ0yyB0SSNsARBIQxKM-QfeRVd0v9piiaxVYNlVlAUQZM4_r5L-q_YQTgyFIJQCIZROE0z6zhBU78dbFM8fp_7eLun3fxPlda_YHT_dE2jun-610naPWEIgjzldZJHHy_tq-x3xt9XefKFpF8d0WtdHRGrLeJ9-xh-jz7c72X69ZfxSeAUSxEUYHklFfhJr0lom1bsHHhI73hkEXnSy6V8yeuXrHxJ609N1D7O8bc3P0nNKAr9KFigbaFoI-4OWqcaagBNxKQaCoiVJpTCIN4C5FSQegImN9nx1glBWwtMRiTaheuXpHPNcH9GqdhBr27dUm6ZlEbFSqcFaidpaiGmVqmfNFbFjJGUnKMaEPoOdqDMdB3NhAQj97CYRl0KjRiZ0AhyqAfaAi4JMIpQ1AUUaB4zGjsbAhEuHlQFgELXKDLf2akIwIrRlXmgQ1sBMv-wsbCBKDQSLMtCD2qrthiWkIylKQ9r6PlYg7kYrJxtZlpXW9ILawzlbOtVqgXltoZigbteKbiyqrlF6TtAdb2iJGJcbsIqIIGXjaetHFle6-tXftI8WzL8cIr9Vre8Yom9ZKsXhmlKhq5f1bNdGpQL4AggXFafbpqjQbAUi-fJ-tqZU09a4gLVIc6hUYW6OlKeoQcRADJNxxIZgABPtuh-5c4xlpxjLwsiKYQ-QjjyEvIGZLNYyjS3LA9WLSMxyi0BGNoUyvI2V3l7Z8ymFzo2noxQMkpbDpUAKouxHbBwl3knKJMRaqhWkdkfpr47f0U4mRwck85pLq36oi7vh7y4-bcTxw7Ro8TZ_vLrGhuKRl_DQ6DYp7hpijz99uZnR-JsYXd0OF1yFFd6Fi6WMlES_-4tJwnPXKJCKepHM525yjV3NdiARtGDjdKfjXOgrWtvqdxHUIQqLut9Twh5PiRHhBnfvRXh80ghLJ5Y-TED_YVrEoQ_7lpdBWKmyBx_q-J92xplcLhdCG7Fu7fHo5PG9y7dOK59eOaMKhwj1NxOtmrY46a2DU_bWJ45O1g0EolW1g7n1BPKRAULjlmiohmmlTYIS-cmpQijIIUYd_Ug1M1ECPrJroZ0muapbYC1XAZpVTQU8Xn9GM-FcXUeUzZIeedHoy7wnW6TEynK6VizPks1tUSU-IKEQd-3laxmGYx73bsA3bM1EoiHW1Iv4qU_8mZHsYwh2Dt06u4skh01xezweTZxYaSMTcDiBF2J9ckymwFmc0u7d9tVFbuBZ-raXM2mDE5N3A0YVc_MdtqPkju2mLep7nzM39UjoQV9DtOH0uDNyB9de9iOF9nfS9aC-QXcn05bd6fn1-gAH5VY3q_zo9j3DwO_d2fGHURL1PLbyKWZP-3yA3XoLImVMy68Hp1CFfgNtczU5T_oAPX8",
+          "title": "Wrangler Men's Slim Fit Low Rise Jeans",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 3,
+           "rating_max": 5
+          },
+          "price": 2000,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/GJC30nicDcnbDoIgAADQLyLLZlZba0kWs3I6SasXR3jBmUCJl_yo_qe_qfN6vh-mlKyXmpZy-npLlSZA3flklNeKqIKOqKi0mgkpC56vn6v_LTdusthT_NStXs9Q1dLzhbCxxTJSox68ZpiVyEdD0A4Y9sE9iubFCZtwWgxGnPDOxk4MnW6ozAufHZHeNuIKDdOWJLqVnTeHnm2c1A4c_P12rJo4d0Fzmz7aUIBQ_ABLlD4X"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "6A5_apHKNYOBqtsP3aKiyQE",
+            "product_id": "15130539768540388731",
+            "catalog_id": "12614264623788552991",
+            "gpcid": "8600602263778944476",
+            "headline_offer_docid": "7794275709446081785",
+            "image_docid": "6752397988886647533",
+            "rds": "PC_8600602263778944476|PROD_PC_8600602263778944476",
+            "query": "men%27s+jeans+under+2000+india",
+            "mid": "576462776455248554",
+            "pvt": "a",
+            "uule": "w+CAIQICIUQWl6YXdsLE1pem9yYW0sSW5kaWE",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n### My ranking\n\n1. **Pepe Jeans — best overall** ⭐  \n   Great choice if you want a branded pair with good styling and comfort. Pepe currently has several men's straight-fit jeans around **₹1,499–₹1,999** on its India site. [www.pepejeans.in](https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com)\n\n2. **Jack & Jones — best for stylish fits**  \n   Excellent if you prefer slim/regular/modern cuts. Their official India site currently has jeans under ₹1,999, including a Clark Regular Fit at ₹1,624. [www.jackjones.in](https://www.jackjones.in/collections/jj-jeans-under-1999?utm_source=chatgpt.com)\n\n3. **Lee — best for comfort**  \n   A good pick for everyday wear, particularly if you want some stretch. Current options include Lee jeans around ₹1,850–₹1,895.\n\n4. **Wrangler — best for durability**  \n   I'd choose Wrangler if you prefer classic, sturdy-looking denim. It's normally above ₹2,000, but sale pricing can bring some pairs to your budget.\n\n5. **H&M — best for relaxed/trendy styles**  \n   Good if fashion and a relaxed silhouette matter more than traditional denim durability.\n\n**If I were spending my own ₹2,000:** I'd get **Pepe Jeans straight-fit around ₹1,499**. It's probably the best balance of brand, fit, quality and price right now. [www.pepejeans.in](https://www.pepejeans.in/ss26-denims-73?utm_source=chatgpt.com)\n\nIf you tell me your **height, weight, waist size, and whether you prefer slim/straight/relaxed**, I can narrow it down to **3 specific jeans under ₹2,000**.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy Jeans for Men's – Best Fits & Stylish Styles | Pepe Jeans",
+          "snippet": null,
+          "domain": "www.pepejeans.in",
+          "url": "https://www.pepejeans.in/men/jeans?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Pepe Jeans",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Jeans under 1999",
+          "snippet": null,
+          "domain": "www.jackjones.in",
+          "url": "https://www.jackjones.in/collections/jj-jeans-under-1999?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Jack and Jones India",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "SS26 Denims 73",
+          "snippet": null,
+          "domain": "www.pepejeans.in",
+          "url": "https://www.pepejeans.in/ss26-denims-73?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Pepe Jeans",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

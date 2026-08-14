@@ -1,0 +1,250 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 6,
+  "promptText": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+  "cellId": "F05_hg_gemini_r6",
+  "startedAt": "2026-08-14T13:20:11.306Z",
+  "finishedAt": "2026-08-14T13:20:25.843Z",
+  "durationMs": 14537,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Bharat mein shaadi ke liye budget mein sarees kharidne ke liye kai acche online platforms aur options available hain. Agar aap kam budget mein ek shandar aur heavy look chahte hain, toh yahan kuch behtareen choices aur websites ki list di gayi hai:\n\n### 1. Budget-Friendly Sarees ke Types (Kya kharidein?)\n\n* **Banarasi Silk Blend / Soft Banarasi Sarees:[www.myntra.com](https://www.myntra.com/wedding-sarees-below-5000#:~:text=Soft%20Banarasi%20Silk%20Saree.%20%E2%82%B94%2C331.%2078%25%20OFF.,%E2%82%B95%2C997.%2080%25%20OFF.%20*%20P%20K%20SAREES.)** Agar aapko traditional aur rich look chahiye, toh ₹1,500 se ₹4,000 ke budget mein artificial ya blended Banarasi sarees bahut shandar lagti hain. Inka pallu heavy hota hai jo wedding functions ke liye perfect hai.\n* **Georgette & Chiffon with Sequins / Embroidery:** Sangeet ya Cocktail party ke liye lightweight aur glamorous look ke liye sequins ya zari work wali georgette sarees chun sakte hain. Yeh ₹1,000 - ₹2,500 ki range mein aasaani se mil jati hain.\n* **Organza / Tissue Sarees:[in.kalkifashion.com](https://in.kalkifashion.com/collections/bridal-saree#:~:text=Every%20bride%20wants%20a%20traditional%20saree%2C%20but,appealing.%20*%20Modern%20Bridal%20Tissue%20%26%20Organza.)** Aajkal minimalist aur modern look ke liye pastel shades (jaise mint green, lavender, peach) mein organza sarees bahut trend mein hain. Yeh budget-friendly hone ke sath-sath kafi stylish lagti hain.\n\n---\n\n### 2. Best Online Shopping Platforms (Kahan se kharidein?)\n\n| Platform / Website | Budget Range | Best For |\n| :--- | :--- | :--- |\n| **Meesho** | ₹300 - ₹1,500 | Ultra-budget shopping, simple functions ya guests ke liye heavy-look lightweight sarees. |\n| **Myntra** | ₹1,500 - ₹5,000 | Branded ethnic labels (jaise Anouk, Ethnic Junction) aur reliable quality ke sath festive/wedding sarees. |\n| **Utsav Fashion & Koskii** | ₹2,000 - ₹6,000 | Dedicated ethnic wear, jahan spécialement shaadi ke liye curated collections (Kanjivaram, Net, Zari work) milte hain. |\n| **Flipkart / Amazon** | ₹500 - ₹3,000 | Local manufacturers aur regional silk/cotton blend sarees ki wide variety aur fast delivery ke liye. |\n\n---\n\n### 3. Smart Shopping Tips (Kuch zaroori baatein)\n\n* **Return Policy Check Karein:** Online saree mangwate samay fabric quality aur color ka andaza hamesha photo se nahi lagta, isliye sirf usi platform se order karein jahan **Easy Return/Exchange Policy** ho.\n* **Reviews Padhein:** Agar aap Meesho, Flipkart ya Amazon se le rahe hain, toh customer reviews aur uploaded photos zaroor check kar lein taaki real fabric quality ka pata chal sake.\n* **Blouse Piece Details:[www.meesho.com](https://www.meesho.com/wedding-sarees/pl/3li#:~:text=*%20Ikat%20Net%20Embroidered%20Saree%20With%20Blouse.,3.9%20307%20Reviews.%20*%20Aagyeyi%20Alluring%20Sarees.)** Yeh zaroor check kar lein ki saree ke sath unstitched blouse piece attached hai ya nahi.",
+  "citations": [
+   {
+    "url": "https://www.myntra.com/wedding-sarees-below-5000#:~:text=Soft%20Banarasi%20Silk%20Saree.%20%E2%82%B94%2C331.%2078%25%20OFF.,%E2%82%B95%2C997.%2080%25%20OFF.%20*%20P%20K%20SAREES.",
+    "source_name": "Myntra",
+    "position": 1
+   },
+   {
+    "url": "https://in.kalkifashion.com/collections/bridal-saree#:~:text=Every%20bride%20wants%20a%20traditional%20saree%2C%20but,appealing.%20*%20Modern%20Bridal%20Tissue%20%26%20Organza.",
+    "source_name": "KALKI Fashion India",
+    "position": 2
+   },
+   {
+    "url": "https://www.meesho.com/wedding-sarees/pl/3li#:~:text=*%20Ikat%20Net%20Embroidered%20Saree%20With%20Blouse.,3.9%20307%20Reviews.%20*%20Aagyeyi%20Alluring%20Sarees.",
+    "source_name": "Meesho",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "14.3179 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141320-2163-0629-0000-79826584b81a",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "14.3062 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "gemini",
+     "keyword": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-08-14 13:20:25 +00:00",
+      "markdown": "Bharat mein shaadi ke liye budget mein sarees kharidne ke liye kai acche online platforms aur options available hain. Agar aap kam budget mein ek shandar aur heavy look chahte hain, toh yahan kuch behtareen choices aur websites ki list di gayi hai:\n\n### 1. Budget-Friendly Sarees ke Types (Kya kharidein?)\n\n* **Banarasi Silk Blend / Soft Banarasi Sarees:[www.myntra.com](https://www.myntra.com/wedding-sarees-below-5000#:~:text=Soft%20Banarasi%20Silk%20Saree.%20%E2%82%B94%2C331.%2078%25%20OFF.,%E2%82%B95%2C997.%2080%25%20OFF.%20*%20P%20K%20SAREES.)** Agar aapko traditional aur rich look chahiye, toh ₹1,500 se ₹4,000 ke budget mein artificial ya blended Banarasi sarees bahut shandar lagti hain. Inka pallu heavy hota hai jo wedding functions ke liye perfect hai.\n* **Georgette & Chiffon with Sequins / Embroidery:** Sangeet ya Cocktail party ke liye lightweight aur glamorous look ke liye sequins ya zari work wali georgette sarees chun sakte hain. Yeh ₹1,000 - ₹2,500 ki range mein aasaani se mil jati hain.\n* **Organza / Tissue Sarees:[in.kalkifashion.com](https://in.kalkifashion.com/collections/bridal-saree#:~:text=Every%20bride%20wants%20a%20traditional%20saree%2C%20but,appealing.%20*%20Modern%20Bridal%20Tissue%20%26%20Organza.)** Aajkal minimalist aur modern look ke liye pastel shades (jaise mint green, lavender, peach) mein organza sarees bahut trend mein hain. Yeh budget-friendly hone ke sath-sath kafi stylish lagti hain.\n\n---\n\n### 2. Best Online Shopping Platforms (Kahan se kharidein?)\n\n| Platform / Website | Budget Range | Best For |\n| :--- | :--- | :--- |\n| **Meesho** | ₹300 - ₹1,500 | Ultra-budget shopping, simple functions ya guests ke liye heavy-look lightweight sarees. |\n| **Myntra** | ₹1,500 - ₹5,000 | Branded ethnic labels (jaise Anouk, Ethnic Junction) aur reliable quality ke sath festive/wedding sarees. |\n| **Utsav Fashion & Koskii** | ₹2,000 - ₹6,000 | Dedicated ethnic wear, jahan spécialement shaadi ke liye curated collections (Kanjivaram, Net, Zari work) milte hain. |\n| **Flipkart / Amazon** | ₹500 - ₹3,000 | Local manufacturers aur regional silk/cotton blend sarees ki wide variety aur fast delivery ke liye. |\n\n---\n\n### 3. Smart Shopping Tips (Kuch zaroori baatein)\n\n* **Return Policy Check Karein:** Online saree mangwate samay fabric quality aur color ka andaza hamesha photo se nahi lagta, isliye sirf usi platform se order karein jahan **Easy Return/Exchange Policy** ho.\n* **Reviews Padhein:** Agar aap Meesho, Flipkart ya Amazon se le rahe hain, toh customer reviews aur uploaded photos zaroor check kar lein taaki real fabric quality ka pata chal sake.\n* **Blouse Piece Details:[www.meesho.com](https://www.meesho.com/wedding-sarees/pl/3li#:~:text=*%20Ikat%20Net%20Embroidered%20Saree%20With%20Blouse.,3.9%20307%20Reviews.%20*%20Aagyeyi%20Alluring%20Sarees.)** Yeh zaroor check kar lein ki saree ke sath unstitched blouse piece attached hai ya nahi.",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Buy Wedding Sarees Below 5000 online in India - Myntra",
+        "snippet": "Soft Banarasi Silk Saree. ₹4,331. 78% OFF. * Cloth collective. Floral \nChanderi Poly Georgette Saree. ₹2,999. 63% OFF. * AD. 4.4. AANVI. Saree. \nDeal of the Day. ...",
+        "domain": "www.myntra.com",
+        "url": "https://www.myntra.com/wedding-sarees-below-5000#:~:text=Soft%20Banarasi%20Silk%20Saree.%20%E2%82%B94%2C331.%2078%25%20OFF.,%E2%82%B95%2C997.%2080%25%20OFF.%20*%20P%20K%20SAREES.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTw1BtjoTldkUDxbDnTik8KkWfq_cz9NX8aNFGEZaiat6NsJDZaj7moFtfT3Bs-9fJ07ofETgln4uG07JPimWSbVt4SrREN1yYA",
+        "source_name": "Myntra",
+        "publication_date": null,
+        "markdown": "**Banarasi Silk Blend / Soft Banarasi Sarees:**"
+       },
+       {
+        "type": "gemini_source",
+        "title": "Buy Bridal Saree for Women - Wedding & Reception Sarees Online - KALKI \nFashion India",
+        "snippet": "Every bride wants a traditional saree, but also wishes for masterpieces \nthat reflect modernity. The ornate designer sarees with modern blouses or \npre-draped sar...",
+        "domain": "in.kalkifashion.com",
+        "url": "https://in.kalkifashion.com/collections/bridal-saree#:~:text=Every%20bride%20wants%20a%20traditional%20saree%2C%20but,appealing.%20*%20Modern%20Bridal%20Tissue%20%26%20Organza.",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRosaPCg8Lcc3TwfkGTuXVkeLtCIG51_ZskroFj3K91OUTrhiK6bFQQzwErqFDeBQBaa87hXxpwN0b10JKejQ5p_9hyJojdc8zDqBLJpkw",
+        "source_name": "KALKI Fashion India",
+        "publication_date": null,
+        "markdown": "**Organza / Tissue Sarees:**"
+       },
+       {
+        "type": "gemini_source",
+        "title": "Wedding Sarees: Shop Latest Collection Online in India - Meesho",
+        "snippet": "* Ikat Net Embroidered Saree With Blouse. ₹330. ₹336. 2% off. 3.9 3061 \nReviews. * Charvi Fashionable Sarees. ₹316. 3.8 18781 Reviews. * Charvi \nVoguish Sarees. ₹...",
+        "domain": "www.meesho.com",
+        "url": "https://www.meesho.com/wedding-sarees/pl/3li#:~:text=*%20Ikat%20Net%20Embroidered%20Saree%20With%20Blouse.,3.9%20307%20Reviews.%20*%20Aagyeyi%20Alluring%20Sarees.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQyI6Cz4DyMmtOANj1qtLzvOYj0VXymgQaOXmC4iOI1g4FAtbaz0yQJ7M2cACiNSiGxy6HFSIYGQ2OnqYJ0x2i28J8P3dN7vPH2",
+        "source_name": "Meesho",
+        "publication_date": null,
+        "markdown": "**Blouse Piece Details:**"
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Bharat mein shaadi ke liye budget mein sarees kharidne ke liye kai acche online platforms aur options available hain. Agar aap kam budget mein ek shandar aur heavy look chahte hain, toh yahan kuch behtareen choices aur websites ki list di gayi hai:",
+        "original_text": "Bharat mein shaadi ke liye budget mein sarees kharidne ke liye kai acche online platforms aur options available hain. Agar aap kam budget mein ek shandar aur heavy look chahte hain, toh yahan kuch behtareen choices aur websites ki list di gayi hai:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### 1. Budget-Friendly Sarees ke Types (Kya kharidein?)",
+        "original_text": "1. Budget-Friendly Sarees ke Types (Kya kharidein?)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Banarasi Silk Blend / Soft Banarasi Sarees:[www.myntra.com](https://www.myntra.com/wedding-sarees-below-5000#:~:text=Soft%20Banarasi%20Silk%20Saree.%20%E2%82%B94%2C331.%2078%25%20OFF.,%E2%82%B95%2C997.%2080%25%20OFF.%20*%20P%20K%20SAREES.)** Agar aapko traditional aur rich look chahiye, toh ₹1,500 se ₹4,000 ke budget mein artificial ya blended Banarasi sarees bahut shandar lagti hain. Inka pallu heavy hota hai jo wedding functions ke liye perfect hai.\n* **Georgette & Chiffon with Sequins / Embroidery:** Sangeet ya Cocktail party ke liye lightweight aur glamorous look ke liye sequins ya zari work wali georgette sarees chun sakte hain. Yeh ₹1,000 - ₹2,500 ki range mein aasaani se mil jati hain.\n* **Organza / Tissue Sarees:[in.kalkifashion.com](https://in.kalkifashion.com/collections/bridal-saree#:~:text=Every%20bride%20wants%20a%20traditional%20saree%2C%20but,appealing.%20*%20Modern%20Bridal%20Tissue%20%26%20Organza.)** Aajkal minimalist aur modern look ke liye pastel shades (jaise mint green, lavender, peach) mein organza sarees bahut trend mein hain. Yeh budget-friendly hone ke sath-sath kafi stylish lagti hain.",
+        "original_text": "Banarasi Silk Blend / Soft Banarasi Sarees: Agar aapko traditional aur rich look chahiye, toh ₹1,500 se ₹4,000 ke budget mein artificial ya blended Banarasi sarees bahut shandar lagti hain. Inka pallu heavy hota hai jo wedding functions ke liye perfect hai.\nGeorgette & Chiffon with Sequins / Embroidery: Sangeet ya Cocktail party ke liye lightweight aur glamorous look ke liye sequins ya zari work wali georgette sarees chun sakte hain. Yeh ₹1,000 - ₹2,500 ki range mein aasaani se mil jati hain.\nOrganza / Tissue Sarees: Aajkal minimalist aur modern look ke liye pastel shades (jaise mint green, lavender, peach) mein organza sarees bahut trend mein hain. Yeh budget-friendly hone ke sath-sath kafi stylish lagti hain.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Buy Wedding Sarees Below 5000 online in India - Myntra",
+          "snippet": "Soft Banarasi Silk Saree. ₹4,331. 78% OFF. * Cloth collective. Floral \nChanderi Poly Georgette Saree. ₹2,999. 63% OFF. * AD. 4.4. AANVI. Saree. \nDeal of the Day. ...",
+          "domain": "www.myntra.com",
+          "url": "https://www.myntra.com/wedding-sarees-below-5000#:~:text=Soft%20Banarasi%20Silk%20Saree.%20%E2%82%B94%2C331.%2078%25%20OFF.,%E2%82%B95%2C997.%2080%25%20OFF.%20*%20P%20K%20SAREES.",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTw1BtjoTldkUDxbDnTik8KkWfq_cz9NX8aNFGEZaiat6NsJDZaj7moFtfT3Bs-9fJ07ofETgln4uG07JPimWSbVt4SrREN1yYA",
+          "source_name": "Myntra",
+          "publication_date": null,
+          "markdown": "**Banarasi Silk Blend / Soft Banarasi Sarees:**"
+         },
+         {
+          "type": "gemini_source",
+          "title": "Buy Bridal Saree for Women - Wedding & Reception Sarees Online - KALKI \nFashion India",
+          "snippet": "Every bride wants a traditional saree, but also wishes for masterpieces \nthat reflect modernity. The ornate designer sarees with modern blouses or \npre-draped sar...",
+          "domain": "in.kalkifashion.com",
+          "url": "https://in.kalkifashion.com/collections/bridal-saree#:~:text=Every%20bride%20wants%20a%20traditional%20saree%2C%20but,appealing.%20*%20Modern%20Bridal%20Tissue%20%26%20Organza.",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRosaPCg8Lcc3TwfkGTuXVkeLtCIG51_ZskroFj3K91OUTrhiK6bFQQzwErqFDeBQBaa87hXxpwN0b10JKejQ5p_9hyJojdc8zDqBLJpkw",
+          "source_name": "KALKI Fashion India",
+          "publication_date": null,
+          "markdown": "**Organza / Tissue Sarees:**"
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### 2. Best Online Shopping Platforms (Kahan se kharidein?)",
+        "original_text": "2. Best Online Shopping Platforms (Kahan se kharidein?)",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 5,
+        "markdown": "| Platform / Website | Budget Range | Best For |\n| :--- | :--- | :--- |\n| **Meesho** | ₹300 - ₹1,500 | Ultra-budget shopping, simple functions ya guests ke liye heavy-look lightweight sarees. |\n| **Myntra** | ₹1,500 - ₹5,000 | Branded ethnic labels (jaise Anouk, Ethnic Junction) aur reliable quality ke sath festive/wedding sarees. |\n| **Utsav Fashion & Koskii** | ₹2,000 - ₹6,000 | Dedicated ethnic wear, jahan spécialement shaadi ke liye curated collections (Kanjivaram, Net, Zari work) milte hain. |\n| **Flipkart / Amazon** | ₹500 - ₹3,000 | Local manufacturers aur regional silk/cotton blend sarees ki wide variety aur fast delivery ke liye. |",
+        "original_text": "Platform / Website\tBudget Range\tBest For\nMeesho\t₹300 - ₹1,500\tUltra-budget shopping, simple functions ya guests ke liye heavy-look lightweight sarees.\nMyntra\t₹1,500 - ₹5,000\tBranded ethnic labels (jaise Anouk, Ethnic Junction) aur reliable quality ke sath festive/wedding sarees.\nUtsav Fashion & Koskii\t₹2,000 - ₹6,000\tDedicated ethnic wear, jahan spécialement shaadi ke liye curated collections (Kanjivaram, Net, Zari work) milte hain.\nFlipkart / Amazon\t₹500 - ₹3,000\tLocal manufacturers aur regional silk/cotton blend sarees ki wide variety aur fast delivery ke liye.",
+        "table": {
+         "table_header": [
+          "Platform / Website",
+          "Budget Range",
+          "Best For"
+         ],
+         "table_content": [
+          [
+           "Meesho",
+           "₹300 - ₹1,500",
+           "Ultra-budget shopping, simple functions ya guests ke liye heavy-look lightweight sarees."
+          ],
+          [
+           "Myntra",
+           "₹1,500 - ₹5,000",
+           "Branded ethnic labels (jaise Anouk, Ethnic Junction) aur reliable quality ke sath festive/wedding sarees."
+          ],
+          [
+           "Utsav Fashion & Koskii",
+           "₹2,000 - ₹6,000",
+           "Dedicated ethnic wear, jahan spécialement shaadi ke liye curated collections (Kanjivaram, Net, Zari work) milte hain."
+          ],
+          [
+           "Flipkart / Amazon",
+           "₹500 - ₹3,000",
+           "Local manufacturers aur regional silk/cotton blend sarees ki wide variety aur fast delivery ke liye."
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "markdown": "### 3. Smart Shopping Tips (Kuch zaroori baatein)",
+        "original_text": "3. Smart Shopping Tips (Kuch zaroori baatein)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "markdown": "* **Return Policy Check Karein:** Online saree mangwate samay fabric quality aur color ka andaza hamesha photo se nahi lagta, isliye sirf usi platform se order karein jahan **Easy Return/Exchange Policy** ho.\n* **Reviews Padhein:** Agar aap Meesho, Flipkart ya Amazon se le rahe hain, toh customer reviews aur uploaded photos zaroor check kar lein taaki real fabric quality ka pata chal sake.\n* **Blouse Piece Details:[www.meesho.com](https://www.meesho.com/wedding-sarees/pl/3li#:~:text=*%20Ikat%20Net%20Embroidered%20Saree%20With%20Blouse.,3.9%20307%20Reviews.%20*%20Aagyeyi%20Alluring%20Sarees.)** Yeh zaroor check kar lein ki saree ke sath unstitched blouse piece attached hai ya nahi.",
+        "original_text": "Return Policy Check Karein: Online saree mangwate samay fabric quality aur color ka andaza hamesha photo se nahi lagta, isliye sirf usi platform se order karein jahan Easy Return/Exchange Policy ho.\nReviews Padhein: Agar aap Meesho, Flipkart ya Amazon se le rahe hain, toh customer reviews aur uploaded photos zaroor check kar lein taaki real fabric quality ka pata chal sake.\nBlouse Piece Details: Yeh zaroor check kar lein ki saree ke sath unstitched blouse piece attached hai ya nahi.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Wedding Sarees: Shop Latest Collection Online in India - Meesho",
+          "snippet": "* Ikat Net Embroidered Saree With Blouse. ₹330. ₹336. 2% off. 3.9 3061 \nReviews. * Charvi Fashionable Sarees. ₹316. 3.8 18781 Reviews. * Charvi \nVoguish Sarees. ₹...",
+          "domain": "www.meesho.com",
+          "url": "https://www.meesho.com/wedding-sarees/pl/3li#:~:text=*%20Ikat%20Net%20Embroidered%20Saree%20With%20Blouse.,3.9%20307%20Reviews.%20*%20Aagyeyi%20Alluring%20Sarees.",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQyI6Cz4DyMmtOANj1qtLzvOYj0VXymgQaOXmC4iOI1g4FAtbaz0yQJ7M2cACiNSiGxy6HFSIYGQ2OnqYJ0x2i28J8P3dN7vPH2",
+          "source_name": "Meesho",
+          "publication_date": null,
+          "markdown": "**Blouse Piece Details:**"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

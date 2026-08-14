@@ -1,0 +1,273 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "perplexity",
+  "rep": 1,
+  "promptText": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+  "cellId": "F02_hg_perplexity_r1",
+  "startedAt": "2026-08-14T12:54:17.462Z",
+  "finishedAt": "2026-08-14T12:54:21.367Z",
+  "durationMs": 3905,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Agar aap **₹3000 ke andar running shoes** lena chahte hain, to sabse safe picks ye rahenge: **Nike Run Defy**, **Skechers Go Run Consistent**, aur **Adidas Vacfast M**.[2] Inme se **Nike Run Defy** overall best all-round option dikh raha hai, **Skechers Go Run Consistent** cushioning ke liye aur **Adidas Vacfast M** budget/value ke liye strong choice hai.[2]\n\nAapke use-case ke hisaab se meri recommendation:\n\n- **Daily running / all-round use:** **Nike Run Defy** — 281g light build, soft foam midsole, aur 10mm drop ke saath daily trainer ke liye balanced option बताया गया है.[2]\n- **Zyada cushioning chahiye:** **Skechers Go Run Consistent** — ultra-light foam aur M-Strike tech ke saath comfort-focused option hai.[2]\n- **Sabse sasta value pick:** **Adidas Vacfast M** — ₹2,700 ke aas-paas best value aur 4.3★ rating ke saath listed hai.[2]\n- **Brand options under ₹3000 dekhne hain:** adidas aur PUMA ke under-₹3000 sections available hain, aur Flipkart par bhi 3000 ke andar kaafi options listed hain.[1][6][7][17]\n\n**Meri practical shortlist:**\n- **Best overall:** Nike Run Defy[2]\n- **Best comfort:** Skechers Go Run Consistent[2]\n- **Best budget/value:** Adidas Vacfast M[2]\n\nAgar aap chahen, main aapke liye **men’s ya women’s**, aur **road running / treadmill / walking** ke hisaab se **top 5 exact models** shortlists bana deta hoon.",
+  "citations": [
+   {
+    "url": "https://www.adidas.co.in/shoes_under_3000",
+    "position": 1
+   },
+   {
+    "url": "https://www.someinfo.in/picks/best-running-shoes-under-3000-india",
+    "position": 2
+   },
+   {
+    "url": "https://runnyday.in/best-running-shoes-under-3000/",
+    "position": 3
+   },
+   {
+    "url": "https://reviehub.in/best-running-shoes-under-%E2%82%B93000-india-2026-top-5-tested/",
+    "position": 4
+   },
+   {
+    "url": "https://wplov.in/best-running-shoes-under-3000-inr/",
+    "position": 5
+   },
+   {
+    "url": "https://www.flipkart.com/q/shoes-under-3000-rupees",
+    "position": 6
+   },
+   {
+    "url": "https://in.puma.com/in/en/shop/shoes-under-3000",
+    "position": 7
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=B9iKyc7Ncio",
+    "position": 8
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=BhQfZBp2k-s",
+    "position": 9
+   },
+   {
+    "url": "https://www.myntra.com/sports-shoes-under-3000",
+    "position": 10
+   },
+   {
+    "url": "https://www.reddit.com/r/indianrunners/comments/1q84c77/need_running_shoe_recommendations_under_3000_510/",
+    "position": 11
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=qxG3Kmc4eAc",
+    "position": 12
+   },
+   {
+    "url": "https://impakto.in/pages/running-mens",
+    "position": 13
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=9xJofVPXkYI",
+    "position": 14
+   },
+   {
+    "url": "https://www.reddit.com/r/SneakersIndia/comments/1m6nawr/running_shoes_under_3k_decathlon_or_any_other/",
+    "position": 15
+   },
+   {
+    "url": "https://www.instagram.com/reel/DVn4X5vEW6r/",
+    "position": 16
+   },
+   {
+    "url": "https://www.flipkart.com/mens-footwear/mens-sports-shoes/running-shoes~type/pr?sid=osp,cil,1cu",
+    "position": 17
+   }
+  ],
+  "costUsd": 0.005461
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.6567 sec.",
+  "cost": 0.006061,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141254-2163-0612-0000-75513e365802",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.6419 sec.",
+    "cost": 0.006061,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 425,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005461,
+      "datetime": "2026-08-14 12:54:21 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "Agar aap **₹3000 ke andar running shoes** lena chahte hain, to sabse safe picks ye rahenge: **Nike Run Defy**, **Skechers Go Run Consistent**, aur **Adidas Vacfast M**.[2] Inme se **Nike Run Defy** overall best all-round option dikh raha hai, **Skechers Go Run Consistent** cushioning ke liye aur **Adidas Vacfast M** budget/value ke liye strong choice hai.[2]\n\nAapke use-case ke hisaab se meri recommendation:\n\n- **Daily running / all-round use:** **Nike Run Defy** — 281g light build, soft foam midsole, aur 10mm drop ke saath daily trainer ke liye balanced option बताया गया है.[2]\n- **Zyada cushioning chahiye:** **Skechers Go Run Consistent** — ultra-light foam aur M-Strike tech ke saath comfort-focused option hai.[2]\n- **Sabse sasta value pick:** **Adidas Vacfast M** — ₹2,700 ke aas-paas best value aur 4.3★ rating ke saath listed hai.[2]\n- **Brand options under ₹3000 dekhne hain:** adidas aur PUMA ke under-₹3000 sections available hain, aur Flipkart par bhi 3000 ke andar kaafi options listed hain.[1][6][7][17]\n\n**Meri practical shortlist:**\n- **Best overall:** Nike Run Defy[2]\n- **Best comfort:** Skechers Go Run Consistent[2]\n- **Best budget/value:** Adidas Vacfast M[2]\n\nAgar aap chahen, main aapke liye **men’s ya women’s**, aur **road running / treadmill / walking** ke hisaab se **top 5 exact models** shortlists bana deta hoon.",
+          "annotations": [
+           {
+            "title": "Shop Sports Shoes Collection Under ₹3000 - adidas India",
+            "url": "https://www.adidas.co.in/shoes_under_3000",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "5 Best Running Shoes for Men Under ₹3,000 in India (2026 ...",
+            "url": "https://www.someinfo.in/picks/best-running-shoes-under-3000-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "The Best Running Shoes Under 3000 Rs. in India",
+            "url": "https://runnyday.in/best-running-shoes-under-3000/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Running Shoes Under ₹3000 India 2026 | Top 5 Tested",
+            "url": "https://reviehub.in/best-running-shoes-under-%E2%82%B93000-india-2026-top-5-tested/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 10 Best Running Shoes under 3000 INR - WpLov",
+            "url": "https://wplov.in/best-running-shoes-under-3000-inr/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shoes Under 3000 Rupees - Flipkart",
+            "url": "https://www.flipkart.com/q/shoes-under-3000-rupees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Shoes Under 3000 & Get Upto 50% Off Online | PUMA India",
+            "url": "https://in.puma.com/in/en/shop/shoes-under-3000",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "5 Best Running Shoes For Men Under 3000 | Best Amazon Running Shoes Adidas, Puma, Asics Haul 2026🔥",
+            "url": "https://www.youtube.com/watch?v=B9iKyc7Ncio",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "BEST BUDGET RUNNING SHOES (1000-3000Rs) Hindi...",
+            "url": "https://www.youtube.com/watch?v=BhQfZBp2k-s",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Sports Shoes Under 3000 - Myntra",
+            "url": "https://www.myntra.com/sports-shoes-under-3000",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Need running shoe recommendations under ₹3000 (5–10 km daily)",
+            "url": "https://www.reddit.com/r/indianrunners/comments/1q84c77/need_running_shoe_recommendations_under_3000_510/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 7 Best Running Shoes Under 3000 INR | Best Running Shoes in India (2024 EDITION)",
+            "url": "https://www.youtube.com/watch?v=qxG3Kmc4eAc",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Running Shoes for Men Under ₹3000 | Impakto",
+            "url": "https://impakto.in/pages/running-mens",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Running Shoes Rs 3000 | Hindi | Road Running Shoes",
+            "url": "https://www.youtube.com/watch?v=9xJofVPXkYI",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Running shoes under 3k ? Decathlon or any other ?",
+            "url": "https://www.reddit.com/r/SneakersIndia/comments/1m6nawr/running_shoes_under_3k_decathlon_or_any_other/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "best running shoes under 3000 - Instagram",
+            "url": "https://www.instagram.com/reel/DVn4X5vEW6r/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Running Shoes at Affordable Prices in India | Flipkart.com",
+            "url": "https://www.flipkart.com/mens-footwear/mens-sports-shoes/running-shoes~type/pr?sid=osp,cil,1cu",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

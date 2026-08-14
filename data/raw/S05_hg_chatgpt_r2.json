@@ -1,0 +1,362 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S05",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 2,
+  "promptText": "India mein acne wali skin ke liye 700 rupees ke andar konsa serum kharidun?",
+  "cellId": "S05_hg_chatgpt_r2",
+  "startedAt": "2026-08-14T12:33:57.894Z",
+  "finishedAt": "2026-08-14T12:34:13.542Z",
+  "durationMs": 15648,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Haan 👍 ₹700 ke andar acne-prone skin ke liye **Salicylic Acid** serum meri first choice hogi—especially agar pimples, blackheads ya oily skin hai.\n\n### 🥇 Meri top pick\n### [Minimalist Salicylic Acid Face Serum]()\n*₹224*\n\n**Minimalist 2% Salicylic Acid Serum** — around ₹495–₹549 for 30 ml. Brand ke according ye acne, blackheads aur excess oil ke liye formulated hai, fragrance-free aur non-comedogenic bhi hai. [beminimalist.co](https://beminimalist.co/collections/serums-acne-acne-prone-skin/products/salicylic-acid-2?utm_source=chatgpt.com)\n\n**Kaise use karein:**  \n- Raat ko face wash ke baad **2–3 drops**\n- Starting mein **alternate nights**\n- Irritation na ho toh gradually daily use kar sakte ho\n- Subah **sunscreen zaroor**\n\n### Agar acne marks + oily skin zyada hai\n### [Minimalist Niacinamide Face Serum]()\n*₹237*\n\n**Minimalist Niacinamide 10%** ~₹570. Ye sebum/oil control, pores aur acne marks ke liye better option hai. [beminimalist.co](https://beminimalist.co/products/niacinamide-10-with-matmarine?_pos=4&_sid=c2e5d3891&_ss=r&utm_source=chatgpt.com)\n\n**Simple choice:**  \n- 🔴 **Active pimples/blackheads → Salicylic Acid 2%**\n- 🟤 **Acne marks + oiliness → Niacinamide 10%**\n- 😣 **Sensitive/dry skin → Niacinamide 5%** (gentler option) [beminimalist.co](https://beminimalist.co/collections/treatments/products/niacinamide-5-face-serum-10ml?utm_source=chatgpt.com)\n\nAgar tum mujhe bata do **skin oily/dry/combination hai aur acne kaisa hai (small bumps, whiteheads, painful pimples ya marks)**, toh main ₹700 ke andar **exact 1 serum** recommend kar dunga.",
+  "citations": [
+   {
+    "url": "https://beminimalist.co/collections/serums-acne-acne-prone-skin/products/salicylic-acid-2?utm_source=chatgpt.com",
+    "source_name": "Minimalist",
+    "position": 1
+   },
+   {
+    "url": "https://beminimalist.co/products/niacinamide-10-with-matmarine?_pos=4&_sid=c2e5d3891&_ss=r&utm_source=chatgpt.com",
+    "source_name": "Minimalist",
+    "position": 2
+   },
+   {
+    "url": "https://beminimalist.co/collections/treatments/products/niacinamide-5-face-serum-10ml?utm_source=chatgpt.com",
+    "source_name": "Minimalist",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "15.2852 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141233-2163-0629-0000-701f8b296914",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "15.1393 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "India mein acne wali skin ke liye 700 rupees ke andar konsa serum kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein acne wali skin ke liye 700 rupees ke andar konsa serum kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=India%20mein%20acne%20wali%20skin%20ke%20liye%20700%20rupees%20ke%20andar%20konsa%20serum%20kharidun%3F&hints=search",
+      "datetime": "2026-08-14 12:34:13 +00:00",
+      "markdown": "Haan 👍 ₹700 ke andar acne-prone skin ke liye **Salicylic Acid** serum meri first choice hogi—especially agar pimples, blackheads ya oily skin hai.\n\n### 🥇 Meri top pick\n### [Minimalist Salicylic Acid Face Serum]()\n*₹224*\n\n**Minimalist 2% Salicylic Acid Serum** — around ₹495–₹549 for 30 ml. Brand ke according ye acne, blackheads aur excess oil ke liye formulated hai, fragrance-free aur non-comedogenic bhi hai. [beminimalist.co](https://beminimalist.co/collections/serums-acne-acne-prone-skin/products/salicylic-acid-2?utm_source=chatgpt.com)\n\n**Kaise use karein:**  \n- Raat ko face wash ke baad **2–3 drops**\n- Starting mein **alternate nights**\n- Irritation na ho toh gradually daily use kar sakte ho\n- Subah **sunscreen zaroor**\n\n### Agar acne marks + oily skin zyada hai\n### [Minimalist Niacinamide Face Serum]()\n*₹237*\n\n**Minimalist Niacinamide 10%** ~₹570. Ye sebum/oil control, pores aur acne marks ke liye better option hai. [beminimalist.co](https://beminimalist.co/products/niacinamide-10-with-matmarine?_pos=4&_sid=c2e5d3891&_ss=r&utm_source=chatgpt.com)\n\n**Simple choice:**  \n- 🔴 **Active pimples/blackheads → Salicylic Acid 2%**\n- 🟤 **Acne marks + oiliness → Niacinamide 10%**\n- 😣 **Sensitive/dry skin → Niacinamide 5%** (gentler option) [beminimalist.co](https://beminimalist.co/collections/treatments/products/niacinamide-5-face-serum-10ml?utm_source=chatgpt.com)\n\nAgar tum mujhe bata do **skin oily/dry/combination hai aur acne kaisa hai (small bumps, whiteheads, painful pimples ya marks)**, toh main ₹700 ke andar **exact 1 serum** recommend kar dunga.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://beminimalist.co/collections/serums-acne-acne-prone-skin?utm_source=chatgpt.com",
+        "domain": "beminimalist.co",
+        "title": "Serums - Acne/Acne Prone Skin – Minimalist",
+        "description": "Showing 6 products  Niacinamide 10% Face Serum  Acne Marks, Acne Prone & Oily Skin  On Sale from ₹ 237 ~~ ~~  ₹ 570 ~~₹ 599~~  Select Size  [Input] 30ml  [Input] 60ml  [Input] 10ml  Select Size [Sele...",
+        "breadcrumb": "beminimalist.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://beminimalist.co/collections/best-sellers/products/niacinamide-5-face-serum-10ml?utm_source=chatgpt.com",
+        "domain": "beminimalist.co",
+        "title": "Niacinamide 5% for Clear Skin (Evens Skin Tone & Repairs) - Face Serum with Vitamin B3 & Hyaluronic Acid 1% for Dry, Sensitive Skin | Minimalist",
+        "description": "NIACINAMIDE 5% FACE SERUM 10ML  Hydrates, Repairs & Soothes Skin  A nourishing & hydrating daily serum that repairs damaged barrier & soothes sensitive skin. Ideal for people with dry, sensitive skin...",
+        "breadcrumb": "beminimalist.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://beminimalist.co/products/niacinamide-5-hyaluronic-acid-1?_pos=7&_sid=2e109fb13&_ss=r&utm_source=chatgpt.com",
+        "domain": "beminimalist.co",
+        "title": "Niacinamide 5% for Clear Skin (Evens Skin Tone & Repairs) - Face Serum with Vitamin B3 & Hyaluronic Acid 1% for Dry, Sensitive Skin | Minimalist",
+        "description": "Image: Niacinamide 5% Face Serum  Image: Niacinamide 5% Face Serum  Image: Niacinamide 5% Face Serum  Image: Niacinamide 5% Face Serum  Image: Niacinamide 5% Face Serum  Image: Niacinamide 5% Face Se...",
+        "breadcrumb": "beminimalist.co"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.1mg.com/otc/minimalist-05-niacinamide-face-serum-reduces-dullness-and-acne-spots-otc661043?utm_source=chatgpt.com",
+        "domain": "www.1mg.com",
+        "title": "Minimalist 05% Niacinamide Face Serum | Reduces Dullness and Acne Spots: Buy bottle of 30.0 ml Serum at best price in India | 1mg",
+        "description": "MINIMALIST 05% NIACINAMIDE FACE SERUM | REDUCES DULLNESS AND ACNE SPOTS  ₹599  Get for  ₹539  Image: right chevron icon  on orders above ₹1200  Use Code 1MGNEWPLUS  Get for  ₹551  Image: right chevro...",
+        "breadcrumb": "1mg.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.1mg.com/otc/minimalist-10-niacinamide-face-serum-reduces-oil-and-acne-spots-face-care-product-for-all-skin-types-otc661033?utm_source=chatgpt.com",
+        "domain": "www.1mg.com",
+        "title": "Minimalist 10% Niacinamide Face Serum | Reduces Oil and Acne Spots | Face Care Product for All Skin Types: Buy bottle of 30.0 ml Serum at best price in India | 1mg",
+        "description": "MINIMALIST 10% NIACINAMIDE FACE SERUM | REDUCES OIL AND ACNE SPOTS | FACE CARE PRODUCT FOR ALL SKIN TYPES  ₹569  ₹599  5% off  Get for  ₹512  Size:  30 ml Serum  30 ml Serum  10 ml Serum  Get in 60 m...",
+        "breadcrumb": "1mg.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.1mg.com/categories/skin-care/face-serums-4432?utm_source=chatgpt.com",
+        "domain": "www.1mg.com",
+        "title": "Online Pharmacy India | Buy Medicines from India's Trusted Medicine Store: 1mg.com",
+        "description": "Minimalist Salicylic Acid 2% Face Serum | Reduces Oil, Acne & Blackheads | Face Care Product for Acne-Prone Skin 30 ml Serum 4.2 105 ratings Get in 60 mins₹549₹494 order for₹1200 ADD  The Derma Co 10%...",
+        "breadcrumb": "1mg.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.1mg.com/otc/661028?utm_source=chatgpt.com",
+        "domain": "www.1mg.com",
+        "title": "Minimalist Salicylic Acid 2% Face Serum | Reduces Oil, Acne & Blackheads | Face Care Product for Acne-Prone Skin: Buy bottle of 30.0 ml Serum at best price in India | 1mg",
+        "description": "MINIMALIST SALICYLIC ACID 2% FACE SERUM | REDUCES OIL, ACNE & BLACKHEADS | FACE CARE PRODUCT FOR ACNE-PRONE SKIN  ₹549  Get for  ₹494  Image: right chevron icon  on orders above ₹1200  Use Code 1MGNE...",
+        "breadcrumb": "1mg.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.nykaa.com/dp/serum-for-open-pores?utm_source=chatgpt.com",
+        "domain": "www.nykaa.com",
+        "title": "Buy Serum For Open Pores Online At Discounted Prices From Top Brands",
+        "description": "BUY SERUM FOR OPEN PORES ONLINE  (100)   The Derma Co Pore Minimizing Face Serum With 4% Niacinamide,...₹599₹52712% Off Regular price ₹599. Discounted price ₹527. 12% Off.Enjoy Complimentary Gift( 52...",
+        "breadcrumb": "nykaa.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.mirhaandco.com/blog/minimalist-vs-ordinary-niacinamide?utm_source=chatgpt.com",
+        "domain": "www.mirhaandco.com",
+        "title": "Minimalist vs The Ordinary Niacinamide — Which 10% Serum Wins for Indian Skin?",
+        "description": "Beauty · Skincare · Niacinamide Comparison  MINIMALIST vs The Ordinary — Which 10% Serum Actually Wins?  Mirha & Co.29 June 2026 7 min read Head-to-Head Indian Skin  Both are 10% niacinamide with 1%...",
+        "breadcrumb": "mirhaandco.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Salicylic Acid 2% Fights Breakout & Blackheads. Reduces Open Pores, Excess Oil - BHA Facial Exfoliating Serum for Acne Prone, Oily Skin | Minimalist",
+        "snippet": null,
+        "domain": "beminimalist.co",
+        "url": "https://beminimalist.co/collections/serums-acne-acne-prone-skin/products/salicylic-acid-2?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Minimalist",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Niacinamide 10% + Zinc & Matmarine for Blemishes, Acne Marks, Oil Balancing & Dark Spot - Clarifying Face Serum for Acne Prone or Oily Skin | Minimalist",
+        "snippet": null,
+        "domain": "beminimalist.co",
+        "url": "https://beminimalist.co/products/niacinamide-10-with-matmarine?_pos=4&_sid=c2e5d3891&_ss=r&utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Minimalist",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Niacinamide 5% for Clear Skin (Evens Skin Tone & Repairs) - Face Serum with Vitamin B3 & Hyaluronic Acid 1% for Dry, Sensitive Skin | Minimalist",
+        "snippet": null,
+        "domain": "beminimalist.co",
+        "url": "https://beminimalist.co/collections/treatments/products/niacinamide-5-face-serum-10ml?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Minimalist",
+        "publication_date": null,
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best acne serum India under 700 Minimalist salicylic acid niacinamide 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 5,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Haan 👍 ₹700 ke andar acne-prone skin ke liye **Salicylic Acid** serum meri first choice hogi—especially agar pimples, blackheads ya oily skin hai.\n\n### 🥇 Meri top pick\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "1900532667665884872",
+          "merchants": "Purplle.com - Beauty Shop + others",
+          "id_to_token_map": "PEEf6HicdVPJquNWEA39BYGssmsCvXoY7r0aLOXxArJGy5ZkzbI2Rr4abU2WJUsy-ZrXA3SWnZB_6V7kW-JknRTUourAOQV1zl_fff-aFH_usv4QXVJ-bUTbbhB3i8V847nPbdfEA-6L-HfEkhRBMSRFs5BhqSVNEZ9x1Edlkz1QyAJAEYimlzRNMQzJLNGXPInisqgTI02TTmjwPyTEEgKWQCxDkZAk6SVJ_FZUUZb8C_8Bl4BlWYoF7HJJ0JBkIaTed_H1K7njD5BABM1QFP3QRoACiKWIX3eWIRz-B_x4GZJu_vpLhOvk6Zp0Q_VUFxEu6qgq4scmKgs8P_rpsYufhjpOuqd3InrHoHcrdgnAU1HHRfQxa_897T8E3j94vjxmkkYMTQOKhUsGQvi-vfWvefZhGMrk60_jE8-tzTW_tm3EniL5fLWRN-_9Kd-K5RDKZf6ala9F_ZqXr0n9qYnaW4q_vflBbK4Cfx15021bT7CADVeNI3qXUGlBJLaFRbTpUclHx_e0WDFnB0FZl0eoK2Ge-GJvwRwljjQ6p5WFfarZui1voZw372rqSO3K9Vr3KLdSiHo_BufZDLTJ8tnRV8JTUrrTvsojTfDavec1euANUQX3EQiRLeSDdlKvhhzqvtv3jid1sZxrsV-62I8tTR5Hy5-GsPL4EOHZOUuOraggBv2AITPG1eRGvlQda2sdAqq1XDgYTtg5UkZgouWPrtVbrrc7VtNWV9rGldU6mOHtiNhd5IiU43pT6HuOJeeTL60mXW7tuCwlT1hFISirpAprfOImWy5H1-2l8Jz1vsfqVm0hE-q1ec4rLygJfA4F14eRdvKUSMi7-MzuHGlF7_1y3geqEhC5Hp_DTislCyuqsXU886E7PvC76-knHaijU2kjFqUpRPrWkDTyKHvtUfBgfI8H567ZUrmqY4nNsR8KtsvmjqJCy-P6bVAiE4jR-iyJmFhTYanT2G1XepDbulSOoSdZFhBnXS43W9dSTciQnit-mK5d-hVwEtXbBr24SKizQzWw1xY2odYnu0V24orZzH5-GJF-JI0hH5alP-GmORfJtzc_2iJn8crB5jTRXjviC5-Z64kWV89vOZF_4WLVE6Nr3DRzbxQOkclpQAuIdCudYXG85UxlMPiyG_pgydmmgyvmdkPqcRif3wreS0MW9SOMhuW416tigtk4HlIE29wGIic1ZDxbU5Wj-4YTuUc9vz0c7AQPXbKwHWv3wulVOEZgT7AGJtVLio0WMFw_LtQzq-jpqUPhRk0OXFBcuiRlYhnfQCLfwSLYu1LPrm7XISNBMxrITg19r7oLUiJve2FY1Eoqk0om4eD5rb4WXiiCeJE3ShJrVnmOD2J8ODn61fSTQVrg6CxTZ9q1l_vL48OxLV8YMoA-uEMiLcPaZvf1gg8Xm9E4KYeAdQs3U20icQiQ0fxQhFTd9aHd53dZ20j8drRAwYt6Q984VanYW741MRjnxREQTJ_6J7NT7OWF9TcnuJd9TF76kZOhL-dnRiO2m3vFUqfJ9YupV7GlFGONOH51NEcXzeZUSUxTUKq32C6SzgnJLLSEvXREBSfeVtkhixj3NJQkLHJ0NA4rNlKXvRIagraxznRv5lQ66gx3vWXrvwHZTv05",
+          "title": "Minimalist Salicylic Acid Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.3,
+           "votes_count": 5700,
+           "rating_max": 5
+          },
+          "price": 224,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/RoGLUnicDcndEoFAGADQJyJqTDFjTGTXT7KVargxtdl2DduyX9RLeR9vw7k93w8HUHpiGBdJn52CS9mDQlr9SkMOgvZpfTc0r5USspo9pv-buEE5xjR-yvp1JSH3wGXeui2siNgj0mCvo-y1xbc3Ms0hH5SoCdwRnJYCK-g2bC98namQV7bHZTOeU-KXAYlzCSgSUSatVfWoU4lMZorFMSniwz1xWHrWymn93Q9gyj7k"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "Pgt_aqfCIOaLruEP--yvCA",
+            "product_id": "2945358456918957653",
+            "catalog_id": "1900532667665884872",
+            "gpcid": "13236855657620502953",
+            "headline_offer_docid": "2371093298541446743",
+            "image_docid": "17099959097736149115",
+            "rds": "PC_13236855657620502953|PROD_PC_13236855657620502953",
+            "query": "acne+serum+niacinamide+salicylic+acid+under+%E2%82%B9700+india",
+            "mid": "576462866059178111",
+            "pvt": "hg",
+            "uule": "w+CAIQICISS29jaGksS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n**Minimalist 2% Salicylic Acid Serum** — around ₹495–₹549 for 30 ml. Brand ke according ye acne, blackheads aur excess oil ke liye formulated hai, fragrance-free aur non-comedogenic bhi hai. [beminimalist.co](https://beminimalist.co/collections/serums-acne-acne-prone-skin/products/salicylic-acid-2?utm_source=chatgpt.com)\n\n**Kaise use karein:**  \n- Raat ko face wash ke baad **2–3 drops**\n- Starting mein **alternate nights**\n- Irritation na ho toh gradually daily use kar sakte ho\n- Subah **sunscreen zaroor**\n\n### Agar acne marks + oily skin zyada hai\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Salicylic Acid 2% Fights Breakout & Blackheads. Reduces Open Pores, Excess Oil - BHA Facial Exfoliating Serum for Acne Prone, Oily Skin | Minimalist",
+          "snippet": null,
+          "domain": "beminimalist.co",
+          "url": "https://beminimalist.co/collections/serums-acne-acne-prone-skin/products/salicylic-acid-2?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Minimalist",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "14523880823984427695",
+          "merchants": "Minimalist + others",
+          "id_to_token_map": "Ka-3p3icdVPJquNWEA35gkBW2TWBXj0M917NebyAnkbLlmTNw8bIurJmyZYlyzb5mtcDdJbdIf_yepFviTtkF1JQi6o6dU6dRf313Q8vWfnnJh-3yXEvLM1kPUzSZrG4ngX-02Ho8ZSOJf7CEQxHkghQDIs4giAhRX5KkzFp-rzEf0CSQgTLAhYRHHuHMTRHfS6yBDdll5n7fTaIffoNB0iaYgiSYQiOIyALaBr8XrZJnv0z_8JykGQAJJg7IQkABJB5N-DTK7kRtvddjgWQ4khAf5NnASB_29imuP2f4YfjlA3X11-TtMseTtkwtQ9dmaRll7QlvneSpkyv93y49_DD1OFseHgrobcsevvMMQA8lB0ukw_54d_L_yPw7s7zmWJokkbU3TcBAKIgCd4dzuNLkb-fpiZ7_Xl-EPiltRSWjoO4KlHqk4P8axRcirXUTLHSFC9581J2L0XzknUf--Rw3qdfv_9R6k-icJoFyzscfNEGzk07etBAmav1LrI176ZDJ6CMrD5M9s0CjqLFmeSXWUtZ2Pcru2mkHWCh6XOdczP8TJZp3YN6CgygV_kctDURNHHgd0vkdLHoQRzs2hkGyuVshXKd-AVwIb7XMdq5EuG21C3uii6qqdEMsWWIsZ00DWWDiHJAYzhuo_hq4-9qu9VVLYirpneJuHYbnsoUrMcKdna1NiZEUbkdHhPJQz4hbxJoaxE8tGvPkH25QLGsyW6N7ajOR0-OS0_CRxsVIGu4WZcOVKqMG10xBp84ePYVelnNiaYAjbvfcyBqneHbQwh1ygBxGIGGXAfYMKB89mE62z62rFpOPAmAWDlormKMVlWoOoETRy3UuG4q3DbQbWXFRYXsKhcHt3FpNx6x86Bn3_KrBbjYb1nCvkmEHcpKhBo_9iRkw3i2Q4MwlHjl32pkQMuRm-cOy1yRBrHoeFzhqhq0fX5chw2ygJQsa1lKiSUVNzIdBVqli0aEg5G0PJnGlR-FN9-1arvxa282POn95TTsXwEvU6Nj0oujjAYn1kJnaacW1Mdss8grvrxa-S-QYWkGApakWYr-mPZ9XWZfv__JkXhbULcOr0vO0pWehNxaXmjp-fENLwlPPNZ8KTnhvr-OZukSubIPaRGRXmuwXIrXvKVOptAM0xgyvGO5acuez0jbTfPjG9F_6smyuz-jabve6aRa4GrutnsED4UDJF7uSXy1L22Bbite4u_x-Ga7dbJ0GrKF49qbJ95o4zkBEcGZKakd96l5ACw_zgut5lRjXw0oXmnZlg_L45DtWaykZ5ApN7AII08euefzacpJ0M8mcvamEWnegpTJcyROi07dK6Say2n4-MZYik8UQTwpKzXDut3UeCvhbeUaJyvIJnmRJrVC1bTnMNHRABp2lCNLhjAAN0jsm7hzuKhbCPFiNZuVug05r_RyzSEylwA5LUxlTHXDGDtjcVP0lSysZxuUgmT09JnX1JY7F2srBfN1sQMEO-6DyhpUhzlywaqCkRKk5HGceeX-c0XN6sR6dWs5qrp4QXkZtdRWy7lDvPC8s2YPXa1LK7N9SWn-Yr3IBjcm89gWI3mHSl46P-fbPGG9ampIWBZoZ26fuURjRjU2RX1l1_RoFdR-Nlj-dM6XfwMZkvfu",
+          "title": "Minimalist Niacinamide Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 4500,
+           "rating_max": 5
+          },
+          "price": 237,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/_OwMSHicDclvD0JAHADgT3RM7PzZWjOVTsgiq1emHx0Jd7k0PlVfp29Tz9vn-6mEYIMly2UHz4mJskDi2ikSHUQuapCgb-Wh6hmrO7riy_9ZdliYLiQEXbMFVcYdTn1DEOqVLscNXAAxeKaOqm434z0ZtBM_xQi7UbH3grkBhvSsrfxjnD9ukcpC1d6lG24YYtv22qF3GqJEL0xyjtd6SsEz2XSu3kF0695kDj36A0wFPes"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "Pgt_aqfCIOaLruEP--yvCA",
+            "product_id": "9379442057829334154",
+            "catalog_id": "14523880823984427695",
+            "gpcid": "10498015940641548004",
+            "headline_offer_docid": "10465734773993180660",
+            "image_docid": "8914701371454001017",
+            "rds": "PC_10498015940641548004|PROD_PC_10498015940641548004",
+            "query": "acne+serum+niacinamide+salicylic+acid+under+%E2%82%B9700+india",
+            "mid": "576462539830025140",
+            "pvt": "hg",
+            "uule": "w+CAIQICISS29jaGksS2VyYWxhLEluZGlh",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\n**Minimalist Niacinamide 10%** ~₹570. Ye sebum/oil control, pores aur acne marks ke liye better option hai. [beminimalist.co](https://beminimalist.co/products/niacinamide-10-with-matmarine?_pos=4&_sid=c2e5d3891&_ss=r&utm_source=chatgpt.com)\n\n**Simple choice:**  \n- 🔴 **Active pimples/blackheads → Salicylic Acid 2%**\n- 🟤 **Acne marks + oiliness → Niacinamide 10%**\n- 😣 **Sensitive/dry skin → Niacinamide 5%** (gentler option) [beminimalist.co](https://beminimalist.co/collections/treatments/products/niacinamide-5-face-serum-10ml?utm_source=chatgpt.com)\n\nAgar tum mujhe bata do **skin oily/dry/combination hai aur acne kaisa hai (small bumps, whiteheads, painful pimples ya marks)**, toh main ₹700 ke andar **exact 1 serum** recommend kar dunga.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Niacinamide 10% + Zinc & Matmarine for Blemishes, Acne Marks, Oil Balancing & Dark Spot - Clarifying Face Serum for Acne Prone or Oily Skin | Minimalist",
+          "snippet": null,
+          "domain": "beminimalist.co",
+          "url": "https://beminimalist.co/products/niacinamide-10-with-matmarine?_pos=4&_sid=c2e5d3891&_ss=r&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Minimalist",
+          "publication_date": null,
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Niacinamide 5% for Clear Skin (Evens Skin Tone & Repairs) - Face Serum with Vitamin B3 & Hyaluronic Acid 1% for Dry, Sensitive Skin | Minimalist",
+          "snippet": null,
+          "domain": "beminimalist.co",
+          "url": "https://beminimalist.co/collections/treatments/products/niacinamide-5-face-serum-10ml?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Minimalist",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

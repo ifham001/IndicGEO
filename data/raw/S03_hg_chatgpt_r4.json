@@ -1,0 +1,459 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S03",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "chatgpt",
+  "rep": 4,
+  "promptText": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+  "cellId": "S03_hg_chatgpt_r4",
+  "startedAt": "2026-08-14T12:46:43.328Z",
+  "finishedAt": "2026-08-14T12:46:58.564Z",
+  "durationMs": 15236,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Haan — **dark spots + dull skin** ke liye main beginner-friendly **10% Vitamin C** serum choose karunga. India ke heat/humidity mein stable Vitamin-C derivative practical hota hai, aur daily sunscreen ke saath use karna important hai. [phdbeauty.com](https://phdbeauty.com/blogs/general-advice/best-vitamin-c-serum-india-2026?utm_source=chatgpt.com)\n\n### 🥇 Meri first choice: Deconstruct 10% Vitamin C + Ferulic Acid\n### [Deconstruct Face Serum]()\n*₹458*\n\n- **10% liposomal Vitamin C + 0.5% ferulic acid**\n- Dark spots, pigmentation aur dullness ke liye specifically formulated. [thedeconstruct.in](https://thedeconstruct.in/collections/shop/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com)\n- Fragrance-free aur beginner-friendly formulation.\n- **₹300–₹500 ke around** mil jaye to good buy.\n\n### 🥈 Minimalist 10% Vitamin C\n### [Minimalist Vitamin C 10% Face Serum]()\n*₹284*\n\n10% Vitamin C + PHA; dullness, sun damage aur dark spots ke liye designed hai. [beminimalist.co](https://beminimalist.co/collections/dry-skin/products/vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1?utm_source=chatgpt.com)\n\n### 🥉 Dot & Key 10% Vitamin C + E + 5% Niacinamide\n### [Dot & Key 10% Vitamin C + E + 5% Niacinamide]()\n*₹278*\n\nAgar **dark spots ke saath oily/combination skin** hai, ye interesting option hai—Vitamin C ke saath 5% niacinamide bhi milta hai. [www.dotandkey.com](https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-face-serums-in-india?utm_source=chatgpt.com)\n\n**Mera pick:** Agar mujhe tumhare liye bina aur details ke ek hi lena ho, **Deconstruct 10% Vitamin C + Ferulic Acid**.\n\n**Use:** Subah 2–3 drops → moisturizer → **SPF 50 sunscreen**. Pehle alternate days se start karo. Dark spots ko fade hone mein usually several weeks lagte hain, isliye consistency important hai. [www.whowhatwear.com](https://www.whowhatwear.com/beauty/skin/best-products-for-hyperpigmentation?utm_source=chatgpt.com)\n\nAgar tum mujhe **apni skin type (oily/dry/combination/sensitive) aur budget (₹300/₹500/₹1000)** bata do, main tumhare liye **exact 1 serum + sunscreen combo** choose kar dunga.",
+  "citations": [
+   {
+    "url": "https://phdbeauty.com/blogs/general-advice/best-vitamin-c-serum-india-2026?utm_source=chatgpt.com",
+    "source_name": "/PHD/ - Proven Honest Derma",
+    "position": 1
+   },
+   {
+    "url": "https://thedeconstruct.in/collections/shop/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com",
+    "source_name": "thedeconstruct",
+    "position": 2
+   },
+   {
+    "url": "https://beminimalist.co/collections/dry-skin/products/vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1?utm_source=chatgpt.com",
+    "source_name": "Minimalist",
+    "position": 3
+   },
+   {
+    "url": "https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-face-serums-in-india?utm_source=chatgpt.com",
+    "source_name": "Dot & Key",
+    "position": 4
+   },
+   {
+    "url": "https://www.whowhatwear.com/beauty/skin/best-products-for-hyperpigmentation?utm_source=chatgpt.com",
+    "source_name": "Who What Wear",
+    "position": 5
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "14.9692 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141246-2163-0629-0000-7f3982a9b047",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "14.9532 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_scraper",
+     "se": "chat_gpt",
+     "keyword": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-5-6",
+      "check_url": "https://chatgpt.com/?prompt=Dark%20spots%20aur%20dull%20skin%20ke%20liye%20India%20mein%20konsa%20vitamin%20C%20serum%20kharidun%3F&hints=search",
+      "datetime": "2026-08-14 12:46:57 +00:00",
+      "markdown": "Haan — **dark spots + dull skin** ke liye main beginner-friendly **10% Vitamin C** serum choose karunga. India ke heat/humidity mein stable Vitamin-C derivative practical hota hai, aur daily sunscreen ke saath use karna important hai. [phdbeauty.com](https://phdbeauty.com/blogs/general-advice/best-vitamin-c-serum-india-2026?utm_source=chatgpt.com)\n\n### 🥇 Meri first choice: Deconstruct 10% Vitamin C + Ferulic Acid\n### [Deconstruct Face Serum]()\n*₹458*\n\n- **10% liposomal Vitamin C + 0.5% ferulic acid**\n- Dark spots, pigmentation aur dullness ke liye specifically formulated. [thedeconstruct.in](https://thedeconstruct.in/collections/shop/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com)\n- Fragrance-free aur beginner-friendly formulation.\n- **₹300–₹500 ke around** mil jaye to good buy.\n\n### 🥈 Minimalist 10% Vitamin C\n### [Minimalist Vitamin C 10% Face Serum]()\n*₹284*\n\n10% Vitamin C + PHA; dullness, sun damage aur dark spots ke liye designed hai. [beminimalist.co](https://beminimalist.co/collections/dry-skin/products/vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1?utm_source=chatgpt.com)\n\n### 🥉 Dot & Key 10% Vitamin C + E + 5% Niacinamide\n### [Dot & Key 10% Vitamin C + E + 5% Niacinamide]()\n*₹278*\n\nAgar **dark spots ke saath oily/combination skin** hai, ye interesting option hai—Vitamin C ke saath 5% niacinamide bhi milta hai. [www.dotandkey.com](https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-face-serums-in-india?utm_source=chatgpt.com)\n\n**Mera pick:** Agar mujhe tumhare liye bina aur details ke ek hi lena ho, **Deconstruct 10% Vitamin C + Ferulic Acid**.\n\n**Use:** Subah 2–3 drops → moisturizer → **SPF 50 sunscreen**. Pehle alternate days se start karo. Dark spots ko fade hone mein usually several weeks lagte hain, isliye consistency important hai. [www.whowhatwear.com](https://www.whowhatwear.com/beauty/skin/best-products-for-hyperpigmentation?utm_source=chatgpt.com)\n\nAgar tum mujhe **apni skin type (oily/dry/combination/sensitive) aur budget (₹300/₹500/₹1000)** bata do, main tumhare liye **exact 1 serum + sunscreen combo** choose kar dunga.",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.mrpuku.com/2026/02/Vitamin-C-Serum.html?m=1&utm_source=chatgpt.com",
+        "domain": "www.mrpuku.com",
+        "title": "Best Vitamin C Serum for Dull Skin & Dark Spots in India (2026 Honest Review)",
+        "description": "BEST VITAMIN C SERUM FOR DULL SKIN & DARK SPOTS IN INDIA (2026 HONEST REVIEW)  Honest review of Minimalist 10% Vitamin C Serum for dull skin, dark spots & uneven tone. Compare with Mamaearth, Plum &...",
+        "breadcrumb": "mrpuku.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.ndtvshopping.com/beauty-and-grooming/vitamin-c-serums-that-work-great-for-dark-spots-10929856?utm_source=chatgpt.com",
+        "domain": "www.ndtvshopping.com",
+        "title": "Vitamin C Serums That Work Great For Dark Spots From Minimalist, The Derma Co, Plum To Foxtale - NDTV Shopping",
+        "description": "VITAMIN C SERUMS THAT HELP REDUCE DARK SPOTS AND RESTORE SKIN GLOW  IF YOU ARE LOOKING FOR VITAMIN C SERUMS THAT TARGET DARK SPOTS, FROM MINIMALIST, THE DERMA CO, PLUM TO FOXTALE, EXPLORE OUR CURATED...",
+        "breadcrumb": "ndtvshopping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://thedeconstruct.in/blogs/skin-information/which-vitamin-c-serum-is-best-for-face-in-india-top-picks?utm_source=chatgpt.com",
+        "domain": "thedeconstruct.in",
+        "title": "Best Vitamin C Serum for Face in India | Clinically Tested & Gentle",
+        "description": "WHICH VITAMIN C SERUM IS BEST FOR FACE IN INDIA? TOP PICKS FOR OILY & DRY SKIN  Yogesh Khute Last updated: February 06, 2026  IN THIS ARTICLE  Indian skin is exposed to intense sunlight, high UV radi...",
+        "breadcrumb": "thedeconstruct.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://thedeconstruct.in/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com",
+        "domain": "thedeconstruct.in",
+        "title": "Buy 10% Vitamin C Serum For Face Online at Deconstruct",
+        "description": "10% VITAMIN C SERUM FOR GLOWING SKIN WITH LIPOSOMAL TECHNOLOGY | CLINICALLY TESTED  Reduces:  Uneven Skin Tone  Dullness  1063 reviews  Net quantity :  [Input] 30ml [Input] 10ml  Product variants  [S...",
+        "breadcrumb": "thedeconstruct.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://thedeconstruct.in/blogs/skin-information/best-serum-for-pigmentation-and-dark-spots?utm_source=chatgpt.com",
+        "domain": "thedeconstruct.in",
+        "title": "Best Serum for Pigmentation & Dark Spots in India",
+        "description": "BEST SERUMS FOR PIGMENTATION AND DARK SPOTS (2026 PICKS)  Here are some top dermatologist recommended picks (updated) for the best serums for targeting pigmentation and dark spots.  Product Recommende...",
+        "breadcrumb": "thedeconstruct.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.vogue.in/content/the-7-best-vitamin-c-serums-for-an-even-toned-complexion?utm_source=chatgpt.com",
+        "domain": "www.vogue.in",
+        "title": "The 7 best vitamin C serums for an even-toned complexion | Vogue India",
+        "description": "THE 7 BEST VITAMIN C SERUMS FOR AN EVEN-TONED COMPLEXION  Skincare’s brightest overachiever  By Vogue Staff  7 May 2026  Image: best vitamin C serums  Representative image. Photographed by Pierre Deb...",
+        "breadcrumb": "vogue.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://dropy.in/blogs/skin-care-products/5-best-vitamin-c-serum-for-indian-skin-pigmentation-dark-spots?utm_source=chatgpt.com",
+        "domain": "dropy.in",
+        "title": "5 Best Vitamin C Serums India 2026 | Pigmentation & Dark Spots – Dropy India",
+        "description": "Image: 5 Best Vitamin C Serums for Indian Skin 2026 — For Pigmentation, Dark Spots & Brightening (Dermatologist Recommended)  5 BEST VITAMIN C SERUMS FOR INDIAN SKIN 2026 — FOR PIGMENTATION, DARK SPO...",
+        "breadcrumb": "dropy.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://glowdekho.com/blog-vitamin-c-serum-india.html?utm_source=chatgpt.com",
+        "domain": "glowdekho.com",
+        "title": "Best Vitamin C Serum India 2026 — For Dark Spots, Dullness & Glow | GlowDekho",
+        "description": "Vitamin C  BEST VITAMIN C SERUM INDIA 2026 — For Dark Spots & Real Glow  📍 Written for Indian skin⏱️ 7 min read🗓️ April 2026  Vitamin C is the most important antioxidant serum for Indian skin. It add...",
+        "breadcrumb": "glowdekho.com"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Best Vitamin C Serum in India 2026: Dermatologist's Picks",
+        "snippet": null,
+        "domain": "phdbeauty.com",
+        "url": "https://phdbeauty.com/blogs/general-advice/best-vitamin-c-serum-india-2026?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "/PHD/ - Proven Honest Derma",
+        "publication_date": "2026-07-15 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Buy 10% Vitamin C Serum For Face Online at Deconstruct",
+        "snippet": null,
+        "domain": "thedeconstruct.in",
+        "url": "https://thedeconstruct.in/collections/shop/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "thedeconstruct",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Vitamin C 10% for Brighter Glowing Skin - Stable & Effective Face Serum with pure Ethyl Ascorbic Acid & 1% Acetyl Glucosamine | Minimalist",
+        "snippet": null,
+        "domain": "beminimalist.co",
+        "url": "https://beminimalist.co/collections/dry-skin/products/vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Minimalist",
+        "publication_date": null,
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Dermatologist-Recommended Face Serums in India (2026)",
+        "snippet": null,
+        "domain": "www.dotandkey.com",
+        "url": "https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-face-serums-in-india?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Dot & Key",
+        "publication_date": "2026-07-14 00:00:00 +00:00",
+        "markdown": null
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Trying to Fade Dark Spots? These Are the Only 13 Products Worth Your Attention",
+        "snippet": "This article from Who What Wear UK provides a comprehensive guide to the best skincare products for treating hyperpigmentation, featuring insights from dermatologists and skin experts. Hyperpigmentation, a common skin concern caused by excess melanin, can result from sun exposure, hormonal changes (such as pregnancy-related melasma), inflammation, or acne scarring. The guide emphasizes that the cause of pigmentation determines the best treatment and underlines the importance of daily SPF use as the most critical step in both prevention and treatment.\n\nRecommended ingredients include vitamin C, niacinamide, azelaic acid, tranexamic acid, and retinoids, which can be found in both over-the-counter and prescription products. Experts caution that results typically take 6 to 12 weeks, or even months, and consistency in skincare is essential.\n\nThe article highlights 13 carefully selected products, spanning cleansers, serums, moisturizers, and SPFs. Notable mentions include La Roche-Posay Mela B3 Cleanser, Eucerin Pigment Control SPF50+, The Ordinary Azelaic Acid 10%, and Murad Rapid Dark Spot Correcting Serum. Each product is chosen based on expert input, performance, ingredient quality, and user reviews, providing practical options for anyone tackling dark spots and uneven skin tone.",
+        "domain": "www.whowhatwear.com",
+        "url": "https://www.whowhatwear.com/beauty/skin/best-products-for-hyperpigmentation?utm_source=chatgpt.com",
+        "thumbnail": null,
+        "source_name": "Who What Wear",
+        "publication_date": "2026-08-10 06:00:00 +00:00",
+        "markdown": null
+       }
+      ],
+      "fan_out_queries": [
+       "best vitamin C serum India dark spots dull skin Minimalist Deconstruct Dot & Key 2026"
+      ],
+      "brand_entities": null,
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_products"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Haan — **dark spots + dull skin** ke liye main beginner-friendly **10% Vitamin C** serum choose karunga. India ke heat/humidity mein stable Vitamin-C derivative practical hota hai, aur daily sunscreen ke saath use karna important hai. [phdbeauty.com](https://phdbeauty.com/blogs/general-advice/best-vitamin-c-serum-india-2026?utm_source=chatgpt.com)\n\n### 🥇 Meri first choice: Deconstruct 10% Vitamin C + Ferulic Acid\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Vitamin C Serum in India 2026: Dermatologist's Picks",
+          "snippet": null,
+          "domain": "phdbeauty.com",
+          "url": "https://phdbeauty.com/blogs/general-advice/best-vitamin-c-serum-india-2026?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "/PHD/ - Proven Honest Derma",
+          "publication_date": "2026-07-15 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "16445706017506305309",
+          "merchants": "Myntra + others",
+          "id_to_token_map": "YsemjXicdZO5juNGGISNfQIHDhxuaGAwQDebh-jBBJRIjkSJLZ7NIxEo3hQv8RApwU8zewDrcL2AAz_JbuBnsbyxXcGPH_hQKFRQf__w42uc_7lPmUMwOL26c7tqp2vMwZRy3fvUdk00hkMefYFwQbGIBTS6X4ZHCwZSn8JgCMom_RezNM1wgAWQYwCLAIMA_zmLg6jM63ifJHEnNmEe_cEuAMcueA7RHM_zCxoh5ve8CtL4O_4CAc0zLENzLAcAYDiO4cG7Luq_0trqABnALCDHQY7meYanWZpFv2nGXjz8D_xwHuPu-lcUh03dD929yMMlH4Iqrx_Chz7uxupD2n6P_Q_zuyqPPjPc_aUWPIXgvTMAiHrXXobXLH0_jmX89ZfpYSVs9M1q45hUlh0dpfFcvTcQOXuukkWrWTlWRuvpr2n5mtevWfka1x-boL0k4bc3P0nNJK76aaXbbUtEA5jURIfiMguocjQB3u5tGdtERzunvKpWhBzLQHu7nIg9a6bdX42KaS1qlnaujVTKm2NLcQ1R1oMyursyP3xRXjA1E6cauqMtX0JZn0xJoYMbbs3aoIijLNUqE21YbgMZ66FLaPMFJ3tCpCP0br6TFSpZ2qGsqF411zoRrnqJ_WOpolBqVVIQ2nbmxrOzLjxFnQX5yiqbKawykxS-ZVmRR-oSEQcj5zSMkc3D2OaJXhm1v8aOuTa2uFheDSfKsEXoSCbYWre1dcOFXSxBWEZSIJIkcpWL7_qXgBiiWmHGcsvJQ9HsAdk5onTALvGiE2727nIZErmPSCZ7dpQ4osQQB5bHl8w_QjyYFalMJ2P8tX_zIZ5wpVORhU--CVUVKKVD_I2zzsrwZkz4ZkihKM1Hm2Yw1TrxWh7Uk29H1QZaLjaIRG5mrZoy4GtM-CySo5tlz15YQdUmAnQhlgMi-y-5sjTW-Lp3fCsqDRRbZA5l3AUn2ccvA3FEYzwCeIoKOTPsDL2f-y75CgSZGcw9u3s8bjp79MPwFAMuERwtd4uC04Yp_RVyC5aDkIV38R_Dpjnl8bc3Px8OZhyOXfxoWob2LODKnwJwkxaHXLISTuP2TZi4Z9MHenEo6MV6hPtVPhr0JRwysGtOWgOGS6QvGSCIeLJRaKkOF9gBVTmOnjMI7jr4qN9ErJwfXe0wE_bprSkJxmp9MAVVMjeW9LxK9c3MSsunt4K0ehYihUhBD1f0TuUKt7kmUNMALNUtL7v0haYa3bLW097lp-K6akUAVEUyLjdhenorkuf-cFN4u06HTM1SoYnA8rBu1R04jp4kLM9VuG1bXHraNu2Fu57e4o34zCD0nDiXvqmOl77sPKcfqXZAO7mz3O3axjshceb9qtZN96p0HV-aynY9KwAzknqcA-WAmJOwVumzlmZOvdvPi1E7Qc8tNvdA75ILpaScuyKtzMvWLLeq1bkXTcpKTX8Bt7PlGuBG1B7GmyXPJ2c_N64rk1ugxOxgTZ-CbjrY7nnVz0XHTt3WviYBFYqpsw52LMqSJSOhq3cYigEa62WJkmt9FJdjszsrWNuSNFfCeezpShROxdzo7uI-pbM4gqgRE1sz5aD1mrgZGagZw4vC6d1hSv8B-JT5vg",
+          "title": "Deconstruct Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 1200,
+           "rating_max": 5
+          },
+          "price": 458,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/ucgTfnicDcndEkJAGADQJ8K0oZhpmoqIQcxU2jsh1k52s1_5eapep7epc3u-nxqAC1NRyjbvRg5lIcGtRXIlIAOSyzl7KKJmnJO2Wj9X_zM3YWE4eez228NyYLNLUzvBZkhjGjxa2_IjnKJ3Xbh31-9u2ZWkGC-8fTKU-Ki-zlXYaToZaTaMRbxVkwOg3jtFWk-hRJNjMwrBTjhaSJFuNf58ehsR9mbnRFJfaXO9xD_Hcj7D"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "Og5_atWsMLXrmLQP5_SEiQY",
+            "product_id": "11826360436365938512",
+            "catalog_id": "16445706017506305309",
+            "gpcid": "15058177174995946463",
+            "headline_offer_docid": "6807689734799984335",
+            "image_docid": "10495654767000577590",
+            "rds": "PC_15058177174995946463|PROD_PC_15058177174995946463",
+            "query": "deconstruct+vitamin+c+serum",
+            "mid": "576462892315930032",
+            "pvt": "hg",
+            "uule": "w+CAIQICIWS2hhbWJoYXQsR3VqYXJhdCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n- **10% liposomal Vitamin C + 0.5% ferulic acid**\n- Dark spots, pigmentation aur dullness ke liye specifically formulated. [thedeconstruct.in](https://thedeconstruct.in/collections/shop/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com)\n- Fragrance-free aur beginner-friendly formulation.\n- **₹300–₹500 ke around** mil jaye to good buy.\n\n### 🥈 Minimalist 10% Vitamin C\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Buy 10% Vitamin C Serum For Face Online at Deconstruct",
+          "snippet": null,
+          "domain": "thedeconstruct.in",
+          "url": "https://thedeconstruct.in/collections/shop/products/vitamin-c-and-ferulic-acid-serum?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "thedeconstruct",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "7924856463485308377",
+          "merchants": "Purplle.com - Beauty Shop",
+          "id_to_token_map": "ymoWGXicdVDLjqNWEE3yBVlnNctIrZa4PE1GvQCbZ5uHL3AxbBBwwWCexuAGlI8Z9TykyTKRssifzETKt8RRtkktqlR16ujonL---f41K3-3TkwU3_atErbFS1LZqzGc48PnfujwlI4l_o3jSXrDsDRL3QdFbCiO-5zGY1x3pxK_-7XIYlyXbWbleTbsuvS_Gb-UTXzK_oV5GpDkhuOZ-51iNizJ0e8HfP1C29sIsCzNkRzH3OmApXjm_vqzDa1d9D_gx8uUDcsfTdneFeryOj7cyjG-rw_pwzUbpubjqb-Lvnvf_NP62_hanD5MU519-fHlYStoB22r-Q5ZFImvd8HxcIUUugRHvcDbWU8a2AeH11P9WravRf2atZ-6uL_l6ddv_5Qmabu9aNuD1_doBwmnAYsvEbRX6cgD-uq4oQFbGUFSohJFp5HPx7DRibjRKNPHUtKAi4d4z0AmjZBAxJQsxaqxuJJHHwAOXAmUlh96RtNffARDd633rlTk5hnuE7loMCUWex-OSQl0xzPFkJyvYYOsRKmJwGeK5GgumSuCcGfKhmJSngICXM1xLONz6I-h1wA3pmBuVnq_94IFV7x6qEbblXhvf5RG5yyMWMZGXDGL6cLO8FHvUEUbeCaE8mZB5Ny4bSgmrqyEJH_BR3m-_xghgRtDGSnPRzZWi_7g6opHyjfvCKcYdIvZmMhvxjL1-Np0RZiCPjbP4gE3o5vuqjFTahuDzQKreUV-sHgucjPUU3sfXfxdLTs1LB1XHOOziLIzKi1PcuSKb03EF3d_EwT9FKu4jIHIukf9EiAp1ipZSimNCWvTTMgDaXp4dADPOEDeIgn-40Nx77zwnhPypA_zdci_EILMjI5F2xG_eQyqdj9oR32zEtFMmY0g3LB9-AlwG5YDgAUER_Of0q6ryuzrdz9EkZOl05A9Oi60nwSzCV9iCuRSwW2JUj3ad29GW5HH_djXTBK4imjEeLUCpzl3OOVeYj1dbDk5krmpXSkZ6Lb0aKYQJab4OOUYzkxxMFVLw2hezG0_yevbN44kwK0aOYIhOZorPW1PB21mJfHtG0HaPglYv-dwvVyi4nalayoEGuFEe3b3rBpW5M8hsKCnBpJXj6S_G6Io6BknniuVNt6-2aEnbd1xz53psMZmOgkdJsRI7Q1NoqdUEuTOwsRtWWc90BdPuNfbN6a2e2Io6gmJm9xs4-amnba52J_IXZtBoVAT0tp36ogJWmsGWtKOo3x1d5uOhy1fEgZ_TMUhtOLNWONUqZ_XvHcOzyMrIzIX4gaucmhz1HpjpwY-hkWrVycyjy2CsAhxgnI_-93B04qAphSBiHLVsGlFKaZANuesWhniSgttPsj2reMxqx7TBvqTP4hj4yds7C0nrNCDBqTbHkTnE0maa0WZj4BVXkRKjxK-OuUrZ83J86q7jze7YYxBn44v9nqPMs3VjWSpIkgu6JqErD_v_CSQz9FShcbfmFbVng",
+          "title": "Minimalist Vitamin C 10% Face Serum",
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 4500,
+           "rating_max": 5
+          },
+          "price": 284,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/CVKdJ3icDcltDoIgAADQE6FmrbStNVxo9GGrVq7-NAITlJCSNL1Vx-k29f6-74cbo6uxbaeKPlttUgbMVblWVhliBLVoebcrXmotVDZ9TP43hjHzI7o_7wQCeJtH2WvokRpKl8FQIT7HAjtRvyGLTSAB46zwZyhcrxwP4KzLkRzdkg7C5asdyCAqUHjszTatg2oBqqDQsdd0J-OmwZbUq0PuM1VIquJRUjccX8jb-QGCYz50"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "Og5_avLnGZnhwbkPzMrjaQ",
+            "product_id": "7924856463485308377",
+            "catalog_id": null,
+            "gpcid": null,
+            "headline_offer_docid": "7924856463485308377",
+            "image_docid": "9412287953773586274",
+            "rds": "PC_16647277556416395122|PROD_PC_16647277556416395122",
+            "query": "minimalist+vitamin+c+serum",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIWS2hhbWJoYXQsR3VqYXJhdCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\n10% Vitamin C + PHA; dullness, sun damage aur dark spots ke liye designed hai. [beminimalist.co](https://beminimalist.co/collections/dry-skin/products/vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1?utm_source=chatgpt.com)\n\n### 🥉 Dot & Key 10% Vitamin C + E + 5% Niacinamide\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Vitamin C 10% for Brighter Glowing Skin - Stable & Effective Face Serum with pure Ethyl Ascorbic Acid & 1% Acetyl Glucosamine | Minimalist",
+          "snippet": null,
+          "domain": "beminimalist.co",
+          "url": "https://beminimalist.co/collections/dry-skin/products/vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Minimalist",
+          "publication_date": null,
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_products",
+        "rank_group": 3,
+        "rank_absolute": 6,
+        "items": [
+         {
+          "type": "chat_gpt_products_element",
+          "product_id": "12377703479526014236",
+          "merchants": "Purplle.com - Beauty Shop",
+          "id_to_token_map": "zgnTdHicdY_JjqNmAISTPEGuufUl0kiWJXbstPrA9huwAfOzc7HYbMA_i1kM5mlGPYs0uSWKlEOeZOaQZ0kn99ShLqVPVfX3dz--ZsWfxoU-RSMpApbAq4N53EZjWHHNl7Zr0jEZivQPnCBZlsVIit3SBIPhFEEyX5JoiFBzKdL3v-dZlKKizozzOevEJvkf5Neiii7Zf_lvNMUyDEuyGE1jFEVi2w9d2r__dBuz7vFX2gyrnwlmdc0eq3sxRFVRr5JVn3Vj9enSvuHvP1T_WnsfXvPLx3FE2dd300rgFFMRFM8i8jz21CbwzR6S7i3w1TwVZjWuYBuYrxf0WtSvOXrN6s9N1N7PybfvS6mZBKGfeNNpW1eEmFXqdUq2rS1rJCwB9AAcU1JZUkyNEgQPuuwGmg8HC2tz2-em2Gk1H3ONqIJWBMIxIXIF4vk12VF0bOd8JLdFAraejbmOttuO8VUjY0LDvGsOMrTFNMydYoluoacsNjLpEAAq9nMxk5sBkvwtq5JBr0zc2iHgSIhPr9DXZejDGloJMZMBMajuolewwANDwmVXBrzphyAD6jX0WsVxdNyRNEJf9LcefQq8YXbFvINya7i4PtoARZ7sWgYAZLDAwPTmWqtdJOXpMVzcc-A7C5QCUivBYANgGh7AvQrn47kpTAcuSYkqp4RigCMM1gGmV5c5JFLPAa5g-uoIbV2wZISl08e5785fMQ7Qg2XQ3vo0pWhkxmqjVu5ZYsYbih-ZWeiXX3B2w7A4zuAYs9l-TprmWmTffvjpdLKyZOyytWXD4wunV-EU4euGqsEOGQfJMwsuBALLK8M9licmsMkDKj0MxsLBd0ytexw2N4JcBN7dOGVOBb06mUy5ORapr036haud5rhf2Dzeu9hdGnPbfH6yJA4K8sniNMlSbOlFuJjKzEj88xMnCS9cqrpSNMybQLhTh8tCjPhjbQjA6odNk9ObSGWcxDb6JW4pTFQbFp8dbqFtvr08P4nuCzXdkl46KE3Tj5jIH5PFssDbYt64ShzfhN4tAtZx4OxJ4t70_KQr4gtNki9hhoxHcbYV1BNndaJNSTyp-y3QW8J2pZbcPfgdOtiBRVYtszQDkvWiecAasXvatso0UrIykDmhua_zrjLAmjjbpTcHuuRGGwFniLcvR1lHxTTNER4d40tfJpKq7MxjK556mx3uERY4zmk7HYpmITo6Dthbf_PAPpS2BBxPUbh2-keVJ4eYc8t4X6D9oSX36pm8d1N8DWrJE4eHLXTYufSzXRIVZk21hj0wE0A6e1O8kaqdPUlyigdu7SZXaL2dZlFqojD2SbRQYr0OuMSnPO4fLvajSg",
+          "title": "Dot & Key 10% Vitamin C + E + 5% Niacinamide",
+          "rating": null,
+          "price": 278,
+          "currency": "INR",
+          "tag": null,
+          "url": null,
+          "domain": null,
+          "images": [
+           "https://images.openai.com/thumbnails/url/fBXQY3icDcn_EkIwAADgJ0LTD3TXda4jdUkoqv_asFY2wyZ6ql6nt6nv3-_7uQvB27mm5Qw1Axd5pgjIgIpbcRMEqaiiWnuvOCcML-vF_-b2PrPWKBqmoUlXoyvEkyJ6xnGHoEe94GTnl4IM0qAp2Diba-s6Zkl2QdbVdbltdPOYjkMg076ceQfDamhxRiJI-CXBe_BIFDeHibQdHUsfGn7Vsyjy9WccdmwimfV-_QCwUz89"
+          ],
+          "product_ids": [
+           {
+            "type": "chat_gpt_google_shopping_product",
+            "ei": "Og5_au3DF721mLQP9auZmAo",
+            "product_id": "12377703479526014236",
+            "catalog_id": null,
+            "gpcid": null,
+            "headline_offer_docid": "12377703479526014236",
+            "image_docid": "54766737055044309",
+            "rds": null,
+            "query": "dot+%26+key+vitamin+c+serum",
+            "mid": null,
+            "pvt": "hg",
+            "uule": "w+CAIQICIWS2hhbWJoYXQsR3VqYXJhdCxJbmRpYQ",
+            "gl": "in",
+            "hl": "en"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "markdown": "\n\nAgar **dark spots ke saath oily/combination skin** hai, ye interesting option hai—Vitamin C ke saath 5% niacinamide bhi milta hai. [www.dotandkey.com](https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-face-serums-in-india?utm_source=chatgpt.com)\n\n**Mera pick:** Agar mujhe tumhare liye bina aur details ke ek hi lena ho, **Deconstruct 10% Vitamin C + Ferulic Acid**.\n\n**Use:** Subah 2–3 drops → moisturizer → **SPF 50 sunscreen**. Pehle alternate days se start karo. Dark spots ko fade hone mein usually several weeks lagte hain, isliye consistency important hai. [www.whowhatwear.com](https://www.whowhatwear.com/beauty/skin/best-products-for-hyperpigmentation?utm_source=chatgpt.com)\n\nAgar tum mujhe **apni skin type (oily/dry/combination/sensitive) aur budget (₹300/₹500/₹1000)** bata do, main tumhare liye **exact 1 serum + sunscreen combo** choose kar dunga.",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Dermatologist-Recommended Face Serums in India (2026)",
+          "snippet": null,
+          "domain": "www.dotandkey.com",
+          "url": "https://www.dotandkey.com/blogs/skin-care/dermatologist-recommended-face-serums-in-india?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Dot & Key",
+          "publication_date": "2026-07-14 00:00:00 +00:00",
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Trying to Fade Dark Spots? These Are the Only 13 Products Worth Your Attention",
+          "snippet": "This article from Who What Wear UK provides a comprehensive guide to the best skincare products for treating hyperpigmentation, featuring insights from dermatologists and skin experts. Hyperpigmentation, a common skin concern caused by excess melanin, can result from sun exposure, hormonal changes (such as pregnancy-related melasma), inflammation, or acne scarring. The guide emphasizes that the cause of pigmentation determines the best treatment and underlines the importance of daily SPF use as the most critical step in both prevention and treatment.\n\nRecommended ingredients include vitamin C, niacinamide, azelaic acid, tranexamic acid, and retinoids, which can be found in both over-the-counter and prescription products. Experts caution that results typically take 6 to 12 weeks, or even months, and consistency in skincare is essential.\n\nThe article highlights 13 carefully selected products, spanning cleansers, serums, moisturizers, and SPFs. Notable mentions include La Roche-Posay Mela B3 Cleanser, Eucerin Pigment Control SPF50+, The Ordinary Azelaic Acid 10%, and Murad Rapid Dark Spot Correcting Serum. Each product is chosen based on expert input, performance, ingredient quality, and user reviews, providing practical options for anyone tackling dark spots and uneven skin tone.",
+          "domain": "www.whowhatwear.com",
+          "url": "https://www.whowhatwear.com/beauty/skin/best-products-for-hyperpigmentation?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Who What Wear",
+          "publication_date": "2026-08-10 06:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

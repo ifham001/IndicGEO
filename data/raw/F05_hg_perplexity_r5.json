@@ -1,0 +1,306 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "perplexity",
+  "rep": 5,
+  "promptText": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+  "cellId": "F05_hg_perplexity_r5",
+  "startedAt": "2026-08-14T12:51:55.355Z",
+  "finishedAt": "2026-08-14T12:52:01.573Z",
+  "durationMs": 6218,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein **budget wedding sarees** ke liye online aapko *simple silk-look, georgette, organza, aur soft net* sarees dekhni chahiye, kyunki inme wedding feel bhi aati hai aur price bhi manageable rehta hai.[1][12][15][18]\n\n**Best budget options:**\n- **Meesho**: sabse sasti options mil rahi hain, wedding sarees **₹149 se start** hoti hain, aur kaafi pieces **₹299 se neeche** bhi listed hain.[1]\n- **Myntra / Meesho**: budget-friendly saree categories jaise **silk below ₹500**, **georgette below ₹500**, **pattu below ₹1000**, aur **linen below ₹1000** mil jaati hain.[15][18]\n- **Manyavar Mohey**: wedding/party sarees ka mix milta hai; prices roughly **₹1,499 se ₹17,999** tak listed hain, so mid-budget ke liye useful hai.[12]\n- **Sudathi**: brand apni wedding collection ko **elegant aur stylish without overspending** ke liye position karta hai.[8]\n- **Libas**: wedding sarees pe discounts aur ready-to-wear styles available hain.[4]\n- **Amrut Fashion**: kuch wedding sarees **₹2,499 sale price** par listed hain.[13]\n\n**Agar shaadi ke liye sabse value-for-money chahiye, to ye types choose karo:**\n- **Silk-look saree** — shaadi wali look deti hai, cost usually lower than pure bridal silk.[15][18]\n- **Banarasi-style saree** — guest/relative look ke liye strong traditional option hai.[9][14]\n- **Georgette / Organza saree with embroidery** — light, stylish, aur budget mein mil jaati hai.[12][15]\n- **Soft net saree** — festive look ke liye achhi, especially functions aur receptions ke liye.[15]\n\n**Quick buying tips:**\n- Agar aap *guest* ho to **₹1,000–₹3,000** range best रहती hai.\n- Agar *bride side* ke liye semi-bridal look chahiye to **₹3,000–₹8,000** dekh sakte ho.\n- Product photos ke saath **fabric**, **blouse piece**, **work type**, aur **return policy** zaroor check karo, kyunki budget platforms par quality vary kar sakti hai.[1][15]\n\nAgar aap chaho, main aapke **budget** ke hisaab se 3 categories bana deta hoon: **under ₹1,000, ₹1,000–₹3,000, aur ₹3,000–₹8,000**.",
+  "citations": [
+   {
+    "url": "https://www.meesho.com/wedding-sarees/pl/3li",
+    "position": 1
+   },
+   {
+    "url": "https://www.utsavfashion.com/saree/wedding",
+    "position": 2
+   },
+   {
+    "url": "https://www.mohifashion.com/collections/sarees",
+    "position": 3
+   },
+   {
+    "url": "https://www.libas.in/collections/wedding-sarees",
+    "position": 4
+   },
+   {
+    "url": "https://www.nalli.com/collections/wedding-sarees",
+    "position": 5
+   },
+   {
+    "url": "https://kankatala.com/collections/wedding-collection",
+    "position": 6
+   },
+   {
+    "url": "https://www.nalli.com/collections/bridal-sarees",
+    "position": 7
+   },
+   {
+    "url": "https://sudathi.com/collections/wedding",
+    "position": 8
+   },
+   {
+    "url": "https://in.kalkifashion.com/collections/wedding-saree",
+    "position": 9
+   },
+   {
+    "url": "https://luxury.tatacliq.com/wedding-saree/apparel-online",
+    "position": 10
+   },
+   {
+    "url": "https://kanchivml.com/occasion/wedding-sarees",
+    "position": 11
+   },
+   {
+    "url": "https://www.manyavar.com/en-in/mohey/saree",
+    "position": 12
+   },
+   {
+    "url": "https://amrut.co/collections/wedding-sarees",
+    "position": 13
+   },
+   {
+    "url": "https://www.flipkart.com/sarees-store",
+    "position": 14
+   },
+   {
+    "url": "https://www.meesho.com/sarees/pl/3iy",
+    "position": 15
+   },
+   {
+    "url": "https://www.koskii.com/collections/bridal-saree",
+    "position": 16
+   },
+   {
+    "url": "https://www.indianweddingsaree.com/sarees",
+    "position": 17
+   },
+   {
+    "url": "https://www.myntra.com/saree",
+    "position": 18
+   },
+   {
+    "url": "https://www.tradeindia.com/hi/manufacturers/wedding-sarees.html",
+    "position": 19
+   },
+   {
+    "url": "https://www.houseofindya.com/women-saree-sets/cat",
+    "position": 20
+   }
+  ],
+  "costUsd": 0.005688
+ },
+ "rawApi": {
+  "version": "0.1.20260806",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "5.7174 sec.",
+  "cost": 0.006288,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "08141251-2163-0612-0000-4a10487e2505",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "5.7107 sec.",
+    "cost": 0.006288,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 27,
+      "output_tokens": 661,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005688,
+      "datetime": "2026-08-14 12:52:01 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "India mein **budget wedding sarees** ke liye online aapko *simple silk-look, georgette, organza, aur soft net* sarees dekhni chahiye, kyunki inme wedding feel bhi aati hai aur price bhi manageable rehta hai.[1][12][15][18]\n\n**Best budget options:**\n- **Meesho**: sabse sasti options mil rahi hain, wedding sarees **₹149 se start** hoti hain, aur kaafi pieces **₹299 se neeche** bhi listed hain.[1]\n- **Myntra / Meesho**: budget-friendly saree categories jaise **silk below ₹500**, **georgette below ₹500**, **pattu below ₹1000**, aur **linen below ₹1000** mil jaati hain.[15][18]\n- **Manyavar Mohey**: wedding/party sarees ka mix milta hai; prices roughly **₹1,499 se ₹17,999** tak listed hain, so mid-budget ke liye useful hai.[12]\n- **Sudathi**: brand apni wedding collection ko **elegant aur stylish without overspending** ke liye position karta hai.[8]\n- **Libas**: wedding sarees pe discounts aur ready-to-wear styles available hain.[4]\n- **Amrut Fashion**: kuch wedding sarees **₹2,499 sale price** par listed hain.[13]\n\n**Agar shaadi ke liye sabse value-for-money chahiye, to ye types choose karo:**\n- **Silk-look saree** — shaadi wali look deti hai, cost usually lower than pure bridal silk.[15][18]\n- **Banarasi-style saree** — guest/relative look ke liye strong traditional option hai.[9][14]\n- **Georgette / Organza saree with embroidery** — light, stylish, aur budget mein mil jaati hai.[12][15]\n- **Soft net saree** — festive look ke liye achhi, especially functions aur receptions ke liye.[15]\n\n**Quick buying tips:**\n- Agar aap *guest* ho to **₹1,000–₹3,000** range best रहती hai.\n- Agar *bride side* ke liye semi-bridal look chahiye to **₹3,000–₹8,000** dekh sakte ho.\n- Product photos ke saath **fabric**, **blouse piece**, **work type**, aur **return policy** zaroor check karo, kyunki budget platforms par quality vary kar sakti hai.[1][15]\n\nAgar aap chaho, main aapke **budget** ke hisaab se 3 categories bana deta hoon: **under ₹1,000, ₹1,000–₹3,000, aur ₹3,000–₹8,000**.",
+          "annotations": [
+           {
+            "title": "Wedding Sarees: Shop Latest Collection Online in India - Meesho",
+            "url": "https://www.meesho.com/wedding-sarees/pl/3li",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Indian Wedding Sarees Online - Utsav Fashion",
+            "url": "https://www.utsavfashion.com/saree/wedding",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Latest Indian Wedding Sarees Online for Women - Mohi fashion",
+            "url": "https://www.mohifashion.com/collections/sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shop Latest Indian Wedding Sarees Online - Libas",
+            "url": "https://www.libas.in/collections/wedding-sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Wedding Sarees Online - Bridal Collection at ...",
+            "url": "https://www.nalli.com/collections/wedding-sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Divyam - Wedding Collection - Kankatala",
+            "url": "https://kankatala.com/collections/wedding-collection",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Bridal Sarees Online - Stunning Wedding Sarees at Nalli",
+            "url": "https://www.nalli.com/collections/bridal-sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Wedding Sarees Online – Latest Designer Collection - Sudathi",
+            "url": "https://sudathi.com/collections/wedding",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Wedding Sarees for Women – Silk, Banarasi & Designer ...",
+            "url": "https://in.kalkifashion.com/collections/wedding-saree",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shop Wedding Saree Online In India | Tata CLiQ Luxury",
+            "url": "https://luxury.tatacliq.com/wedding-saree/apparel-online",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Latest Wedding Sarees Collection - KanchiVML",
+            "url": "https://kanchivml.com/occasion/wedding-sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Saree for Women - Buy the Latest Sari Collection Online in India",
+            "url": "https://www.manyavar.com/en-in/mohey/saree",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Wedding Sarees Online - Amrut Fashion",
+            "url": "https://amrut.co/collections/wedding-sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Sarees Online at Best Prices | Latest Sari for Women - Flipkart",
+            "url": "https://www.flipkart.com/sarees-store",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Sarees for Women Online in India - Meesho",
+            "url": "https://www.meesho.com/sarees/pl/3iy",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Wedding Sarees - Buy Bridal Sarees For Women At Best Price",
+            "url": "https://www.koskii.com/collections/bridal-saree",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Indian Sarees - Bridal Wedding Sarees, Party Wear & Bollywood ...",
+            "url": "https://www.indianweddingsaree.com/sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Sarees (साड़ी) - Buy Latest Sari Collection Online in India ...",
+            "url": "https://www.myntra.com/saree",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "शादी की साड़ियाँ का लेटेस्ट प्राइस - शीर्ष निर्माताओं ...",
+            "url": "https://www.tradeindia.com/hi/manufacturers/wedding-sarees.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Indian Sarees - Buy Designer Saree & Blouses Online | Indya",
+            "url": "https://www.houseofindya.com/women-saree-sets/cat",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -442,6 +442,45 @@ const results = {
   },
   rq3_answerLanguage: answerLanguageTable(),
   responseLength: meansBy((r) => r.textLength),
+  // Top cited domains, emitted by the pipeline rather than tallied by hand. The
+  // first published version of this figure was computed mid-collection off a
+  // partial corpus and never recomputed, which is exactly the error a
+  // deterministic pipeline exists to prevent. Two bases are given because they
+  // rank differently and the prose has to say which one it means.
+  citedDomains: (() => {
+    const occ = {};
+    const resp = {};
+    let totalOccurrences = 0;
+    for (const r of responses) {
+      const seen = new Set();
+      for (const d of r.citationDomains) seen.add(d);
+      // citationDomains is already de-duplicated per response, so occurrence
+      // counts come from the raw citation list instead.
+      for (const c of r.citationDomains) resp[c] = (resp[c] ?? 0) + 1;
+      void seen;
+    }
+    for (const f of files) {
+      const d = JSON.parse(fs.readFileSync(path.join(RAW_DIR, f), 'utf8'));
+      for (const c of d.response.citations) {
+        const h = domainOf(c.url);
+        if (!h) continue;
+        occ[h] = (occ[h] ?? 0) + 1;
+        totalOccurrences++;
+      }
+    }
+    const rank = (obj, n) =>
+      Object.entries(obj)
+        .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+        .slice(0, n)
+        .map(([domain, count]) => ({ domain, count }));
+    return {
+      totalOccurrences,
+      // A domain counted every time it appears in any answer.
+      byOccurrence: rank(occ, 25),
+      // A domain counted once per answer that cites it at all.
+      byResponsesCiting: rank(resp, 25),
+    };
+  })(),
 };
 
 fs.writeFileSync(path.join(ANA_DIR, 'results.json'), JSON.stringify(results, null, 1));

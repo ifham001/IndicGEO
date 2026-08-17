@@ -105,7 +105,9 @@ The brand named first agrees between languages far less than between reruns on G
 
 The single starkest number in the study: **Gemini attached at least one citation to 90.0% of English answers [Wilson 95%: 81.5, 94.8] but only 41.3% of Hinglish answers [31.1, 52.3].** Mean citation counts drop from 9.4 to 5.2. Hinglish answers are also 33% shorter (4,609 → 3,099 characters on average). Gemini serves code-mixed users a thinner, less-sourced product.
 
-ChatGPT and Perplexity cite at equal rates in both languages (100% each; ChatGPT means 2.5 vs 2.6, Perplexity 19.6 vs 18.8), but *which* domains they cite shifts, most strongly on Perplexity (domain-overlap gap 32.4 points). The citation economy behind AI answers in India is not what classic SEO metrics would predict in either language: YouTube is the most-cited domain in the corpus (340 citations), Reddit is fourth (131), and a long tail of small Indian review blogs (indisangam.com, reviehub.in, glowdekho.com) out-cites most mainstream media. The .in TLD share of cited domains is stable across languages (25-31%) on all engines.
+ChatGPT and Perplexity cite at equal rates in both languages (100% each; ChatGPT means 2.5 vs 2.6, Perplexity 19.6 vs 18.8), but *which* domains they cite shifts, most strongly on Perplexity (domain-overlap gap 32.4 points). The citation economy behind AI answers in India is not what classic SEO metrics would predict in either language. Counting every appearance across the 4,640 citations in the corpus, youtube.com is the most-cited domain (534) and reddit.com is second (191), ahead of nykaa.com (176) and magicpin.in (133); a long tail of small Indian review blogs (indisangam.com 113, glowdekho.com, reviehub.in) out-cites most mainstream media. Counted instead by how many answers cite a domain at all, reddit.com leads (106 of 480 answers) with youtube.com second (100), so the two bases rank differently and the basis has to be stated. Both tables are emitted by `analyze.mjs` into `results.json` under `citedDomains`.
+
+The .in TLD share of cited domains is steady on ChatGPT (28.9% to 28.8%) and Perplexity (27.3% to 27.9%) but falls on Gemini, 31.3% to 25.2%, where the Hinglish figure is computed over only the 33 answers that carried any citation.
 
 ### 3.4 Answer language: engines meet users where they are
 
@@ -171,7 +173,7 @@ Rerun: `node analyze.mjs` recomputes every number in this report from raw data d
 
 ```
 shasum -a 256 data/analysis/results.json
-# a1afac1d716bf845fdee2d31941b672c1e728d44e459eac13c854740a12203e2
+# 6f9a67de4c11f11b3e157b1f21799fce66161393d24b5a043eb4a1c395de1776
 ```
 
 The expected digest is also committed as `data/analysis/results.sha256`. Total collection cost: $2.16 via DataForSEO (ChatGPT/Gemini LLM Scraper, Perplexity LLM Responses).

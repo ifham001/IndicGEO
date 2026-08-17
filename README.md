@@ -87,7 +87,7 @@ cut -d' ' -f1 data/analysis/results.sha256
 Both print the same digest:
 
 ```
-a1afac1d716bf845fdee2d31941b672c1e728d44e459eac13c854740a12203e2
+6f9a67de4c11f11b3e157b1f21799fce66161393d24b5a043eb4a1c395de1776
 ```
 
 Every number in `REPORT.md` comes out of that run, computed from `data/raw/`. The stability spot-check is separate:

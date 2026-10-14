@@ -8,8 +8,8 @@ message: >-
   are licensed CC BY 4.0. The single license field below records the code
   license, as Citation File Format accepts only one identifier.
 type: dataset
-version: 1.0.0
-date-released: '2026-08-14'
+version: 1.1.0
+date-released: '2026-10-14'
 license: MIT
 repository-code: 'https://github.com/ifham001/IndicGEO'
 url: 'https://depra.ai'
@@ -32,7 +32,10 @@ abstract: >-
   90 percent of English answers but only 41 percent of Hinglish answers, and
   Perplexity is strongly sensitive. The repository publishes the frozen prompt
   set, all raw responses, the brand lexicon, the analysis code, and the
-  verification logs so that every reported number can be recomputed.
+  verification logs so that every reported number can be recomputed. Version
+  1.1.0 adds the October 2026 re-run of the identical design (479 responses)
+  with a wave-to-wave comparison, lexicon sensitivity check, stability
+  spot-check and three independent recomputations.
 keywords:
   - generative engine optimization
   - GEO

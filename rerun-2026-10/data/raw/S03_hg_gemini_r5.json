@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S03",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 5,
+  "promptText": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+  "cellId": "S03_hg_gemini_r5",
+  "startedAt": "2026-10-13T14:42:38.496Z",
+  "finishedAt": "2026-10-13T14:43:33.126Z",
+  "durationMs": 54630,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T14:40:47.283Z",
+    "error": "This operation was aborted"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein dark spots aur dull skin ke liye Vitamin C serums ke kai acche options available hain jo skin ko bright aur glowing banate hain. Aap apni skin type aur experience ke hisaab se niche diye gaye serums me se choose kar sakte hain:\n\nYe serum beginners aur sensitive skin ke liye best hai. Isme stable **10% Ethyl Ascorbic Acid** aur **Centella Water** hai jo dark spots ko fade karne ke saath skin ko calm rakhta hai.\n\nAgar aapko thodi higher concentration chahiye toh ye 15% formula dullness aur pigmentation ko tezi se target karta hai. Ye **fragrance-free** hai aur natural extracts ke sath skin glow boost karta hai.\n\nYe serum **15% L-Ascorbic Acid** aur **Vitamin E** ke power-packed combination ke sath aata hai. Ye deep penetration dekar uneven skin tone aur spots ko jaldi theek karne mein madad karta hai.\n\nIsme Vitamin C ke sath **5% Niacinamide** bhi milta hai, jo dark spots ke sath-sath skin barrier ko strengthen karta hai aur oil control mein bhi help karta hai.\n\nEk budget-friendly aur popular option hai jo lightweight formula ke sath instantly dull skin ko refresh karta hai.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "54.0512 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131442-2163-0629-0000-cdb8d915c9d7",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "53.9615 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:43:34 +00:00",
+      "markdown": "India mein dark spots aur dull skin ke liye Vitamin C serums ke kai acche options available hain jo skin ko bright aur glowing banate hain. Aap apni skin type aur experience ke hisaab se niche diye gaye serums me se choose kar sakte hain:\n\nYe serum beginners aur sensitive skin ke liye best hai. Isme stable **10% Ethyl Ascorbic Acid** aur **Centella Water** hai jo dark spots ko fade karne ke saath skin ko calm rakhta hai.\n\nAgar aapko thodi higher concentration chahiye toh ye 15% formula dullness aur pigmentation ko tezi se target karta hai. Ye **fragrance-free** hai aur natural extracts ke sath skin glow boost karta hai.\n\nYe serum **15% L-Ascorbic Acid** aur **Vitamin E** ke power-packed combination ke sath aata hai. Ye deep penetration dekar uneven skin tone aur spots ko jaldi theek karne mein madad karta hai.\n\nIsme Vitamin C ke sath **5% Niacinamide** bhi milta hai, jo dark spots ke sath-sath skin barrier ko strengthen karta hai aur oil control mein bhi help karta hai.\n\nEk budget-friendly aur popular option hai jo lightweight formula ke sath instantly dull skin ko refresh karta hai.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 6,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein dark spots aur dull skin ke liye Vitamin C serums ke kai acche options available hain jo skin ko bright aur glowing banate hain. Aap apni skin type aur experience ke hisaab se niche diye gaye serums me se choose kar sakte hain:",
+        "original_text": "India mein dark spots aur dull skin ke liye Vitamin C serums ke kai acche options available hain jo skin ko bright aur glowing banate hain. Aap apni skin type aur experience ke hisaab se niche diye gaye serums me se choose kar sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Ye serum beginners aur sensitive skin ke liye best hai. Isme stable **10% Ethyl Ascorbic Acid** aur **Centella Water** hai jo dark spots ko fade karne ke saath skin ko calm rakhta hai.",
+        "original_text": "Ye serum beginners aur sensitive skin ke liye best hai. Isme stable 10% Ethyl Ascorbic Acid aur Centella Water hai jo dark spots ko fade karne ke saath skin ko calm rakhta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "Agar aapko thodi higher concentration chahiye toh ye 15% formula dullness aur pigmentation ko tezi se target karta hai. Ye **fragrance-free** hai aur natural extracts ke sath skin glow boost karta hai.",
+        "original_text": "Agar aapko thodi higher concentration chahiye toh ye 15% formula dullness aur pigmentation ko tezi se target karta hai. Ye fragrance-free hai aur natural extracts ke sath skin glow boost karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "Ye serum **15% L-Ascorbic Acid** aur **Vitamin E** ke power-packed combination ke sath aata hai. Ye deep penetration dekar uneven skin tone aur spots ko jaldi theek karne mein madad karta hai.",
+        "original_text": "Ye serum 15% L-Ascorbic Acid aur Vitamin E ke power-packed combination ke sath aata hai. Ye deep penetration dekar uneven skin tone aur spots ko jaldi theek karne mein madad karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "Isme Vitamin C ke sath **5% Niacinamide** bhi milta hai, jo dark spots ke sath-sath skin barrier ko strengthen karta hai aur oil control mein bhi help karta hai.",
+        "original_text": "Isme Vitamin C ke sath 5% Niacinamide bhi milta hai, jo dark spots ke sath-sath skin barrier ko strengthen karta hai aur oil control mein bhi help karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "Ek budget-friendly aur popular option hai jo lightweight formula ke sath instantly dull skin ko refresh karta hai.",
+        "original_text": "Ek budget-friendly aur popular option hai jo lightweight formula ke sath instantly dull skin ko refresh karta hai.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

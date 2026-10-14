@@ -1,0 +1,198 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S05",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 3,
+  "promptText": "Which serum should I buy for acne-prone skin in India under ₹700?",
+  "cellId": "S05_en_gemini_r3",
+  "startedAt": "2026-10-13T14:40:47.007Z",
+  "finishedAt": "2026-10-13T14:42:26.184Z",
+  "durationMs": 99177,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "For acne-prone skin under ₹700, look for serums featuring **Salicylic Acid** (to clear pores and tackle active breakouts) or **Niacinamide** (to control oil and fade post-acne marks).[thedeconstruct.in](https://thedeconstruct.in/collections/anti-acne#:~:text=Deconstruct%20Salicylic%20Acid%20Oil%20Control%20Face%20Wash,wash%20choices%20for%20oily%20and%20combination%20skin.)\n\nHere are top-rated options available in India within your budget:\n\nThis **lightweight, water-based serum** combines **2% BHA and 3% Niacinamide** to gently exfoliate, clear congested skin, and regulate sebum.\n\nThis **triple-active formula** blends **Salicylic Acid, Azelaic Acid, and Niacinamide** to treat active breakouts and reduce post-acne marks.\n\nPacked with **5% Niacinamide, 2% Salicylic Acid, and 5% Azelaic Acid**, this budget pick **unclogs pores and calms inflammation**.\n\nInfused with **Tea Tree Oil and Niacinamide**, this quick-absorbing serum **targets active acne and helps refine enlarged pores**.\n\nPowered by **10% Niacinamide and Zinc PCA**, this fragrance-free option focuses on **fading dark spots and controlling excess oil**.\n\nThis **dermatologist-recommended serum** uses AHAs and BHAs to effectively **treat active acne, blemishes, and excessive sebum**.\n\n### Summary Recommendation\n\n* Choose the Pilgrim Salicylic Acid & Niacinamide Oil Control Serum or HYPHEN Acne Control Serum 2% Salicylic Acid if you want a balanced mix of breakout prevention and mark reduction.\n* Choose the Pilgrim 10% Niacinamide Face Serum For Acne Marks if your active pimples have healed and you primarily want to clear up dark spots and hyperpigmentation.\n\nIf you like, I can help you choose a matching lightweight, non-comedogenic moisturizer to pair with your serum. Do you want me to do that?",
+  "citations": [
+   {
+    "url": "https://thedeconstruct.in/collections/anti-acne#:~:text=Deconstruct%20Salicylic%20Acid%20Oil%20Control%20Face%20Wash,wash%20choices%20for%20oily%20and%20combination%20skin.",
+    "source_name": "Deconstruct",
+    "position": 1
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "98.2360 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131440-2163-0629-0000-7730b846f4cb",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "98.1228 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Which serum should I buy for acne-prone skin in India under ₹700?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which serum should I buy for acne-prone skin in India under ₹700?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:42:27 +00:00",
+      "markdown": "For acne-prone skin under ₹700, look for serums featuring **Salicylic Acid** (to clear pores and tackle active breakouts) or **Niacinamide** (to control oil and fade post-acne marks).[thedeconstruct.in](https://thedeconstruct.in/collections/anti-acne#:~:text=Deconstruct%20Salicylic%20Acid%20Oil%20Control%20Face%20Wash,wash%20choices%20for%20oily%20and%20combination%20skin.)\n\nHere are top-rated options available in India within your budget:\n\nThis **lightweight, water-based serum** combines **2% BHA and 3% Niacinamide** to gently exfoliate, clear congested skin, and regulate sebum.\n\nThis **triple-active formula** blends **Salicylic Acid, Azelaic Acid, and Niacinamide** to treat active breakouts and reduce post-acne marks.\n\nPacked with **5% Niacinamide, 2% Salicylic Acid, and 5% Azelaic Acid**, this budget pick **unclogs pores and calms inflammation**.\n\nInfused with **Tea Tree Oil and Niacinamide**, this quick-absorbing serum **targets active acne and helps refine enlarged pores**.\n\nPowered by **10% Niacinamide and Zinc PCA**, this fragrance-free option focuses on **fading dark spots and controlling excess oil**.\n\nThis **dermatologist-recommended serum** uses AHAs and BHAs to effectively **treat active acne, blemishes, and excessive sebum**.\n\n### Summary Recommendation\n\n* Choose the Pilgrim Salicylic Acid & Niacinamide Oil Control Serum or HYPHEN Acne Control Serum 2% Salicylic Acid if you want a balanced mix of breakout prevention and mark reduction.\n* Choose the Pilgrim 10% Niacinamide Face Serum For Acne Marks if your active pimples have healed and you primarily want to clear up dark spots and hyperpigmentation.\n\nIf you like, I can help you choose a matching lightweight, non-comedogenic moisturizer to pair with your serum. Do you want me to do that?",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Buy Anti Acne Serums Online at Best Price | Deconstruct",
+        "snippet": "Deconstruct Salicylic Acid Oil Control Face Wash with the ideal \nconcentration of 2% Salicylic acid + 1.5% Niacinamide, which gives a \nnon-drying and cooling bene...",
+        "domain": "thedeconstruct.in",
+        "url": "https://thedeconstruct.in/collections/anti-acne#:~:text=Deconstruct%20Salicylic%20Acid%20Oil%20Control%20Face%20Wash,wash%20choices%20for%20oily%20and%20combination%20skin.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS5EM3_vwVrNv1t-whMfM6S9ZT7YU4oxWnkeNZ5TL5lOuECKbNG3crgw8k27LLj81lL4WzJhrpqde4LO2cgIzkjkVJbYiAyHIpKjvt0",
+        "source_name": "Deconstruct",
+        "publication_date": null,
+        "markdown": "For acne-prone skin under ₹700, look for serums featuring **Salicylic Acid** (to clear pores and tackle active breakouts) or **Niacinamide** (to control oil and fade post-acne marks)."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 11,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "For acne-prone skin under ₹700, look for serums featuring **Salicylic Acid** (to clear pores and tackle active breakouts) or **Niacinamide** (to control oil and fade post-acne marks).[thedeconstruct.in](https://thedeconstruct.in/collections/anti-acne#:~:text=Deconstruct%20Salicylic%20Acid%20Oil%20Control%20Face%20Wash,wash%20choices%20for%20oily%20and%20combination%20skin.)",
+        "original_text": "For acne-prone skin under ₹700, look for serums featuring Salicylic Acid (to clear pores and tackle active breakouts) or Niacinamide (to control oil and fade post-acne marks).",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Buy Anti Acne Serums Online at Best Price | Deconstruct",
+          "snippet": "Deconstruct Salicylic Acid Oil Control Face Wash with the ideal \nconcentration of 2% Salicylic acid + 1.5% Niacinamide, which gives a \nnon-drying and cooling bene...",
+          "domain": "thedeconstruct.in",
+          "url": "https://thedeconstruct.in/collections/anti-acne#:~:text=Deconstruct%20Salicylic%20Acid%20Oil%20Control%20Face%20Wash,wash%20choices%20for%20oily%20and%20combination%20skin.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS5EM3_vwVrNv1t-whMfM6S9ZT7YU4oxWnkeNZ5TL5lOuECKbNG3crgw8k27LLj81lL4WzJhrpqde4LO2cgIzkjkVJbYiAyHIpKjvt0",
+          "source_name": "Deconstruct",
+          "publication_date": null,
+          "markdown": "For acne-prone skin under ₹700, look for serums featuring **Salicylic Acid** (to clear pores and tackle active breakouts) or **Niacinamide** (to control oil and fade post-acne marks)."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Here are top-rated options available in India within your budget:",
+        "original_text": "Here are top-rated options available in India within your budget:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "This **lightweight, water-based serum** combines **2% BHA and 3% Niacinamide** to gently exfoliate, clear congested skin, and regulate sebum.",
+        "original_text": "This lightweight, water-based serum combines 2% BHA and 3% Niacinamide to gently exfoliate, clear congested skin, and regulate sebum.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "This **triple-active formula** blends **Salicylic Acid, Azelaic Acid, and Niacinamide** to treat active breakouts and reduce post-acne marks.",
+        "original_text": "This triple-active formula blends Salicylic Acid, Azelaic Acid, and Niacinamide to treat active breakouts and reduce post-acne marks.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "Packed with **5% Niacinamide, 2% Salicylic Acid, and 5% Azelaic Acid**, this budget pick **unclogs pores and calms inflammation**.",
+        "original_text": "Packed with 5% Niacinamide, 2% Salicylic Acid, and 5% Azelaic Acid, this budget pick unclogs pores and calms inflammation.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "Infused with **Tea Tree Oil and Niacinamide**, this quick-absorbing serum **targets active acne and helps refine enlarged pores**.",
+        "original_text": "Infused with Tea Tree Oil and Niacinamide, this quick-absorbing serum targets active acne and helps refine enlarged pores.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "Powered by **10% Niacinamide and Zinc PCA**, this fragrance-free option focuses on **fading dark spots and controlling excess oil**.",
+        "original_text": "Powered by 10% Niacinamide and Zinc PCA, this fragrance-free option focuses on fading dark spots and controlling excess oil.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "This **dermatologist-recommended serum** uses AHAs and BHAs to effectively **treat active acne, blemishes, and excessive sebum**.",
+        "original_text": "This dermatologist-recommended serum uses AHAs and BHAs to effectively treat active acne, blemishes, and excessive sebum.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### Summary Recommendation",
+        "original_text": "Summary Recommendation",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "* Choose the Pilgrim Salicylic Acid & Niacinamide Oil Control Serum or HYPHEN Acne Control Serum 2% Salicylic Acid if you want a balanced mix of breakout prevention and mark reduction.\n* Choose the Pilgrim 10% Niacinamide Face Serum For Acne Marks if your active pimples have healed and you primarily want to clear up dark spots and hyperpigmentation.",
+        "original_text": "Choose the Pilgrim Salicylic Acid & Niacinamide Oil Control Serum or HYPHEN Acne Control Serum 2% Salicylic Acid if you want a balanced mix of breakout prevention and mark reduction.\nChoose the Pilgrim 10% Niacinamide Face Serum For Acne Marks if your active pimples have healed and you primarily want to clear up dark spots and hyperpigmentation.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "If you like, I can help you choose a matching lightweight, non-comedogenic moisturizer to pair with your serum. Do you want me to do that?",
+        "original_text": "If you like, I can help you choose a matching lightweight, non-comedogenic moisturizer to pair with your serum. Do you want me to do that?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

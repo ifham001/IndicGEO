@@ -1,0 +1,184 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S03",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 1,
+  "promptText": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+  "cellId": "S03_hg_gemini_r1",
+  "startedAt": "2026-10-13T14:16:24.266Z",
+  "finishedAt": "2026-10-13T14:17:28.321Z",
+  "durationMs": 64055,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein dark spots aur dull skin ke liye Vitamin C serums ki bohot saari acchi options available hain. Vitamin C skin ko bright karne, hyperpigmentation (dark spots) kam karne aur ek glowing complexion dene ke liye sabse best ingredient mana jata hai.\n\nAapke budget aur skin type ke hisaab se yeh kuch top-rated aur trusted options hain:\n\n## 1. Best Overall & Dermatologist Recommended\n\n* **Minimalist 10% Vitamin C Serum (with Ethyl Ascorbic Acid)**\n  *   * **Price:** Around INR 699\n  * **Kyun kharidein:** Yeh serum beginner-friendly bhi hai aur effective bhi. Ismein 10% Vitamin C ke sath Centella Water (jo skin ko soothe karta hai) aur Acetyl Glucosamine hota hai jo dark spots aur fading ki speed ko tez karta hai. Yeh non-sticky hai aur jaldi absorb ho jata hai.\n\n## 2. Best for Beginners & Sensitive Skin\n\n* **Plum 15% Vitamin C Face Serum (with Mandarin & Kakadu Plum)**\n  *   * **Price:** Around INR 550 - 750 (frequent discounts hote hain)\n  * **Kyun kharidein:** Ismein Ethyl Ascorbic Acid hai jo stable rehta hai aur jaldi oxidize nahi hota. Sath hi Kakadu Plum aur Japanese Mandarin skin ki dullness ko door karke ek natural glow dete hain.\n\n## 3. Best High-Performance / Premium Option\n\n* **Kiehl's Clearly Corrective Dark Spot Solution** ya phir **L'Oreal Paris Revitalift 15% Vitamin C Serum**\n  *   * **Price:** L'Oreal (Around INR 799), Kiehl's (Luxury range)\n  * **Kyun kharidein:** Agar aap thoda high-end budget chahte hain, toh L'Oreal ka 15% Vitamin C serum bohot tezi se dark spots ko target karta hai aur glow laata hai. Yeh kafi potent formula hai.\n\n## 4. Best Budget-Friendly Option\n\n* **Garnier Vitamin C Booster Serum**\n  *   * **Price:** Around INR 399 - 499 (affordable sizes available)\n  * **Kyun kharidein:** Yeh lightweight serum Lemon Extract aur Vitamin C se bharpoor hai. Agar aap budget-friendly option dhoond rahe hain jo daily use ke liye easy ho, toh yeh ek acchi choice hai.\n\n---\n\n### 💡 Vitamin C Serum Use Karne Ke Kuch Important Tips:\n\n1.  **Patch Test:** Pehli baar use karne se pehle kohni (elbow) ya kaan ke piche thoda laga kar check zaroor karein ki koi allergy toh nahi ho rahi.\n2.  **Sunscreen zaroori hai:** Vitamin C lagane ke baad din mein **Sunscreen (SPF 30 ya usse zyada)** lagana bilkul na bhulein, warna spots aur dark ho sakte hain.\n3.  **Storage:** Vitamin C serums jaldi oxidize (kharab) ho jaate hain agar unhein dhoop ya garmi lage. Isliye inhein thandi aur andheri jagah par (aap fridge mein bhi rakh sakte hain) store karein.\n\nAapka skin type kya hai (oily, dry, ya sensitive), aur aapka budget kitna hai? Uske hisaab se agar aapko aur exact recommendation chahiye toh zaroor batayein!",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "63.8306 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131416-2163-0629-0000-21249cf44278",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "63.7362 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:17:30 +00:00",
+      "markdown": "India mein dark spots aur dull skin ke liye Vitamin C serums ki bohot saari acchi options available hain. Vitamin C skin ko bright karne, hyperpigmentation (dark spots) kam karne aur ek glowing complexion dene ke liye sabse best ingredient mana jata hai.\n\nAapke budget aur skin type ke hisaab se yeh kuch top-rated aur trusted options hain:\n\n## 1. Best Overall & Dermatologist Recommended\n\n* **Minimalist 10% Vitamin C Serum (with Ethyl Ascorbic Acid)**\n  *   * **Price:** Around INR 699\n  * **Kyun kharidein:** Yeh serum beginner-friendly bhi hai aur effective bhi. Ismein 10% Vitamin C ke sath Centella Water (jo skin ko soothe karta hai) aur Acetyl Glucosamine hota hai jo dark spots aur fading ki speed ko tez karta hai. Yeh non-sticky hai aur jaldi absorb ho jata hai.\n\n## 2. Best for Beginners & Sensitive Skin\n\n* **Plum 15% Vitamin C Face Serum (with Mandarin & Kakadu Plum)**\n  *   * **Price:** Around INR 550 - 750 (frequent discounts hote hain)\n  * **Kyun kharidein:** Ismein Ethyl Ascorbic Acid hai jo stable rehta hai aur jaldi oxidize nahi hota. Sath hi Kakadu Plum aur Japanese Mandarin skin ki dullness ko door karke ek natural glow dete hain.\n\n## 3. Best High-Performance / Premium Option\n\n* **Kiehl's Clearly Corrective Dark Spot Solution** ya phir **L'Oreal Paris Revitalift 15% Vitamin C Serum**\n  *   * **Price:** L'Oreal (Around INR 799), Kiehl's (Luxury range)\n  * **Kyun kharidein:** Agar aap thoda high-end budget chahte hain, toh L'Oreal ka 15% Vitamin C serum bohot tezi se dark spots ko target karta hai aur glow laata hai. Yeh kafi potent formula hai.\n\n## 4. Best Budget-Friendly Option\n\n* **Garnier Vitamin C Booster Serum**\n  *   * **Price:** Around INR 399 - 499 (affordable sizes available)\n  * **Kyun kharidein:** Yeh lightweight serum Lemon Extract aur Vitamin C se bharpoor hai. Agar aap budget-friendly option dhoond rahe hain jo daily use ke liye easy ho, toh yeh ek acchi choice hai.\n\n---\n\n### 💡 Vitamin C Serum Use Karne Ke Kuch Important Tips:\n\n1.  **Patch Test:** Pehli baar use karne se pehle kohni (elbow) ya kaan ke piche thoda laga kar check zaroor karein ki koi allergy toh nahi ho rahi.\n2.  **Sunscreen zaroori hai:** Vitamin C lagane ke baad din mein **Sunscreen (SPF 30 ya usse zyada)** lagana bilkul na bhulein, warna spots aur dark ho sakte hain.\n3.  **Storage:** Vitamin C serums jaldi oxidize (kharab) ho jaate hain agar unhein dhoop ya garmi lage. Isliye inhein thandi aur andheri jagah par (aap fridge mein bhi rakh sakte hain) store karein.\n\nAapka skin type kya hai (oily, dry, ya sensitive), aur aapka budget kitna hai? Uske hisaab se agar aapko aur exact recommendation chahiye toh zaroor batayein!",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 13,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein dark spots aur dull skin ke liye Vitamin C serums ki bohot saari acchi options available hain. Vitamin C skin ko bright karne, hyperpigmentation (dark spots) kam karne aur ek glowing complexion dene ke liye sabse best ingredient mana jata hai.",
+        "original_text": "India mein dark spots aur dull skin ke liye Vitamin C serums ki bohot saari acchi options available hain. Vitamin C skin ko bright karne, hyperpigmentation (dark spots) kam karne aur ek glowing complexion dene ke liye sabse best ingredient mana jata hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Aapke budget aur skin type ke hisaab se yeh kuch top-rated aur trusted options hain:",
+        "original_text": "Aapke budget aur skin type ke hisaab se yeh kuch top-rated aur trusted options hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "## 1. Best Overall & Dermatologist Recommended",
+        "original_text": "1. Best Overall & Dermatologist Recommended",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Minimalist 10% Vitamin C Serum (with Ethyl Ascorbic Acid)**\n  *   * **Price:** Around INR 699\n  * **Kyun kharidein:** Yeh serum beginner-friendly bhi hai aur effective bhi. Ismein 10% Vitamin C ke sath Centella Water (jo skin ko soothe karta hai) aur Acetyl Glucosamine hota hai jo dark spots aur fading ki speed ko tez karta hai. Yeh non-sticky hai aur jaldi absorb ho jata hai.",
+        "original_text": "Minimalist 10% Vitamin C Serum (with Ethyl Ascorbic Acid)\nPrice: Around INR 699\nKyun kharidein: Yeh serum beginner-friendly bhi hai aur effective bhi. Ismein 10% Vitamin C ke sath Centella Water (jo skin ko soothe karta hai) aur Acetyl Glucosamine hota hai jo dark spots aur fading ki speed ko tez karta hai. Yeh non-sticky hai aur jaldi absorb ho jata hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "## 2. Best for Beginners & Sensitive Skin",
+        "original_text": "2. Best for Beginners & Sensitive Skin",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Plum 15% Vitamin C Face Serum (with Mandarin & Kakadu Plum)**\n  *   * **Price:** Around INR 550 - 750 (frequent discounts hote hain)\n  * **Kyun kharidein:** Ismein Ethyl Ascorbic Acid hai jo stable rehta hai aur jaldi oxidize nahi hota. Sath hi Kakadu Plum aur Japanese Mandarin skin ki dullness ko door karke ek natural glow dete hain.",
+        "original_text": "Plum 15% Vitamin C Face Serum (with Mandarin & Kakadu Plum)\nPrice: Around INR 550 - 750 (frequent discounts hote hain)\nKyun kharidein: Ismein Ethyl Ascorbic Acid hai jo stable rehta hai aur jaldi oxidize nahi hota. Sath hi Kakadu Plum aur Japanese Mandarin skin ki dullness ko door karke ek natural glow dete hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "## 3. Best High-Performance / Premium Option",
+        "original_text": "3. Best High-Performance / Premium Option",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Kiehl's Clearly Corrective Dark Spot Solution** ya phir **L'Oreal Paris Revitalift 15% Vitamin C Serum**\n  *   * **Price:** L'Oreal (Around INR 799), Kiehl's (Luxury range)\n  * **Kyun kharidein:** Agar aap thoda high-end budget chahte hain, toh L'Oreal ka 15% Vitamin C serum bohot tezi se dark spots ko target karta hai aur glow laata hai. Yeh kafi potent formula hai.",
+        "original_text": "Kiehl's Clearly Corrective Dark Spot Solution ya phir L'Oreal Paris Revitalift 15% Vitamin C Serum\nPrice: L'Oreal (Around INR 799), Kiehl's (Luxury range)\nKyun kharidein: Agar aap thoda high-end budget chahte hain, toh L'Oreal ka 15% Vitamin C serum bohot tezi se dark spots ko target karta hai aur glow laata hai. Yeh kafi potent formula hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "## 4. Best Budget-Friendly Option",
+        "original_text": "4. Best Budget-Friendly Option",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "* **Garnier Vitamin C Booster Serum**\n  *   * **Price:** Around INR 399 - 499 (affordable sizes available)\n  * **Kyun kharidein:** Yeh lightweight serum Lemon Extract aur Vitamin C se bharpoor hai. Agar aap budget-friendly option dhoond rahe hain jo daily use ke liye easy ho, toh yeh ek acchi choice hai.",
+        "original_text": "Garnier Vitamin C Booster Serum\nPrice: Around INR 399 - 499 (affordable sizes available)\nKyun kharidein: Yeh lightweight serum Lemon Extract aur Vitamin C se bharpoor hai. Agar aap budget-friendly option dhoond rahe hain jo daily use ke liye easy ho, toh yeh ek acchi choice hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "### 💡 Vitamin C Serum Use Karne Ke Kuch Important Tips:",
+        "original_text": "💡 Vitamin C Serum Use Karne Ke Kuch Important Tips:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "1.  **Patch Test:** Pehli baar use karne se pehle kohni (elbow) ya kaan ke piche thoda laga kar check zaroor karein ki koi allergy toh nahi ho rahi.\n2.  **Sunscreen zaroori hai:** Vitamin C lagane ke baad din mein **Sunscreen (SPF 30 ya usse zyada)** lagana bilkul na bhulein, warna spots aur dark ho sakte hain.\n3.  **Storage:** Vitamin C serums jaldi oxidize (kharab) ho jaate hain agar unhein dhoop ya garmi lage. Isliye inhein thandi aur andheri jagah par (aap fridge mein bhi rakh sakte hain) store karein.",
+        "original_text": "Patch Test: Pehli baar use karne se pehle kohni (elbow) ya kaan ke piche thoda laga kar check zaroor karein ki koi allergy toh nahi ho rahi.\nSunscreen zaroori hai: Vitamin C lagane ke baad din mein Sunscreen (SPF 30 ya usse zyada) lagana bilkul na bhulein, warna spots aur dark ho sakte hain.\nStorage: Vitamin C serums jaldi oxidize (kharab) ho jaate hain agar unhein dhoop ya garmi lage. Isliye inhein thandi aur andheri jagah par (aap fridge mein bhi rakh sakte hain) store karein.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "markdown": "Aapka skin type kya hai (oily, dry, ya sensitive), aur aapka budget kitna hai? Uske hisaab se agar aapko aur exact recommendation chahiye toh zaroor batayein!",
+        "original_text": "Aapka skin type kya hai (oily, dry, ya sensitive), aur aapka budget kitna hai? Uske hisaab se agar aapko aur exact recommendation chahiye toh zaroor batayein!",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

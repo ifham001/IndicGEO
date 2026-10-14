@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F03",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "perplexity",
+  "rep": 1,
+  "promptText": "India mein women ke liye online konse brand ke kurta sets kharidun?",
+  "cellId": "F03_hg_perplexity_r1",
+  "startedAt": "2026-10-13T14:01:12.442Z",
+  "finishedAt": "2026-10-13T14:01:16.619Z",
+  "durationMs": 4177,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein online **women’s kurta sets** ke liye ye brands achhe options hain:\n\n- **Libas** – office wear, daily wear aur festive sets; cotton/cotton-blend options, roughly ₹999–₹1,449 ke aas-paas. [8]\n- **Biba** – polished ethnic look aur better finishing; Flipkart par kurta sets available hain. [2]\n- **W for Woman** – elegant office aur semi-formal styles ke liye. [2]\n- **Aurelia** – comfortable, contemporary Indian wear; everyday use ke liye achha. [2]\n- **Indo Era** – affordable embroidered, A-line aur printed 3-piece sets; Amazon par kaafi variety. [5][6]\n- **GoSriKi** – budget-friendly rayon/viscose 3-piece sets, dupatta ke saath; casual aur festive wear ke liye. [1][5]\n- **Anouk** – modern prints aur fusion-style kurta sets. [7]\n- **Gerua by Libas** – stylish designs, generally discounted prices par milte hain. [7][9]\n- **Nermosa** – cotton aur hand-block printed sets; summer/day outings ke liye. [6]\n- **Meesho sellers** – ₹200–₹500 range mein budget options, lekin reviews, fabric aur return policy zaroor check karein. [4]\n\n**Quick recommendation:**\n- **Best overall:** Libas  \n- **Office wear:** Aurelia ya W for Woman  \n- **Budget:** GoSriKi ya Indo Era  \n- **Festive wear:** Biba ya Libas embroidered sets  \n- **Cotton/summer:** Nermosa ya Libas cotton sets  \n\nBuy karne se pehle fabric, size chart, customer photos, rating aur return policy check karein—especially rayon/viscose sets mein actual color aur fitting product photos se alag ho sakti hai.",
+  "citations": [
+   {
+    "url": "https://www.amazon.in/kurta-sets-for-women/s?k=kurta+sets+for+women",
+    "position": 1
+   },
+   {
+    "url": "https://1.www.flipkart.com/womens-ethnic-sets/pr?sid=clo,cfv,itg,tys",
+    "position": 2
+   },
+   {
+    "url": "https://www.flipkart.com/womens-kurtas-kurtis/pr?sid=clo,cfv,cib,rkt",
+    "position": 3
+   },
+   {
+    "url": "https://www.meesho.com/kurta-sets-women/pl/3k9",
+    "position": 4
+   },
+   {
+    "url": "https://www.zepto.com/buy-kurta-sets",
+    "position": 5
+   },
+   {
+    "url": "https://www.amazon.in/cotton-kurta-for-women/s?k=cotton+kurta+set+for+women",
+    "position": 6
+   },
+   {
+    "url": "https://www.flipkart.com/q/kurta-sets",
+    "position": 7
+   },
+   {
+    "url": "https://www.libas.in/collections/kurta-sets",
+    "position": 8
+   },
+   {
+    "url": "https://www.nykaafashion.com/dp/kurta-sets/www.nykaafashion.com/dp/kurta-sets/",
+    "position": 9
+   },
+   {
+    "url": "https://www.shopsy.in/women-kurtas-online",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.005464
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.9358 sec.",
+  "cost": 0.006064,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131401-2163-0612-0000-40dc14672b24",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.9143 sec.",
+    "cost": 0.006064,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "India mein women ke liye online konse brand ke kurta sets kharidun?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 26,
+      "output_tokens": 438,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005464,
+      "datetime": "2026-10-13 14:01:18 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "India mein online **women’s kurta sets** ke liye ye brands achhe options hain:\n\n- **Libas** – office wear, daily wear aur festive sets; cotton/cotton-blend options, roughly ₹999–₹1,449 ke aas-paas. [8]\n- **Biba** – polished ethnic look aur better finishing; Flipkart par kurta sets available hain. [2]\n- **W for Woman** – elegant office aur semi-formal styles ke liye. [2]\n- **Aurelia** – comfortable, contemporary Indian wear; everyday use ke liye achha. [2]\n- **Indo Era** – affordable embroidered, A-line aur printed 3-piece sets; Amazon par kaafi variety. [5][6]\n- **GoSriKi** – budget-friendly rayon/viscose 3-piece sets, dupatta ke saath; casual aur festive wear ke liye. [1][5]\n- **Anouk** – modern prints aur fusion-style kurta sets. [7]\n- **Gerua by Libas** – stylish designs, generally discounted prices par milte hain. [7][9]\n- **Nermosa** – cotton aur hand-block printed sets; summer/day outings ke liye. [6]\n- **Meesho sellers** – ₹200–₹500 range mein budget options, lekin reviews, fabric aur return policy zaroor check karein. [4]\n\n**Quick recommendation:**\n- **Best overall:** Libas  \n- **Office wear:** Aurelia ya W for Woman  \n- **Budget:** GoSriKi ya Indo Era  \n- **Festive wear:** Biba ya Libas embroidered sets  \n- **Cotton/summer:** Nermosa ya Libas cotton sets  \n\nBuy karne se pehle fabric, size chart, customer photos, rating aur return policy check karein—especially rayon/viscose sets mein actual color aur fitting product photos se alag ho sakti hai.",
+          "annotations": [
+           {
+            "title": "www.amazon.in › kurta-sets-for-women › sAmazon.in: Kurta Sets For Women",
+            "url": "https://www.amazon.in/kurta-sets-for-women/s?k=kurta+sets+for+women",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Kurta Sets for Women - Buy Ethnic Sets Online | Flipkart",
+            "url": "https://1.www.flipkart.com/womens-ethnic-sets/pr?sid=clo,cfv,itg,tys",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Womens Kurtis Online – Under ₹149 Offers On Flipkart",
+            "url": "https://www.flipkart.com/womens-kurtas-kurtis/pr?sid=clo,cfv,cib,rkt",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "All Kurta Sets",
+            "url": "https://www.meesho.com/kurta-sets-women/pl/3k9",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Kurta Sets",
+            "url": "https://www.zepto.com/buy-kurta-sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › sAmazon.in: Cotton Kurta Set For Women",
+            "url": "https://www.amazon.in/cotton-kurta-for-women/s?k=cotton+kurta+set+for+women",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.flipkart.com › q › kurta-setsKurta Sets - Buy Kurta Sets online at Best Prices in India ...",
+            "url": "https://www.flipkart.com/q/kurta-sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Kurta Set For Women",
+            "url": "https://www.libas.in/collections/kurta-sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.nykaafashion.com › dp › kurta-setsKurta Sets - Buy Trendy Kurta Sets Online | Nykaa Fashion",
+            "url": "https://www.nykaafashion.com/dp/kurta-sets/www.nykaafashion.com/dp/kurta-sets/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Women Kurtas",
+            "url": "https://www.shopsy.in/women-kurtas-online",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

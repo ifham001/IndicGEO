@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "perplexity",
+  "rep": 5,
+  "promptText": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+  "cellId": "F02_hg_perplexity_r5",
+  "startedAt": "2026-10-13T13:19:39.332Z",
+  "finishedAt": "2026-10-13T13:19:43.904Z",
+  "durationMs": 4572,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "₹3,000 के अंदर **सबसे अच्छा चुनाव** आपके उपयोग पर निर्भर है। सामान्य रोड रनिंग और 3–5 किमी के लिए ये मॉडल देखें:\n\n| मॉडल | अनुमानित कीमत | किसके लिए अच्छा |\n|---|---:|---|\n| **Nike Run Defy** | ~₹2,800–3,000 | सबसे अच्छा all-rounder; running + walking[1][9] |\n| **Skechers Go Run Consistent** | ~₹2,700–3,000 | ज्यादा cushioning और आराम[5][9] |\n| **Puma Skyrocket Lite** | ~₹2,999 | हल्का जूता और नियमित 5K रन[2] |\n| **adidas Drogo M** | ~₹1,800–2,100 | कम बजट में भरोसेमंद ब्रांड[1][2] |\n| **ASICS Gel-Contend 4B+** | ~₹2,500 | शुरुआती धावक और cushioning चाहने वालों के लिए[2] |\n| **Campus Trasko / Campus First** | ~₹1,400–1,850 | बजट, walking और हल्की jogging[2][4] |\n| **Reebok Stride Runner** | ₹1,000 से कम | gym, walking और हल्की jogging[5] |\n\n**मेरी सीधी सलाह:**\n- **रोज़ 3–5 किमी दौड़ना है:** Nike Run Defy या Puma Skyrocket Lite  \n- **पैरों में आराम/cushioning प्राथमिकता है:** Skechers Go Run Consistent  \n- **₹2,000 से कम खर्च करना है:** adidas Drogo M  \n- **सिर्फ हल्की jogging/walking है:** Campus Trasko या Campus First  \n\nखरीदते समय पैर के आगे लगभग **एक अंगुल जगह**, breathable mesh upper और अच्छी rubber grip देखें। ₹3,000 के अंदर जूते आम तौर पर शुरुआती या recreational running के लिए बेहतर हैं; बहुत ज्यादा mileage के लिए sale में ASICS Gel-Contend या adidas Galaxy जैसे मॉडल मिलें तो उन्हें प्राथमिकता दें।[2][4]",
+  "citations": [
+   {
+    "url": "https://sportsdribble.com/sports-shoes-for-men-under-3000/",
+    "position": 1
+   },
+   {
+    "url": "https://urbanstylefootwear.com/best-running-shoes-under-3000-india/",
+    "position": 2
+   },
+   {
+    "url": "https://www.kissht.com/blog/best-budget-running-shoes",
+    "position": 3
+   },
+   {
+    "url": "https://www.aish4aish.in/blog/best-running-shoes-india-2026",
+    "position": 4
+   },
+   {
+    "url": "https://www.news18.com/lifestyle/health-and-fitness/8-best-running-shoes-under-rs-3000-for-daily-morning-jogs-ws-el-10354027.html",
+    "position": 5
+   },
+   {
+    "url": "https://zoutons.com/news/adidas-eoss-running-shoes-under-3000-summer-marathons-2026",
+    "position": 6
+   },
+   {
+    "url": "https://www.prime9hindi.com/lifestyle/best-running-shoes-under-3000",
+    "position": 7
+   },
+   {
+    "url": "https://stridd.run/runninglab/best/best-running-shoes-india-2026/",
+    "position": 8
+   },
+   {
+    "url": "https://www.someinfo.in/picks/best-running-shoes-under-3000-india",
+    "position": 9
+   },
+   {
+    "url": "https://urbanstylefootwear.com/best-running-shoes-india/",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.005641
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "4.0551 sec.",
+  "cost": 0.006241,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131319-2163-0612-0000-7969eb26eb34",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.9843 sec.",
+    "cost": 0.006241,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 605,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005641,
+      "datetime": "2026-10-13 13:19:43 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "₹3,000 के अंदर **सबसे अच्छा चुनाव** आपके उपयोग पर निर्भर है। सामान्य रोड रनिंग और 3–5 किमी के लिए ये मॉडल देखें:\n\n| मॉडल | अनुमानित कीमत | किसके लिए अच्छा |\n|---|---:|---|\n| **Nike Run Defy** | ~₹2,800–3,000 | सबसे अच्छा all-rounder; running + walking[1][9] |\n| **Skechers Go Run Consistent** | ~₹2,700–3,000 | ज्यादा cushioning और आराम[5][9] |\n| **Puma Skyrocket Lite** | ~₹2,999 | हल्का जूता और नियमित 5K रन[2] |\n| **adidas Drogo M** | ~₹1,800–2,100 | कम बजट में भरोसेमंद ब्रांड[1][2] |\n| **ASICS Gel-Contend 4B+** | ~₹2,500 | शुरुआती धावक और cushioning चाहने वालों के लिए[2] |\n| **Campus Trasko / Campus First** | ~₹1,400–1,850 | बजट, walking और हल्की jogging[2][4] |\n| **Reebok Stride Runner** | ₹1,000 से कम | gym, walking और हल्की jogging[5] |\n\n**मेरी सीधी सलाह:**\n- **रोज़ 3–5 किमी दौड़ना है:** Nike Run Defy या Puma Skyrocket Lite  \n- **पैरों में आराम/cushioning प्राथमिकता है:** Skechers Go Run Consistent  \n- **₹2,000 से कम खर्च करना है:** adidas Drogo M  \n- **सिर्फ हल्की jogging/walking है:** Campus Trasko या Campus First  \n\nखरीदते समय पैर के आगे लगभग **एक अंगुल जगह**, breathable mesh upper और अच्छी rubber grip देखें। ₹3,000 के अंदर जूते आम तौर पर शुरुआती या recreational running के लिए बेहतर हैं; बहुत ज्यादा mileage के लिए sale में ASICS Gel-Contend या adidas Galaxy जैसे मॉडल मिलें तो उन्हें प्राथमिकता दें।[2][4]",
+          "annotations": [
+           {
+            "title": "9 Best Running Sports Shoes for Men Under 3000 in India (2026)",
+            "url": "https://sportsdribble.com/sports-shoes-for-men-under-3000/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Running Shoes Under ₹3000 India 2026 (5 Tested Picks)",
+            "url": "https://urbanstylefootwear.com/best-running-shoes-under-3000-india/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Budget Running Shoes in India 2026- Kissht",
+            "url": "https://www.kissht.com/blog/best-budget-running-shoes",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.aish4aish.in › blog › best-running-shoes-india-2026Best Running Shoes India 2026 — Nike, Adidas, Puma",
+            "url": "https://www.aish4aish.in/blog/best-running-shoes-india-2026",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "8 Best Running Shoes Under Rs 3000 For Daily Morning Jogs",
+            "url": "https://www.news18.com/lifestyle/health-and-fitness/8-best-running-shoes-under-rs-3000-for-daily-morning-jogs-ws-el-10354027.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "zoutons.com › news › adidas-eoss-running-shoes-underAdidas End of Season Sale May 2026 — 14 Best Running Shoes ...",
+            "url": "https://zoutons.com/news/adidas-eoss-running-shoes-under-3000-summer-marathons-2026",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "3000 रुपये से कम में खरीदें 8 बेहतरीन दौड़ने वाले जूते",
+            "url": "https://www.prime9hindi.com/lifestyle/best-running-shoes-under-3000",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "stridd.run › best › best-running-shoes-india-2026Best Running Shoes India 2026 — Tested Picks by Category | STRIDD",
+            "url": "https://stridd.run/runninglab/best/best-running-shoes-india-2026/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "5 Best Running Shoes for Men Under ₹3,000 in India (2026): Budget Daily Trainers Ranked",
+            "url": "https://www.someinfo.in/picks/best-running-shoes-under-3000-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Running Shoes India 2026: 9 Top Picks Expert Tested",
+            "url": "https://urbanstylefootwear.com/best-running-shoes-india/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

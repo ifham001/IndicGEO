@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F04",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "perplexity",
+  "rep": 1,
+  "promptText": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+  "cellId": "F04_hg_perplexity_r1",
+  "startedAt": "2026-10-13T14:27:19.206Z",
+  "finishedAt": "2026-10-13T14:27:23.018Z",
+  "durationMs": 3812,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein men ke liye formal shirts ke liye ye brands achhe options hain:\n\n- **Van Heusen** – Corporate office ke liye best; clean designs, achha collar aur premium fabric.  \n- **Louis Philippe** – Premium look aur formal meetings/interviews ke liye; budget thoda zyada hota hai.  \n- **Arrow** – Classic, sharp aur boardroom-ready style; slim-fit options kaafi achhe milte hain.  \n- **Peter England** – Budget-friendly daily office wear; aam taur par ₹800–₹2,000 range mein options milte hain.[1][5]  \n- **Park Avenue** – Dependable formal shirts, especially agar regular ya thoda fuller build ho.[4]  \n- **Allen Solly** – Smart semi-formal office wear aur relatively modern colours/designs.[4]  \n- **Raymond** – Classic styling aur quality fabric ke liye achha option.[8]\n\n**Simple recommendation:**\n\n- **₹800–₹1,500:** Peter England, Allen Solly, Park Avenue  \n- **₹1,500–₹3,000:** Van Heusen, Arrow  \n- **Premium:** Louis Philippe, Raymond  \n\nShuruat ke liye **2 white, 2 light-blue aur 1 light-grey shirt** kharidein. Interviews aur formal meetings ke liye **solid full-sleeve, spread/semi-spread collar, cotton ya cotton-rich fabric** choose karein. Fit mein **regular fit** comfort ke liye aur **slim fit** lean body ke liye behtar rahega.",
+  "citations": [
+   {
+    "url": "https://1.www.flipkart.com/mens-formal-shirts/pr?sid=clo,ash,axc,mmk,bk1",
+    "position": 1
+   },
+   {
+    "url": "https://www.amazon.in/shirts-formal/s?k=shirts+formal+shirts",
+    "position": 2
+   },
+   {
+    "url": "https://www.grabon.in/indulge/shopping-tips/best-shirts-brands-india-men/",
+    "position": 3
+   },
+   {
+    "url": "https://dressingschool.com/picks/formal-shirts/",
+    "position": 4
+   },
+   {
+    "url": "https://www.globalbrandsmagazine.com/top-10-shirt-brands-in-india/",
+    "position": 5
+   },
+   {
+    "url": "https://www.thecollective.in/c/men-formal-shirts",
+    "position": 6
+   },
+   {
+    "url": "https://www.amazon.in/formal-shirts-for-men-branded/s?k=formal+shirts+for+men+branded",
+    "position": 7
+   },
+   {
+    "url": "https://www.paisawapas.com/shoptalk/top-shirt-brands-india/",
+    "position": 8
+   },
+   {
+    "url": "https://cashkaro.com/thegoodlookbook/men-shirt-brands/",
+    "position": 9
+   },
+   {
+    "url": "https://www.tradeindia.com/manufacturers/designer-formal-shirts.html",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.00538
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.5976 sec.",
+  "cost": 0.00598,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131427-2163-0612-0000-606ac96ca1c2",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.5190 sec.",
+    "cost": 0.00598,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 27,
+      "output_tokens": 353,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00538,
+      "datetime": "2026-10-13 14:27:25 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "India mein men ke liye formal shirts ke liye ye brands achhe options hain:\n\n- **Van Heusen** – Corporate office ke liye best; clean designs, achha collar aur premium fabric.  \n- **Louis Philippe** – Premium look aur formal meetings/interviews ke liye; budget thoda zyada hota hai.  \n- **Arrow** – Classic, sharp aur boardroom-ready style; slim-fit options kaafi achhe milte hain.  \n- **Peter England** – Budget-friendly daily office wear; aam taur par ₹800–₹2,000 range mein options milte hain.[1][5]  \n- **Park Avenue** – Dependable formal shirts, especially agar regular ya thoda fuller build ho.[4]  \n- **Allen Solly** – Smart semi-formal office wear aur relatively modern colours/designs.[4]  \n- **Raymond** – Classic styling aur quality fabric ke liye achha option.[8]\n\n**Simple recommendation:**\n\n- **₹800–₹1,500:** Peter England, Allen Solly, Park Avenue  \n- **₹1,500–₹3,000:** Van Heusen, Arrow  \n- **Premium:** Louis Philippe, Raymond  \n\nShuruat ke liye **2 white, 2 light-blue aur 1 light-grey shirt** kharidein. Interviews aur formal meetings ke liye **solid full-sleeve, spread/semi-spread collar, cotton ya cotton-rich fabric** choose karein. Fit mein **regular fit** comfort ke liye aur **slim fit** lean body ke liye behtar rahega.",
+          "annotations": [
+           {
+            "title": "Formal Shirts For Men Online at Best Prices in India - Flipkart",
+            "url": "https://1.www.flipkart.com/mens-formal-shirts/pr?sid=clo,ash,axc,mmk,bk1",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › shirts-formal › sAmazon.in: Shirts Formal Shirts",
+            "url": "https://www.amazon.in/shirts-formal/s?k=shirts+formal+shirts",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.grabon.in › best-shirts-brands-india-men24 Best Shirt Brands for Men in India (2026 Edition) - GrabOn",
+            "url": "https://www.grabon.in/indulge/shopping-tips/best-shirts-brands-india-men/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Formal Shirts Under ₹1,500 for Indian Men · 2026",
+            "url": "https://dressingschool.com/picks/formal-shirts/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "4. Peter England -- Best...",
+            "url": "https://www.globalbrandsmagazine.com/top-10-shirt-brands-in-india/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Formal Shirts",
+            "url": "https://www.thecollective.in/c/men-formal-shirts",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › formal-shirts-for-men-branded › sAmazon.in: Formal Shirts For Men Branded",
+            "url": "https://www.amazon.in/formal-shirts-for-men-branded/s?k=formal+shirts+for+men+branded",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top Shirt Brands in India 2026 | Best Shirts for Men & Women",
+            "url": "https://www.paisawapas.com/shoptalk/top-shirt-brands-india/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "23 Best Shirt Brands for Men in India 2026 - CashKaro",
+            "url": "https://cashkaro.com/thegoodlookbook/men-shirt-brands/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Designer Formal Shirts Manufacturers, Suppliers, Dealers & Prices",
+            "url": "https://www.tradeindia.com/manufacturers/designer-formal-shirts.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

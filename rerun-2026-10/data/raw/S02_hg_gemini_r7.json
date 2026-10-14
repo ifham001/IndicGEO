@@ -1,0 +1,152 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 7,
+  "promptText": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+  "cellId": "S02_hg_gemini_r7",
+  "startedAt": "2026-10-13T13:32:42.154Z",
+  "finishedAt": "2026-10-13T13:33:49.050Z",
+  "durationMs": 66896,
+  "attempt": 4,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T13:25:51.098Z",
+    "error": "This operation was aborted"
+   },
+   {
+    "attempt": 2,
+    "startedAt": "2026-10-13T13:27:45.935Z",
+    "error": "This operation was aborted"
+   },
+   {
+    "attempt": 3,
+    "startedAt": "2026-10-13T13:29:58.388Z",
+    "error": "This operation was aborted"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Indian skin par white cast ki problem tab aati hai jab sunscreens mein heavy physical filters (jaise Zinc Oxide ya Titanium Dioxide) hote hain. Iska sabse accha solution yeh hai ki aap **chemical, hybrid, ya ultra-lightweight gel/fluid sunscreens** choose karein jo skin mein easily absorb ho jaate hain aur bilkul transparent finish dete hain.\n\nAapke liye kuch best options yahan diye gaye hain:\n\nYe Minimalist SPF 50 Sunscreen ek lightweight hybrid formula hai jo **bilkul white cast nahi chhodta** aur skin ko **natural, non-shiny finish** deta hai.\n\nThe Derma Co 1% Hyaluronic Sunscreen Aqua Gel water-light aqua gel texture ke sath aati hai jo skin par lagate hi **fatafat absorb ho jaati hai** aur **dewy glow** deti hai.\n\nAgar aapki skin oily ya acne-prone hai, toh Dot & Key Cica Calming Mattifying Sunscreen SPF 50+ ek **oil-free, matte finish** option hai jo bina white cast ke excess oil control karti hai.\n\nPlum 2% Niacinamide & Rice Water SPF 50 PA+++ Hybrid Sunscreen skin ko protect karne ke sath-sath **tan reduction aur brightening** mein bhi help karti hai.\n\n---\n\nAgar aapko skin type (jaise dry ya oily) ke hisab se inmein se best option select karne mein aur help chahiye, toh batayein!",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "65.6154 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131332-2163-0629-0000-18b514afde82",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "65.4186 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:33:48 +00:00",
+      "markdown": "Indian skin par white cast ki problem tab aati hai jab sunscreens mein heavy physical filters (jaise Zinc Oxide ya Titanium Dioxide) hote hain. Iska sabse accha solution yeh hai ki aap **chemical, hybrid, ya ultra-lightweight gel/fluid sunscreens** choose karein jo skin mein easily absorb ho jaate hain aur bilkul transparent finish dete hain.\n\nAapke liye kuch best options yahan diye gaye hain:\n\nYe Minimalist SPF 50 Sunscreen ek lightweight hybrid formula hai jo **bilkul white cast nahi chhodta** aur skin ko **natural, non-shiny finish** deta hai.\n\nThe Derma Co 1% Hyaluronic Sunscreen Aqua Gel water-light aqua gel texture ke sath aati hai jo skin par lagate hi **fatafat absorb ho jaati hai** aur **dewy glow** deti hai.\n\nAgar aapki skin oily ya acne-prone hai, toh Dot & Key Cica Calming Mattifying Sunscreen SPF 50+ ek **oil-free, matte finish** option hai jo bina white cast ke excess oil control karti hai.\n\nPlum 2% Niacinamide & Rice Water SPF 50 PA+++ Hybrid Sunscreen skin ko protect karne ke sath-sath **tan reduction aur brightening** mein bhi help karti hai.\n\n---\n\nAgar aapko skin type (jaise dry ya oily) ke hisab se inmein se best option select karne mein aur help chahiye, toh batayein!",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Indian skin par white cast ki problem tab aati hai jab sunscreens mein heavy physical filters (jaise Zinc Oxide ya Titanium Dioxide) hote hain. Iska sabse accha solution yeh hai ki aap **chemical, hybrid, ya ultra-lightweight gel/fluid sunscreens** choose karein jo skin mein easily absorb ho jaate hain aur bilkul transparent finish dete hain.",
+        "original_text": "Indian skin par white cast ki problem tab aati hai jab sunscreens mein heavy physical filters (jaise Zinc Oxide ya Titanium Dioxide) hote hain. Iska sabse accha solution yeh hai ki aap chemical, hybrid, ya ultra-lightweight gel/fluid sunscreens choose karein jo skin mein easily absorb ho jaate hain aur bilkul transparent finish dete hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Aapke liye kuch best options yahan diye gaye hain:",
+        "original_text": "Aapke liye kuch best options yahan diye gaye hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "Ye Minimalist SPF 50 Sunscreen ek lightweight hybrid formula hai jo **bilkul white cast nahi chhodta** aur skin ko **natural, non-shiny finish** deta hai.",
+        "original_text": "Ye Minimalist SPF 50 Sunscreen ek lightweight hybrid formula hai jo bilkul white cast nahi chhodta aur skin ko natural, non-shiny finish deta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "The Derma Co 1% Hyaluronic Sunscreen Aqua Gel water-light aqua gel texture ke sath aati hai jo skin par lagate hi **fatafat absorb ho jaati hai** aur **dewy glow** deti hai.",
+        "original_text": "The Derma Co 1% Hyaluronic Sunscreen Aqua Gel water-light aqua gel texture ke sath aati hai jo skin par lagate hi fatafat absorb ho jaati hai aur dewy glow deti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "Agar aapki skin oily ya acne-prone hai, toh Dot & Key Cica Calming Mattifying Sunscreen SPF 50+ ek **oil-free, matte finish** option hai jo bina white cast ke excess oil control karti hai.",
+        "original_text": "Agar aapki skin oily ya acne-prone hai, toh Dot & Key Cica Calming Mattifying Sunscreen SPF 50+ ek oil-free, matte finish option hai jo bina white cast ke excess oil control karti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "Plum 2% Niacinamide & Rice Water SPF 50 PA+++ Hybrid Sunscreen skin ko protect karne ke sath-sath **tan reduction aur brightening** mein bhi help karti hai.",
+        "original_text": "Plum 2% Niacinamide & Rice Water SPF 50 PA+++ Hybrid Sunscreen skin ko protect karne ke sath-sath tan reduction aur brightening mein bhi help karti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "Agar aapko skin type (jaise dry ya oily) ke hisab se inmein se best option select karne mein aur help chahiye, toh batayein!",
+        "original_text": "Agar aapko skin type (jaise dry ya oily) ke hisab se inmein se best option select karne mein aur help chahiye, toh batayein!",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

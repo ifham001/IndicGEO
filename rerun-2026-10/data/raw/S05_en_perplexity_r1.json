@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S05",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "perplexity",
+  "rep": 1,
+  "promptText": "Which serum should I buy for acne-prone skin in India under ₹700?",
+  "cellId": "S05_en_perplexity_r1",
+  "startedAt": "2026-10-13T13:20:04.840Z",
+  "finishedAt": "2026-10-13T13:20:07.870Z",
+  "durationMs": 3030,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "For acne-prone skin, buy **Minimalist 2% Salicylic Acid Serum (20 ml)**—typically under ₹700 in India. It is best suited to active pimples, blackheads, clogged pores, and oily skin.[1]\n\n**How to use it**\n- Apply 2–3 drops at night on clean, completely dry skin, **2–3 times weekly** initially.\n- Follow with a non-comedogenic moisturiser.\n- Use broad-spectrum **SPF 30+ sunscreen every morning**.\n- Do not combine it on the same night with retinol, glycolic acid, or another exfoliating serum.\n- Patch-test first; stop if you develop persistent burning, swelling, or a rash.\n\nIf your main concern is **oiliness and post-acne marks rather than active acne**, consider **Foxtale 12% Niacinamide Clarifying Serum**, listed at ₹645; the brand positions it for acne-prone skin and barrier support.[4] Avoid starting both products together. Persistent, painful, cystic, or scarring acne warrants a dermatologist’s advice.",
+  "citations": [
+   {
+    "url": "https://www.amazon.in/Serums-Up-to-%E2%82%B9500-Creams-Moisturisers/s?rh=n:9530424031,p_36:-50000",
+    "position": 1
+   },
+   {
+    "url": "https://www.ndtvshopping.com/beauty-and-grooming/acne-scar-serum-fade-marks-10958329",
+    "position": 2
+   },
+   {
+    "url": "https://www.amazon.in/salicylic-acid-serum/s?k=salicylic+acid+serum",
+    "position": 3
+   },
+   {
+    "url": "https://foxtale.in/collections/serums",
+    "position": 4
+   },
+   {
+    "url": "https://www.amazon.in/face-serum-for-acne-prone-skin/s?k=face+serum+for+acne+prone+skin",
+    "position": 5
+   },
+   {
+    "url": "https://www.amazon.in/best-salicylic-acid-serum/s?k=best+salicylic+acid+serum",
+    "position": 6
+   },
+   {
+    "url": "https://www.amazon.in/acne-prone-skin-care-products/s?k=acne+prone+skin+care+products",
+    "position": 7
+   },
+   {
+    "url": "https://www.amazon.in/glycolic-acid-and-salicylic-serum/s?k=glycolic+acid+and+salicylic+acid+serum",
+    "position": 8
+   },
+   {
+    "url": "https://www.1mg.com/categories/summer-essentials/acne-control-4556",
+    "position": 9
+   },
+   {
+    "url": "https://www.thebridalbox.com/articles/best-serum-for-acne-in-india/",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.005257
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "2.8246 sec.",
+  "cost": 0.005857,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131320-2163-0612-0000-308a534646d8",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "2.8178 sec.",
+    "cost": 0.005857,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "Which serum should I buy for acne-prone skin in India under ₹700?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 23,
+      "output_tokens": 234,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005257,
+      "datetime": "2026-10-13 13:20:07 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "For acne-prone skin, buy **Minimalist 2% Salicylic Acid Serum (20 ml)**—typically under ₹700 in India. It is best suited to active pimples, blackheads, clogged pores, and oily skin.[1]\n\n**How to use it**\n- Apply 2–3 drops at night on clean, completely dry skin, **2–3 times weekly** initially.\n- Follow with a non-comedogenic moisturiser.\n- Use broad-spectrum **SPF 30+ sunscreen every morning**.\n- Do not combine it on the same night with retinol, glycolic acid, or another exfoliating serum.\n- Patch-test first; stop if you develop persistent burning, swelling, or a rash.\n\nIf your main concern is **oiliness and post-acne marks rather than active acne**, consider **Foxtale 12% Niacinamide Clarifying Serum**, listed at ₹645; the brand positions it for acne-prone skin and barrier support.[4] Avoid starting both products together. Persistent, painful, cystic, or scarring acne warrants a dermatologist’s advice.",
+          "annotations": [
+           {
+            "title": "Up To ₹500 - Serums / Creams & Moisturisers: Beauty - Amazon.in",
+            "url": "https://www.amazon.in/Serums-Up-to-%E2%82%B9500-Creams-Moisturisers/s?rh=n:9530424031,p_36:-50000",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Acne Scar Serum Fade Marks Under ₹700 From Novology, The ...",
+            "url": "https://www.ndtvshopping.com/beauty-and-grooming/acne-scar-serum-fade-marks-10958329",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › salicylic-acid-serum › sAmazon.in: Salicylic Acid Serum",
+            "url": "https://www.amazon.in/salicylic-acid-serum/s?k=salicylic+acid+serum",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy the Best Face Serums for All Skin Types Online - Foxtale",
+            "url": "https://foxtale.in/collections/serums",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Amazon.in: Face Serum For Acne Prone Skin",
+            "url": "https://www.amazon.in/face-serum-for-acne-prone-skin/s?k=face+serum+for+acne+prone+skin",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › best-salicylic-acid-serum › sAmazon.in: Best Salicylic Acid Serum",
+            "url": "https://www.amazon.in/best-salicylic-acid-serum/s?k=best+salicylic+acid+serum",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › acne-prone-skin-care-products › sAmazon.in: Acne Prone Skin Care Products",
+            "url": "https://www.amazon.in/acne-prone-skin-care-products/s?k=acne+prone+skin+care+products",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "1-48 of 510 results for \"glycolic acid and salicylic acid serum\"",
+            "url": "https://www.amazon.in/glycolic-acid-and-salicylic-serum/s?k=glycolic+acid+and+salicylic+acid+serum",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Acne Control Products Online in India | Tata 1mg",
+            "url": "https://www.1mg.com/categories/summer-essentials/acne-control-4556",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.thebridalbox.com › articles › best-serum-forBest Serums For Acne-Prone Skin: 12 Expert Picks For 2026",
+            "url": "https://www.thebridalbox.com/articles/best-serum-for-acne-in-india/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

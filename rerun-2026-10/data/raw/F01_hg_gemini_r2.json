@@ -1,0 +1,200 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 2,
+  "promptText": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+  "cellId": "F01_hg_gemini_r2",
+  "startedAt": "2026-10-13T14:01:49.888Z",
+  "finishedAt": "2026-10-13T14:03:16.424Z",
+  "durationMs": 86536,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein **₹2,000 ke andar** men ke liye kaafi saare acche aur reliable denim brands mil jaate hain jo quality, fit, aur durability ke maamle mein best hain. Is budget mein aapko casual, stretchable, aur regular fits easily mil jayenge.\n\nYahan kuch top brands aur unke options diye gaye hain jinhe aap try kar sakte hain:\n\n---\n\n### 1. Levi's (Red Loop / Denizen Sub-brands)\n\n* **Price Range:** ₹1,500 - ₹2,000 (Sales ke dauran main Levi's bhi mil jata hai)\n* **Kyun kharidein:** Denizen (jo ki Levi's ka hi sub-brand hai) ya Levi's ki sale mein aapko ₹2,000 ke under best stitching aur fabric quality mil jayegi. Iski fitting aur longevity kaafi acchi hoti hai.\n* **Kahan milega:** Myntra, Ajio, ya official brand stores.\n\n### 2. Flying Machine\n\n* **Price Range:** ₹1,200 - ₹1,900\n* **Kyun kharidein:** Yeh ek youth-centric brand hai jo trendy aur modern fits (jaise skinny, slim, aur tapered) ke liye jaana jaata hai. Inka denim fabric kaafi soft aur comfortable hota hai daily wear ke liye.\n* **Kahan milega:** Flipkart, Myntra, Snapdeal, aur lifestyle stores.\n\n### 3. Roadster (Myntra Private Label)\n\n* **Price Range:** ₹700 - ₹1,400\n* **Kyun kharidein:** Agar aapko kam budget mein maximum value chahiye, toh Roadster best hai. Inke paas colors aur distress/fade options ki bahut badi range hai. Quality decent hai aur budget-friendly bhi.\n* **Kahan milega:** Strictly on Myntra.\n\n### 4. Mast & Harbour\n\n* **Price Range:** ₹900 - ₹1,600\n* **Kyun kharidein:** Yeh bhi ek popular online brand hai jo clean look aur comfort-stretch jeans ke liye jaana jata hai. Office casuals ya college wear ke liye ye ek solid option hain.\n* **Kahan milega:** Myntra.\n\n### 5. Killer & Integriti\n\n* **Price Range:** ₹1,300 - ₹1,900\n* **Kyun kharidein:** Dono hi Indian market mein kaafi purane aur trusted brands hain. Inka denim thoda rugged aur tough hota hai, jo rough use ke liye bilkul perfect hai.\n* **Kahan milega:** Local multi-brand outlets, Central, aur online e-commerce sites.\n\n---\n\n### Khareedte waqt in baaton ka dhyan rakhein:\n\n* **Fabric Composition:** Agar aapko poora din comfortable rehna hai, toh aisi jeans chunein jisme **98% Cotton aur 2% Spandex/Elastane** ho. Isse jeans mein stretch milta hai aur wo tight nahi lagti.\n* **Online Sales:** Myntra, Ajio, ya Flipkart par aane wali sales (jaise End of Reason Sale ya Big Billion Days) ka wait karein, bade brands jaise **Wrangler, Lee, ya Levi's** bhi ₹2,000 ke andar mil jaate hain.\n\nKya aapko kisi specific fit (jaise Slim, Skinny, ya Regular) ya color mein jeans chahiye?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "86.3353 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131401-2163-0629-0000-c055b6458718",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "86.2727 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:03:18 +00:00",
+      "markdown": "India mein **₹2,000 ke andar** men ke liye kaafi saare acche aur reliable denim brands mil jaate hain jo quality, fit, aur durability ke maamle mein best hain. Is budget mein aapko casual, stretchable, aur regular fits easily mil jayenge.\n\nYahan kuch top brands aur unke options diye gaye hain jinhe aap try kar sakte hain:\n\n---\n\n### 1. Levi's (Red Loop / Denizen Sub-brands)\n\n* **Price Range:** ₹1,500 - ₹2,000 (Sales ke dauran main Levi's bhi mil jata hai)\n* **Kyun kharidein:** Denizen (jo ki Levi's ka hi sub-brand hai) ya Levi's ki sale mein aapko ₹2,000 ke under best stitching aur fabric quality mil jayegi. Iski fitting aur longevity kaafi acchi hoti hai.\n* **Kahan milega:** Myntra, Ajio, ya official brand stores.\n\n### 2. Flying Machine\n\n* **Price Range:** ₹1,200 - ₹1,900\n* **Kyun kharidein:** Yeh ek youth-centric brand hai jo trendy aur modern fits (jaise skinny, slim, aur tapered) ke liye jaana jaata hai. Inka denim fabric kaafi soft aur comfortable hota hai daily wear ke liye.\n* **Kahan milega:** Flipkart, Myntra, Snapdeal, aur lifestyle stores.\n\n### 3. Roadster (Myntra Private Label)\n\n* **Price Range:** ₹700 - ₹1,400\n* **Kyun kharidein:** Agar aapko kam budget mein maximum value chahiye, toh Roadster best hai. Inke paas colors aur distress/fade options ki bahut badi range hai. Quality decent hai aur budget-friendly bhi.\n* **Kahan milega:** Strictly on Myntra.\n\n### 4. Mast & Harbour\n\n* **Price Range:** ₹900 - ₹1,600\n* **Kyun kharidein:** Yeh bhi ek popular online brand hai jo clean look aur comfort-stretch jeans ke liye jaana jata hai. Office casuals ya college wear ke liye ye ek solid option hain.\n* **Kahan milega:** Myntra.\n\n### 5. Killer & Integriti\n\n* **Price Range:** ₹1,300 - ₹1,900\n* **Kyun kharidein:** Dono hi Indian market mein kaafi purane aur trusted brands hain. Inka denim thoda rugged aur tough hota hai, jo rough use ke liye bilkul perfect hai.\n* **Kahan milega:** Local multi-brand outlets, Central, aur online e-commerce sites.\n\n---\n\n### Khareedte waqt in baaton ka dhyan rakhein:\n\n* **Fabric Composition:** Agar aapko poora din comfortable rehna hai, toh aisi jeans chunein jisme **98% Cotton aur 2% Spandex/Elastane** ho. Isse jeans mein stretch milta hai aur wo tight nahi lagti.\n* **Online Sales:** Myntra, Ajio, ya Flipkart par aane wali sales (jaise End of Reason Sale ya Big Billion Days) ka wait karein, bade brands jaise **Wrangler, Lee, ya Levi's** bhi ₹2,000 ke andar mil jaate hain.\n\nKya aapko kisi specific fit (jaise Slim, Skinny, ya Regular) ya color mein jeans chahiye?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 15,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein **₹2,000 ke andar** men ke liye kaafi saare acche aur reliable denim brands mil jaate hain jo quality, fit, aur durability ke maamle mein best hain. Is budget mein aapko casual, stretchable, aur regular fits easily mil jayenge.",
+        "original_text": "India mein ₹2,000 ke andar men ke liye kaafi saare acche aur reliable denim brands mil jaate hain jo quality, fit, aur durability ke maamle mein best hain. Is budget mein aapko casual, stretchable, aur regular fits easily mil jayenge.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Yahan kuch top brands aur unke options diye gaye hain jinhe aap try kar sakte hain:",
+        "original_text": "Yahan kuch top brands aur unke options diye gaye hain jinhe aap try kar sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### 1. Levi's (Red Loop / Denizen Sub-brands)",
+        "original_text": "1. Levi's (Red Loop / Denizen Sub-brands)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Price Range:** ₹1,500 - ₹2,000 (Sales ke dauran main Levi's bhi mil jata hai)\n* **Kyun kharidein:** Denizen (jo ki Levi's ka hi sub-brand hai) ya Levi's ki sale mein aapko ₹2,000 ke under best stitching aur fabric quality mil jayegi. Iski fitting aur longevity kaafi acchi hoti hai.\n* **Kahan milega:** Myntra, Ajio, ya official brand stores.",
+        "original_text": "Price Range: ₹1,500 - ₹2,000 (Sales ke dauran main Levi's bhi mil jata hai)\nKyun kharidein: Denizen (jo ki Levi's ka hi sub-brand hai) ya Levi's ki sale mein aapko ₹2,000 ke under best stitching aur fabric quality mil jayegi. Iski fitting aur longevity kaafi acchi hoti hai.\nKahan milega: Myntra, Ajio, ya official brand stores.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. Flying Machine",
+        "original_text": "2. Flying Machine",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Price Range:** ₹1,200 - ₹1,900\n* **Kyun kharidein:** Yeh ek youth-centric brand hai jo trendy aur modern fits (jaise skinny, slim, aur tapered) ke liye jaana jaata hai. Inka denim fabric kaafi soft aur comfortable hota hai daily wear ke liye.\n* **Kahan milega:** Flipkart, Myntra, Snapdeal, aur lifestyle stores.",
+        "original_text": "Price Range: ₹1,200 - ₹1,900\nKyun kharidein: Yeh ek youth-centric brand hai jo trendy aur modern fits (jaise skinny, slim, aur tapered) ke liye jaana jaata hai. Inka denim fabric kaafi soft aur comfortable hota hai daily wear ke liye.\nKahan milega: Flipkart, Myntra, Snapdeal, aur lifestyle stores.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "### 3. Roadster (Myntra Private Label)",
+        "original_text": "3. Roadster (Myntra Private Label)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Price Range:** ₹700 - ₹1,400\n* **Kyun kharidein:** Agar aapko kam budget mein maximum value chahiye, toh Roadster best hai. Inke paas colors aur distress/fade options ki bahut badi range hai. Quality decent hai aur budget-friendly bhi.\n* **Kahan milega:** Strictly on Myntra.",
+        "original_text": "Price Range: ₹700 - ₹1,400\nKyun kharidein: Agar aapko kam budget mein maximum value chahiye, toh Roadster best hai. Inke paas colors aur distress/fade options ki bahut badi range hai. Quality decent hai aur budget-friendly bhi.\nKahan milega: Strictly on Myntra.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### 4. Mast & Harbour",
+        "original_text": "4. Mast & Harbour",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "* **Price Range:** ₹900 - ₹1,600\n* **Kyun kharidein:** Yeh bhi ek popular online brand hai jo clean look aur comfort-stretch jeans ke liye jaana jata hai. Office casuals ya college wear ke liye ye ek solid option hain.\n* **Kahan milega:** Myntra.",
+        "original_text": "Price Range: ₹900 - ₹1,600\nKyun kharidein: Yeh bhi ek popular online brand hai jo clean look aur comfort-stretch jeans ke liye jaana jata hai. Office casuals ya college wear ke liye ye ek solid option hain.\nKahan milega: Myntra.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "### 5. Killer & Integriti",
+        "original_text": "5. Killer & Integriti",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "* **Price Range:** ₹1,300 - ₹1,900\n* **Kyun kharidein:** Dono hi Indian market mein kaafi purane aur trusted brands hain. Inka denim thoda rugged aur tough hota hai, jo rough use ke liye bilkul perfect hai.\n* **Kahan milega:** Local multi-brand outlets, Central, aur online e-commerce sites.",
+        "original_text": "Price Range: ₹1,300 - ₹1,900\nKyun kharidein: Dono hi Indian market mein kaafi purane aur trusted brands hain. Inka denim thoda rugged aur tough hota hai, jo rough use ke liye bilkul perfect hai.\nKahan milega: Local multi-brand outlets, Central, aur online e-commerce sites.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "markdown": "### Khareedte waqt in baaton ka dhyan rakhein:",
+        "original_text": "Khareedte waqt in baaton ka dhyan rakhein:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 14,
+        "rank_absolute": 14,
+        "markdown": "* **Fabric Composition:** Agar aapko poora din comfortable rehna hai, toh aisi jeans chunein jisme **98% Cotton aur 2% Spandex/Elastane** ho. Isse jeans mein stretch milta hai aur wo tight nahi lagti.\n* **Online Sales:** Myntra, Ajio, ya Flipkart par aane wali sales (jaise End of Reason Sale ya Big Billion Days) ka wait karein, bade brands jaise **Wrangler, Lee, ya Levi's** bhi ₹2,000 ke andar mil jaate hain.",
+        "original_text": "Fabric Composition: Agar aapko poora din comfortable rehna hai, toh aisi jeans chunein jisme 98% Cotton aur 2% Spandex/Elastane ho. Isse jeans mein stretch milta hai aur wo tight nahi lagti.\nOnline Sales: Myntra, Ajio, ya Flipkart par aane wali sales (jaise End of Reason Sale ya Big Billion Days) ka wait karein, bade brands jaise Wrangler, Lee, ya Levi's bhi ₹2,000 ke andar mil jaate hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 15,
+        "rank_absolute": 15,
+        "markdown": "Kya aapko kisi specific fit (jaise Slim, Skinny, ya Regular) ya color mein jeans chahiye?",
+        "original_text": "Kya aapko kisi specific fit (jaise Slim, Skinny, ya Regular) ya color mein jeans chahiye?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

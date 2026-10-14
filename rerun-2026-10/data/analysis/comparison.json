@@ -1,0 +1,1093 @@
+{
+ "generated": "compare.mjs, 13 Oct 2026",
+ "waves": {
+  "aug": {
+   "n": 480,
+   "cost": 2.158731000000001
+  },
+  "oct": {
+   "n": 479,
+   "cost": 2.141772000000001
+  }
+ },
+ "headline": {
+  "chatgpt": {
+   "aug": {
+    "brandWithin": 54.7,
+    "brandCross": 52.5,
+    "brandGap": 2.2,
+    "brandCI": [
+     0.3,
+     4.6
+    ],
+    "brandP": 0.0458984375,
+    "domainWithin": 33.4,
+    "domainCross": 30.3,
+    "domainGap": 3.1,
+    "domainP": 0.033203125,
+    "citedEnPct": 100,
+    "citedHgPct": 100,
+    "citedEnK": 80,
+    "citedHgK": 80,
+    "n": 80,
+    "meanCitesEn": 2.5,
+    "meanCitesHg": 2.6,
+    "lenEn": 2222,
+    "lenHg": 1961,
+    "firstWithin": 60,
+    "firstCross": 54.1,
+    "indiaEn": 74.4,
+    "indiaHg": 74.7,
+    "brandsPerResponseEn": 4.3,
+    "brandsPerResponseHg": 4.4,
+    "answerLangHg": {
+     "hinglish": 80
+    }
+   },
+   "oct": {
+    "brandWithin": 49.6,
+    "brandCross": 48.8,
+    "brandGap": 0.8,
+    "brandCI": [
+     -0.8,
+     2.7
+    ],
+    "brandP": 0.2421875,
+    "domainWithin": 31.7,
+    "domainCross": 31,
+    "domainGap": 0.7,
+    "domainP": 0.2685546875,
+    "citedEnPct": 100,
+    "citedHgPct": 100,
+    "citedEnK": 80,
+    "citedHgK": 80,
+    "n": 80,
+    "meanCitesEn": 6.6,
+    "meanCitesHg": 5.9,
+    "lenEn": 4745,
+    "lenHg": 4252,
+    "firstWithin": 58.8,
+    "firstCross": 59.1,
+    "indiaEn": 71.3,
+    "indiaHg": 68.7,
+    "brandsPerResponseEn": 3.9,
+    "brandsPerResponseHg": 3.8,
+    "answerLangHg": {
+     "hinglish": 80
+    }
+   }
+  },
+  "gemini": {
+   "aug": {
+    "brandWithin": 51.2,
+    "brandCross": 43.3,
+    "brandGap": 7.8,
+    "brandCI": [
+     2.6,
+     13.9
+    ],
+    "brandP": 0.009765625,
+    "domainWithin": 33.1,
+    "domainCross": 10.8,
+    "domainGap": 22.3,
+    "domainP": 0.009765625,
+    "citedEnPct": 90,
+    "citedHgPct": 41.3,
+    "citedEnK": 72,
+    "citedHgK": 33,
+    "n": 80,
+    "meanCitesEn": 9.4,
+    "meanCitesHg": 5.2,
+    "lenEn": 4609,
+    "lenHg": 3099,
+    "firstWithin": 63.2,
+    "firstCross": 42.2,
+    "indiaEn": 75.6,
+    "indiaHg": 82,
+    "brandsPerResponseEn": 5.6,
+    "brandsPerResponseHg": 5.4,
+    "answerLangHg": {
+     "hinglish": 71,
+     "hindi-devanagari": 8,
+     "english": 1
+    }
+   },
+   "oct": {
+    "brandWithin": 41.5,
+    "brandCross": 39.5,
+    "brandGap": 2,
+    "brandCI": [
+     0,
+     4.4
+    ],
+    "brandP": 0.0625,
+    "domainWithin": 29.5,
+    "domainCross": 26.4,
+    "domainGap": 3,
+    "domainP": 0.1201171875,
+    "citedEnPct": 73.4,
+    "citedHgPct": 56.3,
+    "citedEnK": 58,
+    "citedHgK": 45,
+    "n": 79,
+    "meanCitesEn": 5.8,
+    "meanCitesHg": 5.1,
+    "lenEn": 4094,
+    "lenHg": 3175,
+    "firstWithin": 48.1,
+    "firstCross": 41.8,
+    "indiaEn": 75.1,
+    "indiaHg": 73.4,
+    "brandsPerResponseEn": 5.1,
+    "brandsPerResponseHg": 4.9,
+    "answerLangHg": {
+     "hinglish": 79,
+     "hindi-devanagari": 1
+    }
+   }
+  },
+  "perplexity": {
+   "aug": {
+    "brandWithin": 68.3,
+    "brandCross": 44.9,
+    "brandGap": 23.4,
+    "brandCI": [
+     12.9,
+     35.1
+    ],
+    "brandP": 0.0009765625,
+    "domainWithin": 85.2,
+    "domainCross": 52.8,
+    "domainGap": 32.4,
+    "domainP": 0.0009765625,
+    "citedEnPct": 100,
+    "citedHgPct": 100,
+    "citedEnK": 80,
+    "citedHgK": 80,
+    "n": 80,
+    "meanCitesEn": 19.6,
+    "meanCitesHg": 18.8,
+    "lenEn": 1485,
+    "lenHg": 1627,
+    "firstWithin": 69.5,
+    "firstCross": 49.8,
+    "indiaEn": 63.7,
+    "indiaHg": 66.3,
+    "brandsPerResponseEn": 4.7,
+    "brandsPerResponseHg": 5.9,
+    "answerLangHg": {
+     "hinglish": 80
+    }
+   },
+   "oct": {
+    "brandWithin": 76.1,
+    "brandCross": 47.9,
+    "brandGap": 28.2,
+    "brandCI": [
+     16.7,
+     41.9
+    ],
+    "brandP": 0.0009765625,
+    "domainWithin": 91.4,
+    "domainCross": 38.8,
+    "domainGap": 52.6,
+    "domainP": 0.0009765625,
+    "citedEnPct": 100,
+    "citedHgPct": 100,
+    "citedEnK": 80,
+    "citedHgK": 80,
+    "n": 80,
+    "meanCitesEn": 10,
+    "meanCitesHg": 10,
+    "lenEn": 1323,
+    "lenHg": 1322,
+    "firstWithin": 71.1,
+    "firstCross": 43.1,
+    "indiaEn": 68.7,
+    "indiaHg": 72.8,
+    "brandsPerResponseEn": 3.6,
+    "brandsPerResponseHg": 4.4,
+    "answerLangHg": {
+     "hindi-devanagari": 16,
+     "hinglish": 64
+    }
+   }
+  }
+ },
+ "claims": [
+  {
+   "claim": "chatgpt: brand lists differ more across languages than across reruns (gap > 0, exact p < .05)",
+   "aug": "2.2 pts, p=0.0458984375",
+   "oct": "0.8 pts, p=0.2421875",
+   "holds": false
+  },
+  {
+   "claim": "chatgpt: cited domains differ more across languages than across reruns (gap > 0, exact p < .05)",
+   "aug": "3.1 pts, p=0.033203125",
+   "oct": "0.7 pts, p=0.2685546875",
+   "holds": false
+  },
+  {
+   "claim": "gemini: brand lists differ more across languages than across reruns (gap > 0, exact p < .05)",
+   "aug": "7.8 pts, p=0.009765625",
+   "oct": "2 pts, p=0.0625",
+   "holds": false
+  },
+  {
+   "claim": "gemini: cited domains differ more across languages than across reruns (gap > 0, exact p < .05)",
+   "aug": "22.3 pts, p=0.009765625",
+   "oct": "3 pts, p=0.1201171875",
+   "holds": false
+  },
+  {
+   "claim": "perplexity: brand lists differ more across languages than across reruns (gap > 0, exact p < .05)",
+   "aug": "23.4 pts, p=0.0009765625",
+   "oct": "28.2 pts, p=0.0009765625",
+   "holds": true
+  },
+  {
+   "claim": "perplexity: cited domains differ more across languages than across reruns (gap > 0, exact p < .05)",
+   "aug": "32.4 pts, p=0.0009765625",
+   "oct": "52.6 pts, p=0.0009765625",
+   "holds": true
+  },
+  {
+   "claim": "Engine order by brand gap (most to least language-sensitive)",
+   "aug": "perplexity > gemini > chatgpt",
+   "oct": "perplexity > gemini > chatgpt",
+   "holds": true
+  },
+  {
+   "claim": "Gemini cites far less often in Hinglish than in English",
+   "aug": "90% vs 41.3% (gap 48.7 pts)",
+   "oct": "73.4% vs 56.3% (gap 17.1 pts)",
+   "holds": false
+  },
+  {
+   "claim": "ChatGPT and Perplexity cite in every answer in both languages",
+   "aug": "100/100 and 100/100",
+   "oct": "100/100 and 100/100",
+   "holds": true
+  }
+ ],
+ "drift": {
+  "chatgpt.en": {
+   "crossWaveJaccard": 45.6,
+   "withinAug": 54.4,
+   "withinOct": 48.3,
+   "driftRatio": 0.89,
+   "nPairs": 640
+  },
+  "chatgpt.hg": {
+   "crossWaveJaccard": 44.1,
+   "withinAug": 55,
+   "withinOct": 50.9,
+   "driftRatio": 0.83,
+   "nPairs": 640
+  },
+  "gemini.en": {
+   "crossWaveJaccard": 39.6,
+   "withinAug": 50.1,
+   "withinOct": 41.7,
+   "driftRatio": 0.86,
+   "nPairs": 632
+  },
+  "gemini.hg": {
+   "crossWaveJaccard": 41.5,
+   "withinAug": 52.2,
+   "withinOct": 41.2,
+   "driftRatio": 0.89,
+   "nPairs": 640
+  },
+  "perplexity.en": {
+   "crossWaveJaccard": 28.4,
+   "withinAug": 69.2,
+   "withinOct": 72.5,
+   "driftRatio": 0.4,
+   "nPairs": 640
+  },
+  "perplexity.hg": {
+   "crossWaveJaccard": 42.1,
+   "withinAug": 67.4,
+   "withinOct": 79.7,
+   "driftRatio": 0.57,
+   "nPairs": 640
+  }
+ },
+ "visOverTime": {
+  "chatgpt.en": {
+   "topMovers": [
+    {
+     "brand": "Cetaphil",
+     "augK": 8,
+     "octK": 16,
+     "aug": 10,
+     "oct": 20,
+     "delta": 10
+    },
+    {
+     "brand": "Dot & Key",
+     "augK": 11,
+     "octK": 3,
+     "aug": 13.8,
+     "oct": 3.8,
+     "delta": -10
+    },
+    {
+     "brand": "Pepe Jeans",
+     "augK": 8,
+     "octK": 1,
+     "aug": 10,
+     "oct": 1.3,
+     "delta": -8.7
+    },
+    {
+     "brand": "H&M",
+     "augK": 6,
+     "octK": 0,
+     "aug": 7.5,
+     "oct": 0,
+     "delta": -7.5
+    },
+    {
+     "brand": "The Derma Co",
+     "augK": 20,
+     "octK": 25,
+     "aug": 25,
+     "oct": 31.3,
+     "delta": 6.3
+    },
+    {
+     "brand": "Blackberrys",
+     "augK": 5,
+     "octK": 0,
+     "aug": 6.3,
+     "oct": 0,
+     "delta": -6.2
+    },
+    {
+     "brand": "Park Avenue",
+     "augK": 7,
+     "octK": 2,
+     "aug": 8.8,
+     "oct": 2.5,
+     "delta": -6.2
+    },
+    {
+     "brand": "Campus",
+     "augK": 6,
+     "octK": 2,
+     "aug": 7.5,
+     "oct": 2.5,
+     "delta": -5
+    }
+   ],
+   "newEntrants": [],
+   "gone": [],
+   "top5Aug": [
+    "Minimalist 29",
+    "The Derma Co 20",
+    "Re'equil 15",
+    "Dot & Key 11",
+    "Plum 9"
+   ],
+   "top5Oct": [
+    "Minimalist 29",
+    "The Derma Co 25",
+    "Cetaphil 16",
+    "Re'equil 11",
+    "Libas 10"
+   ]
+  },
+  "chatgpt.hg": {
+   "topMovers": [
+    {
+     "brand": "Dot & Key",
+     "augK": 14,
+     "octK": 5,
+     "aug": 17.5,
+     "oct": 6.3,
+     "delta": -11.2
+    },
+    {
+     "brand": "Minimalist",
+     "augK": 34,
+     "octK": 26,
+     "aug": 42.5,
+     "oct": 32.5,
+     "delta": -10
+    },
+    {
+     "brand": "Re'equil",
+     "augK": 13,
+     "octK": 5,
+     "aug": 16.3,
+     "oct": 6.3,
+     "delta": -10
+    },
+    {
+     "brand": "CeraVe",
+     "augK": 8,
+     "octK": 2,
+     "aug": 10,
+     "oct": 2.5,
+     "delta": -7.5
+    },
+    {
+     "brand": "Pepe Jeans",
+     "augK": 8,
+     "octK": 3,
+     "aug": 10,
+     "oct": 3.8,
+     "delta": -6.2
+    },
+    {
+     "brand": "Simple",
+     "augK": 9,
+     "octK": 4,
+     "aug": 11.3,
+     "oct": 5,
+     "delta": -6.2
+    },
+    {
+     "brand": "Allen Solly",
+     "augK": 6,
+     "octK": 2,
+     "aug": 7.5,
+     "oct": 2.5,
+     "delta": -5
+    },
+    {
+     "brand": "Bioderma",
+     "augK": 3,
+     "octK": 7,
+     "aug": 3.8,
+     "oct": 8.8,
+     "delta": 5
+    }
+   ],
+   "newEntrants": [],
+   "gone": [],
+   "top5Aug": [
+    "Minimalist 34",
+    "The Derma Co 20",
+    "Deconstruct 15",
+    "Dot & Key 14",
+    "Re'equil 13"
+   ],
+   "top5Oct": [
+    "Minimalist 26",
+    "The Derma Co 23",
+    "Cetaphil 12",
+    "Libas 12",
+    "Deconstruct 11"
+   ]
+  },
+  "gemini.en": {
+   "topMovers": [
+    {
+     "brand": "Deconstruct",
+     "augK": 20,
+     "octK": 5,
+     "aug": 25,
+     "oct": 6.3,
+     "delta": -18.7
+    },
+    {
+     "brand": "Foxtale",
+     "augK": 3,
+     "octK": 14,
+     "aug": 3.8,
+     "oct": 17.5,
+     "delta": 13.8
+    },
+    {
+     "brand": "Minimalist",
+     "augK": 36,
+     "octK": 27,
+     "aug": 45,
+     "oct": 33.8,
+     "delta": -11.2
+    },
+    {
+     "brand": "Dot & Key",
+     "augK": 8,
+     "octK": 16,
+     "aug": 10,
+     "oct": 20,
+     "delta": 10
+    },
+    {
+     "brand": "The Derma Co",
+     "augK": 30,
+     "octK": 23,
+     "aug": 37.5,
+     "oct": 28.7,
+     "delta": -8.7
+    },
+    {
+     "brand": "Zodiac",
+     "augK": 7,
+     "octK": 0,
+     "aug": 8.8,
+     "oct": 0,
+     "delta": -8.7
+    },
+    {
+     "brand": "Bioderma",
+     "augK": 7,
+     "octK": 1,
+     "aug": 8.8,
+     "oct": 1.3,
+     "delta": -7.5
+    },
+    {
+     "brand": "Blackberrys",
+     "augK": 8,
+     "octK": 3,
+     "aug": 10,
+     "oct": 3.8,
+     "delta": -6.2
+    }
+   ],
+   "newEntrants": [],
+   "gone": [],
+   "top5Aug": [
+    "Minimalist 36",
+    "The Derma Co 30",
+    "Deconstruct 20",
+    "Plum 15",
+    "Cetaphil 9"
+   ],
+   "top5Oct": [
+    "Minimalist 27",
+    "The Derma Co 23",
+    "Plum 17",
+    "Dot & Key 16",
+    "Foxtale 14"
+   ]
+  },
+  "gemini.hg": {
+   "topMovers": [
+    {
+     "brand": "Allen Solly",
+     "augK": 12,
+     "octK": 4,
+     "aug": 15,
+     "oct": 5,
+     "delta": -10
+    },
+    {
+     "brand": "CeraVe",
+     "augK": 0,
+     "octK": 7,
+     "aug": 0,
+     "oct": 8.8,
+     "delta": 8.8
+    },
+    {
+     "brand": "Chemist At Play",
+     "augK": 0,
+     "octK": 7,
+     "aug": 0,
+     "oct": 8.8,
+     "delta": 8.8
+    },
+    {
+     "brand": "Minimalist",
+     "augK": 29,
+     "octK": 22,
+     "aug": 36.3,
+     "oct": 27.5,
+     "delta": -8.7
+    },
+    {
+     "brand": "Deconstruct",
+     "augK": 13,
+     "octK": 7,
+     "aug": 16.3,
+     "oct": 8.8,
+     "delta": -7.5
+    },
+    {
+     "brand": "ASICS",
+     "augK": 0,
+     "octK": 5,
+     "aug": 0,
+     "oct": 6.3,
+     "delta": 6.3
+    },
+    {
+     "brand": "Anouk",
+     "augK": 5,
+     "octK": 0,
+     "aug": 6.3,
+     "oct": 0,
+     "delta": -6.2
+    },
+    {
+     "brand": "Aqualogica",
+     "augK": 9,
+     "octK": 4,
+     "aug": 11.3,
+     "oct": 5,
+     "delta": -6.2
+    }
+   ],
+   "newEntrants": [],
+   "gone": [],
+   "top5Aug": [
+    "Minimalist 29",
+    "The Derma Co 23",
+    "Plum 22",
+    "Dot & Key 17",
+    "Deconstruct 13"
+   ],
+   "top5Oct": [
+    "Plum 23",
+    "Minimalist 22",
+    "The Derma Co 20",
+    "Dot & Key 17",
+    "Cetaphil 9"
+   ]
+  },
+  "perplexity.en": {
+   "topMovers": [
+    {
+     "brand": "The Derma Co",
+     "augK": 2,
+     "octK": 18,
+     "aug": 2.5,
+     "oct": 22.5,
+     "delta": 20
+    },
+    {
+     "brand": "Plum",
+     "augK": 23,
+     "octK": 8,
+     "aug": 28.7,
+     "oct": 10,
+     "delta": -18.7
+    },
+    {
+     "brand": "Taneira",
+     "augK": 12,
+     "octK": 0,
+     "aug": 15,
+     "oct": 0,
+     "delta": -15
+    },
+    {
+     "brand": "Cetaphil",
+     "augK": 5,
+     "octK": 16,
+     "aug": 6.3,
+     "oct": 20,
+     "delta": 13.8
+    },
+    {
+     "brand": "La Roche-Posay",
+     "augK": 11,
+     "octK": 0,
+     "aug": 13.8,
+     "oct": 0,
+     "delta": -13.8
+    },
+    {
+     "brand": "Aurelia",
+     "augK": 0,
+     "octK": 8,
+     "aug": 0,
+     "oct": 10,
+     "delta": 10
+    },
+    {
+     "brand": "Jaipur Kurti",
+     "augK": 8,
+     "octK": 0,
+     "aug": 10,
+     "oct": 0,
+     "delta": -10
+    },
+    {
+     "brand": "Killer",
+     "augK": 0,
+     "octK": 8,
+     "aug": 0,
+     "oct": 10,
+     "delta": 10
+    }
+   ],
+   "newEntrants": [
+    "Aurelia (8/80)",
+    "Killer (8/80)"
+   ],
+   "gone": [
+    "Taneira (12/80)",
+    "La Roche-Posay (11/80)",
+    "Jaipur Kurti (8/80)",
+    "Spykar (8/80)",
+    "Supergoop (8/80)",
+    "The Ordinary (8/80)",
+    "Vastranand (8/80)"
+   ],
+   "top5Aug": [
+    "Plum 23",
+    "Minimalist 18",
+    "Taneira 12",
+    "CeraVe 11",
+    "La Roche-Posay 11"
+   ],
+   "top5Oct": [
+    "Minimalist 21",
+    "The Derma Co 18",
+    "Cetaphil 16",
+    "Dot & Key 11",
+    "Foxtale 10"
+   ]
+  },
+  "perplexity.hg": {
+   "topMovers": [
+    {
+     "brand": "Pilgrim",
+     "augK": 14,
+     "octK": 1,
+     "aug": 17.5,
+     "oct": 1.3,
+     "delta": -16.2
+    },
+    {
+     "brand": "Deconstruct",
+     "augK": 13,
+     "octK": 1,
+     "aug": 16.3,
+     "oct": 1.3,
+     "delta": -15
+    },
+    {
+     "brand": "Garnier",
+     "augK": 14,
+     "octK": 2,
+     "aug": 17.5,
+     "oct": 2.5,
+     "delta": -15
+    },
+    {
+     "brand": "Plum",
+     "augK": 12,
+     "octK": 22,
+     "aug": 15,
+     "oct": 27.5,
+     "delta": 12.5
+    },
+    {
+     "brand": "Aachho",
+     "augK": 8,
+     "octK": 0,
+     "aug": 10,
+     "oct": 0,
+     "delta": -10
+    },
+    {
+     "brand": "Bioderma",
+     "augK": 0,
+     "octK": 8,
+     "aug": 0,
+     "oct": 10,
+     "delta": 10
+    },
+    {
+     "brand": "Indya",
+     "augK": 8,
+     "octK": 0,
+     "aug": 10,
+     "oct": 0,
+     "delta": -10
+    },
+    {
+     "brand": "Jaipur Kurti",
+     "augK": 8,
+     "octK": 0,
+     "aug": 10,
+     "oct": 0,
+     "delta": -10
+    }
+   ],
+   "newEntrants": [
+    "Bioderma (8/80)"
+   ],
+   "gone": [
+    "Aachho (8/80)",
+    "Indya (8/80)",
+    "Jaipur Kurti (8/80)",
+    "Mohey (8/80)"
+   ],
+   "top5Aug": [
+    "Minimalist 27",
+    "The Derma Co 16",
+    "Pilgrim 14",
+    "Garnier 14",
+    "Libas 14"
+   ],
+   "top5Oct": [
+    "Minimalist 33",
+    "The Derma Co 24",
+    "Plum 22",
+    "Libas 16",
+    "Peter England 10"
+   ]
+  }
+ },
+ "moverPersistence": {
+  "chatgpt": [
+   {
+    "brand": "Deconstruct",
+    "augDelta": 7,
+    "octDelta": 4,
+    "sameDirection": true
+   },
+   {
+    "brand": "Minimalist",
+    "augDelta": 5,
+    "octDelta": -3,
+    "sameDirection": false
+   },
+   {
+    "brand": "Chemist At Play",
+    "augDelta": -5,
+    "octDelta": -2,
+    "sameDirection": true
+   }
+  ],
+  "gemini": [
+   {
+    "brand": "Dot & Key",
+    "augDelta": 9,
+    "octDelta": 1,
+    "sameDirection": true
+   },
+   {
+    "brand": "CeraVe",
+    "augDelta": -8,
+    "octDelta": 1,
+    "sameDirection": false
+   },
+   {
+    "brand": "Allen Solly",
+    "augDelta": 8,
+    "octDelta": 2,
+    "sameDirection": true
+   },
+   {
+    "brand": "Minimalist",
+    "augDelta": -7,
+    "octDelta": -5,
+    "sameDirection": true
+   },
+   {
+    "brand": "The Derma Co",
+    "augDelta": -7,
+    "octDelta": -3,
+    "sameDirection": true
+   },
+   {
+    "brand": "Deconstruct",
+    "augDelta": -7,
+    "octDelta": 2,
+    "sameDirection": false
+   },
+   {
+    "brand": "Plum",
+    "augDelta": 7,
+    "octDelta": 6,
+    "sameDirection": true
+   },
+   {
+    "brand": "Pilgrim",
+    "augDelta": -7,
+    "octDelta": -6,
+    "sameDirection": true
+   },
+   {
+    "brand": "Zodiac",
+    "augDelta": -7,
+    "octDelta": 0,
+    "sameDirection": null
+   },
+   {
+    "brand": "Sparx",
+    "augDelta": 7,
+    "octDelta": 2,
+    "sameDirection": true
+   }
+  ],
+  "perplexity": [
+   {
+    "brand": "The Derma Co",
+    "augDelta": 14,
+    "octDelta": 6,
+    "sameDirection": true
+   },
+   {
+    "brand": "Taneira",
+    "augDelta": -12,
+    "octDelta": 0,
+    "sameDirection": null
+   },
+   {
+    "brand": "Plum",
+    "augDelta": -11,
+    "octDelta": 14,
+    "sameDirection": false
+   },
+   {
+    "brand": "La Roche-Posay",
+    "augDelta": -10,
+    "octDelta": 0,
+    "sameDirection": null
+   },
+   {
+    "brand": "Deconstruct",
+    "augDelta": 10,
+    "octDelta": -6,
+    "sameDirection": false
+   },
+   {
+    "brand": "Minimalist",
+    "augDelta": 9,
+    "octDelta": 12,
+    "sameDirection": true
+   },
+   {
+    "brand": "Vastranand",
+    "augDelta": -8,
+    "octDelta": 0,
+    "sameDirection": null
+   },
+   {
+    "brand": "Garnier",
+    "augDelta": 8,
+    "octDelta": 0,
+    "sameDirection": null
+   },
+   {
+    "brand": "Allen Solly",
+    "augDelta": 8,
+    "octDelta": 0,
+    "sameDirection": null
+   },
+   {
+    "brand": "Aurelia",
+    "augDelta": 8,
+    "octDelta": 0,
+    "sameDirection": null
+   }
+  ]
+ },
+ "domains": {
+  "aug": [
+   {
+    "domain": "reddit.com",
+    "count": 106
+   },
+   {
+    "domain": "youtube.com",
+    "count": 100
+   },
+   {
+    "domain": "nykaa.com",
+    "count": 93
+   },
+   {
+    "domain": "amazon.in",
+    "count": 79
+   },
+   {
+    "domain": "flipkart.com",
+    "count": 79
+   },
+   {
+    "domain": "instagram.com",
+    "count": 67
+   },
+   {
+    "domain": "smytten.com",
+    "count": 52
+   },
+   {
+    "domain": "ndtvshopping.com",
+    "count": 49
+   },
+   {
+    "domain": "hindustantimes.com",
+    "count": 48
+   },
+   {
+    "domain": "myntra.com",
+    "count": 47
+   },
+   {
+    "domain": "blog.flash.co",
+    "count": 43
+   },
+   {
+    "domain": "dotandkey.com",
+    "count": 40
+   }
+  ],
+  "oct": [
+   {
+    "domain": "amazon.in",
+    "count": 132
+   },
+   {
+    "domain": "flipkart.com",
+    "count": 82
+   },
+   {
+    "domain": "hindustantimes.com",
+    "count": 76
+   },
+   {
+    "domain": "nykaa.com",
+    "count": 65
+   },
+   {
+    "domain": "thedermaco.com",
+    "count": 64
+   },
+   {
+    "domain": "google.com",
+    "count": 55
+   },
+   {
+    "domain": "vogue.in",
+    "count": 47
+   },
+   {
+    "domain": "grabon.in",
+    "count": 46
+   },
+   {
+    "domain": "ndtvshopping.com",
+    "count": 46
+   },
+   {
+    "domain": "myntra.com",
+    "count": 44
+   },
+   {
+    "domain": "libas.in",
+    "count": 42
+   },
+   {
+    "domain": "1.www.flipkart.com",
+    "count": 40
+   }
+  ],
+  "totalOccurrences": {
+   "aug": 4640,
+   "oct": 3471
+  }
+ }
+}

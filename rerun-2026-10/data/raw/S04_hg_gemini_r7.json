@@ -1,0 +1,176 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S04",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 7,
+  "promptText": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+  "cellId": "S04_hg_gemini_r7",
+  "startedAt": "2026-10-13T14:15:45.417Z",
+  "finishedAt": "2026-10-13T14:16:43.611Z",
+  "durationMs": 58194,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Indian winters mein thandi aur dry hawa ki wajah se skin ka natural moisture khatam ho jata hai, isliye aisi cream ya lotion ki zaroorat hoti hai jo deep hydration de aur skin barrier ko repair kare. Aapki skin type aur budget ke hisab se yahan kuch best options diye gaye hain:\n\n---\n\n### 1. Dry aur Very Dry Skin ke liye (Best Deep Moisturizers)\n\nAgar aapki skin bahut zyada dry hai ya flaky ho jaati hai, toh ye options sabse behtar hain:\n\n* **Cetaphil Moisturising Cream:**\n  *   * **Kyun kharidein:** Ye dermatologists ki recommend ki hui cream hai. Isme sweet almond oil aur niacinamide hota hai jo sensitive aur dry skin ko deep hydration deta hai.\n  * **Skin Type:** Extremely dry aur sensitive skin.\n* **Bioderma Atoderm Intensive Baume:**\n  *   * **Kyun kharidein:** Agar winter mein skin par eczema ya itching ki problem hoti hai, toh ye ek premium medical-grade balm hai jo skin ko 24-hour moisture deta hai.\n  * **Skin Type:** Severely dry, irritated, aur flaky skin.\n* **Nivea Soft Light Moisturiser (ya Nivea Creme - Blue Box):**\n  *   * **Kyun kharidein:** Budget-friendly aur sabse bharosemand option. Light moisturiser din ke liye accha hai, jabki classic blue box wali thick cream raat ke liye best hai.\n  * **Skin Type:** Normal se dry skin.\n\n---\n\n### 2. Combination aur Oily Skin ke liye (Lightweight Hydration)\n\nAgar winters mein skin upper layer se dry hoti hai par andar se oily ya acne-prone hai, toh heavy creams se pimples ho sakte hain:\n\n* **Pond's Super Light Gel:**\n  *   * **Kyun kharidein:** Isme Hyaluronic Acid aur Vitamin E hai jo skin ko bina chip-chip (non-sticky) ke hydration deta hai.\n  * **Skin Type:** Oily aur combination skin.\n* **Clinique Moisture Surge 100-Hour Auto-Replenishing Hydrator:**\n  *   * **Kyun kharidein:** Ek luxury gel-cream jo skin ke andar tak moisture lock karta hai aur bilkul heavy feel nahi hota.\n  * **Skin Type:** All skin types (specially oily/combination).\n\n---\n\n### 3. Affordable aur Pharmacy Options (Best Value for Money)\n\nPharmacy (chemist) ke products pocket-friendly aur highly effective hote hain:\n\n* **Cipla MaxoMoist Cream ya Excela Moisturizer:**\n  *   * Doctor-recommended formulas jo skin barrier ko strong banate hain aur moisture loss nahi hone dete.\n* **Boroplus ya Vaseline Cocoa Glow Body Lotion:**\n  *   * Full body ke liye winter-friendly aur saste options jo skin ko soft rakhte hain.\n\n---\n\n> 💡 **Winter Skincare Tip:** Moisturizer hamesha nahane ke turant baad (jab skin halki geeli ho) lagayein, kyunki ye skin ke andar moisture ko lock karne mein sabse zyada madad karta hai.\n\nAapki skin type (dry, oily, ya sensitive) kaisi hai aur aapka budget kitna hai? Agar aap yeh bata dein, toh main aapko bilkul exact product suggest kar sakta hoon!",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "57.9727 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131415-2163-0629-0000-b6bece978dcc",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "57.8517 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:16:45 +00:00",
+      "markdown": "Indian winters mein thandi aur dry hawa ki wajah se skin ka natural moisture khatam ho jata hai, isliye aisi cream ya lotion ki zaroorat hoti hai jo deep hydration de aur skin barrier ko repair kare. Aapki skin type aur budget ke hisab se yahan kuch best options diye gaye hain:\n\n---\n\n### 1. Dry aur Very Dry Skin ke liye (Best Deep Moisturizers)\n\nAgar aapki skin bahut zyada dry hai ya flaky ho jaati hai, toh ye options sabse behtar hain:\n\n* **Cetaphil Moisturising Cream:**\n  *   * **Kyun kharidein:** Ye dermatologists ki recommend ki hui cream hai. Isme sweet almond oil aur niacinamide hota hai jo sensitive aur dry skin ko deep hydration deta hai.\n  * **Skin Type:** Extremely dry aur sensitive skin.\n* **Bioderma Atoderm Intensive Baume:**\n  *   * **Kyun kharidein:** Agar winter mein skin par eczema ya itching ki problem hoti hai, toh ye ek premium medical-grade balm hai jo skin ko 24-hour moisture deta hai.\n  * **Skin Type:** Severely dry, irritated, aur flaky skin.\n* **Nivea Soft Light Moisturiser (ya Nivea Creme - Blue Box):**\n  *   * **Kyun kharidein:** Budget-friendly aur sabse bharosemand option. Light moisturiser din ke liye accha hai, jabki classic blue box wali thick cream raat ke liye best hai.\n  * **Skin Type:** Normal se dry skin.\n\n---\n\n### 2. Combination aur Oily Skin ke liye (Lightweight Hydration)\n\nAgar winters mein skin upper layer se dry hoti hai par andar se oily ya acne-prone hai, toh heavy creams se pimples ho sakte hain:\n\n* **Pond's Super Light Gel:**\n  *   * **Kyun kharidein:** Isme Hyaluronic Acid aur Vitamin E hai jo skin ko bina chip-chip (non-sticky) ke hydration deta hai.\n  * **Skin Type:** Oily aur combination skin.\n* **Clinique Moisture Surge 100-Hour Auto-Replenishing Hydrator:**\n  *   * **Kyun kharidein:** Ek luxury gel-cream jo skin ke andar tak moisture lock karta hai aur bilkul heavy feel nahi hota.\n  * **Skin Type:** All skin types (specially oily/combination).\n\n---\n\n### 3. Affordable aur Pharmacy Options (Best Value for Money)\n\nPharmacy (chemist) ke products pocket-friendly aur highly effective hote hain:\n\n* **Cipla MaxoMoist Cream ya Excela Moisturizer:**\n  *   * Doctor-recommended formulas jo skin barrier ko strong banate hain aur moisture loss nahi hone dete.\n* **Boroplus ya Vaseline Cocoa Glow Body Lotion:**\n  *   * Full body ke liye winter-friendly aur saste options jo skin ko soft rakhte hain.\n\n---\n\n> 💡 **Winter Skincare Tip:** Moisturizer hamesha nahane ke turant baad (jab skin halki geeli ho) lagayein, kyunki ye skin ke andar moisture ko lock karne mein sabse zyada madad karta hai.\n\nAapki skin type (dry, oily, ya sensitive) kaisi hai aur aapka budget kitna hai? Agar aap yeh bata dein, toh main aapko bilkul exact product suggest kar sakta hoon!",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 12,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Indian winters mein thandi aur dry hawa ki wajah se skin ka natural moisture khatam ho jata hai, isliye aisi cream ya lotion ki zaroorat hoti hai jo deep hydration de aur skin barrier ko repair kare. Aapki skin type aur budget ke hisab se yahan kuch best options diye gaye hain:",
+        "original_text": "Indian winters mein thandi aur dry hawa ki wajah se skin ka natural moisture khatam ho jata hai, isliye aisi cream ya lotion ki zaroorat hoti hai jo deep hydration de aur skin barrier ko repair kare. Aapki skin type aur budget ke hisab se yahan kuch best options diye gaye hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### 1. Dry aur Very Dry Skin ke liye (Best Deep Moisturizers)",
+        "original_text": "1. Dry aur Very Dry Skin ke liye (Best Deep Moisturizers)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "Agar aapki skin bahut zyada dry hai ya flaky ho jaati hai, toh ye options sabse behtar hain:",
+        "original_text": "Agar aapki skin bahut zyada dry hai ya flaky ho jaati hai, toh ye options sabse behtar hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Cetaphil Moisturising Cream:**\n  *   * **Kyun kharidein:** Ye dermatologists ki recommend ki hui cream hai. Isme sweet almond oil aur niacinamide hota hai jo sensitive aur dry skin ko deep hydration deta hai.\n  * **Skin Type:** Extremely dry aur sensitive skin.\n* **Bioderma Atoderm Intensive Baume:**\n  *   * **Kyun kharidein:** Agar winter mein skin par eczema ya itching ki problem hoti hai, toh ye ek premium medical-grade balm hai jo skin ko 24-hour moisture deta hai.\n  * **Skin Type:** Severely dry, irritated, aur flaky skin.\n* **Nivea Soft Light Moisturiser (ya Nivea Creme - Blue Box):**\n  *   * **Kyun kharidein:** Budget-friendly aur sabse bharosemand option. Light moisturiser din ke liye accha hai, jabki classic blue box wali thick cream raat ke liye best hai.\n  * **Skin Type:** Normal se dry skin.",
+        "original_text": "Cetaphil Moisturising Cream:\nKyun kharidein: Ye dermatologists ki recommend ki hui cream hai. Isme sweet almond oil aur niacinamide hota hai jo sensitive aur dry skin ko deep hydration deta hai.\nSkin Type: Extremely dry aur sensitive skin.\nBioderma Atoderm Intensive Baume:\nKyun kharidein: Agar winter mein skin par eczema ya itching ki problem hoti hai, toh ye ek premium medical-grade balm hai jo skin ko 24-hour moisture deta hai.\nSkin Type: Severely dry, irritated, aur flaky skin.\nNivea Soft Light Moisturiser (ya Nivea Creme - Blue Box):\nKyun kharidein: Budget-friendly aur sabse bharosemand option. Light moisturiser din ke liye accha hai, jabki classic blue box wali thick cream raat ke liye best hai.\nSkin Type: Normal se dry skin.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. Combination aur Oily Skin ke liye (Lightweight Hydration)",
+        "original_text": "2. Combination aur Oily Skin ke liye (Lightweight Hydration)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "Agar winters mein skin upper layer se dry hoti hai par andar se oily ya acne-prone hai, toh heavy creams se pimples ho sakte hain:",
+        "original_text": "Agar winters mein skin upper layer se dry hoti hai par andar se oily ya acne-prone hai, toh heavy creams se pimples ho sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **Pond's Super Light Gel:**\n  *   * **Kyun kharidein:** Isme Hyaluronic Acid aur Vitamin E hai jo skin ko bina chip-chip (non-sticky) ke hydration deta hai.\n  * **Skin Type:** Oily aur combination skin.\n* **Clinique Moisture Surge 100-Hour Auto-Replenishing Hydrator:**\n  *   * **Kyun kharidein:** Ek luxury gel-cream jo skin ke andar tak moisture lock karta hai aur bilkul heavy feel nahi hota.\n  * **Skin Type:** All skin types (specially oily/combination).",
+        "original_text": "Pond's Super Light Gel:\nKyun kharidein: Isme Hyaluronic Acid aur Vitamin E hai jo skin ko bina chip-chip (non-sticky) ke hydration deta hai.\nSkin Type: Oily aur combination skin.\nClinique Moisture Surge 100-Hour Auto-Replenishing Hydrator:\nKyun kharidein: Ek luxury gel-cream jo skin ke andar tak moisture lock karta hai aur bilkul heavy feel nahi hota.\nSkin Type: All skin types (specially oily/combination).",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### 3. Affordable aur Pharmacy Options (Best Value for Money)",
+        "original_text": "3. Affordable aur Pharmacy Options (Best Value for Money)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "Pharmacy (chemist) ke products pocket-friendly aur highly effective hote hain:",
+        "original_text": "Pharmacy (chemist) ke products pocket-friendly aur highly effective hote hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "* **Cipla MaxoMoist Cream ya Excela Moisturizer:**\n  *   * Doctor-recommended formulas jo skin barrier ko strong banate hain aur moisture loss nahi hone dete.\n* **Boroplus ya Vaseline Cocoa Glow Body Lotion:**\n  *   * Full body ke liye winter-friendly aur saste options jo skin ko soft rakhte hain.",
+        "original_text": "Cipla MaxoMoist Cream ya Excela Moisturizer:\nDoctor-recommended formulas jo skin barrier ko strong banate hain aur moisture loss nahi hone dete.\nBoroplus ya Vaseline Cocoa Glow Body Lotion:\nFull body ke liye winter-friendly aur saste options jo skin ko soft rakhte hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "> 💡 **Winter Skincare Tip:** Moisturizer hamesha nahane ke turant baad (jab skin halki geeli ho) lagayein, kyunki ye skin ke andar moisture ko lock karne mein sabse zyada madad karta hai.",
+        "original_text": "💡 Winter Skincare Tip: Moisturizer hamesha nahane ke turant baad (jab skin halki geeli ho) lagayein, kyunki ye skin ke andar moisture ko lock karne mein sabse zyada madad karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "Aapki skin type (dry, oily, ya sensitive) kaisi hai aur aapka budget kitna hai? Agar aap yeh bata dein, toh main aapko bilkul exact product suggest kar sakta hoon!",
+        "original_text": "Aapki skin type (dry, oily, ya sensitive) kaisi hai aur aapka budget kitna hai? Agar aap yeh bata dein, toh main aapko bilkul exact product suggest kar sakta hoon!",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

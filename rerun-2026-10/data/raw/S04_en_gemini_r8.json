@@ -1,0 +1,168 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S04",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 8,
+  "promptText": "Which moisturizer should I buy for dry skin in Indian winters?",
+  "cellId": "S04_en_gemini_r8",
+  "startedAt": "2026-10-13T13:57:53.901Z",
+  "finishedAt": "2026-10-13T13:58:29.437Z",
+  "durationMs": 35536,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Indian winters can be quite harsh on dry skin, dropping temperatures and low humidity strip away natural moisture, requiring heavy-duty hydration with ingredients like ceramides, shea butter, hyaluronic acid, and glycerin to repair the skin barrier.\n\nHere are some of the best moisturizers available in India for dry skin during winter, categorized by your budget and preference:\n\n---\n\n### 1. The Barrier Repair Heroes (Best for Very Dry & Flaky Skin)\n\n* **Bioderma Atoderm Intensive Baume**\n  *   * **Why it works:** A cult-favorite for extreme dryness and eczema-prone skin. It contains ceramides and relipidating agents that instantly soothe itching and rebuild the skin barrier.\n  * **Texture:** Rich, nourishing cream that absorbs well without feeling overly greasy.\n* **Cetaphil DAM (Daily Advance Ultra Hydrating Lotion)**\n  *   * **Why it works:** Formulated with a unique combination of five key ingredients (including shea butter), it provides continuous 48-hour moisture.\n  * **Texture:** Creamy, non-comedogenic, and fragrance-free (great for sensitive skin).\n\n### 2. The Dermatologist-Recommended & Budget-Friendly Picks\n\n* **Physiogel Calming Relief AI Cream**\n  *   * **Why it works:** Uses advanced Biomimetic Technology to mimic the skin's natural lipid structure, making it exceptional for repairing damaged, flaky winter skin.\n  * **Texture:** Rich lotion/cream hybrid, completely free of artificial fragrances and preservatives.\n* **Emolene Cream**\n  *   * **Why it works:** A lightweight yet deeply hydrating cream packed with propylene glycol and urea. It draws moisture deep into the skin layers. *(Note: If your skin is severely cracked, pair this with a heavier occlusive cream on top).*\n  * **Texture:** Very smooth, watery-gel cream finish.\n\n### 3. Rich & Nourishing Over-the-Counter Options\n\n* **Dot & Key Ceramides & Heavy Moisturizer (with 5 Ceramides & Hyaluronic Acid)**\n  *   * **Why it works:** Specifically designed to target winter dryness. It locks in moisture using a blend of 5 essential ceramides, plant-derived squalane, and hyaluronic acid.\n  * **Texture:** Rich buttery texture that melts into the skin.\n* **Plum Hello Aloe Skin-Loving Day Cream / Body Butter**\n  *   * **Why it works:** Great for daily hydration if you want something accessible and cruelty-free. For deep winter, opt for their body butters even on the face if your skin is extremely parched.\n\n---\n\n### Quick Application Tips for Winter:\n\n1.  **Apply on Damp Skin:** Always apply your moisturizer within 3 minutes of washing your face or taking a shower while your skin is still slightly damp. This traps the water into your skin cells.\n2.  **Layer Wisely:** If you use a hydrating serum (like hyaluronic acid), apply it first, then seal it in with a thick ceramide-based cream.\n\nAre you looking for a moisturizer specifically for your **face** or for your **entire body**, and do you have a preference for **fragrance-free** options?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "35.3318 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131357-2163-0629-0000-216f2348425e",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "35.2241 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Which moisturizer should I buy for dry skin in Indian winters?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which moisturizer should I buy for dry skin in Indian winters?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:58:31 +00:00",
+      "markdown": "Indian winters can be quite harsh on dry skin, dropping temperatures and low humidity strip away natural moisture, requiring heavy-duty hydration with ingredients like ceramides, shea butter, hyaluronic acid, and glycerin to repair the skin barrier.\n\nHere are some of the best moisturizers available in India for dry skin during winter, categorized by your budget and preference:\n\n---\n\n### 1. The Barrier Repair Heroes (Best for Very Dry & Flaky Skin)\n\n* **Bioderma Atoderm Intensive Baume**\n  *   * **Why it works:** A cult-favorite for extreme dryness and eczema-prone skin. It contains ceramides and relipidating agents that instantly soothe itching and rebuild the skin barrier.\n  * **Texture:** Rich, nourishing cream that absorbs well without feeling overly greasy.\n* **Cetaphil DAM (Daily Advance Ultra Hydrating Lotion)**\n  *   * **Why it works:** Formulated with a unique combination of five key ingredients (including shea butter), it provides continuous 48-hour moisture.\n  * **Texture:** Creamy, non-comedogenic, and fragrance-free (great for sensitive skin).\n\n### 2. The Dermatologist-Recommended & Budget-Friendly Picks\n\n* **Physiogel Calming Relief AI Cream**\n  *   * **Why it works:** Uses advanced Biomimetic Technology to mimic the skin's natural lipid structure, making it exceptional for repairing damaged, flaky winter skin.\n  * **Texture:** Rich lotion/cream hybrid, completely free of artificial fragrances and preservatives.\n* **Emolene Cream**\n  *   * **Why it works:** A lightweight yet deeply hydrating cream packed with propylene glycol and urea. It draws moisture deep into the skin layers. *(Note: If your skin is severely cracked, pair this with a heavier occlusive cream on top).*\n  * **Texture:** Very smooth, watery-gel cream finish.\n\n### 3. Rich & Nourishing Over-the-Counter Options\n\n* **Dot & Key Ceramides & Heavy Moisturizer (with 5 Ceramides & Hyaluronic Acid)**\n  *   * **Why it works:** Specifically designed to target winter dryness. It locks in moisture using a blend of 5 essential ceramides, plant-derived squalane, and hyaluronic acid.\n  * **Texture:** Rich buttery texture that melts into the skin.\n* **Plum Hello Aloe Skin-Loving Day Cream / Body Butter**\n  *   * **Why it works:** Great for daily hydration if you want something accessible and cruelty-free. For deep winter, opt for their body butters even on the face if your skin is extremely parched.\n\n---\n\n### Quick Application Tips for Winter:\n\n1.  **Apply on Damp Skin:** Always apply your moisturizer within 3 minutes of washing your face or taking a shower while your skin is still slightly damp. This traps the water into your skin cells.\n2.  **Layer Wisely:** If you use a hydrating serum (like hyaluronic acid), apply it first, then seal it in with a thick ceramide-based cream.\n\nAre you looking for a moisturizer specifically for your **face** or for your **entire body**, and do you have a preference for **fragrance-free** options?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 11,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Indian winters can be quite harsh on dry skin, dropping temperatures and low humidity strip away natural moisture, requiring heavy-duty hydration with ingredients like ceramides, shea butter, hyaluronic acid, and glycerin to repair the skin barrier.",
+        "original_text": "Indian winters can be quite harsh on dry skin, dropping temperatures and low humidity strip away natural moisture, requiring heavy-duty hydration with ingredients like ceramides, shea butter, hyaluronic acid, and glycerin to repair the skin barrier.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Here are some of the best moisturizers available in India for dry skin during winter, categorized by your budget and preference:",
+        "original_text": "Here are some of the best moisturizers available in India for dry skin during winter, categorized by your budget and preference:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### 1. The Barrier Repair Heroes (Best for Very Dry & Flaky Skin)",
+        "original_text": "1. The Barrier Repair Heroes (Best for Very Dry & Flaky Skin)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Bioderma Atoderm Intensive Baume**\n  *   * **Why it works:** A cult-favorite for extreme dryness and eczema-prone skin. It contains ceramides and relipidating agents that instantly soothe itching and rebuild the skin barrier.\n  * **Texture:** Rich, nourishing cream that absorbs well without feeling overly greasy.\n* **Cetaphil DAM (Daily Advance Ultra Hydrating Lotion)**\n  *   * **Why it works:** Formulated with a unique combination of five key ingredients (including shea butter), it provides continuous 48-hour moisture.\n  * **Texture:** Creamy, non-comedogenic, and fragrance-free (great for sensitive skin).",
+        "original_text": "Bioderma Atoderm Intensive Baume\nWhy it works: A cult-favorite for extreme dryness and eczema-prone skin. It contains ceramides and relipidating agents that instantly soothe itching and rebuild the skin barrier.\nTexture: Rich, nourishing cream that absorbs well without feeling overly greasy.\nCetaphil DAM (Daily Advance Ultra Hydrating Lotion)\nWhy it works: Formulated with a unique combination of five key ingredients (including shea butter), it provides continuous 48-hour moisture.\nTexture: Creamy, non-comedogenic, and fragrance-free (great for sensitive skin).",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. The Dermatologist-Recommended & Budget-Friendly Picks",
+        "original_text": "2. The Dermatologist-Recommended & Budget-Friendly Picks",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Physiogel Calming Relief AI Cream**\n  *   * **Why it works:** Uses advanced Biomimetic Technology to mimic the skin's natural lipid structure, making it exceptional for repairing damaged, flaky winter skin.\n  * **Texture:** Rich lotion/cream hybrid, completely free of artificial fragrances and preservatives.\n* **Emolene Cream**\n  *   * **Why it works:** A lightweight yet deeply hydrating cream packed with propylene glycol and urea. It draws moisture deep into the skin layers. *(Note: If your skin is severely cracked, pair this with a heavier occlusive cream on top).*\n  * **Texture:** Very smooth, watery-gel cream finish.",
+        "original_text": "Physiogel Calming Relief AI Cream\nWhy it works: Uses advanced Biomimetic Technology to mimic the skin's natural lipid structure, making it exceptional for repairing damaged, flaky winter skin.\nTexture: Rich lotion/cream hybrid, completely free of artificial fragrances and preservatives.\nEmolene Cream\nWhy it works: A lightweight yet deeply hydrating cream packed with propylene glycol and urea. It draws moisture deep into the skin layers. (Note: If your skin is severely cracked, pair this with a heavier occlusive cream on top).\nTexture: Very smooth, watery-gel cream finish.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "### 3. Rich & Nourishing Over-the-Counter Options",
+        "original_text": "3. Rich & Nourishing Over-the-Counter Options",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Dot & Key Ceramides & Heavy Moisturizer (with 5 Ceramides & Hyaluronic Acid)**\n  *   * **Why it works:** Specifically designed to target winter dryness. It locks in moisture using a blend of 5 essential ceramides, plant-derived squalane, and hyaluronic acid.\n  * **Texture:** Rich buttery texture that melts into the skin.\n* **Plum Hello Aloe Skin-Loving Day Cream / Body Butter**\n  *   * **Why it works:** Great for daily hydration if you want something accessible and cruelty-free. For deep winter, opt for their body butters even on the face if your skin is extremely parched.",
+        "original_text": "Dot & Key Ceramides & Heavy Moisturizer (with 5 Ceramides & Hyaluronic Acid)\nWhy it works: Specifically designed to target winter dryness. It locks in moisture using a blend of 5 essential ceramides, plant-derived squalane, and hyaluronic acid.\nTexture: Rich buttery texture that melts into the skin.\nPlum Hello Aloe Skin-Loving Day Cream / Body Butter\nWhy it works: Great for daily hydration if you want something accessible and cruelty-free. For deep winter, opt for their body butters even on the face if your skin is extremely parched.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### Quick Application Tips for Winter:",
+        "original_text": "Quick Application Tips for Winter:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "1.  **Apply on Damp Skin:** Always apply your moisturizer within 3 minutes of washing your face or taking a shower while your skin is still slightly damp. This traps the water into your skin cells.\n2.  **Layer Wisely:** If you use a hydrating serum (like hyaluronic acid), apply it first, then seal it in with a thick ceramide-based cream.",
+        "original_text": "Apply on Damp Skin: Always apply your moisturizer within 3 minutes of washing your face or taking a shower while your skin is still slightly damp. This traps the water into your skin cells.\nLayer Wisely: If you use a hydrating serum (like hyaluronic acid), apply it first, then seal it in with a thick ceramide-based cream.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "Are you looking for a moisturizer specifically for your **face** or for your **entire body**, and do you have a preference for **fragrance-free** options?",
+        "original_text": "Are you looking for a moisturizer specifically for your face or for your entire body, and do you have a preference for fragrance-free options?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

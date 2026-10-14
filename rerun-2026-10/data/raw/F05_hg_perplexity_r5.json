@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "perplexity",
+  "rep": 5,
+  "promptText": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+  "cellId": "F05_hg_perplexity_r5",
+  "startedAt": "2026-10-13T13:11:19.176Z",
+  "finishedAt": "2026-10-13T13:11:24.591Z",
+  "durationMs": 5415,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Shaadi ke liye budget mein online **silk-blend, georgette, chiffon, organza ya Banarasi-look sarees** achhi rahengi. ₹300–₹1,500 mein guest ya family function ke liye kaafi options mil rahe hain; better-quality silk aur handloom-look sarees ke liye ₹1,500–₹3,500 ka budget rakhein.[1][2][5][6]\n\n## Budget ke hisaab se best choices\n\n- **₹300–₹600: Georgette ya chiffon saree** — halka fabric, sequins/embroidery ke saath; sangeet ya reception guest ke liye. Flipkart par wedding georgette sarees lagbhag ₹283–₹440 se dikh rahi hain.[5]\n- **₹500–₹1,000: Art-silk ya Kanjivaram-look saree** — traditional appearance aur shaadi ke main function ke liye suitable. Flipkart par art-silk/Kanjivaram-style options lagbhag ₹442–₹898 ke range mein hain.[5]\n- **₹700–₹1,500: Banarasi-look ya silk-blend saree** — zyada rich finish; Libas par silk-blend wedding sarees sale mein ₹759–₹1,259 ke aas-paas mil rahi hain.[7]\n- **₹900–₹1,500: Zari-work ya Banarasi silk-blend saree** — close family function ke liye; Nykaa Fashion par zari-work option ₹899 aur Banarasi silk/Kanjivaram-style option ₹1,320 ke aas-paas listed hai.[6]\n- **₹1,500–₹3,500: Chanderi, Paithani-look ya quality silk saree** — reception ya important family event ke liye polished choice; Nykaa par Chanderi-Paithani style ₹2,240 aur gharchola silk ₹3,146 ke aas-paas listed hai.[6]\n\n## Color aur design suggestions\n\n- **Lal, wine ya rani pink:** shaadi ya reception  \n- **Mustard, yellow ya orange:** haldi  \n- **Green, teal ya magenta:** sangeet  \n- **Pastel pink, lavender ya powder blue:** daytime wedding  \n- **Black:** evening reception, agar family tradition allow kare  \n\n**Best value pick:** ₹700–₹1,200 ki **silk-blend Banarasi ya Kanjivaram-look saree with zari border**—photo mein festive dikhegi aur budget bhi control mein rahega.\n\nOrder karne se pehle customer photos, blouse-piece length, saree fabric, return policy aur delivery date zaroor check karein; ₹200–₹500 wali listings mein fabric aksar “silk-look” ya synthetic ho sakta hai.[2][3]",
+  "citations": [
+   {
+    "url": "https://www.flipkart.com/q/bridal-sarees",
+    "position": 1
+   },
+   {
+    "url": "https://www.meesho.com/wedding-sarees/pl/3li",
+    "position": 2
+   },
+   {
+    "url": "https://www.meesho.com/sarees/pl/3iy",
+    "position": 3
+   },
+   {
+    "url": "https://www.meesho.com/hi/wedding-sari/pl/8wr",
+    "position": 4
+   },
+   {
+    "url": "https://www.flipkart.com/womens-sarees/wedding~occasion/pr?sid=clo,8on,zpd,9og",
+    "position": 5
+   },
+   {
+    "url": "https://www.nykaafashion.com/dp/wedding-sarees",
+    "position": 6
+   },
+   {
+    "url": "https://www.libas.in/collections/wedding-sarees",
+    "position": 7
+   },
+   {
+    "url": "https://www.indianweddingsaree.com/sarees",
+    "position": 8
+   },
+   {
+    "url": "https://www.cbazaar.com/in/wedding",
+    "position": 9
+   },
+   {
+    "url": "https://www.gulbhahar.com/collections/shaadi-party-wear-saree",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.005687
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "5.1314 sec.",
+  "cost": 0.006287,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131311-2163-0612-0000-2a66803b6732",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "5.1228 sec.",
+    "cost": 0.006287,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 27,
+      "output_tokens": 660,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005687,
+      "datetime": "2026-10-13 13:11:24 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "Shaadi ke liye budget mein online **silk-blend, georgette, chiffon, organza ya Banarasi-look sarees** achhi rahengi. ₹300–₹1,500 mein guest ya family function ke liye kaafi options mil rahe hain; better-quality silk aur handloom-look sarees ke liye ₹1,500–₹3,500 ka budget rakhein.[1][2][5][6]\n\n## Budget ke hisaab se best choices\n\n- **₹300–₹600: Georgette ya chiffon saree** — halka fabric, sequins/embroidery ke saath; sangeet ya reception guest ke liye. Flipkart par wedding georgette sarees lagbhag ₹283–₹440 se dikh rahi hain.[5]\n- **₹500–₹1,000: Art-silk ya Kanjivaram-look saree** — traditional appearance aur shaadi ke main function ke liye suitable. Flipkart par art-silk/Kanjivaram-style options lagbhag ₹442–₹898 ke range mein hain.[5]\n- **₹700–₹1,500: Banarasi-look ya silk-blend saree** — zyada rich finish; Libas par silk-blend wedding sarees sale mein ₹759–₹1,259 ke aas-paas mil rahi hain.[7]\n- **₹900–₹1,500: Zari-work ya Banarasi silk-blend saree** — close family function ke liye; Nykaa Fashion par zari-work option ₹899 aur Banarasi silk/Kanjivaram-style option ₹1,320 ke aas-paas listed hai.[6]\n- **₹1,500–₹3,500: Chanderi, Paithani-look ya quality silk saree** — reception ya important family event ke liye polished choice; Nykaa par Chanderi-Paithani style ₹2,240 aur gharchola silk ₹3,146 ke aas-paas listed hai.[6]\n\n## Color aur design suggestions\n\n- **Lal, wine ya rani pink:** shaadi ya reception  \n- **Mustard, yellow ya orange:** haldi  \n- **Green, teal ya magenta:** sangeet  \n- **Pastel pink, lavender ya powder blue:** daytime wedding  \n- **Black:** evening reception, agar family tradition allow kare  \n\n**Best value pick:** ₹700–₹1,200 ki **silk-blend Banarasi ya Kanjivaram-look saree with zari border**—photo mein festive dikhegi aur budget bhi control mein rahega.\n\nOrder karne se pehle customer photos, blouse-piece length, saree fabric, return policy aur delivery date zaroor check karein; ₹200–₹500 wali listings mein fabric aksar “silk-look” ya synthetic ho sakta hai.[2][3]",
+          "annotations": [
+           {
+            "title": "www.flipkart.com › q › bridal-sareesBridal Sarees - Buy Bridal Saree online at Best Prices in ...",
+            "url": "https://www.flipkart.com/q/bridal-sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Wedding Sarees: Shop Latest Collection Online in India - Meesho",
+            "url": "https://www.meesho.com/wedding-sarees/pl/3li",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Sarees",
+            "url": "https://www.meesho.com/sarees/pl/3iy",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Wedding Sari Online | Latest Sari Design at Low Price - Meesho",
+            "url": "https://www.meesho.com/hi/wedding-sari/pl/8wr",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Wedding Sarees for Women Online",
+            "url": "https://www.flipkart.com/womens-sarees/wedding~occasion/pr?sid=clo,8on,zpd,9og",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shop Wedding Saree Online | Nykaa Fashion",
+            "url": "https://www.nykaafashion.com/dp/wedding-sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shop Latest Indian Wedding Sarees Online - Libas",
+            "url": "https://www.libas.in/collections/wedding-sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.indianweddingsaree.com › sareesIndian Sarees - Bridal Wedding Sarees, Party Wear & Bollywood ...",
+            "url": "https://www.indianweddingsaree.com/sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Designer Wedding Dresses in India at Cbazaar",
+            "url": "https://www.cbazaar.com/in/wedding",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shaadi Party Wear Saree (@50% OFF) - Gulbhahar",
+            "url": "https://www.gulbhahar.com/collections/shaadi-party-wear-saree",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

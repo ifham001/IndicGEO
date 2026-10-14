@@ -9,6 +9,10 @@ Run by [Depra Research](https://depra.ai). Every raw response, script, prompt, s
 
 **Study 01: Same question, different brands.** Ten brand-unaided purchase-intent prompts (5 skincare, 5 fashion), each an independently reviewed semantically equivalent English/Hinglish pair, run 8 times per language against ChatGPT, Gemini, and Perplexity, geolocated to India, in a single 57-minute window on 2026-08-14. 480 responses. Full write-up: [`REPORT.md`](REPORT.md).
 
+## Re-run, October 2026
+
+The identical design was run again on 13 October 2026 (479 responses). The Perplexity effect held and grew (brand-set gap 23.4 → 28.2 points, cited-domain gap 32.4 → 52.6), the Gemini effect mostly closed (7.8 → 2.0 points; citation gap 48.7 → 17.1 points), and the ChatGPT effect did not survive (0.8 points). Across two months the same English question produced brand lists that overlapped only 28% on Perplexity against a within-day rerun overlap of 73%. Data, scripts, lexicon sensitivity, stability spot-check and three independent recomputations are in [`rerun-2026-10/`](rerun-2026-10/README.md); the comparison tables are in [`rerun-2026-10/COMPARISON.md`](rerun-2026-10/COMPARISON.md). The August numbers below are unchanged.
+
 ## What we found
 
 An AI engine does not give the same answer twice, so the honest test is not "do the two languages differ" but "do they differ by more than the engine differs from itself." Every gap below is the difference between rerun-to-rerun brand overlap in the same language (the engine's own noise floor) and overlap across languages. All p-values are exact one-sided sign-flip permutation tests over the 10 per-prompt deltas, with the test fixed before analysis.

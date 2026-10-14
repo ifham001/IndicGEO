@@ -1,0 +1,176 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 10,
+  "promptText": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+  "cellId": "F02_en_gemini_r10",
+  "startedAt": "2026-10-13T14:55:25.779Z",
+  "finishedAt": "2026-10-13T14:55:59.061Z",
+  "durationMs": 33282,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T14:53:33.454Z",
+    "error": "This operation was aborted"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Finding a reliable pair of running shoes under ₹3,000 in India requires balancing durability, cushioning, and brand trust, as entry-level foams can sometimes pack down quickly.\n\nThe best options available across major brands and platforms fit right into this budget:\n\n---\n\n### Top Recommendations Under ₹3,000\n\n| Model | Estimated Price (INR) | Best For | Why Buy |\n| :--- | :--- | :--- | :--- |\n| **Adidas Drogo M / Galaxy series** | ₹2,000 – ₹2,900 | All-round daily running & gym | Excellent everyday durability, features Adidas-backed cushioning tech, and fits a wide range of Indian foot shapes comfortably. |\n| **Puma Skyrocket Lite / Galaxis Pro** | ₹2,500 – ₹2,999 | Neutral runners & structured fit | Puma's performance tier offers great grip, a secure midfoot lockdown, and high user satisfaction ratings for pavement running. |\n| **Skechers Go Run Consistent (on sale)** | ₹2,500 – ₹2,999 | Longer, easy-paced road runs | Exceptionally soft and plush cushioning midsole. Ideal if you prioritize high impact absorption over a firm ride. |\n| **Campus Terminator / Active models** | ₹1,200 – ₹1,500 | Beginners on a strict budget | India’s leading domestic brand offers incredible value-for-money with thick sole construction for casual jogging and daily wear. |\n\n---\n\n### Key Tips for Buying in This Price Range\n\n* **Check Sales and Platforms:** Prices on models like the *Adidas Galaxy* or *Skechers Go Run* fluctuate frequently. Look out for sales on Myntra, Flipkart, Tata CLiQ, or official brand websites where models originally priced around ₹4,000–₹5,000 often dip below ₹3,000.\n* **Foam Longevity:** Budget shoes use standard EVA foam which compresses faster than premium foams. If you run regularly (e.g., 3–4 times a week), expect to replace them after about 500–600 kilometers.\n* **Fit Considerations:** Nike and some international models can run narrow in this tier. If you have wider feet, brands like Adidas or Skechers generally provide a more forgiving fit. Always buy from a platform with a hassle-free return policy to test them indoors first.\n\nWhat kind of terrain will you mostly be running on (treadmill, road, or mud tracks)?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "33.0809 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131455-2163-0629-0000-5338adb7083a",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "32.9749 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:56:00 +00:00",
+      "markdown": "Finding a reliable pair of running shoes under ₹3,000 in India requires balancing durability, cushioning, and brand trust, as entry-level foams can sometimes pack down quickly.\n\nThe best options available across major brands and platforms fit right into this budget:\n\n---\n\n### Top Recommendations Under ₹3,000\n\n| Model | Estimated Price (INR) | Best For | Why Buy |\n| :--- | :--- | :--- | :--- |\n| **Adidas Drogo M / Galaxy series** | ₹2,000 – ₹2,900 | All-round daily running & gym | Excellent everyday durability, features Adidas-backed cushioning tech, and fits a wide range of Indian foot shapes comfortably. |\n| **Puma Skyrocket Lite / Galaxis Pro** | ₹2,500 – ₹2,999 | Neutral runners & structured fit | Puma's performance tier offers great grip, a secure midfoot lockdown, and high user satisfaction ratings for pavement running. |\n| **Skechers Go Run Consistent (on sale)** | ₹2,500 – ₹2,999 | Longer, easy-paced road runs | Exceptionally soft and plush cushioning midsole. Ideal if you prioritize high impact absorption over a firm ride. |\n| **Campus Terminator / Active models** | ₹1,200 – ₹1,500 | Beginners on a strict budget | India’s leading domestic brand offers incredible value-for-money with thick sole construction for casual jogging and daily wear. |\n\n---\n\n### Key Tips for Buying in This Price Range\n\n* **Check Sales and Platforms:** Prices on models like the *Adidas Galaxy* or *Skechers Go Run* fluctuate frequently. Look out for sales on Myntra, Flipkart, Tata CLiQ, or official brand websites where models originally priced around ₹4,000–₹5,000 often dip below ₹3,000.\n* **Foam Longevity:** Budget shoes use standard EVA foam which compresses faster than premium foams. If you run regularly (e.g., 3–4 times a week), expect to replace them after about 500–600 kilometers.\n* **Fit Considerations:** Nike and some international models can run narrow in this tier. If you have wider feet, brands like Adidas or Skechers generally provide a more forgiving fit. Always buy from a platform with a hassle-free return policy to test them indoors first.\n\nWhat kind of terrain will you mostly be running on (treadmill, road, or mud tracks)?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Finding a reliable pair of running shoes under ₹3,000 in India requires balancing durability, cushioning, and brand trust, as entry-level foams can sometimes pack down quickly.",
+        "original_text": "Finding a reliable pair of running shoes under ₹3,000 in India requires balancing durability, cushioning, and brand trust, as entry-level foams can sometimes pack down quickly.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "The best options available across major brands and platforms fit right into this budget:",
+        "original_text": "The best options available across major brands and platforms fit right into this budget:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### Top Recommendations Under ₹3,000",
+        "original_text": "Top Recommendations Under ₹3,000",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "markdown": "| Model | Estimated Price (INR) | Best For | Why Buy |\n| :--- | :--- | :--- | :--- |\n| **Adidas Drogo M / Galaxy series** | ₹2,000 – ₹2,900 | All-round daily running & gym | Excellent everyday durability, features Adidas-backed cushioning tech, and fits a wide range of Indian foot shapes comfortably. |\n| **Puma Skyrocket Lite / Galaxis Pro** | ₹2,500 – ₹2,999 | Neutral runners & structured fit | Puma's performance tier offers great grip, a secure midfoot lockdown, and high user satisfaction ratings for pavement running. |\n| **Skechers Go Run Consistent (on sale)** | ₹2,500 – ₹2,999 | Longer, easy-paced road runs | Exceptionally soft and plush cushioning midsole. Ideal if you prioritize high impact absorption over a firm ride. |\n| **Campus Terminator / Active models** | ₹1,200 – ₹1,500 | Beginners on a strict budget | India’s leading domestic brand offers incredible value-for-money with thick sole construction for casual jogging and daily wear. |",
+        "original_text": "Model\tEstimated Price (INR)\tBest For\tWhy Buy\nAdidas Drogo M / Galaxy series\t₹2,000 – ₹2,900\tAll-round daily running & gym\tExcellent everyday durability, features Adidas-backed cushioning tech, and fits a wide range of Indian foot shapes comfortably.\nPuma Skyrocket Lite / Galaxis Pro\t₹2,500 – ₹2,999\tNeutral runners & structured fit\tPuma's performance tier offers great grip, a secure midfoot lockdown, and high user satisfaction ratings for pavement running.\nSkechers Go Run Consistent (on sale)\t₹2,500 – ₹2,999\tLonger, easy-paced road runs\tExceptionally soft and plush cushioning midsole. Ideal if you prioritize high impact absorption over a firm ride.\nCampus Terminator / Active models\t₹1,200 – ₹1,500\tBeginners on a strict budget\tIndia’s leading domestic brand offers incredible value-for-money with thick sole construction for casual jogging and daily wear.",
+        "table": {
+         "table_header": [
+          "Model",
+          "Estimated Price (INR)",
+          "Best For",
+          "Why Buy"
+         ],
+         "table_content": [
+          [
+           "Adidas Drogo M / Galaxy series",
+           "₹2,000 – ₹2,900",
+           "All-round daily running & gym",
+           "Excellent everyday durability, features Adidas-backed cushioning tech, and fits a wide range of Indian foot shapes comfortably."
+          ],
+          [
+           "Puma Skyrocket Lite / Galaxis Pro",
+           "₹2,500 – ₹2,999",
+           "Neutral runners & structured fit",
+           "Puma's performance tier offers great grip, a secure midfoot lockdown, and high user satisfaction ratings for pavement running."
+          ],
+          [
+           "Skechers Go Run Consistent (on sale)",
+           "₹2,500 – ₹2,999",
+           "Longer, easy-paced road runs",
+           "Exceptionally soft and plush cushioning midsole. Ideal if you prioritize high impact absorption over a firm ride."
+          ],
+          [
+           "Campus Terminator / Active models",
+           "₹1,200 – ₹1,500",
+           "Beginners on a strict budget",
+           "India’s leading domestic brand offers incredible value-for-money with thick sole construction for casual jogging and daily wear."
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "markdown": "### Key Tips for Buying in This Price Range",
+        "original_text": "Key Tips for Buying in This Price Range",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "markdown": "* **Check Sales and Platforms:** Prices on models like the *Adidas Galaxy* or *Skechers Go Run* fluctuate frequently. Look out for sales on Myntra, Flipkart, Tata CLiQ, or official brand websites where models originally priced around ₹4,000–₹5,000 often dip below ₹3,000.\n* **Foam Longevity:** Budget shoes use standard EVA foam which compresses faster than premium foams. If you run regularly (e.g., 3–4 times a week), expect to replace them after about 500–600 kilometers.\n* **Fit Considerations:** Nike and some international models can run narrow in this tier. If you have wider feet, brands like Adidas or Skechers generally provide a more forgiving fit. Always buy from a platform with a hassle-free return policy to test them indoors first.",
+        "original_text": "Check Sales and Platforms: Prices on models like the Adidas Galaxy or Skechers Go Run fluctuate frequently. Look out for sales on Myntra, Flipkart, Tata CLiQ, or official brand websites where models originally priced around ₹4,000–₹5,000 often dip below ₹3,000.\nFoam Longevity: Budget shoes use standard EVA foam which compresses faster than premium foams. If you run regularly (e.g., 3–4 times a week), expect to replace them after about 500–600 kilometers.\nFit Considerations: Nike and some international models can run narrow in this tier. If you have wider feet, brands like Adidas or Skechers generally provide a more forgiving fit. Always buy from a platform with a hassle-free return policy to test them indoors first.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "markdown": "What kind of terrain will you mostly be running on (treadmill, road, or mud tracks)?",
+        "original_text": "What kind of terrain will you mostly be running on (treadmill, road, or mud tracks)?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

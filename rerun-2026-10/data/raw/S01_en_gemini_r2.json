@@ -1,0 +1,232 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S01",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 2,
+  "promptText": "Which face wash should I buy for oily skin in India under ₹500?",
+  "cellId": "S01_en_gemini_r2",
+  "startedAt": "2026-10-13T14:42:38.318Z",
+  "finishedAt": "2026-10-13T14:43:10.771Z",
+  "durationMs": 32453,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T14:40:47.277Z",
+    "error": "This operation was aborted"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Choosing the right face wash for oily skin helps control excess shine, clear clogged pores, and prevent breakouts without stripping your skin of essential moisture.[deyga.in](https://deyga.in/blogs/news/top-10-face-wash-in-india#:~:text=When%20your%20skin%20is%20concerned%20with%20excess,excessive%20dryness%20or%20stretchy%20feel%20post%20cleansing.) Several top-rated options available in India are priced well under ₹500.\n\n### For Deep Pore Cleansing & Acne Control\n\nThe Plum Green Tea Pore Cleansing Face Wash uses **antioxidant-rich green tea** and **glycolic acid** to gently exfoliate, clear out sebum, and manage acne.\n\nThe The Derma Co Sali-Cinamide Anti-Acne with 2% Salicylic Acid Niacinamide Face Wash combines **2% salicylic acid** and **niacinamide** to regulate oil production and combat blemishes.\n\nThe Foxtale Oil & Acne Control Face Wash | 2% Salicylic Acid + Niacinamide + Cica + Hyaluronic Acid | Fights Acne, Controls Oil & Soothes Skin|For Oily, features **cica and hyaluronic acid** alongside salicylic acid to purify pores while preventing a tight, dry feeling.\n\n### For Gentle & Budget-Friendly Care\n\nThe Himalaya Neem Purifying Face Wash relies on **natural neem and turmeric** to clear impurities, making it a classic, budget-friendly pick for everyday use.\n\nThe Dot & Key Watermelon Super Glow Vitamin C Face Wash Gel offers a **sulfate-free gel formula** infused with cooling cucumber and vitamin C to refresh dull, oily skin.\n\n### Summary Recommendation\n\n* Choose **Plum Green Tea** if you prefer gentle chemical exfoliation with glycolic acid.[deyga.in](https://deyga.in/blogs/news/top-10-face-wash-in-india#:~:text=The%20green%20tea%20formulation%20which%20is%20rich,texture.%20What%20Makes%20It%20a%20Good%20Choice%3F)\n* Choose **The Derma Co Sali-Cinamide** or **Foxtale** if your oily skin is actively prone to acne and breakouts.\n* Choose **Himalaya Neem** for a trusted herbal, low-cost daily cleanser.\n\nIf you would like, I can suggest a lightweight, non-comedogenic moisturizer to pair with your face wash to keep your skin balanced throughout the day. Do you want me to do that?",
+  "citations": [
+   {
+    "url": "https://deyga.in/blogs/news/top-10-face-wash-in-india#:~:text=When%20your%20skin%20is%20concerned%20with%20excess,excessive%20dryness%20or%20stretchy%20feel%20post%20cleansing.",
+    "source_name": "Deyga Organics",
+    "position": 1
+   },
+   {
+    "url": "https://deyga.in/blogs/news/top-10-face-wash-in-india#:~:text=The%20green%20tea%20formulation%20which%20is%20rich,texture.%20What%20Makes%20It%20a%20Good%20Choice%3F",
+    "source_name": "Deyga Organics",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "31.8086 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131442-2163-0629-0000-17f409b736b3",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "31.1992 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Which face wash should I buy for oily skin in India under ₹500?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which face wash should I buy for oily skin in India under ₹500?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:43:11 +00:00",
+      "markdown": "Choosing the right face wash for oily skin helps control excess shine, clear clogged pores, and prevent breakouts without stripping your skin of essential moisture.[deyga.in](https://deyga.in/blogs/news/top-10-face-wash-in-india#:~:text=When%20your%20skin%20is%20concerned%20with%20excess,excessive%20dryness%20or%20stretchy%20feel%20post%20cleansing.) Several top-rated options available in India are priced well under ₹500.\n\n### For Deep Pore Cleansing & Acne Control\n\nThe Plum Green Tea Pore Cleansing Face Wash uses **antioxidant-rich green tea** and **glycolic acid** to gently exfoliate, clear out sebum, and manage acne.\n\nThe The Derma Co Sali-Cinamide Anti-Acne with 2% Salicylic Acid Niacinamide Face Wash combines **2% salicylic acid** and **niacinamide** to regulate oil production and combat blemishes.\n\nThe Foxtale Oil & Acne Control Face Wash | 2% Salicylic Acid + Niacinamide + Cica + Hyaluronic Acid | Fights Acne, Controls Oil & Soothes Skin|For Oily, features **cica and hyaluronic acid** alongside salicylic acid to purify pores while preventing a tight, dry feeling.\n\n### For Gentle & Budget-Friendly Care\n\nThe Himalaya Neem Purifying Face Wash relies on **natural neem and turmeric** to clear impurities, making it a classic, budget-friendly pick for everyday use.\n\nThe Dot & Key Watermelon Super Glow Vitamin C Face Wash Gel offers a **sulfate-free gel formula** infused with cooling cucumber and vitamin C to refresh dull, oily skin.\n\n### Summary Recommendation\n\n* Choose **Plum Green Tea** if you prefer gentle chemical exfoliation with glycolic acid.[deyga.in](https://deyga.in/blogs/news/top-10-face-wash-in-india#:~:text=The%20green%20tea%20formulation%20which%20is%20rich,texture.%20What%20Makes%20It%20a%20Good%20Choice%3F)\n* Choose **The Derma Co Sali-Cinamide** or **Foxtale** if your oily skin is actively prone to acne and breakouts.\n* Choose **Himalaya Neem** for a trusted herbal, low-cost daily cleanser.\n\nIf you would like, I can suggest a lightweight, non-comedogenic moisturizer to pair with your face wash to keep your skin balanced throughout the day. Do you want me to do that?",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Top 10 Face Wash in India for Oily, Acne-Prone Skin - Deyga Organics",
+        "snippet": "When your skin is concerned with excess oiliness, clogged pores, or \nfrequent breakouts, then this face wash is the best option to tackle \noiliness and impurities...",
+        "domain": "deyga.in",
+        "url": "https://deyga.in/blogs/news/top-10-face-wash-in-india#:~:text=When%20your%20skin%20is%20concerned%20with%20excess,excessive%20dryness%20or%20stretchy%20feel%20post%20cleansing.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQV5Zh7nvHcLQe3wGYO77_VTkBuIU_TLCb7ZQZYFcPocBmiYTU0Wtyjd4fPyKIXxeeH3IgQ7mX9VD8ifCBRtWSo0P-2",
+        "source_name": "Deyga Organics",
+        "publication_date": null,
+        "markdown": "Choosing the right face wash for oily skin helps control excess shine, clear clogged pores, and prevent breakouts without stripping your skin of essential moisture."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Top 10 Face Wash in India for Oily, Acne-Prone Skin - Deyga Organics",
+        "snippet": "The green tea formulation which is rich in anti-oxidants helps in removing \nthe excess oil and impurities from the skin. The soap-free formulation is \nperfect for...",
+        "domain": "deyga.in",
+        "url": "https://deyga.in/blogs/news/top-10-face-wash-in-india#:~:text=The%20green%20tea%20formulation%20which%20is%20rich,texture.%20What%20Makes%20It%20a%20Good%20Choice%3F",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQV5Zh7nvHcLQe3wGYO77_VTkBuIU_TLCb7ZQZYFcPocBmiYTU0Wtyjd4fPyKIXxeeH3IgQ7mX9VD8ifCBRtWSo0P-2",
+        "source_name": "Deyga Organics",
+        "publication_date": null,
+        "markdown": "Choose **Plum Green Tea** if you prefer gentle chemical exfoliation with glycolic acid."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 11,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Choosing the right face wash for oily skin helps control excess shine, clear clogged pores, and prevent breakouts without stripping your skin of essential moisture.[deyga.in](https://deyga.in/blogs/news/top-10-face-wash-in-india#:~:text=When%20your%20skin%20is%20concerned%20with%20excess,excessive%20dryness%20or%20stretchy%20feel%20post%20cleansing.) Several top-rated options available in India are priced well under ₹500.",
+        "original_text": "Choosing the right face wash for oily skin helps control excess shine, clear clogged pores, and prevent breakouts without stripping your skin of essential moisture. Several top-rated options available in India are priced well under ₹500.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Top 10 Face Wash in India for Oily, Acne-Prone Skin - Deyga Organics",
+          "snippet": "When your skin is concerned with excess oiliness, clogged pores, or \nfrequent breakouts, then this face wash is the best option to tackle \noiliness and impurities...",
+          "domain": "deyga.in",
+          "url": "https://deyga.in/blogs/news/top-10-face-wash-in-india#:~:text=When%20your%20skin%20is%20concerned%20with%20excess,excessive%20dryness%20or%20stretchy%20feel%20post%20cleansing.",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQV5Zh7nvHcLQe3wGYO77_VTkBuIU_TLCb7ZQZYFcPocBmiYTU0Wtyjd4fPyKIXxeeH3IgQ7mX9VD8ifCBRtWSo0P-2",
+          "source_name": "Deyga Organics",
+          "publication_date": null,
+          "markdown": "Choosing the right face wash for oily skin helps control excess shine, clear clogged pores, and prevent breakouts without stripping your skin of essential moisture."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### For Deep Pore Cleansing & Acne Control",
+        "original_text": "For Deep Pore Cleansing & Acne Control",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "The Plum Green Tea Pore Cleansing Face Wash uses **antioxidant-rich green tea** and **glycolic acid** to gently exfoliate, clear out sebum, and manage acne.",
+        "original_text": "The Plum Green Tea Pore Cleansing Face Wash uses antioxidant-rich green tea and glycolic acid to gently exfoliate, clear out sebum, and manage acne.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "The The Derma Co Sali-Cinamide Anti-Acne with 2% Salicylic Acid Niacinamide Face Wash combines **2% salicylic acid** and **niacinamide** to regulate oil production and combat blemishes.",
+        "original_text": "The The Derma Co Sali-Cinamide Anti-Acne with 2% Salicylic Acid Niacinamide Face Wash combines 2% salicylic acid and niacinamide to regulate oil production and combat blemishes.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "The Foxtale Oil & Acne Control Face Wash | 2% Salicylic Acid + Niacinamide + Cica + Hyaluronic Acid | Fights Acne, Controls Oil & Soothes Skin|For Oily, features **cica and hyaluronic acid** alongside salicylic acid to purify pores while preventing a tight, dry feeling.",
+        "original_text": "The Foxtale Oil & Acne Control Face Wash | 2% Salicylic Acid + Niacinamide + Cica + Hyaluronic Acid | Fights Acne, Controls Oil & Soothes Skin|For Oily, features cica and hyaluronic acid alongside salicylic acid to purify pores while preventing a tight, dry feeling.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "### For Gentle & Budget-Friendly Care",
+        "original_text": "For Gentle & Budget-Friendly Care",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "The Himalaya Neem Purifying Face Wash relies on **natural neem and turmeric** to clear impurities, making it a classic, budget-friendly pick for everyday use.",
+        "original_text": "The Himalaya Neem Purifying Face Wash relies on natural neem and turmeric to clear impurities, making it a classic, budget-friendly pick for everyday use.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "The Dot & Key Watermelon Super Glow Vitamin C Face Wash Gel offers a **sulfate-free gel formula** infused with cooling cucumber and vitamin C to refresh dull, oily skin.",
+        "original_text": "The Dot & Key Watermelon Super Glow Vitamin C Face Wash Gel offers a sulfate-free gel formula infused with cooling cucumber and vitamin C to refresh dull, oily skin.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### Summary Recommendation",
+        "original_text": "Summary Recommendation",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "* Choose **Plum Green Tea** if you prefer gentle chemical exfoliation with glycolic acid.[deyga.in](https://deyga.in/blogs/news/top-10-face-wash-in-india#:~:text=The%20green%20tea%20formulation%20which%20is%20rich,texture.%20What%20Makes%20It%20a%20Good%20Choice%3F)\n* Choose **The Derma Co Sali-Cinamide** or **Foxtale** if your oily skin is actively prone to acne and breakouts.\n* Choose **Himalaya Neem** for a trusted herbal, low-cost daily cleanser.",
+        "original_text": "Choose Plum Green Tea if you prefer gentle chemical exfoliation with glycolic acid.\nChoose The Derma Co Sali-Cinamide or Foxtale if your oily skin is actively prone to acne and breakouts.\nChoose Himalaya Neem for a trusted herbal, low-cost daily cleanser.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Top 10 Face Wash in India for Oily, Acne-Prone Skin - Deyga Organics",
+          "snippet": "The green tea formulation which is rich in anti-oxidants helps in removing \nthe excess oil and impurities from the skin. The soap-free formulation is \nperfect for...",
+          "domain": "deyga.in",
+          "url": "https://deyga.in/blogs/news/top-10-face-wash-in-india#:~:text=The%20green%20tea%20formulation%20which%20is%20rich,texture.%20What%20Makes%20It%20a%20Good%20Choice%3F",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQV5Zh7nvHcLQe3wGYO77_VTkBuIU_TLCb7ZQZYFcPocBmiYTU0Wtyjd4fPyKIXxeeH3IgQ7mX9VD8ifCBRtWSo0P-2",
+          "source_name": "Deyga Organics",
+          "publication_date": null,
+          "markdown": "Choose **Plum Green Tea** if you prefer gentle chemical exfoliation with glycolic acid."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "If you would like, I can suggest a lightweight, non-comedogenic moisturizer to pair with your face wash to keep your skin balanced throughout the day. Do you want me to do that?",
+        "original_text": "If you would like, I can suggest a lightweight, non-comedogenic moisturizer to pair with your face wash to keep your skin balanced throughout the day. Do you want me to do that?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,387 @@
+{
+  "generatedFrom": "research/hinglish-rerun-2026-10-13/data/analysis/results.json (v1.1 lexicon)",
+  "nResponses": 479,
+  "totalCostUsd": 2.14,
+  "engines": {
+    "chatgpt": {
+      "brandWithin": 49.6,
+      "brandCross": 48.8,
+      "brandGap": 0.8,
+      "brandCI": [
+        -0.8,
+        2.7
+      ],
+      "brandP": 0.2421875,
+      "skincareGap": 1.3,
+      "skincareP": 0.3125,
+      "fashionGap": 0.4,
+      "fashionP": 0.25,
+      "domainWithin": 31.7,
+      "domainCross": 31,
+      "domainGap": 0.7,
+      "domainP": 0.2685546875,
+      "citedEnK": 80,
+      "citedHgK": 80,
+      "n": 80,
+      "citedEnPct": 100,
+      "citedHgPct": 100,
+      "citedEnN": 80,
+      "citedHgN": 80,
+      "meanCitesEn": 6.6,
+      "meanCitesHg": 5.9,
+      "lenEn": 4745,
+      "lenHg": 4252,
+      "firstWithin": 58.8,
+      "firstCross": 59.1,
+      "indiaEn": 71.3,
+      "indiaHg": 68.7,
+      "answerLangEn": {
+        "english": 80
+      },
+      "answerLangHg": {
+        "hinglish": 80
+      },
+      "stability": {
+        "freshWithin": 53.8,
+        "freshCross": 50.6,
+        "driftRatio": 1.04
+      },
+      "movers": [
+        {
+          "brand": "Re'equil",
+          "enK": 11,
+          "hgK": 5,
+          "en": 13.8,
+          "hg": 6.3,
+          "delta": -7.5
+        },
+        {
+          "brand": "Banarasee",
+          "enK": 4,
+          "hgK": 0,
+          "en": 5,
+          "hg": 0,
+          "delta": -5
+        },
+        {
+          "brand": "CeraVe",
+          "enK": 6,
+          "hgK": 2,
+          "en": 7.5,
+          "hg": 2.5,
+          "delta": -5
+        },
+        {
+          "brand": "Cetaphil",
+          "enK": 16,
+          "hgK": 12,
+          "en": 20,
+          "hg": 15,
+          "delta": -5
+        },
+        {
+          "brand": "Deconstruct",
+          "enK": 7,
+          "hgK": 11,
+          "en": 8.8,
+          "hg": 13.8,
+          "delta": 5
+        },
+        {
+          "brand": "Adidas",
+          "enK": 4,
+          "hgK": 7,
+          "en": 5,
+          "hg": 8.8,
+          "delta": 3.8
+        },
+        {
+          "brand": "Anouk",
+          "enK": 0,
+          "hgK": 3,
+          "en": 0,
+          "hg": 3.8,
+          "delta": 3.8
+        },
+        {
+          "brand": "Bioderma",
+          "enK": 4,
+          "hgK": 7,
+          "en": 5,
+          "hg": 8.8,
+          "delta": 3.8
+        },
+        {
+          "brand": "Foxtale",
+          "enK": 7,
+          "hgK": 4,
+          "en": 8.8,
+          "hg": 5,
+          "delta": -3.8
+        },
+        {
+          "brand": "Jack & Jones",
+          "enK": 0,
+          "hgK": 3,
+          "en": 0,
+          "hg": 3.8,
+          "delta": 3.8
+        }
+      ]
+    },
+    "gemini": {
+      "brandWithin": 41.5,
+      "brandCross": 39.5,
+      "brandGap": 2,
+      "brandCI": [
+        0,
+        4.4
+      ],
+      "brandP": 0.0625,
+      "skincareGap": 2.3,
+      "skincareP": 0.25,
+      "fashionGap": 1.6,
+      "fashionP": 0.1875,
+      "domainWithin": 29.5,
+      "domainCross": 26.4,
+      "domainGap": 3,
+      "domainP": 0.1201171875,
+      "citedEnK": 58,
+      "citedHgK": 45,
+      "n": 79,
+      "citedEnPct": 73.4,
+      "citedHgPct": 56.3,
+      "citedEnN": 79,
+      "citedHgN": 80,
+      "meanCitesEn": 5.8,
+      "meanCitesHg": 5.1,
+      "lenEn": 4094,
+      "lenHg": 3175,
+      "firstWithin": 48.1,
+      "firstCross": 41.8,
+      "indiaEn": 75.1,
+      "indiaHg": 73.4,
+      "answerLangEn": {
+        "english": 79
+      },
+      "answerLangHg": {
+        "hinglish": 79,
+        "hindi-devanagari": 1
+      },
+      "stability": {
+        "freshWithin": 38.7,
+        "freshCross": 29.8,
+        "driftRatio": 1.06
+      },
+      "movers": [
+        {
+          "brand": "Foxtale",
+          "enK": 14,
+          "hgK": 5,
+          "en": 17.7,
+          "hg": 6.3,
+          "delta": -11.4
+        },
+        {
+          "brand": "Pilgrim",
+          "enK": 7,
+          "hgK": 1,
+          "en": 8.9,
+          "hg": 1.3,
+          "delta": -7.6
+        },
+        {
+          "brand": "Plum",
+          "enK": 17,
+          "hgK": 23,
+          "en": 21.5,
+          "hg": 28.7,
+          "delta": 7.2
+        },
+        {
+          "brand": "Minimalist",
+          "enK": 27,
+          "hgK": 22,
+          "en": 34.2,
+          "hg": 27.5,
+          "delta": -6.7
+        },
+        {
+          "brand": "Fabindia",
+          "enK": 6,
+          "hgK": 1,
+          "en": 7.6,
+          "hg": 1.3,
+          "delta": -6.3
+        },
+        {
+          "brand": "WishCare",
+          "enK": 6,
+          "hgK": 1,
+          "en": 7.6,
+          "hg": 1.3,
+          "delta": -6.3
+        },
+        {
+          "brand": "Blackberrys",
+          "enK": 3,
+          "hgK": 8,
+          "en": 3.8,
+          "hg": 10,
+          "delta": 6.2
+        },
+        {
+          "brand": "Killer",
+          "enK": 0,
+          "hgK": 4,
+          "en": 0,
+          "hg": 5,
+          "delta": 5
+        },
+        {
+          "brand": "Nike",
+          "enK": 5,
+          "hgK": 1,
+          "en": 6.3,
+          "hg": 1.3,
+          "delta": -5
+        },
+        {
+          "brand": "The Derma Co",
+          "enK": 23,
+          "hgK": 20,
+          "en": 29.1,
+          "hg": 25,
+          "delta": -4.1
+        }
+      ]
+    },
+    "perplexity": {
+      "brandWithin": 76.1,
+      "brandCross": 47.9,
+      "brandGap": 28.2,
+      "brandCI": [
+        16.7,
+        41.9
+      ],
+      "brandP": 0.0009765625,
+      "skincareGap": 32.2,
+      "skincareP": 0.03125,
+      "fashionGap": 24.2,
+      "fashionP": 0.03125,
+      "domainWithin": 91.4,
+      "domainCross": 38.8,
+      "domainGap": 52.6,
+      "domainP": 0.0009765625,
+      "citedEnK": 80,
+      "citedHgK": 80,
+      "n": 80,
+      "citedEnPct": 100,
+      "citedHgPct": 100,
+      "citedEnN": 80,
+      "citedHgN": 80,
+      "meanCitesEn": 10,
+      "meanCitesHg": 10,
+      "lenEn": 1323,
+      "lenHg": 1322,
+      "firstWithin": 71.1,
+      "firstCross": 43.1,
+      "indiaEn": 68.7,
+      "indiaHg": 72.8,
+      "answerLangEn": {
+        "english": 80
+      },
+      "answerLangHg": {
+        "hindi-devanagari": 16,
+        "hinglish": 64
+      },
+      "stability": {
+        "freshWithin": 67.5,
+        "freshCross": 41.4,
+        "driftRatio": 0.94
+      },
+      "movers": [
+        {
+          "brand": "Plum",
+          "enK": 8,
+          "hgK": 22,
+          "en": 10,
+          "hg": 27.5,
+          "delta": 17.5
+        },
+        {
+          "brand": "Minimalist",
+          "enK": 21,
+          "hgK": 33,
+          "en": 26.3,
+          "hg": 41.3,
+          "delta": 15
+        },
+        {
+          "brand": "Cetaphil",
+          "enK": 16,
+          "hgK": 7,
+          "en": 20,
+          "hg": 8.8,
+          "delta": -11.2
+        },
+        {
+          "brand": "Flying Machine",
+          "enK": 0,
+          "hgK": 8,
+          "en": 0,
+          "hg": 10,
+          "delta": 10
+        },
+        {
+          "brand": "Park Avenue",
+          "enK": 0,
+          "hgK": 8,
+          "en": 0,
+          "hg": 10,
+          "delta": 10
+        },
+        {
+          "brand": "Skechers",
+          "enK": 0,
+          "hgK": 8,
+          "en": 0,
+          "hg": 10,
+          "delta": 10
+        },
+        {
+          "brand": "Spykar",
+          "enK": 0,
+          "hgK": 8,
+          "en": 0,
+          "hg": 10,
+          "delta": 10
+        },
+        {
+          "brand": "Dot & Key",
+          "enK": 11,
+          "hgK": 4,
+          "en": 13.8,
+          "hg": 5,
+          "delta": -8.8
+        },
+        {
+          "brand": "Roadster",
+          "enK": 0,
+          "hgK": 7,
+          "en": 0,
+          "hg": 8.8,
+          "delta": 8.8
+        },
+        {
+          "brand": "Simple",
+          "enK": 2,
+          "hgK": 9,
+          "en": 2.5,
+          "hg": 11.3,
+          "delta": 8.8
+        }
+      ]
+    }
+  }
+}

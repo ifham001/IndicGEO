@@ -1,0 +1,208 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 1,
+  "promptText": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+  "cellId": "F02_en_gemini_r1",
+  "startedAt": "2026-10-13T13:11:45.518Z",
+  "finishedAt": "2026-10-13T13:12:48.900Z",
+  "durationMs": 63382,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Finding a reliable pair of running shoes under ₹3,000 in India can be tricky, but several great entry-level options offer solid cushioning, durability, and grip for daily jogging or walking.\n\nHere are the top running shoes you can buy within your budget:\n\n---\n\n### Top Picks for Running Shoes Under ₹3,000\n\n#### 1. Campus OXYFIT / CAMPUS Running Shoes\n\n* **Best For:** Casual runners, daily walkers, and budget-conscious buyers.\n* **Price Range:** ₹1,200 – ₹1,800\n* **Why buy:** Campus is an Indian brand known for incredible value. Their running models usually feature breathable mesh uppers and soft EVA or Memory Tech foam cushioning, making them exceptionally comfortable for light jogs, gym use, and all-day wear.\n\n#### 2. Bata Power Running Shoes\n\n* **Best For:** Stability and everyday durability.\n* **Price Range:** ₹1,500 – ₹2,500\n* **Why buy:** Bata's \"Power\" sub-brand is specifically engineered for active sports and running. They offer structured support, decent arch reinforcement, and rugged outsoles that handle rough Indian road conditions well.\n\n#### 3. Sparx Running Shoes (SM-series)\n\n* **Best For:** High durability on a strict budget.\n* **Price Range:** ₹1,000 – ₹1,800\n* **Why buy:** Sparx is widely popular for its rugged build quality. If you run on rough asphalt or concrete and need a shoe that won't tear apart easily, Sparx offers great traction and long-lasting mesh fabrics.\n\n#### 4.asian Wonder-13 / ASIAN Sports Shoes\n\n* **Best For:** Maximum cushioning on a ultra-low budget.\n* **Price Range:** ₹800 – ₹1,400\n* **Why buy:** ASIAN shoes frequently top online bestseller charts in India. They are surprisingly lightweight, feature flexible soles, and provide a comfortable ride for beginners who don't want to spend much upfront.\n\n#### 5. Entry-Level Decathlon (Kiprun / Kalenji) — *If on sale*\n\n* **Best For:** Pure running ergonomics.\n* **Price Range:** ₹2,499 – ₹2,999 (Check for discounts)\n* **Why buy:** While some Decathlon running shoes cross ₹3,000, basic models like the Kalenji Run One or entry-level Kiprun often sit right around ₹2,999. They are designed specifically for biomechanical running efficiency rather than just fashion.\n\n---\n\n### 💡 Quick Buying Tips for This Budget:\n\n* **Surface Type:** If you run primarily on hard concrete roads, look for shoes with thick **EVA or foam midsoles** to protect your knees from impact.\n* **Sizing:** Indian brands (like Campus and Sparx) generally run true to size, but if you have wide feet, consider going up half a size for running to prevent toe-jamming.\n* **Where to Buy:** Check platforms like **Myntra, Amazon India, Flipkart, and Ajio**, where these brands frequently run 30% to 50% off sales, allowing you to snag slightly higher-tier shoes right at your ₹3,000 limit.\n\nAre you primarily planning to use these for outdoor road running, gym workouts, or casual daily walking?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "63.1731 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131311-2163-0629-0000-484aa460e189",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "63.1144 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:12:48 +00:00",
+      "markdown": "Finding a reliable pair of running shoes under ₹3,000 in India can be tricky, but several great entry-level options offer solid cushioning, durability, and grip for daily jogging or walking.\n\nHere are the top running shoes you can buy within your budget:\n\n---\n\n### Top Picks for Running Shoes Under ₹3,000\n\n#### 1. Campus OXYFIT / CAMPUS Running Shoes\n\n* **Best For:** Casual runners, daily walkers, and budget-conscious buyers.\n* **Price Range:** ₹1,200 – ₹1,800\n* **Why buy:** Campus is an Indian brand known for incredible value. Their running models usually feature breathable mesh uppers and soft EVA or Memory Tech foam cushioning, making them exceptionally comfortable for light jogs, gym use, and all-day wear.\n\n#### 2. Bata Power Running Shoes\n\n* **Best For:** Stability and everyday durability.\n* **Price Range:** ₹1,500 – ₹2,500\n* **Why buy:** Bata's \"Power\" sub-brand is specifically engineered for active sports and running. They offer structured support, decent arch reinforcement, and rugged outsoles that handle rough Indian road conditions well.\n\n#### 3. Sparx Running Shoes (SM-series)\n\n* **Best For:** High durability on a strict budget.\n* **Price Range:** ₹1,000 – ₹1,800\n* **Why buy:** Sparx is widely popular for its rugged build quality. If you run on rough asphalt or concrete and need a shoe that won't tear apart easily, Sparx offers great traction and long-lasting mesh fabrics.\n\n#### 4.asian Wonder-13 / ASIAN Sports Shoes\n\n* **Best For:** Maximum cushioning on a ultra-low budget.\n* **Price Range:** ₹800 – ₹1,400\n* **Why buy:** ASIAN shoes frequently top online bestseller charts in India. They are surprisingly lightweight, feature flexible soles, and provide a comfortable ride for beginners who don't want to spend much upfront.\n\n#### 5. Entry-Level Decathlon (Kiprun / Kalenji) — *If on sale*\n\n* **Best For:** Pure running ergonomics.\n* **Price Range:** ₹2,499 – ₹2,999 (Check for discounts)\n* **Why buy:** While some Decathlon running shoes cross ₹3,000, basic models like the Kalenji Run One or entry-level Kiprun often sit right around ₹2,999. They are designed specifically for biomechanical running efficiency rather than just fashion.\n\n---\n\n### 💡 Quick Buying Tips for This Budget:\n\n* **Surface Type:** If you run primarily on hard concrete roads, look for shoes with thick **EVA or foam midsoles** to protect your knees from impact.\n* **Sizing:** Indian brands (like Campus and Sparx) generally run true to size, but if you have wide feet, consider going up half a size for running to prevent toe-jamming.\n* **Where to Buy:** Check platforms like **Myntra, Amazon India, Flipkart, and Ajio**, where these brands frequently run 30% to 50% off sales, allowing you to snag slightly higher-tier shoes right at your ₹3,000 limit.\n\nAre you primarily planning to use these for outdoor road running, gym workouts, or casual daily walking?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 16,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Finding a reliable pair of running shoes under ₹3,000 in India can be tricky, but several great entry-level options offer solid cushioning, durability, and grip for daily jogging or walking.",
+        "original_text": "Finding a reliable pair of running shoes under ₹3,000 in India can be tricky, but several great entry-level options offer solid cushioning, durability, and grip for daily jogging or walking.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Here are the top running shoes you can buy within your budget:",
+        "original_text": "Here are the top running shoes you can buy within your budget:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### Top Picks for Running Shoes Under ₹3,000",
+        "original_text": "Top Picks for Running Shoes Under ₹3,000",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "#### 1. Campus OXYFIT / CAMPUS Running Shoes",
+        "original_text": "1. Campus OXYFIT / CAMPUS Running Shoes",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "* **Best For:** Casual runners, daily walkers, and budget-conscious buyers.\n* **Price Range:** ₹1,200 – ₹1,800\n* **Why buy:** Campus is an Indian brand known for incredible value. Their running models usually feature breathable mesh uppers and soft EVA or Memory Tech foam cushioning, making them exceptionally comfortable for light jogs, gym use, and all-day wear.",
+        "original_text": "Best For: Casual runners, daily walkers, and budget-conscious buyers.\nPrice Range: ₹1,200 – ₹1,800\nWhy buy: Campus is an Indian brand known for incredible value. Their running models usually feature breathable mesh uppers and soft EVA or Memory Tech foam cushioning, making them exceptionally comfortable for light jogs, gym use, and all-day wear.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "#### 2. Bata Power Running Shoes",
+        "original_text": "2. Bata Power Running Shoes",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **Best For:** Stability and everyday durability.\n* **Price Range:** ₹1,500 – ₹2,500\n* **Why buy:** Bata's \"Power\" sub-brand is specifically engineered for active sports and running. They offer structured support, decent arch reinforcement, and rugged outsoles that handle rough Indian road conditions well.",
+        "original_text": "Best For: Stability and everyday durability.\nPrice Range: ₹1,500 – ₹2,500\nWhy buy: Bata's \"Power\" sub-brand is specifically engineered for active sports and running. They offer structured support, decent arch reinforcement, and rugged outsoles that handle rough Indian road conditions well.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "#### 3. Sparx Running Shoes (SM-series)",
+        "original_text": "3. Sparx Running Shoes (SM-series)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "* **Best For:** High durability on a strict budget.\n* **Price Range:** ₹1,000 – ₹1,800\n* **Why buy:** Sparx is widely popular for its rugged build quality. If you run on rough asphalt or concrete and need a shoe that won't tear apart easily, Sparx offers great traction and long-lasting mesh fabrics.",
+        "original_text": "Best For: High durability on a strict budget.\nPrice Range: ₹1,000 – ₹1,800\nWhy buy: Sparx is widely popular for its rugged build quality. If you run on rough asphalt or concrete and need a shoe that won't tear apart easily, Sparx offers great traction and long-lasting mesh fabrics.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "#### 4.asian Wonder-13 / ASIAN Sports Shoes",
+        "original_text": "4.asian Wonder-13 / ASIAN Sports Shoes",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "* **Best For:** Maximum cushioning on a ultra-low budget.\n* **Price Range:** ₹800 – ₹1,400\n* **Why buy:** ASIAN shoes frequently top online bestseller charts in India. They are surprisingly lightweight, feature flexible soles, and provide a comfortable ride for beginners who don't want to spend much upfront.",
+        "original_text": "Best For: Maximum cushioning on a ultra-low budget.\nPrice Range: ₹800 – ₹1,400\nWhy buy: ASIAN shoes frequently top online bestseller charts in India. They are surprisingly lightweight, feature flexible soles, and provide a comfortable ride for beginners who don't want to spend much upfront.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "#### 5. Entry-Level Decathlon (Kiprun / Kalenji) — *If on sale*",
+        "original_text": "5. Entry-Level Decathlon (Kiprun / Kalenji) — If on sale",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "markdown": "* **Best For:** Pure running ergonomics.\n* **Price Range:** ₹2,499 – ₹2,999 (Check for discounts)\n* **Why buy:** While some Decathlon running shoes cross ₹3,000, basic models like the Kalenji Run One or entry-level Kiprun often sit right around ₹2,999. They are designed specifically for biomechanical running efficiency rather than just fashion.",
+        "original_text": "Best For: Pure running ergonomics.\nPrice Range: ₹2,499 – ₹2,999 (Check for discounts)\nWhy buy: While some Decathlon running shoes cross ₹3,000, basic models like the Kalenji Run One or entry-level Kiprun often sit right around ₹2,999. They are designed specifically for biomechanical running efficiency rather than just fashion.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 14,
+        "rank_absolute": 14,
+        "markdown": "### 💡 Quick Buying Tips for This Budget:",
+        "original_text": "💡 Quick Buying Tips for This Budget:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 15,
+        "rank_absolute": 15,
+        "markdown": "* **Surface Type:** If you run primarily on hard concrete roads, look for shoes with thick **EVA or foam midsoles** to protect your knees from impact.\n* **Sizing:** Indian brands (like Campus and Sparx) generally run true to size, but if you have wide feet, consider going up half a size for running to prevent toe-jamming.\n* **Where to Buy:** Check platforms like **Myntra, Amazon India, Flipkart, and Ajio**, where these brands frequently run 30% to 50% off sales, allowing you to snag slightly higher-tier shoes right at your ₹3,000 limit.",
+        "original_text": "Surface Type: If you run primarily on hard concrete roads, look for shoes with thick EVA or foam midsoles to protect your knees from impact.\nSizing: Indian brands (like Campus and Sparx) generally run true to size, but if you have wide feet, consider going up half a size for running to prevent toe-jamming.\nWhere to Buy: Check platforms like Myntra, Amazon India, Flipkart, and Ajio, where these brands frequently run 30% to 50% off sales, allowing you to snag slightly higher-tier shoes right at your ₹3,000 limit.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 16,
+        "rank_absolute": 16,
+        "markdown": "Are you primarily planning to use these for outdoor road running, gym workouts, or casual daily walking?",
+        "original_text": "Are you primarily planning to use these for outdoor road running, gym workouts, or casual daily walking?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

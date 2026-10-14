@@ -1,0 +1,184 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 6,
+  "promptText": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+  "cellId": "F02_hg_gemini_r6",
+  "startedAt": "2026-10-13T13:58:11.201Z",
+  "finishedAt": "2026-10-13T13:59:03.534Z",
+  "durationMs": 52333,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein **3,000 rupees ke andar** (under ₹3,000) running shoes ke liye kaafi acche aur reliable options mil jaate hain jo daily running, walking, aur gym ke liye best hain.\n\nYahan top brands ke kuch behtareen running shoes ki list di gayi hai jo is budget mein aate hain:\n\n---\n\n### 1. Campus Men's First Running Shoes\n\n* **Price Range:** ₹1,200 - ₹1,800 ke aas-paas\n* **Kyun kharidein:** Campus India mein budget-friendly footwear ke liye sabse popular brand hai. Inke shoes ka cushion (foam) kaafi soft hota hai jo beginners ke liye running aur walking mein accha comfort deta hai.\n* **Best for:** Daily jogging, walking aur light gym workouts.\n\n### 2. Bata Power Running Shoes\n\n* **Price Range:** ₹1,500 - ₹2,500 ke aas-paas\n* **Kyun kharidein:** Bata ka \"Power\" sub-brand specifically sports aur running ke liye design kiya jata hai. Inke shoes ki durability (mazbooti) kaafi achhi hoti hai aur yeh lambe samay tak chalte hain.\n* **Best for:** Regular road running aur durability ke liye.\n\n### 3. Sparx Running Shoes (SM series)\n\n* **Price Range:** ₹1,000 - ₹1,800 ke aas-paas\n* **Kyun kharidein:** Sparx apne rugged aur value-for-money products ke liye jaana jaata hai. Inka grip aur sole kaafi sturdy hota hai, jo Indian roads par running ke liye ekdam sahi hai.\n* **Best for:** Budget-conscious runners jo heavy usage chahte hain.\n\n### 4. Puma / Adidas (Entry-level Sale ya Discounts par)\n\n* **Price Range:** ₹2,000 - ₹3,000 (Myntra, Flipkart, ya Ajio par sales ke dauran)\n* **Kyun kharidein:** Agar aap thoda wait karein ya online platforms par chal rahi sales check karein, toh Puma aur Adidas ke entry-level running shoes bhi ₹3,000 ke andar mil jaate hain. Inka build quality aur brand value kaafi accha hota hai.\n* **Best for:** Brand conscious buyers aur better cushioning ke liye.\n\n---\n\n### 💡 Kuch zaroori tips kharidne se pehle:\n\n1.  **Size ka dhyan rakhein:** Running shoes hamesha apne normal shoe size se **ek size bada (half size up)** lein, kyunki daudte waqt pair thode phoolte (swell hote hain) hain.\n2.  **Online vs Offline:** Agar aapko exact fitting chahiye toh kisi local store (Bata ya Campus showroom) par jaakar try kar sakte hain, ya phir online (Myntra/Amazon) par price compare karke kharid sakte hain kyunki online discounts acche mil jaate hain.\n\nKya aapko kisi khaas brand ya online store (jaise Myntra ya Amazon) ke links/suggestions chahiye?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "52.1324 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131358-2163-0629-0000-5aeb5331e0bc",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "52.0620 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:59:05 +00:00",
+      "markdown": "India mein **3,000 rupees ke andar** (under ₹3,000) running shoes ke liye kaafi acche aur reliable options mil jaate hain jo daily running, walking, aur gym ke liye best hain.\n\nYahan top brands ke kuch behtareen running shoes ki list di gayi hai jo is budget mein aate hain:\n\n---\n\n### 1. Campus Men's First Running Shoes\n\n* **Price Range:** ₹1,200 - ₹1,800 ke aas-paas\n* **Kyun kharidein:** Campus India mein budget-friendly footwear ke liye sabse popular brand hai. Inke shoes ka cushion (foam) kaafi soft hota hai jo beginners ke liye running aur walking mein accha comfort deta hai.\n* **Best for:** Daily jogging, walking aur light gym workouts.\n\n### 2. Bata Power Running Shoes\n\n* **Price Range:** ₹1,500 - ₹2,500 ke aas-paas\n* **Kyun kharidein:** Bata ka \"Power\" sub-brand specifically sports aur running ke liye design kiya jata hai. Inke shoes ki durability (mazbooti) kaafi achhi hoti hai aur yeh lambe samay tak chalte hain.\n* **Best for:** Regular road running aur durability ke liye.\n\n### 3. Sparx Running Shoes (SM series)\n\n* **Price Range:** ₹1,000 - ₹1,800 ke aas-paas\n* **Kyun kharidein:** Sparx apne rugged aur value-for-money products ke liye jaana jaata hai. Inka grip aur sole kaafi sturdy hota hai, jo Indian roads par running ke liye ekdam sahi hai.\n* **Best for:** Budget-conscious runners jo heavy usage chahte hain.\n\n### 4. Puma / Adidas (Entry-level Sale ya Discounts par)\n\n* **Price Range:** ₹2,000 - ₹3,000 (Myntra, Flipkart, ya Ajio par sales ke dauran)\n* **Kyun kharidein:** Agar aap thoda wait karein ya online platforms par chal rahi sales check karein, toh Puma aur Adidas ke entry-level running shoes bhi ₹3,000 ke andar mil jaate hain. Inka build quality aur brand value kaafi accha hota hai.\n* **Best for:** Brand conscious buyers aur better cushioning ke liye.\n\n---\n\n### 💡 Kuch zaroori tips kharidne se pehle:\n\n1.  **Size ka dhyan rakhein:** Running shoes hamesha apne normal shoe size se **ek size bada (half size up)** lein, kyunki daudte waqt pair thode phoolte (swell hote hain) hain.\n2.  **Online vs Offline:** Agar aapko exact fitting chahiye toh kisi local store (Bata ya Campus showroom) par jaakar try kar sakte hain, ya phir online (Myntra/Amazon) par price compare karke kharid sakte hain kyunki online discounts acche mil jaate hain.\n\nKya aapko kisi khaas brand ya online store (jaise Myntra ya Amazon) ke links/suggestions chahiye?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 13,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein **3,000 rupees ke andar** (under ₹3,000) running shoes ke liye kaafi acche aur reliable options mil jaate hain jo daily running, walking, aur gym ke liye best hain.",
+        "original_text": "India mein 3,000 rupees ke andar (under ₹3,000) running shoes ke liye kaafi acche aur reliable options mil jaate hain jo daily running, walking, aur gym ke liye best hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Yahan top brands ke kuch behtareen running shoes ki list di gayi hai jo is budget mein aate hain:",
+        "original_text": "Yahan top brands ke kuch behtareen running shoes ki list di gayi hai jo is budget mein aate hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### 1. Campus Men's First Running Shoes",
+        "original_text": "1. Campus Men's First Running Shoes",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Price Range:** ₹1,200 - ₹1,800 ke aas-paas\n* **Kyun kharidein:** Campus India mein budget-friendly footwear ke liye sabse popular brand hai. Inke shoes ka cushion (foam) kaafi soft hota hai jo beginners ke liye running aur walking mein accha comfort deta hai.\n* **Best for:** Daily jogging, walking aur light gym workouts.",
+        "original_text": "Price Range: ₹1,200 - ₹1,800 ke aas-paas\nKyun kharidein: Campus India mein budget-friendly footwear ke liye sabse popular brand hai. Inke shoes ka cushion (foam) kaafi soft hota hai jo beginners ke liye running aur walking mein accha comfort deta hai.\nBest for: Daily jogging, walking aur light gym workouts.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. Bata Power Running Shoes",
+        "original_text": "2. Bata Power Running Shoes",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Price Range:** ₹1,500 - ₹2,500 ke aas-paas\n* **Kyun kharidein:** Bata ka \"Power\" sub-brand specifically sports aur running ke liye design kiya jata hai. Inke shoes ki durability (mazbooti) kaafi achhi hoti hai aur yeh lambe samay tak chalte hain.\n* **Best for:** Regular road running aur durability ke liye.",
+        "original_text": "Price Range: ₹1,500 - ₹2,500 ke aas-paas\nKyun kharidein: Bata ka \"Power\" sub-brand specifically sports aur running ke liye design kiya jata hai. Inke shoes ki durability (mazbooti) kaafi achhi hoti hai aur yeh lambe samay tak chalte hain.\nBest for: Regular road running aur durability ke liye.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "### 3. Sparx Running Shoes (SM series)",
+        "original_text": "3. Sparx Running Shoes (SM series)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Price Range:** ₹1,000 - ₹1,800 ke aas-paas\n* **Kyun kharidein:** Sparx apne rugged aur value-for-money products ke liye jaana jaata hai. Inka grip aur sole kaafi sturdy hota hai, jo Indian roads par running ke liye ekdam sahi hai.\n* **Best for:** Budget-conscious runners jo heavy usage chahte hain.",
+        "original_text": "Price Range: ₹1,000 - ₹1,800 ke aas-paas\nKyun kharidein: Sparx apne rugged aur value-for-money products ke liye jaana jaata hai. Inka grip aur sole kaafi sturdy hota hai, jo Indian roads par running ke liye ekdam sahi hai.\nBest for: Budget-conscious runners jo heavy usage chahte hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### 4. Puma / Adidas (Entry-level Sale ya Discounts par)",
+        "original_text": "4. Puma / Adidas (Entry-level Sale ya Discounts par)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "* **Price Range:** ₹2,000 - ₹3,000 (Myntra, Flipkart, ya Ajio par sales ke dauran)\n* **Kyun kharidein:** Agar aap thoda wait karein ya online platforms par chal rahi sales check karein, toh Puma aur Adidas ke entry-level running shoes bhi ₹3,000 ke andar mil jaate hain. Inka build quality aur brand value kaafi accha hota hai.\n* **Best for:** Brand conscious buyers aur better cushioning ke liye.",
+        "original_text": "Price Range: ₹2,000 - ₹3,000 (Myntra, Flipkart, ya Ajio par sales ke dauran)\nKyun kharidein: Agar aap thoda wait karein ya online platforms par chal rahi sales check karein, toh Puma aur Adidas ke entry-level running shoes bhi ₹3,000 ke andar mil jaate hain. Inka build quality aur brand value kaafi accha hota hai.\nBest for: Brand conscious buyers aur better cushioning ke liye.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "### 💡 Kuch zaroori tips kharidne se pehle:",
+        "original_text": "💡 Kuch zaroori tips kharidne se pehle:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "1.  **Size ka dhyan rakhein:** Running shoes hamesha apne normal shoe size se **ek size bada (half size up)** lein, kyunki daudte waqt pair thode phoolte (swell hote hain) hain.\n2.  **Online vs Offline:** Agar aapko exact fitting chahiye toh kisi local store (Bata ya Campus showroom) par jaakar try kar sakte hain, ya phir online (Myntra/Amazon) par price compare karke kharid sakte hain kyunki online discounts acche mil jaate hain.",
+        "original_text": "Size ka dhyan rakhein: Running shoes hamesha apne normal shoe size se ek size bada (half size up) lein, kyunki daudte waqt pair thode phoolte (swell hote hain) hain.\nOnline vs Offline: Agar aapko exact fitting chahiye toh kisi local store (Bata ya Campus showroom) par jaakar try kar sakte hain, ya phir online (Myntra/Amazon) par price compare karke kharid sakte hain kyunki online discounts acche mil jaate hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "markdown": "Kya aapko kisi khaas brand ya online store (jaise Myntra ya Amazon) ke links/suggestions chahiye?",
+        "original_text": "Kya aapko kisi khaas brand ya online store (jaise Myntra ya Amazon) ke links/suggestions chahiye?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

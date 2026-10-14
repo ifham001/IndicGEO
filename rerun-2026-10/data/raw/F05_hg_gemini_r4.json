@@ -1,0 +1,200 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 4,
+  "promptText": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+  "cellId": "F05_hg_gemini_r4",
+  "startedAt": "2026-10-13T14:27:26.609Z",
+  "finishedAt": "2026-10-13T14:28:04.561Z",
+  "durationMs": 37952,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein shaadi ya festive functions ke liye budget mein sarees kharidne ke liye kai saare acche online platforms aur options available hain jo kam price mein heavy look wali sarees provide karte hain.\n\n### Best Online Platforms (Budget Ke Liye):\n\n1.  **Myntra & Nykaa Fashion:** Yahan par **Sangria, Kalini, aur Akhilam** jaise brands ki georgette, chiffon, aur semi-silk sarees par achhi discounts milti hain, jo ₹1,000 se ₹3,000 ke budget mein wedding wear look deti hain.\n2.  **Soch & Mohey:** Agar aapko traditional banarasi, organza, ya tissue fabrics mein thoda elegant aur branded look chahiye, toh inki online site par budget ranges aur festive sales milti hain.\n3.  **Meesho & Amazon:** Agar aapka budget bilkul tight hai (₹500 se ₹1,500 ke beech), toh yahan aapko heavy zari-woven lichi silk aur art silk sarees bohot options ke sath mil jayengi.\n\n---\n\n### Kuch Budget-Friendly Saree Options:\n\nYe Red Floral Woven Lichi Banarasi Silk Saree shaadi ki pooja ya small functions ke liye ek **traditional red look** deti hai.\n\nYe Powder Blue Zari Work Banarasi Silk Wedding Saree pastel shade pasand karne walon ke liye **soft silk fabric** aur rich zari border ke sath aati hai.\n\nYe Indian Wedding Wear Saree georgette fabric mein hai jo pehenne mein **lightweight aur carry karne mein aasaan** hoti hai.\n\nYe Elegant Wedding Saree Collection chiffon fabric par **zari woven patterns** ke sath milti hai jo budget-friendly mein grand look deti hai.\n\nYe Vichitra Silk Saree with Rose Gold Zari & Stone Work bottle green color mein **rose gold zari aur stone detailing** ke sath aati hai jo evening functions ke liye perfect hai.\n\nYe Kerala Set Saree with Golden Zari Weave ek net tissue fabric saree hai jo **golden zari weave** ke sath traditional aur ethnic function ke liye best hai.\n\nYe Wedding Kanjeevaram Silk Saree banarasi silk fabric aur **running unstitched blouse** ke sath ek heavy bridal appearance deti hai.\n\nYe Premium Traditional Zari Border Wedding Saree art silk material par **traditional zari border** ke sath aati hai jo budget mein ek rich look deti hai.\n\nYe C J Enterprise Women's Pure Soft Silk Saree With Blouse Piece For Wedding soft silk fabric mein bani hai jo **comfortable drape** aur festive appeal deti hai.\n\nYe Buy Semi Georgette Foil Print Brocade Saree at Just ₹399 semi georgette fabric aur **foil print brocade design** ke sath parties ke liye ek budget option hai.\n\n---\n\nAgar aapko kisi specific color (jaise Red, Pink ya Pastel shades) ya kisi khaas function (jaise Sangeet ya Haldi) ke liye saree dhundhni ho, toh batayein, main uske hisaab se options shortlist kar deta hoon.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "37.7436 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131427-2163-0629-0000-4dc64055883e",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "37.6066 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:28:06 +00:00",
+      "markdown": "India mein shaadi ya festive functions ke liye budget mein sarees kharidne ke liye kai saare acche online platforms aur options available hain jo kam price mein heavy look wali sarees provide karte hain.\n\n### Best Online Platforms (Budget Ke Liye):\n\n1.  **Myntra & Nykaa Fashion:** Yahan par **Sangria, Kalini, aur Akhilam** jaise brands ki georgette, chiffon, aur semi-silk sarees par achhi discounts milti hain, jo ₹1,000 se ₹3,000 ke budget mein wedding wear look deti hain.\n2.  **Soch & Mohey:** Agar aapko traditional banarasi, organza, ya tissue fabrics mein thoda elegant aur branded look chahiye, toh inki online site par budget ranges aur festive sales milti hain.\n3.  **Meesho & Amazon:** Agar aapka budget bilkul tight hai (₹500 se ₹1,500 ke beech), toh yahan aapko heavy zari-woven lichi silk aur art silk sarees bohot options ke sath mil jayengi.\n\n---\n\n### Kuch Budget-Friendly Saree Options:\n\nYe Red Floral Woven Lichi Banarasi Silk Saree shaadi ki pooja ya small functions ke liye ek **traditional red look** deti hai.\n\nYe Powder Blue Zari Work Banarasi Silk Wedding Saree pastel shade pasand karne walon ke liye **soft silk fabric** aur rich zari border ke sath aati hai.\n\nYe Indian Wedding Wear Saree georgette fabric mein hai jo pehenne mein **lightweight aur carry karne mein aasaan** hoti hai.\n\nYe Elegant Wedding Saree Collection chiffon fabric par **zari woven patterns** ke sath milti hai jo budget-friendly mein grand look deti hai.\n\nYe Vichitra Silk Saree with Rose Gold Zari & Stone Work bottle green color mein **rose gold zari aur stone detailing** ke sath aati hai jo evening functions ke liye perfect hai.\n\nYe Kerala Set Saree with Golden Zari Weave ek net tissue fabric saree hai jo **golden zari weave** ke sath traditional aur ethnic function ke liye best hai.\n\nYe Wedding Kanjeevaram Silk Saree banarasi silk fabric aur **running unstitched blouse** ke sath ek heavy bridal appearance deti hai.\n\nYe Premium Traditional Zari Border Wedding Saree art silk material par **traditional zari border** ke sath aati hai jo budget mein ek rich look deti hai.\n\nYe C J Enterprise Women's Pure Soft Silk Saree With Blouse Piece For Wedding soft silk fabric mein bani hai jo **comfortable drape** aur festive appeal deti hai.\n\nYe Buy Semi Georgette Foil Print Brocade Saree at Just ₹399 semi georgette fabric aur **foil print brocade design** ke sath parties ke liye ek budget option hai.\n\n---\n\nAgar aapko kisi specific color (jaise Red, Pink ya Pastel shades) ya kisi khaas function (jaise Sangeet ya Haldi) ke liye saree dhundhni ho, toh batayein, main uske hisaab se options shortlist kar deta hoon.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 15,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein shaadi ya festive functions ke liye budget mein sarees kharidne ke liye kai saare acche online platforms aur options available hain jo kam price mein heavy look wali sarees provide karte hain.",
+        "original_text": "India mein shaadi ya festive functions ke liye budget mein sarees kharidne ke liye kai saare acche online platforms aur options available hain jo kam price mein heavy look wali sarees provide karte hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### Best Online Platforms (Budget Ke Liye):",
+        "original_text": "Best Online Platforms (Budget Ke Liye):",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "1.  **Myntra & Nykaa Fashion:** Yahan par **Sangria, Kalini, aur Akhilam** jaise brands ki georgette, chiffon, aur semi-silk sarees par achhi discounts milti hain, jo ₹1,000 se ₹3,000 ke budget mein wedding wear look deti hain.\n2.  **Soch & Mohey:** Agar aapko traditional banarasi, organza, ya tissue fabrics mein thoda elegant aur branded look chahiye, toh inki online site par budget ranges aur festive sales milti hain.\n3.  **Meesho & Amazon:** Agar aapka budget bilkul tight hai (₹500 se ₹1,500 ke beech), toh yahan aapko heavy zari-woven lichi silk aur art silk sarees bohot options ke sath mil jayengi.",
+        "original_text": "Myntra & Nykaa Fashion: Yahan par Sangria, Kalini, aur Akhilam jaise brands ki georgette, chiffon, aur semi-silk sarees par achhi discounts milti hain, jo ₹1,000 se ₹3,000 ke budget mein wedding wear look deti hain.\nSoch & Mohey: Agar aapko traditional banarasi, organza, ya tissue fabrics mein thoda elegant aur branded look chahiye, toh inki online site par budget ranges aur festive sales milti hain.\nMeesho & Amazon: Agar aapka budget bilkul tight hai (₹500 se ₹1,500 ke beech), toh yahan aapko heavy zari-woven lichi silk aur art silk sarees bohot options ke sath mil jayengi.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### Kuch Budget-Friendly Saree Options:",
+        "original_text": "Kuch Budget-Friendly Saree Options:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "Ye Red Floral Woven Lichi Banarasi Silk Saree shaadi ki pooja ya small functions ke liye ek **traditional red look** deti hai.",
+        "original_text": "Ye Red Floral Woven Lichi Banarasi Silk Saree shaadi ki pooja ya small functions ke liye ek traditional red look deti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "Ye Powder Blue Zari Work Banarasi Silk Wedding Saree pastel shade pasand karne walon ke liye **soft silk fabric** aur rich zari border ke sath aati hai.",
+        "original_text": "Ye Powder Blue Zari Work Banarasi Silk Wedding Saree pastel shade pasand karne walon ke liye soft silk fabric aur rich zari border ke sath aati hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "Ye Indian Wedding Wear Saree georgette fabric mein hai jo pehenne mein **lightweight aur carry karne mein aasaan** hoti hai.",
+        "original_text": "Ye Indian Wedding Wear Saree georgette fabric mein hai jo pehenne mein lightweight aur carry karne mein aasaan hoti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "Ye Elegant Wedding Saree Collection chiffon fabric par **zari woven patterns** ke sath milti hai jo budget-friendly mein grand look deti hai.",
+        "original_text": "Ye Elegant Wedding Saree Collection chiffon fabric par zari woven patterns ke sath milti hai jo budget-friendly mein grand look deti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "Ye Vichitra Silk Saree with Rose Gold Zari & Stone Work bottle green color mein **rose gold zari aur stone detailing** ke sath aati hai jo evening functions ke liye perfect hai.",
+        "original_text": "Ye Vichitra Silk Saree with Rose Gold Zari & Stone Work bottle green color mein rose gold zari aur stone detailing ke sath aati hai jo evening functions ke liye perfect hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "Ye Kerala Set Saree with Golden Zari Weave ek net tissue fabric saree hai jo **golden zari weave** ke sath traditional aur ethnic function ke liye best hai.",
+        "original_text": "Ye Kerala Set Saree with Golden Zari Weave ek net tissue fabric saree hai jo golden zari weave ke sath traditional aur ethnic function ke liye best hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "Ye Wedding Kanjeevaram Silk Saree banarasi silk fabric aur **running unstitched blouse** ke sath ek heavy bridal appearance deti hai.",
+        "original_text": "Ye Wedding Kanjeevaram Silk Saree banarasi silk fabric aur running unstitched blouse ke sath ek heavy bridal appearance deti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "Ye Premium Traditional Zari Border Wedding Saree art silk material par **traditional zari border** ke sath aati hai jo budget mein ek rich look deti hai.",
+        "original_text": "Ye Premium Traditional Zari Border Wedding Saree art silk material par traditional zari border ke sath aati hai jo budget mein ek rich look deti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "markdown": "Ye C J Enterprise Women's Pure Soft Silk Saree With Blouse Piece For Wedding soft silk fabric mein bani hai jo **comfortable drape** aur festive appeal deti hai.",
+        "original_text": "Ye C J Enterprise Women's Pure Soft Silk Saree With Blouse Piece For Wedding soft silk fabric mein bani hai jo comfortable drape aur festive appeal deti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 14,
+        "rank_absolute": 14,
+        "markdown": "Ye Buy Semi Georgette Foil Print Brocade Saree at Just ₹399 semi georgette fabric aur **foil print brocade design** ke sath parties ke liye ek budget option hai.",
+        "original_text": "Ye Buy Semi Georgette Foil Print Brocade Saree at Just ₹399 semi georgette fabric aur foil print brocade design ke sath parties ke liye ek budget option hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 15,
+        "rank_absolute": 15,
+        "markdown": "Agar aapko kisi specific color (jaise Red, Pink ya Pastel shades) ya kisi khaas function (jaise Sangeet ya Haldi) ke liye saree dhundhni ho, toh batayein, main uske hisaab se options shortlist kar deta hoon.",
+        "original_text": "Agar aapko kisi specific color (jaise Red, Pink ya Pastel shades) ya kisi khaas function (jaise Sangeet ya Haldi) ke liye saree dhundhni ho, toh batayein, main uske hisaab se options shortlist kar deta hoon.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

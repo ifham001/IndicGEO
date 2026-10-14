@@ -1,0 +1,285 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 7,
+  "promptText": "Which brand's jeans should I buy for men in India under ₹2000?",
+  "cellId": "F01_en_gemini_r7",
+  "startedAt": "2026-10-13T13:20:14.488Z",
+  "finishedAt": "2026-10-13T13:20:48.268Z",
+  "durationMs": 33780,
+  "attempt": 3,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T13:16:13.054Z",
+    "error": "This operation was aborted"
+   },
+   {
+    "attempt": 2,
+    "startedAt": "2026-10-13T13:18:03.632Z",
+    "error": "This operation was aborted"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Several popular denim brands in India offer great options under ₹2000, balancing trendy fits, durability, and comfort.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you're%20dressing%20for%20a%20casual%20day,to%20offer%20for%20every%20wardrobe%20and%20occasion.)\n\n### Popular Brands to Explore Under ₹2000\n\n* **U.S. Polo Assn. / U.S. Polo Assn. Denim Co.:** Frequently available on platforms like Tata CLiQ and Myntra within the ₹1,400–₹1,800 range, offering great stretch, refined washes, and reliable everyday comfort.\n* **H&M:** Known for clean urban styling and relaxed fits, with select core denim models priced close to ₹1,400.\n* **The Indian Garage Co. & Highlander:** Highly budget-friendly D2C and online staples typically priced between ₹500 and ₹1,100, offering massive variety in slim, straight, and distressed fits.\n* **Levi's, Pepe Jeans, and Wrangler:** While premium lines cross ₹2,000, you can frequently find entry-level slim, regular, and tapered fits on sale through online marketplaces like Ajio, Myntra, and Flipkart.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20it's%20distressed%2C%20faded%2C%20or%20clean-cut%2C%20Pepe,on%20TATA%20CLiQ%20Luxury%20with%20magicpin%20Vouchers!)\n\n---\n\n### Featured Options\n\nThis pair offers a modern **slim-tapered silhouette** with a hint of stretch for easy daily movement.\n\nA versatile **cotton blend** construction providing a relaxed yet tailored look for casual outings.\n\nA classic **straight-leg fit** crafted from rigid cotton denim with extra room through the thigh.\n\nDesigned with a **regular fit** and minor elastane blend to ensure superior everyday comfort.\n\nA sleek **skinny-fit option** featuring subtle whiskered detailing for a sharp, body-conscious look.\n\nAn extremely **cost-effective straight fit** ideal for relaxed daily wear.\n\nFeatures a bold **acid wash finish** for an edgy, casual aesthetic.\n\nCombines an **heavily washed aesthetic** with a form-flattering slim profile.\n\nA dark-wash **skinny fit** that pairs easily with casual shirts and sneakers.\n\nA solid **navy staple** built with breathable cotton for clean, smart-casual versatility.\n\n---\n\n### Recommendation\n\nIf you prefer a balance of durability, brand reliability, and stretch comfort, go with a **U.S. Polo Assn. slim or tapered fit**. If you are looking to maximize savings under ₹1,000, **The Indian Garage Co.** offers the widest variety of trendy washes.\n\nIf you like, I can pull together specific wash and size availability for these options based on your preferred fit (slim, straight, or skinny). Do you want me to do that?",
+  "citations": [
+   {
+    "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you're%20dressing%20for%20a%20casual%20day,to%20offer%20for%20every%20wardrobe%20and%20occasion.",
+    "source_name": "magicpin",
+    "position": 1
+   },
+   {
+    "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20it's%20distressed%2C%20faded%2C%20or%20clean-cut%2C%20Pepe,on%20TATA%20CLiQ%20Luxury%20with%20magicpin%20Vouchers!",
+    "source_name": "magicpin",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "33.0435 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131320-2163-0629-0000-f4a2f54825b5",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "32.9005 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Which brand's jeans should I buy for men in India under ₹2000?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which brand's jeans should I buy for men in India under ₹2000?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:20:47 +00:00",
+      "markdown": "Several popular denim brands in India offer great options under ₹2000, balancing trendy fits, durability, and comfort.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you're%20dressing%20for%20a%20casual%20day,to%20offer%20for%20every%20wardrobe%20and%20occasion.)\n\n### Popular Brands to Explore Under ₹2000\n\n* **U.S. Polo Assn. / U.S. Polo Assn. Denim Co.:** Frequently available on platforms like Tata CLiQ and Myntra within the ₹1,400–₹1,800 range, offering great stretch, refined washes, and reliable everyday comfort.\n* **H&M:** Known for clean urban styling and relaxed fits, with select core denim models priced close to ₹1,400.\n* **The Indian Garage Co. & Highlander:** Highly budget-friendly D2C and online staples typically priced between ₹500 and ₹1,100, offering massive variety in slim, straight, and distressed fits.\n* **Levi's, Pepe Jeans, and Wrangler:** While premium lines cross ₹2,000, you can frequently find entry-level slim, regular, and tapered fits on sale through online marketplaces like Ajio, Myntra, and Flipkart.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20it's%20distressed%2C%20faded%2C%20or%20clean-cut%2C%20Pepe,on%20TATA%20CLiQ%20Luxury%20with%20magicpin%20Vouchers!)\n\n---\n\n### Featured Options\n\nThis pair offers a modern **slim-tapered silhouette** with a hint of stretch for easy daily movement.\n\nA versatile **cotton blend** construction providing a relaxed yet tailored look for casual outings.\n\nA classic **straight-leg fit** crafted from rigid cotton denim with extra room through the thigh.\n\nDesigned with a **regular fit** and minor elastane blend to ensure superior everyday comfort.\n\nA sleek **skinny-fit option** featuring subtle whiskered detailing for a sharp, body-conscious look.\n\nAn extremely **cost-effective straight fit** ideal for relaxed daily wear.\n\nFeatures a bold **acid wash finish** for an edgy, casual aesthetic.\n\nCombines an **heavily washed aesthetic** with a form-flattering slim profile.\n\nA dark-wash **skinny fit** that pairs easily with casual shirts and sneakers.\n\nA solid **navy staple** built with breathable cotton for clean, smart-casual versatility.\n\n---\n\n### Recommendation\n\nIf you prefer a balance of durability, brand reliability, and stretch comfort, go with a **U.S. Polo Assn. slim or tapered fit**. If you are looking to maximize savings under ₹1,000, **The Indian Garage Co.** offers the widest variety of trendy washes.\n\nIf you like, I can pull together specific wash and size availability for these options based on your preferred fit (slim, straight, or skinny). Do you want me to do that?",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+        "snippet": "Whether you're dressing for a casual day out or a laid-back evening, \nRoadster jeans are designed to keep you looking stylish without breaking \nthe bank. Overall,...",
+        "domain": "magicpin.in",
+        "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you're%20dressing%20for%20a%20casual%20day,to%20offer%20for%20every%20wardrobe%20and%20occasion.",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+        "source_name": "magicpin",
+        "publication_date": null,
+        "markdown": "Several popular denim brands in India offer great options under ₹2000, balancing trendy fits, durability, and comfort."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+        "snippet": "Whether it's distressed, faded, or clean-cut, Pepe Jeans has it all. Price: \nRs. 1800 - Rs. 2000. Save up to 50% on Myntra with magicpin Vouchers! * 4. \nWrangler:...",
+        "domain": "magicpin.in",
+        "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20it's%20distressed%2C%20faded%2C%20or%20clean-cut%2C%20Pepe,on%20TATA%20CLiQ%20Luxury%20with%20magicpin%20Vouchers!",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+        "source_name": "magicpin",
+        "publication_date": null,
+        "markdown": "While premium lines cross ₹2,000, you can frequently find entry-level slim, regular, and tapered fits on sale through online marketplaces like Ajio, Myntra, and Flipkart."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 17,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Several popular denim brands in India offer great options under ₹2000, balancing trendy fits, durability, and comfort.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you're%20dressing%20for%20a%20casual%20day,to%20offer%20for%20every%20wardrobe%20and%20occasion.)",
+        "original_text": "Several popular denim brands in India offer great options under ₹2000, balancing trendy fits, durability, and comfort.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+          "snippet": "Whether you're dressing for a casual day out or a laid-back evening, \nRoadster jeans are designed to keep you looking stylish without breaking \nthe bank. Overall,...",
+          "domain": "magicpin.in",
+          "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you're%20dressing%20for%20a%20casual%20day,to%20offer%20for%20every%20wardrobe%20and%20occasion.",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+          "source_name": "magicpin",
+          "publication_date": null,
+          "markdown": "Several popular denim brands in India offer great options under ₹2000, balancing trendy fits, durability, and comfort."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### Popular Brands to Explore Under ₹2000",
+        "original_text": "Popular Brands to Explore Under ₹2000",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **U.S. Polo Assn. / U.S. Polo Assn. Denim Co.:** Frequently available on platforms like Tata CLiQ and Myntra within the ₹1,400–₹1,800 range, offering great stretch, refined washes, and reliable everyday comfort.\n* **H&M:** Known for clean urban styling and relaxed fits, with select core denim models priced close to ₹1,400.\n* **The Indian Garage Co. & Highlander:** Highly budget-friendly D2C and online staples typically priced between ₹500 and ₹1,100, offering massive variety in slim, straight, and distressed fits.\n* **Levi's, Pepe Jeans, and Wrangler:** While premium lines cross ₹2,000, you can frequently find entry-level slim, regular, and tapered fits on sale through online marketplaces like Ajio, Myntra, and Flipkart.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20it's%20distressed%2C%20faded%2C%20or%20clean-cut%2C%20Pepe,on%20TATA%20CLiQ%20Luxury%20with%20magicpin%20Vouchers!)",
+        "original_text": "U.S. Polo Assn. / U.S. Polo Assn. Denim Co.: Frequently available on platforms like Tata CLiQ and Myntra within the ₹1,400–₹1,800 range, offering great stretch, refined washes, and reliable everyday comfort.\nH&M: Known for clean urban styling and relaxed fits, with select core denim models priced close to ₹1,400.\nThe Indian Garage Co. & Highlander: Highly budget-friendly D2C and online staples typically priced between ₹500 and ₹1,100, offering massive variety in slim, straight, and distressed fits.\nLevi's, Pepe Jeans, and Wrangler: While premium lines cross ₹2,000, you can frequently find entry-level slim, regular, and tapered fits on sale through online marketplaces like Ajio, Myntra, and Flipkart.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+          "snippet": "Whether it's distressed, faded, or clean-cut, Pepe Jeans has it all. Price: \nRs. 1800 - Rs. 2000. Save up to 50% on Myntra with magicpin Vouchers! * 4. \nWrangler:...",
+          "domain": "magicpin.in",
+          "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20it's%20distressed%2C%20faded%2C%20or%20clean-cut%2C%20Pepe,on%20TATA%20CLiQ%20Luxury%20with%20magicpin%20Vouchers!",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+          "source_name": "magicpin",
+          "publication_date": null,
+          "markdown": "While premium lines cross ₹2,000, you can frequently find entry-level slim, regular, and tapered fits on sale through online marketplaces like Ajio, Myntra, and Flipkart."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### Featured Options",
+        "original_text": "Featured Options",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "This pair offers a modern **slim-tapered silhouette** with a hint of stretch for easy daily movement.",
+        "original_text": "This pair offers a modern slim-tapered silhouette with a hint of stretch for easy daily movement.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "A versatile **cotton blend** construction providing a relaxed yet tailored look for casual outings.",
+        "original_text": "A versatile cotton blend construction providing a relaxed yet tailored look for casual outings.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "A classic **straight-leg fit** crafted from rigid cotton denim with extra room through the thigh.",
+        "original_text": "A classic straight-leg fit crafted from rigid cotton denim with extra room through the thigh.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "Designed with a **regular fit** and minor elastane blend to ensure superior everyday comfort.",
+        "original_text": "Designed with a regular fit and minor elastane blend to ensure superior everyday comfort.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "A sleek **skinny-fit option** featuring subtle whiskered detailing for a sharp, body-conscious look.",
+        "original_text": "A sleek skinny-fit option featuring subtle whiskered detailing for a sharp, body-conscious look.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "An extremely **cost-effective straight fit** ideal for relaxed daily wear.",
+        "original_text": "An extremely cost-effective straight fit ideal for relaxed daily wear.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "Features a bold **acid wash finish** for an edgy, casual aesthetic.",
+        "original_text": "Features a bold acid wash finish for an edgy, casual aesthetic.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "Combines an **heavily washed aesthetic** with a form-flattering slim profile.",
+        "original_text": "Combines an heavily washed aesthetic with a form-flattering slim profile.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "markdown": "A dark-wash **skinny fit** that pairs easily with casual shirts and sneakers.",
+        "original_text": "A dark-wash skinny fit that pairs easily with casual shirts and sneakers.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 14,
+        "rank_absolute": 14,
+        "markdown": "A solid **navy staple** built with breathable cotton for clean, smart-casual versatility.",
+        "original_text": "A solid navy staple built with breathable cotton for clean, smart-casual versatility.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 15,
+        "rank_absolute": 15,
+        "markdown": "### Recommendation",
+        "original_text": "Recommendation",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 16,
+        "rank_absolute": 16,
+        "markdown": "If you prefer a balance of durability, brand reliability, and stretch comfort, go with a **U.S. Polo Assn. slim or tapered fit**. If you are looking to maximize savings under ₹1,000, **The Indian Garage Co.** offers the widest variety of trendy washes.",
+        "original_text": "If you prefer a balance of durability, brand reliability, and stretch comfort, go with a U.S. Polo Assn. slim or tapered fit. If you are looking to maximize savings under ₹1,000, The Indian Garage Co. offers the widest variety of trendy washes.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 17,
+        "rank_absolute": 17,
+        "markdown": "If you like, I can pull together specific wash and size availability for these options based on your preferred fit (slim, straight, or skinny). Do you want me to do that?",
+        "original_text": "If you like, I can pull together specific wash and size availability for these options based on your preferred fit (slim, straight, or skinny). Do you want me to do that?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

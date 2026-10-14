@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F03",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "perplexity",
+  "rep": 6,
+  "promptText": "Which brand's kurta sets should I buy for women online in India?",
+  "cellId": "F03_en_perplexity_r6",
+  "startedAt": "2026-10-13T13:52:26.035Z",
+  "finishedAt": "2026-10-13T13:52:30.041Z",
+  "durationMs": 4006,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "For women’s kurta sets in India, **Libas** is the safest overall pick: it offers versatile sets in varied fabrics and styles for everyday, office, and festive wear.[5]\n\nOther good choices by need:\n\n- **Biba** – polished, traditional designs for office and festive occasions; it is widely listed alongside Libas, W for Woman, and Aurelia on major marketplaces.[2]\n- **Aurelia** – contemporary, work-friendly kurta-pant sets with clean silhouettes.[2]\n- **W for Woman** – smart, modern ethnic wear, especially for office wardrobes.[2]\n- **Indo Era** – affordable printed, embroidered, and dupatta-inclusive sets; available styles include linen-look, straight, and A-line sets.[9]\n- **Tavasya** – budget cotton sets, including kurta, straight pants, and dupatta combinations.[4]\n- **Meesho marketplace brands** – best for low prices and extended sizing, with listings from XS through 6XL, but check seller ratings and reviews carefully.[6]\n\n**Quick recommendation:** Buy **Libas** for the best balance of design and reliability; choose **Biba or Aurelia** for a more polished wardrobe, and **Indo Era or Tavasya** for affordable everyday wear. Check the fabric, size chart, return policy, and customer photos before ordering.",
+  "citations": [
+   {
+    "url": "https://www.amazon.in/kurta-sets-for-women/s?k=kurta+sets+for+women",
+    "position": 1
+   },
+   {
+    "url": "https://1.www.flipkart.com/womens-ethnic-sets/pr?sid=clo,cfv,itg,tys",
+    "position": 2
+   },
+   {
+    "url": "https://www.flipkart.com/q/kurta-pant-set",
+    "position": 3
+   },
+   {
+    "url": "https://www.amazon.in/cotton-kurta-for-women/s?k=cotton+kurta+set+for+women",
+    "position": 4
+   },
+   {
+    "url": "https://www.libas.in/collections/kurta-sets",
+    "position": 5
+   },
+   {
+    "url": "https://www.meesho.com/kurta-sets-women/pl/3k9",
+    "position": 6
+   },
+   {
+    "url": "https://www.flipkart.com/womens-ethnic-sets/kurta-and-patiala-set~type/pr?sid=clo,cfv,itg,tys",
+    "position": 7
+   },
+   {
+    "url": "https://www.flipkart.com/q/kurta-sets",
+    "position": 8
+   },
+   {
+    "url": "https://www.zepto.com/buy-kurta-sets",
+    "position": 9
+   },
+   {
+    "url": "https://1.www.flipkart.com/q/kurta-pant-set",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.005319
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.7770 sec.",
+  "cost": 0.005919,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131352-2163-0612-0000-37dd3cacb112",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.7703 sec.",
+    "cost": 0.005919,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "Which brand's kurta sets should I buy for women online in India?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 22,
+      "output_tokens": 297,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005319,
+      "datetime": "2026-10-13 13:52:32 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "For women’s kurta sets in India, **Libas** is the safest overall pick: it offers versatile sets in varied fabrics and styles for everyday, office, and festive wear.[5]\n\nOther good choices by need:\n\n- **Biba** – polished, traditional designs for office and festive occasions; it is widely listed alongside Libas, W for Woman, and Aurelia on major marketplaces.[2]\n- **Aurelia** – contemporary, work-friendly kurta-pant sets with clean silhouettes.[2]\n- **W for Woman** – smart, modern ethnic wear, especially for office wardrobes.[2]\n- **Indo Era** – affordable printed, embroidered, and dupatta-inclusive sets; available styles include linen-look, straight, and A-line sets.[9]\n- **Tavasya** – budget cotton sets, including kurta, straight pants, and dupatta combinations.[4]\n- **Meesho marketplace brands** – best for low prices and extended sizing, with listings from XS through 6XL, but check seller ratings and reviews carefully.[6]\n\n**Quick recommendation:** Buy **Libas** for the best balance of design and reliability; choose **Biba or Aurelia** for a more polished wardrobe, and **Indo Era or Tavasya** for affordable everyday wear. Check the fabric, size chart, return policy, and customer photos before ordering.",
+          "annotations": [
+           {
+            "title": "www.amazon.in › kurta-sets-for-women › sAmazon.in: Kurta Sets For Women",
+            "url": "https://www.amazon.in/kurta-sets-for-women/s?k=kurta+sets+for+women",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Kurta Sets for Women - Buy Ethnic Sets Online | Flipkart",
+            "url": "https://1.www.flipkart.com/womens-ethnic-sets/pr?sid=clo,cfv,itg,tys",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.flipkart.com › q › kurta-pant-setKurta Pant Set - Buy Kurta Pant Set online at Best Prices in ...",
+            "url": "https://www.flipkart.com/q/kurta-pant-set",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "1-48 of over 30,000 results for \"cotton kurta set for women\" Sort by: Featured Price: Low to High Price: High to Low Avg. Customer Review Newest Arrivals Sort by:Featured Go",
+            "url": "https://www.amazon.in/cotton-kurta-for-women/s?k=cotton+kurta+set+for+women",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Kurta Set For Women",
+            "url": "https://www.libas.in/collections/kurta-sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "All Kurta Sets",
+            "url": "https://www.meesho.com/kurta-sets-women/pl/3k9",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Kurta And Patiala Set Womens Ethnic Sets",
+            "url": "https://www.flipkart.com/womens-ethnic-sets/kurta-and-patiala-set~type/pr?sid=clo,cfv,itg,tys",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.flipkart.com › q › kurta-setsKurta Sets - Buy Kurta Sets online at Best Prices in India ...",
+            "url": "https://www.flipkart.com/q/kurta-sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Kurta Sets",
+            "url": "https://www.zepto.com/buy-kurta-sets",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Kurta Pant Set - Buy Kurta Pant Set online at Best Prices in India | Flipkart.com",
+            "url": "https://1.www.flipkart.com/q/kurta-pant-set",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

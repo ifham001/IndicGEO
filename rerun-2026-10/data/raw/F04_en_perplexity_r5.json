@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F04",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "perplexity",
+  "rep": 5,
+  "promptText": "Which brand's formal shirts should I buy for men in India?",
+  "cellId": "F04_en_perplexity_r5",
+  "startedAt": "2026-10-13T14:30:35.531Z",
+  "finishedAt": "2026-10-13T14:30:39.869Z",
+  "durationMs": 4338,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "For men’s formal shirts in India, **Arrow** is the best all-round choice for office wear. Its shirts generally offer a professional fit, reliable fabrics, and frequent discounts.[1][2]\n\n- **Best overall:** **Arrow** — polished, versatile, and suitable for daily office wear.\n- **Premium choice:** **Louis Philippe** — refined styling and better suited to senior-professional or formal occasions.[2][3]\n- **Good mid-range option:** **Van Heusen** — dependable office shirts with many fits and easy-care options.[1]\n- **Budget-friendly:** **Peter England** — good value for regular workwear.[2]\n- **Traditional Indian formalwear:** **Blackberrys** or **Turtle** — useful if you prefer sharper, more tailored styles.[1]\n- **Premium international alternative:** **Marks & Spencer** — strong choice for classic business shirts and comfortable fabrics.[8]\n\n**Recommended purchase:** Start with two or three **Arrow or Van Heusen** shirts in white, light blue, and pale grey. Choose a regular or slim fit based on your build, preferably in cotton or cotton-blend fabric with wrinkle resistance.",
+  "citations": [
+   {
+    "url": "https://www.flipkart.com/mens-formal-shirts/pr?sid=clo,ash,axc,mmk,bk1",
+    "position": 1
+   },
+   {
+    "url": "https://www.grabon.in/indulge/shopping-tips/best-shirts-brands-india-men/",
+    "position": 2
+   },
+   {
+    "url": "https://www.globalbrandsmagazine.com/top-10-shirt-brands-in-india/",
+    "position": 3
+   },
+   {
+    "url": "https://www.amazon.in/shirts-formal/s?k=shirts+formal+shirts",
+    "position": 4
+   },
+   {
+    "url": "https://www.flipkart.com/mens-shirts/pr?sid=clo,ash,axc,mmk",
+    "position": 5
+   },
+   {
+    "url": "https://www.thecollective.in/c/men-formal-shirts",
+    "position": 6
+   },
+   {
+    "url": "https://www.flipkart.com/q/mens-formal-wear",
+    "position": 7
+   },
+   {
+    "url": "https://www.marksandspencer.in/l/men/formal-shirts/",
+    "position": 8
+   },
+   {
+    "url": "https://1.www.flipkart.com/mens-clothing/shirts/pr?sid=2oq,s9b,mg4",
+    "position": 9
+   },
+   {
+    "url": "https://www.flipkart.com/mens-formal-shirts/slim~fit/pr?sid=clo,ash,axc,mmk,bk1",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.005267
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.2481 sec.",
+  "cost": 0.005867,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131430-2163-0612-0000-8b0e35b34639",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.1879 sec.",
+    "cost": 0.005867,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "Which brand's formal shirts should I buy for men in India?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 20,
+      "output_tokens": 247,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005267,
+      "datetime": "2026-10-13 14:30:41 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "For men’s formal shirts in India, **Arrow** is the best all-round choice for office wear. Its shirts generally offer a professional fit, reliable fabrics, and frequent discounts.[1][2]\n\n- **Best overall:** **Arrow** — polished, versatile, and suitable for daily office wear.\n- **Premium choice:** **Louis Philippe** — refined styling and better suited to senior-professional or formal occasions.[2][3]\n- **Good mid-range option:** **Van Heusen** — dependable office shirts with many fits and easy-care options.[1]\n- **Budget-friendly:** **Peter England** — good value for regular workwear.[2]\n- **Traditional Indian formalwear:** **Blackberrys** or **Turtle** — useful if you prefer sharper, more tailored styles.[1]\n- **Premium international alternative:** **Marks & Spencer** — strong choice for classic business shirts and comfortable fabrics.[8]\n\n**Recommended purchase:** Start with two or three **Arrow or Van Heusen** shirts in white, light blue, and pale grey. Choose a regular or slim fit based on your build, preferably in cotton or cotton-blend fabric with wrinkle resistance.",
+          "annotations": [
+           {
+            "title": "Formal Shirts For Men Online at Best Prices in India",
+            "url": "https://www.flipkart.com/mens-formal-shirts/pr?sid=clo,ash,axc,mmk,bk1",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.grabon.in › best-shirts-brands-india-men24 Best Shirt Brands for Men in India (2026 Edition) - GrabOn",
+            "url": "https://www.grabon.in/indulge/shopping-tips/best-shirts-brands-india-men/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "4. Peter England -- Best...",
+            "url": "https://www.globalbrandsmagazine.com/top-10-shirt-brands-in-india/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › shirts-formal › sAmazon.in: Shirts Formal Shirts",
+            "url": "https://www.amazon.in/shirts-formal/s?k=shirts+formal+shirts",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Men's Shirts Online at Best Prices",
+            "url": "https://www.flipkart.com/mens-shirts/pr?sid=clo,ash,axc,mmk",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Formal Shirts",
+            "url": "https://www.thecollective.in/c/men-formal-shirts",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.flipkart.com › q › mens-formal-wearFormal Clothes for Men Online - Flipkart",
+            "url": "https://www.flipkart.com/q/mens-formal-wear",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Formal Shirts",
+            "url": "https://www.marksandspencer.in/l/men/formal-shirts/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shirts (शर्ट) - Buy Shirts For Men online at Best Prices in India | Flipkart.com",
+            "url": "https://1.www.flipkart.com/mens-clothing/shirts/pr?sid=2oq,s9b,mg4",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Slim Formal Shirts - Flipkart",
+            "url": "https://www.flipkart.com/mens-formal-shirts/slim~fit/pr?sid=clo,ash,axc,mmk,bk1",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

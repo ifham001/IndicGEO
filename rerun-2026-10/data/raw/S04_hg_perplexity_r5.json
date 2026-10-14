@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S04",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "perplexity",
+  "rep": 5,
+  "promptText": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+  "cellId": "S04_hg_perplexity_r5",
+  "startedAt": "2026-10-13T14:29:19.839Z",
+  "finishedAt": "2026-10-13T14:29:24.277Z",
+  "durationMs": 4438,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Indian winters mein **dry skin ke liye cream-based, fragrance-free moisturizer** kharidein—gel nahi. Ingredients list mein **ceramides, glycerin, hyaluronic acid, shea butter ya panthenol** dekhein; ye skin barrier ko support karke moisture lock karte hain.[2][4]\n\n**Achhe options:**\n- **CeraVe Moisturising Cream** — bahut dry ya flaky skin ke liye  \n- **Cetaphil DAM / Moisturising Cream** — dry aur sensitive skin ke liye  \n- **Bioderma Atoderm Creme** — tightness aur roughness ke liye  \n- **Venusia Max Cream** — budget-friendly rich cream  \n- **Re’equil Ceramide & Hyaluronic Acid Moisturiser** — barrier repair ke liye  \n\n**Kaise lagayein:** Face wash ke turant baad, skin halki damp ho tab moisturizer lagayein; subah aur raat dono. Bahut zyada dryness ho to raat mein dry patches par moisturizer ke upar petroleum jelly ki patli layer laga sakte hain.[4][9]\n\nAgar acne-prone skin hai, to label par **“non-comedogenic”** dekhein; jalan, redness ya persistent itching ho to dermatologist se consult karein.",
+  "citations": [
+   {
+    "url": "https://www.amazon.in/best-winter-moisturizer-for-dry-skin/s?k=best+winter+moisturizer+for+dry+skin",
+    "position": 1
+   },
+   {
+    "url": "https://www.mrmed.in/health-library/skin-care/best-moisturizers-for-winter-india",
+    "position": 2
+   },
+   {
+    "url": "https://globalsblog.com/beauty/best-moisturiser-india",
+    "position": 3
+   },
+   {
+    "url": "https://www.cvs.com/learn/beauty/skin-care/winter-moisturizers",
+    "position": 4
+   },
+   {
+    "url": "https://www.nykaa.com/beauty-blog/top-10-moisturizer-in-india-2026",
+    "position": 5
+   },
+   {
+    "url": "https://zeelabpharmacy.com/hi/blog/best-moisturisers-for-winter",
+    "position": 6
+   },
+   {
+    "url": "https://www.ndtv.com/health/dont-let-winter-steal-your-glow-hydrating-skincare-routine-for-indian-dry-skin-9633625/amp/1",
+    "position": 7
+   },
+   {
+    "url": "https://cashkaro.com/blog/best-moisturisers-for-dry-skin/39932",
+    "position": 8
+   },
+   {
+    "url": "https://ndtv.in/health/which-moisturizer-should-i-use-on-face-how-to-choose-the-best-moisturizer-for-winter-9702465",
+    "position": 9
+   },
+   {
+    "url": "https://www.jagran.com/smart-choice/glam-and-glamour/best-winter-moisturizer-for-dry-skin-get-hydrated-feel-all-day-long-3766",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.005331
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "4.1773 sec.",
+  "cost": 0.005931,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131429-2163-0612-0000-eb35bc0658c0",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.1518 sec.",
+    "cost": 0.005931,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 28,
+      "output_tokens": 303,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005331,
+      "datetime": "2026-10-13 14:29:26 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "Indian winters mein **dry skin ke liye cream-based, fragrance-free moisturizer** kharidein—gel nahi. Ingredients list mein **ceramides, glycerin, hyaluronic acid, shea butter ya panthenol** dekhein; ye skin barrier ko support karke moisture lock karte hain.[2][4]\n\n**Achhe options:**\n- **CeraVe Moisturising Cream** — bahut dry ya flaky skin ke liye  \n- **Cetaphil DAM / Moisturising Cream** — dry aur sensitive skin ke liye  \n- **Bioderma Atoderm Creme** — tightness aur roughness ke liye  \n- **Venusia Max Cream** — budget-friendly rich cream  \n- **Re’equil Ceramide & Hyaluronic Acid Moisturiser** — barrier repair ke liye  \n\n**Kaise lagayein:** Face wash ke turant baad, skin halki damp ho tab moisturizer lagayein; subah aur raat dono. Bahut zyada dryness ho to raat mein dry patches par moisturizer ke upar petroleum jelly ki patli layer laga sakte hain.[4][9]\n\nAgar acne-prone skin hai, to label par **“non-comedogenic”** dekhein; jalan, redness ya persistent itching ho to dermatologist se consult karein.",
+          "annotations": [
+           {
+            "title": "www.amazon.in › best-winter-moisturizer-for-dryAmazon.in: Best Winter Moisturizer For Dry Skin",
+            "url": "https://www.amazon.in/best-winter-moisturizer-for-dry-skin/s?k=best+winter+moisturizer+for+dry+skin",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Moisturizers for Winter in India | Guide by Skin Type ...",
+            "url": "https://www.mrmed.in/health-library/skin-care/best-moisturizers-for-winter-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "globalsblog.com › beauty › best-moisturiser-indiaBest Moisturiser in India 2026 — Dermatologist-Recommended ...",
+            "url": "https://globalsblog.com/beauty/best-moisturiser-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "8 winter moisturizers to help combat dry skin - CVS",
+            "url": "https://www.cvs.com/learn/beauty/skin-care/winter-moisturizers",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 10 Moisturisers in India 2026 for Skin Longevity - Nykaa",
+            "url": "https://www.nykaa.com/beauty-blog/top-10-moisturizer-in-india-2026",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "zeelabpharmacy.com › hi › blogसूखी और तैलीय त्वचा के लिए बेहतरीन विंटर मॉइस्चराइज़र्स | त्वचा ....",
+            "url": "https://zeelabpharmacy.com/hi/blog/best-moisturisers-for-winter",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Hydrating Skincare Routine For Indian Dry Skin",
+            "url": "https://www.ndtv.com/health/dont-let-winter-steal-your-glow-hydrating-skincare-routine-for-indian-dry-skin-9633625/amp/1",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "15 Best Face Moisturisers for Dry Skin in India - CashKaro",
+            "url": "https://cashkaro.com/blog/best-moisturisers-for-dry-skin/39932",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "मुझे अपने चेहरे पर कौन सा मॉइस्चराइजर लगाना चाहिए? जानें ...",
+            "url": "https://ndtv.in/health/which-moisturizer-should-i-use-on-face-how-to-choose-the-best-moisturizer-for-winter-9702465",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "हायल्यूरॉनिक ऐसिड या शीया बटर! जानें कौन सा Winter Moisturizer देगा 24 घंटे मुलायम और हाइड्रेटेड लुक",
+            "url": "https://www.jagran.com/smart-choice/glam-and-glamour/best-winter-moisturizer-for-dry-skin-get-hydrated-feel-all-day-long-3766",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

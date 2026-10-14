@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S05",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "perplexity",
+  "rep": 8,
+  "promptText": "India mein acne wali skin ke liye 700 rupees ke andar konsa serum kharidun?",
+  "cellId": "S05_hg_perplexity_r8",
+  "startedAt": "2026-10-13T14:27:23.030Z",
+  "finishedAt": "2026-10-13T14:27:26.608Z",
+  "durationMs": 3578,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Agar **active pimples, blackheads ya whiteheads** hain, toh ₹700 ke andar meri first choice **Minimalist 2% Salicylic Acid Serum** hai—price usually ₹500–₹550 ke aas-paas milta hai.[1][2]\n\n- **Best for active acne/blackheads:** Minimalist 2% Salicylic Acid Serum — raat mein **alternate days**, 2–3 drops.\n- **Budget option:** The Derma Co Sali-Cinamide Serum — 2% salicylic acid + 5% niacinamide, lagbhag ₹449.[2]\n- **Sirf acne marks/oiliness ke liye:** The Derma Co 10% Niacinamide — lagbhag ₹187–₹222.[1][2]\n- **Red acne marks/pigmentation ke liye:** 10% azelaic acid serum — Derma Decode option lagbhag ₹587.[1]\n\n**Kaise use karein:** Cleanser ke baad serum, phir moisturizer. Din mein SPF 30+ sunscreen zaroor lagayein. Shuruaat mein salicylic acid ko daily na lagayein aur ek saath multiple active serums use na karein, warna irritation ho sakti hai.[4]\n\nDeep, painful acne, scars, ya 8–12 hafton mein improvement na ho toh dermatologist ko dikhayein.[4] Prices offers ke hisaab se badal sakte hain.",
+  "citations": [
+   {
+    "url": "https://www.ndtvshopping.com/beauty-and-grooming/acne-scar-serum-fade-marks-10958329",
+    "position": 1
+   },
+   {
+    "url": "https://www.purplle.com/collections/acne-serum",
+    "position": 2
+   },
+   {
+    "url": "https://www.amazon.in/Dermistry-Salicylic-Vitamin-Pimples-Blemishes/dp/B0CTXDQJ3Z",
+    "position": 3
+   },
+   {
+    "url": "https://sskin.care/concerns/acne/",
+    "position": 4
+   },
+   {
+    "url": "https://blog.flash.co/serum/top-25-serums-for-acne-prone-skin/",
+    "position": 5
+   },
+   {
+    "url": "https://sarinskin.com/collections/acne",
+    "position": 6
+   },
+   {
+    "url": "https://petalpink.in/2026/06/19/best-affordable-serums-under-500/",
+    "position": 7
+   },
+   {
+    "url": "https://www.thebridalbox.com/articles/best-serum-for-acne-in-india/",
+    "position": 8
+   },
+   {
+    "url": "https://www.thebridalbox.com/articles/best-serum-for-acne-prone-skin-in-india/",
+    "position": 9
+   },
+   {
+    "url": "https://www.hindustantimes.com/product-hub/best-serums-for-acne-prone-skin-10-top-choices-to-fight-acne-scars-and-breakouts-101731477566305.html",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.005363
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.3607 sec.",
+  "cost": 0.005963,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131427-2163-0612-0000-5c1acea1e309",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.3503 sec.",
+    "cost": 0.005963,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "India mein acne wali skin ke liye 700 rupees ke andar konsa serum kharidun?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 32,
+      "output_tokens": 331,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005363,
+      "datetime": "2026-10-13 14:27:28 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "Agar **active pimples, blackheads ya whiteheads** hain, toh ₹700 ke andar meri first choice **Minimalist 2% Salicylic Acid Serum** hai—price usually ₹500–₹550 ke aas-paas milta hai.[1][2]\n\n- **Best for active acne/blackheads:** Minimalist 2% Salicylic Acid Serum — raat mein **alternate days**, 2–3 drops.\n- **Budget option:** The Derma Co Sali-Cinamide Serum — 2% salicylic acid + 5% niacinamide, lagbhag ₹449.[2]\n- **Sirf acne marks/oiliness ke liye:** The Derma Co 10% Niacinamide — lagbhag ₹187–₹222.[1][2]\n- **Red acne marks/pigmentation ke liye:** 10% azelaic acid serum — Derma Decode option lagbhag ₹587.[1]\n\n**Kaise use karein:** Cleanser ke baad serum, phir moisturizer. Din mein SPF 30+ sunscreen zaroor lagayein. Shuruaat mein salicylic acid ko daily na lagayein aur ek saath multiple active serums use na karein, warna irritation ho sakti hai.[4]\n\nDeep, painful acne, scars, ya 8–12 hafton mein improvement na ho toh dermatologist ko dikhayein.[4] Prices offers ke hisaab se badal sakte hain.",
+          "annotations": [
+           {
+            "title": "Acne Scar Serum Fade Marks Under ₹700 From Novology, The ...",
+            "url": "https://www.ndtvshopping.com/beauty-and-grooming/acne-scar-serum-fade-marks-10958329",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.purplle.com › collections › acne-serumAcne Serums: Buy Acne Serum Online at Best Prices in India ...",
+            "url": "https://www.purplle.com/collections/acne-serum",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › Dermistry-Salicylic-VitaminDermistry 2% Salicylic Acid 5% Niacinamide Acne Spots ...",
+            "url": "https://www.amazon.in/Dermistry-Salicylic-Vitamin-Pimples-Blemishes/dp/B0CTXDQJ3Z",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "sskin.care › concerns › acneAcne on Indian Skin: What Actually Works - sskin.care",
+            "url": "https://sskin.care/concerns/acne/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "blog.flash.co › top-25-serums-for-acne-prone-skinBest Serums for Acne-prone Skin in India (2026) | Flash AI",
+            "url": "https://blog.flash.co/serum/top-25-serums-for-acne-prone-skin/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Acne Care Products | Effective Acne Treatment Cream",
+            "url": "https://sarinskin.com/collections/acne",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Affordable Serums Under ₹500 — That Actually Work",
+            "url": "https://petalpink.in/2026/06/19/best-affordable-serums-under-500/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.thebridalbox.com › articles › best-serum-forBest Serums For Acne-Prone Skin: 12 Expert Picks For 2026",
+            "url": "https://www.thebridalbox.com/articles/best-serum-for-acne-in-india/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Serum For Acne Prone Skin In India: 11 Top Picks",
+            "url": "https://www.thebridalbox.com/articles/best-serum-for-acne-prone-skin-in-india/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best serums for acne prone skin: 10 top choices to fight ...",
+            "url": "https://www.hindustantimes.com/product-hub/best-serums-for-acne-prone-skin-10-top-choices-to-fight-acne-scars-and-breakouts-101731477566305.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

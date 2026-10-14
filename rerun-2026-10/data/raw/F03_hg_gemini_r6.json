@@ -1,0 +1,182 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F03",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 6,
+  "promptText": "India mein women ke liye online konse brand ke kurta sets kharidun?",
+  "cellId": "F03_hg_gemini_r6",
+  "startedAt": "2026-10-13T13:45:14.312Z",
+  "finishedAt": "2026-10-13T13:46:44.739Z",
+  "durationMs": 90427,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T13:38:42.896Z",
+    "error": "This operation was aborted"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein online ethnic wear aur kurta sets kharidne ke liye bohot saare fantastic brands available hain, jo alag-alag budgets, styles (jaise everyday casual, office wear, ya festive), aur occasions ke hisab se best hain.\n\nYahan top brands ki list hai, unke specialty ke sath:\n\n---\n\n### 1. Daily Wear & Office Wear ke liye (Comfortable & Budget-Friendly)\n\n* **Libas:** Agar aapko cotton ke comfortable, breathable aur elegant kurtis ya sets chahiye jo roz pehenne ke liye ya office ke liye perfect hon, toh Libas sabse popular choice hai. Inke designs simple aur classy hote hain.\n* **Aurelia:** Yeh brand modern Indian woman ke liye best hai. Inke kurta sets mein aapko contemporary cuts ke sath traditional touch milta hai. Yeh durable aur easily washable hote hain.\n* **W for Woman:** Agar aap thoda fusion ya Indo-western look pasand karti hain, toh 'W' ke prints aur patterns bahut unique hote hain. Inki quality bhi kafi acchi hoti hai.\n\n### 2. Festive, Wedding & Party Wear ke liye (Premium & Stylish)\n\n* **Biba:** Jab baat traditional aur festive look ki aati hai, toh Biba sabse trusted aur purana brand hai. Inke paas heavy anarkalis, straight suits, aur festive sets ki wide range milti hai.\n* **Global Desi:** Agar aapko bohemian, vibrant, aur bold colors pasand hain, toh Global Desi ke outfits ekdum hatke aur stylish hote hain.\n* **Soch:** Party wear aur heavy ethnic sets ke liye Soch ek behtareen brand hai. Inke embroidery work aur fabrics kafi rich look dete hain.\n\n### 3. Trendy & Aesthetic Looks ke liye (Dolls & Indie Vibes)\n\n* **Jaypore:** Agar aapko handloom, block prints, chanderi, ya authentic Indian crafts pasand hain, toh Jaypore ek premium option hai.\n* **Rangriti:** Yeh ek budget-friendly brand hai jiske daily wear ke vibrant kurta sets college girls ya homemakers ke liye best hain.\n\n---\n\n### Kahan se kharidein? (Best Shopping Apps/Sites)\n\nAap in sabhi brands ko in reliable online platforms par easily dhoond sakti hain:\n\n* **Myntra & Ajio:** Yahan in sabhi brands par frequently acchi sales aur discounts milte hain.\n* **Amazon & Flipkart:** Huge variety aur fast delivery ke liye.\n* **Brand ki apni official websites:** Kai baar brands apni khud ki site par (jaise Libas, Biba, ya Aurelia ki app/site par) extra discounts ya exclusive collections dete hain.\n\nAapko kis tarah ka kurta set chahiye (jaise daily wear ke liye cotton ya kisi function ke liye heavy festive set), taaki main aapko aur specific brand suggest kar saku?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "89.7003 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131345-2163-0629-0000-c66eba8477c3",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "89.5417 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "India mein women ke liye online konse brand ke kurta sets kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein women ke liye online konse brand ke kurta sets kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:46:46 +00:00",
+      "markdown": "India mein online ethnic wear aur kurta sets kharidne ke liye bohot saare fantastic brands available hain, jo alag-alag budgets, styles (jaise everyday casual, office wear, ya festive), aur occasions ke hisab se best hain.\n\nYahan top brands ki list hai, unke specialty ke sath:\n\n---\n\n### 1. Daily Wear & Office Wear ke liye (Comfortable & Budget-Friendly)\n\n* **Libas:** Agar aapko cotton ke comfortable, breathable aur elegant kurtis ya sets chahiye jo roz pehenne ke liye ya office ke liye perfect hon, toh Libas sabse popular choice hai. Inke designs simple aur classy hote hain.\n* **Aurelia:** Yeh brand modern Indian woman ke liye best hai. Inke kurta sets mein aapko contemporary cuts ke sath traditional touch milta hai. Yeh durable aur easily washable hote hain.\n* **W for Woman:** Agar aap thoda fusion ya Indo-western look pasand karti hain, toh 'W' ke prints aur patterns bahut unique hote hain. Inki quality bhi kafi acchi hoti hai.\n\n### 2. Festive, Wedding & Party Wear ke liye (Premium & Stylish)\n\n* **Biba:** Jab baat traditional aur festive look ki aati hai, toh Biba sabse trusted aur purana brand hai. Inke paas heavy anarkalis, straight suits, aur festive sets ki wide range milti hai.\n* **Global Desi:** Agar aapko bohemian, vibrant, aur bold colors pasand hain, toh Global Desi ke outfits ekdum hatke aur stylish hote hain.\n* **Soch:** Party wear aur heavy ethnic sets ke liye Soch ek behtareen brand hai. Inke embroidery work aur fabrics kafi rich look dete hain.\n\n### 3. Trendy & Aesthetic Looks ke liye (Dolls & Indie Vibes)\n\n* **Jaypore:** Agar aapko handloom, block prints, chanderi, ya authentic Indian crafts pasand hain, toh Jaypore ek premium option hai.\n* **Rangriti:** Yeh ek budget-friendly brand hai jiske daily wear ke vibrant kurta sets college girls ya homemakers ke liye best hain.\n\n---\n\n### Kahan se kharidein? (Best Shopping Apps/Sites)\n\nAap in sabhi brands ko in reliable online platforms par easily dhoond sakti hain:\n\n* **Myntra & Ajio:** Yahan in sabhi brands par frequently acchi sales aur discounts milte hain.\n* **Amazon & Flipkart:** Huge variety aur fast delivery ke liye.\n* **Brand ki apni official websites:** Kai baar brands apni khud ki site par (jaise Libas, Biba, ya Aurelia ki app/site par) extra discounts ya exclusive collections dete hain.\n\nAapko kis tarah ka kurta set chahiye (jaise daily wear ke liye cotton ya kisi function ke liye heavy festive set), taaki main aapko aur specific brand suggest kar saku?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 12,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein online ethnic wear aur kurta sets kharidne ke liye bohot saare fantastic brands available hain, jo alag-alag budgets, styles (jaise everyday casual, office wear, ya festive), aur occasions ke hisab se best hain.",
+        "original_text": "India mein online ethnic wear aur kurta sets kharidne ke liye bohot saare fantastic brands available hain, jo alag-alag budgets, styles (jaise everyday casual, office wear, ya festive), aur occasions ke hisab se best hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Yahan top brands ki list hai, unke specialty ke sath:",
+        "original_text": "Yahan top brands ki list hai, unke specialty ke sath:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### 1. Daily Wear & Office Wear ke liye (Comfortable & Budget-Friendly)",
+        "original_text": "1. Daily Wear & Office Wear ke liye (Comfortable & Budget-Friendly)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Libas:** Agar aapko cotton ke comfortable, breathable aur elegant kurtis ya sets chahiye jo roz pehenne ke liye ya office ke liye perfect hon, toh Libas sabse popular choice hai. Inke designs simple aur classy hote hain.\n* **Aurelia:** Yeh brand modern Indian woman ke liye best hai. Inke kurta sets mein aapko contemporary cuts ke sath traditional touch milta hai. Yeh durable aur easily washable hote hain.\n* **W for Woman:** Agar aap thoda fusion ya Indo-western look pasand karti hain, toh 'W' ke prints aur patterns bahut unique hote hain. Inki quality bhi kafi acchi hoti hai.",
+        "original_text": "Libas: Agar aapko cotton ke comfortable, breathable aur elegant kurtis ya sets chahiye jo roz pehenne ke liye ya office ke liye perfect hon, toh Libas sabse popular choice hai. Inke designs simple aur classy hote hain.\nAurelia: Yeh brand modern Indian woman ke liye best hai. Inke kurta sets mein aapko contemporary cuts ke sath traditional touch milta hai. Yeh durable aur easily washable hote hain.\nW for Woman: Agar aap thoda fusion ya Indo-western look pasand karti hain, toh 'W' ke prints aur patterns bahut unique hote hain. Inki quality bhi kafi acchi hoti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. Festive, Wedding & Party Wear ke liye (Premium & Stylish)",
+        "original_text": "2. Festive, Wedding & Party Wear ke liye (Premium & Stylish)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Biba:** Jab baat traditional aur festive look ki aati hai, toh Biba sabse trusted aur purana brand hai. Inke paas heavy anarkalis, straight suits, aur festive sets ki wide range milti hai.\n* **Global Desi:** Agar aapko bohemian, vibrant, aur bold colors pasand hain, toh Global Desi ke outfits ekdum hatke aur stylish hote hain.\n* **Soch:** Party wear aur heavy ethnic sets ke liye Soch ek behtareen brand hai. Inke embroidery work aur fabrics kafi rich look dete hain.",
+        "original_text": "Biba: Jab baat traditional aur festive look ki aati hai, toh Biba sabse trusted aur purana brand hai. Inke paas heavy anarkalis, straight suits, aur festive sets ki wide range milti hai.\nGlobal Desi: Agar aapko bohemian, vibrant, aur bold colors pasand hain, toh Global Desi ke outfits ekdum hatke aur stylish hote hain.\nSoch: Party wear aur heavy ethnic sets ke liye Soch ek behtareen brand hai. Inke embroidery work aur fabrics kafi rich look dete hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "### 3. Trendy & Aesthetic Looks ke liye (Dolls & Indie Vibes)",
+        "original_text": "3. Trendy & Aesthetic Looks ke liye (Dolls & Indie Vibes)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Jaypore:** Agar aapko handloom, block prints, chanderi, ya authentic Indian crafts pasand hain, toh Jaypore ek premium option hai.\n* **Rangriti:** Yeh ek budget-friendly brand hai jiske daily wear ke vibrant kurta sets college girls ya homemakers ke liye best hain.",
+        "original_text": "Jaypore: Agar aapko handloom, block prints, chanderi, ya authentic Indian crafts pasand hain, toh Jaypore ek premium option hai.\nRangriti: Yeh ek budget-friendly brand hai jiske daily wear ke vibrant kurta sets college girls ya homemakers ke liye best hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### Kahan se kharidein? (Best Shopping Apps/Sites)",
+        "original_text": "Kahan se kharidein? (Best Shopping Apps/Sites)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "Aap in sabhi brands ko in reliable online platforms par easily dhoond sakti hain:",
+        "original_text": "Aap in sabhi brands ko in reliable online platforms par easily dhoond sakti hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "* **Myntra & Ajio:** Yahan in sabhi brands par frequently acchi sales aur discounts milte hain.\n* **Amazon & Flipkart:** Huge variety aur fast delivery ke liye.\n* **Brand ki apni official websites:** Kai baar brands apni khud ki site par (jaise Libas, Biba, ya Aurelia ki app/site par) extra discounts ya exclusive collections dete hain.",
+        "original_text": "Myntra & Ajio: Yahan in sabhi brands par frequently acchi sales aur discounts milte hain.\nAmazon & Flipkart: Huge variety aur fast delivery ke liye.\nBrand ki apni official websites: Kai baar brands apni khud ki site par (jaise Libas, Biba, ya Aurelia ki app/site par) extra discounts ya exclusive collections dete hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "Aapko kis tarah ka kurta set chahiye (jaise daily wear ke liye cotton ya kisi function ke liye heavy festive set), taaki main aapko aur specific brand suggest kar saku?",
+        "original_text": "Aapko kis tarah ka kurta set chahiye (jaise daily wear ke liye cotton ya kisi function ke liye heavy festive set), taaki main aapko aur specific brand suggest kar saku?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

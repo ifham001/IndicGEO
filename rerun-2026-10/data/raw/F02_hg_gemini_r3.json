@@ -1,0 +1,136 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 3,
+  "promptText": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+  "cellId": "F02_hg_gemini_r3",
+  "startedAt": "2026-10-13T13:55:03.818Z",
+  "finishedAt": "2026-10-13T13:56:05.441Z",
+  "durationMs": 61623,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein **3,000 rupees** ke budget mein running aur walking ke liye kaafi acche aur reliable options mil jaate hain. Is price range mein **Campus**, **Asian**, aur **Sparx** jaise brands value-for-money aur durable shoes provide karte hain jo daily use ke liye best hain.\n\n3,000 rupees ke andar sabse behtareen running shoes ki list yeh rahi:\n\n---\n\n### ## Top Running Shoes Under ₹3,000\n\n* ### 1. Campus OGs / Campus Running Shoes\n  *   * **Price Range:** ₹1,500 - ₹2,500\n  * **Kyun kharidein:** Campus aajkal India mein budget running shoes ke liye sabse popular brand hai. Inke shoes mein achhi cushioning (foam soles) aur breathable mesh upper milti hai, jo casual running aur gym ke liye ekdum sahi hai.\n  * **Features:** Lightweight design, comfortable grip, aur modern looks.\n* ### 2. Sparx Running Shoes (SX Series)\n  *   * **Price Range:** ₹1,000 - ₹2,000\n  * **Kyun kharidein:** Sparx apni durability (mazbooti) ke liye jaana jaata hai. Agar aapka use thoda rough & tough hai (jaise road running ya daily walking), toh Sparx ke shoes lambe samay tak chalte hain.\n  * **Features:** Sturdy outsole, strong grip, aur easy to clean.\n* ### 3. Asian Footwears (Wonder / Nitro Series)\n  *   * **Price Range:** ₹800 - ₹1,800\n  * **Kyun kharidein:** Yeh ek Made in India brand hai jo kam budget mein acchi quality ke memory foam shoes deta hai. Agar aapko extra soft feel chahiye, toh Asian ke shoes best rahenge.\n  * **Features:** Memory foam cushioning, lightweight, aur budget-friendly.\n* ### 4. Puma / Bata (On Sale)\n  *   * **Price Range:** ₹2,000 - ₹3,000 (Discount ke baad)\n  * **Kyun kharidein:** Agar aap thoda wait kar sakte hain ya online sales (Myntra, Flipkart, ya Puma official site) check karein, toh kai baar Puma ke entry-level running shoes bhi 3,000 ke andar mil jaate hain.\n  * **Features:** Better arch support aur international brand quality.\n\n---\n\n### ## Khareedte Waqt Kin Baaton Ka Dhyan Rakhein?\n\n1.  **Size:** Running shoes hamesha apne normal shoe size se **1 size bada** lein, kyunki daudte waqt pair thode phoolte (expand hote) hain.\n2.  **Mesh Upper:** Aise shoes chunin jinke upar jaali (mesh) ho taaki pair mein hawa lagti rahe aur paseena na ruke.\n3.  **Cushioning:** Agar aap hard surfaces (pakki sadak ya concrete) par daudte hain, toh soft foam ya memory foam sole wale shoes choose karein taaki ghutnon (knees) par kam jhatka lage.\n\nAapko inmein se kis brand ya kis type ka design sabse zyada pasand hai?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "61.4241 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131355-2163-0629-0000-c8bb1bf2728b",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "61.3250 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:56:07 +00:00",
+      "markdown": "India mein **3,000 rupees** ke budget mein running aur walking ke liye kaafi acche aur reliable options mil jaate hain. Is price range mein **Campus**, **Asian**, aur **Sparx** jaise brands value-for-money aur durable shoes provide karte hain jo daily use ke liye best hain.\n\n3,000 rupees ke andar sabse behtareen running shoes ki list yeh rahi:\n\n---\n\n### ## Top Running Shoes Under ₹3,000\n\n* ### 1. Campus OGs / Campus Running Shoes\n  *   * **Price Range:** ₹1,500 - ₹2,500\n  * **Kyun kharidein:** Campus aajkal India mein budget running shoes ke liye sabse popular brand hai. Inke shoes mein achhi cushioning (foam soles) aur breathable mesh upper milti hai, jo casual running aur gym ke liye ekdum sahi hai.\n  * **Features:** Lightweight design, comfortable grip, aur modern looks.\n* ### 2. Sparx Running Shoes (SX Series)\n  *   * **Price Range:** ₹1,000 - ₹2,000\n  * **Kyun kharidein:** Sparx apni durability (mazbooti) ke liye jaana jaata hai. Agar aapka use thoda rough & tough hai (jaise road running ya daily walking), toh Sparx ke shoes lambe samay tak chalte hain.\n  * **Features:** Sturdy outsole, strong grip, aur easy to clean.\n* ### 3. Asian Footwears (Wonder / Nitro Series)\n  *   * **Price Range:** ₹800 - ₹1,800\n  * **Kyun kharidein:** Yeh ek Made in India brand hai jo kam budget mein acchi quality ke memory foam shoes deta hai. Agar aapko extra soft feel chahiye, toh Asian ke shoes best rahenge.\n  * **Features:** Memory foam cushioning, lightweight, aur budget-friendly.\n* ### 4. Puma / Bata (On Sale)\n  *   * **Price Range:** ₹2,000 - ₹3,000 (Discount ke baad)\n  * **Kyun kharidein:** Agar aap thoda wait kar sakte hain ya online sales (Myntra, Flipkart, ya Puma official site) check karein, toh kai baar Puma ke entry-level running shoes bhi 3,000 ke andar mil jaate hain.\n  * **Features:** Better arch support aur international brand quality.\n\n---\n\n### ## Khareedte Waqt Kin Baaton Ka Dhyan Rakhein?\n\n1.  **Size:** Running shoes hamesha apne normal shoe size se **1 size bada** lein, kyunki daudte waqt pair thode phoolte (expand hote) hain.\n2.  **Mesh Upper:** Aise shoes chunin jinke upar jaali (mesh) ho taaki pair mein hawa lagti rahe aur paseena na ruke.\n3.  **Cushioning:** Agar aap hard surfaces (pakki sadak ya concrete) par daudte hain, toh soft foam ya memory foam sole wale shoes choose karein taaki ghutnon (knees) par kam jhatka lage.\n\nAapko inmein se kis brand ya kis type ka design sabse zyada pasand hai?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein **3,000 rupees** ke budget mein running aur walking ke liye kaafi acche aur reliable options mil jaate hain. Is price range mein **Campus**, **Asian**, aur **Sparx** jaise brands value-for-money aur durable shoes provide karte hain jo daily use ke liye best hain.",
+        "original_text": "India mein 3,000 rupees ke budget mein running aur walking ke liye kaafi acche aur reliable options mil jaate hain. Is price range mein Campus, Asian, aur Sparx jaise brands value-for-money aur durable shoes provide karte hain jo daily use ke liye best hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "3,000 rupees ke andar sabse behtareen running shoes ki list yeh rahi:",
+        "original_text": "3,000 rupees ke andar sabse behtareen running shoes ki list yeh rahi:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### ## Top Running Shoes Under ₹3,000",
+        "original_text": "## Top Running Shoes Under ₹3,000",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* ### 1. Campus OGs / Campus Running Shoes\n  *   * **Price Range:** ₹1,500 - ₹2,500\n  * **Kyun kharidein:** Campus aajkal India mein budget running shoes ke liye sabse popular brand hai. Inke shoes mein achhi cushioning (foam soles) aur breathable mesh upper milti hai, jo casual running aur gym ke liye ekdum sahi hai.\n  * **Features:** Lightweight design, comfortable grip, aur modern looks.\n* ### 2. Sparx Running Shoes (SX Series)\n  *   * **Price Range:** ₹1,000 - ₹2,000\n  * **Kyun kharidein:** Sparx apni durability (mazbooti) ke liye jaana jaata hai. Agar aapka use thoda rough & tough hai (jaise road running ya daily walking), toh Sparx ke shoes lambe samay tak chalte hain.\n  * **Features:** Sturdy outsole, strong grip, aur easy to clean.\n* ### 3. Asian Footwears (Wonder / Nitro Series)\n  *   * **Price Range:** ₹800 - ₹1,800\n  * **Kyun kharidein:** Yeh ek Made in India brand hai jo kam budget mein acchi quality ke memory foam shoes deta hai. Agar aapko extra soft feel chahiye, toh Asian ke shoes best rahenge.\n  * **Features:** Memory foam cushioning, lightweight, aur budget-friendly.\n* ### 4. Puma / Bata (On Sale)\n  *   * **Price Range:** ₹2,000 - ₹3,000 (Discount ke baad)\n  * **Kyun kharidein:** Agar aap thoda wait kar sakte hain ya online sales (Myntra, Flipkart, ya Puma official site) check karein, toh kai baar Puma ke entry-level running shoes bhi 3,000 ke andar mil jaate hain.\n  * **Features:** Better arch support aur international brand quality.",
+        "original_text": "1. Campus OGs / Campus Running Shoes\nPrice Range: ₹1,500 - ₹2,500\nKyun kharidein: Campus aajkal India mein budget running shoes ke liye sabse popular brand hai. Inke shoes mein achhi cushioning (foam soles) aur breathable mesh upper milti hai, jo casual running aur gym ke liye ekdum sahi hai.\nFeatures: Lightweight design, comfortable grip, aur modern looks.\n2. Sparx Running Shoes (SX Series)\nPrice Range: ₹1,000 - ₹2,000\nKyun kharidein: Sparx apni durability (mazbooti) ke liye jaana jaata hai. Agar aapka use thoda rough & tough hai (jaise road running ya daily walking), toh Sparx ke shoes lambe samay tak chalte hain.\nFeatures: Sturdy outsole, strong grip, aur easy to clean.\n3. Asian Footwears (Wonder / Nitro Series)\nPrice Range: ₹800 - ₹1,800\nKyun kharidein: Yeh ek Made in India brand hai jo kam budget mein acchi quality ke memory foam shoes deta hai. Agar aapko extra soft feel chahiye, toh Asian ke shoes best rahenge.\nFeatures: Memory foam cushioning, lightweight, aur budget-friendly.\n4. Puma / Bata (On Sale)\nPrice Range: ₹2,000 - ₹3,000 (Discount ke baad)\nKyun kharidein: Agar aap thoda wait kar sakte hain ya online sales (Myntra, Flipkart, ya Puma official site) check karein, toh kai baar Puma ke entry-level running shoes bhi 3,000 ke andar mil jaate hain.\nFeatures: Better arch support aur international brand quality.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### ## Khareedte Waqt Kin Baaton Ka Dhyan Rakhein?",
+        "original_text": "## Khareedte Waqt Kin Baaton Ka Dhyan Rakhein?",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "1.  **Size:** Running shoes hamesha apne normal shoe size se **1 size bada** lein, kyunki daudte waqt pair thode phoolte (expand hote) hain.\n2.  **Mesh Upper:** Aise shoes chunin jinke upar jaali (mesh) ho taaki pair mein hawa lagti rahe aur paseena na ruke.\n3.  **Cushioning:** Agar aap hard surfaces (pakki sadak ya concrete) par daudte hain, toh soft foam ya memory foam sole wale shoes choose karein taaki ghutnon (knees) par kam jhatka lage.",
+        "original_text": "Size: Running shoes hamesha apne normal shoe size se 1 size bada lein, kyunki daudte waqt pair thode phoolte (expand hote) hain.\nMesh Upper: Aise shoes chunin jinke upar jaali (mesh) ho taaki pair mein hawa lagti rahe aur paseena na ruke.\nCushioning: Agar aap hard surfaces (pakki sadak ya concrete) par daudte hain, toh soft foam ya memory foam sole wale shoes choose karein taaki ghutnon (knees) par kam jhatka lage.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "Aapko inmein se kis brand ya kis type ka design sabse zyada pasand hai?",
+        "original_text": "Aapko inmein se kis brand ya kis type ka design sabse zyada pasand hai?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

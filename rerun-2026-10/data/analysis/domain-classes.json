@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "note": "Classification of citation domains observed in the corpus. Built from the observed-domain frequency table; every domain with >=10 citations is explicitly classified, the long tail falls to 'other'. Classes: marketplace (multi-brand commerce), brand-site (a single product brand's own site), publisher (editorial/news/review/blog content), social (UGC platforms), health-pharma (medical/pharmacy content sites).",
+  "classes": {
+    "marketplace": [
+      "amazon.in", "amazon.com", "flipkart.com", "nykaa.com", "myntra.com", "ajio.com",
+      "purplle.com", "meesho.com", "tatacliq.com", "smytten.com", "magicpin.in",
+      "1mg.com", "nalli.com", "indianweddingsaree.com", "houseofindya.com", "dropy.in",
+      "ozmod.in", "luxebykan.com", "mohifashion.com"
+    ],
+    "brand-site": [
+      "thedermaco.com", "beminimalist.co", "plumgoodness.com", "dotandkey.com",
+      "discoverpilgrim.com", "deyga.in", "cetaphil.in", "libas.in", "biba.in",
+      "levi.in", "adidas.co.in", "wrangler.in", "pepejeans.in", "numerounojeanswear.com",
+      "jaipurkurti.com", "varanga.in", "nourishmantra.in", "koskii.com",
+      "theformalclub.in", "sixamglow.com", "aachho.com", "soch.com", "fabindia.com",
+      "nike.com", "puma.com", "skechers.in", "decathlon.in"
+    ],
+    "publisher": [
+      "hindustantimes.com", "idiva.com", "ndtvshopping.com", "healthshots.com",
+      "economictimes.com", "timesofindia.indiatimes.com", "vogue.in", "cosmopolitan.in",
+      "elle.in", "gqindia.com", "femina.in", "indisangam.com", "reviehub.in",
+      "glowdekho.com", "thedeconstruct.in", "dermatocare.com", "blog.flash.co",
+      "medium.com", "midvey.com", "ghpc.in", "paisawapas.com", "pakkapick.in",
+      "someinfo.in", "runnyday.in", "lightupbeauty.com", "simpleskincare01.blogspot.com"
+    ],
+    "social": ["youtube.com", "reddit.com", "instagram.com", "quora.com", "x.com", "twitter.com", "facebook.com", "pinterest.com"],
+    "health-pharma": ["mrmed.in", "netmeds.com", "apollopharmacy.in", "pharmeasy.in"]
+  }
+}

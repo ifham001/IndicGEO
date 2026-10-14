@@ -582,6 +582,10 @@ Yes. The license permits reuse with attribution. Contributions that fit the prog
 
 ---
 
+## 8. October 2026 re-run
+
+On 13 October 2026 the identical design was collected again (479 responses; one Gemini cell failed on all retries and its pair is dropped for paired metrics). The re-run lives in `rerun-2026-10/` with the same file formats, its own `results.sha256`, a stability spot-check, a lexicon sensitivity check (v1.2 adds 11 brands first seen in October) and the wave-to-wave comparison (`COMPARISON.md`). The August data at the repository root is unchanged. Each later wave should follow the same layout, `rerun-YYYY-MM/`, and extend `compare.mjs` rather than editing earlier waves.
+
 ## Appendix: quick reference
 
 **Reproduce the analysis**

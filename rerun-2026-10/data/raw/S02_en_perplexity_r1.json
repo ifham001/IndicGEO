@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "perplexity",
+  "rep": 1,
+  "promptText": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+  "cellId": "S02_en_perplexity_r1",
+  "startedAt": "2026-10-13T14:01:16.620Z",
+  "finishedAt": "2026-10-13T14:01:20.004Z",
+  "durationMs": 3383,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "**Best overall pick: Lakmé Sun Expert Tinted Sunscreen SPF 50.** Its tint is particularly suitable for medium-to-deep Indian skin tones and helps avoid the grey or white cast common with mineral sunscreens.[1]\n\nGood alternatives:\n\n- **Plum SPF 50 PA++++ Sunscreen** — lightweight, chemical sunscreen with a no-white-cast finish; suitable for oily or dry skin.[2]\n- **Dr. Sheth’s Kesar & Kojic Acid Sunscreen SPF 50 PA++++** — blends easily and is marketed for daily use on Indian skin tones.[3]\n- **Earth Rhythm Ultra Defence Hybrid Sunscreen SPF 50** — a hybrid formula that reportedly leaves little to no cast.[9]\n\nChoose a **tinted or chemical sunscreen** rather than a fully mineral one, since chemical and hybrid formulas generally blend more invisibly on medium-to-deep skin.[2] Apply roughly two finger-lengths to the face and neck, and reapply every two to three hours outdoors. For acne-prone or oily skin, select a gel or matte finish; for dry skin, choose a moisturizing cream or fluid.",
+  "citations": [
+   {
+    "url": "https://www.bebeautiful.in/all-things-skin/everyday/best-sunscreens-with-no-white-cast",
+    "position": 1
+   },
+   {
+    "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html",
+    "position": 2
+   },
+   {
+    "url": "https://www.hindustantimes.com/lifestyle/health/best-sunscreens-without-a-white-cast-7-picks-for-a-natural-finish-and-sensitive-skin-101769770915580-amp.html",
+    "position": 3
+   },
+   {
+    "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308-amp.html",
+    "position": 4
+   },
+   {
+    "url": "https://www.news18.com/lifestyle/beauty/protect-your-skin-from-the-sun-with-7-best-sunscreens-under-rs-800-that-work-well-in-humid-weather-10365371.html",
+    "position": 5
+   },
+   {
+    "url": "https://theprint.in/brandit/7-best-lightweight-no-white-cast-glow-sunscreen-in-india/3066812/",
+    "position": 6
+   },
+   {
+    "url": "https://www.news18.com/lifestyle/beauty/these-are-some-7-of-the-best-sunscreens-available-under-1000-suitable-for-indian-skin-10351412.html",
+    "position": 7
+   },
+   {
+    "url": "https://thedermaco.com/blogs/skin-care/finding-no-white-cast-sunscreens-for-indian-skin-tones",
+    "position": 8
+   },
+   {
+    "url": "https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp",
+    "position": 9
+   },
+   {
+    "url": "https://tweakindia.com/beauty/skin/the-best-sunscreens-for-your-skins-every-need/",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.005271
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.1435 sec.",
+  "cost": 0.005871,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131401-2163-0612-0000-da1c96ab6b9e",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.0115 sec.",
+    "cost": 0.005871,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 242,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005271,
+      "datetime": "2026-10-13 14:01:22 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "**Best overall pick: Lakmé Sun Expert Tinted Sunscreen SPF 50.** Its tint is particularly suitable for medium-to-deep Indian skin tones and helps avoid the grey or white cast common with mineral sunscreens.[1]\n\nGood alternatives:\n\n- **Plum SPF 50 PA++++ Sunscreen** — lightweight, chemical sunscreen with a no-white-cast finish; suitable for oily or dry skin.[2]\n- **Dr. Sheth’s Kesar & Kojic Acid Sunscreen SPF 50 PA++++** — blends easily and is marketed for daily use on Indian skin tones.[3]\n- **Earth Rhythm Ultra Defence Hybrid Sunscreen SPF 50** — a hybrid formula that reportedly leaves little to no cast.[9]\n\nChoose a **tinted or chemical sunscreen** rather than a fully mineral one, since chemical and hybrid formulas generally blend more invisibly on medium-to-deep skin.[2] Apply roughly two finger-lengths to the face and neck, and reapply every two to three hours outdoors. For acne-prone or oily skin, select a gel or matte finish; for dry skin, choose a moisturizing cream or fluid.",
+          "annotations": [
+           {
+            "title": "www.bebeautiful.in › all-things-skin › everyday4 Best Sunscreens With No White Cast for Indian Skin",
+            "url": "https://www.bebeautiful.in/all-things-skin/everyday/best-sunscreens-with-no-white-cast",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "These 7 sunscreens without white cast work for Indian skin and summers",
+            "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best sunscreens without a white cast: 7 picks for a natural ...",
+            "url": "https://www.hindustantimes.com/lifestyle/health/best-sunscreens-without-a-white-cast-7-picks-for-a-natural-finish-and-sensitive-skin-101769770915580-amp.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "These 7 sunscreens without white cast work for Indian skin and summers",
+            "url": "https://www.hindustantimes.com/lifestyle/fashion/these-7-sunscreens-without-white-cast-work-for-indian-skin-and-summers-101783583467308-amp.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Protect Your Skin From The Sun With 7 Best Sunscreens Under Rs 800 That Work Well In Humid Weather",
+            "url": "https://www.news18.com/lifestyle/beauty/protect-your-skin-from-the-sun-with-7-best-sunscreens-under-rs-800-that-work-well-in-humid-weather-10365371.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "7 Best Lightweight No White Cast Glow Sunscreen in India",
+            "url": "https://theprint.in/brandit/7-best-lightweight-no-white-cast-glow-sunscreen-in-india/3066812/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "These Are Some 7 Of The Best Sunscreens Available Under ₹1,000 Suitable For Indian Skin",
+            "url": "https://www.news18.com/lifestyle/beauty/these-are-some-7-of-the-best-sunscreens-available-under-1000-suitable-for-indian-skin-10351412.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Finding No White Cast Sunscreens for Indian Skin Tones - The Derma Co",
+            "url": "https://thedermaco.com/blogs/skin-care/finding-no-white-cast-sunscreens-for-indian-skin-tones",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "7 Best Sunscreens That Do Not Leave a White Cast on Indian Skin",
+            "url": "https://www.femina.in/beauty/skin/amp-stories/7-best-sunscreens-that-do-not-leave-a-white-cast-on-indian-skin-286871.amp",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "15 best sunscreens for every type of Indian skin - Tweak India",
+            "url": "https://tweakindia.com/beauty/skin/the-best-sunscreens-for-your-skins-every-need/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

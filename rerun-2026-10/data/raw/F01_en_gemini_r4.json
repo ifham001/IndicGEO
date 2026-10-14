@@ -1,0 +1,188 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 4,
+  "promptText": "Which brand's jeans should I buy for men in India under ₹2000?",
+  "cellId": "F01_en_gemini_r4",
+  "startedAt": "2026-10-13T14:30:34.232Z",
+  "finishedAt": "2026-10-13T14:31:26.249Z",
+  "durationMs": 52017,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T14:29:16.637Z",
+    "error": "DataForSEO gemini task error 40102: No Search Results."
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Here are some of the top-rated men's jeans brands available in India under ₹2,000, offering a great mix of durability, comfort, and style:[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Flying%20Machine%20combines%20fashion-forward%20designs%20with%20budget-friendly,yet%20stylish%20enough%20to%20make%20a%20statement.)\n\nThe Levi's Men Blue Cotton Jeans At NykaaMan deliver **timeless style** and **reliable comfort** with a hint of stretch from an iconic denim brand.\n\nThe U.S. Polo Assn. Denim Co. Slim Men feature a **slim tapered silhouette** that pairs easily for casual outings while using **soft, high-quality fabric**.\n\nThe Wrangler Men Slim Black Jeans combine **rugged durability** with a **cotton-elastane stretch blend** for comfortable all-day wear.\n\nThe The Indian Garage Co Men Slim Fit Mid-Rise Jeans offer an **extremely soft finish** and a rich look at a **pocket-friendly price point**.\n\nThe max Men Jeans provide **lightly washed straight styling** ideal for daily casual wear on a tight budget.\n\nThe The Indian Garage Co Men Regular Fit Solid Mid-Rise Stretchable Jeans feature a **streamlined tapered cut** that gives you a clean, tailored look for everyday settings.\n\nIf you prefer heritage denim quality and classic fits within this budget, **Levi's** or **Wrangler** are top choices. For budget-friendly, trendy streetwear, **The Indian Garage Co.** offers exceptional value.\n\nIf you like, I can help you filter these options by a specific fit type (like slim, skinny, or regular) and your waist size. Do you want me to do that?",
+  "citations": [
+   {
+    "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Flying%20Machine%20combines%20fashion-forward%20designs%20with%20budget-friendly,yet%20stylish%20enough%20to%20make%20a%20statement.",
+    "source_name": "magicpin",
+    "position": 1
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "51.4592 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131430-2163-0629-0000-a7bb2de41502",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "51.3768 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Which brand's jeans should I buy for men in India under ₹2000?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which brand's jeans should I buy for men in India under ₹2000?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:31:27 +00:00",
+      "markdown": "Here are some of the top-rated men's jeans brands available in India under ₹2,000, offering a great mix of durability, comfort, and style:[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Flying%20Machine%20combines%20fashion-forward%20designs%20with%20budget-friendly,yet%20stylish%20enough%20to%20make%20a%20statement.)\n\nThe Levi's Men Blue Cotton Jeans At NykaaMan deliver **timeless style** and **reliable comfort** with a hint of stretch from an iconic denim brand.\n\nThe U.S. Polo Assn. Denim Co. Slim Men feature a **slim tapered silhouette** that pairs easily for casual outings while using **soft, high-quality fabric**.\n\nThe Wrangler Men Slim Black Jeans combine **rugged durability** with a **cotton-elastane stretch blend** for comfortable all-day wear.\n\nThe The Indian Garage Co Men Slim Fit Mid-Rise Jeans offer an **extremely soft finish** and a rich look at a **pocket-friendly price point**.\n\nThe max Men Jeans provide **lightly washed straight styling** ideal for daily casual wear on a tight budget.\n\nThe The Indian Garage Co Men Regular Fit Solid Mid-Rise Stretchable Jeans feature a **streamlined tapered cut** that gives you a clean, tailored look for everyday settings.\n\nIf you prefer heritage denim quality and classic fits within this budget, **Levi's** or **Wrangler** are top choices. For budget-friendly, trendy streetwear, **The Indian Garage Co.** offers exceptional value.\n\nIf you like, I can help you filter these options by a specific fit type (like slim, skinny, or regular) and your waist size. Do you want me to do that?",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+        "snippet": "Flying Machine combines fashion-forward designs with budget-friendly \npricing, making it a popular choice among style-conscious men. Their denim \ncollection under...",
+        "domain": "magicpin.in",
+        "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Flying%20Machine%20combines%20fashion-forward%20designs%20with%20budget-friendly,yet%20stylish%20enough%20to%20make%20a%20statement.",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+        "source_name": "magicpin",
+        "publication_date": null,
+        "markdown": "Here are some of the top-rated men's jeans brands available in India under ₹2,000, offering a great mix of durability, comfort, and style:"
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 9,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Here are some of the top-rated men's jeans brands available in India under ₹2,000, offering a great mix of durability, comfort, and style:[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Flying%20Machine%20combines%20fashion-forward%20designs%20with%20budget-friendly,yet%20stylish%20enough%20to%20make%20a%20statement.)",
+        "original_text": "Here are some of the top-rated men's jeans brands available in India under ₹2,000, offering a great mix of durability, comfort, and style:",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+          "snippet": "Flying Machine combines fashion-forward designs with budget-friendly \npricing, making it a popular choice among style-conscious men. Their denim \ncollection under...",
+          "domain": "magicpin.in",
+          "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Flying%20Machine%20combines%20fashion-forward%20designs%20with%20budget-friendly,yet%20stylish%20enough%20to%20make%20a%20statement.",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+          "source_name": "magicpin",
+          "publication_date": null,
+          "markdown": "Here are some of the top-rated men's jeans brands available in India under ₹2,000, offering a great mix of durability, comfort, and style:"
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "The Levi's Men Blue Cotton Jeans At NykaaMan deliver **timeless style** and **reliable comfort** with a hint of stretch from an iconic denim brand.",
+        "original_text": "The Levi's Men Blue Cotton Jeans At NykaaMan deliver timeless style and reliable comfort with a hint of stretch from an iconic denim brand.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "The U.S. Polo Assn. Denim Co. Slim Men feature a **slim tapered silhouette** that pairs easily for casual outings while using **soft, high-quality fabric**.",
+        "original_text": "The U.S. Polo Assn. Denim Co. Slim Men feature a slim tapered silhouette that pairs easily for casual outings while using soft, high-quality fabric.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "The Wrangler Men Slim Black Jeans combine **rugged durability** with a **cotton-elastane stretch blend** for comfortable all-day wear.",
+        "original_text": "The Wrangler Men Slim Black Jeans combine rugged durability with a cotton-elastane stretch blend for comfortable all-day wear.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "The The Indian Garage Co Men Slim Fit Mid-Rise Jeans offer an **extremely soft finish** and a rich look at a **pocket-friendly price point**.",
+        "original_text": "The The Indian Garage Co Men Slim Fit Mid-Rise Jeans offer an extremely soft finish and a rich look at a pocket-friendly price point.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "The max Men Jeans provide **lightly washed straight styling** ideal for daily casual wear on a tight budget.",
+        "original_text": "The max Men Jeans provide lightly washed straight styling ideal for daily casual wear on a tight budget.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "The The Indian Garage Co Men Regular Fit Solid Mid-Rise Stretchable Jeans feature a **streamlined tapered cut** that gives you a clean, tailored look for everyday settings.",
+        "original_text": "The The Indian Garage Co Men Regular Fit Solid Mid-Rise Stretchable Jeans feature a streamlined tapered cut that gives you a clean, tailored look for everyday settings.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "If you prefer heritage denim quality and classic fits within this budget, **Levi's** or **Wrangler** are top choices. For budget-friendly, trendy streetwear, **The Indian Garage Co.** offers exceptional value.",
+        "original_text": "If you prefer heritage denim quality and classic fits within this budget, Levi's or Wrangler are top choices. For budget-friendly, trendy streetwear, The Indian Garage Co. offers exceptional value.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "If you like, I can help you filter these options by a specific fit type (like slim, skinny, or regular) and your waist size. Do you want me to do that?",
+        "original_text": "If you like, I can help you filter these options by a specific fit type (like slim, skinny, or regular) and your waist size. Do you want me to do that?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

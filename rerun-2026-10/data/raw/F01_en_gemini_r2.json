@@ -1,0 +1,278 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 2,
+  "promptText": "Which brand's jeans should I buy for men in India under ₹2000?",
+  "cellId": "F01_en_gemini_r2",
+  "startedAt": "2026-10-13T13:18:21.924Z",
+  "finishedAt": "2026-10-13T13:18:55.843Z",
+  "durationMs": 33919,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T13:16:27.040Z",
+    "error": "This operation was aborted"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "When shopping for men's jeans under ₹2,000 in India, several established brands offer reliable quality, trendy washes, and comfortable fits.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you're%20dressing%20for%20a%20casual%20day,to%20offer%20for%20every%20wardrobe%20and%20occasion.) Popular choices include **Levi's** (entry-level lines and seasonal sales), **U.S. Polo Assn.**, **Pepe Jeans**, **Flying Machine**, **Mufti**, and budget-friendly favorites like **The Indian Garage Co.** and **Highlander**.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you%20prefer%20a%20regular%20fit%20or,your%20personal%20style%20effortlessly.%20*%209.%20Mufti.)\n\nHere are top-rated options available within your budget:\n\nThe U.S. Polo Assn. Men's Blue Slim Fit Faded Jeans combine a **modern slim silhouette** with a **comfortable cotton-stretch blend** for everyday wear.\n\nThe U.S. Polo Assn. Denim Co. Cole Comfort Blue Regular Fit Solid Jeans offer a **relaxed regular fit** made mostly of **breathable cotton with a touch of elastane** for ease.\n\nThe The Indian Garage Co Men Lightly Washed Straight Fit Jeans deliver a **lightly washed finish** and **straight-leg comfort** at an exceptional value.\n\nThe H&M Relaxed Jeans feature an **original-cut classic design** with **rigid cotton denim** and extra room from the seat down.\n\nThe Highlander Men Slim Fit Mid-Rise Dark Jeans provide a **budget-friendly dark indigo look** with a **skinny stretch fit** suited for casual outings.\n\n### Recommendation Summary\n\n* **For Balanced Quality & Branding:** Go with **U.S. Polo Assn.** or look for discounted styles from **Levi's** and **Pepe Jeans** during online sales on Myntra, Ajio, or Tata CLiQ for long-lasting fabrics.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Price%3A%20Approx%202000.%20Save%20BIG%20on%20Flipkart,sophistication%20with%20Wrangler's%20denim%20line%20for%20men.)\n* **For Maximum Value / Ultra-Budget:** Choose **The Indian Garage Co.** or **Highlander** if you want trendy washes well under ₹1,000.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you%20prefer%20a%20regular%20fit%20or,your%20personal%20style%20effortlessly.%20*%209.%20Mufti.)\n\nIf you like, I can help you filter these options based on your preferred fit (e.g., slim, skinny, straight, or relaxed) and color. Do you want me to do that?",
+  "citations": [
+   {
+    "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you're%20dressing%20for%20a%20casual%20day,to%20offer%20for%20every%20wardrobe%20and%20occasion.",
+    "source_name": "magicpin",
+    "position": 1
+   },
+   {
+    "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you%20prefer%20a%20regular%20fit%20or,your%20personal%20style%20effortlessly.%20*%209.%20Mufti.",
+    "source_name": "magicpin",
+    "position": 2
+   },
+   {
+    "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Price%3A%20Approx%202000.%20Save%20BIG%20on%20Flipkart,sophistication%20with%20Wrangler's%20denim%20line%20for%20men.",
+    "source_name": "magicpin",
+    "position": 3
+   },
+   {
+    "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you%20prefer%20a%20regular%20fit%20or,your%20personal%20style%20effortlessly.%20*%209.%20Mufti.",
+    "source_name": "magicpin",
+    "position": 4
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "33.3021 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131318-2163-0629-0000-ca204af42f0d",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "33.2504 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Which brand's jeans should I buy for men in India under ₹2000?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which brand's jeans should I buy for men in India under ₹2000?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:18:55 +00:00",
+      "markdown": "When shopping for men's jeans under ₹2,000 in India, several established brands offer reliable quality, trendy washes, and comfortable fits.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you're%20dressing%20for%20a%20casual%20day,to%20offer%20for%20every%20wardrobe%20and%20occasion.) Popular choices include **Levi's** (entry-level lines and seasonal sales), **U.S. Polo Assn.**, **Pepe Jeans**, **Flying Machine**, **Mufti**, and budget-friendly favorites like **The Indian Garage Co.** and **Highlander**.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you%20prefer%20a%20regular%20fit%20or,your%20personal%20style%20effortlessly.%20*%209.%20Mufti.)\n\nHere are top-rated options available within your budget:\n\nThe U.S. Polo Assn. Men's Blue Slim Fit Faded Jeans combine a **modern slim silhouette** with a **comfortable cotton-stretch blend** for everyday wear.\n\nThe U.S. Polo Assn. Denim Co. Cole Comfort Blue Regular Fit Solid Jeans offer a **relaxed regular fit** made mostly of **breathable cotton with a touch of elastane** for ease.\n\nThe The Indian Garage Co Men Lightly Washed Straight Fit Jeans deliver a **lightly washed finish** and **straight-leg comfort** at an exceptional value.\n\nThe H&M Relaxed Jeans feature an **original-cut classic design** with **rigid cotton denim** and extra room from the seat down.\n\nThe Highlander Men Slim Fit Mid-Rise Dark Jeans provide a **budget-friendly dark indigo look** with a **skinny stretch fit** suited for casual outings.\n\n### Recommendation Summary\n\n* **For Balanced Quality & Branding:** Go with **U.S. Polo Assn.** or look for discounted styles from **Levi's** and **Pepe Jeans** during online sales on Myntra, Ajio, or Tata CLiQ for long-lasting fabrics.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Price%3A%20Approx%202000.%20Save%20BIG%20on%20Flipkart,sophistication%20with%20Wrangler's%20denim%20line%20for%20men.)\n* **For Maximum Value / Ultra-Budget:** Choose **The Indian Garage Co.** or **Highlander** if you want trendy washes well under ₹1,000.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you%20prefer%20a%20regular%20fit%20or,your%20personal%20style%20effortlessly.%20*%209.%20Mufti.)\n\nIf you like, I can help you filter these options based on your preferred fit (e.g., slim, skinny, straight, or relaxed) and color. Do you want me to do that?",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+        "snippet": "Whether you're dressing for a casual day out or a laid-back evening, \nRoadster jeans are designed to keep you looking stylish without breaking \nthe bank. Overall,...",
+        "domain": "magicpin.in",
+        "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you're%20dressing%20for%20a%20casual%20day,to%20offer%20for%20every%20wardrobe%20and%20occasion.",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+        "source_name": "magicpin",
+        "publication_date": null,
+        "markdown": "When shopping for men's jeans under ₹2,000 in India, several established brands offer reliable quality, trendy washes, and comfortable fits."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+        "snippet": "Whether you prefer a regular fit or a more tailored look, Lee's collection \nhas something for every man's wardrobe. * 8. Flying Machine. Flying Machine \ncombines ...",
+        "domain": "magicpin.in",
+        "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you%20prefer%20a%20regular%20fit%20or,your%20personal%20style%20effortlessly.%20*%209.%20Mufti.",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+        "source_name": "magicpin",
+        "publication_date": null,
+        "markdown": "and **Highlander**."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+        "snippet": "Price: Approx 2000. Save BIG on Flipkart E-gift cards with magicpin! * 3. \nPepe Jeans: Dive into Pepe Jeans' range of denim wonders, all priced under \nINR 2,000. ...",
+        "domain": "magicpin.in",
+        "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Price%3A%20Approx%202000.%20Save%20BIG%20on%20Flipkart,sophistication%20with%20Wrangler's%20denim%20line%20for%20men.",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+        "source_name": "magicpin",
+        "publication_date": null,
+        "markdown": "or look for discounted styles from **Levi's** and **Pepe Jeans** during online sales on Myntra, Ajio, or Tata CLiQ for long-lasting fabrics."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+        "snippet": "Whether you prefer a regular fit or a more tailored look, Lee's collection \nhas something for every man's wardrobe. * 8. Flying Machine. Flying Machine \ncombines ...",
+        "domain": "magicpin.in",
+        "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you%20prefer%20a%20regular%20fit%20or,your%20personal%20style%20effortlessly.%20*%209.%20Mufti.",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+        "source_name": "magicpin",
+        "publication_date": null,
+        "markdown": "or **Highlander** if you want trendy washes well under ₹1,000."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 10,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "When shopping for men's jeans under ₹2,000 in India, several established brands offer reliable quality, trendy washes, and comfortable fits.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you're%20dressing%20for%20a%20casual%20day,to%20offer%20for%20every%20wardrobe%20and%20occasion.) Popular choices include **Levi's** (entry-level lines and seasonal sales), **U.S. Polo Assn.**, **Pepe Jeans**, **Flying Machine**, **Mufti**, and budget-friendly favorites like **The Indian Garage Co.** and **Highlander**.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you%20prefer%20a%20regular%20fit%20or,your%20personal%20style%20effortlessly.%20*%209.%20Mufti.)",
+        "original_text": "When shopping for men's jeans under ₹2,000 in India, several established brands offer reliable quality, trendy washes, and comfortable fits. Popular choices include Levi's (entry-level lines and seasonal sales), U.S. Polo Assn., Pepe Jeans, Flying Machine, Mufti, and budget-friendly favorites like The Indian Garage Co. and Highlander.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+          "snippet": "Whether you're dressing for a casual day out or a laid-back evening, \nRoadster jeans are designed to keep you looking stylish without breaking \nthe bank. Overall,...",
+          "domain": "magicpin.in",
+          "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you're%20dressing%20for%20a%20casual%20day,to%20offer%20for%20every%20wardrobe%20and%20occasion.",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+          "source_name": "magicpin",
+          "publication_date": null,
+          "markdown": "When shopping for men's jeans under ₹2,000 in India, several established brands offer reliable quality, trendy washes, and comfortable fits."
+         },
+         {
+          "type": "gemini_source",
+          "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+          "snippet": "Whether you prefer a regular fit or a more tailored look, Lee's collection \nhas something for every man's wardrobe. * 8. Flying Machine. Flying Machine \ncombines ...",
+          "domain": "magicpin.in",
+          "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you%20prefer%20a%20regular%20fit%20or,your%20personal%20style%20effortlessly.%20*%209.%20Mufti.",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+          "source_name": "magicpin",
+          "publication_date": null,
+          "markdown": "and **Highlander**."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Here are top-rated options available within your budget:",
+        "original_text": "Here are top-rated options available within your budget:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "The U.S. Polo Assn. Men's Blue Slim Fit Faded Jeans combine a **modern slim silhouette** with a **comfortable cotton-stretch blend** for everyday wear.",
+        "original_text": "The U.S. Polo Assn. Men's Blue Slim Fit Faded Jeans combine a modern slim silhouette with a comfortable cotton-stretch blend for everyday wear.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "The U.S. Polo Assn. Denim Co. Cole Comfort Blue Regular Fit Solid Jeans offer a **relaxed regular fit** made mostly of **breathable cotton with a touch of elastane** for ease.",
+        "original_text": "The U.S. Polo Assn. Denim Co. Cole Comfort Blue Regular Fit Solid Jeans offer a relaxed regular fit made mostly of breathable cotton with a touch of elastane for ease.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "The The Indian Garage Co Men Lightly Washed Straight Fit Jeans deliver a **lightly washed finish** and **straight-leg comfort** at an exceptional value.",
+        "original_text": "The The Indian Garage Co Men Lightly Washed Straight Fit Jeans deliver a lightly washed finish and straight-leg comfort at an exceptional value.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "The H&M Relaxed Jeans feature an **original-cut classic design** with **rigid cotton denim** and extra room from the seat down.",
+        "original_text": "The H&M Relaxed Jeans feature an original-cut classic design with rigid cotton denim and extra room from the seat down.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "The Highlander Men Slim Fit Mid-Rise Dark Jeans provide a **budget-friendly dark indigo look** with a **skinny stretch fit** suited for casual outings.",
+        "original_text": "The Highlander Men Slim Fit Mid-Rise Dark Jeans provide a budget-friendly dark indigo look with a skinny stretch fit suited for casual outings.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### Recommendation Summary",
+        "original_text": "Recommendation Summary",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "* **For Balanced Quality & Branding:** Go with **U.S. Polo Assn.** or look for discounted styles from **Levi's** and **Pepe Jeans** during online sales on Myntra, Ajio, or Tata CLiQ for long-lasting fabrics.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Price%3A%20Approx%202000.%20Save%20BIG%20on%20Flipkart,sophistication%20with%20Wrangler's%20denim%20line%20for%20men.)\n* **For Maximum Value / Ultra-Budget:** Choose **The Indian Garage Co.** or **Highlander** if you want trendy washes well under ₹1,000.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you%20prefer%20a%20regular%20fit%20or,your%20personal%20style%20effortlessly.%20*%209.%20Mufti.)",
+        "original_text": "For Balanced Quality & Branding: Go with U.S. Polo Assn. or look for discounted styles from Levi's and Pepe Jeans during online sales on Myntra, Ajio, or Tata CLiQ for long-lasting fabrics.\nFor Maximum Value / Ultra-Budget: Choose The Indian Garage Co. or Highlander if you want trendy washes well under ₹1,000.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+          "snippet": "Price: Approx 2000. Save BIG on Flipkart E-gift cards with magicpin! * 3. \nPepe Jeans: Dive into Pepe Jeans' range of denim wonders, all priced under \nINR 2,000. ...",
+          "domain": "magicpin.in",
+          "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Price%3A%20Approx%202000.%20Save%20BIG%20on%20Flipkart,sophistication%20with%20Wrangler's%20denim%20line%20for%20men.",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+          "source_name": "magicpin",
+          "publication_date": null,
+          "markdown": "or look for discounted styles from **Levi's** and **Pepe Jeans** during online sales on Myntra, Ajio, or Tata CLiQ for long-lasting fabrics."
+         },
+         {
+          "type": "gemini_source",
+          "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+          "snippet": "Whether you prefer a regular fit or a more tailored look, Lee's collection \nhas something for every man's wardrobe. * 8. Flying Machine. Flying Machine \ncombines ...",
+          "domain": "magicpin.in",
+          "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=Whether%20you%20prefer%20a%20regular%20fit%20or,your%20personal%20style%20effortlessly.%20*%209.%20Mufti.",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+          "source_name": "magicpin",
+          "publication_date": null,
+          "markdown": "or **Highlander** if you want trendy washes well under ₹1,000."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "If you like, I can help you filter these options based on your preferred fit (e.g., slim, skinny, straight, or relaxed) and color. Do you want me to do that?",
+        "original_text": "If you like, I can help you filter these options based on your preferred fit (e.g., slim, skinny, straight, or relaxed) and color. Do you want me to do that?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

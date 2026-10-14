@@ -1,0 +1,152 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 7,
+  "promptText": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+  "cellId": "F05_hg_gemini_r7",
+  "startedAt": "2026-10-13T13:07:38.619Z",
+  "finishedAt": "2026-10-13T13:08:12.331Z",
+  "durationMs": 33712,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein shaadi ke functions ke liye agar aap **budget-friendly** sarees kharidna chahte hain, toh online kai saare acche aur bharosemand options mil jaate hain. Aap **Meesho, Myntra, Amazon, aur Koskii** jaise platforms check kar sakte hain jahan heavy festive aur wedding collections kam daam mein milte hain.\n\nYahan kuch acche aur budget-friendly saree options diye gaye hain jo aap online kharid sakte hain:\n\nYeh Wedding Kanjeevaram Silk Saree traditional zari work ke sath aati hai aur shaadi ke functions ke liye ek **budget-friendly aur classic choice** hai.\n\nYeh Powder Blue Zari Work Banarasi Silk Wedding Saree soft silk fabric aur jacquard border ke sath milti hai jo pehenne mein **behad khubsurat aur comfortable** lagti hai.\n\nYeh Red Floral Woven Lichi Banarasi Silk Saree lichi silk fabric aur rich weaving work ke sath aati hai jo sangeet ya wedding functions ke liye **ekdum perfect** hai.\n\nYeh Indian Wedding Wear Saree georgette fabric aur Banarasi lace border ke sath milti hai jo ek **modern aur stylish look** deti hai.\n\n### Kuch Useful Shopping Tips:\n\n* **Fabric Choose Karein:** Agar heavy look chahiye toh Banarasi Art Silk ya Vichitra Silk chun sakte hain, aur agar lightweight option chahiye toh Georgette ya Chiffon behtar rahenge.\n* **Return Policy Check Karein:** Online sasti sarees lete waqt hamesha fabric details aur customer reviews/ratings zaroor check kar lein taaki quality ka andaza ho sake.\n\nAgar aapko kisi khaas function (jaise Sangeet, Mehendi ya Reception) ke liye color ya specific fabric ki saree chahiye, toh batayein! Kya main aapke liye uske hisab se aur options dhoondh doon?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "33.0134 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131307-2163-0629-0000-695f3bc72445",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "32.9531 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:08:11 +00:00",
+      "markdown": "India mein shaadi ke functions ke liye agar aap **budget-friendly** sarees kharidna chahte hain, toh online kai saare acche aur bharosemand options mil jaate hain. Aap **Meesho, Myntra, Amazon, aur Koskii** jaise platforms check kar sakte hain jahan heavy festive aur wedding collections kam daam mein milte hain.\n\nYahan kuch acche aur budget-friendly saree options diye gaye hain jo aap online kharid sakte hain:\n\nYeh Wedding Kanjeevaram Silk Saree traditional zari work ke sath aati hai aur shaadi ke functions ke liye ek **budget-friendly aur classic choice** hai.\n\nYeh Powder Blue Zari Work Banarasi Silk Wedding Saree soft silk fabric aur jacquard border ke sath milti hai jo pehenne mein **behad khubsurat aur comfortable** lagti hai.\n\nYeh Red Floral Woven Lichi Banarasi Silk Saree lichi silk fabric aur rich weaving work ke sath aati hai jo sangeet ya wedding functions ke liye **ekdum perfect** hai.\n\nYeh Indian Wedding Wear Saree georgette fabric aur Banarasi lace border ke sath milti hai jo ek **modern aur stylish look** deti hai.\n\n### Kuch Useful Shopping Tips:\n\n* **Fabric Choose Karein:** Agar heavy look chahiye toh Banarasi Art Silk ya Vichitra Silk chun sakte hain, aur agar lightweight option chahiye toh Georgette ya Chiffon behtar rahenge.\n* **Return Policy Check Karein:** Online sasti sarees lete waqt hamesha fabric details aur customer reviews/ratings zaroor check kar lein taaki quality ka andaza ho sake.\n\nAgar aapko kisi khaas function (jaise Sangeet, Mehendi ya Reception) ke liye color ya specific fabric ki saree chahiye, toh batayein! Kya main aapke liye uske hisab se aur options dhoondh doon?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 9,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein shaadi ke functions ke liye agar aap **budget-friendly** sarees kharidna chahte hain, toh online kai saare acche aur bharosemand options mil jaate hain. Aap **Meesho, Myntra, Amazon, aur Koskii** jaise platforms check kar sakte hain jahan heavy festive aur wedding collections kam daam mein milte hain.",
+        "original_text": "India mein shaadi ke functions ke liye agar aap budget-friendly sarees kharidna chahte hain, toh online kai saare acche aur bharosemand options mil jaate hain. Aap Meesho, Myntra, Amazon, aur Koskii jaise platforms check kar sakte hain jahan heavy festive aur wedding collections kam daam mein milte hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Yahan kuch acche aur budget-friendly saree options diye gaye hain jo aap online kharid sakte hain:",
+        "original_text": "Yahan kuch acche aur budget-friendly saree options diye gaye hain jo aap online kharid sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "Yeh Wedding Kanjeevaram Silk Saree traditional zari work ke sath aati hai aur shaadi ke functions ke liye ek **budget-friendly aur classic choice** hai.",
+        "original_text": "Yeh Wedding Kanjeevaram Silk Saree traditional zari work ke sath aati hai aur shaadi ke functions ke liye ek budget-friendly aur classic choice hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "Yeh Powder Blue Zari Work Banarasi Silk Wedding Saree soft silk fabric aur jacquard border ke sath milti hai jo pehenne mein **behad khubsurat aur comfortable** lagti hai.",
+        "original_text": "Yeh Powder Blue Zari Work Banarasi Silk Wedding Saree soft silk fabric aur jacquard border ke sath milti hai jo pehenne mein behad khubsurat aur comfortable lagti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "Yeh Red Floral Woven Lichi Banarasi Silk Saree lichi silk fabric aur rich weaving work ke sath aati hai jo sangeet ya wedding functions ke liye **ekdum perfect** hai.",
+        "original_text": "Yeh Red Floral Woven Lichi Banarasi Silk Saree lichi silk fabric aur rich weaving work ke sath aati hai jo sangeet ya wedding functions ke liye ekdum perfect hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "Yeh Indian Wedding Wear Saree georgette fabric aur Banarasi lace border ke sath milti hai jo ek **modern aur stylish look** deti hai.",
+        "original_text": "Yeh Indian Wedding Wear Saree georgette fabric aur Banarasi lace border ke sath milti hai jo ek modern aur stylish look deti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "### Kuch Useful Shopping Tips:",
+        "original_text": "Kuch Useful Shopping Tips:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Fabric Choose Karein:** Agar heavy look chahiye toh Banarasi Art Silk ya Vichitra Silk chun sakte hain, aur agar lightweight option chahiye toh Georgette ya Chiffon behtar rahenge.\n* **Return Policy Check Karein:** Online sasti sarees lete waqt hamesha fabric details aur customer reviews/ratings zaroor check kar lein taaki quality ka andaza ho sake.",
+        "original_text": "Fabric Choose Karein: Agar heavy look chahiye toh Banarasi Art Silk ya Vichitra Silk chun sakte hain, aur agar lightweight option chahiye toh Georgette ya Chiffon behtar rahenge.\nReturn Policy Check Karein: Online sasti sarees lete waqt hamesha fabric details aur customer reviews/ratings zaroor check kar lein taaki quality ka andaza ho sake.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "Agar aapko kisi khaas function (jaise Sangeet, Mehendi ya Reception) ke liye color ya specific fabric ki saree chahiye, toh batayein! Kya main aapke liye uske hisab se aur options dhoondh doon?",
+        "original_text": "Agar aapko kisi khaas function (jaise Sangeet, Mehendi ya Reception) ke liye color ya specific fabric ki saree chahiye, toh batayein! Kya main aapke liye uske hisab se aur options dhoondh doon?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

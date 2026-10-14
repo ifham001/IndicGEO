@@ -1,0 +1,158 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S04",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 2,
+  "promptText": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+  "cellId": "S04_hg_gemini_r2",
+  "startedAt": "2026-10-13T14:03:03.840Z",
+  "finishedAt": "2026-10-13T14:03:33.326Z",
+  "durationMs": 29486,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T14:01:11.748Z",
+    "error": "This operation was aborted"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Indian winters mein thandi hawa aur kam humidity ki wajah se skin ka moisture jaldi khatam ho jata hai aur skin dry ya flaky ho jaati hai. Is season ke liye aapko aise moisturizers chunne chahiye jo **ceramides, hyaluronic acid, shea butter, ya glycerin** jaise ingredients se rich hon, taaki skin ka barrier repair ho sake aur 24-72 ghante tak hydration lock rahe.\n\nYahan kuch best aur dermatologist-recommended options hain:\n\nCeraVe Moisturising Cream dry se lekar very dry skin ke liye ek behtareen barrier repair cream hai. Isme **3 essential ceramides** aur **hyaluronic acid** hote hain jo skin ko deep hydration dete hain.\n\nCetaphil Moisturizing Cream sensitive aur extreme dry skin ke liye ek reliable choice hai. Yeh **glycerin, niacinamide, aur almond oil** se rich hoti hai jo skin ko lambe samay tak soft rakhti hai.\n\nRe'equil Ceramide & Hyaluronic Acid Moisturiser ek budget-friendly option hai jo dry aur flaky skin ko repair karta hai. Yeh skin se **moisture loss (TEWL)** ko rokne mein madad karta hai.\n\nDot & Key Barrier Repair Moisturizer dry aur sensitive skin ke liye designed hai. Yeh **5 essential ceramides** aur **japanese rice water** ke sath skin ko calm aur deeply nourish karta hai.\n\n### Summary Recommendation\n\n* Agar aapki skin **bahut zyada dry ya flaking** wali hai, toh CeraVe Moisturising Cream ya Cetaphil Moisturizing Cream sabse best rahengi.\n* Agar aap ek **budget-friendly aur lightweight** option chahte hain jo barrier bhi strong kare, toh Re'equil Ceramide & Hyaluronic Acid Moisturiser ek acha choice hai.\n\nAgar aap chahte hain ki main oily ya combination skin ke liye bhi winter moisturizers ke options batau, toh aap pooch sakte hain.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "28.9159 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131403-2163-0629-0000-03b4230409ec",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "28.8141 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:03:35 +00:00",
+      "markdown": "Indian winters mein thandi hawa aur kam humidity ki wajah se skin ka moisture jaldi khatam ho jata hai aur skin dry ya flaky ho jaati hai. Is season ke liye aapko aise moisturizers chunne chahiye jo **ceramides, hyaluronic acid, shea butter, ya glycerin** jaise ingredients se rich hon, taaki skin ka barrier repair ho sake aur 24-72 ghante tak hydration lock rahe.\n\nYahan kuch best aur dermatologist-recommended options hain:\n\nCeraVe Moisturising Cream dry se lekar very dry skin ke liye ek behtareen barrier repair cream hai. Isme **3 essential ceramides** aur **hyaluronic acid** hote hain jo skin ko deep hydration dete hain.\n\nCetaphil Moisturizing Cream sensitive aur extreme dry skin ke liye ek reliable choice hai. Yeh **glycerin, niacinamide, aur almond oil** se rich hoti hai jo skin ko lambe samay tak soft rakhti hai.\n\nRe'equil Ceramide & Hyaluronic Acid Moisturiser ek budget-friendly option hai jo dry aur flaky skin ko repair karta hai. Yeh skin se **moisture loss (TEWL)** ko rokne mein madad karta hai.\n\nDot & Key Barrier Repair Moisturizer dry aur sensitive skin ke liye designed hai. Yeh **5 essential ceramides** aur **japanese rice water** ke sath skin ko calm aur deeply nourish karta hai.\n\n### Summary Recommendation\n\n* Agar aapki skin **bahut zyada dry ya flaking** wali hai, toh CeraVe Moisturising Cream ya Cetaphil Moisturizing Cream sabse best rahengi.\n* Agar aap ek **budget-friendly aur lightweight** option chahte hain jo barrier bhi strong kare, toh Re'equil Ceramide & Hyaluronic Acid Moisturiser ek acha choice hai.\n\nAgar aap chahte hain ki main oily ya combination skin ke liye bhi winter moisturizers ke options batau, toh aap pooch sakte hain.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 9,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Indian winters mein thandi hawa aur kam humidity ki wajah se skin ka moisture jaldi khatam ho jata hai aur skin dry ya flaky ho jaati hai. Is season ke liye aapko aise moisturizers chunne chahiye jo **ceramides, hyaluronic acid, shea butter, ya glycerin** jaise ingredients se rich hon, taaki skin ka barrier repair ho sake aur 24-72 ghante tak hydration lock rahe.",
+        "original_text": "Indian winters mein thandi hawa aur kam humidity ki wajah se skin ka moisture jaldi khatam ho jata hai aur skin dry ya flaky ho jaati hai. Is season ke liye aapko aise moisturizers chunne chahiye jo ceramides, hyaluronic acid, shea butter, ya glycerin jaise ingredients se rich hon, taaki skin ka barrier repair ho sake aur 24-72 ghante tak hydration lock rahe.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Yahan kuch best aur dermatologist-recommended options hain:",
+        "original_text": "Yahan kuch best aur dermatologist-recommended options hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "CeraVe Moisturising Cream dry se lekar very dry skin ke liye ek behtareen barrier repair cream hai. Isme **3 essential ceramides** aur **hyaluronic acid** hote hain jo skin ko deep hydration dete hain.",
+        "original_text": "CeraVe Moisturising Cream dry se lekar very dry skin ke liye ek behtareen barrier repair cream hai. Isme 3 essential ceramides aur hyaluronic acid hote hain jo skin ko deep hydration dete hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "Cetaphil Moisturizing Cream sensitive aur extreme dry skin ke liye ek reliable choice hai. Yeh **glycerin, niacinamide, aur almond oil** se rich hoti hai jo skin ko lambe samay tak soft rakhti hai.",
+        "original_text": "Cetaphil Moisturizing Cream sensitive aur extreme dry skin ke liye ek reliable choice hai. Yeh glycerin, niacinamide, aur almond oil se rich hoti hai jo skin ko lambe samay tak soft rakhti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "Re'equil Ceramide & Hyaluronic Acid Moisturiser ek budget-friendly option hai jo dry aur flaky skin ko repair karta hai. Yeh skin se **moisture loss (TEWL)** ko rokne mein madad karta hai.",
+        "original_text": "Re'equil Ceramide & Hyaluronic Acid Moisturiser ek budget-friendly option hai jo dry aur flaky skin ko repair karta hai. Yeh skin se moisture loss (TEWL) ko rokne mein madad karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "Dot & Key Barrier Repair Moisturizer dry aur sensitive skin ke liye designed hai. Yeh **5 essential ceramides** aur **japanese rice water** ke sath skin ko calm aur deeply nourish karta hai.",
+        "original_text": "Dot & Key Barrier Repair Moisturizer dry aur sensitive skin ke liye designed hai. Yeh 5 essential ceramides aur japanese rice water ke sath skin ko calm aur deeply nourish karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "### Summary Recommendation",
+        "original_text": "Summary Recommendation",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* Agar aapki skin **bahut zyada dry ya flaking** wali hai, toh CeraVe Moisturising Cream ya Cetaphil Moisturizing Cream sabse best rahengi.\n* Agar aap ek **budget-friendly aur lightweight** option chahte hain jo barrier bhi strong kare, toh Re'equil Ceramide & Hyaluronic Acid Moisturiser ek acha choice hai.",
+        "original_text": "Agar aapki skin bahut zyada dry ya flaking wali hai, toh CeraVe Moisturising Cream ya Cetaphil Moisturizing Cream sabse best rahengi.\nAgar aap ek budget-friendly aur lightweight option chahte hain jo barrier bhi strong kare, toh Re'equil Ceramide & Hyaluronic Acid Moisturiser ek acha choice hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "Agar aap chahte hain ki main oily ya combination skin ke liye bhi winter moisturizers ke options batau, toh aap pooch sakte hain.",
+        "original_text": "Agar aap chahte hain ki main oily ya combination skin ke liye bhi winter moisturizers ke options batau, toh aap pooch sakte hain.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,200 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 6,
+  "promptText": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+  "cellId": "S02_hg_gemini_r6",
+  "startedAt": "2026-10-13T13:50:10.521Z",
+  "finishedAt": "2026-10-13T13:50:44.229Z",
+  "durationMs": 33708,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Bharat ki skin tone aur weather ke hisab se kuch behtareen sunscreens available hain jo bilkul **white cast nahi chhodete**, lightweight hain, aur rozana use karne ke liye ekdum sahi hain.\n\nAapki skin type ke mutabiq aap inmein se chun sakte hain:\n\n### 1. Derma Co 1% Hyaluronic Sunscreen Aqua Gel\n\n* **SPF:** SPF 50 PA++++\n* **Kiske liye best hai:** Dry aur Normal skin ke liye.\n* **Khasiyat:** Ye gel-based sunscreen turant skin mein absorb ho jata hai, skin ko hydrate karta hai aur ekdum zero white cast chhodta hai.\n\n### 2. minimalist Sunscreen (SPF 50 PA++++ or SPF 30)\n\n* **Kiske liye best hai:** Sabhi skin types ke liye (Sensitive skin ke liye bhi safe hai).\n* **Khasiyat:** Ye fragrance-free hai aur iska texture bahut smooth hai. Ye skin par heavy mehsoos nahi hota aur bilkul white cast nahi chhodta.\n\n### 3. Aqualogica Glow+ Dewy Sunscreen\n\n* **Kiske liye best hai:** Dull aur Dehydrated skin ke liye.\n* **Khasiyat:** Ismein Papaya aur Vitamin C hai jo skin par ek natural glow deta hai. Ye water-like texture mein aata hai aur bina kisi white cast ke blend ho jata hai.\n\n### 4. Re'equel Ultra Matte Dry Touch Sunscreen Gel\n\n* **Kiske liye best hai:** Oily aur Acne-prone skin ke liye.\n* **Khasiyat:** Agar aapko pasina bahut aata hai ya oily skin hai, toh ye matte finish deta hai. Water-resistant hai aur iska texture velvet jaisa soft hai.\n\n### 5. Conscious Chemist Sun Drink / Berry Bright Sunscreen\n\n* **Kiske liye best hai:** Combination aur Oily skin ke liye.\n* **Khasiyat:** Ye super lightweight, invisible finish deta hai aur daily wear ke liye bahut accha option hai.\n\n---\n\n### Kuch Zaroori Tips:\n\n* **Kitna lagana hai:** Face aur neck ke liye kareeb 2 fingers jitna sunscreen lagana zaroori hai.\n* **Re-application:** Agar aap dhoop mein hain, toh har 2-3 ghante baad sunscreen dobara zaroor lagayein.\n\nKya aapki skin type oily hai ya dry, taaki main aur behtar option suggest kar sakoon?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "33.4565 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131350-2163-0629-0000-4f3a501da191",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "33.3659 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:50:45 +00:00",
+      "markdown": "Bharat ki skin tone aur weather ke hisab se kuch behtareen sunscreens available hain jo bilkul **white cast nahi chhodete**, lightweight hain, aur rozana use karne ke liye ekdum sahi hain.\n\nAapki skin type ke mutabiq aap inmein se chun sakte hain:\n\n### 1. Derma Co 1% Hyaluronic Sunscreen Aqua Gel\n\n* **SPF:** SPF 50 PA++++\n* **Kiske liye best hai:** Dry aur Normal skin ke liye.\n* **Khasiyat:** Ye gel-based sunscreen turant skin mein absorb ho jata hai, skin ko hydrate karta hai aur ekdum zero white cast chhodta hai.\n\n### 2. minimalist Sunscreen (SPF 50 PA++++ or SPF 30)\n\n* **Kiske liye best hai:** Sabhi skin types ke liye (Sensitive skin ke liye bhi safe hai).\n* **Khasiyat:** Ye fragrance-free hai aur iska texture bahut smooth hai. Ye skin par heavy mehsoos nahi hota aur bilkul white cast nahi chhodta.\n\n### 3. Aqualogica Glow+ Dewy Sunscreen\n\n* **Kiske liye best hai:** Dull aur Dehydrated skin ke liye.\n* **Khasiyat:** Ismein Papaya aur Vitamin C hai jo skin par ek natural glow deta hai. Ye water-like texture mein aata hai aur bina kisi white cast ke blend ho jata hai.\n\n### 4. Re'equel Ultra Matte Dry Touch Sunscreen Gel\n\n* **Kiske liye best hai:** Oily aur Acne-prone skin ke liye.\n* **Khasiyat:** Agar aapko pasina bahut aata hai ya oily skin hai, toh ye matte finish deta hai. Water-resistant hai aur iska texture velvet jaisa soft hai.\n\n### 5. Conscious Chemist Sun Drink / Berry Bright Sunscreen\n\n* **Kiske liye best hai:** Combination aur Oily skin ke liye.\n* **Khasiyat:** Ye super lightweight, invisible finish deta hai aur daily wear ke liye bahut accha option hai.\n\n---\n\n### Kuch Zaroori Tips:\n\n* **Kitna lagana hai:** Face aur neck ke liye kareeb 2 fingers jitna sunscreen lagana zaroori hai.\n* **Re-application:** Agar aap dhoop mein hain, toh har 2-3 ghante baad sunscreen dobara zaroor lagayein.\n\nKya aapki skin type oily hai ya dry, taaki main aur behtar option suggest kar sakoon?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 15,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Bharat ki skin tone aur weather ke hisab se kuch behtareen sunscreens available hain jo bilkul **white cast nahi chhodete**, lightweight hain, aur rozana use karne ke liye ekdum sahi hain.",
+        "original_text": "Bharat ki skin tone aur weather ke hisab se kuch behtareen sunscreens available hain jo bilkul white cast nahi chhodete, lightweight hain, aur rozana use karne ke liye ekdum sahi hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Aapki skin type ke mutabiq aap inmein se chun sakte hain:",
+        "original_text": "Aapki skin type ke mutabiq aap inmein se chun sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### 1. Derma Co 1% Hyaluronic Sunscreen Aqua Gel",
+        "original_text": "1. Derma Co 1% Hyaluronic Sunscreen Aqua Gel",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **SPF:** SPF 50 PA++++\n* **Kiske liye best hai:** Dry aur Normal skin ke liye.\n* **Khasiyat:** Ye gel-based sunscreen turant skin mein absorb ho jata hai, skin ko hydrate karta hai aur ekdum zero white cast chhodta hai.",
+        "original_text": "SPF: SPF 50 PA++++\nKiske liye best hai: Dry aur Normal skin ke liye.\nKhasiyat: Ye gel-based sunscreen turant skin mein absorb ho jata hai, skin ko hydrate karta hai aur ekdum zero white cast chhodta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. minimalist Sunscreen (SPF 50 PA++++ or SPF 30)",
+        "original_text": "2. minimalist Sunscreen (SPF 50 PA++++ or SPF 30)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Kiske liye best hai:** Sabhi skin types ke liye (Sensitive skin ke liye bhi safe hai).\n* **Khasiyat:** Ye fragrance-free hai aur iska texture bahut smooth hai. Ye skin par heavy mehsoos nahi hota aur bilkul white cast nahi chhodta.",
+        "original_text": "Kiske liye best hai: Sabhi skin types ke liye (Sensitive skin ke liye bhi safe hai).\nKhasiyat: Ye fragrance-free hai aur iska texture bahut smooth hai. Ye skin par heavy mehsoos nahi hota aur bilkul white cast nahi chhodta.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "### 3. Aqualogica Glow+ Dewy Sunscreen",
+        "original_text": "3. Aqualogica Glow+ Dewy Sunscreen",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Kiske liye best hai:** Dull aur Dehydrated skin ke liye.\n* **Khasiyat:** Ismein Papaya aur Vitamin C hai jo skin par ek natural glow deta hai. Ye water-like texture mein aata hai aur bina kisi white cast ke blend ho jata hai.",
+        "original_text": "Kiske liye best hai: Dull aur Dehydrated skin ke liye.\nKhasiyat: Ismein Papaya aur Vitamin C hai jo skin par ek natural glow deta hai. Ye water-like texture mein aata hai aur bina kisi white cast ke blend ho jata hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### 4. Re'equel Ultra Matte Dry Touch Sunscreen Gel",
+        "original_text": "4. Re'equel Ultra Matte Dry Touch Sunscreen Gel",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "* **Kiske liye best hai:** Oily aur Acne-prone skin ke liye.\n* **Khasiyat:** Agar aapko pasina bahut aata hai ya oily skin hai, toh ye matte finish deta hai. Water-resistant hai aur iska texture velvet jaisa soft hai.",
+        "original_text": "Kiske liye best hai: Oily aur Acne-prone skin ke liye.\nKhasiyat: Agar aapko pasina bahut aata hai ya oily skin hai, toh ye matte finish deta hai. Water-resistant hai aur iska texture velvet jaisa soft hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "### 5. Conscious Chemist Sun Drink / Berry Bright Sunscreen",
+        "original_text": "5. Conscious Chemist Sun Drink / Berry Bright Sunscreen",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "* **Kiske liye best hai:** Combination aur Oily skin ke liye.\n* **Khasiyat:** Ye super lightweight, invisible finish deta hai aur daily wear ke liye bahut accha option hai.",
+        "original_text": "Kiske liye best hai: Combination aur Oily skin ke liye.\nKhasiyat: Ye super lightweight, invisible finish deta hai aur daily wear ke liye bahut accha option hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "markdown": "### Kuch Zaroori Tips:",
+        "original_text": "Kuch Zaroori Tips:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 14,
+        "rank_absolute": 14,
+        "markdown": "* **Kitna lagana hai:** Face aur neck ke liye kareeb 2 fingers jitna sunscreen lagana zaroori hai.\n* **Re-application:** Agar aap dhoop mein hain, toh har 2-3 ghante baad sunscreen dobara zaroor lagayein.",
+        "original_text": "Kitna lagana hai: Face aur neck ke liye kareeb 2 fingers jitna sunscreen lagana zaroori hai.\nRe-application: Agar aap dhoop mein hain, toh har 2-3 ghante baad sunscreen dobara zaroor lagayein.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 15,
+        "rank_absolute": 15,
+        "markdown": "Kya aapki skin type oily hai ya dry, taaki main aur behtar option suggest kar sakoon?",
+        "original_text": "Kya aapki skin type oily hai ya dry, taaki main aur behtar option suggest kar sakoon?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

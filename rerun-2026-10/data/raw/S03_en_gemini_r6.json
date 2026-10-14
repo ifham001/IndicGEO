@@ -1,0 +1,142 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S03",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 6,
+  "promptText": "Which vitamin C serum should I buy for dark spots and dull skin in India?",
+  "cellId": "S03_en_gemini_r6",
+  "startedAt": "2026-10-13T13:52:20.276Z",
+  "finishedAt": "2026-10-13T13:53:28.590Z",
+  "durationMs": 68314,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T13:51:05.772Z",
+    "error": "DataForSEO gemini task error 40102: No Search Results."
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "The Minimalist Vitamin C 10% Face Serum uses **stable Ethyl Ascorbic Acid** with Centella water to **fade dullness and dark spots** gently.\n\nThe Plum 15% Vitamin C Glow Boost Face Serum for Dark Spots combines **15% Vitamin C** with Japanese Mandarin and Kakadu Plum to **rapidly boost radiance and hyperpigmentation**.\n\nThe Foxtale 10% Vitamin C-Glutathione Brightening Face Serum for Glowing Skin pairs **Vitamin C with Glutathione** to target **melasma, dark spots, and uneven tone** quickly.\n\nThe Pilgrim 15% Vitamin C Serum For Glowing Face features **Ferulic Acid and Kakadu Plum** to protect against environmental stressors and **minimize stubborn dark spots**.\n\nThe The Derma Co 15% Vitamin C Face Serum For Skin Radiance blends **15% Vitamin C with 5% Niacinamide** to clear dark spots, **refine pores, and support skin hydration**.\n\nIf you are a beginner or have sensitive skin, start with a 10% concentration like the **Minimalist** or **Foxtale** serums to build tolerance. If you have stubborn dark spots and your skin is already used to actives, step up to a 15% option like **Plum**, **Pilgrim**, or **The Derma Co**. Always follow up with a broad-spectrum sunscreen during the day to protect your results.\n\nIf you like, I can help you build a complete morning and evening skincare routine tailored to your skin type to tackle dullness and hyperpigmentation. Do you want me to do that?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "67.2505 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131352-2163-0629-0000-8329bea50554",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "67.1675 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Which vitamin C serum should I buy for dark spots and dull skin in India?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which vitamin C serum should I buy for dark spots and dull skin in India?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:53:30 +00:00",
+      "markdown": "The Minimalist Vitamin C 10% Face Serum uses **stable Ethyl Ascorbic Acid** with Centella water to **fade dullness and dark spots** gently.\n\nThe Plum 15% Vitamin C Glow Boost Face Serum for Dark Spots combines **15% Vitamin C** with Japanese Mandarin and Kakadu Plum to **rapidly boost radiance and hyperpigmentation**.\n\nThe Foxtale 10% Vitamin C-Glutathione Brightening Face Serum for Glowing Skin pairs **Vitamin C with Glutathione** to target **melasma, dark spots, and uneven tone** quickly.\n\nThe Pilgrim 15% Vitamin C Serum For Glowing Face features **Ferulic Acid and Kakadu Plum** to protect against environmental stressors and **minimize stubborn dark spots**.\n\nThe The Derma Co 15% Vitamin C Face Serum For Skin Radiance blends **15% Vitamin C with 5% Niacinamide** to clear dark spots, **refine pores, and support skin hydration**.\n\nIf you are a beginner or have sensitive skin, start with a 10% concentration like the **Minimalist** or **Foxtale** serums to build tolerance. If you have stubborn dark spots and your skin is already used to actives, step up to a 15% option like **Plum**, **Pilgrim**, or **The Derma Co**. Always follow up with a broad-spectrum sunscreen during the day to protect your results.\n\nIf you like, I can help you build a complete morning and evening skincare routine tailored to your skin type to tackle dullness and hyperpigmentation. Do you want me to do that?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 7,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "The Minimalist Vitamin C 10% Face Serum uses **stable Ethyl Ascorbic Acid** with Centella water to **fade dullness and dark spots** gently.",
+        "original_text": "The Minimalist Vitamin C 10% Face Serum uses stable Ethyl Ascorbic Acid with Centella water to fade dullness and dark spots gently.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "The Plum 15% Vitamin C Glow Boost Face Serum for Dark Spots combines **15% Vitamin C** with Japanese Mandarin and Kakadu Plum to **rapidly boost radiance and hyperpigmentation**.",
+        "original_text": "The Plum 15% Vitamin C Glow Boost Face Serum for Dark Spots combines 15% Vitamin C with Japanese Mandarin and Kakadu Plum to rapidly boost radiance and hyperpigmentation.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "The Foxtale 10% Vitamin C-Glutathione Brightening Face Serum for Glowing Skin pairs **Vitamin C with Glutathione** to target **melasma, dark spots, and uneven tone** quickly.",
+        "original_text": "The Foxtale 10% Vitamin C-Glutathione Brightening Face Serum for Glowing Skin pairs Vitamin C with Glutathione to target melasma, dark spots, and uneven tone quickly.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "The Pilgrim 15% Vitamin C Serum For Glowing Face features **Ferulic Acid and Kakadu Plum** to protect against environmental stressors and **minimize stubborn dark spots**.",
+        "original_text": "The Pilgrim 15% Vitamin C Serum For Glowing Face features Ferulic Acid and Kakadu Plum to protect against environmental stressors and minimize stubborn dark spots.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "The The Derma Co 15% Vitamin C Face Serum For Skin Radiance blends **15% Vitamin C with 5% Niacinamide** to clear dark spots, **refine pores, and support skin hydration**.",
+        "original_text": "The The Derma Co 15% Vitamin C Face Serum For Skin Radiance blends 15% Vitamin C with 5% Niacinamide to clear dark spots, refine pores, and support skin hydration.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "If you are a beginner or have sensitive skin, start with a 10% concentration like the **Minimalist** or **Foxtale** serums to build tolerance. If you have stubborn dark spots and your skin is already used to actives, step up to a 15% option like **Plum**, **Pilgrim**, or **The Derma Co**. Always follow up with a broad-spectrum sunscreen during the day to protect your results.",
+        "original_text": "If you are a beginner or have sensitive skin, start with a 10% concentration like the Minimalist or Foxtale serums to build tolerance. If you have stubborn dark spots and your skin is already used to actives, step up to a 15% option like Plum, Pilgrim, or The Derma Co. Always follow up with a broad-spectrum sunscreen during the day to protect your results.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "If you like, I can help you build a complete morning and evening skincare routine tailored to your skin type to tackle dullness and hyperpigmentation. Do you want me to do that?",
+        "original_text": "If you like, I can help you build a complete morning and evening skincare routine tailored to your skin type to tackle dullness and hyperpigmentation. Do you want me to do that?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,214 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 1,
+  "promptText": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+  "cellId": "F01_hg_gemini_r1",
+  "startedAt": "2026-10-13T14:07:50.906Z",
+  "finishedAt": "2026-10-13T14:09:14.083Z",
+  "durationMs": 83177,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein ₹2000 ke budget ke andar men ke liye kai saare acche aur reliable denim brands mil jaate hain. Aap apni pasand, fit aur durability ke hisab se in brands ko chun sakte hain:\n\n* **Levi's (Budget/Sale Options):** Halanki Levi's ki base pricing ₹2000 se upar hoti hai, lekin online sales (jaise Myntra, Flipkart ya Ajio) par inke classic slim aur straight fit models aasani se **₹1500 - ₹2000** ke beech mil jaate hain. Yeh long-lasting durability aur timeless style ke liye best hain.\n* **Pepe Jeans & Jack & Jones:[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=*%202.%20Jack%20%26%20Jones%3A%20Elevate%20your,and%20style%20seamlessly%20combined%20in%20their%20offerings.)** Yeh dono brands modern cuts, stylish washes, aur stretchable comfort ke liye jaane jaate hain.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=*%202.%20Jack%20%26%20Jones%3A%20Elevate%20your,and%20style%20seamlessly%20combined%20in%20their%20offerings.) Inki jeans ₹1800 - ₹2000 ki range mein youth ke beech kafi popular hain.\n* **The Indian Garage Co:** Agar aapko ekdum budget-friendly option chahiye jo **₹600 - ₹1000** ke andar aa jaye, toh yeh brand everyday wear aur slim/bootcut fits ke liye ek accha vikalp hai.\n\nYeh Levi's Men's Mid Rise Slim Jeans versatile silhouette aur **durable cotton fabric** ke saath aati hai.\n\nYeh H&M Relaxed Jeans rigid cotton denim aur **straight leg design** ke sath ek classic look deti hai.\n\nYeh The Indian Garage Co Men Slim Fit Mid-Rise Jeans budget-friendly price par **comfortable stretchable fit** provide karti hai.\n\nYeh Levi's Men's Dark Indigo Bootcut Fit Mid Rise Jeans classic dark wash aur **premium build quality** ke sath aati hai.\n\nYeh The Indian Garage Co Men's Slim Fit Mid-Rise Jeans extremely soft finish aur **rich look** ke liye best choice hai.\n\nYeh The Indian Garage Co Men Lightly Washed Slim Fit Jeans lightly washed design aur **flexible mid-waist fit** offer karti hai.\n\nYeh The Indian Garage Co Men Lightly Washed Slim Fit Jeans For Men (Blue, 32) casual daily outings ke liye **versatile aur comfortable** option hai.\n\nYeh Levi's Men's Fitted Mid Rise Jeans cotton-elastane blend ke sath **ease of movement** aur perfect fit deti hai.\n\nAgar aapko apni prefered fit (jaise slim, skinny ya relaxed) ke hisab se kuch specific options chahiye, toh batayein!",
+  "citations": [
+   {
+    "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=*%202.%20Jack%20%26%20Jones%3A%20Elevate%20your,and%20style%20seamlessly%20combined%20in%20their%20offerings.",
+    "source_name": "magicpin",
+    "position": 1
+   },
+   {
+    "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=*%202.%20Jack%20%26%20Jones%3A%20Elevate%20your,and%20style%20seamlessly%20combined%20in%20their%20offerings.",
+    "source_name": "magicpin",
+    "position": 2
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "82.5132 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131407-2163-0629-0000-cad9299abf16",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "82.2751 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:09:15 +00:00",
+      "markdown": "India mein ₹2000 ke budget ke andar men ke liye kai saare acche aur reliable denim brands mil jaate hain. Aap apni pasand, fit aur durability ke hisab se in brands ko chun sakte hain:\n\n* **Levi's (Budget/Sale Options):** Halanki Levi's ki base pricing ₹2000 se upar hoti hai, lekin online sales (jaise Myntra, Flipkart ya Ajio) par inke classic slim aur straight fit models aasani se **₹1500 - ₹2000** ke beech mil jaate hain. Yeh long-lasting durability aur timeless style ke liye best hain.\n* **Pepe Jeans & Jack & Jones:[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=*%202.%20Jack%20%26%20Jones%3A%20Elevate%20your,and%20style%20seamlessly%20combined%20in%20their%20offerings.)** Yeh dono brands modern cuts, stylish washes, aur stretchable comfort ke liye jaane jaate hain.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=*%202.%20Jack%20%26%20Jones%3A%20Elevate%20your,and%20style%20seamlessly%20combined%20in%20their%20offerings.) Inki jeans ₹1800 - ₹2000 ki range mein youth ke beech kafi popular hain.\n* **The Indian Garage Co:** Agar aapko ekdum budget-friendly option chahiye jo **₹600 - ₹1000** ke andar aa jaye, toh yeh brand everyday wear aur slim/bootcut fits ke liye ek accha vikalp hai.\n\nYeh Levi's Men's Mid Rise Slim Jeans versatile silhouette aur **durable cotton fabric** ke saath aati hai.\n\nYeh H&M Relaxed Jeans rigid cotton denim aur **straight leg design** ke sath ek classic look deti hai.\n\nYeh The Indian Garage Co Men Slim Fit Mid-Rise Jeans budget-friendly price par **comfortable stretchable fit** provide karti hai.\n\nYeh Levi's Men's Dark Indigo Bootcut Fit Mid Rise Jeans classic dark wash aur **premium build quality** ke sath aati hai.\n\nYeh The Indian Garage Co Men's Slim Fit Mid-Rise Jeans extremely soft finish aur **rich look** ke liye best choice hai.\n\nYeh The Indian Garage Co Men Lightly Washed Slim Fit Jeans lightly washed design aur **flexible mid-waist fit** offer karti hai.\n\nYeh The Indian Garage Co Men Lightly Washed Slim Fit Jeans For Men (Blue, 32) casual daily outings ke liye **versatile aur comfortable** option hai.\n\nYeh Levi's Men's Fitted Mid Rise Jeans cotton-elastane blend ke sath **ease of movement** aur perfect fit deti hai.\n\nAgar aapko apni prefered fit (jaise slim, skinny ya relaxed) ke hisab se kuch specific options chahiye, toh batayein!",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+        "snippet": "* 2. Jack & Jones: Elevate your fashion game with Jack & Jones' collection \nof affordable denims. Their innovative designs and modern cuts give you a \nsleek look ...",
+        "domain": "magicpin.in",
+        "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=*%202.%20Jack%20%26%20Jones%3A%20Elevate%20your,and%20style%20seamlessly%20combined%20in%20their%20offerings.",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+        "source_name": "magicpin",
+        "publication_date": null,
+        "markdown": "**Pepe Jeans & Jack & Jones:**"
+       },
+       {
+        "type": "gemini_source",
+        "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+        "snippet": "* 2. Jack & Jones: Elevate your fashion game with Jack & Jones' collection \nof affordable denims. Their innovative designs and modern cuts give you a \nsleek look ...",
+        "domain": "magicpin.in",
+        "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=*%202.%20Jack%20%26%20Jones%3A%20Elevate%20your,and%20style%20seamlessly%20combined%20in%20their%20offerings.",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+        "source_name": "magicpin",
+        "publication_date": null,
+        "markdown": "Yeh dono brands modern cuts, stylish washes, aur stretchable comfort ke liye jaane jaate hain."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 11,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein ₹2000 ke budget ke andar men ke liye kai saare acche aur reliable denim brands mil jaate hain. Aap apni pasand, fit aur durability ke hisab se in brands ko chun sakte hain:",
+        "original_text": "India mein ₹2000 ke budget ke andar men ke liye kai saare acche aur reliable denim brands mil jaate hain. Aap apni pasand, fit aur durability ke hisab se in brands ko chun sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "* **Levi's (Budget/Sale Options):** Halanki Levi's ki base pricing ₹2000 se upar hoti hai, lekin online sales (jaise Myntra, Flipkart ya Ajio) par inke classic slim aur straight fit models aasani se **₹1500 - ₹2000** ke beech mil jaate hain. Yeh long-lasting durability aur timeless style ke liye best hain.\n* **Pepe Jeans & Jack & Jones:[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=*%202.%20Jack%20%26%20Jones%3A%20Elevate%20your,and%20style%20seamlessly%20combined%20in%20their%20offerings.)** Yeh dono brands modern cuts, stylish washes, aur stretchable comfort ke liye jaane jaate hain.[magicpin.in](https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=*%202.%20Jack%20%26%20Jones%3A%20Elevate%20your,and%20style%20seamlessly%20combined%20in%20their%20offerings.) Inki jeans ₹1800 - ₹2000 ki range mein youth ke beech kafi popular hain.\n* **The Indian Garage Co:** Agar aapko ekdum budget-friendly option chahiye jo **₹600 - ₹1000** ke andar aa jaye, toh yeh brand everyday wear aur slim/bootcut fits ke liye ek accha vikalp hai.",
+        "original_text": "Levi's (Budget/Sale Options): Halanki Levi's ki base pricing ₹2000 se upar hoti hai, lekin online sales (jaise Myntra, Flipkart ya Ajio) par inke classic slim aur straight fit models aasani se ₹1500 - ₹2000 ke beech mil jaate hain. Yeh long-lasting durability aur timeless style ke liye best hain.\nPepe Jeans & Jack & Jones: Yeh dono brands modern cuts, stylish washes, aur stretchable comfort ke liye jaane jaate hain. Inki jeans ₹1800 - ₹2000 ki range mein youth ke beech kafi popular hain.\nThe Indian Garage Co: Agar aapko ekdum budget-friendly option chahiye jo ₹600 - ₹1000 ke andar aa jaye, toh yeh brand everyday wear aur slim/bootcut fits ke liye ek accha vikalp hai.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Upgrade Your Style: Top 5 Brands Offering Trendy Denims for Men",
+          "snippet": "* 2. Jack & Jones: Elevate your fashion game with Jack & Jones' collection \nof affordable denims. Their innovative designs and modern cuts give you a \nsleek look ...",
+          "domain": "magicpin.in",
+          "url": "https://magicpin.in/blog/category/fashion/brands-denims-men-2000#:~:text=*%202.%20Jack%20%26%20Jones%3A%20Elevate%20your,and%20style%20seamlessly%20combined%20in%20their%20offerings.",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSIVWKSy5JX7Oum1naatf0-O1oG0m-D-yPiZDw0DlpmKHx2dQ9rcq4y_m_tDOtCAMyRUQc1dpo3W9WTgKSZ4D2M_9plPvb8",
+          "source_name": "magicpin",
+          "publication_date": null,
+          "markdown": "**Pepe Jeans & Jack & Jones:**"
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "Yeh Levi's Men's Mid Rise Slim Jeans versatile silhouette aur **durable cotton fabric** ke saath aati hai.",
+        "original_text": "Yeh Levi's Men's Mid Rise Slim Jeans versatile silhouette aur durable cotton fabric ke saath aati hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "Yeh H&M Relaxed Jeans rigid cotton denim aur **straight leg design** ke sath ek classic look deti hai.",
+        "original_text": "Yeh H&M Relaxed Jeans rigid cotton denim aur straight leg design ke sath ek classic look deti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "Yeh The Indian Garage Co Men Slim Fit Mid-Rise Jeans budget-friendly price par **comfortable stretchable fit** provide karti hai.",
+        "original_text": "Yeh The Indian Garage Co Men Slim Fit Mid-Rise Jeans budget-friendly price par comfortable stretchable fit provide karti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "Yeh Levi's Men's Dark Indigo Bootcut Fit Mid Rise Jeans classic dark wash aur **premium build quality** ke sath aati hai.",
+        "original_text": "Yeh Levi's Men's Dark Indigo Bootcut Fit Mid Rise Jeans classic dark wash aur premium build quality ke sath aati hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "Yeh The Indian Garage Co Men's Slim Fit Mid-Rise Jeans extremely soft finish aur **rich look** ke liye best choice hai.",
+        "original_text": "Yeh The Indian Garage Co Men's Slim Fit Mid-Rise Jeans extremely soft finish aur rich look ke liye best choice hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "Yeh The Indian Garage Co Men Lightly Washed Slim Fit Jeans lightly washed design aur **flexible mid-waist fit** offer karti hai.",
+        "original_text": "Yeh The Indian Garage Co Men Lightly Washed Slim Fit Jeans lightly washed design aur flexible mid-waist fit offer karti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "Yeh The Indian Garage Co Men Lightly Washed Slim Fit Jeans For Men (Blue, 32) casual daily outings ke liye **versatile aur comfortable** option hai.",
+        "original_text": "Yeh The Indian Garage Co Men Lightly Washed Slim Fit Jeans For Men (Blue, 32) casual daily outings ke liye versatile aur comfortable option hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "Yeh Levi's Men's Fitted Mid Rise Jeans cotton-elastane blend ke sath **ease of movement** aur perfect fit deti hai.",
+        "original_text": "Yeh Levi's Men's Fitted Mid Rise Jeans cotton-elastane blend ke sath ease of movement aur perfect fit deti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "Agar aapko apni prefered fit (jaise slim, skinny ya relaxed) ke hisab se kuch specific options chahiye, toh batayein!",
+        "original_text": "Agar aapko apni prefered fit (jaise slim, skinny ya relaxed) ke hisab se kuch specific options chahiye, toh batayein!",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

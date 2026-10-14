@@ -1,0 +1,168 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S01",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 5,
+  "promptText": "Which face wash should I buy for oily skin in India under ₹500?",
+  "cellId": "S01_en_gemini_r5",
+  "startedAt": "2026-10-13T13:12:29.549Z",
+  "finishedAt": "2026-10-13T13:13:23.345Z",
+  "durationMs": 53796,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "The Cetaphil Oily Skin Cleanser is a **dermatologist-recommended** option that **deeply cleanses pores** and controls excess oil without damaging your moisture barrier.\n\nThe Foxtale Oil & Acne Control Face Wash uses **2% Salicylic Acid** and **Niacinamide** to **unclog pores**, clear blemishes, and keep skin shine-free.\n\nThe The Derma Co Sali-Cinamide Anti-Acne with 2% Salicylic Acid Niacinamide Face Wash features **encapsulated salicylic acid** to target stubborn breakouts while **fading acne marks**.\n\nThe Clean & Clear Foaming Face Wash offers a budget-friendly foaming action that **removes daily dirt and oil** to help **prevent pimples**.\n\nThe Himalaya Lemon Oil Clear Face Wash blends **lemon and honey** to provide a **refreshing herbal cleanse** that cuts through oil without heavy dryness.\n\nThe Patanjali Orange Aloevera Face Wash 100 g utilizes natural orange extract and **soothing aloe vera** to **unclog pores** and manage oil on a budget.\n\nThe Aroma Magic Neem & Tea Tree Face Wash combines **neem and tea tree oil** to naturally **tighten pores** and control acne-causing bacteria.\n\nThe Mamaearth Rice Water & Niacinamide for Glass Skin Face Wash combines **rice water and niacinamide** to balance sebum while **boosting overall hydration**.\n\nThe Dr. Batra's Face Wash Oil Control features gentle exfoliators and **natural plant extracts** to help **reduce active sebum production**.\n\nIf you deal with acne-prone or very greasy skin, options with active ingredients like **Cetaphil** or **Foxtale** provide strong oil control while staying comfortably under ₹500.\n\nIf you like, I can narrow these down to specifically target active acne or blackheads depending on your exact skin type. Do you want me to do that?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "53.5855 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131312-2163-0629-0000-3ff1c37dbb3d",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "53.4903 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Which face wash should I buy for oily skin in India under ₹500?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which face wash should I buy for oily skin in India under ₹500?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:13:22 +00:00",
+      "markdown": "The Cetaphil Oily Skin Cleanser is a **dermatologist-recommended** option that **deeply cleanses pores** and controls excess oil without damaging your moisture barrier.\n\nThe Foxtale Oil & Acne Control Face Wash uses **2% Salicylic Acid** and **Niacinamide** to **unclog pores**, clear blemishes, and keep skin shine-free.\n\nThe The Derma Co Sali-Cinamide Anti-Acne with 2% Salicylic Acid Niacinamide Face Wash features **encapsulated salicylic acid** to target stubborn breakouts while **fading acne marks**.\n\nThe Clean & Clear Foaming Face Wash offers a budget-friendly foaming action that **removes daily dirt and oil** to help **prevent pimples**.\n\nThe Himalaya Lemon Oil Clear Face Wash blends **lemon and honey** to provide a **refreshing herbal cleanse** that cuts through oil without heavy dryness.\n\nThe Patanjali Orange Aloevera Face Wash 100 g utilizes natural orange extract and **soothing aloe vera** to **unclog pores** and manage oil on a budget.\n\nThe Aroma Magic Neem & Tea Tree Face Wash combines **neem and tea tree oil** to naturally **tighten pores** and control acne-causing bacteria.\n\nThe Mamaearth Rice Water & Niacinamide for Glass Skin Face Wash combines **rice water and niacinamide** to balance sebum while **boosting overall hydration**.\n\nThe Dr. Batra's Face Wash Oil Control features gentle exfoliators and **natural plant extracts** to help **reduce active sebum production**.\n\nIf you deal with acne-prone or very greasy skin, options with active ingredients like **Cetaphil** or **Foxtale** provide strong oil control while staying comfortably under ₹500.\n\nIf you like, I can narrow these down to specifically target active acne or blackheads depending on your exact skin type. Do you want me to do that?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 11,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "The Cetaphil Oily Skin Cleanser is a **dermatologist-recommended** option that **deeply cleanses pores** and controls excess oil without damaging your moisture barrier.",
+        "original_text": "The Cetaphil Oily Skin Cleanser is a dermatologist-recommended option that deeply cleanses pores and controls excess oil without damaging your moisture barrier.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "The Foxtale Oil & Acne Control Face Wash uses **2% Salicylic Acid** and **Niacinamide** to **unclog pores**, clear blemishes, and keep skin shine-free.",
+        "original_text": "The Foxtale Oil & Acne Control Face Wash uses 2% Salicylic Acid and Niacinamide to unclog pores, clear blemishes, and keep skin shine-free.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "The The Derma Co Sali-Cinamide Anti-Acne with 2% Salicylic Acid Niacinamide Face Wash features **encapsulated salicylic acid** to target stubborn breakouts while **fading acne marks**.",
+        "original_text": "The The Derma Co Sali-Cinamide Anti-Acne with 2% Salicylic Acid Niacinamide Face Wash features encapsulated salicylic acid to target stubborn breakouts while fading acne marks.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "The Clean & Clear Foaming Face Wash offers a budget-friendly foaming action that **removes daily dirt and oil** to help **prevent pimples**.",
+        "original_text": "The Clean & Clear Foaming Face Wash offers a budget-friendly foaming action that removes daily dirt and oil to help prevent pimples.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "The Himalaya Lemon Oil Clear Face Wash blends **lemon and honey** to provide a **refreshing herbal cleanse** that cuts through oil without heavy dryness.",
+        "original_text": "The Himalaya Lemon Oil Clear Face Wash blends lemon and honey to provide a refreshing herbal cleanse that cuts through oil without heavy dryness.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "The Patanjali Orange Aloevera Face Wash 100 g utilizes natural orange extract and **soothing aloe vera** to **unclog pores** and manage oil on a budget.",
+        "original_text": "The Patanjali Orange Aloevera Face Wash 100 g utilizes natural orange extract and soothing aloe vera to unclog pores and manage oil on a budget.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "The Aroma Magic Neem & Tea Tree Face Wash combines **neem and tea tree oil** to naturally **tighten pores** and control acne-causing bacteria.",
+        "original_text": "The Aroma Magic Neem & Tea Tree Face Wash combines neem and tea tree oil to naturally tighten pores and control acne-causing bacteria.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "The Mamaearth Rice Water & Niacinamide for Glass Skin Face Wash combines **rice water and niacinamide** to balance sebum while **boosting overall hydration**.",
+        "original_text": "The Mamaearth Rice Water & Niacinamide for Glass Skin Face Wash combines rice water and niacinamide to balance sebum while boosting overall hydration.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "The Dr. Batra's Face Wash Oil Control features gentle exfoliators and **natural plant extracts** to help **reduce active sebum production**.",
+        "original_text": "The Dr. Batra's Face Wash Oil Control features gentle exfoliators and natural plant extracts to help reduce active sebum production.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "If you deal with acne-prone or very greasy skin, options with active ingredients like **Cetaphil** or **Foxtale** provide strong oil control while staying comfortably under ₹500.",
+        "original_text": "If you deal with acne-prone or very greasy skin, options with active ingredients like Cetaphil or Foxtale provide strong oil control while staying comfortably under ₹500.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "If you like, I can narrow these down to specifically target active acne or blackheads depending on your exact skin type. Do you want me to do that?",
+        "original_text": "If you like, I can narrow these down to specifically target active acne or blackheads depending on your exact skin type. Do you want me to do that?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

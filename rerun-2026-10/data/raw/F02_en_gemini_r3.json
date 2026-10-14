@@ -1,0 +1,152 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 3,
+  "promptText": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+  "cellId": "F02_en_gemini_r3",
+  "startedAt": "2026-10-13T13:54:38.951Z",
+  "finishedAt": "2026-10-13T13:55:46.650Z",
+  "durationMs": 67699,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "**Bata Energy Sprint** (₹2,000 – ₹2,500)\n\nGreat for daily road running with reliable cushioning and solid durability on Indian asphalt.\n\n**Campus OGs Running Shoes** (₹1,500 – ₹2,200)\n\nExtremely budget-friendly with a breathable mesh upper and surprisingly bouncy sole for short daily jogs.\n\n**Asian Thunder-01** (₹1,000 – ₹1,500)\n\nA massive value pick on Amazon and Flipkart, offering lightweight comfort and a snug fit for absolute beginners.\n\n**Sparx Running Shoes (SM-651 or similar)** (₹1,200 – ₹1,800)\n\nSturdy, tough, and built for rough usage on Indian roads with a firm grip.\n\nWhich surface will you be running on mostly—treadmill, concrete roads, or mud tracks?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "67.4463 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131354-2163-0629-0000-60e004d5878f",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "67.3890 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:55:48 +00:00",
+      "markdown": "**Bata Energy Sprint** (₹2,000 – ₹2,500)\n\nGreat for daily road running with reliable cushioning and solid durability on Indian asphalt.\n\n**Campus OGs Running Shoes** (₹1,500 – ₹2,200)\n\nExtremely budget-friendly with a breathable mesh upper and surprisingly bouncy sole for short daily jogs.\n\n**Asian Thunder-01** (₹1,000 – ₹1,500)\n\nA massive value pick on Amazon and Flipkart, offering lightweight comfort and a snug fit for absolute beginners.\n\n**Sparx Running Shoes (SM-651 or similar)** (₹1,200 – ₹1,800)\n\nSturdy, tough, and built for rough usage on Indian roads with a firm grip.\n\nWhich surface will you be running on mostly—treadmill, concrete roads, or mud tracks?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 9,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "**Bata Energy Sprint** (₹2,000 – ₹2,500)",
+        "original_text": "Bata Energy Sprint (₹2,000 – ₹2,500)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Great for daily road running with reliable cushioning and solid durability on Indian asphalt.",
+        "original_text": "Great for daily road running with reliable cushioning and solid durability on Indian asphalt.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "**Campus OGs Running Shoes** (₹1,500 – ₹2,200)",
+        "original_text": "Campus OGs Running Shoes (₹1,500 – ₹2,200)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "Extremely budget-friendly with a breathable mesh upper and surprisingly bouncy sole for short daily jogs.",
+        "original_text": "Extremely budget-friendly with a breathable mesh upper and surprisingly bouncy sole for short daily jogs.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "**Asian Thunder-01** (₹1,000 – ₹1,500)",
+        "original_text": "Asian Thunder-01 (₹1,000 – ₹1,500)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "A massive value pick on Amazon and Flipkart, offering lightweight comfort and a snug fit for absolute beginners.",
+        "original_text": "A massive value pick on Amazon and Flipkart, offering lightweight comfort and a snug fit for absolute beginners.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "**Sparx Running Shoes (SM-651 or similar)** (₹1,200 – ₹1,800)",
+        "original_text": "Sparx Running Shoes (SM-651 or similar) (₹1,200 – ₹1,800)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "Sturdy, tough, and built for rough usage on Indian roads with a firm grip.",
+        "original_text": "Sturdy, tough, and built for rough usage on Indian roads with a firm grip.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "Which surface will you be running on mostly—treadmill, concrete roads, or mud tracks?",
+        "original_text": "Which surface will you be running on mostly—treadmill, concrete roads, or mud tracks?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

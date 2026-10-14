@@ -1,0 +1,202 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 6,
+  "promptText": "Which sarees should I buy online in India for a wedding on a budget?",
+  "cellId": "F05_en_gemini_r6",
+  "startedAt": "2026-10-13T13:26:26.993Z",
+  "finishedAt": "2026-10-13T13:27:33.082Z",
+  "durationMs": 66089,
+  "attempt": 4,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T13:20:11.596Z",
+    "error": "This operation was aborted"
+   },
+   {
+    "attempt": 2,
+    "startedAt": "2026-10-13T13:22:04.843Z",
+    "error": "DataForSEO gemini task error 40102: No Search Results."
+   },
+   {
+    "attempt": 3,
+    "startedAt": "2026-10-13T13:23:46.650Z",
+    "error": "This operation was aborted"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Shopping for a wedding on a budget in India is completely doable, especially online where you can easily compare prices, catch festive sales, and find incredible direct-weaver deals.\n\nTo look stunning without breaking the bank, focus on fabrics that offer a rich, traditional look at a lower price point. Here is a curated guide to the best budget-friendly sarees to buy online, along with trusted platforms and styling tips.\n\n---\n\n### Top Budget-Friendly Wedding Sarees\n\n| Saree Type | Why It Works for Weddings | Estimated Budget (INR) | Best Online Platforms |\n| :--- | :--- | :--- | :--- |\n| **Chanderi / Maheshwari** | Lightweight with a subtle gold or silver zari border. Looks very elegant for daytime functions or small rituals. | Rs. 1,500 – Rs. 4,000 | Nykaa Fashion, WeaverStory, Local Karin |\n| **Art Silk / Banarasi Jacquard** | Mimics the heavy, royal look of pure Kanjeevaram or Banarasi silk at a fraction of the cost. | Rs. 1,200 – Rs. 3,500 | Myntra, Flipkart, Amazon |\n| **Organza with Floral Prints** | Modern, trendy, and lightweight. Great for a Mehendi or Sangeet function. | Rs. 1,000 – Rs. 3,000 | Koskii, Nykaa Fashion, Aachho |\n| **Georgette / Chiffon with Sequin Work** | Offers a glamorous, Bollywood-style sparkle that is perfect for evening cocktail parties or receptions. | Rs. 2,000 – Rs. 5,000 | Kalki Fashion, Myntra, Pernia's Pop-Up Shop (Sale section) |\n\n---\n\n### Trusted Online Platforms for Budget Ethnic Wear\n\n* **Myntra & Amazon/Flipkart:** Excellent for quick shipping and regular discounts on brands like *Sangria, House of Pataudi,* and various regional art-silk manufacturers. Look out for end-of-season sales.\n* **Koskii & Aachho:** Great mid-range budget options that specialize in Indian festive and wedding wear with trendy designs.\n* **Direct-to-Consumer / Artisan Sites:** Platforms like *Karagiri* or regional handloom co-op sites often have dedicated \"under Rs. 2,999\" wedding filters that offer surprising quality.\n\n---\n\n### Pro-Tips to Make a Budget Saree Look Expensive\n\n1.  **Invest in the Blouse:** A cheap saree can instantly look high-end if paired with a well-fitted, statement designer-style blouse (e.g., a contrasting raw silk blouse with elbow-length sleeves and subtle embroidery).\n2.  **Accessorize Wisely:** Opt for oxidized silver or \"jadau\" imitation jewelry. A heavy choker necklace or statement jhumkas draw attention away from the fabric cost and elevate the entire outfit.\n3.  **Check Fabric Details Carefully:** Always read the product description. Ensure you know if the fabric is \"Art Silk\" (synthetic mix) or \"Pure Silk\" so you aren't paying silk prices for polyester blends.\n4.  **Read Customer Reviews with Photos:** Online pictures can be heavily edited. Always scroll down to customer reviews to see real photos of the fall, texture, and actual color of the saree.\n\nWhat type of wedding function (e.g., Sangeet, Wedding Ceremony, Reception) are you shopping for, and do you prefer traditional drapes or modern lightweight styles?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "64.7073 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131326-2163-0629-0000-781a53f1829b",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "64.6067 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:27:32 +00:00",
+      "markdown": "Shopping for a wedding on a budget in India is completely doable, especially online where you can easily compare prices, catch festive sales, and find incredible direct-weaver deals.\n\nTo look stunning without breaking the bank, focus on fabrics that offer a rich, traditional look at a lower price point. Here is a curated guide to the best budget-friendly sarees to buy online, along with trusted platforms and styling tips.\n\n---\n\n### Top Budget-Friendly Wedding Sarees\n\n| Saree Type | Why It Works for Weddings | Estimated Budget (INR) | Best Online Platforms |\n| :--- | :--- | :--- | :--- |\n| **Chanderi / Maheshwari** | Lightweight with a subtle gold or silver zari border. Looks very elegant for daytime functions or small rituals. | Rs. 1,500 – Rs. 4,000 | Nykaa Fashion, WeaverStory, Local Karin |\n| **Art Silk / Banarasi Jacquard** | Mimics the heavy, royal look of pure Kanjeevaram or Banarasi silk at a fraction of the cost. | Rs. 1,200 – Rs. 3,500 | Myntra, Flipkart, Amazon |\n| **Organza with Floral Prints** | Modern, trendy, and lightweight. Great for a Mehendi or Sangeet function. | Rs. 1,000 – Rs. 3,000 | Koskii, Nykaa Fashion, Aachho |\n| **Georgette / Chiffon with Sequin Work** | Offers a glamorous, Bollywood-style sparkle that is perfect for evening cocktail parties or receptions. | Rs. 2,000 – Rs. 5,000 | Kalki Fashion, Myntra, Pernia's Pop-Up Shop (Sale section) |\n\n---\n\n### Trusted Online Platforms for Budget Ethnic Wear\n\n* **Myntra & Amazon/Flipkart:** Excellent for quick shipping and regular discounts on brands like *Sangria, House of Pataudi,* and various regional art-silk manufacturers. Look out for end-of-season sales.\n* **Koskii & Aachho:** Great mid-range budget options that specialize in Indian festive and wedding wear with trendy designs.\n* **Direct-to-Consumer / Artisan Sites:** Platforms like *Karagiri* or regional handloom co-op sites often have dedicated \"under Rs. 2,999\" wedding filters that offer surprising quality.\n\n---\n\n### Pro-Tips to Make a Budget Saree Look Expensive\n\n1.  **Invest in the Blouse:** A cheap saree can instantly look high-end if paired with a well-fitted, statement designer-style blouse (e.g., a contrasting raw silk blouse with elbow-length sleeves and subtle embroidery).\n2.  **Accessorize Wisely:** Opt for oxidized silver or \"jadau\" imitation jewelry. A heavy choker necklace or statement jhumkas draw attention away from the fabric cost and elevate the entire outfit.\n3.  **Check Fabric Details Carefully:** Always read the product description. Ensure you know if the fabric is \"Art Silk\" (synthetic mix) or \"Pure Silk\" so you aren't paying silk prices for polyester blends.\n4.  **Read Customer Reviews with Photos:** Online pictures can be heavily edited. Always scroll down to customer reviews to see real photos of the fall, texture, and actual color of the saree.\n\nWhat type of wedding function (e.g., Sangeet, Wedding Ceremony, Reception) are you shopping for, and do you prefer traditional drapes or modern lightweight styles?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text",
+       "gemini_table"
+      ],
+      "items_count": 9,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Shopping for a wedding on a budget in India is completely doable, especially online where you can easily compare prices, catch festive sales, and find incredible direct-weaver deals.",
+        "original_text": "Shopping for a wedding on a budget in India is completely doable, especially online where you can easily compare prices, catch festive sales, and find incredible direct-weaver deals.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "To look stunning without breaking the bank, focus on fabrics that offer a rich, traditional look at a lower price point. Here is a curated guide to the best budget-friendly sarees to buy online, along with trusted platforms and styling tips.",
+        "original_text": "To look stunning without breaking the bank, focus on fabrics that offer a rich, traditional look at a lower price point. Here is a curated guide to the best budget-friendly sarees to buy online, along with trusted platforms and styling tips.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### Top Budget-Friendly Wedding Sarees",
+        "original_text": "Top Budget-Friendly Wedding Sarees",
+        "sources": null
+       },
+       {
+        "type": "gemini_table",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "markdown": "| Saree Type | Why It Works for Weddings | Estimated Budget (INR) | Best Online Platforms |\n| :--- | :--- | :--- | :--- |\n| **Chanderi / Maheshwari** | Lightweight with a subtle gold or silver zari border. Looks very elegant for daytime functions or small rituals. | Rs. 1,500 – Rs. 4,000 | Nykaa Fashion, WeaverStory, Local Karin |\n| **Art Silk / Banarasi Jacquard** | Mimics the heavy, royal look of pure Kanjeevaram or Banarasi silk at a fraction of the cost. | Rs. 1,200 – Rs. 3,500 | Myntra, Flipkart, Amazon |\n| **Organza with Floral Prints** | Modern, trendy, and lightweight. Great for a Mehendi or Sangeet function. | Rs. 1,000 – Rs. 3,000 | Koskii, Nykaa Fashion, Aachho |\n| **Georgette / Chiffon with Sequin Work** | Offers a glamorous, Bollywood-style sparkle that is perfect for evening cocktail parties or receptions. | Rs. 2,000 – Rs. 5,000 | Kalki Fashion, Myntra, Pernia's Pop-Up Shop (Sale section) |",
+        "original_text": "Saree Type\tWhy It Works for Weddings\tEstimated Budget (INR)\tBest Online Platforms\nChanderi / Maheshwari\tLightweight with a subtle gold or silver zari border. Looks very elegant for daytime functions or small rituals.\tRs. 1,500 – Rs. 4,000\tNykaa Fashion, WeaverStory, Local Karin\nArt Silk / Banarasi Jacquard\tMimics the heavy, royal look of pure Kanjeevaram or Banarasi silk at a fraction of the cost.\tRs. 1,200 – Rs. 3,500\tMyntra, Flipkart, Amazon\nOrganza with Floral Prints\tModern, trendy, and lightweight. Great for a Mehendi or Sangeet function.\tRs. 1,000 – Rs. 3,000\tKoskii, Nykaa Fashion, Aachho\nGeorgette / Chiffon with Sequin Work\tOffers a glamorous, Bollywood-style sparkle that is perfect for evening cocktail parties or receptions.\tRs. 2,000 – Rs. 5,000\tKalki Fashion, Myntra, Pernia's Pop-Up Shop (Sale section)",
+        "table": {
+         "table_header": [
+          "Saree Type",
+          "Why It Works for Weddings",
+          "Estimated Budget (INR)",
+          "Best Online Platforms"
+         ],
+         "table_content": [
+          [
+           "Chanderi / Maheshwari",
+           "Lightweight with a subtle gold or silver zari border. Looks very elegant for daytime functions or small rituals.",
+           "Rs. 1,500 – Rs. 4,000",
+           "Nykaa Fashion, WeaverStory, Local Karin"
+          ],
+          [
+           "Art Silk / Banarasi Jacquard",
+           "Mimics the heavy, royal look of pure Kanjeevaram or Banarasi silk at a fraction of the cost.",
+           "Rs. 1,200 – Rs. 3,500",
+           "Myntra, Flipkart, Amazon"
+          ],
+          [
+           "Organza with Floral Prints",
+           "Modern, trendy, and lightweight. Great for a Mehendi or Sangeet function.",
+           "Rs. 1,000 – Rs. 3,000",
+           "Koskii, Nykaa Fashion, Aachho"
+          ],
+          [
+           "Georgette / Chiffon with Sequin Work",
+           "Offers a glamorous, Bollywood-style sparkle that is perfect for evening cocktail parties or receptions.",
+           "Rs. 2,000 – Rs. 5,000",
+           "Kalki Fashion, Myntra, Pernia's Pop-Up Shop (Sale section)"
+          ]
+         ]
+        }
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "markdown": "### Trusted Online Platforms for Budget Ethnic Wear",
+        "original_text": "Trusted Online Platforms for Budget Ethnic Wear",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "markdown": "* **Myntra & Amazon/Flipkart:** Excellent for quick shipping and regular discounts on brands like *Sangria, House of Pataudi,* and various regional art-silk manufacturers. Look out for end-of-season sales.\n* **Koskii & Aachho:** Great mid-range budget options that specialize in Indian festive and wedding wear with trendy designs.\n* **Direct-to-Consumer / Artisan Sites:** Platforms like *Karagiri* or regional handloom co-op sites often have dedicated \"under Rs. 2,999\" wedding filters that offer surprising quality.",
+        "original_text": "Myntra & Amazon/Flipkart: Excellent for quick shipping and regular discounts on brands like Sangria, House of Pataudi, and various regional art-silk manufacturers. Look out for end-of-season sales.\nKoskii & Aachho: Great mid-range budget options that specialize in Indian festive and wedding wear with trendy designs.\nDirect-to-Consumer / Artisan Sites: Platforms like Karagiri or regional handloom co-op sites often have dedicated \"under Rs. 2,999\" wedding filters that offer surprising quality.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "markdown": "### Pro-Tips to Make a Budget Saree Look Expensive",
+        "original_text": "Pro-Tips to Make a Budget Saree Look Expensive",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 8,
+        "markdown": "1.  **Invest in the Blouse:** A cheap saree can instantly look high-end if paired with a well-fitted, statement designer-style blouse (e.g., a contrasting raw silk blouse with elbow-length sleeves and subtle embroidery).\n2.  **Accessorize Wisely:** Opt for oxidized silver or \"jadau\" imitation jewelry. A heavy choker necklace or statement jhumkas draw attention away from the fabric cost and elevate the entire outfit.\n3.  **Check Fabric Details Carefully:** Always read the product description. Ensure you know if the fabric is \"Art Silk\" (synthetic mix) or \"Pure Silk\" so you aren't paying silk prices for polyester blends.\n4.  **Read Customer Reviews with Photos:** Online pictures can be heavily edited. Always scroll down to customer reviews to see real photos of the fall, texture, and actual color of the saree.",
+        "original_text": "Invest in the Blouse: A cheap saree can instantly look high-end if paired with a well-fitted, statement designer-style blouse (e.g., a contrasting raw silk blouse with elbow-length sleeves and subtle embroidery).\nAccessorize Wisely: Opt for oxidized silver or \"jadau\" imitation jewelry. A heavy choker necklace or statement jhumkas draw attention away from the fabric cost and elevate the entire outfit.\nCheck Fabric Details Carefully: Always read the product description. Ensure you know if the fabric is \"Art Silk\" (synthetic mix) or \"Pure Silk\" so you aren't paying silk prices for polyester blends.\nRead Customer Reviews with Photos: Online pictures can be heavily edited. Always scroll down to customer reviews to see real photos of the fall, texture, and actual color of the saree.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 9,
+        "markdown": "What type of wedding function (e.g., Sangeet, Wedding Ceremony, Reception) are you shopping for, and do you prefer traditional drapes or modern lightweight styles?",
+        "original_text": "What type of wedding function (e.g., Sangeet, Wedding Ceremony, Reception) are you shopping for, and do you prefer traditional drapes or modern lightweight styles?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 1,
+  "promptText": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+  "cellId": "F05_hg_gemini_r1",
+  "startedAt": "2026-10-13T14:24:41.660Z",
+  "finishedAt": "2026-10-13T14:26:15.632Z",
+  "durationMs": 93972,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein shaadi ke functions (jaise sangeet, mehendi, ya reception) ke liye budget mein khubsurat sarees kharidne ke liye online kai saare acche aur trusted options available hain. Agar aap low-to-mid budget mein ek shandar look chahte hain, toh yahan kuch behtareen online platforms aur saree types ki list di gayi hai:\n\n## 1. Best Online Platforms (Kahan Kharidein)\n\n* **Myntra & Ajio:** Budget shopping ke liye ye sabse best hain. Yahan regular discounts aur festive sales (jaise End of Reason Sale) mein branded aur non-branded acchi quality ki sarees **INR 800 se INR 3,000** ke beech mil jaati hain.\n* **Nykaa Fashion:** Yahan traditional aur designer collection ka bohot acchamix milta hai, jo shaadi ke liye perfect hai.\n* **Amazon & Flipkart:** Agar aapko heavy variety, chanderi, ya banarasi prints kam daam mein chahiye, toh yahan local manufacturers aur trusted brands ke bohot options milte hain.\n* **Direct-to-Consumer (D2C) & Ethnic Sites:** **Karagiri**, **Koskii** (budget collection), ya **House of Pataudi** jaise platforms par wedding-specific curated collections thode mid-range (INR 2,000 - INR 5,000) mein mil jaate hain.\n* **Instagram Stores / Local Boutiques:** Aaj kal bohot se verified Instagram stores direct weavers se sasti aur unique sarees sell karte hain (jaise soft silk ya organza sarees).\n\n---\n\n## 2. Budget-Friendly Saree Types (Konsi Sarees Chunein)\n\nShaadi ke hisaab se heavy lagne wali lekin budget mein fit hone wali ye sarees best rahengi:\n\n* **Chanderi & Chanderi Silk:** Ye lightweight hoti hain aur inme ek subtle festive sheen hoti hai. Yeh **INR 1,000 - INR 2,500** tak mein bohot rich look deti hain.\n* **Georgette / Chiffon with Zari Border:** Agar aapko draping mein easy aur slim look chahiye, toh heavy border wali georgette sarees best hain. Yeh **INR 800 - INR 2,000** mein easily mil jaati hain.\n* **Art Silk / Banarasi Jacquard:** Agar aapko traditional heavy Banarasi look chahiye lekin asli silk ka budget nahi hai, toh Art Silk ya Jacquard weave ki sarees **INR 1,500 - INR 3,000** mein ekdam royal lagti hain.\n* **Organza Sarees:** Aaj kal trending hain aurmehendi ya cocktail nights ke liye perfect hain. Printed ya subtle embroidery wali organza sarees **INR 1,200** ke andar shuru ho jaati hain.\n\n---\n\n## 3. Smart Shopping Tips (Kuch Zaruri Baatein)\n\n* **Return Policy Check Karein:** Online kapde kharidte waqt hamesha check kar lein ki product par easy return ya exchange policy ho, taaki fabric ya color pasand na aaye toh problem na ho.\n* **Reviews & Real Pictures Zaroor Dekhein:** Customer reviews padhein aur un photos ko dekhein jo buyers ne upload ki hain, isse fabric ki asli quality ka andaza lag jata hai.\n* **Sales ka Intezaar Karein:** Agar shaadi mein abhi kuch hafte ya mahine hain, toh Myntra ya Amazon ki upcoming festive sales ka wait karein, jahan 50% tak ka off mil jata hai.\n\nAapko kis specific function (jaise Haldi, Mehendi, ya Wedding day) ke liye saree chahiye, aur aapka exact budget kya hai?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "93.7330 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131424-2163-0629-0000-f8656350c13a",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "93.6816 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:26:17 +00:00",
+      "markdown": "India mein shaadi ke functions (jaise sangeet, mehendi, ya reception) ke liye budget mein khubsurat sarees kharidne ke liye online kai saare acche aur trusted options available hain. Agar aap low-to-mid budget mein ek shandar look chahte hain, toh yahan kuch behtareen online platforms aur saree types ki list di gayi hai:\n\n## 1. Best Online Platforms (Kahan Kharidein)\n\n* **Myntra & Ajio:** Budget shopping ke liye ye sabse best hain. Yahan regular discounts aur festive sales (jaise End of Reason Sale) mein branded aur non-branded acchi quality ki sarees **INR 800 se INR 3,000** ke beech mil jaati hain.\n* **Nykaa Fashion:** Yahan traditional aur designer collection ka bohot acchamix milta hai, jo shaadi ke liye perfect hai.\n* **Amazon & Flipkart:** Agar aapko heavy variety, chanderi, ya banarasi prints kam daam mein chahiye, toh yahan local manufacturers aur trusted brands ke bohot options milte hain.\n* **Direct-to-Consumer (D2C) & Ethnic Sites:** **Karagiri**, **Koskii** (budget collection), ya **House of Pataudi** jaise platforms par wedding-specific curated collections thode mid-range (INR 2,000 - INR 5,000) mein mil jaate hain.\n* **Instagram Stores / Local Boutiques:** Aaj kal bohot se verified Instagram stores direct weavers se sasti aur unique sarees sell karte hain (jaise soft silk ya organza sarees).\n\n---\n\n## 2. Budget-Friendly Saree Types (Konsi Sarees Chunein)\n\nShaadi ke hisaab se heavy lagne wali lekin budget mein fit hone wali ye sarees best rahengi:\n\n* **Chanderi & Chanderi Silk:** Ye lightweight hoti hain aur inme ek subtle festive sheen hoti hai. Yeh **INR 1,000 - INR 2,500** tak mein bohot rich look deti hain.\n* **Georgette / Chiffon with Zari Border:** Agar aapko draping mein easy aur slim look chahiye, toh heavy border wali georgette sarees best hain. Yeh **INR 800 - INR 2,000** mein easily mil jaati hain.\n* **Art Silk / Banarasi Jacquard:** Agar aapko traditional heavy Banarasi look chahiye lekin asli silk ka budget nahi hai, toh Art Silk ya Jacquard weave ki sarees **INR 1,500 - INR 3,000** mein ekdam royal lagti hain.\n* **Organza Sarees:** Aaj kal trending hain aurmehendi ya cocktail nights ke liye perfect hain. Printed ya subtle embroidery wali organza sarees **INR 1,200** ke andar shuru ho jaati hain.\n\n---\n\n## 3. Smart Shopping Tips (Kuch Zaruri Baatein)\n\n* **Return Policy Check Karein:** Online kapde kharidte waqt hamesha check kar lein ki product par easy return ya exchange policy ho, taaki fabric ya color pasand na aaye toh problem na ho.\n* **Reviews & Real Pictures Zaroor Dekhein:** Customer reviews padhein aur un photos ko dekhein jo buyers ne upload ki hain, isse fabric ki asli quality ka andaza lag jata hai.\n* **Sales ka Intezaar Karein:** Agar shaadi mein abhi kuch hafte ya mahine hain, toh Myntra ya Amazon ki upcoming festive sales ka wait karein, jahan 50% tak ka off mil jata hai.\n\nAapko kis specific function (jaise Haldi, Mehendi, ya Wedding day) ke liye saree chahiye, aur aapka exact budget kya hai?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 9,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein shaadi ke functions (jaise sangeet, mehendi, ya reception) ke liye budget mein khubsurat sarees kharidne ke liye online kai saare acche aur trusted options available hain. Agar aap low-to-mid budget mein ek shandar look chahte hain, toh yahan kuch behtareen online platforms aur saree types ki list di gayi hai:",
+        "original_text": "India mein shaadi ke functions (jaise sangeet, mehendi, ya reception) ke liye budget mein khubsurat sarees kharidne ke liye online kai saare acche aur trusted options available hain. Agar aap low-to-mid budget mein ek shandar look chahte hain, toh yahan kuch behtareen online platforms aur saree types ki list di gayi hai:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "## 1. Best Online Platforms (Kahan Kharidein)",
+        "original_text": "1. Best Online Platforms (Kahan Kharidein)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Myntra & Ajio:** Budget shopping ke liye ye sabse best hain. Yahan regular discounts aur festive sales (jaise End of Reason Sale) mein branded aur non-branded acchi quality ki sarees **INR 800 se INR 3,000** ke beech mil jaati hain.\n* **Nykaa Fashion:** Yahan traditional aur designer collection ka bohot acchamix milta hai, jo shaadi ke liye perfect hai.\n* **Amazon & Flipkart:** Agar aapko heavy variety, chanderi, ya banarasi prints kam daam mein chahiye, toh yahan local manufacturers aur trusted brands ke bohot options milte hain.\n* **Direct-to-Consumer (D2C) & Ethnic Sites:** **Karagiri**, **Koskii** (budget collection), ya **House of Pataudi** jaise platforms par wedding-specific curated collections thode mid-range (INR 2,000 - INR 5,000) mein mil jaate hain.\n* **Instagram Stores / Local Boutiques:** Aaj kal bohot se verified Instagram stores direct weavers se sasti aur unique sarees sell karte hain (jaise soft silk ya organza sarees).",
+        "original_text": "Myntra & Ajio: Budget shopping ke liye ye sabse best hain. Yahan regular discounts aur festive sales (jaise End of Reason Sale) mein branded aur non-branded acchi quality ki sarees INR 800 se INR 3,000 ke beech mil jaati hain.\nNykaa Fashion: Yahan traditional aur designer collection ka bohot acchamix milta hai, jo shaadi ke liye perfect hai.\nAmazon & Flipkart: Agar aapko heavy variety, chanderi, ya banarasi prints kam daam mein chahiye, toh yahan local manufacturers aur trusted brands ke bohot options milte hain.\nDirect-to-Consumer (D2C) & Ethnic Sites: Karagiri, Koskii (budget collection), ya House of Pataudi jaise platforms par wedding-specific curated collections thode mid-range (INR 2,000 - INR 5,000) mein mil jaate hain.\nInstagram Stores / Local Boutiques: Aaj kal bohot se verified Instagram stores direct weavers se sasti aur unique sarees sell karte hain (jaise soft silk ya organza sarees).",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "## 2. Budget-Friendly Saree Types (Konsi Sarees Chunein)",
+        "original_text": "2. Budget-Friendly Saree Types (Konsi Sarees Chunein)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "Shaadi ke hisaab se heavy lagne wali lekin budget mein fit hone wali ye sarees best rahengi:",
+        "original_text": "Shaadi ke hisaab se heavy lagne wali lekin budget mein fit hone wali ye sarees best rahengi:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Chanderi & Chanderi Silk:** Ye lightweight hoti hain aur inme ek subtle festive sheen hoti hai. Yeh **INR 1,000 - INR 2,500** tak mein bohot rich look deti hain.\n* **Georgette / Chiffon with Zari Border:** Agar aapko draping mein easy aur slim look chahiye, toh heavy border wali georgette sarees best hain. Yeh **INR 800 - INR 2,000** mein easily mil jaati hain.\n* **Art Silk / Banarasi Jacquard:** Agar aapko traditional heavy Banarasi look chahiye lekin asli silk ka budget nahi hai, toh Art Silk ya Jacquard weave ki sarees **INR 1,500 - INR 3,000** mein ekdam royal lagti hain.\n* **Organza Sarees:** Aaj kal trending hain aurmehendi ya cocktail nights ke liye perfect hain. Printed ya subtle embroidery wali organza sarees **INR 1,200** ke andar shuru ho jaati hain.",
+        "original_text": "Chanderi & Chanderi Silk: Ye lightweight hoti hain aur inme ek subtle festive sheen hoti hai. Yeh INR 1,000 - INR 2,500 tak mein bohot rich look deti hain.\nGeorgette / Chiffon with Zari Border: Agar aapko draping mein easy aur slim look chahiye, toh heavy border wali georgette sarees best hain. Yeh INR 800 - INR 2,000 mein easily mil jaati hain.\nArt Silk / Banarasi Jacquard: Agar aapko traditional heavy Banarasi look chahiye lekin asli silk ka budget nahi hai, toh Art Silk ya Jacquard weave ki sarees INR 1,500 - INR 3,000 mein ekdam royal lagti hain.\nOrganza Sarees: Aaj kal trending hain aurmehendi ya cocktail nights ke liye perfect hain. Printed ya subtle embroidery wali organza sarees INR 1,200 ke andar shuru ho jaati hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "## 3. Smart Shopping Tips (Kuch Zaruri Baatein)",
+        "original_text": "3. Smart Shopping Tips (Kuch Zaruri Baatein)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Return Policy Check Karein:** Online kapde kharidte waqt hamesha check kar lein ki product par easy return ya exchange policy ho, taaki fabric ya color pasand na aaye toh problem na ho.\n* **Reviews & Real Pictures Zaroor Dekhein:** Customer reviews padhein aur un photos ko dekhein jo buyers ne upload ki hain, isse fabric ki asli quality ka andaza lag jata hai.\n* **Sales ka Intezaar Karein:** Agar shaadi mein abhi kuch hafte ya mahine hain, toh Myntra ya Amazon ki upcoming festive sales ka wait karein, jahan 50% tak ka off mil jata hai.",
+        "original_text": "Return Policy Check Karein: Online kapde kharidte waqt hamesha check kar lein ki product par easy return ya exchange policy ho, taaki fabric ya color pasand na aaye toh problem na ho.\nReviews & Real Pictures Zaroor Dekhein: Customer reviews padhein aur un photos ko dekhein jo buyers ne upload ki hain, isse fabric ki asli quality ka andaza lag jata hai.\nSales ka Intezaar Karein: Agar shaadi mein abhi kuch hafte ya mahine hain, toh Myntra ya Amazon ki upcoming festive sales ka wait karein, jahan 50% tak ka off mil jata hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "Aapko kis specific function (jaise Haldi, Mehendi, ya Wedding day) ke liye saree chahiye, aur aapka exact budget kya hai?",
+        "original_text": "Aapko kis specific function (jaise Haldi, Mehendi, ya Wedding day) ke liye saree chahiye, aur aapka exact budget kya hai?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S03",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "perplexity",
+  "rep": 8,
+  "promptText": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+  "cellId": "S03_hg_perplexity_r8",
+  "startedAt": "2026-10-13T13:10:18.755Z",
+  "finishedAt": "2026-10-13T13:10:22.737Z",
+  "durationMs": 3982,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Dark spots aur dull skin ke liye **Minimalist 10% Advanced Vitamin C Serum** ek achha beginner-friendly choice hai—stable vitamin C formula, reasonable price aur uneven tone/dullness ke liye suitable. [1][4][5]\n\n### Skin type ke hisaab se options\n\n- **Beginner / sensitive skin:** **Foxtale 10% Vitamin C–Glutathione Serum**—gentler brightening option. [2][8]\n- **Oily ya acne-prone skin:** **The Derma Co 10% Vitamin C + 5% Niacinamide**—dark spots ke saath excess oil ke liye bhi useful. [2][9]\n- **Stubborn pigmentation, agar pehle vitamin C use kiya hai:** **Plum 15% Vitamin C** ya **Foxtale 15% Pure L-Ascorbic Acid**; high-strength serum irritation kar sakta hai. [7][8]\n- **Very sensitive/barrier-damaged skin:** **Dr. Sheth’s Ceramide & 10% Vitamin C Ampoule**—ceramides ke saath comparatively barrier-focused option. [10]\n\n### Kaise use karein\n\nSubah clean, dry face par **2–3 drops**, phir moisturiser aur **broad-spectrum SPF 50 sunscreen** lagayein—sunscreen ke bina dark spots wapas/darker ho sakte hain aur brightening ka result kam dikhega. [8][10] Pehle 2–3 hafton tak alternate days use karein; burning, rash ya persistent redness ho to band kar dein. AHA/BHA, retinol ya benzoyl peroxide ke saath ek hi routine mein shuru na karein.\n\n**Best single pick:** normal/oily skin ke liye **Minimalist 10%**; sensitive skin ke liye **Foxtale 10%**. Results aam taur par 8–12 weeks le sakte hain.",
+  "citations": [
+   {
+    "url": "https://www.amazon.in/l-ascorbic-acid-vitamin-c-serum/s?k=l+ascorbic+acid+vitamin+c+serum",
+    "position": 1
+   },
+   {
+    "url": "https://www.amazon.in/dermatologist-vitamin-c-serum/s?k=dermatologist+vitamin+c+serum",
+    "position": 2
+   },
+   {
+    "url": "https://www.vogue.in/content/the-7-best-vitamin-c-serums-for-an-even-toned-complexion",
+    "position": 3
+   },
+   {
+    "url": "https://www.amazon.in/vitamin-c-serum-for-pigmentation/s?k=vitamin+c+serum+for+pigmentation",
+    "position": 4
+   },
+   {
+    "url": "https://www.amazon.in/vitamin-c-serum/s?k=vitamin+c+serum",
+    "position": 5
+   },
+   {
+    "url": "https://www.amazon.in/Pilgrim-Vitamin-Brightness-glowing-Fragrance/dp/B0D5DBMKMC",
+    "position": 6
+   },
+   {
+    "url": "https://www.hindustantimes.com/lifestyle/health/8-best-vitamin-c-serums-in-india-top-picks-for-glowing-even-toned-and-youthful-skin-101753433695512.html",
+    "position": 7
+   },
+   {
+    "url": "https://www.healthshots.com/brand-stories/7-effective-vitamin-c-brightening-serums-in-india/",
+    "position": 8
+   },
+   {
+    "url": "https://www.dermatocare.com/best-vitamin-c-serum-india-dermatologist-recommended/",
+    "position": 9
+   },
+   {
+    "url": "https://thedermaco.com/blogs/news/affordable-vitamin-c-brightening-serums-for-indian-skin",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.005468
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.7377 sec.",
+  "cost": 0.006068,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131310-2163-0612-0000-bb324b9d9361",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.7278 sec.",
+    "cost": 0.006068,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 28,
+      "output_tokens": 440,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005468,
+      "datetime": "2026-10-13 13:10:22 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "Dark spots aur dull skin ke liye **Minimalist 10% Advanced Vitamin C Serum** ek achha beginner-friendly choice hai—stable vitamin C formula, reasonable price aur uneven tone/dullness ke liye suitable. [1][4][5]\n\n### Skin type ke hisaab se options\n\n- **Beginner / sensitive skin:** **Foxtale 10% Vitamin C–Glutathione Serum**—gentler brightening option. [2][8]\n- **Oily ya acne-prone skin:** **The Derma Co 10% Vitamin C + 5% Niacinamide**—dark spots ke saath excess oil ke liye bhi useful. [2][9]\n- **Stubborn pigmentation, agar pehle vitamin C use kiya hai:** **Plum 15% Vitamin C** ya **Foxtale 15% Pure L-Ascorbic Acid**; high-strength serum irritation kar sakta hai. [7][8]\n- **Very sensitive/barrier-damaged skin:** **Dr. Sheth’s Ceramide & 10% Vitamin C Ampoule**—ceramides ke saath comparatively barrier-focused option. [10]\n\n### Kaise use karein\n\nSubah clean, dry face par **2–3 drops**, phir moisturiser aur **broad-spectrum SPF 50 sunscreen** lagayein—sunscreen ke bina dark spots wapas/darker ho sakte hain aur brightening ka result kam dikhega. [8][10] Pehle 2–3 hafton tak alternate days use karein; burning, rash ya persistent redness ho to band kar dein. AHA/BHA, retinol ya benzoyl peroxide ke saath ek hi routine mein shuru na karein.\n\n**Best single pick:** normal/oily skin ke liye **Minimalist 10%**; sensitive skin ke liye **Foxtale 10%**. Results aam taur par 8–12 weeks le sakte hain.",
+          "annotations": [
+           {
+            "title": "www.amazon.in › l-ascorbic-acid-vitamin-c-serum › sAmazon.in: L Ascorbic Acid Vitamin C Serum",
+            "url": "https://www.amazon.in/l-ascorbic-acid-vitamin-c-serum/s?k=l+ascorbic+acid+vitamin+c+serum",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › dermatologist-vitamin-c-serum › sAmazon.in: Dermatologist Vitamin C Serum",
+            "url": "https://www.amazon.in/dermatologist-vitamin-c-serum/s?k=dermatologist+vitamin+c+serum",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "The 7 best vitamin C serums for an even-toned complexion",
+            "url": "https://www.vogue.in/content/the-7-best-vitamin-c-serums-for-an-even-toned-complexion",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › vitamin-c-serum-for-pigmentation › sAmazon.in: Vitamin C Serum For Pigmentation",
+            "url": "https://www.amazon.in/vitamin-c-serum-for-pigmentation/s?k=vitamin+c+serum+for+pigmentation",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › vitamin-c-serum › sAmazon.in: Vitamin C Serum",
+            "url": "https://www.amazon.in/vitamin-c-serum/s?k=vitamin+c+serum",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › Pilgrim-Vitamin-Brightness-glowingPilgrim 10% Vitamin C Face Serum for Glowing Skin with ...",
+            "url": "https://www.amazon.in/Pilgrim-Vitamin-Brightness-glowing-Fragrance/dp/B0D5DBMKMC",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "8 best vitamin C serums in India: Top picks for glowing, even ...",
+            "url": "https://www.hindustantimes.com/lifestyle/health/8-best-vitamin-c-serums-in-india-top-picks-for-glowing-even-toned-and-youthful-skin-101753433695512.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.healthshots.com › brand-stories › 7-effective7 Effective Vitamin C Brightening Serums in India - HealthShots",
+            "url": "https://www.healthshots.com/brand-stories/7-effective-vitamin-c-brightening-serums-in-india/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.dermatocare.com › best-vitamin-c-serum-indiaBest Vitamin C serum Below Rs 1000 (2026)- Dermatologist Pick",
+            "url": "https://www.dermatocare.com/best-vitamin-c-serum-india-dermatologist-recommended/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top Affordable Vitamin C Serums to Brighten Skin – The Derma Co",
+            "url": "https://thedermaco.com/blogs/news/affordable-vitamin-c-brightening-serums-for-indian-skin",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

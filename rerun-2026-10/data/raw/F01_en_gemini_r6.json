@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F01",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 6,
+  "promptText": "Which brand's jeans should I buy for men in India under ₹2000?",
+  "cellId": "F01_en_gemini_r6",
+  "startedAt": "2026-10-13T13:13:15.951Z",
+  "finishedAt": "2026-10-13T13:14:22.706Z",
+  "durationMs": 66755,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Here are some of the best and most reliable denim brands for men in India under ₹2,000, known for offering a good balance of stretch, durability, and comfort:\n\n* **Levis (Budget/Value lines):** While Levi's premium range crosses ₹2,000, their entry-level and sale items often feature classic fits and reliable durability within this budget.\n* **Wrangler & Lee:** Both iconic heritage brands frequently offer entry-level stretch jeans and everyday casual fits on online platforms (like Myntra, Flipkart, and Amazon) under ₹2,000, especially during sales.\n* **Flying Machine:** A popular homegrown brand that consistently delivers trendy fits (slim, skinny, and tapered) with comfortable stretch denim well below your budget, usually priced between ₹1,000 and ₹1,800.\n* **Mast & Harbour / Roadster:** Exclusive Myntra fashion labels that offer a huge variety of modern washes, distressed looks, and flexible fabrics, typically priced between ₹800 and ₹1,500.\n* **Denizen (by Levi's):** Specifically designed as an affordable everyday wear line by Levi's, offering great quality fabric, standard fits, and solid durability under ₹2,000.\n\n**Quick shopping tip:** Look out for denim with 1% to 2% elastane or spandex if you prefer flexible, all-day comfort, and check the GSM (weight) if you want something breathable for Indian weather.\n\nAre you looking for a specific fit (like slim, skinny, or relaxed) or a particular wash (dark indigo, light blue, or black)?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "66.5529 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131313-2163-0629-0000-4b24faa5362b",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "66.4306 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Which brand's jeans should I buy for men in India under ₹2000?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which brand's jeans should I buy for men in India under ₹2000?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:14:22 +00:00",
+      "markdown": "Here are some of the best and most reliable denim brands for men in India under ₹2,000, known for offering a good balance of stretch, durability, and comfort:\n\n* **Levis (Budget/Value lines):** While Levi's premium range crosses ₹2,000, their entry-level and sale items often feature classic fits and reliable durability within this budget.\n* **Wrangler & Lee:** Both iconic heritage brands frequently offer entry-level stretch jeans and everyday casual fits on online platforms (like Myntra, Flipkart, and Amazon) under ₹2,000, especially during sales.\n* **Flying Machine:** A popular homegrown brand that consistently delivers trendy fits (slim, skinny, and tapered) with comfortable stretch denim well below your budget, usually priced between ₹1,000 and ₹1,800.\n* **Mast & Harbour / Roadster:** Exclusive Myntra fashion labels that offer a huge variety of modern washes, distressed looks, and flexible fabrics, typically priced between ₹800 and ₹1,500.\n* **Denizen (by Levi's):** Specifically designed as an affordable everyday wear line by Levi's, offering great quality fabric, standard fits, and solid durability under ₹2,000.\n\n**Quick shopping tip:** Look out for denim with 1% to 2% elastane or spandex if you prefer flexible, all-day comfort, and check the GSM (weight) if you want something breathable for Indian weather.\n\nAre you looking for a specific fit (like slim, skinny, or relaxed) or a particular wash (dark indigo, light blue, or black)?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 4,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Here are some of the best and most reliable denim brands for men in India under ₹2,000, known for offering a good balance of stretch, durability, and comfort:",
+        "original_text": "Here are some of the best and most reliable denim brands for men in India under ₹2,000, known for offering a good balance of stretch, durability, and comfort:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "* **Levis (Budget/Value lines):** While Levi's premium range crosses ₹2,000, their entry-level and sale items often feature classic fits and reliable durability within this budget.\n* **Wrangler & Lee:** Both iconic heritage brands frequently offer entry-level stretch jeans and everyday casual fits on online platforms (like Myntra, Flipkart, and Amazon) under ₹2,000, especially during sales.\n* **Flying Machine:** A popular homegrown brand that consistently delivers trendy fits (slim, skinny, and tapered) with comfortable stretch denim well below your budget, usually priced between ₹1,000 and ₹1,800.\n* **Mast & Harbour / Roadster:** Exclusive Myntra fashion labels that offer a huge variety of modern washes, distressed looks, and flexible fabrics, typically priced between ₹800 and ₹1,500.\n* **Denizen (by Levi's):** Specifically designed as an affordable everyday wear line by Levi's, offering great quality fabric, standard fits, and solid durability under ₹2,000.",
+        "original_text": "Levis (Budget/Value lines): While Levi's premium range crosses ₹2,000, their entry-level and sale items often feature classic fits and reliable durability within this budget.\nWrangler & Lee: Both iconic heritage brands frequently offer entry-level stretch jeans and everyday casual fits on online platforms (like Myntra, Flipkart, and Amazon) under ₹2,000, especially during sales.\nFlying Machine: A popular homegrown brand that consistently delivers trendy fits (slim, skinny, and tapered) with comfortable stretch denim well below your budget, usually priced between ₹1,000 and ₹1,800.\nMast & Harbour / Roadster: Exclusive Myntra fashion labels that offer a huge variety of modern washes, distressed looks, and flexible fabrics, typically priced between ₹800 and ₹1,500.\nDenizen (by Levi's): Specifically designed as an affordable everyday wear line by Levi's, offering great quality fabric, standard fits, and solid durability under ₹2,000.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "**Quick shopping tip:** Look out for denim with 1% to 2% elastane or spandex if you prefer flexible, all-day comfort, and check the GSM (weight) if you want something breathable for Indian weather.",
+        "original_text": "Quick shopping tip: Look out for denim with 1% to 2% elastane or spandex if you prefer flexible, all-day comfort, and check the GSM (weight) if you want something breathable for Indian weather.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "Are you looking for a specific fit (like slim, skinny, or relaxed) or a particular wash (dark indigo, light blue, or black)?",
+        "original_text": "Are you looking for a specific fit (like slim, skinny, or relaxed) or a particular wash (dark indigo, light blue, or black)?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

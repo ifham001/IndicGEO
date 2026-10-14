@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S03",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "perplexity",
+  "rep": 7,
+  "promptText": "Which vitamin C serum should I buy for dark spots and dull skin in India?",
+  "cellId": "S03_en_perplexity_r7",
+  "startedAt": "2026-10-13T14:24:57.231Z",
+  "finishedAt": "2026-10-13T14:25:00.936Z",
+  "durationMs": 3705,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "For **dark spots and dull skin in India**, start with a **10% vitamin C serum** rather than a very high-strength formula. A good overall pick is **Minimalist 10% Advanced Vitamin C Serum**; it is specifically marketed for dark spots, uneven tone, dullness and UV-related damage, and has substantial customer review volume.[1]\n\n### Good options\n\n- **Best overall:** **Minimalist 10% Advanced Vitamin C Serum** — suitable for most beginners and combination/oily skin.[1]\n- **Best with niacinamide:** **The Derma Co 10% Vitamin C + 5% Niacinamide Serum** — targets pigmentation, dullness and uneven tone.[2]\n- **For sensitive skin:** **Foxtale 10% Vitamin C–Glutathione Serum** — positioned as beginner- and sensitive-skin-friendly.[1]\n- **Budget alternative:** **Pilgrim 10% Vitamin C Serum with 5% Niacinamide** — marketed for dullness and dark spots.[1]\n\n### How to use it\n\nApply 2–3 drops to clean, dry skin **2–3 mornings per week**, then moisturiser and **broad-spectrum SPF 50 sunscreen every day**. Sunscreen is essential; otherwise, dark spots can persist or return. Patch-test first, and avoid using it in the same routine initially as strong exfoliating acids or retinoids.\n\nExpect gradual improvement over roughly **8–12 weeks**. If the spots are melasma, rapidly changing, itchy, bleeding, or resistant to treatment, consult a dermatologist rather than relying only on a serum.",
+  "citations": [
+   {
+    "url": "https://www.amazon.in/vitamin-c-serum/s?k=vitamin+c+serum",
+    "position": 1
+   },
+   {
+    "url": "https://www.amazon.in/vitamin-c-serum-for-pigmentation/s?k=vitamin+c+serum+for+pigmentation",
+    "position": 2
+   },
+   {
+    "url": "https://www.vogue.in/content/the-7-best-vitamin-c-serums-for-an-even-toned-complexion",
+    "position": 3
+   },
+   {
+    "url": "https://www.amazon.in/l-ascorbic-acid-vitamin-c-serum/s?k=l+ascorbic+acid+vitamin+c+serum",
+    "position": 4
+   },
+   {
+    "url": "https://www.amazon.in/dermatologist-vitamin-c-serum/s?k=dermatologist+vitamin+c+serum",
+    "position": 5
+   },
+   {
+    "url": "https://www.amazon.in/Pilgrim-Vitamin-Brightness-glowing-Fragrance/dp/B0D5DBMKMC",
+    "position": 6
+   },
+   {
+    "url": "https://www.hindustantimes.com/lifestyle/health/8-best-vitamin-c-serums-in-india-top-picks-for-glowing-even-toned-and-youthful-skin-101753433695512.html",
+    "position": 7
+   },
+   {
+    "url": "https://www.amazon.in/Vitamin-Niacinamide-Glowing-Fights-Pigmentation/dp/B0BCQ5LSNP",
+    "position": 8
+   },
+   {
+    "url": "https://www.zepto.com/pn/the-derma-co-10-vitamin-c-face-serum-with-vitamin-c-5-niacinamide-hyaluronic-acid/pvid/8a330b63-b3ed-4b73-9af3-85bba3c8907f?cart=open",
+    "position": 9
+   },
+   {
+    "url": "https://thedermaco.com/blogs/news/affordable-vitamin-c-brightening-serums-for-indian-skin",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.005367
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.4781 sec.",
+  "cost": 0.005967,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131424-2163-0612-0000-b6e11a1b6f6b",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.4452 sec.",
+    "cost": 0.005967,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "Which vitamin C serum should I buy for dark spots and dull skin in India?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 23,
+      "output_tokens": 344,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005367,
+      "datetime": "2026-10-13 14:25:03 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "For **dark spots and dull skin in India**, start with a **10% vitamin C serum** rather than a very high-strength formula. A good overall pick is **Minimalist 10% Advanced Vitamin C Serum**; it is specifically marketed for dark spots, uneven tone, dullness and UV-related damage, and has substantial customer review volume.[1]\n\n### Good options\n\n- **Best overall:** **Minimalist 10% Advanced Vitamin C Serum** — suitable for most beginners and combination/oily skin.[1]\n- **Best with niacinamide:** **The Derma Co 10% Vitamin C + 5% Niacinamide Serum** — targets pigmentation, dullness and uneven tone.[2]\n- **For sensitive skin:** **Foxtale 10% Vitamin C–Glutathione Serum** — positioned as beginner- and sensitive-skin-friendly.[1]\n- **Budget alternative:** **Pilgrim 10% Vitamin C Serum with 5% Niacinamide** — marketed for dullness and dark spots.[1]\n\n### How to use it\n\nApply 2–3 drops to clean, dry skin **2–3 mornings per week**, then moisturiser and **broad-spectrum SPF 50 sunscreen every day**. Sunscreen is essential; otherwise, dark spots can persist or return. Patch-test first, and avoid using it in the same routine initially as strong exfoliating acids or retinoids.\n\nExpect gradual improvement over roughly **8–12 weeks**. If the spots are melasma, rapidly changing, itchy, bleeding, or resistant to treatment, consult a dermatologist rather than relying only on a serum.",
+          "annotations": [
+           {
+            "title": "www.amazon.in › vitamin-c-serum › sAmazon.in: Vitamin C Serum",
+            "url": "https://www.amazon.in/vitamin-c-serum/s?k=vitamin+c+serum",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › vitamin-c-serum-for-pigmentation › sAmazon.in: Vitamin C Serum For Pigmentation",
+            "url": "https://www.amazon.in/vitamin-c-serum-for-pigmentation/s?k=vitamin+c+serum+for+pigmentation",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "The 7 best vitamin C serums for an even-toned complexion",
+            "url": "https://www.vogue.in/content/the-7-best-vitamin-c-serums-for-an-even-toned-complexion",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › l-ascorbic-acid-vitamin-c-serum › sAmazon.in: L Ascorbic Acid Vitamin C Serum",
+            "url": "https://www.amazon.in/l-ascorbic-acid-vitamin-c-serum/s?k=l+ascorbic+acid+vitamin+c+serum",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › dermatologist-vitamin-c-serum › sAmazon.in: Dermatologist Vitamin C Serum",
+            "url": "https://www.amazon.in/dermatologist-vitamin-c-serum/s?k=dermatologist+vitamin+c+serum",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › Pilgrim-Vitamin-Brightness-glowingPilgrim 10% Vitamin C Face Serum for Glowing Skin with ...",
+            "url": "https://www.amazon.in/Pilgrim-Vitamin-Brightness-glowing-Fragrance/dp/B0D5DBMKMC",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "8 best vitamin C serums in India: Top picks for glowing, even ...",
+            "url": "https://www.hindustantimes.com/lifestyle/health/8-best-vitamin-c-serums-in-india-top-picks-for-glowing-even-toned-and-youthful-skin-101753433695512.html",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "DOT & KEY 10% Vitamin C + E Serum with 5% Niacinamide,for …",
+            "url": "https://www.amazon.in/Vitamin-Niacinamide-Glowing-Fights-Pigmentation/dp/B0BCQ5LSNP",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "https://www.zeptonow.com/pn/the-derma-co-10-vitami...",
+            "url": "https://www.zepto.com/pn/the-derma-co-10-vitamin-c-face-serum-with-vitamin-c-5-niacinamide-hyaluronic-acid/pvid/8a330b63-b3ed-4b73-9af3-85bba3c8907f?cart=open",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top Affordable Vitamin C Serums to Brighten Skin – The Derma Co",
+            "url": "https://thedermaco.com/blogs/news/affordable-vitamin-c-brightening-serums-for-indian-skin",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

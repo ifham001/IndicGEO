@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 2,
+  "promptText": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+  "cellId": "F05_hg_gemini_r2",
+  "startedAt": "2026-10-13T14:34:01.558Z",
+  "finishedAt": "2026-10-13T14:34:54.714Z",
+  "durationMs": 53156,
+  "attempt": 3,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T14:30:43.119Z",
+    "error": "This operation was aborted"
+   },
+   {
+    "attempt": 2,
+    "startedAt": "2026-10-13T14:32:34.439Z",
+    "error": "DataForSEO gemini task error 40102: No Search Results."
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein shaadi ke functions (jaise sangeet, haldi, ya reception) ke liye agar aapko budget mein sundar aur traditional sarees kharidni hain, toh online platforms jaise Amazon, Myntra, Meesho aur Nykaa Fashion par kai behtareen aur budget-friendly options available hain.\n\nAapke liye kuch acche aur budget-friendly saree options niche diye gaye hain:\n\nYeh Monjolika Fashion Women's Banarasi Pure Kanjivaram Style Silk Saree With Blouse Piece for Wedding traditional look deti hai aur **intricate zari detailing** ke sath aati hai.\n\nYeh SGF11- Women's Kanjivaram Pure Tissue Soft Silk Handloom Saree **soft finished fabric** aur **pure golden zari work** ke sath aati hai jo pehenne mein behad comfortable hai.\n\nYeh Powder Blue Zari Work Banarasi Silk Wedding Saree **banarasi soft silk fabric** aur **exclusive jacquard border** ke sath milti hai, jo wedding functions ke liye perfect hai.\n\nYeh Red Floral Woven Lichi Banarasi Silk Saree **lichi silk fabric** aur **weaving work** ke sath aati hai, jo sangeet ya wedding events ke liye ek shandar vikalp hai.\n\nYeh Vichitra Silk Saree with Rose Gold Zari & Stone Work **rose gold zari floral work aur stone detailing** ke sath milti hai, jo modern aur festive look deti hai.\n\nYeh Jms Studio Zari Paisley Satin Saree for Gifting **nylon satin fabric** aur **broad zari border** ke sath aati hai, jo halki aur carry karne mein aasan hai.\n\n---\n\n### Kuch Zaroori Tips Online Saree Kharidte Waqt:\n\n* **Fabric Check Karein:** Agar aapko heavy look chahiye toh Banarasi ya Art Silk chun sakte hain, aur agar lightweight option chahiye toh Chiffon ya Satin behtar rahenge.\n* **Return Policy Dekhein:** Hamesha aisi site se kharidein jahan easy return ya exchange policy ho, taaki agar color ya fabric pasand na aaye toh badla ja sake.\n\nAgar aap chahte hain ki main aapke liye kisi specific color (jaise laal, peela ya pink) ya specific budget ke andar aur options nikaloon, toh aap bata sakte hain.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "52.5805 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131434-2163-0629-0000-75b92c8eed56",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "52.3980 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:34:56 +00:00",
+      "markdown": "India mein shaadi ke functions (jaise sangeet, haldi, ya reception) ke liye agar aapko budget mein sundar aur traditional sarees kharidni hain, toh online platforms jaise Amazon, Myntra, Meesho aur Nykaa Fashion par kai behtareen aur budget-friendly options available hain.\n\nAapke liye kuch acche aur budget-friendly saree options niche diye gaye hain:\n\nYeh Monjolika Fashion Women's Banarasi Pure Kanjivaram Style Silk Saree With Blouse Piece for Wedding traditional look deti hai aur **intricate zari detailing** ke sath aati hai.\n\nYeh SGF11- Women's Kanjivaram Pure Tissue Soft Silk Handloom Saree **soft finished fabric** aur **pure golden zari work** ke sath aati hai jo pehenne mein behad comfortable hai.\n\nYeh Powder Blue Zari Work Banarasi Silk Wedding Saree **banarasi soft silk fabric** aur **exclusive jacquard border** ke sath milti hai, jo wedding functions ke liye perfect hai.\n\nYeh Red Floral Woven Lichi Banarasi Silk Saree **lichi silk fabric** aur **weaving work** ke sath aati hai, jo sangeet ya wedding events ke liye ek shandar vikalp hai.\n\nYeh Vichitra Silk Saree with Rose Gold Zari & Stone Work **rose gold zari floral work aur stone detailing** ke sath milti hai, jo modern aur festive look deti hai.\n\nYeh Jms Studio Zari Paisley Satin Saree for Gifting **nylon satin fabric** aur **broad zari border** ke sath aati hai, jo halki aur carry karne mein aasan hai.\n\n---\n\n### Kuch Zaroori Tips Online Saree Kharidte Waqt:\n\n* **Fabric Check Karein:** Agar aapko heavy look chahiye toh Banarasi ya Art Silk chun sakte hain, aur agar lightweight option chahiye toh Chiffon ya Satin behtar rahenge.\n* **Return Policy Dekhein:** Hamesha aisi site se kharidein jahan easy return ya exchange policy ho, taaki agar color ya fabric pasand na aaye toh badla ja sake.\n\nAgar aap chahte hain ki main aapke liye kisi specific color (jaise laal, peela ya pink) ya specific budget ke andar aur options nikaloon, toh aap bata sakte hain.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 11,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein shaadi ke functions (jaise sangeet, haldi, ya reception) ke liye agar aapko budget mein sundar aur traditional sarees kharidni hain, toh online platforms jaise Amazon, Myntra, Meesho aur Nykaa Fashion par kai behtareen aur budget-friendly options available hain.",
+        "original_text": "India mein shaadi ke functions (jaise sangeet, haldi, ya reception) ke liye agar aapko budget mein sundar aur traditional sarees kharidni hain, toh online platforms jaise Amazon, Myntra, Meesho aur Nykaa Fashion par kai behtareen aur budget-friendly options available hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Aapke liye kuch acche aur budget-friendly saree options niche diye gaye hain:",
+        "original_text": "Aapke liye kuch acche aur budget-friendly saree options niche diye gaye hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "Yeh Monjolika Fashion Women's Banarasi Pure Kanjivaram Style Silk Saree With Blouse Piece for Wedding traditional look deti hai aur **intricate zari detailing** ke sath aati hai.",
+        "original_text": "Yeh Monjolika Fashion Women's Banarasi Pure Kanjivaram Style Silk Saree With Blouse Piece for Wedding traditional look deti hai aur intricate zari detailing ke sath aati hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "Yeh SGF11- Women's Kanjivaram Pure Tissue Soft Silk Handloom Saree **soft finished fabric** aur **pure golden zari work** ke sath aati hai jo pehenne mein behad comfortable hai.",
+        "original_text": "Yeh SGF11- Women's Kanjivaram Pure Tissue Soft Silk Handloom Saree soft finished fabric aur pure golden zari work ke sath aati hai jo pehenne mein behad comfortable hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "Yeh Powder Blue Zari Work Banarasi Silk Wedding Saree **banarasi soft silk fabric** aur **exclusive jacquard border** ke sath milti hai, jo wedding functions ke liye perfect hai.",
+        "original_text": "Yeh Powder Blue Zari Work Banarasi Silk Wedding Saree banarasi soft silk fabric aur exclusive jacquard border ke sath milti hai, jo wedding functions ke liye perfect hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "Yeh Red Floral Woven Lichi Banarasi Silk Saree **lichi silk fabric** aur **weaving work** ke sath aati hai, jo sangeet ya wedding events ke liye ek shandar vikalp hai.",
+        "original_text": "Yeh Red Floral Woven Lichi Banarasi Silk Saree lichi silk fabric aur weaving work ke sath aati hai, jo sangeet ya wedding events ke liye ek shandar vikalp hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "Yeh Vichitra Silk Saree with Rose Gold Zari & Stone Work **rose gold zari floral work aur stone detailing** ke sath milti hai, jo modern aur festive look deti hai.",
+        "original_text": "Yeh Vichitra Silk Saree with Rose Gold Zari & Stone Work rose gold zari floral work aur stone detailing ke sath milti hai, jo modern aur festive look deti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "Yeh Jms Studio Zari Paisley Satin Saree for Gifting **nylon satin fabric** aur **broad zari border** ke sath aati hai, jo halki aur carry karne mein aasan hai.",
+        "original_text": "Yeh Jms Studio Zari Paisley Satin Saree for Gifting nylon satin fabric aur broad zari border ke sath aati hai, jo halki aur carry karne mein aasan hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### Kuch Zaroori Tips Online Saree Kharidte Waqt:",
+        "original_text": "Kuch Zaroori Tips Online Saree Kharidte Waqt:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "* **Fabric Check Karein:** Agar aapko heavy look chahiye toh Banarasi ya Art Silk chun sakte hain, aur agar lightweight option chahiye toh Chiffon ya Satin behtar rahenge.\n* **Return Policy Dekhein:** Hamesha aisi site se kharidein jahan easy return ya exchange policy ho, taaki agar color ya fabric pasand na aaye toh badla ja sake.",
+        "original_text": "Fabric Check Karein: Agar aapko heavy look chahiye toh Banarasi ya Art Silk chun sakte hain, aur agar lightweight option chahiye toh Chiffon ya Satin behtar rahenge.\nReturn Policy Dekhein: Hamesha aisi site se kharidein jahan easy return ya exchange policy ho, taaki agar color ya fabric pasand na aaye toh badla ja sake.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "Agar aap chahte hain ki main aapke liye kisi specific color (jaise laal, peela ya pink) ya specific budget ke andar aur options nikaloon, toh aap bata sakte hain.",
+        "original_text": "Agar aap chahte hain ki main aapke liye kisi specific color (jaise laal, peela ya pink) ya specific budget ke andar aur options nikaloon, toh aap bata sakte hain.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 5,
+  "promptText": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+  "cellId": "S02_hg_gemini_r5",
+  "startedAt": "2026-10-13T14:28:38.416Z",
+  "finishedAt": "2026-10-13T14:29:16.636Z",
+  "durationMs": 38220,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T14:27:29.103Z",
+    "error": "DataForSEO gemini task error 40102: No Search Results."
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Indian skin ke liye kai aise sunscreens hain jo bilkul white cast nahi chhodte aur lightweight hain. Aap apni skin type ke hisab se inmein se chun sakte hain:\n\n* **Derma Co 1% Hyaluronic Sunscreen Aqua Gel:** Yeh dry aur normal skin ke liye bohot accha hai. Iska gel formula jaldi absorb ho jata hai aur bilkul white cast nahi chhodta.\n* **Fixderma Shadow SPF 50+ Gel:** Yeh oily aur sensitive skin ke liye best hai. Yeh non-greasy hai aur skin par ekdum lightweight feel deta hai.\n* **Aqualogica Glow+ Dewy Sunscreen:** Agar aapko dewy finish pasand hai aur skin dull lagti hai, toh yeh water-based sunscreen bohot accha option hai.\n* **Foxtail Daily Sunscreen:** Yeh combination aur oily skin ke liye badhiya hai. Iska texture velvet jaisa hai aur yeh matte finish deta hai bina kisi white cast ke.\n\nAapki skin type oily hai ya dry? Us hisab se inmein se ek final chun sakte hain.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "37.5862 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131428-2163-0629-0000-ed253731257d",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "37.4511 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:29:18 +00:00",
+      "markdown": "Indian skin ke liye kai aise sunscreens hain jo bilkul white cast nahi chhodte aur lightweight hain. Aap apni skin type ke hisab se inmein se chun sakte hain:\n\n* **Derma Co 1% Hyaluronic Sunscreen Aqua Gel:** Yeh dry aur normal skin ke liye bohot accha hai. Iska gel formula jaldi absorb ho jata hai aur bilkul white cast nahi chhodta.\n* **Fixderma Shadow SPF 50+ Gel:** Yeh oily aur sensitive skin ke liye best hai. Yeh non-greasy hai aur skin par ekdum lightweight feel deta hai.\n* **Aqualogica Glow+ Dewy Sunscreen:** Agar aapko dewy finish pasand hai aur skin dull lagti hai, toh yeh water-based sunscreen bohot accha option hai.\n* **Foxtail Daily Sunscreen:** Yeh combination aur oily skin ke liye badhiya hai. Iska texture velvet jaisa hai aur yeh matte finish deta hai bina kisi white cast ke.\n\nAapki skin type oily hai ya dry? Us hisab se inmein se ek final chun sakte hain.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Indian skin ke liye kai aise sunscreens hain jo bilkul white cast nahi chhodte aur lightweight hain. Aap apni skin type ke hisab se inmein se chun sakte hain:",
+        "original_text": "Indian skin ke liye kai aise sunscreens hain jo bilkul white cast nahi chhodte aur lightweight hain. Aap apni skin type ke hisab se inmein se chun sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "* **Derma Co 1% Hyaluronic Sunscreen Aqua Gel:** Yeh dry aur normal skin ke liye bohot accha hai. Iska gel formula jaldi absorb ho jata hai aur bilkul white cast nahi chhodta.\n* **Fixderma Shadow SPF 50+ Gel:** Yeh oily aur sensitive skin ke liye best hai. Yeh non-greasy hai aur skin par ekdum lightweight feel deta hai.\n* **Aqualogica Glow+ Dewy Sunscreen:** Agar aapko dewy finish pasand hai aur skin dull lagti hai, toh yeh water-based sunscreen bohot accha option hai.\n* **Foxtail Daily Sunscreen:** Yeh combination aur oily skin ke liye badhiya hai. Iska texture velvet jaisa hai aur yeh matte finish deta hai bina kisi white cast ke.",
+        "original_text": "Derma Co 1% Hyaluronic Sunscreen Aqua Gel: Yeh dry aur normal skin ke liye bohot accha hai. Iska gel formula jaldi absorb ho jata hai aur bilkul white cast nahi chhodta.\nFixderma Shadow SPF 50+ Gel: Yeh oily aur sensitive skin ke liye best hai. Yeh non-greasy hai aur skin par ekdum lightweight feel deta hai.\nAqualogica Glow+ Dewy Sunscreen: Agar aapko dewy finish pasand hai aur skin dull lagti hai, toh yeh water-based sunscreen bohot accha option hai.\nFoxtail Daily Sunscreen: Yeh combination aur oily skin ke liye badhiya hai. Iska texture velvet jaisa hai aur yeh matte finish deta hai bina kisi white cast ke.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "Aapki skin type oily hai ya dry? Us hisab se inmein se ek final chun sakte hain.",
+        "original_text": "Aapki skin type oily hai ya dry? Us hisab se inmein se ek final chun sakte hain.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

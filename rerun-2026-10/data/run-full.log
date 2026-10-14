@@ -1,0 +1,653 @@
+[2026-10-13T13:07:38.568Z] RUN start: 480 cells, engines=chatgpt,gemini,perplexity, langs=en,hg, reps=8, seed=20261013, concurrency=6
+[2026-10-13T13:07:42.821Z] OK   S04_hg_perplexity_r1 attempt=1 4193ms text=1006ch cites=10 $0.005333
+[2026-10-13T13:07:42.992Z] OK   F03_hg_perplexity_r5 attempt=1 4370ms text=1467ch cites=10 $0.005466
+[2026-10-13T13:07:43.501Z] OK   F03_hg_perplexity_r7 attempt=1 4883ms text=1578ch cites=10 $0.005487
+[2026-10-13T13:08:06.119Z] OK   F01_en_chatgpt_r3 attempt=1 23296ms text=3928ch cites=6 $0.004
+[2026-10-13T13:08:09.445Z] OK   S03_en_chatgpt_r4 attempt=1 30860ms text=5676ch cites=8 $0.004
+[2026-10-13T13:08:11.340Z] OK   F03_en_gemini_r5 attempt=1 32719ms text=4992ch cites=10 $0.004
+[2026-10-13T13:08:12.332Z] OK   F05_hg_gemini_r7 attempt=1 33712ms text=1627ch cites=0 $0.004
+[2026-10-13T13:08:13.080Z] OK   S02_hg_perplexity_r2 attempt=1 3633ms text=1151ch cites=10 $0.005364
+[2026-10-13T13:08:17.735Z] OK   S04_en_perplexity_r7 attempt=1 5401ms text=1376ch cites=10 $0.005369
+[2026-10-13T13:08:33.842Z] OK   F04_en_chatgpt_r4 attempt=1 50847ms text=4545ch cites=2 $0.004
+[2026-10-13T13:08:33.842Z] PROGRESS 10/480 ok=10 failed=0 skipped=0
+[2026-10-13T13:08:44.208Z] OK   S04_hg_gemini_r8 attempt=1 38087ms text=6232ch cites=7 $0.004
+[2026-10-13T13:08:52.348Z] OK   S02_hg_chatgpt_r5 attempt=1 34611ms text=3740ch cites=5 $0.004
+[2026-10-13T13:08:57.051Z] OK   S02_en_chatgpt_r5 attempt=1 73548ms text=4134ch cites=6 $0.004
+[2026-10-13T13:09:00.662Z] OK   S03_hg_perplexity_r1 attempt=1 3609ms text=1225ch cites=10 $0.00538
+[2026-10-13T13:09:10.130Z] OK   S03_en_gemini_r2 attempt=1 56947ms text=3276ch cites=0 $0.004
+[2026-10-13T13:09:16.291Z] OK   S03_hg_chatgpt_r1 attempt=1 23940ms text=3831ch cites=6 $0.004
+[2026-10-13T13:09:20.080Z] OK   S02_hg_perplexity_r4 attempt=1 3788ms text=1112ch cites=10 $0.005364
+[2026-10-13T13:09:28.785Z] OK   F02_hg_chatgpt_r6 attempt=1 28122ms text=4246ch cites=6 $0.004
+[2026-10-13T13:09:32.777Z] OK   F04_hg_gemini_r5 attempt=1 81338ms text=5272ch cites=12 $0.004
+[2026-10-13T13:09:48.316Z] OK   S02_hg_gemini_r4 attempt=1 64106ms text=1968ch cites=1 $0.004
+[2026-10-13T13:09:48.317Z] PROGRESS 20/480 ok=20 failed=0 skipped=0
+[2026-10-13T13:09:51.281Z] OK   F01_en_perplexity_r3 attempt=1 2963ms text=835ch cites=10 $0.005238
+[2026-10-13T13:09:55.748Z] OK   S04_en_gemini_r6 attempt=1 81904ms text=7859ch cites=23 $0.004
+[2026-10-13T13:10:11.369Z] OK   S05_hg_chatgpt_r7 attempt=1 42460ms text=3761ch cites=4 $0.004
+[2026-10-13T13:10:11.375Z] OK   F02_hg_chatgpt_r2 attempt=1 38595ms text=4303ch cites=7 $0.004
+[2026-10-13T13:10:15.187Z] OK   S03_en_perplexity_r2 attempt=1 3816ms text=1248ch cites=10 $0.005332
+[2026-10-13T13:10:18.754Z] OK   S04_hg_perplexity_r2 attempt=1 3565ms text=946ch cites=10 $0.005314
+[2026-10-13T13:10:22.829Z] OK   S03_hg_perplexity_r8 attempt=1 3982ms text=1406ch cites=10 $0.005468
+[2026-10-13T13:10:30.546Z] OK   F02_en_chatgpt_r3 attempt=1 39262ms text=5317ch cites=11 $0.004
+[2026-10-13T13:10:36.167Z] OK   F04_hg_chatgpt_r1 attempt=1 40417ms text=5255ch cites=4 $0.004
+[2026-10-13T13:10:50.141Z] ERR  F01_en_gemini_r5 attempt=1/5: This operation was aborted
+[2026-10-13T13:10:55.040Z] OK   S01_hg_chatgpt_r5 attempt=1 32210ms text=3570ch cites=5 $0.004
+[2026-10-13T13:10:55.041Z] PROGRESS 30/480 ok=30 failed=0 skipped=0
+[2026-10-13T13:11:00.079Z] ERR  S01_en_gemini_r8 attempt=1/5: This operation was aborted
+[2026-10-13T13:11:15.962Z] OK   S05_en_chatgpt_r7 attempt=1 39698ms text=4163ch cites=7 $0.004
+[2026-10-13T13:11:19.175Z] OK   S04_hg_perplexity_r8 attempt=1 3211ms text=875ch cites=10 $0.005291
+[2026-10-13T13:11:24.593Z] OK   F05_hg_perplexity_r5 attempt=1 5415ms text=2015ch cites=10 $0.005687
+[2026-10-13T13:11:27.655Z] OK   S03_en_gemini_r8 attempt=1 76278ms text=9273ch cites=25 $0.004
+[2026-10-13T13:11:45.316Z] OK   F01_hg_chatgpt_r8 attempt=1 20722ms text=3614ch cites=5 $0.004
+[2026-10-13T13:11:45.517Z] OK   F05_en_chatgpt_r6 attempt=1 74970ms text=5564ch cites=7 $0.004
+[2026-10-13T13:11:52.858Z] OK   S05_en_gemini_r7 attempt=1 57816ms text=4184ch cites=5 $0.004
+[2026-10-13T13:11:57.062Z] OK   F02_hg_perplexity_r4 attempt=1 4201ms text=1301ch cites=10 $0.005598
+[2026-10-13T13:12:00.252Z] OK   S03_hg_chatgpt_r5 attempt=1 32595ms text=3371ch cites=6 $0.004
+[2026-10-13T13:12:25.509Z] OK   S03_en_chatgpt_r1 attempt=1 25253ms text=4703ch cites=7 $0.004
+[2026-10-13T13:12:25.510Z] PROGRESS 40/480 ok=40 failed=0 skipped=0
+[2026-10-13T13:12:25.510Z] SKIP S01_en_chatgpt_r1 (already done)
+[2026-10-13T13:12:29.549Z] OK   S03_en_perplexity_r4 attempt=1 4036ms text=1519ch cites=10 $0.005389
+[2026-10-13T13:12:33.610Z] OK   F03_en_chatgpt_r5 attempt=1 36545ms text=4666ch cites=6 $0.004
+[2026-10-13T13:12:41.577Z] ERR  F01_en_gemini_r5 attempt=2/5: This operation was aborted
+[2026-10-13T13:12:48.901Z] OK   F02_en_gemini_r1 attempt=1 63382ms text=2872ch cites=0 $0.004
+[2026-10-13T13:12:48.929Z] OK   F02_en_chatgpt_r7 attempt=1 63610ms text=5229ch cites=6 $0.004
+[2026-10-13T13:12:51.122Z] ERR  S01_en_gemini_r8 attempt=2/5: This operation was aborted
+[2026-10-13T13:12:52.869Z] OK   F03_hg_perplexity_r8 attempt=1 3938ms text=1392ch cites=10 $0.005447
+[2026-10-13T13:13:15.951Z] OK   S05_en_chatgpt_r8 attempt=1 27048ms text=4749ch cites=7 $0.004
+[2026-10-13T13:13:16.050Z] OK   S02_hg_chatgpt_r3 attempt=1 42437ms text=4907ch cites=7 $0.004
+[2026-10-13T13:13:23.378Z] OK   S01_en_gemini_r5 attempt=1 53796ms text=1733ch cites=0 $0.004
+[2026-10-13T13:13:26.698Z] OK   S02_hg_perplexity_r1 attempt=1 3318ms text=1153ch cites=10 $0.005373
+[2026-10-13T13:13:26.699Z] PROGRESS 50/480 ok=49 failed=0 skipped=1
+[2026-10-13T13:13:30.393Z] OK   S05_hg_perplexity_r4 attempt=1 3693ms text=1171ch cites=10 $0.005419
+[2026-10-13T13:13:31.258Z] OK   S02_en_chatgpt_r4 attempt=1 38386ms text=5877ch cites=10 $0.004
+[2026-10-13T13:14:02.909Z] OK   S01_en_gemini_r8 attempt=3 37965ms text=7012ch cites=10 $0.004
+[2026-10-13T13:14:22.707Z] OK   F01_en_gemini_r6 attempt=1 66755ms text=1458ch cites=0 $0.004
+[2026-10-13T13:14:28.073Z] OK   F02_hg_gemini_r2 attempt=1 72021ms text=4578ch cites=20 $0.004
+[2026-10-13T13:14:40.844Z] OK   S03_hg_gemini_r2 attempt=1 37933ms text=1855ch cites=3 $0.004
+[2026-10-13T13:14:43.687Z] OK   F01_en_chatgpt_r6 attempt=1 20877ms text=4652ch cites=9 $0.004
+[2026-10-13T13:14:48.964Z] OK   S04_hg_perplexity_r6 attempt=1 5161ms text=839ch cites=10 $0.005266
+[2026-10-13T13:14:52.789Z] ERR  F01_en_gemini_r5 attempt=3/5: This operation was aborted
+[2026-10-13T13:14:53.272Z] OK   F03_hg_chatgpt_r4 attempt=1 82876ms text=6102ch cites=7 $0.004
+[2026-10-13T13:15:11.271Z] ERR  F03_en_gemini_r2 attempt=1/5: This operation was aborted
+[2026-10-13T13:15:21.427Z] OK   F05_en_chatgpt_r5 attempt=1 40580ms text=5019ch cites=14 $0.004
+[2026-10-13T13:15:21.427Z] PROGRESS 60/480 ok=59 failed=0 skipped=1
+[2026-10-13T13:15:54.229Z] ERR  F03_en_gemini_r3 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T13:16:02.463Z] OK   F03_en_gemini_r2 attempt=2 37769ms text=3693ch cites=3 $0.004
+[2026-10-13T13:16:08.091Z] ERR  S03_hg_gemini_r6 attempt=1/5: This operation was aborted
+[2026-10-13T13:16:13.053Z] OK   F05_hg_chatgpt_r1 attempt=1 51623ms text=6405ch cites=7 $0.004
+[2026-10-13T13:16:27.039Z] OK   S02_en_chatgpt_r1 attempt=1 24574ms text=4095ch cites=8 $0.004
+[2026-10-13T13:16:33.300Z] ERR  F03_hg_gemini_r5 attempt=1/5: This operation was aborted
+[2026-10-13T13:16:56.302Z] OK   F01_en_gemini_r5 attempt=4 60100ms text=4351ch cites=8 $0.004
+[2026-10-13T13:17:00.520Z] OK   S05_hg_perplexity_r6 attempt=1 4127ms text=1333ch cites=10 $0.005477
+[2026-10-13T13:17:30.989Z] OK   F01_hg_chatgpt_r2 attempt=1 30467ms text=4250ch cites=6 $0.004
+[2026-10-13T13:17:45.193Z] ERR  F03_en_gemini_r3 attempt=2/5: This operation was aborted
+[2026-10-13T13:17:53.054Z] ERR  F01_en_gemini_r7 attempt=1/5: This operation was aborted
+[2026-10-13T13:17:54.884Z] OK   F03_en_gemini_r1 attempt=1 23893ms text=2610ch cites=5 $0.004
+[2026-10-13T13:17:59.259Z] ERR  S03_hg_gemini_r6 attempt=2/5: This operation was aborted
+[2026-10-13T13:18:07.029Z] ERR  F01_en_gemini_r2 attempt=1/5: This operation was aborted
+[2026-10-13T13:18:23.872Z] ERR  F03_hg_gemini_r5 attempt=2/5: This operation was aborted
+[2026-10-13T13:18:55.844Z] OK   F01_en_gemini_r2 attempt=2 33919ms text=2505ch cites=4 $0.004
+[2026-10-13T13:19:00.059Z] OK   S04_en_perplexity_r8 attempt=1 4118ms text=1385ch cites=10 $0.00538
+[2026-10-13T13:19:05.113Z] OK   F02_en_perplexity_r5 attempt=1 5052ms text=1813ch cites=10 $0.005542
+[2026-10-13T13:19:05.113Z] PROGRESS 70/480 ok=69 failed=0 skipped=1
+[2026-10-13T13:19:24.972Z] OK   F04_en_gemini_r6 attempt=1 90086ms text=6072ch cites=10 $0.004
+[2026-10-13T13:19:39.331Z] OK   F03_en_gemini_r3 attempt=3 82038ms text=7168ch cites=16 $0.004
+[2026-10-13T13:19:43.646Z] ERR  F01_en_gemini_r7 attempt=2/5: This operation was aborted
+[2026-10-13T13:19:43.917Z] OK   F02_hg_perplexity_r5 attempt=1 4572ms text=1331ch cites=10 $0.005641
+[2026-10-13T13:20:00.591Z] OK   F03_hg_gemini_r5 attempt=3 65487ms text=3053ch cites=8 $0.004
+[2026-10-13T13:20:00.791Z] OK   F02_en_gemini_r5 attempt=1 35817ms text=1504ch cites=0 $0.004
+[2026-10-13T13:20:03.527Z] OK   S03_hg_gemini_r6 attempt=3 89574ms text=1496ch cites=0 $0.004
+[2026-10-13T13:20:04.839Z] OK   F04_hg_perplexity_r7 attempt=1 3947ms text=1381ch cites=10 $0.005394
+[2026-10-13T13:20:06.451Z] OK   F04_en_chatgpt_r7 attempt=1 61226ms text=4563ch cites=2 $0.004
+[2026-10-13T13:20:07.871Z] OK   S05_en_perplexity_r1 attempt=1 3030ms text=915ch cites=10 $0.005257
+[2026-10-13T13:20:11.595Z] OK   S02_en_perplexity_r7 attempt=1 3723ms text=867ch cites=10 $0.005246
+[2026-10-13T13:20:11.596Z] PROGRESS 80/480 ok=79 failed=0 skipped=1
+[2026-10-13T13:20:25.758Z] OK   S05_hg_chatgpt_r5 attempt=1 22133ms text=3724ch cites=3 $0.004
+[2026-10-13T13:20:25.758Z] SKIP S01_hg_gemini_r1 (already done)
+[2026-10-13T13:20:39.838Z] OK   S04_en_gemini_r1 attempt=1 33384ms text=5768ch cites=7 $0.004
+[2026-10-13T13:20:42.312Z] OK   F04_en_chatgpt_r1 attempt=1 41720ms text=5230ch cites=6 $0.004
+[2026-10-13T13:20:44.299Z] OK   F01_hg_perplexity_r3 attempt=1 4460ms text=1283ch cites=10 $0.005519
+[2026-10-13T13:20:48.264Z] OK   F03_en_perplexity_r7 attempt=1 3861ms text=1610ch cites=10 $0.005387
+[2026-10-13T13:20:48.269Z] OK   F01_en_gemini_r7 attempt=3 33780ms text=2673ch cites=2 $0.004
+[2026-10-13T13:20:51.428Z] OK   S05_en_perplexity_r8 attempt=1 3156ms text=915ch cites=10 $0.005257
+[2026-10-13T13:20:51.940Z] OK   S04_en_perplexity_r1 attempt=1 3675ms text=1187ch cites=10 $0.005326
+[2026-10-13T13:20:55.842Z] OK   F02_hg_perplexity_r7 attempt=1 4411ms text=1428ch cites=10 $0.005602
+[2026-10-13T13:20:55.842Z] PROGRESS 90/480 ok=88 failed=0 skipped=2
+[2026-10-13T13:20:56.391Z] OK   F03_hg_perplexity_r3 attempt=1 4449ms text=1581ch cites=10 $0.005504
+[2026-10-13T13:20:59.652Z] OK   F01_en_perplexity_r5 attempt=1 3259ms text=962ch cites=10 $0.005266
+[2026-10-13T13:21:23.941Z] ERR  F04_en_gemini_r3 attempt=1/5: This operation was aborted
+[2026-10-13T13:21:32.553Z] OK   S03_en_chatgpt_r6 attempt=1 32898ms text=4485ch cites=4 $0.004
+[2026-10-13T13:21:36.373Z] OK   F01_en_perplexity_r7 attempt=1 3720ms text=989ch cites=10 $0.005264
+[2026-10-13T13:21:50.216Z] OK   F04_hg_gemini_r1 attempt=1 67901ms text=2584ch cites=0 $0.004
+[2026-10-13T13:21:51.614Z] ERR  F05_en_gemini_r6 attempt=1/5: This operation was aborted
+[2026-10-13T13:21:54.639Z] OK   F01_hg_perplexity_r1 attempt=1 4421ms text=1500ch cites=10 $0.005606
+[2026-10-13T13:22:01.449Z] OK   F04_hg_gemini_r2 attempt=1 95688ms text=8776ch cites=24 $0.004
+[2026-10-13T13:22:05.098Z] OK   S02_en_perplexity_r4 attempt=1 3547ms text=942ch cites=10 $0.005264
+[2026-10-13T13:22:06.133Z] OK   S03_hg_chatgpt_r6 attempt=1 29758ms text=3877ch cites=6 $0.004
+[2026-10-13T13:22:09.098Z] OK   F02_hg_perplexity_r6 attempt=1 3998ms text=1415ch cites=10 $0.00549
+[2026-10-13T13:22:09.099Z] PROGRESS 100/480 ok=98 failed=0 skipped=2
+[2026-10-13T13:22:13.144Z] OK   S05_hg_perplexity_r5 attempt=1 4044ms text=1039ch cites=10 $0.005392
+[2026-10-13T13:22:18.898Z] OK   F04_en_gemini_r3 attempt=2 40238ms text=2924ch cites=0 $0.004
+[2026-10-13T13:22:35.855Z] ERR  F02_hg_gemini_r5 attempt=1/5: This operation was aborted
+[2026-10-13T13:22:39.353Z] OK   F05_hg_chatgpt_r5 attempt=1 44713ms text=5362ch cites=8 $0.004
+[2026-10-13T13:22:43.623Z] OK   F03_hg_perplexity_r2 attempt=1 4268ms text=1521ch cites=10 $0.005473
+[2026-10-13T13:22:44.321Z] OK   F03_hg_chatgpt_r6 attempt=1 38185ms text=4872ch cites=9 $0.004
+[2026-10-13T13:22:44.480Z] OK   F01_hg_chatgpt_r3 attempt=1 25483ms text=5483ch cites=10 $0.004
+[2026-10-13T13:23:15.230Z] ERR  F05_en_gemini_r6 attempt=2/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T13:23:28.573Z] OK   S05_hg_chatgpt_r2 attempt=1 75426ms text=3926ch cites=3 $0.004
+[2026-10-13T13:24:13.421Z] ERR  S02_en_gemini_r2 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T13:24:21.375Z] OK   F02_hg_gemini_r5 attempt=2 93007ms text=2238ch cites=0 $0.004
+[2026-10-13T13:24:21.589Z] OK   S02_hg_gemini_r8 attempt=1 97107ms text=2001ch cites=0 $0.004
+[2026-10-13T13:24:24.323Z] ERR  F01_hg_gemini_r5 attempt=1/5: This operation was aborted
+[2026-10-13T13:24:25.755Z] OK   S01_en_perplexity_r7 attempt=1 4274ms text=1197ch cites=10 $0.005377
+[2026-10-13T13:24:25.755Z] PROGRESS 110/480 ok=108 failed=0 skipped=2
+[2026-10-13T13:24:35.626Z] OK   F04_hg_gemini_r4 attempt=1 67051ms text=1912ch cites=2 $0.004
+[2026-10-13T13:25:19.578Z] OK   F05_en_chatgpt_r3 attempt=1 57987ms text=4807ch cites=7 $0.004
+[2026-10-13T13:25:23.134Z] OK   F01_en_perplexity_r2 attempt=1 3555ms text=1077ch cites=10 $0.005275
+[2026-10-13T13:25:26.660Z] ERR  F05_en_gemini_r6 attempt=3/5: This operation was aborted
+[2026-10-13T13:25:51.098Z] OK   F01_hg_gemini_r5 attempt=2 75283ms text=1998ch cites=0 $0.004
+[2026-10-13T13:26:05.766Z] ERR  F02_en_gemini_r2 attempt=1/5: This operation was aborted
+[2026-10-13T13:26:07.957Z] ERR  S02_en_gemini_r2 attempt=2/5: This operation was aborted
+[2026-10-13T13:26:15.636Z] ERR  F02_hg_gemini_r1 attempt=1/5: This operation was aborted
+[2026-10-13T13:27:03.152Z] ERR  S03_en_gemini_r3 attempt=1/5: This operation was aborted
+[2026-10-13T13:27:31.102Z] ERR  S02_hg_gemini_r7 attempt=1/5: This operation was aborted
+[2026-10-13T13:27:33.083Z] OK   F05_en_gemini_r6 attempt=4 66089ms text=3011ch cites=0 $0.004
+[2026-10-13T13:27:37.791Z] ERR  F02_hg_gemini_r1 attempt=2/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T13:27:57.615Z] ERR  F02_en_gemini_r2 attempt=2/5: This operation was aborted
+[2026-10-13T13:28:07.769Z] OK   S05_hg_gemini_r5 attempt=1 34684ms text=4251ch cites=9 $0.004
+[2026-10-13T13:28:21.170Z] ERR  S02_en_gemini_r2 attempt=3/5: This operation was aborted
+[2026-10-13T13:28:34.331Z] OK   S02_en_chatgpt_r6 attempt=1 26559ms text=4414ch cites=7 $0.004
+[2026-10-13T13:28:46.350Z] ERR  S03_en_gemini_r3 attempt=2/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T13:29:25.934Z] ERR  S02_hg_gemini_r7 attempt=2/5: This operation was aborted
+[2026-10-13T13:29:47.898Z] OK   F02_en_gemini_r2 attempt=3 76784ms text=4397ch cites=5 $0.004
+[2026-10-13T13:29:49.607Z] ERR  F02_hg_gemini_r1 attempt=3/5: This operation was aborted
+[2026-10-13T13:29:51.692Z] OK   F04_en_perplexity_r8 attempt=1 3789ms text=831ch cites=10 $0.005215
+[2026-10-13T13:30:14.351Z] ERR  S05_en_gemini_r3 attempt=1/5: This operation was aborted
+[2026-10-13T13:30:43.402Z] OK   S02_en_gemini_r2 attempt=4 77705ms text=6565ch cites=16 $0.004
+[2026-10-13T13:30:43.403Z] PROGRESS 120/480 ok=118 failed=0 skipped=2
+[2026-10-13T13:30:51.591Z] OK   F04_en_gemini_r2 attempt=1 59895ms text=2699ch cites=5 $0.004
+[2026-10-13T13:31:00.454Z] ERR  S03_en_gemini_r3 attempt=3/5: This operation was aborted
+[2026-10-13T13:31:38.394Z] ERR  S02_hg_gemini_r7 attempt=3/5: This operation was aborted
+[2026-10-13T13:31:39.844Z] OK   F02_hg_gemini_r1 attempt=4 45255ms text=5003ch cites=5 $0.004
+[2026-10-13T13:31:45.457Z] OK   F05_en_perplexity_r8 attempt=1 5610ms text=2580ch cites=10 $0.005718
+[2026-10-13T13:31:50.181Z] OK   F03_en_perplexity_r5 attempt=1 4720ms text=1205ch cites=10 $0.005298
+[2026-10-13T13:32:05.418Z] ERR  S05_en_gemini_r3 attempt=2/5: This operation was aborted
+[2026-10-13T13:32:23.419Z] ERR  S01_hg_gemini_r7 attempt=1/5: This operation was aborted
+[2026-10-13T13:32:25.221Z] OK   S04_en_chatgpt_r7 attempt=1 35035ms text=4862ch cites=7 $0.004
+[2026-10-13T13:32:31.605Z] ERR  S05_en_gemini_r2 attempt=1/5: This operation was aborted
+[2026-10-13T13:33:13.873Z] OK   S03_hg_chatgpt_r7 attempt=1 48328ms text=4577ch cites=6 $0.004
+[2026-10-13T13:33:36.153Z] OK   S01_hg_gemini_r7 attempt=2 58593ms text=4737ch cites=7 $0.004
+[2026-10-13T13:33:44.201Z] ERR  S03_en_gemini_r3 attempt=4/5: This operation was aborted
+[2026-10-13T13:33:49.053Z] OK   S02_hg_gemini_r7 attempt=4 66896ms text=1206ch cites=0 $0.004
+[2026-10-13T13:33:50.794Z] OK   S05_en_gemini_r2 attempt=2 67449ms text=4127ch cites=5 $0.004
+[2026-10-13T13:34:14.751Z] OK   F02_en_chatgpt_r4 attempt=1 60774ms text=4384ch cites=5 $0.004
+[2026-10-13T13:34:14.752Z] PROGRESS 130/480 ok=128 failed=0 skipped=2
+[2026-10-13T13:34:16.271Z] ERR  S05_en_gemini_r3 attempt=3/5: This operation was aborted
+[2026-10-13T13:34:18.402Z] OK   F03_en_chatgpt_r8 attempt=1 42244ms text=5143ch cites=10 $0.004
+[2026-10-13T13:34:22.239Z] OK   F02_en_perplexity_r2 attempt=1 3832ms text=1375ch cites=10 $0.00542
+[2026-10-13T13:34:26.326Z] OK   F04_hg_perplexity_r6 attempt=1 4084ms text=1393ch cites=10 $0.005378
+[2026-10-13T13:34:54.276Z] OK   F02_en_chatgpt_r2 attempt=1 39116ms text=2712ch cites=5 $0.004
+[2026-10-13T13:35:00.626Z] OK   F03_hg_gemini_r4 attempt=1 71570ms text=2355ch cites=0 $0.004
+[2026-10-13T13:35:02.719Z] OK   F05_hg_gemini_r5 attempt=1 36390ms text=3136ch cites=2 $0.004
+[2026-10-13T13:35:26.132Z] OK   F02_en_chatgpt_r8 attempt=1 31853ms text=4019ch cites=5 $0.004
+[2026-10-13T13:35:30.818Z] ERR  F03_hg_gemini_r2 attempt=1/5: This operation was aborted
+[2026-10-13T13:35:44.754Z] OK   F04_hg_chatgpt_r8 attempt=1 44039ms text=4037ch cites=3 $0.004
+[2026-10-13T13:35:53.992Z] OK   S01_hg_chatgpt_r8 attempt=1 27856ms text=3772ch cites=1 $0.004
+[2026-10-13T13:36:25.114Z] OK   S02_en_gemini_r4 attempt=1 82391ms text=5984ch cites=18 $0.004
+[2026-10-13T13:36:25.115Z] PROGRESS 140/480 ok=138 failed=0 skipped=2
+[2026-10-13T13:36:56.620Z] ERR  S05_en_gemini_r3 attempt=4/5: This operation was aborted
+[2026-10-13T13:36:59.111Z] OK   F04_hg_chatgpt_r2 attempt=1 74352ms text=4842ch cites=9 $0.004
+[2026-10-13T13:37:01.273Z] OK   F02_en_chatgpt_r1 attempt=1 36143ms text=4106ch cites=6 $0.004
+[2026-10-13T13:37:05.151Z] OK   F01_en_perplexity_r6 attempt=1 3875ms text=1025ch cites=10 $0.005273
+[2026-10-13T13:37:15.907Z] OK   S03_en_gemini_r3 attempt=5 90482ms text=5782ch cites=13 $0.004
+[2026-10-13T13:37:20.717Z] OK   F05_hg_chatgpt_r6 attempt=1 86722ms text=4362ch cites=7 $0.004
+[2026-10-13T13:37:24.295Z] OK   S05_en_perplexity_r2 attempt=1 3479ms text=1089ch cites=10 $0.005289
+[2026-10-13T13:37:25.613Z] ERR  F03_hg_gemini_r2 attempt=2/5: This operation was aborted
+[2026-10-13T13:37:28.704Z] OK   F02_hg_perplexity_r2 attempt=1 4405ms text=1357ch cites=10 $0.005605
+[2026-10-13T13:37:32.415Z] OK   S01_hg_perplexity_r6 attempt=1 3707ms text=1217ch cites=10 $0.005496
+[2026-10-13T13:37:33.623Z] OK   S04_hg_chatgpt_r5 attempt=1 34509ms text=3670ch cites=5 $0.004
+[2026-10-13T13:38:00.652Z] OK   F02_hg_gemini_r8 attempt=1 55398ms text=1996ch cites=0 $0.004
+[2026-10-13T13:38:00.708Z] PROGRESS 150/480 ok=148 failed=0 skipped=2
+[2026-10-13T13:38:08.350Z] OK   F03_hg_chatgpt_r5 attempt=1 35930ms text=5073ch cites=8 $0.004
+[2026-10-13T13:38:19.300Z] OK   S01_en_chatgpt_r7 attempt=1 63388ms text=5180ch cites=11 $0.004
+[2026-10-13T13:38:42.895Z] OK   S01_en_chatgpt_r6 attempt=1 23589ms text=4313ch cites=4 $0.004
+[2026-10-13T13:38:51.893Z] OK   F01_en_chatgpt_r5 attempt=1 43436ms text=5610ch cites=9 $0.004
+[2026-10-13T13:38:55.727Z] OK   S03_en_perplexity_r5 attempt=1 3831ms text=1433ch cites=10 $0.005381
+[2026-10-13T13:39:03.018Z] OK   S04_en_chatgpt_r1 attempt=1 62306ms text=3570ch cites=2 $0.004
+[2026-10-13T13:39:09.164Z] OK   F03_hg_gemini_r2 attempt=3 69635ms text=3215ch cites=5 $0.004
+[2026-10-13T13:39:13.631Z] ERR  S01_en_gemini_r6 attempt=1/5: This operation was aborted
+[2026-10-13T13:39:47.464Z] OK   S04_en_chatgpt_r2 attempt=1 37166ms text=3869ch cites=5 $0.004
+[2026-10-13T13:45:01.737Z] ERR  F03_hg_gemini_r6 attempt=1/5: This operation was aborted
+[2026-10-13T13:45:03.687Z] ERR  F05_en_chatgpt_r4 attempt=1/5: This operation was aborted
+[2026-10-13T13:45:03.688Z] ERR  S05_en_gemini_r3 attempt=5/5: This operation was aborted
+[2026-10-13T13:45:03.690Z] FAIL S05_en_gemini_r3 after 5 attempts
+[2026-10-13T13:45:03.693Z] ERR  F04_en_chatgpt_r8 attempt=1/5: This operation was aborted
+[2026-10-13T13:45:03.695Z] ERR  S01_en_gemini_r6 attempt=2/5: This operation was aborted
+[2026-10-13T13:45:03.697Z] ERR  S01_en_perplexity_r6 attempt=1/5: This operation was aborted
+[2026-10-13T13:45:03.699Z] ERR  F04_en_chatgpt_r6 attempt=1/5: fetch failed
+[2026-10-13T13:45:19.107Z] OK   S01_en_perplexity_r6 attempt=2 4146ms text=1225ch cites=10 $0.005371
+[2026-10-13T13:45:19.108Z] PROGRESS 160/480 ok=157 failed=1 skipped=2
+[2026-10-13T13:45:22.031Z] OK   S05_en_perplexity_r5 attempt=1 2918ms text=911ch cites=10 $0.005251
+[2026-10-13T13:45:40.737Z] OK   F04_en_chatgpt_r6 attempt=2 23624ms text=4538ch cites=6 $0.004
+[2026-10-13T13:45:44.145Z] OK   F04_en_chatgpt_r8 attempt=2 25667ms text=4222ch cites=3 $0.004
+[2026-10-13T13:45:45.310Z] OK   F05_en_chatgpt_r4 attempt=2 30099ms text=5880ch cites=5 $0.004
+[2026-10-13T13:45:47.611Z] OK   F04_en_perplexity_r4 attempt=1 3463ms text=1020ch cites=10 $0.00527
+[2026-10-13T13:46:09.489Z] OK   S05_en_chatgpt_r2 attempt=1 47341ms text=4279ch cites=5 $0.004
+[2026-10-13T13:46:11.760Z] OK   F03_en_chatgpt_r1 attempt=1 26447ms text=5244ch cites=9 $0.004
+[2026-10-13T13:46:29.883Z] OK   F04_hg_gemini_r6 attempt=1 42270ms text=4873ch cites=11 $0.004
+[2026-10-13T13:46:44.740Z] OK   F03_hg_gemini_r6 attempt=2 90427ms text=2467ch cites=0 $0.004
+[2026-10-13T13:46:52.652Z] OK   F02_en_perplexity_r7 attempt=1 7909ms text=1620ch cites=10 $0.005493
+[2026-10-13T13:46:52.652Z] PROGRESS 170/480 ok=167 failed=1 skipped=2
+[2026-10-13T13:46:54.060Z] OK   F04_hg_gemini_r3 attempt=1 42299ms text=2536ch cites=0 $0.004
+[2026-10-13T13:46:55.867Z] OK   S02_en_perplexity_r8 attempt=1 3212ms text=886ch cites=10 $0.005249
+[2026-10-13T13:46:59.816Z] OK   F01_hg_perplexity_r2 attempt=1 5749ms text=1392ch cites=10 $0.005562
+[2026-10-13T13:47:00.137Z] OK   S03_hg_perplexity_r7 attempt=1 4269ms text=1495ch cites=10 $0.00549
+[2026-10-13T13:47:16.643Z] OK   S01_en_gemini_r6 attempt=3 99646ms text=4741ch cites=12 $0.004
+[2026-10-13T13:47:20.751Z] ERR  F04_en_gemini_r4 attempt=1/5: This operation was aborted
+[2026-10-13T13:47:26.474Z] OK   F03_en_gemini_r7 attempt=1 76929ms text=5560ch cites=10 $0.004
+[2026-10-13T13:47:48.563Z] OK   S04_hg_gemini_r1 attempt=1 78580ms text=1251ch cites=0 $0.004
+[2026-10-13T13:47:50.155Z] OK   F01_en_gemini_r8 attempt=1 33510ms text=3821ch cites=6 $0.004
+[2026-10-13T13:47:53.895Z] OK   S01_hg_perplexity_r8 attempt=1 3738ms text=1160ch cites=10 $0.005459
+[2026-10-13T13:47:58.013Z] OK   S03_hg_perplexity_r4 attempt=1 4116ms text=1239ch cites=10 $0.00542
+[2026-10-13T13:47:58.105Z] PROGRESS 180/480 ok=177 failed=1 skipped=2
+[2026-10-13T13:48:06.493Z] OK   S05_en_gemini_r5 attempt=1 66576ms text=2166ch cites=0 $0.004
+[2026-10-13T13:48:09.076Z] OK   F04_en_gemini_r4 attempt=2 35311ms text=3679ch cites=6 $0.004
+[2026-10-13T13:48:10.380Z] OK   S01_en_chatgpt_r8 attempt=1 21815ms text=4289ch cites=5 $0.004
+[2026-10-13T13:48:12.893Z] OK   S01_en_gemini_r4 attempt=1 46417ms text=2392ch cites=0 $0.004
+[2026-10-13T13:48:13.070Z] OK   F02_en_perplexity_r4 attempt=1 3891ms text=1554ch cites=10 $0.005472
+[2026-10-13T13:48:14.528Z] OK   F04_hg_perplexity_r5 attempt=1 4146ms text=1342ch cites=10 $0.005427
+[2026-10-13T13:48:27.787Z] OK   S05_en_chatgpt_r5 attempt=1 87648ms text=4513ch cites=6 $0.004
+[2026-10-13T13:48:42.918Z] OK   S05_hg_chatgpt_r1 attempt=1 29844ms text=3829ch cites=8 $0.004
+[2026-10-13T13:48:47.341Z] OK   S03_hg_perplexity_r6 attempt=1 4322ms text=1433ch cites=10 $0.005479
+[2026-10-13T13:48:51.325Z] OK   F04_en_perplexity_r3 attempt=1 3982ms text=1117ch cites=10 $0.005265
+[2026-10-13T13:48:51.326Z] PROGRESS 190/480 ok=187 failed=1 skipped=2
+[2026-10-13T13:49:01.876Z] OK   F05_en_chatgpt_r8 attempt=1 55381ms text=7341ch cites=5 $0.004
+[2026-10-13T13:49:23.144Z] OK   S05_en_chatgpt_r4 attempt=1 31817ms text=4263ch cites=6 $0.004
+[2026-10-13T13:49:29.817Z] OK   F03_hg_chatgpt_r2 attempt=1 27845ms text=4878ch cites=6 $0.004
+[2026-10-13T13:49:30.222Z] OK   F05_en_perplexity_r5 attempt=1 7076ms text=3449ch cites=10 $0.005927
+[2026-10-13T13:49:37.844Z] OK   F05_en_gemini_r1 attempt=1 70055ms text=3262ch cites=0 $0.004
+[2026-10-13T13:49:38.117Z] ERR  S05_hg_gemini_r8 attempt=1/5: This operation was aborted
+[2026-10-13T13:49:52.898Z] ERR  F01_hg_gemini_r3 attempt=1/5: This operation was aborted
+[2026-10-13T13:49:54.539Z] ERR  S02_en_gemini_r8 attempt=1/5: This operation was aborted
+[2026-10-13T13:50:02.334Z] OK   F05_en_chatgpt_r1 attempt=1 32514ms text=5178ch cites=5 $0.004
+[2026-10-13T13:50:10.520Z] OK   F05_en_perplexity_r7 attempt=1 8095ms text=2707ch cites=10 $0.005718
+[2026-10-13T13:50:19.383Z] OK   F03_hg_gemini_r8 attempt=1 49160ms text=1556ch cites=2 $0.004
+[2026-10-13T13:50:23.472Z] OK   S02_hg_perplexity_r3 attempt=1 4087ms text=1192ch cites=10 $0.005382
+[2026-10-13T13:50:28.950Z] OK   F01_hg_gemini_r3 attempt=2 24917ms text=6339ch cites=13 $0.004
+[2026-10-13T13:50:28.950Z] PROGRESS 200/480 ok=197 failed=1 skipped=2
+[2026-10-13T13:50:33.975Z] OK   S02_hg_chatgpt_r1 attempt=1 56031ms text=3563ch cites=7 $0.004
+[2026-10-13T13:50:44.231Z] OK   S02_hg_gemini_r6 attempt=1 33708ms text=1912ch cites=0 $0.004
+[2026-10-13T13:50:58.487Z] OK   F02_hg_gemini_r7 attempt=1 35013ms text=1911ch cites=3 $0.004
+[2026-10-13T13:51:02.282Z] OK   S04_en_perplexity_r2 attempt=1 3792ms text=1240ch cites=10 $0.005341
+[2026-10-13T13:51:05.771Z] OK   F01_en_gemini_r1 attempt=1 31691ms text=2638ch cites=0 $0.004
+[2026-10-13T13:51:10.673Z] ERR  S05_hg_gemini_r8 attempt=2/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T13:51:25.574Z] OK   F03_hg_gemini_r7 attempt=1 56621ms text=2285ch cites=0 $0.004
+[2026-10-13T13:51:35.874Z] OK   S02_en_gemini_r8 attempt=2 87675ms text=2668ch cites=0 $0.004
+[2026-10-13T13:51:50.017Z] OK   F04_en_chatgpt_r2 attempt=1 24438ms text=4534ch cites=4 $0.004
+[2026-10-13T13:52:05.022Z] OK   S05_hg_gemini_r8 attempt=3 21315ms text=4658ch cites=7 $0.004
+[2026-10-13T13:52:09.048Z] ERR  S03_en_gemini_r6 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T13:52:09.766Z] OK   S03_en_gemini_r1 attempt=1 85533ms text=5492ch cites=6 $0.004
+[2026-10-13T13:52:09.767Z] PROGRESS 210/480 ok=207 failed=1 skipped=2
+[2026-10-13T13:52:26.034Z] OK   S02_en_gemini_r3 attempt=1 83749ms text=2839ch cites=4 $0.004
+[2026-10-13T13:52:26.970Z] OK   S02_en_chatgpt_r2 attempt=1 51092ms text=4399ch cites=8 $0.004
+[2026-10-13T13:52:29.561Z] OK   S05_hg_gemini_r4 attempt=1 24506ms text=4303ch cites=16 $0.004
+[2026-10-13T13:52:30.044Z] OK   F03_en_perplexity_r6 attempt=1 4006ms text=1222ch cites=10 $0.005319
+[2026-10-13T13:52:32.254Z] OK   F02_hg_perplexity_r1 attempt=1 5281ms text=1410ch cites=10 $0.005599
+[2026-10-13T13:52:34.160Z] OK   S03_hg_perplexity_r5 attempt=1 4113ms text=1362ch cites=10 $0.005433
+[2026-10-13T13:52:45.798Z] OK   F05_en_chatgpt_r7 attempt=1 55778ms text=5596ch cites=7 $0.004
+[2026-10-13T13:53:17.910Z] OK   F01_en_gemini_r3 attempt=1 45653ms text=4796ch cites=9 $0.004
+[2026-10-13T13:53:19.206Z] OK   S05_hg_chatgpt_r6 attempt=1 45044ms text=3547ch cites=4 $0.004
+[2026-10-13T13:53:19.207Z] SKIP S01_en_perplexity_r1 (already done)
+[2026-10-13T13:53:19.207Z] PROGRESS 220/480 ok=216 failed=1 skipped=3
+[2026-10-13T13:53:22.843Z] OK   S02_en_chatgpt_r3 attempt=1 73074ms text=4656ch cites=6 $0.004
+[2026-10-13T13:53:23.448Z] OK   S01_hg_perplexity_r4 attempt=1 5442ms text=869ch cites=10 $0.005358
+[2026-10-13T13:53:27.185Z] OK   F03_en_perplexity_r8 attempt=1 4340ms text=1333ch cites=10 $0.005348
+[2026-10-13T13:53:28.591Z] OK   S03_en_gemini_r6 attempt=2 68314ms text=1400ch cites=0 $0.004
+[2026-10-13T13:53:29.091Z] OK   F05_hg_perplexity_r3 attempt=1 5642ms text=2258ch cites=10 $0.005722
+[2026-10-13T13:53:29.383Z] OK   S04_en_gemini_r7 attempt=1 59818ms text=5210ch cites=8 $0.004
+[2026-10-13T13:53:33.728Z] OK   S04_en_perplexity_r4 attempt=1 4344ms text=1218ch cites=10 $0.005331
+[2026-10-13T13:53:48.308Z] OK   S04_hg_chatgpt_r1 attempt=1 29098ms text=3643ch cites=5 $0.004
+[2026-10-13T13:53:48.804Z] ERR  S03_hg_gemini_r7 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T13:53:51.372Z] OK   S02_en_perplexity_r3 attempt=1 3063ms text=952ch cites=10 $0.005266
+[2026-10-13T13:53:57.569Z] OK   F01_en_chatgpt_r1 attempt=1 30287ms text=2782ch cites=5 $0.004
+[2026-10-13T13:53:57.570Z] PROGRESS 230/480 ok=226 failed=1 skipped=3
+[2026-10-13T13:54:12.726Z] OK   F02_en_gemini_r4 attempt=1 38996ms text=4183ch cites=6 $0.004
+[2026-10-13T13:54:35.710Z] OK   F03_en_gemini_r4 attempt=1 44336ms text=3081ch cites=6 $0.004
+[2026-10-13T13:54:38.951Z] OK   S01_en_perplexity_r2 attempt=1 3239ms text=1086ch cites=10 $0.005319
+[2026-10-13T13:54:43.650Z] OK   S01_hg_gemini_r4 attempt=1 30823ms text=1137ch cites=0 $0.004
+[2026-10-13T13:54:44.285Z] OK   F03_en_chatgpt_r4 attempt=1 75170ms text=4474ch cites=7 $0.004
+[2026-10-13T13:54:54.861Z] OK   F04_en_gemini_r7 attempt=1 57290ms text=5603ch cites=9 $0.004
+[2026-10-13T13:54:58.367Z] OK   S05_hg_gemini_r1 attempt=1 89774ms text=2234ch cites=0 $0.004
+[2026-10-13T13:55:02.114Z] OK   S03_en_perplexity_r8 attempt=1 3735ms text=1352ch cites=10 $0.005347
+[2026-10-13T13:55:03.818Z] OK   S03_hg_gemini_r7 attempt=2 61909ms text=4161ch cites=7 $0.004
+[2026-10-13T13:55:09.977Z] OK   F03_en_chatgpt_r7 attempt=1 26324ms text=5489ch cites=9 $0.004
+[2026-10-13T13:55:09.977Z] PROGRESS 240/480 ok=236 failed=1 skipped=3
+[2026-10-13T13:55:12.297Z] OK   S05_hg_chatgpt_r3 attempt=1 28003ms text=3694ch cites=8 $0.004
+[2026-10-13T13:55:35.307Z] OK   S04_en_chatgpt_r6 attempt=1 40443ms text=4151ch cites=8 $0.004
+[2026-10-13T13:55:46.651Z] OK   F02_en_gemini_r3 attempt=1 67699ms text=670ch cites=0 $0.004
+[2026-10-13T13:56:01.675Z] OK   S01_hg_chatgpt_r6 attempt=1 59559ms text=4189ch cites=6 $0.004
+[2026-10-13T13:56:05.442Z] OK   F02_hg_gemini_r3 attempt=1 61623ms text=2445ch cites=0 $0.004
+[2026-10-13T13:56:10.557Z] OK   S05_en_gemini_r4 attempt=1 58161ms text=4149ch cites=4 $0.004
+[2026-10-13T13:56:10.663Z] OK   F05_hg_perplexity_r8 attempt=1 5218ms text=1901ch cites=10 $0.005656
+[2026-10-13T13:56:21.599Z] OK   F04_hg_gemini_r8 attempt=1 46291ms text=2353ch cites=0 $0.004
+[2026-10-13T13:56:33.878Z] OK   S05_en_gemini_r6 attempt=1 23318ms text=6927ch cites=9 $0.004
+[2026-10-13T13:56:36.396Z] OK   F01_en_chatgpt_r7 attempt=1 25616ms text=4690ch cites=7 $0.004
+[2026-10-13T13:56:36.397Z] PROGRESS 250/480 ok=246 failed=1 skipped=3
+[2026-10-13T13:56:40.672Z] OK   F02_en_perplexity_r6 attempt=1 4273ms text=1760ch cites=10 $0.005535
+[2026-10-13T13:56:48.670Z] OK   S03_hg_gemini_r3 attempt=1 62017ms text=1858ch cites=0 $0.004
+[2026-10-13T13:56:49.975Z] ERR  F04_hg_gemini_r7 attempt=1/5: This operation was aborted
+[2026-10-13T13:56:51.949Z] OK   F02_en_chatgpt_r5 attempt=1 30348ms text=4178ch cites=3 $0.004
+[2026-10-13T13:57:06.840Z] OK   F03_en_gemini_r8 attempt=1 65070ms text=6845ch cites=12 $0.004
+[2026-10-13T13:57:09.054Z] OK   S03_en_chatgpt_r3 attempt=1 35175ms text=5916ch cites=6 $0.004
+[2026-10-13T13:57:12.728Z] OK   F01_hg_perplexity_r7 attempt=1 3672ms text=1151ch cites=10 $0.005475
+[2026-10-13T13:57:14.748Z] OK   F03_hg_chatgpt_r8 attempt=1 26076ms text=4883ch cites=9 $0.004
+[2026-10-13T13:57:15.704Z] OK   S04_hg_chatgpt_r6 attempt=1 35029ms text=4354ch cites=7 $0.004
+[2026-10-13T13:57:18.438Z] OK   F04_hg_perplexity_r2 attempt=1 3688ms text=1268ch cites=10 $0.005363
+[2026-10-13T13:57:22.323Z] OK   F01_hg_perplexity_r5 attempt=1 3882ms text=1258ch cites=10 $0.005508
+[2026-10-13T13:57:22.323Z] PROGRESS 260/480 ok=256 failed=1 skipped=3
+[2026-10-13T13:57:26.547Z] OK   F02_en_perplexity_r3 attempt=1 4223ms text=1182ch cites=10 $0.005352
+[2026-10-13T13:57:30.393Z] OK   S05_en_perplexity_r4 attempt=1 3748ms text=1009ch cites=10 $0.005274
+[2026-10-13T13:57:37.759Z] OK   S05_hg_chatgpt_r4 attempt=1 45807ms text=3759ch cites=6 $0.004
+[2026-10-13T13:57:41.064Z] OK   F04_hg_gemini_r7 attempt=2 37113ms text=2286ch cites=0 $0.004
+[2026-10-13T13:57:41.602Z] OK   F02_en_perplexity_r8 attempt=1 3841ms text=1334ch cites=10 $0.005401
+[2026-10-13T13:57:44.530Z] OK   S03_hg_gemini_r8 attempt=1 31704ms text=1725ch cites=2 $0.004
+[2026-10-13T13:57:45.564Z] OK   F01_hg_perplexity_r8 attempt=1 3961ms text=1246ch cites=10 $0.005491
+[2026-10-13T13:57:53.900Z] OK   S03_hg_gemini_r4 attempt=1 47058ms text=1915ch cites=0 $0.004
+[2026-10-13T13:58:07.385Z] OK   S01_en_gemini_r7 attempt=1 51679ms text=4543ch cites=6 $0.004
+[2026-10-13T13:58:11.200Z] OK   F03_en_perplexity_r1 attempt=1 3716ms text=1358ch cites=10 $0.005351
+[2026-10-13T13:58:11.200Z] PROGRESS 270/480 ok=266 failed=1 skipped=3
+[2026-10-13T13:58:15.109Z] ERR  S05_en_gemini_r1 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T13:58:29.438Z] OK   S04_en_gemini_r8 attempt=1 35536ms text=2945ch cites=0 $0.004
+[2026-10-13T13:58:31.627Z] OK   F05_en_gemini_r2 attempt=1 46061ms text=3744ch cites=1 $0.004
+[2026-10-13T13:58:35.697Z] OK   S03_hg_perplexity_r3 attempt=1 4069ms text=1445ch cites=10 $0.005481
+[2026-10-13T13:58:52.474Z] OK   S05_en_gemini_r1 attempt=2 23355ms text=1735ch cites=1 $0.004
+[2026-10-13T13:59:03.142Z] ERR  S01_hg_gemini_r8 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T13:59:03.535Z] OK   F02_hg_gemini_r6 attempt=1 52333ms text=2381ch cites=0 $0.004
+[2026-10-13T13:59:04.315Z] OK   F01_hg_gemini_r6 attempt=1 93919ms text=3673ch cites=7 $0.004
+[2026-10-13T13:59:06.821Z] OK   F01_en_perplexity_r1 attempt=1 3285ms text=770ch cites=10 $0.005221
+[2026-10-13T13:59:06.926Z] OK   F01_en_chatgpt_r8 attempt=1 31128ms text=5670ch cites=11 $0.004
+[2026-10-13T13:59:09.683Z] OK   F01_en_perplexity_r4 attempt=1 2860ms text=849ch cites=10 $0.005228
+[2026-10-13T13:59:10.689Z] OK   F02_en_perplexity_r1 attempt=1 3762ms text=1282ch cites=10 $0.005378
+[2026-10-13T13:59:10.689Z] PROGRESS 280/480 ok=276 failed=1 skipped=3
+[2026-10-13T13:59:14.986Z] OK   F02_hg_perplexity_r8 attempt=1 4295ms text=1451ch cites=10 $0.005641
+[2026-10-13T13:59:37.481Z] OK   S05_en_chatgpt_r3 attempt=1 33075ms text=5571ch cites=8 $0.004
+[2026-10-13T13:59:43.038Z] OK   F05_en_gemini_r5 attempt=1 50562ms text=5254ch cites=10 $0.004
+[2026-10-13T13:59:57.636Z] OK   S01_hg_gemini_r2 attempt=1 42647ms text=4048ch cites=15 $0.004
+[2026-10-13T13:59:59.256Z] OK   S04_en_gemini_r2 attempt=1 89817ms text=5851ch cites=11 $0.004
+[2026-10-13T14:00:09.985Z] OK   S02_hg_chatgpt_r2 attempt=1 60199ms text=4059ch cites=6 $0.004
+[2026-10-13T14:00:29.914Z] OK   S02_hg_chatgpt_r6 attempt=1 32277ms text=3632ch cites=7 $0.004
+[2026-10-13T14:00:33.250Z] OK   S05_en_perplexity_r3 attempt=1 3334ms text=938ch cites=10 $0.005267
+[2026-10-13T14:00:35.048Z] OK   F04_en_gemini_r5 attempt=1 25060ms text=6920ch cites=13 $0.004
+[2026-10-13T14:00:48.870Z] OK   S01_hg_gemini_r8 attempt=2 92570ms text=4351ch cites=5 $0.004
+[2026-10-13T14:00:48.870Z] PROGRESS 290/480 ok=286 failed=1 skipped=3
+[2026-10-13T14:00:51.599Z] OK   F02_hg_chatgpt_r8 attempt=1 74115ms text=3278ch cites=3 $0.004
+[2026-10-13T14:00:54.839Z] OK   F04_en_perplexity_r6 attempt=1 3239ms text=855ch cites=10 $0.005221
+[2026-10-13T14:01:06.941Z] OK   S05_hg_gemini_r2 attempt=1 67684ms text=7003ch cites=10 $0.004
+[2026-10-13T14:01:08.630Z] OK   F05_en_gemini_r3 attempt=1 35276ms text=6012ch cites=7 $0.004
+[2026-10-13T14:01:11.748Z] OK   F04_hg_perplexity_r4 attempt=1 4805ms text=1260ch cites=10 $0.005371
+[2026-10-13T14:01:12.442Z] OK   S04_hg_perplexity_r4 attempt=1 3811ms text=1018ch cites=10 $0.005334
+[2026-10-13T14:01:16.620Z] OK   F03_hg_perplexity_r1 attempt=1 4177ms text=1477ch cites=10 $0.005464
+[2026-10-13T14:01:16.981Z] OK   S04_en_chatgpt_r3 attempt=1 41836ms text=4784ch cites=5 $0.004
+[2026-10-13T14:01:20.005Z] OK   S02_en_perplexity_r1 attempt=1 3383ms text=997ch cites=10 $0.005271
+[2026-10-13T14:01:20.170Z] ERR  F05_hg_gemini_r8 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:01:34.729Z] ERR  F05_hg_gemini_r3 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:01:46.292Z] OK   F02_hg_chatgpt_r3 attempt=1 29308ms text=3740ch cites=5 $0.004
+[2026-10-13T14:01:46.292Z] PROGRESS 300/480 ok=296 failed=1 skipped=3
+[2026-10-13T14:01:49.887Z] OK   S01_hg_perplexity_r2 attempt=1 3593ms text=1139ch cites=10 $0.005398
+[2026-10-13T14:02:20.157Z] ERR  S04_hg_gemini_r3 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:02:32.227Z] OK   F05_hg_gemini_r3 attempt=2 46979ms text=2420ch cites=5 $0.004
+[2026-10-13T14:02:34.843Z] ERR  F04_en_gemini_r1 attempt=1/5: This operation was aborted
+[2026-10-13T14:02:51.756Z] ERR  S04_hg_gemini_r2 attempt=1/5: This operation was aborted
+[2026-10-13T14:03:05.707Z] OK   F01_hg_chatgpt_r4 attempt=1 33477ms text=4275ch cites=6 $0.004
+[2026-10-13T14:03:08.816Z] ERR  F05_hg_gemini_r8 attempt=2/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:03:14.115Z] OK   F04_en_gemini_r1 attempt=2 26240ms text=2309ch cites=3 $0.004
+[2026-10-13T14:03:16.425Z] OK   F01_hg_gemini_r2 attempt=1 86536ms text=2534ch cites=0 $0.004
+[2026-10-13T14:03:20.451Z] OK   S02_hg_perplexity_r8 attempt=1 3930ms text=1343ch cites=10 $0.005415
+[2026-10-13T14:03:33.327Z] OK   S04_hg_gemini_r2 attempt=2 29486ms text=1679ch cites=0 $0.004
+[2026-10-13T14:03:33.501Z] ERR  S04_hg_gemini_r3 attempt=2/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:03:36.940Z] OK   S01_hg_perplexity_r5 attempt=1 3611ms text=1216ch cites=10 $0.00543
+[2026-10-13T14:03:55.559Z] OK   S04_hg_gemini_r5 attempt=1 49851ms text=4453ch cites=12 $0.004
+[2026-10-13T14:04:00.513Z] OK   S03_hg_perplexity_r2 attempt=1 4851ms text=1389ch cites=10 $0.005468
+[2026-10-13T14:04:00.514Z] PROGRESS 310/480 ok=306 failed=1 skipped=3
+[2026-10-13T14:04:02.330Z] OK   S03_en_chatgpt_r2 attempt=1 41876ms text=4436ch cites=7 $0.004
+[2026-10-13T14:04:07.292Z] OK   S02_hg_chatgpt_r4 attempt=1 53174ms text=4002ch cites=8 $0.004
+[2026-10-13T14:04:07.292Z] SKIP S01_hg_perplexity_r1 (already done)
+[2026-10-13T14:04:11.088Z] OK   S05_hg_perplexity_r1 attempt=1 3794ms text=1200ch cites=10 $0.005428
+[2026-10-13T14:04:13.099Z] OK   F03_en_chatgpt_r6 attempt=1 36111ms text=6463ch cites=10 $0.004
+[2026-10-13T14:04:15.509Z] OK   F05_hg_perplexity_r1 attempt=1 4419ms text=1535ch cites=10 $0.005526
+[2026-10-13T14:04:28.116Z] OK   F05_hg_gemini_r8 attempt=3 48219ms text=4443ch cites=7 $0.004
+[2026-10-13T14:04:31.598Z] OK   F03_en_chatgpt_r3 attempt=1 31082ms text=5265ch cites=8 $0.004
+[2026-10-13T14:04:35.951Z] OK   S02_en_perplexity_r5 attempt=1 4260ms text=985ch cites=10 $0.005263
+[2026-10-13T14:04:51.727Z] OK   F05_hg_chatgpt_r7 attempt=1 36217ms text=4953ch cites=5 $0.004
+[2026-10-13T14:04:51.728Z] PROGRESS 320/480 ok=315 failed=1 skipped=4
+[2026-10-13T14:04:55.306Z] OK   F04_en_perplexity_r2 attempt=1 3577ms text=1205ch cites=10 $0.005285
+[2026-10-13T14:05:15.416Z] OK   S03_hg_chatgpt_r2 attempt=1 62315ms text=4006ch cites=7 $0.004
+[2026-10-13T14:05:25.550Z] OK   S02_hg_gemini_r1 attempt=1 49505ms text=4316ch cites=13 $0.004
+[2026-10-13T14:05:26.370Z] OK   S04_hg_gemini_r3 attempt=3 80042ms text=2659ch cites=0 $0.004
+[2026-10-13T14:05:30.126Z] OK   F05_hg_perplexity_r4 attempt=1 4573ms text=1515ch cites=10 $0.005526
+[2026-10-13T14:05:30.744Z] OK   S05_hg_perplexity_r7 attempt=1 4372ms text=1493ch cites=10 $0.005519
+[2026-10-13T14:05:35.486Z] OK   F05_hg_perplexity_r7 attempt=1 4739ms text=1888ch cites=10 $0.005639
+[2026-10-13T14:05:42.339Z] ERR  S01_hg_gemini_r6 attempt=1/5: This operation was aborted
+[2026-10-13T14:05:47.762Z] ERR  S02_en_gemini_r7 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:05:48.521Z] OK   S02_hg_gemini_r3 attempt=1 80403ms text=2423ch cites=4 $0.004
+[2026-10-13T14:05:55.233Z] OK   F05_hg_chatgpt_r2 attempt=1 39814ms text=4226ch cites=6 $0.004
+[2026-10-13T14:06:27.075Z] OK   S04_en_chatgpt_r4 attempt=1 56946ms text=3423ch cites=2 $0.004
+[2026-10-13T14:06:27.075Z] PROGRESS 330/480 ok=325 failed=1 skipped=4
+[2026-10-13T14:06:30.218Z] OK   F01_hg_chatgpt_r7 attempt=1 34605ms text=6636ch cites=7 $0.004
+[2026-10-13T14:06:32.337Z] OK   S02_en_chatgpt_r7 attempt=1 43813ms text=5357ch cites=9 $0.004
+[2026-10-13T14:06:38.117Z] OK   F03_hg_gemini_r3 attempt=1 62629ms text=3077ch cites=6 $0.004
+[2026-10-13T14:06:38.916Z] OK   F05_en_perplexity_r4 attempt=1 6578ms text=3128ch cites=10 $0.005839
+[2026-10-13T14:06:41.861Z] OK   S02_hg_perplexity_r7 attempt=1 3743ms text=1266ch cites=10 $0.005394
+[2026-10-13T14:07:17.404Z] OK   S01_hg_chatgpt_r7 attempt=1 35541ms text=4571ch cites=4 $0.004
+[2026-10-13T14:07:17.828Z] ERR  S01_hg_gemini_r6 attempt=2/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:07:41.809Z] ERR  S02_en_gemini_r7 attempt=2/5: This operation was aborted
+[2026-10-13T14:07:50.906Z] OK   F04_en_chatgpt_r5 attempt=1 83830ms text=4293ch cites=3 $0.004
+[2026-10-13T14:08:10.223Z] ERR  S02_hg_gemini_r2 attempt=1/5: This operation was aborted
+[2026-10-13T14:08:18.921Z] ERR  F02_en_gemini_r8 attempt=1/5: This operation was aborted
+[2026-10-13T14:08:53.220Z] OK   F02_hg_gemini_r4 attempt=1 95813ms text=4333ch cites=18 $0.004
+[2026-10-13T14:09:11.619Z] OK   S02_en_gemini_r7 attempt=3 55735ms text=1510ch cites=0 $0.004
+[2026-10-13T14:09:14.084Z] OK   F01_hg_gemini_r1 attempt=1 83177ms text=2383ch cites=2 $0.004
+[2026-10-13T14:09:14.085Z] PROGRESS 340/480 ok=335 failed=1 skipped=4
+[2026-10-13T14:09:15.595Z] OK   F04_en_perplexity_r7 attempt=1 3974ms text=1270ch cites=10 $0.00537
+[2026-10-13T14:09:20.985Z] OK   S02_hg_gemini_r2 attempt=2 59310ms text=4104ch cites=21 $0.004
+[2026-10-13T14:09:22.070Z] OK   S01_hg_gemini_r6 attempt=3 89216ms text=2207ch cites=0 $0.004
+[2026-10-13T14:09:24.273Z] OK   S03_en_perplexity_r3 attempt=1 3287ms text=1216ch cites=10 $0.005327
+[2026-10-13T14:09:26.015Z] OK   S04_en_perplexity_r5 attempt=1 3943ms text=1207ch cites=10 $0.005336
+[2026-10-13T14:09:30.061Z] OK   F05_en_perplexity_r6 attempt=1 5786ms text=2637ch cites=10 $0.005714
+[2026-10-13T14:09:30.501Z] OK   F03_en_perplexity_r3 attempt=1 4484ms text=1475ch cites=10 $0.00537
+[2026-10-13T14:09:34.754Z] OK   F04_hg_perplexity_r3 attempt=1 4251ms text=1306ch cites=10 $0.005376
+[2026-10-13T14:09:38.105Z] OK   S01_en_perplexity_r8 attempt=1 3348ms text=1019ch cites=10 $0.005305
+[2026-10-13T14:09:48.500Z] OK   S01_en_chatgpt_r3 attempt=1 32902ms text=4170ch cites=8 $0.004
+[2026-10-13T14:09:48.500Z] PROGRESS 350/480 ok=345 failed=1 skipped=4
+[2026-10-13T14:09:51.527Z] OK   S02_en_perplexity_r6 attempt=1 2924ms text=844ch cites=10 $0.00524
+[2026-10-13T14:10:13.526Z] ERR  F02_en_gemini_r8 attempt=2/5: This operation was aborted
+[2026-10-13T14:10:33.229Z] ERR  S02_en_gemini_r5 attempt=1/5: This operation was aborted
+[2026-10-13T14:10:48.739Z] OK   S05_hg_chatgpt_r8 attempt=1 70632ms text=3429ch cites=3 $0.004
+[2026-10-13T14:10:54.104Z] ERR  F03_hg_gemini_r1 attempt=1/5: This operation was aborted
+[2026-10-13T14:10:54.956Z] ERR  S03_en_gemini_r5 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:10:59.858Z] ERR  F01_hg_gemini_r8 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:11:11.189Z] OK   F02_en_gemini_r8 attempt=3 23268ms text=1309ch cites=0 $0.004
+[2026-10-13T14:11:16.270Z] OK   S04_en_perplexity_r6 attempt=1 5079ms text=1137ch cites=10 $0.005306
+[2026-10-13T14:11:20.703Z] OK   S02_en_gemini_r5 attempt=2 32849ms text=4205ch cites=5 $0.004
+[2026-10-13T14:11:25.887Z] OK   F05_hg_perplexity_r2 attempt=1 5183ms text=2077ch cites=10 $0.005676
+[2026-10-13T14:11:33.166Z] OK   S02_en_chatgpt_r8 attempt=1 44426ms text=5703ch cites=7 $0.004
+[2026-10-13T14:12:16.530Z] OK   F01_hg_gemini_r8 attempt=2 64878ms text=4921ch cites=8 $0.004
+[2026-10-13T14:12:20.024Z] OK   S01_en_perplexity_r3 attempt=1 3492ms text=1091ch cites=10 $0.00534
+[2026-10-13T14:12:37.970Z] OK   S05_en_gemini_r8 attempt=1 81698ms text=4702ch cites=6 $0.004
+[2026-10-13T14:12:37.970Z] PROGRESS 360/480 ok=355 failed=1 skipped=4
+[2026-10-13T14:12:38.062Z] OK   S02_en_gemini_r6 attempt=1 72172ms text=2285ch cites=3 $0.004
+[2026-10-13T14:12:45.536Z] ERR  F03_hg_gemini_r1 attempt=2/5: This operation was aborted
+[2026-10-13T14:12:49.326Z] ERR  S03_en_gemini_r5 attempt=2/5: This operation was aborted
+[2026-10-13T14:13:13.168Z] ERR  S04_en_gemini_r3 attempt=1/5: This operation was aborted
+[2026-10-13T14:13:14.500Z] OK   F01_en_chatgpt_r4 attempt=1 36437ms text=4388ch cites=6 $0.004
+[2026-10-13T14:13:44.263Z] OK   S03_en_chatgpt_r5 attempt=1 84159ms text=3554ch cites=6 $0.004
+[2026-10-13T14:14:06.664Z] OK   S05_hg_gemini_r3 attempt=1 52161ms text=3785ch cites=22 $0.004
+[2026-10-13T14:14:08.122Z] OK   F02_en_chatgpt_r6 attempt=1 23857ms text=4309ch cites=6 $0.004
+[2026-10-13T14:14:10.554Z] OK   F04_hg_perplexity_r8 attempt=1 3888ms text=1381ch cites=10 $0.005401
+[2026-10-13T14:14:13.325Z] OK   F03_hg_gemini_r1 attempt=3 53341ms text=2579ch cites=5 $0.004
+[2026-10-13T14:14:14.145Z] OK   S04_en_perplexity_r3 attempt=1 3589ms text=942ch cites=10 $0.005257
+[2026-10-13T14:14:17.997Z] ERR  S04_en_gemini_r5 attempt=1/5: This operation was aborted
+[2026-10-13T14:14:44.899Z] OK   F04_hg_chatgpt_r7 attempt=1 30753ms text=4246ch cites=9 $0.004
+[2026-10-13T14:14:45.620Z] OK   F02_hg_chatgpt_r7 attempt=1 37496ms text=3456ch cites=5 $0.004
+[2026-10-13T14:14:45.621Z] PROGRESS 370/480 ok=365 failed=1 skipped=4
+[2026-10-13T14:14:49.348Z] OK   S04_en_gemini_r3 attempt=2 82750ms text=2023ch cites=0 $0.004
+[2026-10-13T14:14:52.863Z] OK   S03_en_gemini_r5 attempt=3 92608ms text=7837ch cites=20 $0.004
+[2026-10-13T14:15:18.702Z] OK   F01_en_chatgpt_r2 attempt=1 33801ms text=3720ch cites=6 $0.004
+[2026-10-13T14:15:22.530Z] OK   S04_hg_perplexity_r7 attempt=1 3826ms text=1101ch cites=10 $0.005358
+[2026-10-13T14:15:23.882Z] OK   F05_en_chatgpt_r2 attempt=1 30929ms text=7641ch cites=11 $0.004
+[2026-10-13T14:15:29.084Z] OK   F05_hg_perplexity_r6 attempt=1 5200ms text=1924ch cites=10 $0.005619
+[2026-10-13T14:15:31.742Z] OK   S03_hg_chatgpt_r4 attempt=1 78415ms text=3174ch cites=7 $0.004
+[2026-10-13T14:15:33.692Z] OK   F03_en_perplexity_r2 attempt=1 4606ms text=1206ch cites=10 $0.005314
+[2026-10-13T14:15:33.692Z] SKIP S01_hg_chatgpt_r1 (already done)
+[2026-10-13T14:15:36.299Z] OK   F03_hg_perplexity_r6 attempt=1 4554ms text=1525ch cites=10 $0.005491
+[2026-10-13T14:15:36.299Z] PROGRESS 380/480 ok=374 failed=1 skipped=5
+[2026-10-13T14:15:40.532Z] OK   F01_hg_perplexity_r6 attempt=1 4231ms text=1458ch cites=10 $0.005469
+[2026-10-13T14:15:45.417Z] OK   F04_en_chatgpt_r3 attempt=1 59794ms text=4802ch cites=3 $0.004
+[2026-10-13T14:15:59.464Z] OK   S01_hg_chatgpt_r4 attempt=1 25769ms text=3748ch cites=5 $0.004
+[2026-10-13T14:16:01.619Z] OK   S03_hg_chatgpt_r8 attempt=1 38993ms text=3677ch cites=4 $0.004
+[2026-10-13T14:16:03.466Z] OK   S05_hg_perplexity_r3 attempt=1 4000ms text=926ch cites=10 $0.005316
+[2026-10-13T14:16:04.036Z] OK   S03_en_chatgpt_r7 attempt=1 74685ms text=5744ch cites=9 $0.004
+[2026-10-13T14:16:12.910Z] ERR  S04_en_gemini_r5 attempt=2/5: This operation was aborted
+[2026-10-13T14:16:24.265Z] OK   S01_hg_gemini_r3 attempt=1 43730ms text=2418ch cites=0 $0.004
+[2026-10-13T14:16:40.539Z] OK   F01_hg_chatgpt_r1 attempt=1 38828ms text=3565ch cites=4 $0.004
+[2026-10-13T14:16:43.612Z] OK   S04_hg_gemini_r7 attempt=1 58194ms text=2734ch cites=0 $0.004
+[2026-10-13T14:16:43.872Z] OK   S02_hg_chatgpt_r7 attempt=1 39834ms text=3943ch cites=5 $0.004
+[2026-10-13T14:16:43.873Z] PROGRESS 390/480 ok=384 failed=1 skipped=5
+[2026-10-13T14:16:44.527Z] OK   S01_hg_chatgpt_r3 attempt=1 41058ms text=3361ch cites=6 $0.004
+[2026-10-13T14:16:44.610Z] OK   S03_en_perplexity_r1 attempt=1 4069ms text=1181ch cites=10 $0.00532
+[2026-10-13T14:17:20.190Z] OK   F01_hg_chatgpt_r6 attempt=1 36315ms text=5750ch cites=8 $0.004
+[2026-10-13T14:17:26.056Z] OK   F05_hg_chatgpt_r3 attempt=1 41528ms text=5878ch cites=6 $0.004
+[2026-10-13T14:17:28.322Z] OK   S03_hg_gemini_r1 attempt=1 64055ms text=2657ch cites=0 $0.004
+[2026-10-13T14:18:06.895Z] OK   S04_hg_chatgpt_r8 attempt=1 40525ms text=3603ch cites=5 $0.004
+[2026-10-13T14:18:23.626Z] ERR  F05_en_gemini_r8 attempt=1/5: This operation was aborted
+[2026-10-13T14:18:24.624Z] ERR  F05_en_gemini_r7 attempt=1/5: This operation was aborted
+[2026-10-13T14:18:24.995Z] ERR  S04_en_gemini_r5 attempt=3/5: This operation was aborted
+[2026-10-13T14:18:56.267Z] OK   F05_en_gemini_r7 attempt=2 19500ms text=3878ch cites=2 $0.004
+[2026-10-13T14:19:00.196Z] ERR  S04_hg_gemini_r6 attempt=1/5: This operation was aborted
+[2026-10-13T14:19:08.331Z] ERR  S05_hg_gemini_r7 attempt=1/5: This operation was aborted
+[2026-10-13T14:19:39.315Z] OK   F05_en_gemini_r8 attempt=2 62999ms text=2289ch cites=0 $0.004
+[2026-10-13T14:19:41.792Z] OK   S01_hg_chatgpt_r2 attempt=1 45522ms text=4391ch cites=8 $0.004
+[2026-10-13T14:19:46.908Z] ERR  F02_en_gemini_r6 attempt=1/5: This operation was aborted
+[2026-10-13T14:20:08.149Z] OK   S01_en_chatgpt_r4 attempt=1 26269ms text=3584ch cites=4 $0.004
+[2026-10-13T14:20:08.149Z] PROGRESS 400/480 ok=394 failed=1 skipped=5
+[2026-10-13T14:20:08.560Z] ERR  S04_en_gemini_r5 attempt=4/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:20:14.672Z] OK   S04_hg_chatgpt_r3 attempt=1 35355ms text=3889ch cites=7 $0.004
+[2026-10-13T14:20:32.271Z] ERR  S05_hg_gemini_r7 attempt=2/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:20:51.752Z] ERR  S04_hg_gemini_r6 attempt=2/5: This operation was aborted
+[2026-10-13T14:20:53.337Z] OK   F05_hg_gemini_r6 attempt=1 45186ms text=2506ch cites=1 $0.004
+[2026-10-13T14:20:55.045Z] OK   F01_hg_chatgpt_r5 attempt=1 40371ms text=5510ch cites=9 $0.004
+[2026-10-13T14:21:19.282Z] OK   F03_hg_chatgpt_r7 attempt=1 25862ms text=5027ch cites=7 $0.004
+[2026-10-13T14:21:36.035Z] OK   S04_hg_chatgpt_r4 attempt=1 40987ms text=3818ch cites=6 $0.004
+[2026-10-13T14:21:40.978Z] ERR  F02_en_gemini_r6 attempt=2/5: This operation was aborted
+[2026-10-13T14:22:05.045Z] OK   S05_hg_gemini_r7 attempt=3 60762ms text=1472ch cites=0 $0.004
+[2026-10-13T14:22:05.757Z] OK   F05_en_gemini_r4 attempt=1 46474ms text=3408ch cites=0 $0.004
+[2026-10-13T14:22:51.779Z] OK   S04_hg_gemini_r6 attempt=3 88789ms text=4157ch cites=24 $0.004
+[2026-10-13T14:22:54.812Z] OK   F04_en_gemini_r8 attempt=1 78776ms text=3595ch cites=6 $0.004
+[2026-10-13T14:23:03.789Z] ERR  S04_en_gemini_r5 attempt=5/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:23:03.791Z] FAIL S04_en_gemini_r5 after 5 attempts
+[2026-10-13T14:23:03.792Z] PROGRESS 410/480 ok=403 failed=2 skipped=5
+[2026-10-13T14:23:07.317Z] OK   F02_hg_chatgpt_r4 attempt=1 61557ms text=3744ch cites=6 $0.004
+[2026-10-13T14:23:11.797Z] OK   S05_hg_perplexity_r2 attempt=1 4384ms text=1115ch cites=10 $0.00538
+[2026-10-13T14:23:13.685Z] ERR  F02_en_gemini_r6 attempt=3/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:23:16.392Z] OK   S01_hg_perplexity_r7 attempt=1 4592ms text=1200ch cites=10 $0.005461
+[2026-10-13T14:23:18.475Z] ERR  F01_hg_gemini_r7 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:23:26.602Z] OK   F05_hg_chatgpt_r8 attempt=1 34821ms text=4369ch cites=9 $0.004
+[2026-10-13T14:23:32.920Z] OK   F05_en_perplexity_r3 attempt=1 6316ms text=2631ch cites=10 $0.005698
+[2026-10-13T14:23:36.713Z] OK   S04_en_chatgpt_r8 attempt=1 41898ms text=4521ch cites=7 $0.004
+[2026-10-13T14:23:59.479Z] OK   S03_en_gemini_r4 attempt=1 55686ms text=5822ch cites=7 $0.004
+[2026-10-13T14:24:05.582Z] OK   F01_en_perplexity_r8 attempt=1 6101ms text=857ch cites=10 $0.00523
+[2026-10-13T14:24:20.816Z] OK   S04_en_chatgpt_r5 attempt=1 44102ms text=3927ch cites=7 $0.004
+[2026-10-13T14:24:41.659Z] OK   F01_hg_gemini_r4 attempt=1 85169ms text=3205ch cites=2 $0.004
+[2026-10-13T14:24:41.659Z] PROGRESS 420/480 ok=413 failed=2 skipped=5
+[2026-10-13T14:24:55.645Z] OK   F03_hg_chatgpt_r3 attempt=1 34826ms text=5221ch cites=8 $0.004
+[2026-10-13T14:24:57.231Z] OK   F02_en_gemini_r7 attempt=1 51647ms text=1682ch cites=0 $0.004
+[2026-10-13T14:24:57.510Z] OK   F01_hg_gemini_r7 attempt=2 85978ms text=6237ch cites=14 $0.004
+[2026-10-13T14:25:01.032Z] OK   S03_en_perplexity_r7 attempt=1 3705ms text=1387ch cites=10 $0.005367
+[2026-10-13T14:25:01.199Z] OK   S01_hg_perplexity_r3 attempt=1 3687ms text=1074ch cites=10 $0.005382
+[2026-10-13T14:25:09.624Z] ERR  F03_en_gemini_r6 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:25:35.632Z] OK   F02_en_gemini_r6 attempt=4 80354ms text=4569ch cites=5 $0.004
+[2026-10-13T14:25:39.339Z] OK   S02_hg_perplexity_r6 attempt=1 3705ms text=1177ch cites=10 $0.005381
+[2026-10-13T14:25:43.461Z] ERR  S01_en_gemini_r2 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:25:50.645Z] ERR  S01_en_gemini_r3 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:26:15.724Z] OK   F05_hg_gemini_r1 attempt=1 93972ms text=2984ch cites=0 $0.004
+[2026-10-13T14:26:16.618Z] ERR  S03_hg_gemini_r5 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:26:20.093Z] OK   S02_hg_perplexity_r5 attempt=1 4367ms text=1107ch cites=10 $0.005353
+[2026-10-13T14:26:23.753Z] ERR  F03_en_gemini_r6 attempt=2/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:26:26.268Z] OK   F05_en_perplexity_r1 attempt=1 6174ms text=3062ch cites=10 $0.005832
+[2026-10-13T14:26:26.269Z] PROGRESS 430/480 ok=423 failed=2 skipped=5
+[2026-10-13T14:26:26.907Z] ERR  S01_en_gemini_r2 attempt=2/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:26:30.265Z] ERR  S05_hg_gemini_r6 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:26:38.329Z] OK   S01_en_gemini_r3 attempt=2 37365ms text=6042ch cites=12 $0.004
+[2026-10-13T14:26:42.294Z] OK   S01_en_perplexity_r5 attempt=1 3874ms text=970ch cites=10 $0.005308
+[2026-10-13T14:27:05.273Z] OK   S05_hg_gemini_r6 attempt=2 23693ms text=3865ch cites=6 $0.004
+[2026-10-13T14:27:19.206Z] OK   S04_hg_chatgpt_r2 attempt=1 52935ms text=4161ch cites=6 $0.004
+[2026-10-13T14:27:21.573Z] OK   F02_hg_chatgpt_r1 attempt=1 39276ms text=3414ch cites=4 $0.004
+[2026-10-13T14:27:23.029Z] OK   F04_hg_perplexity_r1 attempt=1 3812ms text=1246ch cites=10 $0.00538
+[2026-10-13T14:27:26.609Z] OK   S05_hg_perplexity_r8 attempt=1 3578ms text=1005ch cites=10 $0.005363
+[2026-10-13T14:27:29.102Z] OK   F03_en_gemini_r6 attempt=3 31373ms text=5144ch cites=10 $0.004
+[2026-10-13T14:27:37.313Z] OK   S02_en_gemini_r1 attempt=1 32038ms text=5198ch cites=13 $0.004
+[2026-10-13T14:27:43.886Z] ERR  S03_hg_gemini_r5 attempt=2/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:27:58.130Z] OK   F05_hg_chatgpt_r4 attempt=1 36555ms text=4367ch cites=5 $0.004
+[2026-10-13T14:27:58.130Z] PROGRESS 440/480 ok=433 failed=2 skipped=5
+[2026-10-13T14:27:58.890Z] ERR  S01_en_gemini_r2 attempt=3/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:28:04.065Z] OK   S03_en_gemini_r7 attempt=1 26750ms text=6078ch cites=7 $0.004
+[2026-10-13T14:28:04.563Z] OK   F05_hg_gemini_r4 attempt=1 37952ms text=2623ch cites=0 $0.004
+[2026-10-13T14:28:08.912Z] OK   F02_hg_perplexity_r3 attempt=1 4255ms text=1228ch cites=10 $0.005588
+[2026-10-13T14:28:12.109Z] OK   S04_hg_perplexity_r3 attempt=1 3195ms text=930ch cites=10 $0.005299
+[2026-10-13T14:28:23.133Z] OK   S05_en_chatgpt_r6 attempt=1 24908ms text=3820ch cites=3 $0.004
+[2026-10-13T14:28:23.854Z] ERR  S02_hg_gemini_r5 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:28:27.380Z] OK   F03_hg_perplexity_r4 attempt=1 4246ms text=1538ch cites=10 $0.005484
+[2026-10-13T14:28:40.625Z] OK   S01_en_chatgpt_r5 attempt=1 36466ms text=5258ch cites=9 $0.004
+[2026-10-13T14:29:16.313Z] OK   F04_hg_chatgpt_r6 attempt=1 48930ms text=4524ch cites=2 $0.004
+[2026-10-13T14:29:16.637Z] OK   S02_hg_gemini_r5 attempt=2 38220ms text=882ch cites=0 $0.004
+[2026-10-13T14:29:19.838Z] OK   S05_en_perplexity_r6 attempt=1 3524ms text=1083ch cites=10 $0.005303
+[2026-10-13T14:29:19.838Z] PROGRESS 450/480 ok=443 failed=2 skipped=5
+[2026-10-13T14:29:24.373Z] OK   S04_hg_perplexity_r5 attempt=1 4438ms text=1013ch cites=10 $0.005331
+[2026-10-13T14:29:27.133Z] ERR  S03_hg_gemini_r5 attempt=3/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:29:33.245Z] OK   S04_en_gemini_r4 attempt=1 81135ms text=5951ch cites=8 $0.004
+[2026-10-13T14:29:49.492Z] OK   S03_en_chatgpt_r8 attempt=1 25117ms text=5722ch cites=7 $0.004
+[2026-10-13T14:29:53.428Z] OK   F01_hg_perplexity_r4 attempt=1 3934ms text=1242ch cites=10 $0.005499
+[2026-10-13T14:29:58.637Z] ERR  S01_en_gemini_r2 attempt=4/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:30:02.109Z] OK   F02_hg_chatgpt_r5 attempt=1 28767ms text=3586ch cites=4 $0.004
+[2026-10-13T14:30:20.651Z] ERR  S04_hg_gemini_r4 attempt=1/5: This operation was aborted
+[2026-10-13T14:30:21.842Z] ERR  F01_en_gemini_r4 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:30:28.686Z] OK   S04_hg_chatgpt_r7 attempt=1 35256ms text=4051ch cites=5 $0.004
+[2026-10-13T14:30:33.567Z] OK   F04_en_perplexity_r1 attempt=1 4879ms text=1549ch cites=10 $0.00537
+[2026-10-13T14:30:35.530Z] OK   F04_hg_chatgpt_r5 attempt=1 33419ms text=4415ch cites=4 $0.004
+[2026-10-13T14:30:39.967Z] OK   F04_en_perplexity_r5 attempt=1 4338ms text=1087ch cites=10 $0.005267
+[2026-10-13T14:30:43.118Z] OK   S02_en_perplexity_r2 attempt=1 3150ms text=916ch cites=10 $0.005258
+[2026-10-13T14:30:43.119Z] PROGRESS 460/480 ok=453 failed=2 skipped=5
+[2026-10-13T14:31:22.050Z] OK   S02_hg_chatgpt_r8 attempt=1 48480ms text=3974ch cites=8 $0.004
+[2026-10-13T14:31:26.250Z] OK   F01_en_gemini_r4 attempt=2 52017ms text=1592ch cites=1 $0.004
+[2026-10-13T14:31:30.017Z] OK   F03_en_perplexity_r4 attempt=1 3764ms text=1401ch cites=10 $0.005358
+[2026-10-13T14:31:41.158Z] ERR  S04_hg_gemini_r4 attempt=2/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:31:58.662Z] OK   F04_hg_chatgpt_r3 attempt=1 28643ms text=3805ch cites=2 $0.004
+[2026-10-13T14:32:07.640Z] ERR  S03_hg_gemini_r5 attempt=4/5: This operation was aborted
+[2026-10-13T14:32:23.122Z] ERR  F05_hg_gemini_r2 attempt=1/5: This operation was aborted
+[2026-10-13T14:32:41.403Z] OK   S03_hg_chatgpt_r3 attempt=1 79351ms text=4180ch cites=7 $0.004
+[2026-10-13T14:32:44.671Z] OK   F03_en_chatgpt_r2 attempt=1 46006ms text=5459ch cites=10 $0.004
+[2026-10-13T14:32:45.239Z] OK   S05_en_perplexity_r7 attempt=1 3742ms text=963ch cites=10 $0.005277
+[2026-10-13T14:32:45.240Z] SKIP S01_en_gemini_r1 (already done)
+[2026-10-13T14:32:48.735Z] OK   S03_en_perplexity_r6 attempt=1 3493ms text=1285ch cites=10 $0.005349
+[2026-10-13T14:33:09.575Z] OK   F04_hg_chatgpt_r4 attempt=1 20838ms text=4166ch cites=3 $0.004
+[2026-10-13T14:33:09.575Z] PROGRESS 470/480 ok=462 failed=2 skipped=6
+[2026-10-13T14:33:13.126Z] OK   S01_en_perplexity_r4 attempt=1 3549ms text=992ch cites=10 $0.005322
+[2026-10-13T14:33:20.555Z] OK   S01_en_chatgpt_r2 attempt=1 35778ms text=4677ch cites=5 $0.004
+[2026-10-13T14:33:26.023Z] OK   F05_en_perplexity_r2 attempt=1 5466ms text=2509ch cites=10 $0.005704
+[2026-10-13T14:33:30.992Z] ERR  F05_hg_gemini_r2 attempt=2/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:33:37.577Z] ERR  S01_en_gemini_r2 attempt=5/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:33:37.579Z] FAIL S01_en_gemini_r2 after 5 attempts
+[2026-10-13T14:33:37.635Z] OK   F03_hg_chatgpt_r1 attempt=1 24507ms text=4572ch cites=7 $0.004
+[2026-10-13T14:33:54.923Z] ERR  S04_hg_gemini_r4 attempt=3/5: This operation was aborted
+[2026-10-13T14:34:04.066Z] OK   S05_en_chatgpt_r1 attempt=1 37946ms text=4102ch cites=6 $0.004
+[2026-10-13T14:34:54.715Z] OK   F05_hg_gemini_r2 attempt=3 53156ms text=1941ch cites=0 $0.004
+[2026-10-13T14:35:03.207Z] ERR  S01_hg_gemini_r5 attempt=1/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:35:03.254Z] ERR  S03_hg_gemini_r5 attempt=5/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:35:03.255Z] FAIL S03_hg_gemini_r5 after 5 attempts
+[2026-10-13T14:35:38.404Z] OK   S04_hg_gemini_r4 attempt=4 38681ms text=4941ch cites=13 $0.004
+[2026-10-13T14:36:15.920Z] ERR  S01_hg_gemini_r5 attempt=2/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:37:54.355Z] ERR  S01_hg_gemini_r5 attempt=3/5: DataForSEO gemini task error 40102: No Search Results.
+[2026-10-13T14:39:29.052Z] OK   S01_hg_gemini_r5 attempt=4 34276ms text=6343ch cites=17 $0.004
+[2026-10-13T14:39:29.053Z] PROGRESS 480/480 ok=470 failed=4 skipped=6
+[2026-10-13T14:39:29.054Z] RUN done: ok=470 failed=4 skipped=6
+[2026-10-13T14:39:29.055Z] REMAINING FAILURES: S01_en_gemini_r2.failed.json, S03_hg_gemini_r5.failed.json, S04_en_gemini_r5.failed.json, S05_en_gemini_r3.failed.json

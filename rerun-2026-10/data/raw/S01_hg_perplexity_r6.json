@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S01",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "perplexity",
+  "rep": 6,
+  "promptText": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+  "cellId": "S01_hg_perplexity_r6",
+  "startedAt": "2026-10-13T13:37:28.706Z",
+  "finishedAt": "2026-10-13T13:37:32.413Z",
+  "durationMs": 3707,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "₹500 के अंदर **Minimalist 2% Salicylic Acid + LHA Face Wash (100 ml)** सबसे अच्छा विकल्प है—खासकर अगर oily skin के साथ blackheads, pimples या clogged pores भी हैं। इसकी कीमत आमतौर पर लगभग ₹278–₹299 है और यह fragrance-free है।[1][2]\n\n### आपकी skin के हिसाब से विकल्प\n\n- **बहुत oily/acne-prone skin:** Minimalist 2% Salicylic Acid Face Wash — लगभग ₹299.[2]\n- **Sensitive oily skin:** Simple Kind to Skin Refreshing Face Wash — लगभग ₹224–₹450; यह comparatively gentle है.[1][7]\n- **कम बजट में daily use:** Himalaya Purifying Neem Face Wash — लगभग ₹120–₹250.[1][5]\n- **Pimples और excess oil:** The Derma Co 2% Salicylic Acid Face Wash — लगभग ₹263–₹299.[2]\n- **Oily लेकिन dry/tight महसूस होने वाली skin:** Plum Green Tea Pore Cleansing Face Wash — लगभग ₹239–₹349.[5][7]\n\n**कैसे इस्तेमाल करें:** Salicylic-acid face wash दिन में शुरुआत में सिर्फ एक बार इस्तेमाल करें; जलन या dryness हो तो हर दूसरे दिन करें। बाद में हल्का, non-comedogenic moisturizer और दिन में sunscreen लगाएँ। Face wash दिन में दो बार से अधिक न करें।[2]\n\n**सीधी recommendation:** अगर आपकी skin बहुत sensitive नहीं है, तो **Minimalist 2% Salicylic Acid + LHA** खरीदें; केवल सामान्य oiliness है और acne नहीं, तो **Simple Refreshing Face Wash** बेहतर रहेगा।",
+  "citations": [
+   {
+    "url": "https://thegoodhome.in/home-wellness/skin-care/oily-skin-ke-liye-best-facewash/",
+    "position": 1
+   },
+   {
+    "url": "https://www.nakedcompound.in/guides/best-face-wash-oily-skin-india",
+    "position": 2
+   },
+   {
+    "url": "https://globalsblog.com/beauty/best-face-wash-for-oily-skin-in-india",
+    "position": 3
+   },
+   {
+    "url": "https://globalsblog.com/beauty/best-face-wash-in-india",
+    "position": 4
+   },
+   {
+    "url": "https://www.idiva.com/amp/beauty/skincare/top-10-face-washes-for-oily-skin-dermatologists-pick/18098487",
+    "position": 5
+   },
+   {
+    "url": "https://www.idiva.com/beauty/skincare/best-face-wash-for-oily-skin/18075158",
+    "position": 6
+   },
+   {
+    "url": "https://www.vogue.in/content/best-cleansers-for-oily-acne-prone-skin-you-can-buy-for-under-rs-500",
+    "position": 7
+   },
+   {
+    "url": "https://www.ndtvshopping.com/beauty-and-grooming/best-face-washes-under-500-from-mamaearth-to-minimalist-that-keep-oil-skin-in-check-8831853",
+    "position": 8
+   },
+   {
+    "url": "https://cashkaro.com/blog/best-face-wash-for-oily-skin-brands-complete-guide-with-price-range/78379",
+    "position": 9
+   },
+   {
+    "url": "https://www.justdial.com/india/all-Facewash",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.005496
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.3971 sec.",
+  "cost": 0.006096,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131337-2163-0612-0000-67d8ec277bc8",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.3230 sec.",
+    "cost": 0.006096,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 462,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005496,
+      "datetime": "2026-10-13 13:37:32 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "₹500 के अंदर **Minimalist 2% Salicylic Acid + LHA Face Wash (100 ml)** सबसे अच्छा विकल्प है—खासकर अगर oily skin के साथ blackheads, pimples या clogged pores भी हैं। इसकी कीमत आमतौर पर लगभग ₹278–₹299 है और यह fragrance-free है।[1][2]\n\n### आपकी skin के हिसाब से विकल्प\n\n- **बहुत oily/acne-prone skin:** Minimalist 2% Salicylic Acid Face Wash — लगभग ₹299.[2]\n- **Sensitive oily skin:** Simple Kind to Skin Refreshing Face Wash — लगभग ₹224–₹450; यह comparatively gentle है.[1][7]\n- **कम बजट में daily use:** Himalaya Purifying Neem Face Wash — लगभग ₹120–₹250.[1][5]\n- **Pimples और excess oil:** The Derma Co 2% Salicylic Acid Face Wash — लगभग ₹263–₹299.[2]\n- **Oily लेकिन dry/tight महसूस होने वाली skin:** Plum Green Tea Pore Cleansing Face Wash — लगभग ₹239–₹349.[5][7]\n\n**कैसे इस्तेमाल करें:** Salicylic-acid face wash दिन में शुरुआत में सिर्फ एक बार इस्तेमाल करें; जलन या dryness हो तो हर दूसरे दिन करें। बाद में हल्का, non-comedogenic moisturizer और दिन में sunscreen लगाएँ। Face wash दिन में दो बार से अधिक न करें।[2]\n\n**सीधी recommendation:** अगर आपकी skin बहुत sensitive नहीं है, तो **Minimalist 2% Salicylic Acid + LHA** खरीदें; केवल सामान्य oiliness है और acne नहीं, तो **Simple Refreshing Face Wash** बेहतर रहेगा।",
+          "annotations": [
+           {
+            "title": "10 Oily Skin ke liye Best Facewash in India 2026 - 90% लोग ऑयली ...",
+            "url": "https://thegoodhome.in/home-wellness/skin-care/oily-skin-ke-liye-best-facewash/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "5 Best Face Wash for Oily Skin That Actually Control Oil",
+            "url": "https://www.nakedcompound.in/guides/best-face-wash-oily-skin-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "globalsblog.com › beauty › best-face-wash-for-oilyBest Face Wash for Oily Skin in India 2026 | GlobalsBlog",
+            "url": "https://globalsblog.com/beauty/best-face-wash-for-oily-skin-in-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Face Wash in India 2026 — By Skin Type | GlobalsBlog",
+            "url": "https://globalsblog.com/beauty/best-face-wash-in-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 10 Face Washes for Oily Skin - Dermatologist's Pick",
+            "url": "https://www.idiva.com/amp/beauty/skincare/top-10-face-washes-for-oily-skin-dermatologists-pick/18098487",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "7 Best Face Washes For Oily Skin In India Under Rs 500",
+            "url": "https://www.idiva.com/beauty/skincare/best-face-wash-for-oily-skin/18075158",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Cleansers For Acne Prone Skin Under Rs 500 - Vogue India",
+            "url": "https://www.vogue.in/content/best-cleansers-for-oily-acne-prone-skin-you-can-buy-for-under-rs-500",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "10 Best Face Washes Under 500, From Mamaearth To Minimalist ...",
+            "url": "https://www.ndtvshopping.com/beauty-and-grooming/best-face-washes-under-500-from-mamaearth-to-minimalist-that-keep-oil-skin-in-check-8831853",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "16 Best Face Washes for Oily Skin in India 2026 - CashKaro",
+            "url": "https://cashkaro.com/blog/best-face-wash-for-oily-skin-brands-complete-guide-with-price-range/78379",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "All Facewash - All Face Wash Price Starting From Rs 299/Pc",
+            "url": "https://www.justdial.com/india/all-Facewash",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

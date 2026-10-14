@@ -1,0 +1,190 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 8,
+  "promptText": "Which sarees should I buy online in India for a wedding on a budget?",
+  "cellId": "F05_en_gemini_r8",
+  "startedAt": "2026-10-13T14:18:36.315Z",
+  "finishedAt": "2026-10-13T14:19:39.314Z",
+  "durationMs": 62999,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T14:16:43.613Z",
+    "error": "This operation was aborted"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Shopping for a wedding saree in India on a budget is easy thanks to a wide range of gorgeous, affordable traditional weaves available online. Popular styles like Banarasi art silk, Kanjivaram-style blends, and semi-chiffon or tissue drapes offer a rich, festive look without a heavy price tag.\n\nThe Koskii Rani Pink Soft Raw Silk Gold Zariwork Saree features **rich gold zariwork detailing** on a soft raw silk fabric, making it a classic and vibrant choice for celebrations.\n\nThe Banarasee Semi Chiffon Saree combines a **lightweight semi-chiffon drape** with an **intricate broad zari border**, perfect for daytime wedding rituals.\n\nThe Banarasi Tissue Saree offers a **scintillating metallic sheen** and **magnificent zari weaving** that brings a contemporary, high-fashion look to evening receptions.\n\nThe Monjolika Fashion Banarasi Kanjivaram Style Saree provides a **traditional brocade and zari look** using soft-finished art silk at an accessible price point.\n\nThe Rekha Maniyar Woven Banarasi Saree highlights **detailed thread and zari work** complemented by **graceful pallu tassels** for an elevated festive finish.\n\nThe Women's Green Banarasi Soft Silk Saree features **traditional ethnic jaal work** and a **rich zari weaving pallu** tailored for wedding functions like the haldi or reception.\n\nThe Signagraph Banarasi Silk Saree delivers a **classic woven design** using lightweight blended silk, making it comfortable for long hours of celebration.\n\nThe Varnavi Traditional Banarasi Saree showcases **detailed teal zari weaving** that gives off a rich, regal aesthetic ideal for wedding guests.\n\nThe Monjolika Fashion Magenta Silk Saree brings a **vibrant magenta tone** paired with **intricate zari brocade** to stand out at festive gatherings.\n\nThe Payal Boutique Woven Saree features **traditional motifs and a striking zari border** that balances elegance with budget-conscious shopping.\n\n### Summary Recommendation\n\nIf you want a timeless look with traditional heavy borders, art-silk Banarasi or Kanjivaram-style options like the **Koskii Raw Silk Saree** or **Monjolika Fashion Saree** offer great value. If you prefer a lighter, more modern fabric that is easy to drape for long hours, the **Banarasee Semi-Chiffon** or **Banarasi Tissue Sarees** are ideal choices.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "62.3462 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131418-2163-0629-0000-639ef4613e7f",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "62.2848 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which sarees should I buy online in India for a wedding on a budget?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:19:41 +00:00",
+      "markdown": "Shopping for a wedding saree in India on a budget is easy thanks to a wide range of gorgeous, affordable traditional weaves available online. Popular styles like Banarasi art silk, Kanjivaram-style blends, and semi-chiffon or tissue drapes offer a rich, festive look without a heavy price tag.\n\nThe Koskii Rani Pink Soft Raw Silk Gold Zariwork Saree features **rich gold zariwork detailing** on a soft raw silk fabric, making it a classic and vibrant choice for celebrations.\n\nThe Banarasee Semi Chiffon Saree combines a **lightweight semi-chiffon drape** with an **intricate broad zari border**, perfect for daytime wedding rituals.\n\nThe Banarasi Tissue Saree offers a **scintillating metallic sheen** and **magnificent zari weaving** that brings a contemporary, high-fashion look to evening receptions.\n\nThe Monjolika Fashion Banarasi Kanjivaram Style Saree provides a **traditional brocade and zari look** using soft-finished art silk at an accessible price point.\n\nThe Rekha Maniyar Woven Banarasi Saree highlights **detailed thread and zari work** complemented by **graceful pallu tassels** for an elevated festive finish.\n\nThe Women's Green Banarasi Soft Silk Saree features **traditional ethnic jaal work** and a **rich zari weaving pallu** tailored for wedding functions like the haldi or reception.\n\nThe Signagraph Banarasi Silk Saree delivers a **classic woven design** using lightweight blended silk, making it comfortable for long hours of celebration.\n\nThe Varnavi Traditional Banarasi Saree showcases **detailed teal zari weaving** that gives off a rich, regal aesthetic ideal for wedding guests.\n\nThe Monjolika Fashion Magenta Silk Saree brings a **vibrant magenta tone** paired with **intricate zari brocade** to stand out at festive gatherings.\n\nThe Payal Boutique Woven Saree features **traditional motifs and a striking zari border** that balances elegance with budget-conscious shopping.\n\n### Summary Recommendation\n\nIf you want a timeless look with traditional heavy borders, art-silk Banarasi or Kanjivaram-style options like the **Koskii Raw Silk Saree** or **Monjolika Fashion Saree** offer great value. If you prefer a lighter, more modern fabric that is easy to drape for long hours, the **Banarasee Semi-Chiffon** or **Banarasi Tissue Sarees** are ideal choices.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 13,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Shopping for a wedding saree in India on a budget is easy thanks to a wide range of gorgeous, affordable traditional weaves available online. Popular styles like Banarasi art silk, Kanjivaram-style blends, and semi-chiffon or tissue drapes offer a rich, festive look without a heavy price tag.",
+        "original_text": "Shopping for a wedding saree in India on a budget is easy thanks to a wide range of gorgeous, affordable traditional weaves available online. Popular styles like Banarasi art silk, Kanjivaram-style blends, and semi-chiffon or tissue drapes offer a rich, festive look without a heavy price tag.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "The Koskii Rani Pink Soft Raw Silk Gold Zariwork Saree features **rich gold zariwork detailing** on a soft raw silk fabric, making it a classic and vibrant choice for celebrations.",
+        "original_text": "The Koskii Rani Pink Soft Raw Silk Gold Zariwork Saree features rich gold zariwork detailing on a soft raw silk fabric, making it a classic and vibrant choice for celebrations.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "The Banarasee Semi Chiffon Saree combines a **lightweight semi-chiffon drape** with an **intricate broad zari border**, perfect for daytime wedding rituals.",
+        "original_text": "The Banarasee Semi Chiffon Saree combines a lightweight semi-chiffon drape with an intricate broad zari border, perfect for daytime wedding rituals.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "The Banarasi Tissue Saree offers a **scintillating metallic sheen** and **magnificent zari weaving** that brings a contemporary, high-fashion look to evening receptions.",
+        "original_text": "The Banarasi Tissue Saree offers a scintillating metallic sheen and magnificent zari weaving that brings a contemporary, high-fashion look to evening receptions.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "The Monjolika Fashion Banarasi Kanjivaram Style Saree provides a **traditional brocade and zari look** using soft-finished art silk at an accessible price point.",
+        "original_text": "The Monjolika Fashion Banarasi Kanjivaram Style Saree provides a traditional brocade and zari look using soft-finished art silk at an accessible price point.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "The Rekha Maniyar Woven Banarasi Saree highlights **detailed thread and zari work** complemented by **graceful pallu tassels** for an elevated festive finish.",
+        "original_text": "The Rekha Maniyar Woven Banarasi Saree highlights detailed thread and zari work complemented by graceful pallu tassels for an elevated festive finish.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "The Women's Green Banarasi Soft Silk Saree features **traditional ethnic jaal work** and a **rich zari weaving pallu** tailored for wedding functions like the haldi or reception.",
+        "original_text": "The Women's Green Banarasi Soft Silk Saree features traditional ethnic jaal work and a rich zari weaving pallu tailored for wedding functions like the haldi or reception.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "The Signagraph Banarasi Silk Saree delivers a **classic woven design** using lightweight blended silk, making it comfortable for long hours of celebration.",
+        "original_text": "The Signagraph Banarasi Silk Saree delivers a classic woven design using lightweight blended silk, making it comfortable for long hours of celebration.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "The Varnavi Traditional Banarasi Saree showcases **detailed teal zari weaving** that gives off a rich, regal aesthetic ideal for wedding guests.",
+        "original_text": "The Varnavi Traditional Banarasi Saree showcases detailed teal zari weaving that gives off a rich, regal aesthetic ideal for wedding guests.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "The Monjolika Fashion Magenta Silk Saree brings a **vibrant magenta tone** paired with **intricate zari brocade** to stand out at festive gatherings.",
+        "original_text": "The Monjolika Fashion Magenta Silk Saree brings a vibrant magenta tone paired with intricate zari brocade to stand out at festive gatherings.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "The Payal Boutique Woven Saree features **traditional motifs and a striking zari border** that balances elegance with budget-conscious shopping.",
+        "original_text": "The Payal Boutique Woven Saree features traditional motifs and a striking zari border that balances elegance with budget-conscious shopping.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "### Summary Recommendation",
+        "original_text": "Summary Recommendation",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "markdown": "If you want a timeless look with traditional heavy borders, art-silk Banarasi or Kanjivaram-style options like the **Koskii Raw Silk Saree** or **Monjolika Fashion Saree** offer great value. If you prefer a lighter, more modern fabric that is easy to drape for long hours, the **Banarasee Semi-Chiffon** or **Banarasi Tissue Sarees** are ideal choices.",
+        "original_text": "If you want a timeless look with traditional heavy borders, art-silk Banarasi or Kanjivaram-style options like the Koskii Raw Silk Saree or Monjolika Fashion Saree offer great value. If you prefer a lighter, more modern fabric that is easy to drape for long hours, the Banarasee Semi-Chiffon or Banarasi Tissue Sarees are ideal choices.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

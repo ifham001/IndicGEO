@@ -1,0 +1,96 @@
+{
+  "version": "1.1",
+  "frozen_at": "2026-08-14",
+  "revision_note": "v1.1 after independent equivalence review: F03 rewritten to remove retailer-recall contamination (double-barreled 'where + which brands'), F04 rewritten to add explicit purchase intent, F05 rewritten to add the India anchor to both versions and align plural number. Skincare block unchanged. Cells collected under v1.0 for F03/F05 were discarded before analysis.",
+  "design_rules": [
+    "Every prompt is purchase-intent (the user is deciding what to buy), not informational.",
+    "No brand names appear in any prompt: this measures unaided brand recall of the engine.",
+    "Each EN/HG pair holds intent, category, constraints (price cap, gender, market) identical; only the language register changes.",
+    "Hinglish versions are romanized Hindi-English code-mix as typed by real Indian users: category nouns stay in English (face wash, sunscreen, jeans), function words and verbs in romanized Hindi. No Devanagari.",
+    "Price caps written as '₹N' in English and 'N rupees' in Hinglish, matching how each register is actually typed. Documented as a naturalism-over-literalism decision.",
+    "India is explicitly anchored in every prompt so market context is constant across engines.",
+    "Idiomatic mappings are deliberate, not drift: 'acne wali skin' renders 'acne-prone skin' (S05); a literal calque would be the machine-translation tell."
+  ],
+  "prompts": [
+    {
+      "id": "S01",
+      "category": "skincare",
+      "subcategory": "face-wash",
+      "price_cap_inr": 500,
+      "en": "Which face wash should I buy for oily skin in India under ₹500?",
+      "hg": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?"
+    },
+    {
+      "id": "S02",
+      "category": "skincare",
+      "subcategory": "sunscreen",
+      "price_cap_inr": null,
+      "en": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+      "hg": "Mujhe aisa sunscreen kharidna hai jo Indian skin par white cast na chhode. Konsa best hai?"
+    },
+    {
+      "id": "S03",
+      "category": "skincare",
+      "subcategory": "vitamin-c-serum",
+      "price_cap_inr": null,
+      "en": "Which vitamin C serum should I buy for dark spots and dull skin in India?",
+      "hg": "Dark spots aur dull skin ke liye India mein konsa vitamin C serum kharidun?"
+    },
+    {
+      "id": "S04",
+      "category": "skincare",
+      "subcategory": "moisturizer",
+      "price_cap_inr": null,
+      "en": "Which moisturizer should I buy for dry skin in Indian winters?",
+      "hg": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?"
+    },
+    {
+      "id": "S05",
+      "category": "skincare",
+      "subcategory": "acne-serum",
+      "price_cap_inr": 700,
+      "en": "Which serum should I buy for acne-prone skin in India under ₹700?",
+      "hg": "India mein acne wali skin ke liye 700 rupees ke andar konsa serum kharidun?"
+    },
+    {
+      "id": "F01",
+      "category": "fashion",
+      "subcategory": "jeans-men",
+      "price_cap_inr": 2000,
+      "en": "Which brand's jeans should I buy for men in India under ₹2000?",
+      "hg": "India mein 2000 rupees ke andar men ke liye konse brand ki jeans kharidni chahiye?"
+    },
+    {
+      "id": "F02",
+      "category": "fashion",
+      "subcategory": "running-shoes",
+      "price_cap_inr": 3000,
+      "en": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+      "hg": "Mujhe India mein 3000 rupees ke andar running shoes kharidne hain. Konse lene chahiye?"
+    },
+    {
+      "id": "F03",
+      "category": "fashion",
+      "subcategory": "kurta-set-women",
+      "price_cap_inr": null,
+      "en": "Which brand's kurta sets should I buy for women online in India?",
+      "hg": "India mein women ke liye online konse brand ke kurta sets kharidun?"
+    },
+    {
+      "id": "F04",
+      "category": "fashion",
+      "subcategory": "formal-shirts-men",
+      "price_cap_inr": null,
+      "en": "Which brand's formal shirts should I buy for men in India?",
+      "hg": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?"
+    },
+    {
+      "id": "F05",
+      "category": "fashion",
+      "subcategory": "saree-wedding",
+      "price_cap_inr": null,
+      "en": "Which sarees should I buy online in India for a wedding on a budget?",
+      "hg": "India mein shaadi ke liye budget mein online konsi sarees kharidun?"
+    }
+  ]
+}

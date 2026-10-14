@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S04",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "perplexity",
+  "rep": 5,
+  "promptText": "Which moisturizer should I buy for dry skin in Indian winters?",
+  "cellId": "S04_en_perplexity_r5",
+  "startedAt": "2026-10-13T14:09:22.071Z",
+  "finishedAt": "2026-10-13T14:09:26.014Z",
+  "durationMs": 3943,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "For **dry facial skin in Indian winters**, buy a **fragrance-free, ceramide-rich cream** rather than a gel moisturizer. Look for **ceramides, glycerin, hyaluronic acid, shea butter, or panthenol**—ingredients suited to cold, dry weather and barrier repair.[8][9][10]\n\n**Good options available in India:**\n\n- **Best overall:** **Cetaphil DAM / Cetaphil Moisturising Cream** — rich, gentle, and suitable for sensitive, very dry skin.\n- **Best for very dry or flaky skin:** **CeraVe Moisturising Cream** — ceramides plus hyaluronic acid; use a small amount because it can feel heavy.\n- **Best budget option:** **Venusia Max Cream** — richer texture for dry winter skin.\n- **Best for acne-prone dry skin:** **Re’equil Ceramide & Hyaluronic Acid Moisturiser** — nourishing but generally less greasy.\n- **For extremely dry patches:** Apply a thin layer of **petroleum jelly** over moisturizer at night; avoid using it all over if you are acne-prone.\n\nApply moisturizer within a few minutes of washing while the skin is slightly damp, twice daily. Use **SPF 30 or higher during the day**, even in winter.[8][9] Patch-test first, and choose a fragrance-free formula if your skin stings, itches, or develops redness.",
+  "citations": [
+   {
+    "url": "https://www.amazon.in/best-winter-moisturizer-for-dry-skin/s?k=best+winter+moisturizer+for+dry+skin",
+    "position": 1
+   },
+   {
+    "url": "https://www.amazon.in/moisturizer-for-dry-skin-with-spf/s?k=moisturizer+for+dry+skin+with+spf",
+    "position": 2
+   },
+   {
+    "url": "https://www.amazon.in/winter-skin-care/s?k=winter+skin+care",
+    "position": 3
+   },
+   {
+    "url": "https://www.flipkart.com/q/moisturizer-for-dry-skin",
+    "position": 4
+   },
+   {
+    "url": "https://www.amazon.in/body-moisturiser-for-very-dry-skin/s?k=body+moisturiser+for+very+dry+skin",
+    "position": 5
+   },
+   {
+    "url": "https://www.amazon.in/deep-moisturizer-for-very-dry-skin/s?k=deep+moisturizer+for+very+dry+skin",
+    "position": 6
+   },
+   {
+    "url": "https://www.amazon.in/moisturizer-under-500/s?k=moisturizer+under+500",
+    "position": 7
+   },
+   {
+    "url": "https://zeelabpharmacy.com/hi/blog/best-moisturisers-for-winter",
+    "position": 8
+   },
+   {
+    "url": "https://www.nykaa.com/beauty-blog/top-10-moisturizer-in-india-2026",
+    "position": 9
+   },
+   {
+    "url": "https://www.mrmed.in/health-library/skin-care/best-moisturizers-for-winter-india",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.005336
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.7125 sec.",
+  "cost": 0.005936,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131409-2163-0612-0000-845de24911a5",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.7059 sec.",
+    "cost": 0.005936,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "Which moisturizer should I buy for dry skin in Indian winters?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 20,
+      "output_tokens": 316,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005336,
+      "datetime": "2026-10-13 14:09:28 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "For **dry facial skin in Indian winters**, buy a **fragrance-free, ceramide-rich cream** rather than a gel moisturizer. Look for **ceramides, glycerin, hyaluronic acid, shea butter, or panthenol**—ingredients suited to cold, dry weather and barrier repair.[8][9][10]\n\n**Good options available in India:**\n\n- **Best overall:** **Cetaphil DAM / Cetaphil Moisturising Cream** — rich, gentle, and suitable for sensitive, very dry skin.\n- **Best for very dry or flaky skin:** **CeraVe Moisturising Cream** — ceramides plus hyaluronic acid; use a small amount because it can feel heavy.\n- **Best budget option:** **Venusia Max Cream** — richer texture for dry winter skin.\n- **Best for acne-prone dry skin:** **Re’equil Ceramide & Hyaluronic Acid Moisturiser** — nourishing but generally less greasy.\n- **For extremely dry patches:** Apply a thin layer of **petroleum jelly** over moisturizer at night; avoid using it all over if you are acne-prone.\n\nApply moisturizer within a few minutes of washing while the skin is slightly damp, twice daily. Use **SPF 30 or higher during the day**, even in winter.[8][9] Patch-test first, and choose a fragrance-free formula if your skin stings, itches, or develops redness.",
+          "annotations": [
+           {
+            "title": "www.amazon.in › best-winter-moisturizer-for-dryAmazon.in: Best Winter Moisturizer For Dry Skin",
+            "url": "https://www.amazon.in/best-winter-moisturizer-for-dry-skin/s?k=best+winter+moisturizer+for+dry+skin",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › moisturizer-for-dry-skin-with-spfAmazon.in: Moisturizer For Dry Skin With Spf",
+            "url": "https://www.amazon.in/moisturizer-for-dry-skin-with-spf/s?k=moisturizer+for+dry+skin+with+spf",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › winter-skin-care › sAmazon.in: Winter Skin Care",
+            "url": "https://www.amazon.in/winter-skin-care/s?k=winter+skin+care",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.flipkart.com › q › moisturizer-for-dry-skinBuy Moisturizer for Dry & Flaky Skin | Deep Hydration | Flipkart",
+            "url": "https://www.flipkart.com/q/moisturizer-for-dry-skin",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › body-moisturiser-for-very-dry-skinAmazon.in: Body Moisturiser For Very Dry Skin",
+            "url": "https://www.amazon.in/body-moisturiser-for-very-dry-skin/s?k=body+moisturiser+for+very+dry+skin",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › deep-moisturizer-for-very-dry-skinAmazon.in: Deep Moisturizer For Very Dry Skin",
+            "url": "https://www.amazon.in/deep-moisturizer-for-very-dry-skin/s?k=deep+moisturizer+for+very+dry+skin",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › moisturizer-under-500 › sAmazon.in: Moisturizer Under 500",
+            "url": "https://www.amazon.in/moisturizer-under-500/s?k=moisturizer+under+500",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "zeelabpharmacy.com › hi › blogसूखी और तैलीय त्वचा के लिए बेहतरीन विंटर मॉइस्चराइज़र्स | त्वचा ....",
+            "url": "https://zeelabpharmacy.com/hi/blog/best-moisturisers-for-winter",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Top 10 Moisturisers in India 2026 for Skin Longevity - Nykaa",
+            "url": "https://www.nykaa.com/beauty-blog/top-10-moisturizer-in-india-2026",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Best Moisturizers for Winter in India | Guide by Skin Type ...",
+            "url": "https://www.mrmed.in/health-library/skin-care/best-moisturizers-for-winter-india",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

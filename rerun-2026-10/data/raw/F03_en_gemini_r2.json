@@ -1,0 +1,364 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F03",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 2,
+  "promptText": "Which brand's kurta sets should I buy for women online in India?",
+  "cellId": "F03_en_gemini_r2",
+  "startedAt": "2026-10-13T13:15:24.594Z",
+  "finishedAt": "2026-10-13T13:16:02.363Z",
+  "durationMs": 37769,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T13:13:31.258Z",
+    "error": "This operation was aborted"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Choosing the right brand for women's kurta sets online in India depends on whether you are shopping for daily wear, office settings, or grand festive occasions.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Best%20for%3A%20Daily%20wear%2C%20office%20wear%2C%20and,one%20brand.%20Why%20buyers%20may%20like%20it.) Top brands cater to different styles, budgets, and fabric preferences:\n\n### **For Versatile Daily & Casual Wear**\n\n* **Libas:** Known for budget-friendly to mid-range options, Libas offers an extensive variety of straight cuts, printed everyday styles, and fusion sets.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Why%20buyers%20may%20like%20it.%20Strong%20focus,shoppers%20who%20want%20variety%20in%20one%20place.)\n\nThe Libas Mustard Printed Silk Chiffon Kurta Set features bright **floral accents** and an included dupatta, making it a great choice for light celebrations.\n\nThe Libas Peach Embroidered Silk Blend Kurta Set provides **embroidered details** and practical palazzos with pockets for effortless elegance.\n\nThe LIBAS Woven Design Straight Kurta Set offers a **sophisticated look** with subtle neck and sleeve embroidery suited for festive gatherings.\n\nThe Libas Pink Printed Georgette Suit Set showcases **intricate gold embroidery** and a flowing sharara silhouette for special events.\n\n### **For Office & Workwear**\n\n* **W for Woman:** The gold standard for structured, contemporary ethnic wear. Their sets are designed for professional settings, requiring minimal styling while keeping you comfortable through long workdays.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=W%20for%20Woman%20is%20a%20good%20option,and%20family%20function%20outfits.%20Price%20range%3A%20Mid-range.)\n\n### **For Premium Craftsmanship & Natural Fabrics**\n\n* **Fabindia:** An iconic choice if you prefer breathable, traditional handloom and natural textiles like cotton and cotton-linen.\n\nThe Fabindia Pink Cotton Linen Pant & Kurta Set balances polish and ease through a **slim-fit straight silhouette** and practical side slits.\n\n### **For Contemporary & Indo-Western Styles**\n\n* **House of Indya:** Perfect if you lean towards fashion-forward, modern silhouettes, statement prints, and heavily embellished festive co-ord or anarkali sets.\n\nThe Indya Multi Color Embroidered Creap Silk Blend Salwar Kameez features a **vibrant multi-color design** tailored for modern celebrations.\n\nThe Indya Blue Printed Georgette Anarkali Set brings a **graceful flow** with lightweight georgette fabric ideal for evening occasions.\n\n### **For Designer Prints & Daily Comfort**\n\n* **Ambraee:** Ideal for vibrant, eye-catching prints and comfortable cotton-blend or rayon fabrics that transition smoothly from day to evening.\n\nThe Ambraee Pink Floral Printed Regular Kurta with Palazzos Set offers a **relaxed regular style** with a flattering V-neck and breathable cotton blend fabric.\n\nThe Ambraee Purple Floral Printed A-Line Kurta With Trouser Set highlights an **asymmetric hem** and vibrant viscose rayon weave for a distinct, stylish edge.\n\n### **For Premium Festive Splurge**\n\n* **The Hemming Bird:** Great for shoppers looking for high-end fabrics and unique statement pieces for special family gatherings.\n\nThe The Hemming Bird Multi Cotton Satin Kurta Set combines a **lustrous cotton satin finish** with vibrant multi-hued detailing.\n\n---\n\nIf you like, I can narrow down these recommendations based on your specific budget range or whether you need an outfit for daily office wear versus a wedding function. Do you want me to do that?",
+  "citations": [
+   {
+    "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Best%20for%3A%20Daily%20wear%2C%20office%20wear%2C%20and,one%20brand.%20Why%20buyers%20may%20like%20it.",
+    "source_name": "IndiSangam",
+    "position": 1
+   },
+   {
+    "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Why%20buyers%20may%20like%20it.%20Strong%20focus,shoppers%20who%20want%20variety%20in%20one%20place.",
+    "source_name": "IndiSangam",
+    "position": 2
+   },
+   {
+    "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=W%20for%20Woman%20is%20a%20good%20option,and%20family%20function%20outfits.%20Price%20range%3A%20Mid-range.",
+    "source_name": "IndiSangam",
+    "position": 3
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "37.1375 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131315-2163-0629-0000-5602ca1976ee",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "37.0874 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Which brand's kurta sets should I buy for women online in India?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which brand's kurta sets should I buy for women online in India?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:16:01 +00:00",
+      "markdown": "Choosing the right brand for women's kurta sets online in India depends on whether you are shopping for daily wear, office settings, or grand festive occasions.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Best%20for%3A%20Daily%20wear%2C%20office%20wear%2C%20and,one%20brand.%20Why%20buyers%20may%20like%20it.) Top brands cater to different styles, budgets, and fabric preferences:\n\n### **For Versatile Daily & Casual Wear**\n\n* **Libas:** Known for budget-friendly to mid-range options, Libas offers an extensive variety of straight cuts, printed everyday styles, and fusion sets.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Why%20buyers%20may%20like%20it.%20Strong%20focus,shoppers%20who%20want%20variety%20in%20one%20place.)\n\nThe Libas Mustard Printed Silk Chiffon Kurta Set features bright **floral accents** and an included dupatta, making it a great choice for light celebrations.\n\nThe Libas Peach Embroidered Silk Blend Kurta Set provides **embroidered details** and practical palazzos with pockets for effortless elegance.\n\nThe LIBAS Woven Design Straight Kurta Set offers a **sophisticated look** with subtle neck and sleeve embroidery suited for festive gatherings.\n\nThe Libas Pink Printed Georgette Suit Set showcases **intricate gold embroidery** and a flowing sharara silhouette for special events.\n\n### **For Office & Workwear**\n\n* **W for Woman:** The gold standard for structured, contemporary ethnic wear. Their sets are designed for professional settings, requiring minimal styling while keeping you comfortable through long workdays.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=W%20for%20Woman%20is%20a%20good%20option,and%20family%20function%20outfits.%20Price%20range%3A%20Mid-range.)\n\n### **For Premium Craftsmanship & Natural Fabrics**\n\n* **Fabindia:** An iconic choice if you prefer breathable, traditional handloom and natural textiles like cotton and cotton-linen.\n\nThe Fabindia Pink Cotton Linen Pant & Kurta Set balances polish and ease through a **slim-fit straight silhouette** and practical side slits.\n\n### **For Contemporary & Indo-Western Styles**\n\n* **House of Indya:** Perfect if you lean towards fashion-forward, modern silhouettes, statement prints, and heavily embellished festive co-ord or anarkali sets.\n\nThe Indya Multi Color Embroidered Creap Silk Blend Salwar Kameez features a **vibrant multi-color design** tailored for modern celebrations.\n\nThe Indya Blue Printed Georgette Anarkali Set brings a **graceful flow** with lightweight georgette fabric ideal for evening occasions.\n\n### **For Designer Prints & Daily Comfort**\n\n* **Ambraee:** Ideal for vibrant, eye-catching prints and comfortable cotton-blend or rayon fabrics that transition smoothly from day to evening.\n\nThe Ambraee Pink Floral Printed Regular Kurta with Palazzos Set offers a **relaxed regular style** with a flattering V-neck and breathable cotton blend fabric.\n\nThe Ambraee Purple Floral Printed A-Line Kurta With Trouser Set highlights an **asymmetric hem** and vibrant viscose rayon weave for a distinct, stylish edge.\n\n### **For Premium Festive Splurge**\n\n* **The Hemming Bird:** Great for shoppers looking for high-end fabrics and unique statement pieces for special family gatherings.\n\nThe The Hemming Bird Multi Cotton Satin Kurta Set combines a **lustrous cotton satin finish** with vibrant multi-hued detailing.\n\n---\n\nIf you like, I can narrow down these recommendations based on your specific budget range or whether you need an outfit for daily office wear versus a wedding function. Do you want me to do that?",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "10 Best Kurta Set Brands for Women in India (2026) - IndiSangam",
+        "snippet": "Best for: Daily wear, office wear, and stylish kurta sets. Price range: \nBudget to mid-range. Buy from here when: You want one brand that covers \ncasual, work, an...",
+        "domain": "www.indisangam.com",
+        "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Best%20for%3A%20Daily%20wear%2C%20office%20wear%2C%20and,one%20brand.%20Why%20buyers%20may%20like%20it.",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRAi0XX6va_kiClWz4W5y4NiJrkbPIsovxp7YYJyyYUnZ1gi6s2Ev4YO2EVzIEahrr34fbhEZpm3oi9sGq14El3qrc0MSSm_TlmHgOIhA",
+        "source_name": "IndiSangam",
+        "publication_date": null,
+        "markdown": "Choosing the right brand for women's kurta sets online in India depends on whether you are shopping for daily wear, office settings, or grand festive occasions."
+       },
+       {
+        "type": "gemini_source",
+        "title": "10 Best Kurta Set Brands for Women in India (2026) - IndiSangam",
+        "snippet": "Why buyers may like it. Strong focus on breathable cotton-rich styles. Good \nmix of daily wear and light festive options. Co-ord sets that are easy to \nwear. Prin...",
+        "domain": "www.indisangam.com",
+        "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Why%20buyers%20may%20like%20it.%20Strong%20focus,shoppers%20who%20want%20variety%20in%20one%20place.",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRAi0XX6va_kiClWz4W5y4NiJrkbPIsovxp7YYJyyYUnZ1gi6s2Ev4YO2EVzIEahrr34fbhEZpm3oi9sGq14El3qrc0MSSm_TlmHgOIhA",
+        "source_name": "IndiSangam",
+        "publication_date": null,
+        "markdown": "Known for budget-friendly to mid-range options, Libas offers an extensive variety of straight cuts, printed everyday styles, and fusion sets."
+       },
+       {
+        "type": "gemini_source",
+        "title": "10 Best Kurta Set Brands for Women in India (2026) - IndiSangam",
+        "snippet": "W for Woman is a good option for women who prefer kurta sets with a more \nstructured look. The brand works well for office dressing, family \ngatherings, and semi-...",
+        "domain": "www.indisangam.com",
+        "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=W%20for%20Woman%20is%20a%20good%20option,and%20family%20function%20outfits.%20Price%20range%3A%20Mid-range.",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRAi0XX6va_kiClWz4W5y4NiJrkbPIsovxp7YYJyyYUnZ1gi6s2Ev4YO2EVzIEahrr34fbhEZpm3oi9sGq14El3qrc0MSSm_TlmHgOIhA",
+        "source_name": "IndiSangam",
+        "publication_date": null,
+        "markdown": "Their sets are designed for professional settings, requiring minimal styling while keeping you comfortable through long workdays."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 24,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Choosing the right brand for women's kurta sets online in India depends on whether you are shopping for daily wear, office settings, or grand festive occasions.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Best%20for%3A%20Daily%20wear%2C%20office%20wear%2C%20and,one%20brand.%20Why%20buyers%20may%20like%20it.) Top brands cater to different styles, budgets, and fabric preferences:",
+        "original_text": "Choosing the right brand for women's kurta sets online in India depends on whether you are shopping for daily wear, office settings, or grand festive occasions. Top brands cater to different styles, budgets, and fabric preferences:",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "10 Best Kurta Set Brands for Women in India (2026) - IndiSangam",
+          "snippet": "Best for: Daily wear, office wear, and stylish kurta sets. Price range: \nBudget to mid-range. Buy from here when: You want one brand that covers \ncasual, work, an...",
+          "domain": "www.indisangam.com",
+          "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Best%20for%3A%20Daily%20wear%2C%20office%20wear%2C%20and,one%20brand.%20Why%20buyers%20may%20like%20it.",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRAi0XX6va_kiClWz4W5y4NiJrkbPIsovxp7YYJyyYUnZ1gi6s2Ev4YO2EVzIEahrr34fbhEZpm3oi9sGq14El3qrc0MSSm_TlmHgOIhA",
+          "source_name": "IndiSangam",
+          "publication_date": null,
+          "markdown": "Choosing the right brand for women's kurta sets online in India depends on whether you are shopping for daily wear, office settings, or grand festive occasions."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### **For Versatile Daily & Casual Wear**",
+        "original_text": "For Versatile Daily & Casual Wear",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Libas:** Known for budget-friendly to mid-range options, Libas offers an extensive variety of straight cuts, printed everyday styles, and fusion sets.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Why%20buyers%20may%20like%20it.%20Strong%20focus,shoppers%20who%20want%20variety%20in%20one%20place.)",
+        "original_text": "Libas: Known for budget-friendly to mid-range options, Libas offers an extensive variety of straight cuts, printed everyday styles, and fusion sets.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "10 Best Kurta Set Brands for Women in India (2026) - IndiSangam",
+          "snippet": "Why buyers may like it. Strong focus on breathable cotton-rich styles. Good \nmix of daily wear and light festive options. Co-ord sets that are easy to \nwear. Prin...",
+          "domain": "www.indisangam.com",
+          "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=Why%20buyers%20may%20like%20it.%20Strong%20focus,shoppers%20who%20want%20variety%20in%20one%20place.",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRAi0XX6va_kiClWz4W5y4NiJrkbPIsovxp7YYJyyYUnZ1gi6s2Ev4YO2EVzIEahrr34fbhEZpm3oi9sGq14El3qrc0MSSm_TlmHgOIhA",
+          "source_name": "IndiSangam",
+          "publication_date": null,
+          "markdown": "Known for budget-friendly to mid-range options, Libas offers an extensive variety of straight cuts, printed everyday styles, and fusion sets."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "The Libas Mustard Printed Silk Chiffon Kurta Set features bright **floral accents** and an included dupatta, making it a great choice for light celebrations.",
+        "original_text": "The Libas Mustard Printed Silk Chiffon Kurta Set features bright floral accents and an included dupatta, making it a great choice for light celebrations.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "The Libas Peach Embroidered Silk Blend Kurta Set provides **embroidered details** and practical palazzos with pockets for effortless elegance.",
+        "original_text": "The Libas Peach Embroidered Silk Blend Kurta Set provides embroidered details and practical palazzos with pockets for effortless elegance.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "The LIBAS Woven Design Straight Kurta Set offers a **sophisticated look** with subtle neck and sleeve embroidery suited for festive gatherings.",
+        "original_text": "The LIBAS Woven Design Straight Kurta Set offers a sophisticated look with subtle neck and sleeve embroidery suited for festive gatherings.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "The Libas Pink Printed Georgette Suit Set showcases **intricate gold embroidery** and a flowing sharara silhouette for special events.",
+        "original_text": "The Libas Pink Printed Georgette Suit Set showcases intricate gold embroidery and a flowing sharara silhouette for special events.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### **For Office & Workwear**",
+        "original_text": "For Office & Workwear",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "* **W for Woman:** The gold standard for structured, contemporary ethnic wear. Their sets are designed for professional settings, requiring minimal styling while keeping you comfortable through long workdays.[www.indisangam.com](https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=W%20for%20Woman%20is%20a%20good%20option,and%20family%20function%20outfits.%20Price%20range%3A%20Mid-range.)",
+        "original_text": "W for Woman: The gold standard for structured, contemporary ethnic wear. Their sets are designed for professional settings, requiring minimal styling while keeping you comfortable through long workdays.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "10 Best Kurta Set Brands for Women in India (2026) - IndiSangam",
+          "snippet": "W for Woman is a good option for women who prefer kurta sets with a more \nstructured look. The brand works well for office dressing, family \ngatherings, and semi-...",
+          "domain": "www.indisangam.com",
+          "url": "https://www.indisangam.com/blogs/news/best-kurta-set-brands-in-india#:~:text=W%20for%20Woman%20is%20a%20good%20option,and%20family%20function%20outfits.%20Price%20range%3A%20Mid-range.",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRAi0XX6va_kiClWz4W5y4NiJrkbPIsovxp7YYJyyYUnZ1gi6s2Ev4YO2EVzIEahrr34fbhEZpm3oi9sGq14El3qrc0MSSm_TlmHgOIhA",
+          "source_name": "IndiSangam",
+          "publication_date": null,
+          "markdown": "Their sets are designed for professional settings, requiring minimal styling while keeping you comfortable through long workdays."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "### **For Premium Craftsmanship & Natural Fabrics**",
+        "original_text": "For Premium Craftsmanship & Natural Fabrics",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "* **Fabindia:** An iconic choice if you prefer breathable, traditional handloom and natural textiles like cotton and cotton-linen.",
+        "original_text": "Fabindia: An iconic choice if you prefer breathable, traditional handloom and natural textiles like cotton and cotton-linen.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "The Fabindia Pink Cotton Linen Pant & Kurta Set balances polish and ease through a **slim-fit straight silhouette** and practical side slits.",
+        "original_text": "The Fabindia Pink Cotton Linen Pant & Kurta Set balances polish and ease through a slim-fit straight silhouette and practical side slits.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "markdown": "### **For Contemporary & Indo-Western Styles**",
+        "original_text": "For Contemporary & Indo-Western Styles",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 14,
+        "rank_absolute": 14,
+        "markdown": "* **House of Indya:** Perfect if you lean towards fashion-forward, modern silhouettes, statement prints, and heavily embellished festive co-ord or anarkali sets.",
+        "original_text": "House of Indya: Perfect if you lean towards fashion-forward, modern silhouettes, statement prints, and heavily embellished festive co-ord or anarkali sets.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 15,
+        "rank_absolute": 15,
+        "markdown": "The Indya Multi Color Embroidered Creap Silk Blend Salwar Kameez features a **vibrant multi-color design** tailored for modern celebrations.",
+        "original_text": "The Indya Multi Color Embroidered Creap Silk Blend Salwar Kameez features a vibrant multi-color design tailored for modern celebrations.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 16,
+        "rank_absolute": 16,
+        "markdown": "The Indya Blue Printed Georgette Anarkali Set brings a **graceful flow** with lightweight georgette fabric ideal for evening occasions.",
+        "original_text": "The Indya Blue Printed Georgette Anarkali Set brings a graceful flow with lightweight georgette fabric ideal for evening occasions.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 17,
+        "rank_absolute": 17,
+        "markdown": "### **For Designer Prints & Daily Comfort**",
+        "original_text": "For Designer Prints & Daily Comfort",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 18,
+        "rank_absolute": 18,
+        "markdown": "* **Ambraee:** Ideal for vibrant, eye-catching prints and comfortable cotton-blend or rayon fabrics that transition smoothly from day to evening.",
+        "original_text": "Ambraee: Ideal for vibrant, eye-catching prints and comfortable cotton-blend or rayon fabrics that transition smoothly from day to evening.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 19,
+        "rank_absolute": 19,
+        "markdown": "The Ambraee Pink Floral Printed Regular Kurta with Palazzos Set offers a **relaxed regular style** with a flattering V-neck and breathable cotton blend fabric.",
+        "original_text": "The Ambraee Pink Floral Printed Regular Kurta with Palazzos Set offers a relaxed regular style with a flattering V-neck and breathable cotton blend fabric.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 20,
+        "rank_absolute": 20,
+        "markdown": "The Ambraee Purple Floral Printed A-Line Kurta With Trouser Set highlights an **asymmetric hem** and vibrant viscose rayon weave for a distinct, stylish edge.",
+        "original_text": "The Ambraee Purple Floral Printed A-Line Kurta With Trouser Set highlights an asymmetric hem and vibrant viscose rayon weave for a distinct, stylish edge.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 21,
+        "rank_absolute": 21,
+        "markdown": "### **For Premium Festive Splurge**",
+        "original_text": "For Premium Festive Splurge",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 22,
+        "rank_absolute": 22,
+        "markdown": "* **The Hemming Bird:** Great for shoppers looking for high-end fabrics and unique statement pieces for special family gatherings.",
+        "original_text": "The Hemming Bird: Great for shoppers looking for high-end fabrics and unique statement pieces for special family gatherings.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 23,
+        "rank_absolute": 23,
+        "markdown": "The The Hemming Bird Multi Cotton Satin Kurta Set combines a **lustrous cotton satin finish** with vibrant multi-hued detailing.",
+        "original_text": "The The Hemming Bird Multi Cotton Satin Kurta Set combines a lustrous cotton satin finish with vibrant multi-hued detailing.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 24,
+        "rank_absolute": 24,
+        "markdown": "If you like, I can narrow down these recommendations based on your specific budget range or whether you need an outfit for daily office wear versus a wedding function. Do you want me to do that?",
+        "original_text": "If you like, I can narrow down these recommendations based on your specific budget range or whether you need an outfit for daily office wear versus a wedding function. Do you want me to do that?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

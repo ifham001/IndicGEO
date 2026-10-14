@@ -1,0 +1,198 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 8,
+  "promptText": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+  "cellId": "S02_en_gemini_r8",
+  "startedAt": "2026-10-13T13:50:08.197Z",
+  "finishedAt": "2026-10-13T13:51:35.872Z",
+  "durationMs": 87675,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T13:48:14.529Z",
+    "error": "This operation was aborted"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Finding a sunscreen that offers high protection without a dreaded white cast can be tricky, especially with deeper Indian skin tones. Modern formulations—particularly from Indian pharmaceutical brands and newer K-beauty inspired lines—excel at creating invisible, lightweight finishes.\n\nHere are the best sunscreens widely loved for blending seamlessly on Indian skin tones without leaving a white cast:\n\n## Top Sunscreen Recommendations\n\n### 1. Best Overall for Everyday & Sensitive Skin\n\n* **Re'equil Ultra Matte Dry Touch Sunscreen Gel (SPF 50 PA++++)**\n  *   * **Why it's great:** This is a cult favorite in India. It has a silicone-based, velvety texture that doubles as a primer. It spreads like a dream, leaves zero white cast, and gives a completely matte finish that controls oil brilliantly.\n  * **Best for:** Oily, combination, and acne-prone skin.\n\n### 2. Best for Lightweight, Dewy Finish\n\n* **Isntree Hyaluronic Acid Watery Sun Gel (SPF 50+ PA++++)**\n  *   * **Why it's great:** If you dislike the heavy feel of traditional sunscreens, this feels like a lightweight moisturizer. It uses advanced chemical filters, meaning absolute zero white cast, and leaves a gorgeous, healthy, dewy glow.\n  * **Best for:** Dry, normal, and combination skin.\n\n### 3. Best Budget-Friendly Derm-Favorite\n\n* **Fixderma Shadow SPF 50+ Gel**\n  *   * **Why it's great:** A non-greasy, water-resistant formula that melts right into the skin. It is lightweight, affordable, and widely recommended by dermatologists for everyday use without any ashiness.\n  * **Best for:** All skin types, especially budget-conscious buyers.\n\n### 4. Best Multi-Tasker (Skin Tint + Sun Protection)\n\n* **Dot & Key Vitamin C + E Glow Tinted Sunscreen SPF 50 PA+++**\n  *   * **Why it's great:** While technically tinted, it comes in sheer, skin-adapting shades that neutralize any potential cast and give an instant, even-toned brightness without looking cakey.\n  * **Best for:** Those who want a little bit of coverage alongside sun protection.\n\n---\n\n## Quick Tips for Choosing Sunscreens for Indian Skin\n\n* **Opt for Chemical or Hybrid Filters:** Mineral-only sunscreens (pure Zinc Oxide or Titanium Dioxide) are notorious for leaving a white cast on medium-to-deep skin tones. Look for \"gel\" or \"fluid\" formulas that use modern chemical filters (like Tinosol, Uvinul, or Avobenzone) for an invisible finish.\n* **The Two-Finger Rule:** To get the advertised SPF protection, apply a two-finger length amount to your face and neck. Let it set for 5–10 minutes before stepping out or applying makeup.\n\nWhich skin type do you have (oily, dry, or sensitive), and do you prefer a matte or a dewy finish?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "86.2686 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131350-2163-0629-0000-a10c0b72cf48",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "86.2228 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:51:37 +00:00",
+      "markdown": "Finding a sunscreen that offers high protection without a dreaded white cast can be tricky, especially with deeper Indian skin tones. Modern formulations—particularly from Indian pharmaceutical brands and newer K-beauty inspired lines—excel at creating invisible, lightweight finishes.\n\nHere are the best sunscreens widely loved for blending seamlessly on Indian skin tones without leaving a white cast:\n\n## Top Sunscreen Recommendations\n\n### 1. Best Overall for Everyday & Sensitive Skin\n\n* **Re'equil Ultra Matte Dry Touch Sunscreen Gel (SPF 50 PA++++)**\n  *   * **Why it's great:** This is a cult favorite in India. It has a silicone-based, velvety texture that doubles as a primer. It spreads like a dream, leaves zero white cast, and gives a completely matte finish that controls oil brilliantly.\n  * **Best for:** Oily, combination, and acne-prone skin.\n\n### 2. Best for Lightweight, Dewy Finish\n\n* **Isntree Hyaluronic Acid Watery Sun Gel (SPF 50+ PA++++)**\n  *   * **Why it's great:** If you dislike the heavy feel of traditional sunscreens, this feels like a lightweight moisturizer. It uses advanced chemical filters, meaning absolute zero white cast, and leaves a gorgeous, healthy, dewy glow.\n  * **Best for:** Dry, normal, and combination skin.\n\n### 3. Best Budget-Friendly Derm-Favorite\n\n* **Fixderma Shadow SPF 50+ Gel**\n  *   * **Why it's great:** A non-greasy, water-resistant formula that melts right into the skin. It is lightweight, affordable, and widely recommended by dermatologists for everyday use without any ashiness.\n  * **Best for:** All skin types, especially budget-conscious buyers.\n\n### 4. Best Multi-Tasker (Skin Tint + Sun Protection)\n\n* **Dot & Key Vitamin C + E Glow Tinted Sunscreen SPF 50 PA+++**\n  *   * **Why it's great:** While technically tinted, it comes in sheer, skin-adapting shades that neutralize any potential cast and give an instant, even-toned brightness without looking cakey.\n  * **Best for:** Those who want a little bit of coverage alongside sun protection.\n\n---\n\n## Quick Tips for Choosing Sunscreens for Indian Skin\n\n* **Opt for Chemical or Hybrid Filters:** Mineral-only sunscreens (pure Zinc Oxide or Titanium Dioxide) are notorious for leaving a white cast on medium-to-deep skin tones. Look for \"gel\" or \"fluid\" formulas that use modern chemical filters (like Tinosol, Uvinul, or Avobenzone) for an invisible finish.\n* **The Two-Finger Rule:** To get the advertised SPF protection, apply a two-finger length amount to your face and neck. Let it set for 5–10 minutes before stepping out or applying makeup.\n\nWhich skin type do you have (oily, dry, or sensitive), and do you prefer a matte or a dewy finish?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 14,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Finding a sunscreen that offers high protection without a dreaded white cast can be tricky, especially with deeper Indian skin tones. Modern formulations—particularly from Indian pharmaceutical brands and newer K-beauty inspired lines—excel at creating invisible, lightweight finishes.",
+        "original_text": "Finding a sunscreen that offers high protection without a dreaded white cast can be tricky, especially with deeper Indian skin tones. Modern formulations—particularly from Indian pharmaceutical brands and newer K-beauty inspired lines—excel at creating invisible, lightweight finishes.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Here are the best sunscreens widely loved for blending seamlessly on Indian skin tones without leaving a white cast:",
+        "original_text": "Here are the best sunscreens widely loved for blending seamlessly on Indian skin tones without leaving a white cast:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "## Top Sunscreen Recommendations",
+        "original_text": "Top Sunscreen Recommendations",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### 1. Best Overall for Everyday & Sensitive Skin",
+        "original_text": "1. Best Overall for Everyday & Sensitive Skin",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "* **Re'equil Ultra Matte Dry Touch Sunscreen Gel (SPF 50 PA++++)**\n  *   * **Why it's great:** This is a cult favorite in India. It has a silicone-based, velvety texture that doubles as a primer. It spreads like a dream, leaves zero white cast, and gives a completely matte finish that controls oil brilliantly.\n  * **Best for:** Oily, combination, and acne-prone skin.",
+        "original_text": "Re'equil Ultra Matte Dry Touch Sunscreen Gel (SPF 50 PA++++)\nWhy it's great: This is a cult favorite in India. It has a silicone-based, velvety texture that doubles as a primer. It spreads like a dream, leaves zero white cast, and gives a completely matte finish that controls oil brilliantly.\nBest for: Oily, combination, and acne-prone skin.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "### 2. Best for Lightweight, Dewy Finish",
+        "original_text": "2. Best for Lightweight, Dewy Finish",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **Isntree Hyaluronic Acid Watery Sun Gel (SPF 50+ PA++++)**\n  *   * **Why it's great:** If you dislike the heavy feel of traditional sunscreens, this feels like a lightweight moisturizer. It uses advanced chemical filters, meaning absolute zero white cast, and leaves a gorgeous, healthy, dewy glow.\n  * **Best for:** Dry, normal, and combination skin.",
+        "original_text": "Isntree Hyaluronic Acid Watery Sun Gel (SPF 50+ PA++++)\nWhy it's great: If you dislike the heavy feel of traditional sunscreens, this feels like a lightweight moisturizer. It uses advanced chemical filters, meaning absolute zero white cast, and leaves a gorgeous, healthy, dewy glow.\nBest for: Dry, normal, and combination skin.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### 3. Best Budget-Friendly Derm-Favorite",
+        "original_text": "3. Best Budget-Friendly Derm-Favorite",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "* **Fixderma Shadow SPF 50+ Gel**\n  *   * **Why it's great:** A non-greasy, water-resistant formula that melts right into the skin. It is lightweight, affordable, and widely recommended by dermatologists for everyday use without any ashiness.\n  * **Best for:** All skin types, especially budget-conscious buyers.",
+        "original_text": "Fixderma Shadow SPF 50+ Gel\nWhy it's great: A non-greasy, water-resistant formula that melts right into the skin. It is lightweight, affordable, and widely recommended by dermatologists for everyday use without any ashiness.\nBest for: All skin types, especially budget-conscious buyers.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "### 4. Best Multi-Tasker (Skin Tint + Sun Protection)",
+        "original_text": "4. Best Multi-Tasker (Skin Tint + Sun Protection)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "* **Dot & Key Vitamin C + E Glow Tinted Sunscreen SPF 50 PA+++**\n  *   * **Why it's great:** While technically tinted, it comes in sheer, skin-adapting shades that neutralize any potential cast and give an instant, even-toned brightness without looking cakey.\n  * **Best for:** Those who want a little bit of coverage alongside sun protection.",
+        "original_text": "Dot & Key Vitamin C + E Glow Tinted Sunscreen SPF 50 PA+++\nWhy it's great: While technically tinted, it comes in sheer, skin-adapting shades that neutralize any potential cast and give an instant, even-toned brightness without looking cakey.\nBest for: Those who want a little bit of coverage alongside sun protection.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "## Quick Tips for Choosing Sunscreens for Indian Skin",
+        "original_text": "Quick Tips for Choosing Sunscreens for Indian Skin",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "markdown": "* **Opt for Chemical or Hybrid Filters:** Mineral-only sunscreens (pure Zinc Oxide or Titanium Dioxide) are notorious for leaving a white cast on medium-to-deep skin tones. Look for \"gel\" or \"fluid\" formulas that use modern chemical filters (like Tinosol, Uvinul, or Avobenzone) for an invisible finish.\n* **The Two-Finger Rule:** To get the advertised SPF protection, apply a two-finger length amount to your face and neck. Let it set for 5–10 minutes before stepping out or applying makeup.",
+        "original_text": "Opt for Chemical or Hybrid Filters: Mineral-only sunscreens (pure Zinc Oxide or Titanium Dioxide) are notorious for leaving a white cast on medium-to-deep skin tones. Look for \"gel\" or \"fluid\" formulas that use modern chemical filters (like Tinosol, Uvinul, or Avobenzone) for an invisible finish.\nThe Two-Finger Rule: To get the advertised SPF protection, apply a two-finger length amount to your face and neck. Let it set for 5–10 minutes before stepping out or applying makeup.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 14,
+        "rank_absolute": 14,
+        "markdown": "Which skin type do you have (oily, dry, or sensitive), and do you prefer a matte or a dewy finish?",
+        "original_text": "Which skin type do you have (oily, dry, or sensitive), and do you prefer a matte or a dewy finish?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

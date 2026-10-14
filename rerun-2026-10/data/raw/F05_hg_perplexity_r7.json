@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "perplexity",
+  "rep": 7,
+  "promptText": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+  "cellId": "F05_hg_perplexity_r7",
+  "startedAt": "2026-10-13T14:05:30.745Z",
+  "finishedAt": "2026-10-13T14:05:35.484Z",
+  "durationMs": 4739,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Shaadi ke liye budget mein **silk-blend, Banarasi-look, georgette ya chiffon saree** achhi rahegi—yeh festive dikhti hain aur ₹500–₹1,500 ke beech mil jaati hain.\n\n### Budget ke hisaab se best options\n\n- **₹300–₹600:** Meesho par Banarasi-look, Kanjeevaram-look, Paithani cotton-silk aur Mysore-silk sarees mil rahi hain; kuch options ₹267–₹639 ke aas-paas hain.[2][4][5]\n- **₹700–₹1,300:** Libas ki silk-blend sarees zyada polished aur reliable option hain; sale mein designs lagbhag ₹759–₹1,259 ke mil rahe hain.[6]\n- **₹1,000–₹1,500:** Embroidered silk-blend saree—shaadi ke guest, sister ya bhabhi ke liye best. Magenta, maroon, bottle green aur royal blue shades dekhein.[6]\n- **₹2,000–₹4,000:** Thodi premium-looking **Banarasi silk-blend, organza ya heavy georgette** saree chun sakti hain.\n- **Bride ke liye:** Agar aap dulhan hain, to ₹500 wali saree ke bajay ₹1,200–₹3,000 mein heavy embroidery, zari border aur attached/unstitched blouse wali saree dekhein.\n\n### Kaunse colours chunen?\n\n- **Dulhan:** Red, maroon, wine, rani pink, bottle green  \n- **Shaadi guest:** Pastel pink, lavender, teal, mustard, royal blue  \n- **Day wedding:** Peach, yellow, green, baby pink  \n- **Night wedding:** Black, navy, wine, magenta, purple  \n\n### Kharidne se pehle check karein\n\n- Customer photos aur reviews zaroor dekhein.\n- Saree ki length, blouse-piece aur fabric description verify karein.\n- “Silk” ke naam par aksar **art silk ya silk blend** hota hai—pure silk samajhkar order na karein.\n- Return policy, delivery date aur blouse stitching cost check karein.\n- ₹300–₹600 range mein quality inconsistent ho sakti hai; trusted seller aur high-rating product chunna behtar hai.\n\n**Sabse balanced recommendation:** ₹900–₹1,300 ki **silk-blend Banarasi-look ya embroidered saree**, matching blouse aur simple jewellery ke saath—budget-friendly bhi lagegi aur shaadi ke liye elegant bhi.[6]",
+  "citations": [
+   {
+    "url": "https://www.flipkart.com/q/bridal-sarees",
+    "position": 1
+   },
+   {
+    "url": "https://www.meesho.com/wedding-sarees/pl/3li",
+    "position": 2
+   },
+   {
+    "url": "https://www.meesho.com/sarees/pl/3iy",
+    "position": 3
+   },
+   {
+    "url": "https://www.meesho.com/hi/wedding-sari/pl/8wr",
+    "position": 4
+   },
+   {
+    "url": "https://www.meesho.com/bridal-saree/pl/817",
+    "position": 5
+   },
+   {
+    "url": "https://www.libas.in/collections/wedding-sarees",
+    "position": 6
+   },
+   {
+    "url": "https://www.indianweddingsaree.com/sarees",
+    "position": 7
+   },
+   {
+    "url": "https://www.cbazaar.com/in/wedding",
+    "position": 8
+   },
+   {
+    "url": "https://www.gulbhahar.com/collections/shaadi-party-wear-saree",
+    "position": 9
+   },
+   {
+    "url": "https://www.gulbhahar.com/collections/new-saree-collection",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.005639
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "4.5360 sec.",
+  "cost": 0.006239,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131405-2163-0612-0000-ff5fdbb1b221",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.5239 sec.",
+    "cost": 0.006239,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "India mein shaadi ke liye budget mein online konsi sarees kharidun?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 27,
+      "output_tokens": 612,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005639,
+      "datetime": "2026-10-13 14:05:37 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "Shaadi ke liye budget mein **silk-blend, Banarasi-look, georgette ya chiffon saree** achhi rahegi—yeh festive dikhti hain aur ₹500–₹1,500 ke beech mil jaati hain.\n\n### Budget ke hisaab se best options\n\n- **₹300–₹600:** Meesho par Banarasi-look, Kanjeevaram-look, Paithani cotton-silk aur Mysore-silk sarees mil rahi hain; kuch options ₹267–₹639 ke aas-paas hain.[2][4][5]\n- **₹700–₹1,300:** Libas ki silk-blend sarees zyada polished aur reliable option hain; sale mein designs lagbhag ₹759–₹1,259 ke mil rahe hain.[6]\n- **₹1,000–₹1,500:** Embroidered silk-blend saree—shaadi ke guest, sister ya bhabhi ke liye best. Magenta, maroon, bottle green aur royal blue shades dekhein.[6]\n- **₹2,000–₹4,000:** Thodi premium-looking **Banarasi silk-blend, organza ya heavy georgette** saree chun sakti hain.\n- **Bride ke liye:** Agar aap dulhan hain, to ₹500 wali saree ke bajay ₹1,200–₹3,000 mein heavy embroidery, zari border aur attached/unstitched blouse wali saree dekhein.\n\n### Kaunse colours chunen?\n\n- **Dulhan:** Red, maroon, wine, rani pink, bottle green  \n- **Shaadi guest:** Pastel pink, lavender, teal, mustard, royal blue  \n- **Day wedding:** Peach, yellow, green, baby pink  \n- **Night wedding:** Black, navy, wine, magenta, purple  \n\n### Kharidne se pehle check karein\n\n- Customer photos aur reviews zaroor dekhein.\n- Saree ki length, blouse-piece aur fabric description verify karein.\n- “Silk” ke naam par aksar **art silk ya silk blend** hota hai—pure silk samajhkar order na karein.\n- Return policy, delivery date aur blouse stitching cost check karein.\n- ₹300–₹600 range mein quality inconsistent ho sakti hai; trusted seller aur high-rating product chunna behtar hai.\n\n**Sabse balanced recommendation:** ₹900–₹1,300 ki **silk-blend Banarasi-look ya embroidered saree**, matching blouse aur simple jewellery ke saath—budget-friendly bhi lagegi aur shaadi ke liye elegant bhi.[6]",
+          "annotations": [
+           {
+            "title": "www.flipkart.com › q › bridal-sareesBridal Sarees - Buy Bridal Saree online at Best Prices in ...",
+            "url": "https://www.flipkart.com/q/bridal-sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Wedding Sarees: Shop Latest Collection Online in India - Meesho",
+            "url": "https://www.meesho.com/wedding-sarees/pl/3li",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Sarees",
+            "url": "https://www.meesho.com/sarees/pl/3iy",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Wedding Sari Online | Latest Sari Design at Low Price - Meesho",
+            "url": "https://www.meesho.com/hi/wedding-sari/pl/8wr",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Bridal Saree: Shop Wedding Dulhan Sarees Online India",
+            "url": "https://www.meesho.com/bridal-saree/pl/817",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shop Latest Indian Wedding Sarees Online - Libas",
+            "url": "https://www.libas.in/collections/wedding-sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.indianweddingsaree.com › sareesIndian Sarees - Bridal Wedding Sarees, Party Wear & Bollywood ...",
+            "url": "https://www.indianweddingsaree.com/sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Designer Wedding Dresses in India at Cbazaar",
+            "url": "https://www.cbazaar.com/in/wedding",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shaadi Party Wear Saree (@50% OFF) - Gulbhahar",
+            "url": "https://www.gulbhahar.com/collections/shaadi-party-wear-saree",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "New Saree Collection Online for Women | Gulbhahar",
+            "url": "https://www.gulbhahar.com/collections/new-saree-collection",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

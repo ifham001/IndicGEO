@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S05",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 1,
+  "promptText": "Which serum should I buy for acne-prone skin in India under ₹700?",
+  "cellId": "S05_en_gemini_r1",
+  "startedAt": "2026-10-13T13:58:29.022Z",
+  "finishedAt": "2026-10-13T13:58:52.377Z",
+  "durationMs": 23355,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T13:57:41.065Z",
+    "error": "DataForSEO gemini task error 40102: No Search Results."
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "For acne-prone skin, serums containing **Salicylic Acid (BHA)**, **Niacinamide**, or **Azelaic Acid** work best because they clear pores, control excess oil, and reduce active breakouts.[www.purplle.com](https://www.purplle.com/collections/serum-essence-salicylic-acid-serum-and-essence#:~:text=*%20Garnier%20Vitamin%20C%20%2B%20Face%20Serum,ml%2030%20ml.%20*%20The%20Derma%20Co.)\n\nHere are top-rated face serum options available in India under ₹700:\n\nThe HYPHEN Anti Acne Daily Serum combines **2% Salicylic Acid** and **10% Azelaic Acid** to target active acne, reduce post-blemish marks, and regulate oil.\n\nThe Pilgrim Salicylic Acid & Niacinamide Oil Control Serum uses a blend of **2% BHA** and **3% Niacinamide** to gently exfoliate pores, smooth skin texture, and prevent future breakouts.\n\nThe Avimee Herbal Salicylic Acid Face Serum features **2% Salicylic Acid**, **Tea Tree Oil**, and **Hyaluronic Acid** to clear out sebum and unclog pores while keeping skin hydrated.\n\nThe Dermistry Salicylic Acid Zinc Face Serum pairs **Salicylic Acid** with **Zinc** to reduce active acne, calm redness and inflammation, and minimize the appearance of scars.\n\nThe Fixderma Anti Acne Serum contains **2% Salicylic Acid** along with **Azelaic Acid** and **Mandelic Acid** to target stubborn breakouts, dark spots, and excess sebum.\n\n### Summary Recommendation\n\n* Choose **HYPHEN** or **Fixderma** if you want a multi-acid approach targeting both active breakouts and leftover marks.\n* Choose **Pilgrim** for an everyday lightweight option that balances oil production with niacinamide.\n\nIf you like, I can help you build a complete beginner-friendly skincare routine for acne-prone skin tailored to your budget. Do you want me to do that?",
+  "citations": [
+   {
+    "url": "https://www.purplle.com/collections/serum-essence-salicylic-acid-serum-and-essence#:~:text=*%20Garnier%20Vitamin%20C%20%2B%20Face%20Serum,ml%2030%20ml.%20*%20The%20Derma%20Co.",
+    "source_name": "Purplle",
+    "position": 1
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "22.6637 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131358-2163-0629-0000-d75f5584af85",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "22.5799 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Which serum should I buy for acne-prone skin in India under ₹700?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which serum should I buy for acne-prone skin in India under ₹700?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:58:54 +00:00",
+      "markdown": "For acne-prone skin, serums containing **Salicylic Acid (BHA)**, **Niacinamide**, or **Azelaic Acid** work best because they clear pores, control excess oil, and reduce active breakouts.[www.purplle.com](https://www.purplle.com/collections/serum-essence-salicylic-acid-serum-and-essence#:~:text=*%20Garnier%20Vitamin%20C%20%2B%20Face%20Serum,ml%2030%20ml.%20*%20The%20Derma%20Co.)\n\nHere are top-rated face serum options available in India under ₹700:\n\nThe HYPHEN Anti Acne Daily Serum combines **2% Salicylic Acid** and **10% Azelaic Acid** to target active acne, reduce post-blemish marks, and regulate oil.\n\nThe Pilgrim Salicylic Acid & Niacinamide Oil Control Serum uses a blend of **2% BHA** and **3% Niacinamide** to gently exfoliate pores, smooth skin texture, and prevent future breakouts.\n\nThe Avimee Herbal Salicylic Acid Face Serum features **2% Salicylic Acid**, **Tea Tree Oil**, and **Hyaluronic Acid** to clear out sebum and unclog pores while keeping skin hydrated.\n\nThe Dermistry Salicylic Acid Zinc Face Serum pairs **Salicylic Acid** with **Zinc** to reduce active acne, calm redness and inflammation, and minimize the appearance of scars.\n\nThe Fixderma Anti Acne Serum contains **2% Salicylic Acid** along with **Azelaic Acid** and **Mandelic Acid** to target stubborn breakouts, dark spots, and excess sebum.\n\n### Summary Recommendation\n\n* Choose **HYPHEN** or **Fixderma** if you want a multi-acid approach targeting both active breakouts and leftover marks.\n* Choose **Pilgrim** for an everyday lightweight option that balances oil production with niacinamide.\n\nIf you like, I can help you build a complete beginner-friendly skincare routine for acne-prone skin tailored to your budget. Do you want me to do that?",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Buy Salicylic Acid Serums Online at Best Prices in India | Purplle",
+        "snippet": "* Garnier Vitamin C + Face Serum for Skin Brightening & Anti-Dark \nSpots|100X Stronger than Vit C |2% Niacinamide 0.5% Salicylic Acid / BHA \n|Suitable for Oily, D...",
+        "domain": "www.purplle.com",
+        "url": "https://www.purplle.com/collections/serum-essence-salicylic-acid-serum-and-essence#:~:text=*%20Garnier%20Vitamin%20C%20%2B%20Face%20Serum,ml%2030%20ml.%20*%20The%20Derma%20Co.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT1ZvetK5ggSTzt9NJvw1NljhBffv2PHtR1UQUSrU18Luuu_d1Kpzjw9GAOV0Xk_pWwaIIJEB7Ccn2tS2qK7sMdCnzlBs1DUVBqkg",
+        "source_name": "Purplle",
+        "publication_date": null,
+        "markdown": "For acne-prone skin, serums containing **Salicylic Acid (BHA)**, **Niacinamide**, or **Azelaic Acid** work best because they clear pores, control excess oil, and reduce active breakouts."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 10,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "For acne-prone skin, serums containing **Salicylic Acid (BHA)**, **Niacinamide**, or **Azelaic Acid** work best because they clear pores, control excess oil, and reduce active breakouts.[www.purplle.com](https://www.purplle.com/collections/serum-essence-salicylic-acid-serum-and-essence#:~:text=*%20Garnier%20Vitamin%20C%20%2B%20Face%20Serum,ml%2030%20ml.%20*%20The%20Derma%20Co.)",
+        "original_text": "For acne-prone skin, serums containing Salicylic Acid (BHA), Niacinamide, or Azelaic Acid work best because they clear pores, control excess oil, and reduce active breakouts.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Buy Salicylic Acid Serums Online at Best Prices in India | Purplle",
+          "snippet": "* Garnier Vitamin C + Face Serum for Skin Brightening & Anti-Dark \nSpots|100X Stronger than Vit C |2% Niacinamide 0.5% Salicylic Acid / BHA \n|Suitable for Oily, D...",
+          "domain": "www.purplle.com",
+          "url": "https://www.purplle.com/collections/serum-essence-salicylic-acid-serum-and-essence#:~:text=*%20Garnier%20Vitamin%20C%20%2B%20Face%20Serum,ml%2030%20ml.%20*%20The%20Derma%20Co.",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT1ZvetK5ggSTzt9NJvw1NljhBffv2PHtR1UQUSrU18Luuu_d1Kpzjw9GAOV0Xk_pWwaIIJEB7Ccn2tS2qK7sMdCnzlBs1DUVBqkg",
+          "source_name": "Purplle",
+          "publication_date": null,
+          "markdown": "For acne-prone skin, serums containing **Salicylic Acid (BHA)**, **Niacinamide**, or **Azelaic Acid** work best because they clear pores, control excess oil, and reduce active breakouts."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Here are top-rated face serum options available in India under ₹700:",
+        "original_text": "Here are top-rated face serum options available in India under ₹700:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "The HYPHEN Anti Acne Daily Serum combines **2% Salicylic Acid** and **10% Azelaic Acid** to target active acne, reduce post-blemish marks, and regulate oil.",
+        "original_text": "The HYPHEN Anti Acne Daily Serum combines 2% Salicylic Acid and 10% Azelaic Acid to target active acne, reduce post-blemish marks, and regulate oil.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "The Pilgrim Salicylic Acid & Niacinamide Oil Control Serum uses a blend of **2% BHA** and **3% Niacinamide** to gently exfoliate pores, smooth skin texture, and prevent future breakouts.",
+        "original_text": "The Pilgrim Salicylic Acid & Niacinamide Oil Control Serum uses a blend of 2% BHA and 3% Niacinamide to gently exfoliate pores, smooth skin texture, and prevent future breakouts.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "The Avimee Herbal Salicylic Acid Face Serum features **2% Salicylic Acid**, **Tea Tree Oil**, and **Hyaluronic Acid** to clear out sebum and unclog pores while keeping skin hydrated.",
+        "original_text": "The Avimee Herbal Salicylic Acid Face Serum features 2% Salicylic Acid, Tea Tree Oil, and Hyaluronic Acid to clear out sebum and unclog pores while keeping skin hydrated.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "The Dermistry Salicylic Acid Zinc Face Serum pairs **Salicylic Acid** with **Zinc** to reduce active acne, calm redness and inflammation, and minimize the appearance of scars.",
+        "original_text": "The Dermistry Salicylic Acid Zinc Face Serum pairs Salicylic Acid with Zinc to reduce active acne, calm redness and inflammation, and minimize the appearance of scars.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "The Fixderma Anti Acne Serum contains **2% Salicylic Acid** along with **Azelaic Acid** and **Mandelic Acid** to target stubborn breakouts, dark spots, and excess sebum.",
+        "original_text": "The Fixderma Anti Acne Serum contains 2% Salicylic Acid along with Azelaic Acid and Mandelic Acid to target stubborn breakouts, dark spots, and excess sebum.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### Summary Recommendation",
+        "original_text": "Summary Recommendation",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "* Choose **HYPHEN** or **Fixderma** if you want a multi-acid approach targeting both active breakouts and leftover marks.\n* Choose **Pilgrim** for an everyday lightweight option that balances oil production with niacinamide.",
+        "original_text": "Choose HYPHEN or Fixderma if you want a multi-acid approach targeting both active breakouts and leftover marks.\nChoose Pilgrim for an everyday lightweight option that balances oil production with niacinamide.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "If you like, I can help you build a complete beginner-friendly skincare routine for acne-prone skin tailored to your budget. Do you want me to do that?",
+        "original_text": "If you like, I can help you build a complete beginner-friendly skincare routine for acne-prone skin tailored to your budget. Do you want me to do that?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

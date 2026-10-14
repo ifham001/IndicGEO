@@ -1,0 +1,472 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F02",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "chatgpt",
+  "rep": 2,
+  "promptText": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+  "cellId": "F02_en_chatgpt_r2",
+  "startedAt": "2026-10-13T13:34:14.753Z",
+  "finishedAt": "2026-10-13T13:34:53.869Z",
+  "durationMs": 39116,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "If I were buying running shoes in India with a budget of ₹3,000, I’d prioritize **cushioning, a comfortable fit, and grip on roads** over brand name alone.\n\nMy first choice would be a Decathlon running shoe for regular jogging, or an ASICS or Nike model if you find a genuine pair on sale within budget. Here are the strongest options I found in current shopping results.\n\n## My top 4 picks under ₹3,000\n\n\n\n(My top pick)\n\n**Decathlon Kiprun Men Jogflow 190.1 Superior Grip Cushioned R…**\n\n## ₹2,499\n\nRating: 4.6/5 · 1600 reviews\n\nA good starting point for regular jogging, with cushioning and grip for everyday road runs.\n\nSold by Decathlon Sports India\n\n[Check price and sizes](https://www.decathlon.in/)\n\n---\n\n\n\n**Decathlon Running Shoes for Men JOGFLOW 100 Superior Grip Cu…**\n\n## ₹1,599\n\nRating: 4.6/5 · 3800 reviews\n\n**Best value for beginners.** Worth considering if you're starting with short runs, brisk walks, or a few kilometres a week.\n\nSold by Decathlon Sports India\n\n[Check on Decathlon India](https://www.decathlon.in/)\n\n---\n\n\n\n**Campus DRIVO Men Running Shoes**\n\n## ₹1,249\n\nRating: 5/5 · 9 reviews\n\n**Best budget alternative.** A lower-cost option for casual jogging and everyday use. The review count is still small, so don't rely on the rating alone.\n\nSold by Campus Shoes + others\n\n[Shop at Campus Shoes](https://www.campusshoes.com/)\n\n---\n\n\n\n**Nivia Marathon Running Shoes For Men**\n\n## ₹899\n\nRating: 4.2/5 · 30 reviews\n\n**Lowest-cost option.** Consider this for light jogging and general fitness if it fits your foot comfortably.\n\nSold by Amazon.in\n\n[Check buying options](https://www.amazon.in/)\n\nThese are listed prices, not guaranteed checkout prices; verify your size, colour, delivery charges, and return policy before ordering. The shopping results don't establish that every pair has been independently tested.\n\nFor additional comparisons, these guides discuss more models in this price range: [2026 budget running-shoe guide](https://buyrn.in/article/best-running-shoes-under-3000-india) and [running shoes under ₹3,000](https://urbanstylefootwear.com/best-running-shoes-under-3000-india/)\\. [buyrn.in](https://buyrn.in/article/best-running-shoes-under-3000-india)[urbanstylefootwear.com](https://urbanstylefootwear.com/best-running-shoes-under-3000-india/)\n\n## Help me pick the right one for you\n\nOne quick question: **what will you mainly use the shoes for?**\n\n1\\. Your main use\n\nWalking and daily wear\n\nJogging or running 3–5 km\n\nRegular 5–10 km runs\n\nGym and mixed workouts\n\n---\n\n2\\. Foot width\n\nNarrow\n\nRegular\n\nWide feet\n\nNot sure\n\n---\n\n3\\. Shoe category\n\nMen's\n\nWomen's\n\nUnisex / either\n\n---\n\n4\\. Preferred spend\n\nUnder ₹1,500\n\n₹1,500–₹2,500\n\n₹2,500–₹3,000\n\n[Find my best pair]",
+  "citations": [
+   {
+    "url": "https://www.decathlon.in/",
+    "source_name": null,
+    "position": 1
+   },
+   {
+    "url": "https://www.campusshoes.com/",
+    "source_name": null,
+    "position": 2
+   },
+   {
+    "url": "https://www.amazon.in/",
+    "source_name": null,
+    "position": 3
+   },
+   {
+    "url": "https://buyrn.in/article/best-running-shoes-under-3000-india",
+    "source_name": null,
+    "position": 4
+   },
+   {
+    "url": "https://urbanstylefootwear.com/best-running-shoes-under-3000-india/",
+    "source_name": null,
+    "position": 5
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "38.7695 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131334-2163-0629-0000-dad8e5df8b65",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "38.6517 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "chat_gpt",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "chat_gpt",
+     "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+     "location_code": 2356,
+     "language_code": "en",
+     "force_web_search": true,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "I want to buy running shoes under ₹3000 in India. Which ones should I get?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=I%20want%20to%20buy%20running%20shoes%20under%20%E2%82%B93000%20in%20India.%20Which%20ones%20should%20I%20get%3F&hints=search",
+      "datetime": "2026-10-13 13:34:53 +00:00",
+      "markdown": "If I were buying running shoes in India with a budget of ₹3,000, I’d prioritize **cushioning, a comfortable fit, and grip on roads** over brand name alone.\n\nMy first choice would be a Decathlon running shoe for regular jogging, or an ASICS or Nike model if you find a genuine pair on sale within budget. Here are the strongest options I found in current shopping results.\n\n## My top 4 picks under ₹3,000\n\n\n\n(My top pick)\n\n**Decathlon Kiprun Men Jogflow 190.1 Superior Grip Cushioned R…**\n\n## ₹2,499\n\nRating: 4.6/5 · 1600 reviews\n\nA good starting point for regular jogging, with cushioning and grip for everyday road runs.\n\nSold by Decathlon Sports India\n\n[Check price and sizes](https://www.decathlon.in/)\n\n---\n\n\n\n**Decathlon Running Shoes for Men JOGFLOW 100 Superior Grip Cu…**\n\n## ₹1,599\n\nRating: 4.6/5 · 3800 reviews\n\n**Best value for beginners.** Worth considering if you're starting with short runs, brisk walks, or a few kilometres a week.\n\nSold by Decathlon Sports India\n\n[Check on Decathlon India](https://www.decathlon.in/)\n\n---\n\n\n\n**Campus DRIVO Men Running Shoes**\n\n## ₹1,249\n\nRating: 5/5 · 9 reviews\n\n**Best budget alternative.** A lower-cost option for casual jogging and everyday use. The review count is still small, so don't rely on the rating alone.\n\nSold by Campus Shoes + others\n\n[Shop at Campus Shoes](https://www.campusshoes.com/)\n\n---\n\n\n\n**Nivia Marathon Running Shoes For Men**\n\n## ₹899\n\nRating: 4.2/5 · 30 reviews\n\n**Lowest-cost option.** Consider this for light jogging and general fitness if it fits your foot comfortably.\n\nSold by Amazon.in\n\n[Check buying options](https://www.amazon.in/)\n\nThese are listed prices, not guaranteed checkout prices; verify your size, colour, delivery charges, and return policy before ordering. The shopping results don't establish that every pair has been independently tested.\n\nFor additional comparisons, these guides discuss more models in this price range: [2026 budget running-shoe guide](https://buyrn.in/article/best-running-shoes-under-3000-india) and [running shoes under ₹3,000](https://urbanstylefootwear.com/best-running-shoes-under-3000-india/)\\. [buyrn.in](https://buyrn.in/article/best-running-shoes-under-3000-india)[urbanstylefootwear.com](https://urbanstylefootwear.com/best-running-shoes-under-3000-india/)\n\n## Help me pick the right one for you\n\nOne quick question: **what will you mainly use the shoes for?**\n\n1\\. Your main use\n\nWalking and daily wear\n\nJogging or running 3–5 km\n\nRegular 5–10 km runs\n\nGym and mixed workouts\n\n---\n\n2\\. Foot width\n\nNarrow\n\nRegular\n\nWide feet\n\nNot sure\n\n---\n\n3\\. Shoe category\n\nMen's\n\nWomen's\n\nUnisex / either\n\n---\n\n4\\. Preferred spend\n\nUnder ₹1,500\n\n₹1,500–₹2,500\n\n₹2,500–₹3,000\n\n[Find my best pair]",
+      "search_results": [
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.runnersworld.com/gear/a74054373/prime-day-big-deal-days-marathon-gear-sales/",
+        "domain": "www.runnersworld.com",
+        "title": "Prime Big Deal Days Are Packed With Marathon Gear Sales. These 10 Picks Are Worth Your Money",
+        "description": "Today marks the final day of Amazon's Prime Big Deal Days, offering substantial discounts on a wide range of marathon gear. Featured items include Nike Revolution 8 running shoes, praised for their lightweight design and performance, now available at nearly 30% off. Shokz OpenRun Pro 2 headphones, known for their bone-conduction tech and long battery life, are also 30% off. Additional deals include the Nathan Hydration Belt, Saucony RunDry Performance Socks in bulk, and Goodr sunglasses—commended for their affordability and fit—at 20% off. Seasonal running shorts from Baleaf and SloothFeel, the multi-purpose Aquaphor healing balm, Tailwind Nutrition Endurance Fuel, and Oars + Alps sunscreen are all discounted as well. Carefully curated by editors and testers, these deals cater to runners preparing for races, providing expert-recommended, high-performance gear at reduced prices.",
+        "breadcrumb": "www.runnersworld.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.goodhousekeeping.com/what-to-buy/clothing/a74066318/new-balance-sneaker-prime-day-deals/",
+        "domain": "www.goodhousekeeping.com",
+        "title": "These New Balance Running Shoes Beat 75 Sneakers in Our Tests-Now They're 41% Off for Prime Day",
+        "description": "During Amazon's October Prime Day (October 6-7), shoppers can find significant discounts on New Balance sneakers, with some pairs priced up to 41% off. This includes the top-rated running shoes worn by a Good Housekeeping editor during a marathon. The article highlights that New Balance offers a wide range of high-performing footwear, including running shoes, cross trainers, casual footwear, and walking shoes. According to tests performed by the Good Housekeeping Institute Textiles Lab, New Balance shoes stood out among over 75 sneaker options tested, including their top pick for the best running shoes, which is currently on sale. The deals provide a limited-time opportunity for consumers to purchase editor-recommended, high-quality athletic footwear at discounted prices.",
+        "breadcrumb": "www.goodhousekeeping.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://urbanstylefootwear.com/best-running-shoes-under-3000-india/",
+        "domain": "urbanstylefootwear.com",
+        "title": "Best Running Shoes Under ₹3000 India 2026 (5 Tested Picks)",
+        "description": null,
+        "breadcrumb": "urbanstylefootwear.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://buyrn.in/article/best-running-shoes-under-3000-india",
+        "domain": "buyrn.in",
+        "title": "Best Running Shoes Under ₹3,000 in India (2026) | Buyrn",
+        "description": null,
+        "breadcrumb": "buyrn.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://www.someinfo.in/picks/best-running-shoes-under-3000-india",
+        "domain": "www.someinfo.in",
+        "title": "5 Best Running Shoes for Men Under ₹3,000 in India (2026): Budget Daily Trainers Ranked - Ranked Someinfo Picks",
+        "description": null,
+        "breadcrumb": "www.someinfo.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://reviehub.in/best-budget-running-shoes-under-%E2%82%B93000-in-2026-top-5-tested/",
+        "domain": "reviehub.in",
+        "title": "Best Budget Running Shoes Under ₹3000 in 2026 | Top 5 Tested – RevieHub India",
+        "description": null,
+        "breadcrumb": "reviehub.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://reviehub.in/best-running-shoes-under-%E2%82%B93000-in-india-2026-top-5-campus-picks/",
+        "domain": "reviehub.in",
+        "title": "Best Running Shoes Under ₹3000 in India 2026: Top 5 Campus Picks – RevieHub India",
+        "description": null,
+        "breadcrumb": "reviehub.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://reviehub.in/top-5-running-shoes-under-%E2%82%B93000-in-2026-tested/",
+        "domain": "reviehub.in",
+        "title": "Top 5 Running Shoes Under ₹3000 in 2026 | Tested – RevieHub India",
+        "description": null,
+        "breadcrumb": "reviehub.in"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://top5bestpicks.com/best-running-shoes-under-3000-india-2026/",
+        "domain": "top5bestpicks.com",
+        "title": "Best Running Shoes Under 3000 in India 2026: Top 5 Picks Tested and Ranked",
+        "description": null,
+        "breadcrumb": "top5bestpicks.com"
+       },
+       {
+        "type": "chatgpt_search_result",
+        "url": "https://magicdrop.in/drops/best-running-shoes-under-3000",
+        "domain": "magicdrop.in",
+        "title": "Best Running Shoes Under 3000 India 2026 | Magicdrop.in | MagicDrop",
+        "description": null,
+        "breadcrumb": "magicdrop.in"
+       }
+      ],
+      "sources": [
+       {
+        "type": "chat_gpt_source",
+        "title": "Check price and sizes",
+        "snippet": null,
+        "domain": "www.decathlon.in",
+        "url": "https://www.decathlon.in/",
+        "thumbnail": null,
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "[Check price and sizes](https://www.decathlon.in/)"
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Shop at Campus Shoes",
+        "snippet": null,
+        "domain": "www.campusshoes.com",
+        "url": "https://www.campusshoes.com/",
+        "thumbnail": null,
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "[Shop at Campus Shoes](https://www.campusshoes.com/)"
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "Check buying options",
+        "snippet": null,
+        "domain": "www.amazon.in",
+        "url": "https://www.amazon.in/",
+        "thumbnail": null,
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "[Check buying options](https://www.amazon.in/)"
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "2026 budget running-shoe guide",
+        "snippet": null,
+        "domain": "buyrn.in",
+        "url": "https://buyrn.in/article/best-running-shoes-under-3000-india",
+        "thumbnail": null,
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "[2026 budget running-shoe guide](https://buyrn.in/article/best-running-shoes-under-3000-india)"
+       },
+       {
+        "type": "chat_gpt_source",
+        "title": "running shoes under ₹3,000",
+        "snippet": null,
+        "domain": "urbanstylefootwear.com",
+        "url": "https://urbanstylefootwear.com/best-running-shoes-under-3000-india/",
+        "thumbnail": null,
+        "source_name": null,
+        "publication_date": null,
+        "markdown": "[running shoes under ₹3,000](https://urbanstylefootwear.com/best-running-shoes-under-3000-india/)"
+       }
+      ],
+      "fan_out_queries": [
+       "best running shoes under ₹3000 India 2026 reviews prices"
+      ],
+      "brand_entities": [
+       {
+        "type": "chat_gpt_brand_entity",
+        "title": "Decathlon Kiprun Men Jogflow 190.1 Superior Grip Cushioned R…",
+        "category": "product",
+        "markdown": "Decathlon Kiprun Men Jogflow 190.1 Superior Grip Cushioned R…",
+        "urls": null
+       },
+       {
+        "type": "chat_gpt_brand_entity",
+        "title": "Decathlon Running Shoes for Men JOGFLOW 100 Superior Grip Cu…",
+        "category": "product",
+        "markdown": "Decathlon Running Shoes for Men JOGFLOW 100 Superior Grip Cu…",
+        "urls": null
+       },
+       {
+        "type": "chat_gpt_brand_entity",
+        "title": "Campus DRIVO Men Running Shoes",
+        "category": "product",
+        "markdown": "Campus DRIVO Men Running Shoes",
+        "urls": null
+       },
+       {
+        "type": "chat_gpt_brand_entity",
+        "title": "Nivia Marathon Running Shoes For Men",
+        "category": "product",
+        "markdown": "Nivia Marathon Running Shoes For Men",
+        "urls": null
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "chat_gpt_text",
+       "chat_gpt_images"
+      ],
+      "items_count": 9,
+      "items": [
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "If I were buying running shoes in India with a budget of ₹3,000, I’d prioritize **cushioning, a comfortable fit, and grip on roads** over brand name alone.\n\nMy first choice would be a Decathlon running shoe for regular jogging, or an ASICS or Nike model if you find a genuine pair on sale within budget. Here are the strongest options I found in current shopping results.\n\n## My top 4 picks under ₹3,000\n\n",
+        "sources": null,
+        "brand_entities": null
+       },
+       {
+        "type": "chat_gpt_images",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "markdown": null,
+        "items": null
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "markdown": "\n\n(My top pick)\n\n**Decathlon Kiprun Men Jogflow 190.1 Superior Grip Cushioned R…**\n\n## ₹2,499\n\nRating: 4.6/5 · 1600 reviews\n\nA good starting point for regular jogging, with cushioning and grip for everyday road runs.\n\nSold by Decathlon Sports India\n\n[Check price and sizes](https://www.decathlon.in/)\n\n---\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Check price and sizes",
+          "snippet": null,
+          "domain": "www.decathlon.in",
+          "url": "https://www.decathlon.in/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Check price and sizes](https://www.decathlon.in/)"
+         }
+        ],
+        "brand_entities": [
+         {
+          "type": "chat_gpt_brand_entity",
+          "title": "Decathlon Kiprun Men Jogflow 190.1 Superior Grip Cushioned R…",
+          "category": "product",
+          "markdown": "Decathlon Kiprun Men Jogflow 190.1 Superior Grip Cushioned R…",
+          "urls": null
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_images",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "markdown": null,
+        "items": null
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "markdown": "\n\n**Decathlon Running Shoes for Men JOGFLOW 100 Superior Grip Cu…**\n\n## ₹1,599\n\nRating: 4.6/5 · 3800 reviews\n\n**Best value for beginners.** Worth considering if you're starting with short runs, brisk walks, or a few kilometres a week.\n\nSold by Decathlon Sports India\n\n[Check on Decathlon India](https://www.decathlon.in/)\n\n---\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Check on Decathlon India",
+          "snippet": null,
+          "domain": "www.decathlon.in",
+          "url": "https://www.decathlon.in/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Check on Decathlon India](https://www.decathlon.in/)"
+         }
+        ],
+        "brand_entities": [
+         {
+          "type": "chat_gpt_brand_entity",
+          "title": "Decathlon Running Shoes for Men JOGFLOW 100 Superior Grip Cu…",
+          "category": "product",
+          "markdown": "Decathlon Running Shoes for Men JOGFLOW 100 Superior Grip Cu…",
+          "urls": null
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_images",
+        "rank_group": 3,
+        "rank_absolute": 6,
+        "markdown": null,
+        "items": null
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "markdown": "\n\n**Campus DRIVO Men Running Shoes**\n\n## ₹1,249\n\nRating: 5/5 · 9 reviews\n\n**Best budget alternative.** A lower-cost option for casual jogging and everyday use. The review count is still small, so don't rely on the rating alone.\n\nSold by Campus Shoes + others\n\n[Shop at Campus Shoes](https://www.campusshoes.com/)\n\n---\n\n",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Shop at Campus Shoes",
+          "snippet": null,
+          "domain": "www.campusshoes.com",
+          "url": "https://www.campusshoes.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Shop at Campus Shoes](https://www.campusshoes.com/)"
+         }
+        ],
+        "brand_entities": [
+         {
+          "type": "chat_gpt_brand_entity",
+          "title": "Campus DRIVO Men Running Shoes",
+          "category": "product",
+          "markdown": "Campus DRIVO Men Running Shoes",
+          "urls": null
+         }
+        ]
+       },
+       {
+        "type": "chat_gpt_images",
+        "rank_group": 4,
+        "rank_absolute": 8,
+        "markdown": null,
+        "items": null
+       },
+       {
+        "type": "chat_gpt_text",
+        "rank_group": 5,
+        "rank_absolute": 9,
+        "markdown": "\n\n**Nivia Marathon Running Shoes For Men**\n\n## ₹899\n\nRating: 4.2/5 · 30 reviews\n\n**Lowest-cost option.** Consider this for light jogging and general fitness if it fits your foot comfortably.\n\nSold by Amazon.in\n\n[Check buying options](https://www.amazon.in/)\n\nThese are listed prices, not guaranteed checkout prices; verify your size, colour, delivery charges, and return policy before ordering. The shopping results don't establish that every pair has been independently tested.\n\nFor additional comparisons, these guides discuss more models in this price range: [2026 budget running-shoe guide](https://buyrn.in/article/best-running-shoes-under-3000-india) and [running shoes under ₹3,000](https://urbanstylefootwear.com/best-running-shoes-under-3000-india/)\\. [buyrn.in](https://buyrn.in/article/best-running-shoes-under-3000-india)[urbanstylefootwear.com](https://urbanstylefootwear.com/best-running-shoes-under-3000-india/)\n\n## Help me pick the right one for you\n\nOne quick question: **what will you mainly use the shoes for?**\n\n1\\. Your main use\n\nWalking and daily wear\n\nJogging or running 3–5 km\n\nRegular 5–10 km runs\n\nGym and mixed workouts\n\n---\n\n2\\. Foot width\n\nNarrow\n\nRegular\n\nWide feet\n\nNot sure\n\n---\n\n3\\. Shoe category\n\nMen's\n\nWomen's\n\nUnisex / either\n\n---\n\n4\\. Preferred spend\n\nUnder ₹1,500\n\n₹1,500–₹2,500\n\n₹2,500–₹3,000\n\n[Find my best pair]",
+        "sources": [
+         {
+          "type": "chat_gpt_source",
+          "title": "Check buying options",
+          "snippet": null,
+          "domain": "www.amazon.in",
+          "url": "https://www.amazon.in/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Check buying options](https://www.amazon.in/)"
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "2026 budget running-shoe guide",
+          "snippet": null,
+          "domain": "buyrn.in",
+          "url": "https://buyrn.in/article/best-running-shoes-under-3000-india",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[2026 budget running-shoe guide](https://buyrn.in/article/best-running-shoes-under-3000-india)"
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "running shoes under ₹3,000",
+          "snippet": null,
+          "domain": "urbanstylefootwear.com",
+          "url": "https://urbanstylefootwear.com/best-running-shoes-under-3000-india/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[running shoes under ₹3,000](https://urbanstylefootwear.com/best-running-shoes-under-3000-india/)"
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Running Shoes Under ₹3,000 in India (2026)",
+          "snippet": null,
+          "domain": "buyrn.in",
+          "url": "https://buyrn.in/article/best-running-shoes-under-3000-india",
+          "thumbnail": null,
+          "source_name": "Buyrn",
+          "publication_date": "2024-01-15 00:00:00 +00:00",
+          "markdown": null
+         },
+         {
+          "type": "chat_gpt_source",
+          "title": "Best Running Shoes Under ₹3000 India 2026 (5 Tested Picks)",
+          "snippet": null,
+          "domain": "urbanstylefootwear.com",
+          "url": "https://urbanstylefootwear.com/best-running-shoes-under-3000-india/",
+          "thumbnail": null,
+          "source_name": "Urban Style Footwear",
+          "publication_date": "2026-05-07 00:00:00 +00:00",
+          "markdown": null
+         }
+        ],
+        "brand_entities": [
+         {
+          "type": "chat_gpt_brand_entity",
+          "title": "Nivia Marathon Running Shoes For Men",
+          "category": "product",
+          "markdown": "Nivia Marathon Running Shoes For Men",
+          "urls": null
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

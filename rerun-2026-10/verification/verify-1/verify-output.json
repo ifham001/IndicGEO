@@ -1,0 +1,164 @@
+{
+  "n_oct": 479,
+  "n_aug": 480,
+  "augCounts": {
+    "chatgpt_en": 80,
+    "gemini_en": 80,
+    "perplexity_en": 80,
+    "chatgpt_hg": 80,
+    "gemini_hg": 80,
+    "perplexity_hg": 80
+  },
+  "engines": {
+    "chatgpt": {
+      "within": 49.6,
+      "withinPairs": 560,
+      "cross": 48.8,
+      "crossPairs": 640,
+      "withinEn": 48.3,
+      "withinEnPairs": 280
+    },
+    "gemini": {
+      "within": 41.5,
+      "withinPairs": 553,
+      "cross": 39.5,
+      "crossPairs": 632,
+      "withinEn": 41.7,
+      "withinEnPairs": 273
+    },
+    "perplexity": {
+      "within": 76.1,
+      "withinPairs": 560,
+      "cross": 47.9,
+      "crossPairs": 640,
+      "withinEn": 72.5,
+      "withinEnPairs": 280
+    }
+  },
+  "cited": {
+    "chatgpt": {
+      "en": "80/80",
+      "enPct": 100,
+      "hg": "80/80",
+      "hgPct": 100,
+      "dropped": []
+    },
+    "gemini": {
+      "en": "58/79",
+      "enPct": 73.4,
+      "hg": "44/79",
+      "hgPct": 55.7,
+      "dropped": [
+        "S04_r5"
+      ]
+    },
+    "perplexity": {
+      "en": "80/80",
+      "enPct": 100,
+      "hg": "80/80",
+      "hgPct": 100,
+      "dropped": []
+    }
+  },
+  "perplexity_hg_devanagari": 2,
+  "perplexity_hg_n": 80,
+  "devByEngine": {
+    "chatgpt_en": 0,
+    "chatgpt_hg": 0,
+    "gemini_en": 0,
+    "gemini_hg": 1,
+    "perplexity_en": 0,
+    "perplexity_hg": 2
+  },
+  "topDomains": [
+    [
+      "amazon.in",
+      132
+    ],
+    [
+      "flipkart.com",
+      90
+    ],
+    [
+      "hindustantimes.com",
+      76
+    ],
+    [
+      "nykaa.com",
+      65
+    ],
+    [
+      "thedermaco.com",
+      64
+    ],
+    [
+      "google.com",
+      55
+    ],
+    [
+      "vogue.in",
+      47
+    ],
+    [
+      "grabon.in",
+      46
+    ],
+    [
+      "ndtvshopping.com",
+      46
+    ],
+    [
+      "myntra.com",
+      44
+    ]
+  ],
+  "topHosts": [
+    [
+      "amazon.in",
+      132
+    ],
+    [
+      "flipkart.com",
+      82
+    ],
+    [
+      "hindustantimes.com",
+      76
+    ],
+    [
+      "nykaa.com",
+      65
+    ],
+    [
+      "thedermaco.com",
+      64
+    ],
+    [
+      "google.com",
+      55
+    ],
+    [
+      "vogue.in",
+      47
+    ],
+    [
+      "grabon.in",
+      46
+    ],
+    [
+      "ndtvshopping.com",
+      46
+    ],
+    [
+      "myntra.com",
+      44
+    ]
+  ],
+  "badUrls": [],
+  "ppl_en_aug_vs_oct": 28.4,
+  "ppl_en_aug_vs_oct_pairs": 640,
+  "anomalies": [
+    "oct: skipped failed file S04_en_gemini_r5.failed.json",
+    "oct S04_en_gemini: 7 reps"
+  ]
+}

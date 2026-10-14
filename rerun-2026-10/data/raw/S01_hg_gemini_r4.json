@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S01",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 4,
+  "promptText": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+  "cellId": "S01_hg_gemini_r4",
+  "startedAt": "2026-10-13T13:54:12.727Z",
+  "finishedAt": "2026-10-13T13:54:43.550Z",
+  "durationMs": 30823,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein oily skin ke liye ₹500 ke andar kai acche face washes available hain jo excess oil aur acne control karne mein madad karte hain:\n\n* **Minimalist 2% Salicylic Acid Face Wash** (approx. ₹299): Oily aur acne-prone skin ke liye best hai. Yeh pores ko deep clean karta hai aur pimples ko rokta hai.\n* **Plum Green Tea Pore Cleansing Face Wash** (approx. ₹349 - ₹399): Glycolic acid aur green tea extract ke sath aata hai, jo skin ka oil balance maintain karta hai aur pores ko tight karta hai.\n* **Saslic DS Face Wash** (approx. ₹375 - ₹425): Ek dermatologist-recommended foaming face wash hai jisme 1% Salicylic Acid hota hai, jo stubborn oil aur acne ke liye bahut effective hai.\n* **Dot & Key CICA Face Wash** (approx. ₹395): Oily aur sensitive skin ke liye accha hai, jo oil control karne ke sath redness ko bhi calm karta hai.\n* **Derma Co. 1% Salicylic Acid Gel Face Wash** (approx. ₹349): Yeh oiliness aur active acne ko kam karne mein madad karta hai bina skin ko zyada dry kiye.\n\nAap inmein se apni skin sensitivity ke hisaab se koi bhi chun sakte hain. Aap apni skin par pehle se koi acne treatment use kar rahe hain kya?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "30.5970 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131354-2163-0629-0000-f2deb1bf7ece",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "30.5370 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:54:45 +00:00",
+      "markdown": "India mein oily skin ke liye ₹500 ke andar kai acche face washes available hain jo excess oil aur acne control karne mein madad karte hain:\n\n* **Minimalist 2% Salicylic Acid Face Wash** (approx. ₹299): Oily aur acne-prone skin ke liye best hai. Yeh pores ko deep clean karta hai aur pimples ko rokta hai.\n* **Plum Green Tea Pore Cleansing Face Wash** (approx. ₹349 - ₹399): Glycolic acid aur green tea extract ke sath aata hai, jo skin ka oil balance maintain karta hai aur pores ko tight karta hai.\n* **Saslic DS Face Wash** (approx. ₹375 - ₹425): Ek dermatologist-recommended foaming face wash hai jisme 1% Salicylic Acid hota hai, jo stubborn oil aur acne ke liye bahut effective hai.\n* **Dot & Key CICA Face Wash** (approx. ₹395): Oily aur sensitive skin ke liye accha hai, jo oil control karne ke sath redness ko bhi calm karta hai.\n* **Derma Co. 1% Salicylic Acid Gel Face Wash** (approx. ₹349): Yeh oiliness aur active acne ko kam karne mein madad karta hai bina skin ko zyada dry kiye.\n\nAap inmein se apni skin sensitivity ke hisaab se koi bhi chun sakte hain. Aap apni skin par pehle se koi acne treatment use kar rahe hain kya?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 3,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein oily skin ke liye ₹500 ke andar kai acche face washes available hain jo excess oil aur acne control karne mein madad karte hain:",
+        "original_text": "India mein oily skin ke liye ₹500 ke andar kai acche face washes available hain jo excess oil aur acne control karne mein madad karte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "* **Minimalist 2% Salicylic Acid Face Wash** (approx. ₹299): Oily aur acne-prone skin ke liye best hai. Yeh pores ko deep clean karta hai aur pimples ko rokta hai.\n* **Plum Green Tea Pore Cleansing Face Wash** (approx. ₹349 - ₹399): Glycolic acid aur green tea extract ke sath aata hai, jo skin ka oil balance maintain karta hai aur pores ko tight karta hai.\n* **Saslic DS Face Wash** (approx. ₹375 - ₹425): Ek dermatologist-recommended foaming face wash hai jisme 1% Salicylic Acid hota hai, jo stubborn oil aur acne ke liye bahut effective hai.\n* **Dot & Key CICA Face Wash** (approx. ₹395): Oily aur sensitive skin ke liye accha hai, jo oil control karne ke sath redness ko bhi calm karta hai.\n* **Derma Co. 1% Salicylic Acid Gel Face Wash** (approx. ₹349): Yeh oiliness aur active acne ko kam karne mein madad karta hai bina skin ko zyada dry kiye.",
+        "original_text": "Minimalist 2% Salicylic Acid Face Wash (approx. ₹299): Oily aur acne-prone skin ke liye best hai. Yeh pores ko deep clean karta hai aur pimples ko rokta hai.\nPlum Green Tea Pore Cleansing Face Wash (approx. ₹349 - ₹399): Glycolic acid aur green tea extract ke sath aata hai, jo skin ka oil balance maintain karta hai aur pores ko tight karta hai.\nSaslic DS Face Wash (approx. ₹375 - ₹425): Ek dermatologist-recommended foaming face wash hai jisme 1% Salicylic Acid hota hai, jo stubborn oil aur acne ke liye bahut effective hai.\nDot & Key CICA Face Wash (approx. ₹395): Oily aur sensitive skin ke liye accha hai, jo oil control karne ke sath redness ko bhi calm karta hai.\nDerma Co. 1% Salicylic Acid Gel Face Wash (approx. ₹349): Yeh oiliness aur active acne ko kam karne mein madad karta hai bina skin ko zyada dry kiye.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "Aap inmein se apni skin sensitivity ke hisaab se koi bhi chun sakte hain. Aap apni skin par pehle se koi acne treatment use kar rahe hain kya?",
+        "original_text": "Aap inmein se apni skin sensitivity ke hisaab se koi bhi chun sakte hain. Aap apni skin par pehle se koi acne treatment use kar rahe hain kya?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

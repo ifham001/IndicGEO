@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S05",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "perplexity",
+  "rep": 7,
+  "promptText": "Which serum should I buy for acne-prone skin in India under ₹700?",
+  "cellId": "S05_en_perplexity_r7",
+  "startedAt": "2026-10-13T14:32:41.404Z",
+  "finishedAt": "2026-10-13T14:32:45.146Z",
+  "durationMs": 3742,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "For acne-prone skin in India under ₹700, buy **Dot & Key Cica + 2% Salicylic Acid Serum**—listed at ₹550. It is the best fit if your main concerns are active pimples, blackheads, and oily skin.[1]\n\n- **How to use:** Apply 2–3 drops at night, 2–3 times weekly at first, then increase only if your skin tolerates it.\n- **Avoid combining initially with:** retinol, other exfoliating acids, or benzoyl peroxide.\n- **Always use:** a gentle moisturiser and broad-spectrum SPF 30+ in the daytime.\n- **For sensitive or dry skin:** choose a **5% niacinamide serum** instead, such as Minimalist 5% Niacinamide; it is gentler but less effective for clogged pores.\n- **For acne marks rather than active acne:** consider Minimalist Alpha Arbutin 2%, listed around ₹236, though it will not treat breakouts as well as salicylic acid.[2]\n\nPatch-test first. If acne is painful, cystic, widespread, or leaving scars, consult a dermatologist rather than relying on a cosmetic serum.",
+  "citations": [
+   {
+    "url": "https://www.ndtvshopping.com/beauty-and-grooming/acne-scar-serum-fade-marks-10958329",
+    "position": 1
+   },
+   {
+    "url": "https://www.amazon.in/face-serum-for-acne-prone-skin/s?k=face+serum+for+acne+prone+skin",
+    "position": 2
+   },
+   {
+    "url": "https://www.amazon.in/salicylic-acid-serum/s?k=salicylic+acid+serum",
+    "position": 3
+   },
+   {
+    "url": "https://www.amazon.in/best-salicylic-acid-serum/s?k=best+salicylic+acid+serum",
+    "position": 4
+   },
+   {
+    "url": "https://www.amazon.in/glycolic-acid-and-salicylic-serum/s?k=glycolic+acid+and+salicylic+acid+serum",
+    "position": 5
+   },
+   {
+    "url": "https://www.amazon.in/acne-prone-skin-care-products/s?k=acne+prone+skin+care+products",
+    "position": 6
+   },
+   {
+    "url": "https://www.1mg.com/categories/summer-essentials/acne-control-4556",
+    "position": 7
+   },
+   {
+    "url": "https://www.dotandkey.com/collections/serums-oils",
+    "position": 8
+   },
+   {
+    "url": "https://www.thebridalbox.com/articles/best-serum-for-acne-in-india/",
+    "position": 9
+   },
+   {
+    "url": "https://www.amazon.in/salicylic-acid-benzoyl-peroxide/s?k=salicylic+acid+benzoyl+peroxide",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.005277
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.5077 sec.",
+  "cost": 0.005877,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131432-2163-0612-0000-172c3b0efc9b",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.4472 sec.",
+    "cost": 0.005877,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "Which serum should I buy for acne-prone skin in India under ₹700?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 23,
+      "output_tokens": 254,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005277,
+      "datetime": "2026-10-13 14:32:47 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "For acne-prone skin in India under ₹700, buy **Dot & Key Cica + 2% Salicylic Acid Serum**—listed at ₹550. It is the best fit if your main concerns are active pimples, blackheads, and oily skin.[1]\n\n- **How to use:** Apply 2–3 drops at night, 2–3 times weekly at first, then increase only if your skin tolerates it.\n- **Avoid combining initially with:** retinol, other exfoliating acids, or benzoyl peroxide.\n- **Always use:** a gentle moisturiser and broad-spectrum SPF 30+ in the daytime.\n- **For sensitive or dry skin:** choose a **5% niacinamide serum** instead, such as Minimalist 5% Niacinamide; it is gentler but less effective for clogged pores.\n- **For acne marks rather than active acne:** consider Minimalist Alpha Arbutin 2%, listed around ₹236, though it will not treat breakouts as well as salicylic acid.[2]\n\nPatch-test first. If acne is painful, cystic, widespread, or leaving scars, consult a dermatologist rather than relying on a cosmetic serum.",
+          "annotations": [
+           {
+            "title": "Acne Scar Serum Fade Marks Under ₹700 From Novology, The ...",
+            "url": "https://www.ndtvshopping.com/beauty-and-grooming/acne-scar-serum-fade-marks-10958329",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Amazon.in: Face Serum For Acne Prone Skin",
+            "url": "https://www.amazon.in/face-serum-for-acne-prone-skin/s?k=face+serum+for+acne+prone+skin",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › salicylic-acid-serum › sAmazon.in: Salicylic Acid Serum",
+            "url": "https://www.amazon.in/salicylic-acid-serum/s?k=salicylic+acid+serum",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › best-salicylic-acid-serum › sAmazon.in: Best Salicylic Acid Serum",
+            "url": "https://www.amazon.in/best-salicylic-acid-serum/s?k=best+salicylic+acid+serum",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "1-48 of 510 results for \"glycolic acid and salicylic acid serum\"",
+            "url": "https://www.amazon.in/glycolic-acid-and-salicylic-serum/s?k=glycolic+acid+and+salicylic+acid+serum",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › acne-prone-skin-care-products › sAmazon.in: Acne Prone Skin Care Products",
+            "url": "https://www.amazon.in/acne-prone-skin-care-products/s?k=acne+prone+skin+care+products",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Acne Control Products Online in India | Tata 1mg",
+            "url": "https://www.1mg.com/categories/summer-essentials/acne-control-4556",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Best Face Serums Online in India by Dot & Key",
+            "url": "https://www.dotandkey.com/collections/serums-oils",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.thebridalbox.com › articles › best-serum-forBest Serums For Acne-Prone Skin: 12 Expert Picks For 2026",
+            "url": "https://www.thebridalbox.com/articles/best-serum-for-acne-in-india/",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.amazon.in › salicylic-acid-benzoyl-peroxide › sAmazon.in: Salicylic Acid Benzoyl Peroxide",
+            "url": "https://www.amazon.in/salicylic-acid-benzoyl-peroxide/s?k=salicylic+acid+benzoyl+peroxide",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

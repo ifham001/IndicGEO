@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F05",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "perplexity",
+  "rep": 7,
+  "promptText": "Which sarees should I buy online in India for a wedding on a budget?",
+  "cellId": "F05_en_perplexity_r7",
+  "startedAt": "2026-10-13T13:50:02.334Z",
+  "finishedAt": "2026-10-13T13:50:10.429Z",
+  "durationMs": 8095,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "For a wedding on a budget, choose a **Banarasi-style silk blend, georgette, organza, or chiffon saree** rather than expensive pure silk. Online Indian marketplaces list wedding-appropriate options from under ₹500, with more polished choices typically around ₹800–₹2,000.[1][2][3]\n\n## Best options by budget\n\n| Budget | Saree to buy | Best for |\n|---|---|---|\n| ₹500–₹800 | Embroidered georgette or chiffon with sequins | Reception, cocktail events |\n| ₹800–₹1,500 | Banarasi silk-blend with zari border | Versatile wedding guest look |\n| ₹1,000–₹2,000 | Organza saree with floral or sequin work | Day wedding, engagement |\n| ₹1,500–₹3,000 | Kanjeevaram-style art silk or soft silk | Traditional ceremonies |\n| ₹2,000–₹4,000 | Chanderi, linen-silk, or handloom cotton-silk | Elegant daytime wedding |\n\n## Best picks\n\n- **Banarasi silk-blend saree:** Looks rich, photographs well, and is generally more affordable than pure Banarasi silk.\n- **Organza floral saree:** Lightweight and fashionable; choose one with a contrasting blouse and zari or sequin border.\n- **Georgette sequin saree:** Easy to drape and ideal for an evening reception.\n- **Kanjeevaram-style art silk saree:** Gives a traditional appearance at a fraction of the cost of authentic silk.\n- **Chanderi or linen-silk saree:** Comfortable for summer or daytime weddings and can be reused for festivals.\n- **Pre-stitched saree:** Convenient if you are inexperienced with draping, though check measurements carefully.\n\nMeesho specifically lists budget categories such as georgette under ₹500, linen under ₹1,000, and silk-style sarees under ₹500; Flipkart listings also show Banarasi-style and traditional options around a few hundred rupees.[2][6]\n\n## Colours that look expensive\n\n- Emerald green with gold\n- Wine or maroon with antique zari\n- Royal blue with silver\n- Rani pink with gold\n- Mustard or yellow for a daytime function\n- Deep purple or navy for an evening reception\n\n## Buying checklist\n\n- Prefer listings with **customer photos**, detailed fabric descriptions, and a high return rate.\n- Check whether the blouse piece is included and whether it is **unstitched or stitched**.\n- Search for **“silk blend,” “art silk,” or “Banarasi-style”** unless the listing clearly verifies pure silk.\n- Avoid extremely low-priced sarees advertised as “pure Kanjeevaram” or “pure Banarasi”; they are often synthetic or imitation fabrics.\n- Buy at least 7–10 days early so alterations and returns remain possible.\n\n**Best overall choice:** a **wine, emerald, or royal-blue Banarasi silk-blend saree with a broad zari border**, budgeted at roughly ₹1,000–₹1,500. It offers the most traditional, dressy appearance without the cost of pure silk.[1][3]",
+  "citations": [
+   {
+    "url": "https://www.nykaafashion.com/women/indianwear/sarees/c/10",
+    "position": 1
+   },
+   {
+    "url": "https://www.meesho.com/sarees/pl/3iy",
+    "position": 2
+   },
+   {
+    "url": "https://www.meesho.com/sari/pl/8ee",
+    "position": 3
+   },
+   {
+    "url": "https://www.flipkart.com/womens-sarees/wedding~occasion/pr?sid=clo,8on,zpd,9og",
+    "position": 4
+   },
+   {
+    "url": "https://www.nykaafashion.com/dp/wedding-sarees",
+    "position": 5
+   },
+   {
+    "url": "https://www.flipkart.com/q/traditional-sarees",
+    "position": 6
+   },
+   {
+    "url": "https://www.meesho.com/hi/wedding-sari/pl/8wr",
+    "position": 7
+   },
+   {
+    "url": "https://www.flipkart.com/q/bridal-sarees",
+    "position": 8
+   },
+   {
+    "url": "https://www.meesho.com/bridal-silk-sarees/pl/812",
+    "position": 9
+   },
+   {
+    "url": "https://www.azafashions.com/collection/women/sarees",
+    "position": 10
+   }
+  ],
+  "costUsd": 0.005718
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "5.7058 sec.",
+  "cost": 0.006318,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131350-2163-0612-0000-7f9f5678ea96",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "5.6946 sec.",
+    "cost": 0.006318,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "perplexity",
+     "llm_responses",
+     "live"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "llm_responses",
+     "se": "perplexity",
+     "user_prompt": "Which sarees should I buy online in India for a wedding on a budget?",
+     "model_name": "sonar",
+     "web_search": true,
+     "web_search_country_iso_code": "IN"
+    },
+    "result": [
+     {
+      "model_name": "sonar",
+      "input_tokens": 23,
+      "output_tokens": 695,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005718,
+      "datetime": "2026-10-13 13:50:12 +00:00",
+      "items": [
+       {
+        "type": "message",
+        "sections": [
+         {
+          "type": "text",
+          "text": "For a wedding on a budget, choose a **Banarasi-style silk blend, georgette, organza, or chiffon saree** rather than expensive pure silk. Online Indian marketplaces list wedding-appropriate options from under ₹500, with more polished choices typically around ₹800–₹2,000.[1][2][3]\n\n## Best options by budget\n\n| Budget | Saree to buy | Best for |\n|---|---|---|\n| ₹500–₹800 | Embroidered georgette or chiffon with sequins | Reception, cocktail events |\n| ₹800–₹1,500 | Banarasi silk-blend with zari border | Versatile wedding guest look |\n| ₹1,000–₹2,000 | Organza saree with floral or sequin work | Day wedding, engagement |\n| ₹1,500–₹3,000 | Kanjeevaram-style art silk or soft silk | Traditional ceremonies |\n| ₹2,000–₹4,000 | Chanderi, linen-silk, or handloom cotton-silk | Elegant daytime wedding |\n\n## Best picks\n\n- **Banarasi silk-blend saree:** Looks rich, photographs well, and is generally more affordable than pure Banarasi silk.\n- **Organza floral saree:** Lightweight and fashionable; choose one with a contrasting blouse and zari or sequin border.\n- **Georgette sequin saree:** Easy to drape and ideal for an evening reception.\n- **Kanjeevaram-style art silk saree:** Gives a traditional appearance at a fraction of the cost of authentic silk.\n- **Chanderi or linen-silk saree:** Comfortable for summer or daytime weddings and can be reused for festivals.\n- **Pre-stitched saree:** Convenient if you are inexperienced with draping, though check measurements carefully.\n\nMeesho specifically lists budget categories such as georgette under ₹500, linen under ₹1,000, and silk-style sarees under ₹500; Flipkart listings also show Banarasi-style and traditional options around a few hundred rupees.[2][6]\n\n## Colours that look expensive\n\n- Emerald green with gold\n- Wine or maroon with antique zari\n- Royal blue with silver\n- Rani pink with gold\n- Mustard or yellow for a daytime function\n- Deep purple or navy for an evening reception\n\n## Buying checklist\n\n- Prefer listings with **customer photos**, detailed fabric descriptions, and a high return rate.\n- Check whether the blouse piece is included and whether it is **unstitched or stitched**.\n- Search for **“silk blend,” “art silk,” or “Banarasi-style”** unless the listing clearly verifies pure silk.\n- Avoid extremely low-priced sarees advertised as “pure Kanjeevaram” or “pure Banarasi”; they are often synthetic or imitation fabrics.\n- Buy at least 7–10 days early so alterations and returns remain possible.\n\n**Best overall choice:** a **wine, emerald, or royal-blue Banarasi silk-blend saree with a broad zari border**, budgeted at roughly ₹1,000–₹1,500. It offers the most traditional, dressy appearance without the cost of pure silk.[1][3]",
+          "annotations": [
+           {
+            "title": "Shop Sarees Online | Nykaa Fashion",
+            "url": "https://www.nykaafashion.com/women/indianwear/sarees/c/10",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.meesho.com › sarees › plBuy Sarees for Women Online in India | Meesho",
+            "url": "https://www.meesho.com/sarees/pl/3iy",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Sarees Online: Latest Sari Collection at Low Prices - Meesho",
+            "url": "https://www.meesho.com/sari/pl/8ee",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Wedding Sarees for Women Online",
+            "url": "https://www.flipkart.com/womens-sarees/wedding~occasion/pr?sid=clo,8on,zpd,9og",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shop Wedding Saree Online | Nykaa Fashion",
+            "url": "https://www.nykaafashion.com/dp/wedding-sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.flipkart.com › q › traditional-sareesTraditional Sarees - Buy Traditional Sarees online at Best ...",
+            "url": "https://www.flipkart.com/q/traditional-sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Wedding Sari Online | Latest Sari Design at Low Price - Meesho",
+            "url": "https://www.meesho.com/hi/wedding-sari/pl/8wr",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "www.flipkart.com › q › bridal-sareesBridal Sarees - Buy Bridal Saree online at Best Prices in ...",
+            "url": "https://www.flipkart.com/q/bridal-sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Shop Bridal Silk Sarees Online | Best Wedding Sarees - Meesho",
+            "url": "https://www.meesho.com/bridal-silk-sarees/pl/812",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           },
+           {
+            "title": "Buy Designer Sarees for Women Online in India",
+            "url": "https://www.azafashions.com/collection/women/sarees",
+            "start_index": null,
+            "end_index": null,
+            "text": null
+           }
+          ]
+         }
+        ]
+       }
+      ],
+      "fan_out_queries": null
+     }
+    ]
+   }
+  ]
+ }
+}

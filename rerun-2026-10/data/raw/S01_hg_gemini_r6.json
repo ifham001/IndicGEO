@@ -1,0 +1,203 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S01",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 6,
+  "promptText": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+  "cellId": "S01_hg_gemini_r6",
+  "startedAt": "2026-10-13T14:07:52.758Z",
+  "finishedAt": "2026-10-13T14:09:21.974Z",
+  "durationMs": 89216,
+  "attempt": 3,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T14:04:02.330Z",
+    "error": "This operation was aborted"
+   },
+   {
+    "attempt": 2,
+    "startedAt": "2026-10-13T14:05:54.837Z",
+    "error": "DataForSEO gemini task error 40102: No Search Results."
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein oily aur acne-prone skin ke liye 500 rupees ke andar kai saare behtareen face wash available hain jo extra oil ko control karte hain bina skin ko completely dry kiye. Yeh rahe kuch top recommendations:\n\n### 1. Derma Co 1% Salicylic Acid Gel Face Wash\n\n* **Price:** Around Rs. 349 for 100ml\n* **Kyun kharidein:** Yeh face wash oily aur acne-prone skin ke liye best maana jata hai. Ismein **Salicylic Acid** aur **Witch Hazel** hota hai jo pores ke andar jakar excess oil, dirt, aur impurities ko saaf karta hai aur pimples ko rokta hai.\n\n### 2. Plum Green Tea Pore Cleansing Face Wash\n\n* **Price:** Around Rs. 390 for 75ml\n* **Kyun kharidein:** Agar aapko gentle cleansing ke sath organic ingredients pasand hain, toh yeh ek accha option hai. Ismein **Green Tea extracts** aur **Glycolic Acid** hote hain jo oily skin ko mattify karte hain aur blemishes ko kam karne mein madad karte hain.\n\n### 3. Minimalist 2% Salicylic Acid Face Wash\n\n* **Price:** Around Rs. 299 for 100ml\n* **Kyun kharidein:** Yeh ek non-drying, sulfate-free formula hai. Ismein **LHA aur Salicylic Acid** ka blend hota hai jo deep cleansing karta hai aur blackheads/whiteheads ko control karta hai. Sensitive aur oily skin dono ke liye yeh kafi safe hai.\n\n### 4. Simple Kind to Skin Refreshing Facial Wash\n\n* **Price:** Around Rs. 395 for 150ml\n* **Kyun kharidein:** Agar aapki oily skin ke sath-sath sensitive skin bhi hai (yani harsh products se irritation hoti hai), toh yeh face wash best hai. Yeh **soap-free, artificial fragrance-free** aur gentle hai jo skin ko bina strip kiye clean karta hai.\n\n### 5. Re'equil Oil Control Face Wash\n\n* **Price:** Around Rs. 450 for 100ml\n* **Kyun kharidein:** Yeh specifically oily skin ke liye design kiya gaya hai. Yeh sebum production ko regulate karta hai aur skin ko long-lasting fresh look deta hai.\n\n---\n\n### Kuch Zaroori Tips Oily Skin ke Liye:\n\n* Din mein **maximum 2 baar** hi face wash karein, zyada baar dhone se skin aur zyada oil produce kar sakti hai.\n* Face wash ke baad ek lightweight, oil-free moisturizer (jaise gel-based moisturizer) zaroor lagayein.\n\nKya aap inmein se kisi specific ingredient (jaise Salicylic Acid ya Neem) wala face wash try karna chahte hain?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "88.5964 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131407-2163-0629-0000-ceb40fdb8d3b",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "88.4951 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:09:23 +00:00",
+      "markdown": "India mein oily aur acne-prone skin ke liye 500 rupees ke andar kai saare behtareen face wash available hain jo extra oil ko control karte hain bina skin ko completely dry kiye. Yeh rahe kuch top recommendations:\n\n### 1. Derma Co 1% Salicylic Acid Gel Face Wash\n\n* **Price:** Around Rs. 349 for 100ml\n* **Kyun kharidein:** Yeh face wash oily aur acne-prone skin ke liye best maana jata hai. Ismein **Salicylic Acid** aur **Witch Hazel** hota hai jo pores ke andar jakar excess oil, dirt, aur impurities ko saaf karta hai aur pimples ko rokta hai.\n\n### 2. Plum Green Tea Pore Cleansing Face Wash\n\n* **Price:** Around Rs. 390 for 75ml\n* **Kyun kharidein:** Agar aapko gentle cleansing ke sath organic ingredients pasand hain, toh yeh ek accha option hai. Ismein **Green Tea extracts** aur **Glycolic Acid** hote hain jo oily skin ko mattify karte hain aur blemishes ko kam karne mein madad karte hain.\n\n### 3. Minimalist 2% Salicylic Acid Face Wash\n\n* **Price:** Around Rs. 299 for 100ml\n* **Kyun kharidein:** Yeh ek non-drying, sulfate-free formula hai. Ismein **LHA aur Salicylic Acid** ka blend hota hai jo deep cleansing karta hai aur blackheads/whiteheads ko control karta hai. Sensitive aur oily skin dono ke liye yeh kafi safe hai.\n\n### 4. Simple Kind to Skin Refreshing Facial Wash\n\n* **Price:** Around Rs. 395 for 150ml\n* **Kyun kharidein:** Agar aapki oily skin ke sath-sath sensitive skin bhi hai (yani harsh products se irritation hoti hai), toh yeh face wash best hai. Yeh **soap-free, artificial fragrance-free** aur gentle hai jo skin ko bina strip kiye clean karta hai.\n\n### 5. Re'equil Oil Control Face Wash\n\n* **Price:** Around Rs. 450 for 100ml\n* **Kyun kharidein:** Yeh specifically oily skin ke liye design kiya gaya hai. Yeh sebum production ko regulate karta hai aur skin ko long-lasting fresh look deta hai.\n\n---\n\n### Kuch Zaroori Tips Oily Skin ke Liye:\n\n* Din mein **maximum 2 baar** hi face wash karein, zyada baar dhone se skin aur zyada oil produce kar sakti hai.\n* Face wash ke baad ek lightweight, oil-free moisturizer (jaise gel-based moisturizer) zaroor lagayein.\n\nKya aap inmein se kisi specific ingredient (jaise Salicylic Acid ya Neem) wala face wash try karna chahte hain?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 14,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein oily aur acne-prone skin ke liye 500 rupees ke andar kai saare behtareen face wash available hain jo extra oil ko control karte hain bina skin ko completely dry kiye. Yeh rahe kuch top recommendations:",
+        "original_text": "India mein oily aur acne-prone skin ke liye 500 rupees ke andar kai saare behtareen face wash available hain jo extra oil ko control karte hain bina skin ko completely dry kiye. Yeh rahe kuch top recommendations:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### 1. Derma Co 1% Salicylic Acid Gel Face Wash",
+        "original_text": "1. Derma Co 1% Salicylic Acid Gel Face Wash",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Price:** Around Rs. 349 for 100ml\n* **Kyun kharidein:** Yeh face wash oily aur acne-prone skin ke liye best maana jata hai. Ismein **Salicylic Acid** aur **Witch Hazel** hota hai jo pores ke andar jakar excess oil, dirt, aur impurities ko saaf karta hai aur pimples ko rokta hai.",
+        "original_text": "Price: Around Rs. 349 for 100ml\nKyun kharidein: Yeh face wash oily aur acne-prone skin ke liye best maana jata hai. Ismein Salicylic Acid aur Witch Hazel hota hai jo pores ke andar jakar excess oil, dirt, aur impurities ko saaf karta hai aur pimples ko rokta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### 2. Plum Green Tea Pore Cleansing Face Wash",
+        "original_text": "2. Plum Green Tea Pore Cleansing Face Wash",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "* **Price:** Around Rs. 390 for 75ml\n* **Kyun kharidein:** Agar aapko gentle cleansing ke sath organic ingredients pasand hain, toh yeh ek accha option hai. Ismein **Green Tea extracts** aur **Glycolic Acid** hote hain jo oily skin ko mattify karte hain aur blemishes ko kam karne mein madad karte hain.",
+        "original_text": "Price: Around Rs. 390 for 75ml\nKyun kharidein: Agar aapko gentle cleansing ke sath organic ingredients pasand hain, toh yeh ek accha option hai. Ismein Green Tea extracts aur Glycolic Acid hote hain jo oily skin ko mattify karte hain aur blemishes ko kam karne mein madad karte hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "### 3. Minimalist 2% Salicylic Acid Face Wash",
+        "original_text": "3. Minimalist 2% Salicylic Acid Face Wash",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **Price:** Around Rs. 299 for 100ml\n* **Kyun kharidein:** Yeh ek non-drying, sulfate-free formula hai. Ismein **LHA aur Salicylic Acid** ka blend hota hai jo deep cleansing karta hai aur blackheads/whiteheads ko control karta hai. Sensitive aur oily skin dono ke liye yeh kafi safe hai.",
+        "original_text": "Price: Around Rs. 299 for 100ml\nKyun kharidein: Yeh ek non-drying, sulfate-free formula hai. Ismein LHA aur Salicylic Acid ka blend hota hai jo deep cleansing karta hai aur blackheads/whiteheads ko control karta hai. Sensitive aur oily skin dono ke liye yeh kafi safe hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### 4. Simple Kind to Skin Refreshing Facial Wash",
+        "original_text": "4. Simple Kind to Skin Refreshing Facial Wash",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "* **Price:** Around Rs. 395 for 150ml\n* **Kyun kharidein:** Agar aapki oily skin ke sath-sath sensitive skin bhi hai (yani harsh products se irritation hoti hai), toh yeh face wash best hai. Yeh **soap-free, artificial fragrance-free** aur gentle hai jo skin ko bina strip kiye clean karta hai.",
+        "original_text": "Price: Around Rs. 395 for 150ml\nKyun kharidein: Agar aapki oily skin ke sath-sath sensitive skin bhi hai (yani harsh products se irritation hoti hai), toh yeh face wash best hai. Yeh soap-free, artificial fragrance-free aur gentle hai jo skin ko bina strip kiye clean karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "### 5. Re'equil Oil Control Face Wash",
+        "original_text": "5. Re'equil Oil Control Face Wash",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "* **Price:** Around Rs. 450 for 100ml\n* **Kyun kharidein:** Yeh specifically oily skin ke liye design kiya gaya hai. Yeh sebum production ko regulate karta hai aur skin ko long-lasting fresh look deta hai.",
+        "original_text": "Price: Around Rs. 450 for 100ml\nKyun kharidein: Yeh specifically oily skin ke liye design kiya gaya hai. Yeh sebum production ko regulate karta hai aur skin ko long-lasting fresh look deta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "### Kuch Zaroori Tips Oily Skin ke Liye:",
+        "original_text": "Kuch Zaroori Tips Oily Skin ke Liye:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "markdown": "* Din mein **maximum 2 baar** hi face wash karein, zyada baar dhone se skin aur zyada oil produce kar sakti hai.\n* Face wash ke baad ek lightweight, oil-free moisturizer (jaise gel-based moisturizer) zaroor lagayein.",
+        "original_text": "Din mein maximum 2 baar hi face wash karein, zyada baar dhone se skin aur zyada oil produce kar sakti hai.\nFace wash ke baad ek lightweight, oil-free moisturizer (jaise gel-based moisturizer) zaroor lagayein.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 14,
+        "rank_absolute": 14,
+        "markdown": "Kya aap inmein se kisi specific ingredient (jaise Salicylic Acid ya Neem) wala face wash try karna chahte hain?",
+        "original_text": "Kya aap inmein se kisi specific ingredient (jaise Salicylic Acid ya Neem) wala face wash try karna chahte hain?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

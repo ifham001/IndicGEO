@@ -1,0 +1,160 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F03",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 7,
+  "promptText": "India mein women ke liye online konse brand ke kurta sets kharidun?",
+  "cellId": "F03_hg_gemini_r7",
+  "startedAt": "2026-10-13T13:50:28.950Z",
+  "finishedAt": "2026-10-13T13:51:25.572Z",
+  "durationMs": 56621,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein online kurta sets kharidne ke liye aaj kal bohot saare behtareen brands available hain, jo alag-alag budget, style (jaise daily wear, festive, ya fusion), aur fabric preferences ke hisaab se best hain.\n\nYeh kuch top online brands hain jahan se aap bharose ke saath shopping kar sakti hain:\n\n---\n\n### 1. Daily Wear & Office Wear ke liye (Comfortable & Cotton)\n\n* **Libas:** Yeh sabse popular brands mein se ek hai. Yahan daily wear ke liye pure cotton, printed, aur simple-sober kurta sets aasaani se mil jaate hain jo pocket-friendly bhi hote hain.\n* **W for Woman:** Agar aapko thoda contemporary aur Indo-western fusion pasand hai, toh W ek shaandar option hai. Inke designs office aur college ke liye perfect hote hain.\n* **Biba:** Classic aur traditional look ke liye Biba ek trusted brand hai. Inke cotton aur anarkali sets ki quality kaafi acchi hoti hai.\n\n### 2. Festive, Wedding & Heavy Work ke liye (Ethnic & Designer)\n\n* **Aurelia:** Yeh W ka hi sister brand hai, lekin yahan thode zyada festive aur bright colors ke options milte hain jo daily aur semi-festive dono ke liye acche hain.\n* **Global Desi:** Agar aapko boho, vibrant, aur stylish prints pasand hain, toh Global Desi ke kurta sets aapko zaroor pasand aayenge.\n* **FabIndia:** Agar aapko handmade, handloom, ya authentic block prints (jaise Chanderi, Maheshwari, ya pure cotton/silk) pasand hain, toh FabIndia ka collection premium aur graceful hota hai.\n* **Jaypore / Tjori:** Agar aap thode artisan-made, traditional aur unique designer pieces dhoondh rahi hain, toh yeh platforms best hain.\n\n### 3. Budget-Friendly Options (Affordable Prices)\n\n* **Ida & Indya:** Modern cuts aur budget-friendly options ke liye yeh kaafi chal rahe hain.\n* **Myntra, Ajio, aur Tata CliQ:** Agar aapko ek hi jagah par alag-alag brands (jaise Anubhutee, Sangria, Malikha, etc.) ke discounted aur best offers chahiye, toh yeh multi-brand platforms sabse best hain.\n\n---\n\n### Shopping Tips:\n\n1.  **Fabric check karein:** Garmiyon ke liye **Pure Cotton** ya **Mulmul** best rehta hai, jabki sardi ya festivals ke liye **Silk blend, Rayon, ya Chanderi** accha lagta hai.\n2.  **Size chart zaroor dekhein:** Alag-alag brands ki sizing thodi alag ho sakti hai, isliye hamesha brand ka apna size chart dekh kar hi order karein.",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "56.3426 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131350-2163-0629-0000-2013d8463309",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "56.2113 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "India mein women ke liye online konse brand ke kurta sets kharidun?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein women ke liye online konse brand ke kurta sets kharidun?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:51:27 +00:00",
+      "markdown": "India mein online kurta sets kharidne ke liye aaj kal bohot saare behtareen brands available hain, jo alag-alag budget, style (jaise daily wear, festive, ya fusion), aur fabric preferences ke hisaab se best hain.\n\nYeh kuch top online brands hain jahan se aap bharose ke saath shopping kar sakti hain:\n\n---\n\n### 1. Daily Wear & Office Wear ke liye (Comfortable & Cotton)\n\n* **Libas:** Yeh sabse popular brands mein se ek hai. Yahan daily wear ke liye pure cotton, printed, aur simple-sober kurta sets aasaani se mil jaate hain jo pocket-friendly bhi hote hain.\n* **W for Woman:** Agar aapko thoda contemporary aur Indo-western fusion pasand hai, toh W ek shaandar option hai. Inke designs office aur college ke liye perfect hote hain.\n* **Biba:** Classic aur traditional look ke liye Biba ek trusted brand hai. Inke cotton aur anarkali sets ki quality kaafi acchi hoti hai.\n\n### 2. Festive, Wedding & Heavy Work ke liye (Ethnic & Designer)\n\n* **Aurelia:** Yeh W ka hi sister brand hai, lekin yahan thode zyada festive aur bright colors ke options milte hain jo daily aur semi-festive dono ke liye acche hain.\n* **Global Desi:** Agar aapko boho, vibrant, aur stylish prints pasand hain, toh Global Desi ke kurta sets aapko zaroor pasand aayenge.\n* **FabIndia:** Agar aapko handmade, handloom, ya authentic block prints (jaise Chanderi, Maheshwari, ya pure cotton/silk) pasand hain, toh FabIndia ka collection premium aur graceful hota hai.\n* **Jaypore / Tjori:** Agar aap thode artisan-made, traditional aur unique designer pieces dhoondh rahi hain, toh yeh platforms best hain.\n\n### 3. Budget-Friendly Options (Affordable Prices)\n\n* **Ida & Indya:** Modern cuts aur budget-friendly options ke liye yeh kaafi chal rahe hain.\n* **Myntra, Ajio, aur Tata CliQ:** Agar aapko ek hi jagah par alag-alag brands (jaise Anubhutee, Sangria, Malikha, etc.) ke discounted aur best offers chahiye, toh yeh multi-brand platforms sabse best hain.\n\n---\n\n### Shopping Tips:\n\n1.  **Fabric check karein:** Garmiyon ke liye **Pure Cotton** ya **Mulmul** best rehta hai, jabki sardi ya festivals ke liye **Silk blend, Rayon, ya Chanderi** accha lagta hai.\n2.  **Size chart zaroor dekhein:** Alag-alag brands ki sizing thodi alag ho sakti hai, isliye hamesha brand ka apna size chart dekh kar hi order karein.",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 10,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein online kurta sets kharidne ke liye aaj kal bohot saare behtareen brands available hain, jo alag-alag budget, style (jaise daily wear, festive, ya fusion), aur fabric preferences ke hisaab se best hain.",
+        "original_text": "India mein online kurta sets kharidne ke liye aaj kal bohot saare behtareen brands available hain, jo alag-alag budget, style (jaise daily wear, festive, ya fusion), aur fabric preferences ke hisaab se best hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Yeh kuch top online brands hain jahan se aap bharose ke saath shopping kar sakti hain:",
+        "original_text": "Yeh kuch top online brands hain jahan se aap bharose ke saath shopping kar sakti hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "### 1. Daily Wear & Office Wear ke liye (Comfortable & Cotton)",
+        "original_text": "1. Daily Wear & Office Wear ke liye (Comfortable & Cotton)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Libas:** Yeh sabse popular brands mein se ek hai. Yahan daily wear ke liye pure cotton, printed, aur simple-sober kurta sets aasaani se mil jaate hain jo pocket-friendly bhi hote hain.\n* **W for Woman:** Agar aapko thoda contemporary aur Indo-western fusion pasand hai, toh W ek shaandar option hai. Inke designs office aur college ke liye perfect hote hain.\n* **Biba:** Classic aur traditional look ke liye Biba ek trusted brand hai. Inke cotton aur anarkali sets ki quality kaafi acchi hoti hai.",
+        "original_text": "Libas: Yeh sabse popular brands mein se ek hai. Yahan daily wear ke liye pure cotton, printed, aur simple-sober kurta sets aasaani se mil jaate hain jo pocket-friendly bhi hote hain.\nW for Woman: Agar aapko thoda contemporary aur Indo-western fusion pasand hai, toh W ek shaandar option hai. Inke designs office aur college ke liye perfect hote hain.\nBiba: Classic aur traditional look ke liye Biba ek trusted brand hai. Inke cotton aur anarkali sets ki quality kaafi acchi hoti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. Festive, Wedding & Heavy Work ke liye (Ethnic & Designer)",
+        "original_text": "2. Festive, Wedding & Heavy Work ke liye (Ethnic & Designer)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Aurelia:** Yeh W ka hi sister brand hai, lekin yahan thode zyada festive aur bright colors ke options milte hain jo daily aur semi-festive dono ke liye acche hain.\n* **Global Desi:** Agar aapko boho, vibrant, aur stylish prints pasand hain, toh Global Desi ke kurta sets aapko zaroor pasand aayenge.\n* **FabIndia:** Agar aapko handmade, handloom, ya authentic block prints (jaise Chanderi, Maheshwari, ya pure cotton/silk) pasand hain, toh FabIndia ka collection premium aur graceful hota hai.\n* **Jaypore / Tjori:** Agar aap thode artisan-made, traditional aur unique designer pieces dhoondh rahi hain, toh yeh platforms best hain.",
+        "original_text": "Aurelia: Yeh W ka hi sister brand hai, lekin yahan thode zyada festive aur bright colors ke options milte hain jo daily aur semi-festive dono ke liye acche hain.\nGlobal Desi: Agar aapko boho, vibrant, aur stylish prints pasand hain, toh Global Desi ke kurta sets aapko zaroor pasand aayenge.\nFabIndia: Agar aapko handmade, handloom, ya authentic block prints (jaise Chanderi, Maheshwari, ya pure cotton/silk) pasand hain, toh FabIndia ka collection premium aur graceful hota hai.\nJaypore / Tjori: Agar aap thode artisan-made, traditional aur unique designer pieces dhoondh rahi hain, toh yeh platforms best hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "### 3. Budget-Friendly Options (Affordable Prices)",
+        "original_text": "3. Budget-Friendly Options (Affordable Prices)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Ida & Indya:** Modern cuts aur budget-friendly options ke liye yeh kaafi chal rahe hain.\n* **Myntra, Ajio, aur Tata CliQ:** Agar aapko ek hi jagah par alag-alag brands (jaise Anubhutee, Sangria, Malikha, etc.) ke discounted aur best offers chahiye, toh yeh multi-brand platforms sabse best hain.",
+        "original_text": "Ida & Indya: Modern cuts aur budget-friendly options ke liye yeh kaafi chal rahe hain.\nMyntra, Ajio, aur Tata CliQ: Agar aapko ek hi jagah par alag-alag brands (jaise Anubhutee, Sangria, Malikha, etc.) ke discounted aur best offers chahiye, toh yeh multi-brand platforms sabse best hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### Shopping Tips:",
+        "original_text": "Shopping Tips:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "1.  **Fabric check karein:** Garmiyon ke liye **Pure Cotton** ya **Mulmul** best rehta hai, jabki sardi ya festivals ke liye **Silk blend, Rayon, ya Chanderi** accha lagta hai.\n2.  **Size chart zaroor dekhein:** Alag-alag brands ki sizing thodi alag ho sakti hai, isliye hamesha brand ka apna size chart dekh kar hi order karein.",
+        "original_text": "Fabric check karein: Garmiyon ke liye Pure Cotton ya Mulmul best rehta hai, jabki sardi ya festivals ke liye Silk blend, Rayon, ya Chanderi accha lagta hai.\nSize chart zaroor dekhein: Alag-alag brands ki sizing thodi alag ho sakti hai, isliye hamesha brand ka apna size chart dekh kar hi order karein.",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S04",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 3,
+  "promptText": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+  "cellId": "S04_hg_gemini_r3",
+  "startedAt": "2026-10-13T14:04:06.327Z",
+  "finishedAt": "2026-10-13T14:05:26.369Z",
+  "durationMs": 80042,
+  "attempt": 3,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T14:01:20.006Z",
+    "error": "DataForSEO gemini task error 40102: No Search Results."
+   },
+   {
+    "attempt": 2,
+    "startedAt": "2026-10-13T14:02:31.476Z",
+    "error": "DataForSEO gemini task error 40102: No Search Results."
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "Indian winters mein dry skin ke liye aisi creams ya lotions best hote hain jo deep hydration dein aur skin ka moisture barrier lock karein. Kyunki winter ki thandi hawa skin ki nami (moisture) cheen leti hai, isliye aisi ingredients dekhein jo rich aur nourishing hon (jaise ki Ceramides, Hyaluronic Acid, Shea Butter, Glycerin, aur Petroleum Jelly).\n\nYahan kuch behtareen aur reliable moisturizers ki list hai jo Indian market mein easily mil jaate hain aur dry skin par bahut achha kaam karte hain:\n\n## 1. Budget-Friendly & Daily Use Options (Pharmacy & Drugstore)\n\n* **Cetaphil Moisturising Cream:**\n  *   * **Kiske liye best hai:** Extremely dry aur sensitive skin ke liye.\n  * **Kyun kharidein:** Yeh non-comedogenic hai (pores block nahi karta) aur isme Sweet Almond Oil aur Glycerin hai jo long-lasting hydration deta hai. Face aur body dono ke liye\n* **Bioderma Atoderm Creme:**\n  *   * **Kiske liye best hai:** Very dry, flaky, aur itchy skin ke liye.\n  * **Kyun kharidein:** Yeh skin ke natural barrier ko repair karta hai aur skin ko der tak soft rakhta hai.\n* **Physiogel Calming Relief AI Cream:**\n  *   * **Kiske liye best hai:** Redness ya winter eczema wali dry skin ke liye.\n  * **Kyun kharidein:** Advanced Bio-Mimic Technology par bani hai jo sensitive skin ko soothing effect deti hai.\n\n---\n\n## 2. Rich & Nourishing Options (Cosmetic & Over-The-Counter)\n\n* **Dot & Key Ceramides & Hyaluronic Barrier Repair Cream:**\n  *   * **Kiske liye best hai:** Winter mein dull aur dry hone wali skin ke liye.\n  * **Kyun kharidein:** Isme Ceramides aur Hyaluronic Acid ka combination hai jo skin ki moisture lock karne ki taqat ko badhata hai. Lightweight lagti hai par hydration deep deti hai.\n* **Plum Hello Aloe & Ceramides Super Moisturizer:**\n  *   * **Kiske liye best hai:** Combination to dry skin (agar heavy cream pasand na ho).\n  * **Kyun kharidein:** Budget-friendly hai, non-sticky hai, aur ceramides hone ki wajah se skin barrier strong karta hai.\n* **Nivea Creme (Blue Box):**\n  *   * **Kiske liye best hai:** Traditional heavy-duty winter care aur body dryness ke liye.\n  * **Kyun kharidein:** Yeh classic thick cream hai jo bahut zyada dry skin (jaise haath, pair, aur kohni) par magic ki tarah kaam karti hai. (Face par thodi heavy ho sakti hai).\n\n---\n\n## 💡 Winter Skin Care Tips:\n\n* **Kab lagayein:** Moisturizer hamesha nahane ke turant baad (jab skin halki geeli ho) lagayein, taaki moisture skin ke andar lock ho jaye.\n* **Layering:** Agar skin bohot zyada dry hai, toh pehle koi hydrating serum (jaise Hyaluronic Acid) lagakar upar se cream lagayein.\n\nKya aapko yeh moisturizer **face ke liye** chahiye ya **puri body ke liye**?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "79.4410 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131404-2163-0629-0000-24897d0a08da",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "79.3490 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Indian winters mein dry skin ke liye konsa moisturizer kharidna chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:05:28 +00:00",
+      "markdown": "Indian winters mein dry skin ke liye aisi creams ya lotions best hote hain jo deep hydration dein aur skin ka moisture barrier lock karein. Kyunki winter ki thandi hawa skin ki nami (moisture) cheen leti hai, isliye aisi ingredients dekhein jo rich aur nourishing hon (jaise ki Ceramides, Hyaluronic Acid, Shea Butter, Glycerin, aur Petroleum Jelly).\n\nYahan kuch behtareen aur reliable moisturizers ki list hai jo Indian market mein easily mil jaate hain aur dry skin par bahut achha kaam karte hain:\n\n## 1. Budget-Friendly & Daily Use Options (Pharmacy & Drugstore)\n\n* **Cetaphil Moisturising Cream:**\n  *   * **Kiske liye best hai:** Extremely dry aur sensitive skin ke liye.\n  * **Kyun kharidein:** Yeh non-comedogenic hai (pores block nahi karta) aur isme Sweet Almond Oil aur Glycerin hai jo long-lasting hydration deta hai. Face aur body dono ke liye\n* **Bioderma Atoderm Creme:**\n  *   * **Kiske liye best hai:** Very dry, flaky, aur itchy skin ke liye.\n  * **Kyun kharidein:** Yeh skin ke natural barrier ko repair karta hai aur skin ko der tak soft rakhta hai.\n* **Physiogel Calming Relief AI Cream:**\n  *   * **Kiske liye best hai:** Redness ya winter eczema wali dry skin ke liye.\n  * **Kyun kharidein:** Advanced Bio-Mimic Technology par bani hai jo sensitive skin ko soothing effect deti hai.\n\n---\n\n## 2. Rich & Nourishing Options (Cosmetic & Over-The-Counter)\n\n* **Dot & Key Ceramides & Hyaluronic Barrier Repair Cream:**\n  *   * **Kiske liye best hai:** Winter mein dull aur dry hone wali skin ke liye.\n  * **Kyun kharidein:** Isme Ceramides aur Hyaluronic Acid ka combination hai jo skin ki moisture lock karne ki taqat ko badhata hai. Lightweight lagti hai par hydration deep deti hai.\n* **Plum Hello Aloe & Ceramides Super Moisturizer:**\n  *   * **Kiske liye best hai:** Combination to dry skin (agar heavy cream pasand na ho).\n  * **Kyun kharidein:** Budget-friendly hai, non-sticky hai, aur ceramides hone ki wajah se skin barrier strong karta hai.\n* **Nivea Creme (Blue Box):**\n  *   * **Kiske liye best hai:** Traditional heavy-duty winter care aur body dryness ke liye.\n  * **Kyun kharidein:** Yeh classic thick cream hai jo bahut zyada dry skin (jaise haath, pair, aur kohni) par magic ki tarah kaam karti hai. (Face par thodi heavy ho sakti hai).\n\n---\n\n## 💡 Winter Skin Care Tips:\n\n* **Kab lagayein:** Moisturizer hamesha nahane ke turant baad (jab skin halki geeli ho) lagayein, taaki moisture skin ke andar lock ho jaye.\n* **Layering:** Agar skin bohot zyada dry hai, toh pehle koi hydrating serum (jaise Hyaluronic Acid) lagakar upar se cream lagayein.\n\nKya aapko yeh moisturizer **face ke liye** chahiye ya **puri body ke liye**?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 9,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "Indian winters mein dry skin ke liye aisi creams ya lotions best hote hain jo deep hydration dein aur skin ka moisture barrier lock karein. Kyunki winter ki thandi hawa skin ki nami (moisture) cheen leti hai, isliye aisi ingredients dekhein jo rich aur nourishing hon (jaise ki Ceramides, Hyaluronic Acid, Shea Butter, Glycerin, aur Petroleum Jelly).",
+        "original_text": "Indian winters mein dry skin ke liye aisi creams ya lotions best hote hain jo deep hydration dein aur skin ka moisture barrier lock karein. Kyunki winter ki thandi hawa skin ki nami (moisture) cheen leti hai, isliye aisi ingredients dekhein jo rich aur nourishing hon (jaise ki Ceramides, Hyaluronic Acid, Shea Butter, Glycerin, aur Petroleum Jelly).",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Yahan kuch behtareen aur reliable moisturizers ki list hai jo Indian market mein easily mil jaate hain aur dry skin par bahut achha kaam karte hain:",
+        "original_text": "Yahan kuch behtareen aur reliable moisturizers ki list hai jo Indian market mein easily mil jaate hain aur dry skin par bahut achha kaam karte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "## 1. Budget-Friendly & Daily Use Options (Pharmacy & Drugstore)",
+        "original_text": "1. Budget-Friendly & Daily Use Options (Pharmacy & Drugstore)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Cetaphil Moisturising Cream:**\n  *   * **Kiske liye best hai:** Extremely dry aur sensitive skin ke liye.\n  * **Kyun kharidein:** Yeh non-comedogenic hai (pores block nahi karta) aur isme Sweet Almond Oil aur Glycerin hai jo long-lasting hydration deta hai. Face aur body dono ke liye\n* **Bioderma Atoderm Creme:**\n  *   * **Kiske liye best hai:** Very dry, flaky, aur itchy skin ke liye.\n  * **Kyun kharidein:** Yeh skin ke natural barrier ko repair karta hai aur skin ko der tak soft rakhta hai.\n* **Physiogel Calming Relief AI Cream:**\n  *   * **Kiske liye best hai:** Redness ya winter eczema wali dry skin ke liye.\n  * **Kyun kharidein:** Advanced Bio-Mimic Technology par bani hai jo sensitive skin ko soothing effect deti hai.",
+        "original_text": "Cetaphil Moisturising Cream:\nKiske liye best hai: Extremely dry aur sensitive skin ke liye.\nKyun kharidein: Yeh non-comedogenic hai (pores block nahi karta) aur isme Sweet Almond Oil aur Glycerin hai jo long-lasting hydration deta hai. Face aur body dono ke liye\nBioderma Atoderm Creme:\nKiske liye best hai: Very dry, flaky, aur itchy skin ke liye.\nKyun kharidein: Yeh skin ke natural barrier ko repair karta hai aur skin ko der tak soft rakhta hai.\nPhysiogel Calming Relief AI Cream:\nKiske liye best hai: Redness ya winter eczema wali dry skin ke liye.\nKyun kharidein: Advanced Bio-Mimic Technology par bani hai jo sensitive skin ko soothing effect deti hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "## 2. Rich & Nourishing Options (Cosmetic & Over-The-Counter)",
+        "original_text": "2. Rich & Nourishing Options (Cosmetic & Over-The-Counter)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "* **Dot & Key Ceramides & Hyaluronic Barrier Repair Cream:**\n  *   * **Kiske liye best hai:** Winter mein dull aur dry hone wali skin ke liye.\n  * **Kyun kharidein:** Isme Ceramides aur Hyaluronic Acid ka combination hai jo skin ki moisture lock karne ki taqat ko badhata hai. Lightweight lagti hai par hydration deep deti hai.\n* **Plum Hello Aloe & Ceramides Super Moisturizer:**\n  *   * **Kiske liye best hai:** Combination to dry skin (agar heavy cream pasand na ho).\n  * **Kyun kharidein:** Budget-friendly hai, non-sticky hai, aur ceramides hone ki wajah se skin barrier strong karta hai.\n* **Nivea Creme (Blue Box):**\n  *   * **Kiske liye best hai:** Traditional heavy-duty winter care aur body dryness ke liye.\n  * **Kyun kharidein:** Yeh classic thick cream hai jo bahut zyada dry skin (jaise haath, pair, aur kohni) par magic ki tarah kaam karti hai. (Face par thodi heavy ho sakti hai).",
+        "original_text": "Dot & Key Ceramides & Hyaluronic Barrier Repair Cream:\nKiske liye best hai: Winter mein dull aur dry hone wali skin ke liye.\nKyun kharidein: Isme Ceramides aur Hyaluronic Acid ka combination hai jo skin ki moisture lock karne ki taqat ko badhata hai. Lightweight lagti hai par hydration deep deti hai.\nPlum Hello Aloe & Ceramides Super Moisturizer:\nKiske liye best hai: Combination to dry skin (agar heavy cream pasand na ho).\nKyun kharidein: Budget-friendly hai, non-sticky hai, aur ceramides hone ki wajah se skin barrier strong karta hai.\nNivea Creme (Blue Box):\nKiske liye best hai: Traditional heavy-duty winter care aur body dryness ke liye.\nKyun kharidein: Yeh classic thick cream hai jo bahut zyada dry skin (jaise haath, pair, aur kohni) par magic ki tarah kaam karti hai. (Face par thodi heavy ho sakti hai).",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "## 💡 Winter Skin Care Tips:",
+        "original_text": "💡 Winter Skin Care Tips:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "* **Kab lagayein:** Moisturizer hamesha nahane ke turant baad (jab skin halki geeli ho) lagayein, taaki moisture skin ke andar lock ho jaye.\n* **Layering:** Agar skin bohot zyada dry hai, toh pehle koi hydrating serum (jaise Hyaluronic Acid) lagakar upar se cream lagayein.",
+        "original_text": "Kab lagayein: Moisturizer hamesha nahane ke turant baad (jab skin halki geeli ho) lagayein, taaki moisture skin ke andar lock ho jaye.\nLayering: Agar skin bohot zyada dry hai, toh pehle koi hydrating serum (jaise Hyaluronic Acid) lagakar upar se cream lagayein.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "Kya aapko yeh moisturizer **face ke liye** chahiye ya **puri body ke liye**?",
+        "original_text": "Kya aapko yeh moisturizer face ke liye chahiye ya puri body ke liye?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

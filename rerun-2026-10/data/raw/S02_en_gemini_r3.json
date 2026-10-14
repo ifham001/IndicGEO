@@ -1,0 +1,280 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S02",
+  "category": "skincare",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 3,
+  "promptText": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+  "cellId": "S02_en_gemini_r3",
+  "startedAt": "2026-10-13T13:51:02.283Z",
+  "finishedAt": "2026-10-13T13:52:26.032Z",
+  "durationMs": 83749,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "When looking for a sunscreen for Indian skin tones, modern **chemical** or **hybrid** formulations with **SPF 50 and PA++++** work best because they blend completely invisibly without leaving a chalky or grey residue.[phdbeauty.com](https://phdbeauty.com/blogs/general-advice/best-sunscreen-for-indian-skin-spf-guide-2026#:~:text=The%20short%20answer%3A%20The%20best%20sunscreen%20for,reapplied%20every%202%20hours%20of%20sun%20exposure.)\n\nHere are top-rated, zero-white-cast options tailored to different skin types:\n\nThe Re'equil Sunscreen SPF 50 PA++++ Ultra Matte Dry Touch Gel is a cult favorite for **oily and humid skin**, offering a completely velvet-matte, shine-free finish with zero white cast.\n\nThe Minimalist SPF 50 Sunscreen features a **lightweight, vitamin-enriched fluid texture** that absorbs quickly, leaving a natural, hydrated look without any greasiness.\n\nThe The Derma Co 1% Hyaluronic SPF 50 Sunscreen Aqua Gel uses a water-light formula infused with **hyaluronic acid** to give normal to dry skin a fresh, dewy glow with no sticky residue.\n\nThe Dot & Key Cica Calming Mattifying Sunscreen SPF 50+ PA++++ is ideal for **acne-prone skin**, using cica and niacinamide to soothe irritation, control sebum, and disappear seamlessly.\n\nThe Aqualogica Glow+ Dewy Sunscreen SPF 50+ PA++++ blends fruit extracts and hyaluronic acid to brighten dull skin while providing a **transparent, glowing finish**.\n\nThe WishCare Niacinamide Oil Balance Sunscreen SPF 50 PA++++ combines **niacinamide and zinc PCA** in an ultra-light fluid texture that keeps excess oil in check while remaining totally invisible.\n\n---\n\n### Summary Guide: Which one should you pick?\n\n* **For Oily/Sweat-Prone Skin:** Choose **Re'equil** or **WishCare** for a matte, shine-free finish.[nourishmantra.in](https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=The%20texture%20is%20more%20fluid%20than%20Re'equil%2C,reported%20when%20layered%20over%20certain%20thick%20moisturizers.)\n* **For Dry/Normal Skin:** Choose **The Derma Co** or **Aqualogica** for added hydration and a dewy look.[nourishmantra.in](https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=The%2050ml%20tube%20runs%20out%20fast%20with,Zero%20white%20cast%20across%20all%20undertones%20tested.)\n* **For Combination Skin / Everyday Wear:** Choose **Minimalist** for a balanced, skin-like finish.[nourishmantra.in](https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=*%202.%20Minimalist%20SPF%2050%20Sunscreen%20%28Multi-Vitamin%29,texture.%20Contains%20Vitamin%20E%20and%20other%20antioxidants.)\n\nIf you like, I can narrow down these options further based on your specific skin type (oily, dry, or sensitive) and your preferred finish (matte vs. dewy). Do you want me to do that?",
+  "citations": [
+   {
+    "url": "https://phdbeauty.com/blogs/general-advice/best-sunscreen-for-indian-skin-spf-guide-2026#:~:text=The%20short%20answer%3A%20The%20best%20sunscreen%20for,reapplied%20every%202%20hours%20of%20sun%20exposure.",
+    "source_name": "/PHD/ - Proven Honest Derma",
+    "position": 1
+   },
+   {
+    "url": "https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=The%20texture%20is%20more%20fluid%20than%20Re'equil%2C,reported%20when%20layered%20over%20certain%20thick%20moisturizers.",
+    "source_name": "Nourish Mantra",
+    "position": 2
+   },
+   {
+    "url": "https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=The%2050ml%20tube%20runs%20out%20fast%20with,Zero%20white%20cast%20across%20all%20undertones%20tested.",
+    "source_name": "Nourish Mantra",
+    "position": 3
+   },
+   {
+    "url": "https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=*%202.%20Minimalist%20SPF%2050%20Sunscreen%20(Multi-Vitamin),texture.%20Contains%20Vitamin%20E%20and%20other%20antioxidants.",
+    "source_name": "Nourish Mantra",
+    "position": 4
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "81.8443 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131351-2163-0629-0000-621be33d8980",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "81.7819 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "I want to buy a sunscreen that doesn't leave a white cast on Indian skin. Which one is best?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:52:26 +00:00",
+      "markdown": "When looking for a sunscreen for Indian skin tones, modern **chemical** or **hybrid** formulations with **SPF 50 and PA++++** work best because they blend completely invisibly without leaving a chalky or grey residue.[phdbeauty.com](https://phdbeauty.com/blogs/general-advice/best-sunscreen-for-indian-skin-spf-guide-2026#:~:text=The%20short%20answer%3A%20The%20best%20sunscreen%20for,reapplied%20every%202%20hours%20of%20sun%20exposure.)\n\nHere are top-rated, zero-white-cast options tailored to different skin types:\n\nThe Re'equil Sunscreen SPF 50 PA++++ Ultra Matte Dry Touch Gel is a cult favorite for **oily and humid skin**, offering a completely velvet-matte, shine-free finish with zero white cast.\n\nThe Minimalist SPF 50 Sunscreen features a **lightweight, vitamin-enriched fluid texture** that absorbs quickly, leaving a natural, hydrated look without any greasiness.\n\nThe The Derma Co 1% Hyaluronic SPF 50 Sunscreen Aqua Gel uses a water-light formula infused with **hyaluronic acid** to give normal to dry skin a fresh, dewy glow with no sticky residue.\n\nThe Dot & Key Cica Calming Mattifying Sunscreen SPF 50+ PA++++ is ideal for **acne-prone skin**, using cica and niacinamide to soothe irritation, control sebum, and disappear seamlessly.\n\nThe Aqualogica Glow+ Dewy Sunscreen SPF 50+ PA++++ blends fruit extracts and hyaluronic acid to brighten dull skin while providing a **transparent, glowing finish**.\n\nThe WishCare Niacinamide Oil Balance Sunscreen SPF 50 PA++++ combines **niacinamide and zinc PCA** in an ultra-light fluid texture that keeps excess oil in check while remaining totally invisible.\n\n---\n\n### Summary Guide: Which one should you pick?\n\n* **For Oily/Sweat-Prone Skin:** Choose **Re'equil** or **WishCare** for a matte, shine-free finish.[nourishmantra.in](https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=The%20texture%20is%20more%20fluid%20than%20Re'equil%2C,reported%20when%20layered%20over%20certain%20thick%20moisturizers.)\n* **For Dry/Normal Skin:** Choose **The Derma Co** or **Aqualogica** for added hydration and a dewy look.[nourishmantra.in](https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=The%2050ml%20tube%20runs%20out%20fast%20with,Zero%20white%20cast%20across%20all%20undertones%20tested.)\n* **For Combination Skin / Everyday Wear:** Choose **Minimalist** for a balanced, skin-like finish.[nourishmantra.in](https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=*%202.%20Minimalist%20SPF%2050%20Sunscreen%20%28Multi-Vitamin%29,texture.%20Contains%20Vitamin%20E%20and%20other%20antioxidants.)\n\nIf you like, I can narrow down these options further based on your specific skin type (oily, dry, or sensitive) and your preferred finish (matte vs. dewy). Do you want me to do that?",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Best Sunscreen for Indian Skin 2026: Dermatologist's Picks",
+        "snippet": " The short answer: The best sunscreen for Indian skin is a broad-spectrum \nSPF 50+ with PA++++ applied at roughly two fingertip units (about 0.75ml \nfor the face)...",
+        "domain": "phdbeauty.com",
+        "url": "https://phdbeauty.com/blogs/general-advice/best-sunscreen-for-indian-skin-spf-guide-2026#:~:text=The%20short%20answer%3A%20The%20best%20sunscreen%20for,reapplied%20every%202%20hours%20of%20sun%20exposure.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTHElZEmbbXG_pRIig06ArilzqLsmMkmx9F5sxF3o2hP-Olx_XIFc5NLeKkl8a63ss04Fr_DVBX9PiC-RIhfWrWQbWVpkQtJWs",
+        "source_name": "/PHD/ - Proven Honest Derma",
+        "publication_date": null,
+        "markdown": "When looking for a sunscreen for Indian skin tones, modern **chemical** or **hybrid** formulations with **SPF 50 and PA++++** work best because they blend completely invisibly without leaving a chalky or grey residue."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Top 7 Sunscreens for Indian Skin No White Cast 2025",
+        "snippet": "The texture is more fluid than Re'equil, which some people prefer. Pros: No \nwhite cast on NC35-NC45 (very slight initial tint on NC50 that disappears \nin 5 minut...",
+        "domain": "nourishmantra.in",
+        "url": "https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=The%20texture%20is%20more%20fluid%20than%20Re'equil%2C,reported%20when%20layered%20over%20certain%20thick%20moisturizers.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSKWqfrb9xOOpXSfa7dB_d78kifhbv7NRRkIgGtqm_DtQr-fKHmo3NPZHPoDsAHd7LyCXk9nsDhcDG38TMnmLSI534iJyAlR48WRqk",
+        "source_name": "Nourish Mantra",
+        "publication_date": null,
+        "markdown": "Choose **Re'equil** or **WishCare** for a matte, shine-free finish."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Top 7 Sunscreens for Indian Skin No White Cast 2025",
+        "snippet": "The 50ml tube runs out fast with proper 2-finger application. Commute \nSurvival Score: 8/10. Price: ~₹499 for 50ml. * 3. Aqualogica Glow+ Dewy \nSunscreen SPF 50. ...",
+        "domain": "nourishmantra.in",
+        "url": "https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=The%2050ml%20tube%20runs%20out%20fast%20with,Zero%20white%20cast%20across%20all%20undertones%20tested.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSKWqfrb9xOOpXSfa7dB_d78kifhbv7NRRkIgGtqm_DtQr-fKHmo3NPZHPoDsAHd7LyCXk9nsDhcDG38TMnmLSI534iJyAlR48WRqk",
+        "source_name": "Nourish Mantra",
+        "publication_date": null,
+        "markdown": "Choose **The Derma Co** or **Aqualogica** for added hydration and a dewy look."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Top 7 Sunscreens for Indian Skin No White Cast 2025",
+        "snippet": "* 2. Minimalist SPF 50 Sunscreen (Multi-Vitamin) Best for: Those who want \nskincare benefits + sun protection, combination skin. This SPF 50 sunscreen \nIndia favo...",
+        "domain": "nourishmantra.in",
+        "url": "https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=*%202.%20Minimalist%20SPF%2050%20Sunscreen%20(Multi-Vitamin),texture.%20Contains%20Vitamin%20E%20and%20other%20antioxidants.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSKWqfrb9xOOpXSfa7dB_d78kifhbv7NRRkIgGtqm_DtQr-fKHmo3NPZHPoDsAHd7LyCXk9nsDhcDG38TMnmLSI534iJyAlR48WRqk",
+        "source_name": "Nourish Mantra",
+        "publication_date": null,
+        "markdown": "Choose **Minimalist** for a balanced, skin-like finish."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 11,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "When looking for a sunscreen for Indian skin tones, modern **chemical** or **hybrid** formulations with **SPF 50 and PA++++** work best because they blend completely invisibly without leaving a chalky or grey residue.[phdbeauty.com](https://phdbeauty.com/blogs/general-advice/best-sunscreen-for-indian-skin-spf-guide-2026#:~:text=The%20short%20answer%3A%20The%20best%20sunscreen%20for,reapplied%20every%202%20hours%20of%20sun%20exposure.)",
+        "original_text": "When looking for a sunscreen for Indian skin tones, modern chemical or hybrid formulations with SPF 50 and PA++++ work best because they blend completely invisibly without leaving a chalky or grey residue.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Best Sunscreen for Indian Skin 2026: Dermatologist's Picks",
+          "snippet": " The short answer: The best sunscreen for Indian skin is a broad-spectrum \nSPF 50+ with PA++++ applied at roughly two fingertip units (about 0.75ml \nfor the face)...",
+          "domain": "phdbeauty.com",
+          "url": "https://phdbeauty.com/blogs/general-advice/best-sunscreen-for-indian-skin-spf-guide-2026#:~:text=The%20short%20answer%3A%20The%20best%20sunscreen%20for,reapplied%20every%202%20hours%20of%20sun%20exposure.",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTHElZEmbbXG_pRIig06ArilzqLsmMkmx9F5sxF3o2hP-Olx_XIFc5NLeKkl8a63ss04Fr_DVBX9PiC-RIhfWrWQbWVpkQtJWs",
+          "source_name": "/PHD/ - Proven Honest Derma",
+          "publication_date": null,
+          "markdown": "When looking for a sunscreen for Indian skin tones, modern **chemical** or **hybrid** formulations with **SPF 50 and PA++++** work best because they blend completely invisibly without leaving a chalky or grey residue."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "Here are top-rated, zero-white-cast options tailored to different skin types:",
+        "original_text": "Here are top-rated, zero-white-cast options tailored to different skin types:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "The Re'equil Sunscreen SPF 50 PA++++ Ultra Matte Dry Touch Gel is a cult favorite for **oily and humid skin**, offering a completely velvet-matte, shine-free finish with zero white cast.",
+        "original_text": "The Re'equil Sunscreen SPF 50 PA++++ Ultra Matte Dry Touch Gel is a cult favorite for oily and humid skin, offering a completely velvet-matte, shine-free finish with zero white cast.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "The Minimalist SPF 50 Sunscreen features a **lightweight, vitamin-enriched fluid texture** that absorbs quickly, leaving a natural, hydrated look without any greasiness.",
+        "original_text": "The Minimalist SPF 50 Sunscreen features a lightweight, vitamin-enriched fluid texture that absorbs quickly, leaving a natural, hydrated look without any greasiness.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "The The Derma Co 1% Hyaluronic SPF 50 Sunscreen Aqua Gel uses a water-light formula infused with **hyaluronic acid** to give normal to dry skin a fresh, dewy glow with no sticky residue.",
+        "original_text": "The The Derma Co 1% Hyaluronic SPF 50 Sunscreen Aqua Gel uses a water-light formula infused with hyaluronic acid to give normal to dry skin a fresh, dewy glow with no sticky residue.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "The Dot & Key Cica Calming Mattifying Sunscreen SPF 50+ PA++++ is ideal for **acne-prone skin**, using cica and niacinamide to soothe irritation, control sebum, and disappear seamlessly.",
+        "original_text": "The Dot & Key Cica Calming Mattifying Sunscreen SPF 50+ PA++++ is ideal for acne-prone skin, using cica and niacinamide to soothe irritation, control sebum, and disappear seamlessly.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "The Aqualogica Glow+ Dewy Sunscreen SPF 50+ PA++++ blends fruit extracts and hyaluronic acid to brighten dull skin while providing a **transparent, glowing finish**.",
+        "original_text": "The Aqualogica Glow+ Dewy Sunscreen SPF 50+ PA++++ blends fruit extracts and hyaluronic acid to brighten dull skin while providing a transparent, glowing finish.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "The WishCare Niacinamide Oil Balance Sunscreen SPF 50 PA++++ combines **niacinamide and zinc PCA** in an ultra-light fluid texture that keeps excess oil in check while remaining totally invisible.",
+        "original_text": "The WishCare Niacinamide Oil Balance Sunscreen SPF 50 PA++++ combines niacinamide and zinc PCA in an ultra-light fluid texture that keeps excess oil in check while remaining totally invisible.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "### Summary Guide: Which one should you pick?",
+        "original_text": "Summary Guide: Which one should you pick?",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "* **For Oily/Sweat-Prone Skin:** Choose **Re'equil** or **WishCare** for a matte, shine-free finish.[nourishmantra.in](https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=The%20texture%20is%20more%20fluid%20than%20Re'equil%2C,reported%20when%20layered%20over%20certain%20thick%20moisturizers.)\n* **For Dry/Normal Skin:** Choose **The Derma Co** or **Aqualogica** for added hydration and a dewy look.[nourishmantra.in](https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=The%2050ml%20tube%20runs%20out%20fast%20with,Zero%20white%20cast%20across%20all%20undertones%20tested.)\n* **For Combination Skin / Everyday Wear:** Choose **Minimalist** for a balanced, skin-like finish.[nourishmantra.in](https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=*%202.%20Minimalist%20SPF%2050%20Sunscreen%20%28Multi-Vitamin%29,texture.%20Contains%20Vitamin%20E%20and%20other%20antioxidants.)",
+        "original_text": "For Oily/Sweat-Prone Skin: Choose Re'equil or WishCare for a matte, shine-free finish.\nFor Dry/Normal Skin: Choose The Derma Co or Aqualogica for added hydration and a dewy look.\nFor Combination Skin / Everyday Wear: Choose Minimalist for a balanced, skin-like finish.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Top 7 Sunscreens for Indian Skin No White Cast 2025",
+          "snippet": "The texture is more fluid than Re'equil, which some people prefer. Pros: No \nwhite cast on NC35-NC45 (very slight initial tint on NC50 that disappears \nin 5 minut...",
+          "domain": "nourishmantra.in",
+          "url": "https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=The%20texture%20is%20more%20fluid%20than%20Re'equil%2C,reported%20when%20layered%20over%20certain%20thick%20moisturizers.",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSKWqfrb9xOOpXSfa7dB_d78kifhbv7NRRkIgGtqm_DtQr-fKHmo3NPZHPoDsAHd7LyCXk9nsDhcDG38TMnmLSI534iJyAlR48WRqk",
+          "source_name": "Nourish Mantra",
+          "publication_date": null,
+          "markdown": "Choose **Re'equil** or **WishCare** for a matte, shine-free finish."
+         },
+         {
+          "type": "gemini_source",
+          "title": "Top 7 Sunscreens for Indian Skin No White Cast 2025",
+          "snippet": "The 50ml tube runs out fast with proper 2-finger application. Commute \nSurvival Score: 8/10. Price: ~₹499 for 50ml. * 3. Aqualogica Glow+ Dewy \nSunscreen SPF 50. ...",
+          "domain": "nourishmantra.in",
+          "url": "https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=The%2050ml%20tube%20runs%20out%20fast%20with,Zero%20white%20cast%20across%20all%20undertones%20tested.",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSKWqfrb9xOOpXSfa7dB_d78kifhbv7NRRkIgGtqm_DtQr-fKHmo3NPZHPoDsAHd7LyCXk9nsDhcDG38TMnmLSI534iJyAlR48WRqk",
+          "source_name": "Nourish Mantra",
+          "publication_date": null,
+          "markdown": "Choose **The Derma Co** or **Aqualogica** for added hydration and a dewy look."
+         },
+         {
+          "type": "gemini_source",
+          "title": "Top 7 Sunscreens for Indian Skin No White Cast 2025",
+          "snippet": "* 2. Minimalist SPF 50 Sunscreen (Multi-Vitamin) Best for: Those who want \nskincare benefits + sun protection, combination skin. This SPF 50 sunscreen \nIndia favo...",
+          "domain": "nourishmantra.in",
+          "url": "https://nourishmantra.in/blogs/news/best-sunscreen-for-indian-skin-no-white-cast#:~:text=*%202.%20Minimalist%20SPF%2050%20Sunscreen%20(Multi-Vitamin),texture.%20Contains%20Vitamin%20E%20and%20other%20antioxidants.",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSKWqfrb9xOOpXSfa7dB_d78kifhbv7NRRkIgGtqm_DtQr-fKHmo3NPZHPoDsAHd7LyCXk9nsDhcDG38TMnmLSI534iJyAlR48WRqk",
+          "source_name": "Nourish Mantra",
+          "publication_date": null,
+          "markdown": "Choose **Minimalist** for a balanced, skin-like finish."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "If you like, I can narrow down these options further based on your specific skin type (oily, dry, or sensitive) and your preferred finish (matte vs. dewy). Do you want me to do that?",
+        "original_text": "If you like, I can narrow down these options further based on your specific skin type (oily, dry, or sensitive) and your preferred finish (matte vs. dewy). Do you want me to do that?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

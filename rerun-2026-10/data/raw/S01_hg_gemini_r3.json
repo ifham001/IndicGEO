@@ -1,0 +1,184 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "S01",
+  "category": "skincare",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 3,
+  "promptText": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+  "cellId": "S01_hg_gemini_r3",
+  "startedAt": "2026-10-13T14:15:40.533Z",
+  "finishedAt": "2026-10-13T14:16:24.263Z",
+  "durationMs": 43730,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein oily aur acne-prone skin ke liye 500 rupees ke andar kai saare behtareen face washes aate hain jo excess oil ko control karte hain bina skin ko completely dry kiye. Yeh rahe kuch top options jo aapki budget mein easily mil jayenge:\n\n---\n\n### 1. Derma Co 1% Salicylic Acid Gel Face Wash\n\n* **Price:** Around Rs. 349 (100ml)\n* **Key Ingredients:** Salicylic Acid, Witch Hazel, Oat Extract\n* **Kyun khareedein:** Yeh oily skin aur breakouts ke liye ekdum best hai. Salicylic acid pores ke andar jaakar deep cleansing karta hai aur extra oil ko control karta hai.\n\n### 2. Minimalist 2% Salicylic Acid Face Wash\n\n* **Price:** Around Rs. 299 (100ml)\n* **Key Ingredients:** Salicylic Acid, LHA, Zinc\n* **Kyun khareedein:** Yeh fragrance-free formula hai jo gentle tareeqe se exfoliate karta hai. Agar aapko blackheads, whiteheads aur pimples ki problem hai, toh yeh face wash skin texture ko improve karne mein madad karta hai.\n\n### 3. Plum Green Tea Pore Cleansing Face Wash\n\n* **Price:** Around Rs. 345 - Rs. 390 (120ml)\n* **Key Ingredients:** Green Tea, Glycolic Acid, Soft Cellulose Beads\n* **Kyun khareedein:** Yeh oily skin ke liye ek classic choice hai. Isme green tea aur glycolic acid hai jo oily skin ko mattify karte hain aur gentle scrubbing beads se dead skin remove hoti hai. Iski fragrance bhi bohot refreshing hai.\n\n### 4. Cetaphil Oily Skin Cleanser\n\n* **Price:** Small/Trial sizes or discounted packs easily mil jaate hain under 500 (Usually 125ml pack around Rs. 400-500 depending on offers).\n* **Key Ingredients:** Gentle surfactants, targeted oil-control formulation\n* **Kyun khareedein:** Agar aapki skin oily hone ke sath-sath sensitive bhi hai, toh yeh dermatologist-recommended cleanser best hai. Yeh bina skin ka natural moisture strip kiye oil ko balance karta hai.\n\n### 5. Himalaya Purifying Neem Face Wash\n\n* **Price:** Around Rs. 190 - Rs. 250 (150ml - 200ml)\n* **Key Ingredients:** Neem, Turmeric (Haldi)\n* **Kyun khareedein:** Yeh ek budget-friendly aur easily available option hai. Neem aur haldi anti-bacterial properties provide karte hain jo pimples aur acne ko rokne mein madad karte hain.\n\n---\n\n> **Tip:** Agar aapki skin pe active acne (pimples) hain, toh **Salicylic Acid** waale face washes (jaise Minimalist ya The Derma Co) zyada effective rahenge.\n\nKya aapko inmein se kisi specific skin concern (jaise acne, blackheads, ya dullness) ke liye aur recommendations chahiye?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "43.4754 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131415-2163-0629-0000-03a9962c8ddb",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "43.3736 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein oily skin ke liye 500 rupees ke andar konsa face wash kharidna chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 14:16:25 +00:00",
+      "markdown": "India mein oily aur acne-prone skin ke liye 500 rupees ke andar kai saare behtareen face washes aate hain jo excess oil ko control karte hain bina skin ko completely dry kiye. Yeh rahe kuch top options jo aapki budget mein easily mil jayenge:\n\n---\n\n### 1. Derma Co 1% Salicylic Acid Gel Face Wash\n\n* **Price:** Around Rs. 349 (100ml)\n* **Key Ingredients:** Salicylic Acid, Witch Hazel, Oat Extract\n* **Kyun khareedein:** Yeh oily skin aur breakouts ke liye ekdum best hai. Salicylic acid pores ke andar jaakar deep cleansing karta hai aur extra oil ko control karta hai.\n\n### 2. Minimalist 2% Salicylic Acid Face Wash\n\n* **Price:** Around Rs. 299 (100ml)\n* **Key Ingredients:** Salicylic Acid, LHA, Zinc\n* **Kyun khareedein:** Yeh fragrance-free formula hai jo gentle tareeqe se exfoliate karta hai. Agar aapko blackheads, whiteheads aur pimples ki problem hai, toh yeh face wash skin texture ko improve karne mein madad karta hai.\n\n### 3. Plum Green Tea Pore Cleansing Face Wash\n\n* **Price:** Around Rs. 345 - Rs. 390 (120ml)\n* **Key Ingredients:** Green Tea, Glycolic Acid, Soft Cellulose Beads\n* **Kyun khareedein:** Yeh oily skin ke liye ek classic choice hai. Isme green tea aur glycolic acid hai jo oily skin ko mattify karte hain aur gentle scrubbing beads se dead skin remove hoti hai. Iski fragrance bhi bohot refreshing hai.\n\n### 4. Cetaphil Oily Skin Cleanser\n\n* **Price:** Small/Trial sizes or discounted packs easily mil jaate hain under 500 (Usually 125ml pack around Rs. 400-500 depending on offers).\n* **Key Ingredients:** Gentle surfactants, targeted oil-control formulation\n* **Kyun khareedein:** Agar aapki skin oily hone ke sath-sath sensitive bhi hai, toh yeh dermatologist-recommended cleanser best hai. Yeh bina skin ka natural moisture strip kiye oil ko balance karta hai.\n\n### 5. Himalaya Purifying Neem Face Wash\n\n* **Price:** Around Rs. 190 - Rs. 250 (150ml - 200ml)\n* **Key Ingredients:** Neem, Turmeric (Haldi)\n* **Kyun khareedein:** Yeh ek budget-friendly aur easily available option hai. Neem aur haldi anti-bacterial properties provide karte hain jo pimples aur acne ko rokne mein madad karte hain.\n\n---\n\n> **Tip:** Agar aapki skin pe active acne (pimples) hain, toh **Salicylic Acid** waale face washes (jaise Minimalist ya The Derma Co) zyada effective rahenge.\n\nKya aapko inmein se kisi specific skin concern (jaise acne, blackheads, ya dullness) ke liye aur recommendations chahiye?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 13,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein oily aur acne-prone skin ke liye 500 rupees ke andar kai saare behtareen face washes aate hain jo excess oil ko control karte hain bina skin ko completely dry kiye. Yeh rahe kuch top options jo aapki budget mein easily mil jayenge:",
+        "original_text": "India mein oily aur acne-prone skin ke liye 500 rupees ke andar kai saare behtareen face washes aate hain jo excess oil ko control karte hain bina skin ko completely dry kiye. Yeh rahe kuch top options jo aapki budget mein easily mil jayenge:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### 1. Derma Co 1% Salicylic Acid Gel Face Wash",
+        "original_text": "1. Derma Co 1% Salicylic Acid Gel Face Wash",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "* **Price:** Around Rs. 349 (100ml)\n* **Key Ingredients:** Salicylic Acid, Witch Hazel, Oat Extract\n* **Kyun khareedein:** Yeh oily skin aur breakouts ke liye ekdum best hai. Salicylic acid pores ke andar jaakar deep cleansing karta hai aur extra oil ko control karta hai.",
+        "original_text": "Price: Around Rs. 349 (100ml)\nKey Ingredients: Salicylic Acid, Witch Hazel, Oat Extract\nKyun khareedein: Yeh oily skin aur breakouts ke liye ekdum best hai. Salicylic acid pores ke andar jaakar deep cleansing karta hai aur extra oil ko control karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "### 2. Minimalist 2% Salicylic Acid Face Wash",
+        "original_text": "2. Minimalist 2% Salicylic Acid Face Wash",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "* **Price:** Around Rs. 299 (100ml)\n* **Key Ingredients:** Salicylic Acid, LHA, Zinc\n* **Kyun khareedein:** Yeh fragrance-free formula hai jo gentle tareeqe se exfoliate karta hai. Agar aapko blackheads, whiteheads aur pimples ki problem hai, toh yeh face wash skin texture ko improve karne mein madad karta hai.",
+        "original_text": "Price: Around Rs. 299 (100ml)\nKey Ingredients: Salicylic Acid, LHA, Zinc\nKyun khareedein: Yeh fragrance-free formula hai jo gentle tareeqe se exfoliate karta hai. Agar aapko blackheads, whiteheads aur pimples ki problem hai, toh yeh face wash skin texture ko improve karne mein madad karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "### 3. Plum Green Tea Pore Cleansing Face Wash",
+        "original_text": "3. Plum Green Tea Pore Cleansing Face Wash",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **Price:** Around Rs. 345 - Rs. 390 (120ml)\n* **Key Ingredients:** Green Tea, Glycolic Acid, Soft Cellulose Beads\n* **Kyun khareedein:** Yeh oily skin ke liye ek classic choice hai. Isme green tea aur glycolic acid hai jo oily skin ko mattify karte hain aur gentle scrubbing beads se dead skin remove hoti hai. Iski fragrance bhi bohot refreshing hai.",
+        "original_text": "Price: Around Rs. 345 - Rs. 390 (120ml)\nKey Ingredients: Green Tea, Glycolic Acid, Soft Cellulose Beads\nKyun khareedein: Yeh oily skin ke liye ek classic choice hai. Isme green tea aur glycolic acid hai jo oily skin ko mattify karte hain aur gentle scrubbing beads se dead skin remove hoti hai. Iski fragrance bhi bohot refreshing hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### 4. Cetaphil Oily Skin Cleanser",
+        "original_text": "4. Cetaphil Oily Skin Cleanser",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "* **Price:** Small/Trial sizes or discounted packs easily mil jaate hain under 500 (Usually 125ml pack around Rs. 400-500 depending on offers).\n* **Key Ingredients:** Gentle surfactants, targeted oil-control formulation\n* **Kyun khareedein:** Agar aapki skin oily hone ke sath-sath sensitive bhi hai, toh yeh dermatologist-recommended cleanser best hai. Yeh bina skin ka natural moisture strip kiye oil ko balance karta hai.",
+        "original_text": "Price: Small/Trial sizes or discounted packs easily mil jaate hain under 500 (Usually 125ml pack around Rs. 400-500 depending on offers).\nKey Ingredients: Gentle surfactants, targeted oil-control formulation\nKyun khareedein: Agar aapki skin oily hone ke sath-sath sensitive bhi hai, toh yeh dermatologist-recommended cleanser best hai. Yeh bina skin ka natural moisture strip kiye oil ko balance karta hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "### 5. Himalaya Purifying Neem Face Wash",
+        "original_text": "5. Himalaya Purifying Neem Face Wash",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "* **Price:** Around Rs. 190 - Rs. 250 (150ml - 200ml)\n* **Key Ingredients:** Neem, Turmeric (Haldi)\n* **Kyun khareedein:** Yeh ek budget-friendly aur easily available option hai. Neem aur haldi anti-bacterial properties provide karte hain jo pimples aur acne ko rokne mein madad karte hain.",
+        "original_text": "Price: Around Rs. 190 - Rs. 250 (150ml - 200ml)\nKey Ingredients: Neem, Turmeric (Haldi)\nKyun khareedein: Yeh ek budget-friendly aur easily available option hai. Neem aur haldi anti-bacterial properties provide karte hain jo pimples aur acne ko rokne mein madad karte hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "> **Tip:** Agar aapki skin pe active acne (pimples) hain, toh **Salicylic Acid** waale face washes (jaise Minimalist ya The Derma Co) zyada effective rahenge.",
+        "original_text": "Tip: Agar aapki skin pe active acne (pimples) hain, toh Salicylic Acid waale face washes (jaise Minimalist ya The Derma Co) zyada effective rahenge.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "markdown": "Kya aapko inmein se kisi specific skin concern (jaise acne, blackheads, ya dullness) ke liye aur recommendations chahiye?",
+        "original_text": "Kya aapko inmein se kisi specific skin concern (jaise acne, blackheads, ya dullness) ke liye aur recommendations chahiye?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

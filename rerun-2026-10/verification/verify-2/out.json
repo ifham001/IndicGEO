@@ -1,0 +1,210 @@
+{
+ "n_answers_oct": 479,
+ "n_answers_aug": 480,
+ "chatgpt_within_pairs": 560,
+ "chatgpt_within_pct": 49.6,
+ "chatgpt_cross_pairs": 640,
+ "chatgpt_cross_pct": 48.8,
+ "gemini_within_pairs": 553,
+ "gemini_within_pct": 41.5,
+ "gemini_cross_pairs": 632,
+ "gemini_cross_pct": 39.5,
+ "perplexity_within_pairs": 560,
+ "perplexity_within_pct": 76.1,
+ "perplexity_cross_pairs": 640,
+ "perplexity_cross_pct": 47.9,
+ "perplexity_en_within_pairs": 280,
+ "perplexity_en_within_pct": 72.5,
+ "perplexity_aug_oct_pairs": 640,
+ "perplexity_aug_oct_pct": 28.4,
+ "gemini_cited": {
+  "en": [
+   58,
+   79
+  ],
+  "hg": [
+   44,
+   79
+  ],
+  "en_pct": 73.4,
+  "hg_pct": 55.7,
+  "dropped": [
+   "S04_r5 (missing en)"
+  ]
+ },
+ "gemini_cited_all_files": {
+  "en": [
+   58,
+   79
+  ],
+  "hg": [
+   45,
+   80
+  ]
+ },
+ "perplexity_hg_devanagari": 2,
+ "devanagari_files": [
+  "F02_hg_perplexity_r3.json dev=363 lat=356",
+  "F02_hg_perplexity_r5.json dev=437 lat=392"
+ ],
+ "any_devanagari_files": [
+  "F01_hg_perplexity_r1.json",
+  "F01_hg_perplexity_r2.json",
+  "F01_hg_perplexity_r3.json",
+  "F01_hg_perplexity_r4.json",
+  "F01_hg_perplexity_r5.json",
+  "F01_hg_perplexity_r7.json",
+  "F01_hg_perplexity_r8.json",
+  "F02_hg_perplexity_r1.json",
+  "F02_hg_perplexity_r2.json",
+  "F02_hg_perplexity_r3.json",
+  "F02_hg_perplexity_r4.json",
+  "F02_hg_perplexity_r5.json",
+  "F02_hg_perplexity_r7.json",
+  "F02_hg_perplexity_r8.json",
+  "F04_hg_gemini_r3.json",
+  "F05_hg_gemini_r3.json",
+  "S01_hg_chatgpt_r7.json",
+  "S01_hg_perplexity_r3.json",
+  "S01_hg_perplexity_r4.json",
+  "S01_hg_perplexity_r5.json",
+  "S01_hg_perplexity_r6.json",
+  "S01_hg_perplexity_r7.json",
+  "S01_hg_perplexity_r8.json",
+  "S02_hg_gemini_r4.json",
+  "S02_hg_perplexity_r4.json",
+  "S03_hg_chatgpt_r6.json",
+  "S03_hg_perplexity_r1.json",
+  "S03_hg_perplexity_r2.json",
+  "S04_hg_perplexity_r2.json",
+  "S04_hg_perplexity_r6.json",
+  "S05_hg_perplexity_r7.json"
+ ],
+ "top_domains": [
+  [
+   "amazon.in",
+   132
+  ],
+  [
+   "flipkart.com",
+   90
+  ],
+  [
+   "hindustantimes.com",
+   76
+  ],
+  [
+   "nykaa.com",
+   65
+  ],
+  [
+   "thedermaco.com",
+   64
+  ],
+  [
+   "google.com",
+   55
+  ],
+  [
+   "vogue.in",
+   47
+  ],
+  [
+   "grabon.in",
+   46
+  ],
+  [
+   "ndtvshopping.com",
+   46
+  ],
+  [
+   "myntra.com",
+   44
+  ]
+ ],
+ "bad_urls": 0,
+ "top_domains_by_engine": {
+  "chatgpt": [
+   [
+    "beminimalist.co",
+    37
+   ],
+   [
+    "myntra.com",
+    35
+   ],
+   [
+    "hindustantimes.com",
+    33
+   ],
+   [
+    "pingmedoc.com",
+    30
+   ],
+   [
+    "thedermaco.com",
+    27
+   ]
+  ],
+  "gemini": [
+   [
+    "google.com",
+    51
+   ],
+   [
+    "nykaa.com",
+    16
+   ],
+   [
+    "indisangam.com",
+    13
+   ],
+   [
+    "magicpin.in",
+    12
+   ],
+   [
+    "theformalclub.in",
+    11
+   ]
+  ],
+  "perplexity": [
+   [
+    "amazon.in",
+    112
+   ],
+   [
+    "flipkart.com",
+    75
+   ],
+   [
+    "hindustantimes.com",
+    40
+   ],
+   [
+    "meesho.com",
+    32
+   ],
+   [
+    "vogue.in",
+    32
+   ]
+  ]
+ },
+ "oct_zero_brand_answers": [
+  "F05_en_chatgpt_r6.json",
+  "F05_en_perplexity_r1.json",
+  "F05_en_perplexity_r2.json",
+  "F05_en_perplexity_r3.json",
+  "F05_en_perplexity_r7.json",
+  "F05_en_perplexity_r8.json",
+  "F05_hg_gemini_r2.json",
+  "S03_hg_gemini_r5.json",
+  "S04_hg_perplexity_r6.json"
+ ],
+ "oct_mean_brands": 4.271,
+ "aug_zero_brand_answers": 4,
+ "anomalies": [
+  "oct: skipped failed file S04_en_gemini_r5.failed.json"
+ ]
+}

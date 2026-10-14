@@ -1,0 +1,291 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F04",
+  "category": "fashion",
+  "lang": "en",
+  "engine": "gemini",
+  "rep": 2,
+  "promptText": "Which brand's formal shirts should I buy for men in India?",
+  "cellId": "F04_en_gemini_r2",
+  "startedAt": "2026-10-13T13:29:51.694Z",
+  "finishedAt": "2026-10-13T13:30:51.589Z",
+  "durationMs": 59895,
+  "attempt": 1,
+  "attemptsLog": [],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "When shopping for men's formal shirts in India, several top brands stand out for their quality fabrics, sharp fits, and durability suited to Indian corporate environments and weather conditions.[theformalclub.in](https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=These%20brands%20offer%20everything%20from%20traditional%20styles,Shirt%20at%20Raymond.%20*%203.%20Louis%20Philippe.)\n\nThis Van Heusen shirt offers sharp corporate styling with a **breathable cotton build** and **modern slim fit**.\n\nKnown for polished workwear, Park Avenue features crisp **100% cotton** and a **refined cutaway collar**.\n\nMarks & Spencer provides luxury comfort through **non-iron technology** and **two-fold cotton fabric**.\n\nThe Formal Club delivers a great mix of **premium workplace styling** and **budget-friendly pricing**.\n\n### Top Formal Shirt Brands Overview\n\n* **Raymond & Louis Philippe:** Best for premium corporate wear, leadership meetings, and traditional tailoring with high-end fabrics.[midvey.com](https://midvey.com/blogs/news/top-10-best-formal-shirt-brands-in-india-for-2026#:~:text=Louis%20Philippe%20is%20known%20for%20premium%20formal,with%20a%20strong%20focus%20on%20business%20dressing.)\n* **Van Heusen & Arrow:** Excellent for modern, sharp office styling, wrinkle-resistant materials, and everyday professional wear.[theformalclub.in](https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=Their%20shirts%20stand%20for%20power%20dressing%20and,suit%20the%20Indian%20weather%20and%20business%20environment.)\n* **Park Avenue & Blackberrys:** Great options for contemporary slim-fits, stylish details, and versatile transition from boardrooms to evening events.[theformalclub.in](https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=Peter%20England%20strikes%20a%20good%20balance%20between,by%20style-sensitive%20professionals.%20*%208.%20Park%20Avenue.)\n* **Peter England & The Formal Club:** Ideal choices for budget-conscious professionals, college graduates, and daily office wear that requires value.[theformalclub.in](https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=The%20brand%20focuses%20on%20making%20eco-friendly%20shirts,without%20compromising%20on%20fabric%20quality%20or%20style.)\n\nIf you prefer classic luxury and durability, go with **Raymond** or **Louis Philippe**. For a sharp, contemporary look on a balanced budget, **Van Heusen** or **Arrow** are fantastic choices.\n\nIf you like, I can help you filter these options by a specific budget range or preferred fabric type like pure cotton or wrinkle-free blends. Would you like me to do that?",
+  "citations": [
+   {
+    "url": "https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=These%20brands%20offer%20everything%20from%20traditional%20styles,Shirt%20at%20Raymond.%20*%203.%20Louis%20Philippe.",
+    "source_name": "The Formal Club",
+    "position": 1
+   },
+   {
+    "url": "https://midvey.com/blogs/news/top-10-best-formal-shirt-brands-in-india-for-2026#:~:text=Louis%20Philippe%20is%20known%20for%20premium%20formal,with%20a%20strong%20focus%20on%20business%20dressing.",
+    "source_name": "Midvey",
+    "position": 2
+   },
+   {
+    "url": "https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=Their%20shirts%20stand%20for%20power%20dressing%20and,suit%20the%20Indian%20weather%20and%20business%20environment.",
+    "source_name": "The Formal Club",
+    "position": 3
+   },
+   {
+    "url": "https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=Peter%20England%20strikes%20a%20good%20balance%20between,by%20style-sensitive%20professionals.%20*%208.%20Park%20Avenue.",
+    "source_name": "The Formal Club",
+    "position": 4
+   },
+   {
+    "url": "https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=The%20brand%20focuses%20on%20making%20eco-friendly%20shirts,without%20compromising%20on%20fabric%20quality%20or%20style.",
+    "source_name": "The Formal Club",
+    "position": 5
+   }
+  ],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "59.6788 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131329-2163-0629-0000-9e47ca952065",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "59.5663 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "Which brand's formal shirts should I buy for men in India?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "Which brand's formal shirts should I buy for men in India?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:30:50 +00:00",
+      "markdown": "When shopping for men's formal shirts in India, several top brands stand out for their quality fabrics, sharp fits, and durability suited to Indian corporate environments and weather conditions.[theformalclub.in](https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=These%20brands%20offer%20everything%20from%20traditional%20styles,Shirt%20at%20Raymond.%20*%203.%20Louis%20Philippe.)\n\nThis Van Heusen shirt offers sharp corporate styling with a **breathable cotton build** and **modern slim fit**.\n\nKnown for polished workwear, Park Avenue features crisp **100% cotton** and a **refined cutaway collar**.\n\nMarks & Spencer provides luxury comfort through **non-iron technology** and **two-fold cotton fabric**.\n\nThe Formal Club delivers a great mix of **premium workplace styling** and **budget-friendly pricing**.\n\n### Top Formal Shirt Brands Overview\n\n* **Raymond & Louis Philippe:** Best for premium corporate wear, leadership meetings, and traditional tailoring with high-end fabrics.[midvey.com](https://midvey.com/blogs/news/top-10-best-formal-shirt-brands-in-india-for-2026#:~:text=Louis%20Philippe%20is%20known%20for%20premium%20formal,with%20a%20strong%20focus%20on%20business%20dressing.)\n* **Van Heusen & Arrow:** Excellent for modern, sharp office styling, wrinkle-resistant materials, and everyday professional wear.[theformalclub.in](https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=Their%20shirts%20stand%20for%20power%20dressing%20and,suit%20the%20Indian%20weather%20and%20business%20environment.)\n* **Park Avenue & Blackberrys:** Great options for contemporary slim-fits, stylish details, and versatile transition from boardrooms to evening events.[theformalclub.in](https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=Peter%20England%20strikes%20a%20good%20balance%20between,by%20style-sensitive%20professionals.%20*%208.%20Park%20Avenue.)\n* **Peter England & The Formal Club:** Ideal choices for budget-conscious professionals, college graduates, and daily office wear that requires value.[theformalclub.in](https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=The%20brand%20focuses%20on%20making%20eco-friendly%20shirts,without%20compromising%20on%20fabric%20quality%20or%20style.)\n\nIf you prefer classic luxury and durability, go with **Raymond** or **Louis Philippe**. For a sharp, contemporary look on a balanced budget, **Van Heusen** or **Arrow** are fantastic choices.\n\nIf you like, I can help you filter these options by a specific budget range or preferred fabric type like pure cotton or wrinkle-free blends. Would you like me to do that?",
+      "sources": [
+       {
+        "type": "gemini_source",
+        "title": "Top 10 Best Formal Shirt Brands in India for 2026",
+        "snippet": "These brands offer everything from traditional styles to modern cuts. * 1. \nThe Formal Club (India) The Formal Club stands out as one of the best \nformal shirt br...",
+        "domain": "theformalclub.in",
+        "url": "https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=These%20brands%20offer%20everything%20from%20traditional%20styles,Shirt%20at%20Raymond.%20*%203.%20Louis%20Philippe.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRYURo0rcr0Ksg71PmdFmLi5rPZCoi4lE8JiA32ktIQOrsDRWU659HRTdLbrdAtw4HfnjmS_x56fVDle5cRwbYeX5yKfT4GquAVynE",
+        "source_name": "The Formal Club",
+        "publication_date": null,
+        "markdown": "When shopping for men's formal shirts in India, several top brands stand out for their quality fabrics, sharp fits, and durability suited to Indian corporate environments and weather conditions."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Top 10 Best Formal Shirt Brands in India for 2026 | Midvey",
+        "snippet": "Louis Philippe is known for premium formal shirts with elegant styling. The \nbrand suits professionals who want a more refined wardrobe and are willing \nto invest...",
+        "domain": "midvey.com",
+        "url": "https://midvey.com/blogs/news/top-10-best-formal-shirt-brands-in-india-for-2026#:~:text=Louis%20Philippe%20is%20known%20for%20premium%20formal,with%20a%20strong%20focus%20on%20business%20dressing.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQUQkgTfv8J8t0xXSLFyhBlCK0MnkxomgppyUV-ZE2lnyi5rUP7ebC78gDwNcxr9UXT8wY5iyoGQ4Sr0qMJh5RmiPBM2ZM",
+        "source_name": "Midvey",
+        "publication_date": null,
+        "markdown": "Best for premium corporate wear, leadership meetings, and traditional tailoring with high-end fabrics."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Top 10 Best Formal Shirt Brands in India for 2026",
+        "snippet": "Their shirts stand for power dressing and boast wrinkle-free tech, \ntop-notch giza shirts, and French-inspired elegance. * 4. Arrow. Arrow has \nmade its mark in I...",
+        "domain": "theformalclub.in",
+        "url": "https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=Their%20shirts%20stand%20for%20power%20dressing%20and,suit%20the%20Indian%20weather%20and%20business%20environment.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRYURo0rcr0Ksg71PmdFmLi5rPZCoi4lE8JiA32ktIQOrsDRWU659HRTdLbrdAtw4HfnjmS_x56fVDle5cRwbYeX5yKfT4GquAVynE",
+        "source_name": "The Formal Club",
+        "publication_date": null,
+        "markdown": "Excellent for modern, sharp office styling, wrinkle-resistant materials, and everyday professional wear."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Top 10 Best Formal Shirt Brands in India for 2026",
+        "snippet": "Peter England strikes a good balance between cost and style, making it \npopular among college grads and new professionals. They offer slim, \nregular, and relaxed ...",
+        "domain": "theformalclub.in",
+        "url": "https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=Peter%20England%20strikes%20a%20good%20balance%20between,by%20style-sensitive%20professionals.%20*%208.%20Park%20Avenue.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRYURo0rcr0Ksg71PmdFmLi5rPZCoi4lE8JiA32ktIQOrsDRWU659HRTdLbrdAtw4HfnjmS_x56fVDle5cRwbYeX5yKfT4GquAVynE",
+        "source_name": "The Formal Club",
+        "publication_date": null,
+        "markdown": "Great options for contemporary slim-fits, stylish details, and versatile transition from boardrooms to evening events."
+       },
+       {
+        "type": "gemini_source",
+        "title": "Top 10 Best Formal Shirt Brands in India for 2026",
+        "snippet": "The brand focuses on making eco-friendly shirts and comfy shirts without \nlosing their formal touch. * Best Formal Shirts Under ₹1999 in India. Not \neveryone want...",
+        "domain": "theformalclub.in",
+        "url": "https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=The%20brand%20focuses%20on%20making%20eco-friendly%20shirts,without%20compromising%20on%20fabric%20quality%20or%20style.",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRYURo0rcr0Ksg71PmdFmLi5rPZCoi4lE8JiA32ktIQOrsDRWU659HRTdLbrdAtw4HfnjmS_x56fVDle5cRwbYeX5yKfT4GquAVynE",
+        "source_name": "The Formal Club",
+        "publication_date": null,
+        "markdown": "Ideal choices for budget-conscious professionals, college graduates, and daily office wear that requires value."
+       }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 9,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "When shopping for men's formal shirts in India, several top brands stand out for their quality fabrics, sharp fits, and durability suited to Indian corporate environments and weather conditions.[theformalclub.in](https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=These%20brands%20offer%20everything%20from%20traditional%20styles,Shirt%20at%20Raymond.%20*%203.%20Louis%20Philippe.)",
+        "original_text": "When shopping for men's formal shirts in India, several top brands stand out for their quality fabrics, sharp fits, and durability suited to Indian corporate environments and weather conditions.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Top 10 Best Formal Shirt Brands in India for 2026",
+          "snippet": "These brands offer everything from traditional styles to modern cuts. * 1. \nThe Formal Club (India) The Formal Club stands out as one of the best \nformal shirt br...",
+          "domain": "theformalclub.in",
+          "url": "https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=These%20brands%20offer%20everything%20from%20traditional%20styles,Shirt%20at%20Raymond.%20*%203.%20Louis%20Philippe.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRYURo0rcr0Ksg71PmdFmLi5rPZCoi4lE8JiA32ktIQOrsDRWU659HRTdLbrdAtw4HfnjmS_x56fVDle5cRwbYeX5yKfT4GquAVynE",
+          "source_name": "The Formal Club",
+          "publication_date": null,
+          "markdown": "When shopping for men's formal shirts in India, several top brands stand out for their quality fabrics, sharp fits, and durability suited to Indian corporate environments and weather conditions."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "This Van Heusen shirt offers sharp corporate styling with a **breathable cotton build** and **modern slim fit**.",
+        "original_text": "This Van Heusen shirt offers sharp corporate styling with a breathable cotton build and modern slim fit.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "Known for polished workwear, Park Avenue features crisp **100% cotton** and a **refined cutaway collar**.",
+        "original_text": "Known for polished workwear, Park Avenue features crisp 100% cotton and a refined cutaway collar.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "Marks & Spencer provides luxury comfort through **non-iron technology** and **two-fold cotton fabric**.",
+        "original_text": "Marks & Spencer provides luxury comfort through non-iron technology and two-fold cotton fabric.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "The Formal Club delivers a great mix of **premium workplace styling** and **budget-friendly pricing**.",
+        "original_text": "The Formal Club delivers a great mix of premium workplace styling and budget-friendly pricing.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "### Top Formal Shirt Brands Overview",
+        "original_text": "Top Formal Shirt Brands Overview",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **Raymond & Louis Philippe:** Best for premium corporate wear, leadership meetings, and traditional tailoring with high-end fabrics.[midvey.com](https://midvey.com/blogs/news/top-10-best-formal-shirt-brands-in-india-for-2026#:~:text=Louis%20Philippe%20is%20known%20for%20premium%20formal,with%20a%20strong%20focus%20on%20business%20dressing.)\n* **Van Heusen & Arrow:** Excellent for modern, sharp office styling, wrinkle-resistant materials, and everyday professional wear.[theformalclub.in](https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=Their%20shirts%20stand%20for%20power%20dressing%20and,suit%20the%20Indian%20weather%20and%20business%20environment.)\n* **Park Avenue & Blackberrys:** Great options for contemporary slim-fits, stylish details, and versatile transition from boardrooms to evening events.[theformalclub.in](https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=Peter%20England%20strikes%20a%20good%20balance%20between,by%20style-sensitive%20professionals.%20*%208.%20Park%20Avenue.)\n* **Peter England & The Formal Club:** Ideal choices for budget-conscious professionals, college graduates, and daily office wear that requires value.[theformalclub.in](https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=The%20brand%20focuses%20on%20making%20eco-friendly%20shirts,without%20compromising%20on%20fabric%20quality%20or%20style.)",
+        "original_text": "Raymond & Louis Philippe: Best for premium corporate wear, leadership meetings, and traditional tailoring with high-end fabrics.\nVan Heusen & Arrow: Excellent for modern, sharp office styling, wrinkle-resistant materials, and everyday professional wear.\nPark Avenue & Blackberrys: Great options for contemporary slim-fits, stylish details, and versatile transition from boardrooms to evening events.\nPeter England & The Formal Club: Ideal choices for budget-conscious professionals, college graduates, and daily office wear that requires value.",
+        "sources": [
+         {
+          "type": "gemini_source",
+          "title": "Top 10 Best Formal Shirt Brands in India for 2026 | Midvey",
+          "snippet": "Louis Philippe is known for premium formal shirts with elegant styling. The \nbrand suits professionals who want a more refined wardrobe and are willing \nto invest...",
+          "domain": "midvey.com",
+          "url": "https://midvey.com/blogs/news/top-10-best-formal-shirt-brands-in-india-for-2026#:~:text=Louis%20Philippe%20is%20known%20for%20premium%20formal,with%20a%20strong%20focus%20on%20business%20dressing.",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQUQkgTfv8J8t0xXSLFyhBlCK0MnkxomgppyUV-ZE2lnyi5rUP7ebC78gDwNcxr9UXT8wY5iyoGQ4Sr0qMJh5RmiPBM2ZM",
+          "source_name": "Midvey",
+          "publication_date": null,
+          "markdown": "Best for premium corporate wear, leadership meetings, and traditional tailoring with high-end fabrics."
+         },
+         {
+          "type": "gemini_source",
+          "title": "Top 10 Best Formal Shirt Brands in India for 2026",
+          "snippet": "Their shirts stand for power dressing and boast wrinkle-free tech, \ntop-notch giza shirts, and French-inspired elegance. * 4. Arrow. Arrow has \nmade its mark in I...",
+          "domain": "theformalclub.in",
+          "url": "https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=Their%20shirts%20stand%20for%20power%20dressing%20and,suit%20the%20Indian%20weather%20and%20business%20environment.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRYURo0rcr0Ksg71PmdFmLi5rPZCoi4lE8JiA32ktIQOrsDRWU659HRTdLbrdAtw4HfnjmS_x56fVDle5cRwbYeX5yKfT4GquAVynE",
+          "source_name": "The Formal Club",
+          "publication_date": null,
+          "markdown": "Excellent for modern, sharp office styling, wrinkle-resistant materials, and everyday professional wear."
+         },
+         {
+          "type": "gemini_source",
+          "title": "Top 10 Best Formal Shirt Brands in India for 2026",
+          "snippet": "Peter England strikes a good balance between cost and style, making it \npopular among college grads and new professionals. They offer slim, \nregular, and relaxed ...",
+          "domain": "theformalclub.in",
+          "url": "https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=Peter%20England%20strikes%20a%20good%20balance%20between,by%20style-sensitive%20professionals.%20*%208.%20Park%20Avenue.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRYURo0rcr0Ksg71PmdFmLi5rPZCoi4lE8JiA32ktIQOrsDRWU659HRTdLbrdAtw4HfnjmS_x56fVDle5cRwbYeX5yKfT4GquAVynE",
+          "source_name": "The Formal Club",
+          "publication_date": null,
+          "markdown": "Great options for contemporary slim-fits, stylish details, and versatile transition from boardrooms to evening events."
+         },
+         {
+          "type": "gemini_source",
+          "title": "Top 10 Best Formal Shirt Brands in India for 2026",
+          "snippet": "The brand focuses on making eco-friendly shirts and comfy shirts without \nlosing their formal touch. * Best Formal Shirts Under ₹1999 in India. Not \neveryone want...",
+          "domain": "theformalclub.in",
+          "url": "https://theformalclub.in/blogs/blog/top-10-best-formal-shirt-brands-in-india#:~:text=The%20brand%20focuses%20on%20making%20eco-friendly%20shirts,without%20compromising%20on%20fabric%20quality%20or%20style.",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRYURo0rcr0Ksg71PmdFmLi5rPZCoi4lE8JiA32ktIQOrsDRWU659HRTdLbrdAtw4HfnjmS_x56fVDle5cRwbYeX5yKfT4GquAVynE",
+          "source_name": "The Formal Club",
+          "publication_date": null,
+          "markdown": "Ideal choices for budget-conscious professionals, college graduates, and daily office wear that requires value."
+         }
+        ]
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "If you prefer classic luxury and durability, go with **Raymond** or **Louis Philippe**. For a sharp, contemporary look on a balanced budget, **Van Heusen** or **Arrow** are fantastic choices.",
+        "original_text": "If you prefer classic luxury and durability, go with Raymond or Louis Philippe. For a sharp, contemporary look on a balanced budget, Van Heusen or Arrow are fantastic choices.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "If you like, I can help you filter these options by a specific budget range or preferred fabric type like pure cotton or wrinkle-free blends. Would you like me to do that?",
+        "original_text": "If you like, I can help you filter these options by a specific budget range or preferred fabric type like pure cotton or wrinkle-free blends. Would you like me to do that?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

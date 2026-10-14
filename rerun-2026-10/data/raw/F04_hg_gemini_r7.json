@@ -1,0 +1,182 @@
+{
+ "meta": {
+  "study": "hinglish-geo-study",
+  "promptsVersion": "1.1",
+  "promptId": "F04",
+  "category": "fashion",
+  "lang": "hg",
+  "engine": "gemini",
+  "rep": 7,
+  "promptText": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+  "cellId": "F04_hg_gemini_r7",
+  "startedAt": "2026-10-13T13:57:03.949Z",
+  "finishedAt": "2026-10-13T13:57:41.062Z",
+  "durationMs": 37113,
+  "attempt": 2,
+  "attemptsLog": [
+   {
+    "attempt": 1,
+    "startedAt": "2026-10-13T13:55:09.978Z",
+    "error": "This operation was aborted"
+   }
+  ],
+  "locationCode": 2356,
+  "countryIso": "IN"
+ },
+ "response": {
+  "text": "India mein men ke liye formal shirts ke liye kai behtareen brands available hain, jo alag-alag budget aur fit (jaise slim, regular) mein aate hain. Aap apni zaroorat aur budget ke hisaab se niche diye gaye brands mein se chunav kar sakte hain:\n\n---\n\n### 1. Premium & Luxury Brands (Office & Boardroom Meetings ke liye)\n\nAgar aapko premium fabric aur crisp professional look chahiye:\n\n* **Raymond:** Yeh India ke sabse trusted aur classic brands mein se ek hai. Inke fabrics (cotton, linen blends) aur formal shirts ka fit bahut shandar hota hai.\n* **Van Heusen:** Modern corporate style ke liye yeh ek behtareen brand hai. Inki shirts wrinkle-free aur contemporary designs mein aati hain.\n* **Louis Philippe:** Premium segment mein yeh ek aur bada naam hai, jo apni fine stitching aur luxurious feel ke liye jaana jaata hai.\n\n---\n\n### 2. Mid-Range & Value for Money Brands (Daily Office Wear ke liye)\n\nAgar aapko achhi quality ke saath budget-friendly options chahiye:\n\n* **Allen Solly:** Agar aap thoda smart-casual ya vibrant formal look pasand karte hain, toh Allen Solly ke patterns aur colors bahut acche hote hain.\n* **Peter England:** Yeh India ka sabse popular mid-range brand hai. Yeh pocket-friendly hone ke saath-saath everyday office wear ke liye durable bhi hain.\n* **Arrow:** Classic American style ke liye Arrow ki shirts office environment mein ek professional aur sharp look deti hain.\n\n---\n\n### 3. Contemporary & Trendy Brands\n\n* **Park Avenue:** Raymond group ka hi brand hai, jo contemporary corporate fashion par focus karta hai. Inke formal shirts ka comfort aur fitting bahut acchi hoti hai.\n* **blackberrys:** Modern cuts aur slim-fit formals ke liye yeh ek acha vikalp hai.\n\n---\n\n### 💡 Khareedte Waqt In Baato Ka Dhyan Rakhein:\n\n1.  **Fabric:** Garmi ke mausam ke liye **100% Cotton** ya **Linen-cotton blends** sabse best hote hain kyunki yeh skin ke liye breathable hote hain.\n2.  **Fit:** Agar aapki body slim hai toh **Slim Fit** chunhein, aur agar comfort zyada zaroori hai toh **Regular Fit** ya **Tailored Fit** behtar rahega.\n3.  **Collar Style:** Classic spread collar ya button-down collars professional meetings ke liye sabse sahi maane jaate hain.\n\nKya aapko kisi khaas budget (jaise 1500 ke andar ya 3000+ tak) ke hisaab se recommendation chahiye?",
+  "citations": [],
+  "costUsd": 0.004
+ },
+ "rawApi": {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "36.2032 sec.",
+  "cost": 0.004,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10131357-2163-0629-0000-244b42c748fa",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "36.1323 sec.",
+    "cost": 0.004,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "ai_optimization",
+     "gemini",
+     "llm_scraper",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "ai_optimization",
+     "function": "live",
+     "se": "gemini",
+     "keyword": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+     "location_code": 2356,
+     "language_code": "en",
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "India mein men ke liye konse brand ki formal shirts kharidni chahiye?",
+      "location_code": 2356,
+      "language_code": "en",
+      "model": "3.5 Flash-Lite",
+      "datetime": "2026-10-13 13:57:42 +00:00",
+      "markdown": "India mein men ke liye formal shirts ke liye kai behtareen brands available hain, jo alag-alag budget aur fit (jaise slim, regular) mein aate hain. Aap apni zaroorat aur budget ke hisaab se niche diye gaye brands mein se chunav kar sakte hain:\n\n---\n\n### 1. Premium & Luxury Brands (Office & Boardroom Meetings ke liye)\n\nAgar aapko premium fabric aur crisp professional look chahiye:\n\n* **Raymond:** Yeh India ke sabse trusted aur classic brands mein se ek hai. Inke fabrics (cotton, linen blends) aur formal shirts ka fit bahut shandar hota hai.\n* **Van Heusen:** Modern corporate style ke liye yeh ek behtareen brand hai. Inki shirts wrinkle-free aur contemporary designs mein aati hain.\n* **Louis Philippe:** Premium segment mein yeh ek aur bada naam hai, jo apni fine stitching aur luxurious feel ke liye jaana jaata hai.\n\n---\n\n### 2. Mid-Range & Value for Money Brands (Daily Office Wear ke liye)\n\nAgar aapko achhi quality ke saath budget-friendly options chahiye:\n\n* **Allen Solly:** Agar aap thoda smart-casual ya vibrant formal look pasand karte hain, toh Allen Solly ke patterns aur colors bahut acche hote hain.\n* **Peter England:** Yeh India ka sabse popular mid-range brand hai. Yeh pocket-friendly hone ke saath-saath everyday office wear ke liye durable bhi hain.\n* **Arrow:** Classic American style ke liye Arrow ki shirts office environment mein ek professional aur sharp look deti hain.\n\n---\n\n### 3. Contemporary & Trendy Brands\n\n* **Park Avenue:** Raymond group ka hi brand hai, jo contemporary corporate fashion par focus karta hai. Inke formal shirts ka comfort aur fitting bahut acchi hoti hai.\n* **blackberrys:** Modern cuts aur slim-fit formals ke liye yeh ek acha vikalp hai.\n\n---\n\n### 💡 Khareedte Waqt In Baato Ka Dhyan Rakhein:\n\n1.  **Fabric:** Garmi ke mausam ke liye **100% Cotton** ya **Linen-cotton blends** sabse best hote hain kyunki yeh skin ke liye breathable hote hain.\n2.  **Fit:** Agar aapki body slim hai toh **Slim Fit** chunhein, aur agar comfort zyada zaroori hai toh **Regular Fit** ya **Tailored Fit** behtar rahega.\n3.  **Collar Style:** Classic spread collar ya button-down collars professional meetings ke liye sabse sahi maane jaate hain.\n\nKya aapko kisi khaas budget (jaise 1500 ke andar ya 3000+ tak) ke hisaab se recommendation chahiye?",
+      "sources": null,
+      "se_results_count": 0,
+      "item_types": [
+       "gemini_text"
+      ],
+      "items_count": 12,
+      "items": [
+       {
+        "type": "gemini_text",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "markdown": "India mein men ke liye formal shirts ke liye kai behtareen brands available hain, jo alag-alag budget aur fit (jaise slim, regular) mein aate hain. Aap apni zaroorat aur budget ke hisaab se niche diye gaye brands mein se chunav kar sakte hain:",
+        "original_text": "India mein men ke liye formal shirts ke liye kai behtareen brands available hain, jo alag-alag budget aur fit (jaise slim, regular) mein aate hain. Aap apni zaroorat aur budget ke hisaab se niche diye gaye brands mein se chunav kar sakte hain:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "markdown": "### 1. Premium & Luxury Brands (Office & Boardroom Meetings ke liye)",
+        "original_text": "1. Premium & Luxury Brands (Office & Boardroom Meetings ke liye)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "markdown": "Agar aapko premium fabric aur crisp professional look chahiye:",
+        "original_text": "Agar aapko premium fabric aur crisp professional look chahiye:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "markdown": "* **Raymond:** Yeh India ke sabse trusted aur classic brands mein se ek hai. Inke fabrics (cotton, linen blends) aur formal shirts ka fit bahut shandar hota hai.\n* **Van Heusen:** Modern corporate style ke liye yeh ek behtareen brand hai. Inki shirts wrinkle-free aur contemporary designs mein aati hain.\n* **Louis Philippe:** Premium segment mein yeh ek aur bada naam hai, jo apni fine stitching aur luxurious feel ke liye jaana jaata hai.",
+        "original_text": "Raymond: Yeh India ke sabse trusted aur classic brands mein se ek hai. Inke fabrics (cotton, linen blends) aur formal shirts ka fit bahut shandar hota hai.\nVan Heusen: Modern corporate style ke liye yeh ek behtareen brand hai. Inki shirts wrinkle-free aur contemporary designs mein aati hain.\nLouis Philippe: Premium segment mein yeh ek aur bada naam hai, jo apni fine stitching aur luxurious feel ke liye jaana jaata hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "markdown": "### 2. Mid-Range & Value for Money Brands (Daily Office Wear ke liye)",
+        "original_text": "2. Mid-Range & Value for Money Brands (Daily Office Wear ke liye)",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "markdown": "Agar aapko achhi quality ke saath budget-friendly options chahiye:",
+        "original_text": "Agar aapko achhi quality ke saath budget-friendly options chahiye:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "markdown": "* **Allen Solly:** Agar aap thoda smart-casual ya vibrant formal look pasand karte hain, toh Allen Solly ke patterns aur colors bahut acche hote hain.\n* **Peter England:** Yeh India ka sabse popular mid-range brand hai. Yeh pocket-friendly hone ke saath-saath everyday office wear ke liye durable bhi hain.\n* **Arrow:** Classic American style ke liye Arrow ki shirts office environment mein ek professional aur sharp look deti hain.",
+        "original_text": "Allen Solly: Agar aap thoda smart-casual ya vibrant formal look pasand karte hain, toh Allen Solly ke patterns aur colors bahut acche hote hain.\nPeter England: Yeh India ka sabse popular mid-range brand hai. Yeh pocket-friendly hone ke saath-saath everyday office wear ke liye durable bhi hain.\nArrow: Classic American style ke liye Arrow ki shirts office environment mein ek professional aur sharp look deti hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "markdown": "### 3. Contemporary & Trendy Brands",
+        "original_text": "3. Contemporary & Trendy Brands",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "markdown": "* **Park Avenue:** Raymond group ka hi brand hai, jo contemporary corporate fashion par focus karta hai. Inke formal shirts ka comfort aur fitting bahut acchi hoti hai.\n* **blackberrys:** Modern cuts aur slim-fit formals ke liye yeh ek acha vikalp hai.",
+        "original_text": "Park Avenue: Raymond group ka hi brand hai, jo contemporary corporate fashion par focus karta hai. Inke formal shirts ka comfort aur fitting bahut acchi hoti hai.\nblackberrys: Modern cuts aur slim-fit formals ke liye yeh ek acha vikalp hai.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "markdown": "### 💡 Khareedte Waqt In Baato Ka Dhyan Rakhein:",
+        "original_text": "💡 Khareedte Waqt In Baato Ka Dhyan Rakhein:",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "markdown": "1.  **Fabric:** Garmi ke mausam ke liye **100% Cotton** ya **Linen-cotton blends** sabse best hote hain kyunki yeh skin ke liye breathable hote hain.\n2.  **Fit:** Agar aapki body slim hai toh **Slim Fit** chunhein, aur agar comfort zyada zaroori hai toh **Regular Fit** ya **Tailored Fit** behtar rahega.\n3.  **Collar Style:** Classic spread collar ya button-down collars professional meetings ke liye sabse sahi maane jaate hain.",
+        "original_text": "Fabric: Garmi ke mausam ke liye 100% Cotton ya Linen-cotton blends sabse best hote hain kyunki yeh skin ke liye breathable hote hain.\nFit: Agar aapki body slim hai toh Slim Fit chunhein, aur agar comfort zyada zaroori hai toh Regular Fit ya Tailored Fit behtar rahega.\nCollar Style: Classic spread collar ya button-down collars professional meetings ke liye sabse sahi maane jaate hain.",
+        "sources": null
+       },
+       {
+        "type": "gemini_text",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "markdown": "Kya aapko kisi khaas budget (jaise 1500 ke andar ya 3000+ tak) ke hisaab se recommendation chahiye?",
+        "original_text": "Kya aapko kisi khaas budget (jaise 1500 ke andar ya 3000+ tak) ke hisaab se recommendation chahiye?",
+        "sources": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

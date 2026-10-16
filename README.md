@@ -7,7 +7,7 @@ Open research on AI answer-engine visibility in Indian language contexts: which 
 
 Run by [Depra Research](https://depra.ai). Every raw response, script, prompt, seed, and decision log is public, so anyone can recompute the results rather than take them on trust.
 
-**Study 01: Same question, different brands.** Ten brand-unaided purchase-intent prompts (5 skincare, 5 fashion), each an independently reviewed semantically equivalent English/Hinglish pair, run 8 times per language against ChatGPT, Gemini, and Perplexity, geolocated to India, in a single 57-minute window on 2026-08-14. 480 responses. Full write-up: [`REPORT.md`](REPORT.md).
+**Study 01: Same question, different brands.** Ten brand-unaided purchase-intent prompts (5 skincare, 5 fashion), each an independently reviewed semantically equivalent English/Hinglish pair, run 8 times per language against ChatGPT, Gemini, and Perplexity in a single 57-minute window on 2026-08-14. ChatGPT with web search and Gemini used India-geolocated consumer-UI captures via DataForSEO; Perplexity used the Sonar API with live web search localized to India. 480 responses. Full write-up: [`REPORT.md`](REPORT.md).
 
 ## Re-run, October 2026
 
@@ -116,7 +116,7 @@ Fresh collection will not reproduce the published digest, and it should not. Eng
 
 Stated in full in [`REPORT.md`](REPORT.md) section 8. The ones that most bound interpretation:
 
-Ten prompts in two categories. Results generalize to these prompt classes, not to Indian buying queries at large; per-prompt deltas vary widely, which is why inference is paired at the prompt level. One fieldwork window, so this is a snapshot and engines drift. One Hinglish register (urban, romanized, 43-69% code-mix density), so Devanagari Hindi and other Indian languages are untested. Logged-out default surfaces, so personalized results may differ. Citations are displayed sources, not verified evidence: prior work (Liu et al., Findings of EMNLP 2023) finds roughly a quarter of generative-engine citations fail to support the sentence they are attached to.
+Ten prompts in two categories. Results generalize to these prompt classes, not to Indian buying queries at large; per-prompt deltas vary widely, which is why inference is paired at the prompt level. Two fieldwork windows, in August and October 2026, so these are snapshots and engines drift. One Hinglish register (urban, romanized, 43-69% code-mix density), so Devanagari Hindi and other Indian languages are untested. Logged-out default ChatGPT/Gemini captures and Perplexity Sonar API responses may differ from personalized consumer results. Citations are displayed sources, not verified evidence: prior work (Liu et al., Findings of EMNLP 2023) finds roughly a quarter of generative-engine citations fail to support the sentence they are attached to.
 
 Brand labels come from a curated lexicon and are bounded by its completeness. Twenty-six brand names collide with common English or Hindi words and are matched case-sensitively for that reason. That rule is conservative and load-bearing: relaxing it to case-insensitive matching inflates the ChatGPT gap from 2.2 to 13.7 points through Hinglish false positives. The instrument understates rather than manufactures the effect.
 
@@ -137,7 +137,7 @@ Planned, not done. Nothing below has been collected or analyzed.
 
 - Other Indian languages and scripts, including Devanagari Hindi against romanized Hinglish for the same prompts, to test whether script or language drives the effect
 - More categories beyond skincare and fashion, and higher-consideration purchases
-- Longitudinal re-runs of the frozen v1.1 prompt set to measure drift over months
+- Further longitudinal re-runs of the frozen v1.1 prompt set to measure drift over months
 - A design that separates retrieval from generation, which this study cannot do
 - Wider prompt sets to move from "these prompt classes" toward category-level claims
 
@@ -147,7 +147,7 @@ Issues and pull requests are welcome, particularly replications that disagree wi
 
 Machine-readable metadata is in [`CITATION.cff`](CITATION.cff).
 
-> Depra Research (2026). *IndicGEO Study 01: Same question, different brands. English versus Hinglish buying prompts across ChatGPT, Gemini, and Perplexity in India* (Version 1.0.0) [Data set]. https://github.com/ifham001/IndicGEO
+> Depra Research (2026). *IndicGEO Study 01: Same question, different brands. English versus Hinglish buying prompts across ChatGPT, Gemini, and Perplexity in India* (Version 1.1.0) [Data set]. https://github.com/ifham001/IndicGEO
 
 ```bibtex
 @misc{depra2026indicgeo,
@@ -156,7 +156,7 @@ Machine-readable metadata is in [`CITATION.cff`](CITATION.cff).
                   Gemini, and Perplexity in India},
   author       = {{Depra Research}},
   year         = {2026},
-  version      = {1.0.0},
+  version      = {1.1.0},
   howpublished = {\url{https://github.com/ifham001/IndicGEO}},
   note         = {Code MIT, data CC BY 4.0}
 }
